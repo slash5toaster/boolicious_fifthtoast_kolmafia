@@ -1,0 +1,875 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+September 15, 2011 - Porktober 5
+
+Ronald: full moon
+Grimace: third quarter
+Mini-moon: front center
+
+Halloween: 3 days
+Feast of Boris: 10 days
+Yuletide: 15 days
+Festival of Jarlsberg: 20 days
+Valentine's Day: 31 days
+St. Sneaky Pete's Day: 38 days
+Oyster Egg Day: 45 days
+El Dia De Los Muertos Borrachos: 53 days
+Generic Summer Holiday: 62 days
+Dependence Day: 71 days
+Arrrbor Day: 79 days
+Lab&oacute;r Day: 89 days
+
+
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 10
+HP: 180 / 180
+MP: 103 / 103
+
+Mus: 95 (85), tnp = 70
+Mys: 83 (63), tnp = 35
+Mox: 75 (64), tnp = 92
+
+Advs: 34
+Meat: 2,134
+Drunk: 0
+
+
+ > equipment
+
+Hat: cornuthaum
+Weapon: (none)
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin harem pants
+
+Acc. 1: lucky rabbit's foot
+Acc. 2: orange leather lanyard
+Acc. 3: heart of the volcano
+
+Pet: Cocoabo (30 lbs)
+Item: chocolate spurs
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Ghostly Shell
+ - Headbutt
+ - Patience of the Tortoise
+ - Skin of the Leatherback
+ - Toss
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+
+ > effects
+
+2 of 3 AT buffs active.
+Brother Flying Burrito's Blessing (12)
+Retrograde Relaxation (129)
+Scarysauce (156)
+♫ Stevedave's Shanty of Superiority (156)
+Jingle Jangle Jingle (156)
+Ghostly Shell (156)
+Jabañero Saucesphere (156)
+Tenacity of the Snapper (156)
+Reptilian Fortitude (156)
+Jalapeño Saucesphere (156)
+Astral Shell (156)
+Elemental Saucesphere (156)
+♫ The Magical Mojomuscular Melody (161)
+Patience of the Tortoise (237)
+Salamanderenity (264)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +27.00%
+Item: +7.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[1311] Haiku Dungeon
+Encounter: Haiku Dungeon in the It's About Damn Time:
+You acquire an item: red paperclip
+
+[1312] Ninja Snowmen
+Encounter: Tang Lung, the Ninja Snowman:
+You acquire an item: really big tiny house
+
+[1313] Fantasy Airship
+Encounter: Mist Angst, the Protagonist:
+You acquire an item: Non-Essential Amulet
+
+[1314] Whitey's Grove
+Encounter: Gannongast, the White Wizard:
+You acquire an item: white wine vinaigrette
+
+[1315] Spooky Forest
+Encounter: Arboreal Respite
+choice.php?pwd&whichchoice=502&option=2
+Encounter: Consciousness of a Stream
+choice.php?pwd&whichchoice=505&option=3
+Encounter: An Interesting Choice
+choice.php?pwd&whichchoice=46&option=3
+Encounter: spooky vampire
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts STINKPALM!
+Round 2: spooky vampire takes 140 damage.
+Round 2: boolicious wins the fight!
+You gain 6 Meat
+You gain 2 Beefiness
+
+[1316] Spooky Forest
+Encounter: spooky mummy
+Round 0: boolicious wins initiative!
+Round 2: boolicious casts RETURN!
+Round 3: boolicious attacks!
+Round 4: spooky mummy takes 43 damage.
+Round 4: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 33 damage.
+Round 4: spooky mummy takes 33 damage.
+Round 4: boolicious wins the fight!
+You gain 11 Meat
+You acquire an item: spooky shrunken head
+You gain 2 Magicalness
+
+[1317] Hippy Camp
+Encounter: Ethereal Koi Blossom, the Vegan Hippy Chef:
+You acquire an item: cup of strong herbal tea
+
+[1318] Noob Cave
+Encounter: Glorificus Steinemus, the Ancient Wise Woman:
+You acquire an item: Curiously Shiny Ancient Evil-Bashing Axe
+
+[1319] Spooky Forest
+Encounter: Cindy, the Vampire Slayer:
+You acquire an item: marinated stakes
+
+[1320] Cobb's Knob Kitchens
+Encounter: Kevin'x, the Knob Goblin Chef:
+You acquire an item: knob butter
+
+[1321] Pandamonium Slums
+Encounter: Fallen Archfiend
+Round 0: boolicious loses initiative!
+Round 1: boolicious casts STINKPALM!
+Round 2: fallen archfiend takes 134 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 2: fallen archfiend drops 11 attack power.
+Round 2: fallen archfiend drops 11 defense.
+Round 2: boolicious wins the fight!
+You gain 13 Meat
+You acquire an item: evil golden arch
+You gain 8 Strengthliness
+You gain 5 Wizardliness
+You gain 2 Chutzpah
+
+trading 1 worthless item for 1 ten-leaf clover
+You acquire an item: ten-leaf clover
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+take from closet: 1 seal-clubbing club
+You acquire an item: seal-clubbing club
+
+take from closet: 1 turtle totem
+You acquire an item: turtle totem
+
+take from closet: 1 pasta spoon
+You acquire an item: pasta spoon
+
+take from closet: 1 saucepan
+You acquire an item: saucepan
+
+take from closet: 1 stolen accordion
+You acquire an item: stolen accordion
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+buy 1 hermit permit for 100 each from Market Demon
+You acquire an item: hermit permit
+You spent 100 Meat
+
+trading 1 worthless item for 1 ten-leaf clover
+You acquire an item: ten-leaf clover
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+[1322] Hippy Camp
+Encounter: dirty hippy
+Round 0: boolicious loses initiative!
+Round 1: boolicious casts STINKPALM!
+Round 2: dirty hippy takes 1 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  She looks a little bit confused. LIMIT BREAK!
+Round 2: dirty hippy drops 21 attack power.
+Round 2: dirty hippy drops 21 defense.
+Round 2: boolicious casts STINKPALM!
+Round 3: dirty hippy takes 1 damage.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing her for 33 damage.
+Round 3: dirty hippy takes 33 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: filthy knitted dread sack
+You gain 5 Strengthliness
+You gain 3 Mysteriousness
+You gain 3 Smarm
+
+[1323] Post-Cyrpt Cemetary
+Encounter: Rick, the Slick Lihc:
+You acquire an item: vial of ectoplasm
+
+[1324] Haunted Library
+Encounter: Alice, the Ghostly Librarian:
+You acquire an item: boock of darck magicks
+
+[1325] Pandamonium Slums
+Encounter: Marble, the Archfiend:
+You acquire an item: EZ-Play Harmonica Book
+
+[1326] Sleazy Back Alley
+Encounter: All-but-Dissertation Tucker Dummychuck, the Fingerless Hobo:
+You acquire an item: fingerless hobo gloves
+
+[1327] eXtreme Slope
+Encounter: Gn8than, the Sk8 Gnome:
+You acquire an item: Chomsky's comic books
+
+gnomes.php?place=elder
+You acquire an item: Gnomitronic Hyperspatial Demodulizer
+outfit Knob Goblin Harem Girl Disguise
+
+[1328] Cobb's Knob Treasury
+Encounter: Just Tryin' to Get Paid
+outfit eXtreme Cold-Weather Gear
+
+eat 1 dehydrated caviar
+You gain 2 Adventures
+You gain 17 Sarcasm
+
+eat 1 grue egg omelette
+You gain 23 Adventures
+You gain 49 Beefiness
+You gain 47 Wizardliness
+You gain a Mysticality point!
+You gain 42 Chutzpah
+
+eat 1 jumping bean taco
+You gain 2 Adventures
+You gain 4 Roguishness
+
+eat 1 purple pixel pie
+You gain 3 Adventures
+You gain 19 Muscleboundness
+You gain a Muscle point!
+You gain 18 Magicalness
+You gain 12 Cheek
+
+eat 1 fortune cookie
+You gain 1 Adventure
+Lucky numbers: 293, 43, 2
+
+eat 1 ghuol guolash
+You gain 5 Adventures
+You lose 14 Beefiness
+You lose 12 Wizardliness
+You lose 17 Sarcasm
+
+drink 1 martini
+You gain 6 Adventures
+You gain 8 Chutzpah
+You gain 3 Drunkenness
+
+drink 1 whiskey sour
+You gain 5 Adventures
+You gain 9 Beefiness
+You gain a Muscle point!
+You gain 3 Drunkenness
+
+drink 1 bloody beer
+You gain 2 Adventures
+You gain 4 Muscularity Points
+You gain 1 Drunkenness
+
+drink 1 Beignet Milgranet
+You gain 3 Adventures
+You gain 29 Strongness
+You gain 25 Mysteriousness
+You gain 10 Smarm
+You acquire an effect: Sugar Rush (duration: 100 Adventures)
+You gain 1 Drunkenness
+
+drink 1 shot of rotgut
+You gain 3 Adventures
+You gain 13 Fortitude
+You gain 15 Magicalness
+You gain 10 Roguishness
+You lose 24 hit points
+You gain 1 Drunkenness
+
+drink 1 melted Jell-o shot
+You gain 4 Adventures
+You gain 44 Mysteriousness
+You gain 1 Drunkenness
+
+drink 1 Fromage Pinotage
+You gain 5 Adventures
+You gain 72 Enchantedness
+You gain a Mysticality point!
+You acquire an effect: Some Cheese with Your Wine (duration: 20 Adventures)
+You gain 1 Drunkenness
+
+[1328] Fantasy Airship
+Encounter: Irritating Series of Random Encounters
+Round 0: boolicious loses initiative!
+Round 1: irritating series of random encounters takes 3 damage.
+Round 1: irritating series of random encounters takes 6 damage.
+Round 1: irritating series of random encounters takes 5 damage.
+You lose 18 hit points
+Round 1: boolicious casts STINKPALM!
+Round 2: irritating series of random encounters takes 65 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing them for 32 damage.
+Round 2: irritating series of random encounters takes 32 damage.
+Round 2: boolicious wins the fight!
+You gain 11 Meat
+You gain 11 Strongness
+You gain 8 Wizardliness
+You gain 9 Roguishness
+You gain a Moxie point!
+
+[1329] Fantasy Airship
+Encounter: Gesundheitgeist!
+You acquire an item: Tissue Paper Immateria
+
+[1330] Fantasy Airship
+Encounter: Spunky Princess
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spunky princess takes 60 damage.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 37 hit points
+You gain 37 Muscularity Points
+Round 2: spunky princess takes 2 damage.
+Round 2: spunky princess takes 7 damage.
+Round 2: spunky princess takes 3 damage.
+You lose 12 hit points
+Round 2: boolicious casts STINKPALM!
+Round 3: spunky princess takes 66 damage.
+Round 3: boolicious wins the fight!
+You gain 11 Meat
+You gain 15 Strongness
+You gain 8 Wizardliness
+You gain 4 Smarm
+
+[1331] Fantasy Airship
+Encounter: Irritating Series of Random Encounters
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts STINKPALM!
+Round 2: irritating series of random encounters takes 69 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing them for 33 damage.
+Round 2: irritating series of random encounters takes 33 damage.
+Round 2: irritating series of random encounters takes 1 damage.
+Round 2: irritating series of random encounters takes 7 damage.
+Round 2: irritating series of random encounters takes 4 damage.
+You lose 21 hit points
+Round 2: boolicious wins the fight!
+You gain 15 Meat
+You acquire an item: cocoa eggshell fragment
+You gain 14 Muscleboundness
+You gain 8 Enchantedness
+You gain 9 Chutzpah
+
+Cook 1 cocoa eggshell fragment + 1 cocoa eggshell fragment
+You acquire an item: large cocoa eggshell fragment
+Crafting used 1 each of cocoa eggshell fragment and cocoa eggshell fragment
+
+Cook 1 cocoa eggshell fragment + 1 cocoa eggshell fragment
+
+[1332] Fantasy Airship
+Encounter: Random Lack of an Encounter
+choice.php?pwd&whichchoice=182&option=2
+You acquire an item: Penultimate Fantasy chest
+
+use 1 Penultimate Fantasy chest
+You acquire an item: soft green echo eyedrop antidote
+You acquire phonics down (2)
+
+[1333] Fantasy Airship
+Encounter: MagiMechTech MechaMech
+Round 0: boolicious loses initiative!
+Round 1: magimechtech mechamech takes 1 damage.
+Round 1: magimechtech mechamech takes 2 damage.
+Round 1: magimechtech mechamech takes 4 damage.
+You lose 32 hit points
+Round 1: boolicious casts SEVEN-FINGER STRIKE!
+Round 2: magimechtech mechamech takes 9 damage.
+Round 2: magimechtech mechamech takes 11 damage.
+Round 2: magimechtech mechamech takes 10 damage.
+Round 2: magimechtech mechamech takes 9 damage.
+Round 2: magimechtech mechamech takes 10 damage.
+Round 2: magimechtech mechamech takes 10 damage.
+Round 2: magimechtech mechamech takes 10 damage.
+Round 2: magimechtech mechamech takes 1 damage.
+Round 2: magimechtech mechamech takes 4 damage.
+Round 2: magimechtech mechamech takes 5 damage.
+You lose 32 hit points
+Round 2: boolicious casts SEVEN-FINGER STRIKE!
+Round 3: magimechtech mechamech takes 10 damage.
+Round 3: magimechtech mechamech takes 11 damage.
+Round 3: magimechtech mechamech takes 10 damage.
+Round 3: magimechtech mechamech takes 9 damage.
+Round 3: magimechtech mechamech takes 10 damage.
+Round 3: magimechtech mechamech takes 9 damage.
+Round 3: magimechtech mechamech takes 9 damage.
+Round 3: boolicious wins the fight!
+You gain 25 Beefiness
+You gain 8 Mysteriousness
+You gain 4 Roguishness
+
+[1334] Fantasy Airship
+Encounter: Spunky Princess
+Round 0: boolicious loses initiative!
+Round 1: spunky princess takes 2 damage.
+Round 1: spunky princess takes 2 damage.
+Round 1: spunky princess takes 3 damage.
+You lose 13 hit points
+Round 1: boolicious casts SEVEN-FINGER STRIKE!
+Round 2: spunky princess takes 11 damage.
+Round 2: spunky princess takes 10 damage.
+Round 2: spunky princess takes 10 damage.
+Round 2: spunky princess takes 11 damage.
+Round 2: spunky princess takes 11 damage.
+Round 2: spunky princess takes 10 damage.
+Round 2: spunky princess takes 11 damage.
+Round 2: boolicious wins the fight!
+You gain 10 Meat
+You gain 13 Strongness
+You gain 4 Mysteriousness
+You gain 9 Roguishness
+
+[1335] Fantasy Airship
+Encounter: Quiet Healer
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SEVEN-FINGER STRIKE!
+Round 2: quiet healer takes 10 damage.
+Round 2: quiet healer takes 10 damage.
+Round 2: quiet healer takes 9 damage.
+Round 2: quiet healer takes 10 damage.
+Round 2: quiet healer takes 10 damage.
+Round 2: quiet healer takes 11 damage.
+Round 2: quiet healer takes 10 damage.
+Round 2: quiet healer takes 2 damage.
+Round 2: quiet healer takes 3 damage.
+Round 2: quiet healer takes 3 damage.
+You lose 17 hit points
+Round 2: boolicious attacks!
+Round 3: quiet healer takes 60 damage.
+Round 3: boolicious wins the fight!
+You gain 11 Meat
+You gain 16 Fortitude
+You gain 10 Enchantedness
+You gain 3 Smarm
+
+[1336] Fantasy Airship
+Encounter: Don't Chew on That Spirit!
+You acquire an item: Tin Foil Immateria
+
+[1337] Fantasy Airship
+Encounter: Random Lack of an Encounter
+choice.php?pwd&whichchoice=182&option=2
+You acquire an item: Penultimate Fantasy chest
+
+[1338] Fantasy Airship
+Encounter: The Most Absorbent Spirit Ever
+You acquire an item: Gauze Immateria
+
+[1339] Fantasy Airship
+Encounter: Burly Sidekick
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: burly sidekick takes 60 damage.
+Round 2: burly sidekick takes 3 damage.
+Round 2: burly sidekick takes 2 damage.
+Round 2: burly sidekick takes 4 damage.
+You lose 15 hit points
+Round 2: boolicious casts SEVEN-FINGER STRIKE!
+Round 3: burly sidekick takes 10 damage.
+Round 3: burly sidekick takes 10 damage.
+Round 3: burly sidekick takes 10 damage.
+Round 3: burly sidekick takes 10 damage.
+Round 3: burly sidekick takes 10 damage.
+Round 3: burly sidekick takes 10 damage.
+Round 3: burly sidekick takes 11 damage.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 3: burly sidekick drops 10 attack power.
+Round 3: burly sidekick drops 10 defense.
+Round 3: boolicious wins the fight!
+You gain 12 Meat
+You acquire an item: tiny house
+You gain 15 Beefiness
+You gain 9 Enchantedness
+You gain 4 Sarcasm
+
+[1340] Fantasy Airship
+Encounter: Irritating Series of Random Encounters
+Round 0: boolicious loses initiative!
+Round 1: irritating series of random encounters takes 2 damage.
+Round 1: irritating series of random encounters takes 2 damage.
+Round 1: irritating series of random encounters takes 3 damage.
+You lose 22 hit points
+Round 1: boolicious casts SEVEN-FINGER STRIKE!
+Round 2: irritating series of random encounters takes 10 damage.
+Round 2: irritating series of random encounters takes 10 damage.
+Round 2: irritating series of random encounters takes 9 damage.
+Round 2: irritating series of random encounters takes 10 damage.
+Round 2: irritating series of random encounters takes 11 damage.
+Round 2: irritating series of random encounters takes 10 damage.
+Round 2: irritating series of random encounters takes 11 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing them for 64 damage. LIMIT BREAK!
+Round 2: irritating series of random encounters takes 64 damage.
+Round 2: boolicious wins the fight!
+You gain 11 Meat
+You acquire an item: soft green echo eyedrop antidote
+You acquire an item: tiny house
+You gain 9 Muscleboundness
+You gain 9 Enchantedness
+You gain 11 Chutzpah
+
+[1341] Fantasy Airship
+Encounter: Random Lack of an Encounter
+choice.php?pwd&whichchoice=182&option=1
+Encounter: Protagonist
+Round 0: boolicious loses initiative!
+Round 1: protagonist takes 1 damage.
+Round 1: protagonist takes 4 damage.
+Round 1: protagonist takes 5 damage.
+You lose 19 hit points
+You acquire an effect: Temporary Amnesia (duration: 5 Adventures)
+
+uneffect Temporary Amnesia
+Round 1: boolicious attacks!
+Round 2: protagonist takes 60 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 32 damage.
+Round 2: protagonist takes 32 damage.
+Round 2: boolicious wins the fight!
+You gain 11 Meat
+You gain 16 Muscleboundness
+You gain a Muscle point!
+You gain 5 Mysteriousness
+You gain 8 Smarm
+
+[1342] Fantasy Airship
+Encounter: MagiMechTech MechaMech
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: magimechtech mechamech takes 2 damage.
+Round 2: magimechtech mechamech takes 2 damage.
+Round 2: magimechtech mechamech takes 5 damage.
+You lose 29 hit points
+Round 2: boolicious casts CLEESH!
+Round 3: boolicious casts FLYING FIRE FIST!
+Round 4: boolicious attacks!
+Round 5: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 5: magimechtech mechamech drops 11 attack power.
+Round 5: magimechtech mechamech drops 11 defense.
+Round 5: magimechtech mechamech takes 1 damage.
+Round 5: magimechtech mechamech takes 10 damage.
+Round 5: magimechtech mechamech takes 5 damage.
+You lose 24 hit points
+
+uneffect Temporary Amnesia
+Round 5: boolicious attacks!
+Round 6: magimechtech mechamech takes 60 damage.
+Round 6: magimechtech mechamech takes 2 damage.
+Round 6: magimechtech mechamech takes 4 damage.
+Round 6: magimechtech mechamech takes 4 damage.
+You lose 24 hit points
+Round 6: boolicious uses the meat vortex!
+Round 7: magimechtech mechamech takes 2 damage.
+Round 7: magimechtech mechamech takes 10 damage.
+Round 7: magimechtech mechamech takes 3 damage.
+You lose 23 hit points
+Round 7: boolicious wins the fight!
+You acquire an item: photoprotoneutron torpedo
+You gain 13 Strongness
+You gain 8 Wizardliness
+You gain a Mysticality point!
+You gain 12 Sarcasm
+
+[1343] Fantasy Airship
+Encounter: Protagonist
+Round 0: boolicious loses initiative!
+Round 1: protagonist takes 1 damage.
+Round 1: protagonist takes 9 damage.
+Round 1: protagonist takes 4 damage.
+You lose 17 hit points
+Round 1: boolicious uses the big boom!
+Round 2: protagonist takes 119 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 32 damage.
+Round 2: protagonist takes 32 damage.
+Round 2: boolicious wins the fight!
+You gain 11 Meat
+You acquire an item: ocarina of space
+You gain 16 Strengthliness
+You gain 7 Wizardliness
+You gain 7 Chutzpah
+
+[1344] Fantasy Airship
+Encounter: Irritating Series of Random Encounters
+Round 0: boolicious loses initiative!
+Round 1: irritating series of random encounters takes 3 damage.
+Round 1: irritating series of random encounters takes 3 damage.
+Round 1: irritating series of random encounters takes 5 damage.
+You lose 18 hit points
+
+uneffect Beaten Up
+
+use 1 Pokëmann band-aid
+You gain 100 hit points
+You acquire an effect: Aided and Abetted (duration: 10 Adventures)
+
+[1345] Post-Cyrpt Cemetary
+Encounter: spiny skelelton
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spiny skelelton takes 90 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 32 damage.
+Round 2: spiny skelelton takes 32 damage.
+Round 2: boolicious wins the fight!
+You gain 8 Strengthliness
+You gain 5 Enchantedness
+You gain 2 Roguishness
+
+[1346] Post-Cyrpt Cemetary
+Encounter: gaunt ghuol
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: gaunt ghuol takes 90 damage.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 37 hit points
+You gain 37 Muscularity Points
+Round 2: boolicious wins the fight!
+You gain 12 Meat
+You acquire an item: ghuol egg
+You gain 8 Strongness
+You gain 4 Wizardliness
+You gain 4 Roguishness
+
+[1347] Fantasy Airship
+Encounter: Spunky Princess
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spunky princess takes 60 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing her for 32 damage.
+Round 2: spunky princess takes 32 damage.
+Round 2: boolicious wins the fight!
+You gain 15 Meat
+You gain 10 Beefiness
+You gain 5 Wizardliness
+You gain 8 Cheek
+
+[1348] Fantasy Airship
+Encounter: Burly Sidekick
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: burly sidekick takes 30 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: burly sidekick drops 11 attack power.
+Round 2: burly sidekick drops 11 defense.
+Round 2: boolicious attacks!
+Round 3: burly sidekick takes 30 damage.
+Round 3: boolicious uses the terrible poem!
+Round 4: burly sidekick takes 5 damage.
+Round 4: burly sidekick takes 2 damage.
+Round 4: burly sidekick takes 6 damage.
+Round 4: burly sidekick takes 3 damage.
+You lose 9 hit points
+Round 4: boolicious casts SEVEN-FINGER STRIKE!
+Round 5: burly sidekick takes 9 damage.
+Round 5: burly sidekick takes 9 damage.
+Round 5: burly sidekick takes 10 damage.
+Round 5: burly sidekick takes 9 damage.
+Round 5: burly sidekick takes 10 damage.
+Round 5: burly sidekick takes 10 damage.
+Round 5: burly sidekick takes 10 damage.
+Round 5: boolicious wins the fight!
+You gain 13 Meat
+You gain 21 Muscleboundness
+You gain 4 Wizardliness
+You gain 4 Smarm
+
+[1349] Fantasy Airship
+Encounter: Rip Rop Wrappety Do
+You acquire an item: Plastic Wrap Immateria
+
+[1350] Fantasy Airship
+Encounter: Quiet Healer
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: quiet healer takes 30 damage.
+Round 2: quiet healer takes 3 damage.
+Round 2: quiet healer takes 9 damage.
+Round 2: quiet healer takes 3 damage.
+You lose 9 hit points
+Round 2: boolicious uses the Gnomitronic Hyperspatial Demodulizer!
+Round 3: quiet healer takes 14 damage.
+Round 3: boolicious attacks!
+Round 4: quiet healer takes 30 damage.
+Round 4: Cocopuff's bells jingle merrily.
+Round 4: Cocopuff paws at the ground for a second, and then charges your opponent, bashing her for 32 damage.
+Round 4: quiet healer takes 32 damage.
+Round 4: boolicious wins the fight!
+You gain 15 Meat
+You acquire an item: scroll of drastic healing
+You gain 10 Beefiness
+You gain 13 Mysteriousness
+You gain 4 Cheek
+
+[1351] Fantasy Airship
+Encounter: Burly Sidekick
+Round 0: boolicious loses initiative!
+Round 1: burly sidekick takes 2 damage.
+Round 1: burly sidekick takes 9 damage.
+Round 1: burly sidekick takes 4 damage.
+You lose 12 hit points
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a newt!
+Round 2: boolicious uses the Gnomitronic Hyperspatial Demodulizer!
+Round 3: newt takes 10 damage.
+You acquire an effect: Super-Mega-Charged (duration: 5 Adventures)
+Round 3: boolicious wins the fight!
+You gain 13 Meat
+You acquire an item: eye of newt
+You gain 2 Mysteriousness
+
+[1352] Fantasy Airship
+Encounter: Spunky Princess
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spunky princess takes 31 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  She looks a little bit confused.
+Round 2: spunky princess drops 11 attack power.
+Round 2: spunky princess drops 11 defense.
+Round 2: boolicious attacks!
+You lose 1 hit point
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing her for 31 damage.
+Round 3: spunky princess takes 31 damage.
+Round 3: boolicious uses the Gnomitronic Hyperspatial Demodulizer!
+Round 4: boolicious attacks!
+Round 5: spunky princess takes 30 damage.
+Round 5: Cocopuff paws at the ground for a second, and then charges your opponent, bashing her for 64 damage. LIMIT BREAK!
+Round 5: spunky princess takes 64 damage.
+Round 5: boolicious wins the fight!
+You gain 11 Meat
+You gain 14 Beefiness
+You gain 10 Enchantedness
+You gain 2 Smarm
+
+[1353] Fantasy Airship
+Encounter: F-F-Fantastic!
+You acquire an item: S.O.C.K.
+You acquire an item: giant castle map
+
+use 1 giant castle map
+
+[1354] Giant's Castle
+Encounter: Goth Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a frog!
+Round 2: boolicious uses the Gnomitronic Hyperspatial Demodulizer!
+Round 3: boolicious attacks!
+Round 4: frog takes 54 damage.
+Round 4: boolicious wins the fight!
+You gain 15 Meat
+You acquire an item: squashed frog
+You gain 2 Beefiness
+
+[1355] Giant's Castle
+Encounter: Furry Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: furry giant takes 3 damage.
+Round 2: furry giant takes 10 damage.
+Round 2: furry giant takes 4 damage.
+You lose 35 hit points
+Round 2: boolicious casts CHILLED MONKEY BRAIN TECHNIQUE!
+Round 3: furry giant takes 46 damage.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 38 hit points
+You gain 38 Muscularity Points
+Round 3: boolicious casts SEVEN-FINGER STRIKE!
+Round 4: furry giant takes 9 damage.
+Round 4: furry giant takes 11 damage.
+Round 4: furry giant takes 10 damage.
+Round 4: furry giant takes 9 damage.
+Round 4: furry giant takes 11 damage.
+Round 4: furry giant takes 10 damage.
+Round 4: furry giant takes 10 damage.
+Round 4: furry giant takes 3 damage.
+Round 4: furry giant takes 5 damage.
+Round 4: furry giant takes 4 damage.
+You lose 37 hit points
+Round 4: boolicious casts SEVEN-FINGER STRIKE!
+Round 5: furry giant takes 11 damage.
+Round 5: furry giant takes 10 damage.
+Round 5: furry giant takes 11 damage.
+Round 5: furry giant takes 10 damage.
+Round 5: furry giant takes 9 damage.
+Round 5: furry giant takes 10 damage.
+Round 5: furry giant takes 10 damage.
+Round 5: boolicious wins the fight!
+You gain 12 Meat
+You acquire an item: furry fur
+You gain 14 Muscleboundness
+You gain 12 Wizardliness
+You gain 13 Smarm

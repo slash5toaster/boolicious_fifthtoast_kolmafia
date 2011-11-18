@@ -1,0 +1,299 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+July 4, 2011 - Jarlsuary 4
+
+Ronald: waxing gibbous
+Grimace: waxing crescent
+Mini-moon: far left
+
+Valentine's Day: 8 days
+St. Sneaky Pete's Day: 15 days
+Oyster Egg Day: 22 days
+El Dia De Los Muertos Borrachos: 30 days
+Generic Summer Holiday: 39 days
+Dependence Day: 48 days
+Arrrbor Day: 56 days
+Lab&oacute;r Day: 66 days
+Halloween: 76 days
+Feast of Boris: 83 days
+Yuletide: 88 days
+Festival of Jarlsberg: 93 days
+
+
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Sauceror
+
+Lv: 14
+HP: 319 / 319
+MP: 491 / 491
+
+Mus: 153 (145), tnp = 10
+Mys: 241 (195), tnp = 40
+Mox: 153 (145), tnp = 21
+
+Advs: 200
+Meat: 26,394
+Drunk: 0
+
+
+ > equipment
+
+Hat: orange peel hat
+Weapon: Windsor Pan of the Source
+Off-hand: stress ball
+Shirt: (none)
+Pants: Newman's Own Trousers
+
+Acc. 1: shiny hood ornament
+Acc. 2: Talisman o' Nam
+Acc. 3: Gravyskin Belt of the Sauceblob
+
+Pet: Clockwork Grapefruit (15 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - Liver of Steel
+
+Sauceror
+ - Advanced Saucecrafting
+ - Diminished Gag Reflex
+ - Elemental Saucesphere
+ - Expert Panhandling
+ - Impetuous Sauciness
+ - Intrinsic Spiciness
+ - Jabañero Saucesphere
+ - Jalapeño Saucesphere
+ - Salsaball
+ - Sauce Contemplation
+ - Saucegeyser
+ - Saucestorm
+ - Saucy Salve
+ - Scarysauce
+ - Stream of Sauce
+ - Wave of Sauce
+
+
+ > effects
+
+2 of 3 AT buffs active.
+Taste the Inferno (34)
+Saucemastery (75)
+♫ Fat Leon's Phat Loot Lyric (108)
+Curiosity of Br'er Tarrypin (116)
+Tenacity of the Snapper (157)
+Ghostly Shell (172)
+Astral Shell (192)
+Jingle Jangle Jingle (212)
+♫ Polka of Plenty (332)
+Scarysauce (486)
+Elemental Saucesphere (486)
+Jabañero Saucesphere (486)
+Empathy (495)
+Reptilian Fortitude (738)
+Jalapeño Saucesphere (1,469)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +10.00%
+
+Exp: +0.00
+Meat: +70.00%
+Item: +25.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 milk of magnesium
+You acquire an effect: Got Milk (duration: 20 Adventures)
+
+eat 1 Hell broth
+You gain 16 Adventures
+You lose 6 Strengthliness
+You lose 8 Roguishness
+You lose some of an effect: Got Milk
+
+eat 1 enchanted bean burrito
+You gain 11 Adventures
+You gain 15 Enchantedness
+You lose some of an effect: Got Milk
+
+[4365] Mix 1 papaya + 1 bottle of gin
+You acquire an item: papaya sling
+Crafting used 1 each of bottle of gin and papaya
+
+drink 1 papaya sling
+You gain 3 Adventures
+You gain 18 Muscleboundness
+You gain a Muscle point!
+You gain 3 Drunkenness
+
+[4365] Cook 1 Boris's key + 1 lime
+You acquire an item: Boris's key lime
+Crafting used 1 each of Boris's key and lime
+
+[4365] Cook 1 scrumptious reagent + 1 papaya
+You acquire papotion of papower (3)
+Crafting used 1 each of scrumptious reagent and papaya
+
+use 1 papotion of papower
+You acquire an effect: Papowerful (duration: 15 Adventures)
+
+[4366] Cook 1 scrumptious reagent + 1 grapes
+You acquire libation of liveliness (3)
+Crafting used 1 each of grapes and scrumptious reagent
+
+use 1 libation of liveliness
+You acquire an effect: Provocative Perkiness (duration: 15 Adventures)
+
+use 1 thin black candle
+You acquire an effect: Rainy Soul Miasma (duration: 10 Adventures)
+
+use 1 large box
+You acquire an item: smoky potion
+You acquire an item: effervescent potion
+You acquire an item: fizzy potion
+You acquire an item: dark potion of ettin strength
+
+use 1 Bash-Ōs boxtop
+
+use 1 Bash-Ōs boxtop
+
+use 1 small box
+You acquire an item: swirly potion of inebriety
+You acquire an item: bubbly potion
+You acquire an item: fizzy potion
+You acquire an item: murky potion
+
+multiuse.php?passitem=821&pwd=1a6fc269d04cdab9c72fcea684269ada
+
+use 1 bubbly potion
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+use 1 marzipan skull
+You acquire an effect: Hardly Poisoned at All (duration: 5 Adventures)
+You acquire an effect: Hombre Muerto Caminando (duration: 5 Adventures)
+You acquire an effect: Sugar Rush (duration: 5 Adventures)
+
+buy 30 anti-anti-antidote for 30 each from an NPC Store
+You acquire anti-anti-antidote (30)
+You spent 900 Meat
+
+use 1 anti-anti-antidote
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 979 Meat
+Jumping into Awesome Ball Pit in clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+Visiting Comfy Sofa in clan rumpus room
+Visiting Collection of Self-Help Books in clan rumpus room
+You gain 4,277 Meat
+
+postwarisland.php?place=concert
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+
+postwarisland.php?place=lighthouse
+Visiting the lighthouse keeper with 0 barrel of gunpowder.
+
+[4366] Hippy Camp (Stone Age)
+Encounter: caveman hippy
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: caveman hippy takes 8 damage.
+Adjusted combat item count: paint bomb (2)
+Round 2: boolicious attacks!
+Round 3: caveman hippy takes 155 damage.
+Round 3: boolicious attacks!
+Round 4: caveman hippy takes 159 damage.
+Round 4: 6655321 repeatedly kicks your opponent in the stomach for 18 damage, while singing 'Singing in the Rain.'
+Round 4: caveman hippy takes 18 damage.
+Round 4: boolicious wins the fight!
+You acquire an item: stone frisbee
+You acquire an item: handful of pine needles
+You gain 16 Strengthliness
+You gain 34 Wizardliness
+You gain a Mysticality point!
+You gain 13 Smarm
+
+buy 3 M-242 for 300 each from Market Demon
+You acquire M-242 (3)
+You spent 900 Meat
+
+buy 3 snake for 300 each from Market Demon
+You acquire snake (3)
+You spent 900 Meat
+
+buy 3 sparkler for 300 each from Market Demon
+You acquire sparkler (3)
+You spent 900 Meat
+
+use 1 sparkler
+You acquire an effect: Sparkling Consciousness (duration: 50 Adventures)
+
+use 1 Notes from the Elfpocalypse, Chapter VI
+You gain 32 Mana Points
+You gain 31 hit points
+
+use 1 canopic jar
+You acquire an item: powdered organs
+
+use 1 mojo filter
+
+use 1 elven magi-pack
+You gain 46 Mana Points
+
+use 1 vial of red slime
+You acquire an effect: Slimily Strong (duration: 15 Adventures)
+
+Use 1 delectable catalyst + 1 scrumptious reagent
+You acquire an item: scrumdiddlyumptious solution
+
+cast 50 Sauce Contemplation
+You acquire an effect: Saucemastery (duration: 250 Adventures)
+
+cast 50 Sauce Contemplation
+You acquire an effect: Saucemastery (duration: 250 Adventures)
+
+cast 3 Sauce Contemplation
+You acquire an effect: Saucemastery (duration: 15 Adventures)
+
+cast 1 Advanced Saucecrafting
+You acquire an item: scrumptious reagent
+
+cast 1 Advanced Saucecrafting
+You acquire an item: scrumptious reagent
+
+cast 1 Advanced Saucecrafting
+You acquire an item: scrumptious reagent
+
+cast 1 Advanced Saucecrafting
+You acquire an item: scrumptious reagent
+
+cast 1 Advanced Saucecrafting
+You acquire an item: scrumptious reagent
+
+cast 1 Advanced Saucecrafting
+You acquire an item: scrumptious reagent
+
+use 1 willyweed
+You acquire an effect: Wet Willied (duration: 30 Adventures)
+friars blessing 1
+You acquire an effect: Brother Flying Burrito's Blessing (duration: 20 Adventures)

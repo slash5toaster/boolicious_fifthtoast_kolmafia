@@ -1,0 +1,1353 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+June 6, 2011 - Carlvember 8
+
+Ronald: waning crescent
+Grimace: waxing gibbous
+Mini-moon: behind Ronald
+
+Halloween: 8 days
+Feast of Boris: 15 days
+Yuletide: 20 days
+Festival of Jarlsberg: 25 days
+Valentine's Day: 36 days
+St. Sneaky Pete's Day: 43 days
+Oyster Egg Day: 50 days
+El Dia De Los Muertos Borrachos: 58 days
+Generic Summer Holiday: 67 days
+Dependence Day: 76 days
+Arrrbor Day: 84 days
+Lab&oacute;r Day: 94 days
+
+
+Muscle bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Sauceror
+
+Lv: 12
+HP: 305 / 305
+MP: 219 / 494
+
+Mus: 199 (94), tnp = 16
+Mys: 263 (125), tnp = 139
+Mox: 180 (89), tnp = 163
+
+Advs: 198
+Meat: 6,524
+Drunk: 0
+
+
+ > equipment
+
+Hat: big bad voodoo mask
+Weapon: world's smallest violin
+Off-hand: stress ball
+Shirt: (none)
+Pants: 1337 7r0uZ0RZ
+
+Acc. 1: Lord Spookyraven's spectacles
+Acc. 2: mysterious silver lapel pin
+Acc. 3: badass belt
+
+Pet: Cocoabo (25 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - Liver of Steel
+
+Sauceror
+ - Advanced Saucecrafting
+ - Elemental Saucesphere
+ - Expert Panhandling
+ - Intrinsic Spiciness
+ - Jabañero Saucesphere
+ - Jalapeño Saucesphere
+ - Salsaball
+ - Sauce Contemplation
+ - Saucegeyser
+ - Saucestorm
+ - Saucy Salve
+ - Scarysauce
+ - Stream of Sauce
+ - Wave of Sauce
+
+
+ > effects
+
+1 of 3 AT buffs active.
+Having a Ball! (17)
+Curiosity of Br'er Tarrypin (318)
+Jingle Jangle Jingle (339)
+Saucemastery (495)
+Empathy (502)
+Astral Shell (529)
+Scarysauce (640)
+♫ Polka of Plenty (719)
+Jabañero Saucesphere (726)
+Elemental Saucesphere (872)
+Jalapeño Saucesphere (1,491)
+1337p4n7Z (∞)
+
+
+ > modifiers
+
+ML: +5
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.62
+Meat: +75.00%
+Item: +5.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Jack-in-the-box
+
+use 1 wind-up chattering teeth
+
+use 1 potato sprout
+
+familiar none
+
+Unequip Toothsome Rock
+
+Equip Levitating Potato with Li'l Businessman Kit
+
+familiar Levitating Potato (6 lbs)
+
+familiar lock
+
+town_fleamarket.php?which=10
+town_fleamarket.php?pwd&buying=Yep.&which=10&whichitem=2572&howmuch=285
+You acquire an item: ant pitchfork
+town_fleamarket.php?pwd&buying=Yep.&which=10&whichitem=850&howmuch=168
+You acquire an item: many-eyed glasses
+town_fleamarket.php?which=16
+
+drink 1 black & tan
+You gain 7 Adventures
+You gain 11 Beefiness
+You gain 10 Mysteriousness
+You gain 12 Chutzpah
+You gain 20 Mana Points
+You gain 2 Drunkenness
+
+eat 1 White Citadel burger
+You gain 2 Adventures
+
+[2963] Cook 1 gr8ps + 1 marzipan skull
+
+[2963] Cook 1 blackberry + 1 lion oil
+
+[2963] Cook 1 skewer + 1 Knoll mushroom
+You acquire an item: Knoll shroomkabob
+Crafting used 1 each of skewer and Knoll mushroom
+
+eat 1 Knoll shroomkabob
+You gain 3 Adventures
+You gain 10 Beefiness
+You gain a Muscle point!
+
+manor.php?place=gallery
+
+[2962] Haunted Bedroom
+Encounter: One Nightstand
+choice.php?pwd&whichchoice=84&option=2
+You gain 126 Enchantedness
+
+[2963] Haunted Bedroom
+Encounter: One Nightstand
+choice.php?pwd&whichchoice=84&option=1
+You gain 523 Meat
+Visiting Potted Meat Tree in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+
+multiuse.php?passitem=2035&pwd=86e0a72a78e330822123dd7bb378116d
+
+use 4 Marquis de Poivre soda
+You gain 143 Mana Points
+
+[2964] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+Encounter: cactuary
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+
+[2965] Desert (Ultrahydrated)
+Round 2: cactuary takes 8 damage.
+Round 2: boolicious attacks!
+Round 3: cactuary takes 63 damage.
+Round 3: boolicious attacks!
+Round 4: cactuary takes 49 damage.
+Round 4: boolicious casts SAUCESTORM!
+Round 5: cactuary takes 56 damage.
+You gain 12 hit points
+You gain 2 Mana Points
+You acquire an effect: Burning Ears (duration: 1 Adventure)
+Round 5: boolicious wins the fight!
+You gain 164 Meat
+You acquire an item: cactus fruit
+You acquire an item: bit-o-cactus
+You gain 12 Strengthliness
+You gain 15 Wizardliness
+You gain a Mysticality point!
+You gain 10 Cheek
+
+[2967] Mix 1 cactus fruit + 1 bottle of gin
+
+[2967] Mix 1 cactus fruit + 1 bottle of tequila
+
+[2967] Mix 1 cactus fruit + 1 bottle of rum
+
+[2967] Mix 1 cactus fruit + 1 bottle of gin
+
+[2967] Mix 1 orange + 1 bottle of tequila
+You acquire an item: tequila sunrise
+Crafting used 1 each of orange and bottle of tequila
+
+eat 1 Lucky Surprise Egg
+You gain 1 Adventure
+You acquire an item: tiny plastic baby gravy fairy
+
+mrstore.php?action=buy&whichitem=5164
+You acquire an item: mysterious chest
+
+use 1 mysterious chest
+
+[2966] Desert (Ultrahydrated)
+Encounter: rock scorpion
+Round 0: boolicious loses initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: rock scorpion takes 54 damage.
+You gain 11 hit points
+You gain 2 Mana Points
+You acquire an effect: Frozen Shoulders (duration: 1 Adventure)
+Round 2: boolicious casts SAUCESTORM!
+Round 3: rock scorpion takes 56 damage.
+You gain 10 hit points
+You gain 2 Mana Points
+Round 3: boolicious attacks!
+Round 4: rock scorpion takes 41 damage.
+Round 4: boolicious wins the fight!
+Your familiar gains a pound: Grot, the 2 lb. Levitating Potato
+You gain 330 Meat
+You gain 9 Beefiness
+You gain 17 Mysteriousness
+You gain 10 Smarm
+
+familiar Li'l Xenomorph (6 lbs)
+
+Unequip Levitating Potato
+
+Equip Li'l Xenomorph with Li'l Businessman Kit
+
+familiarnames.php?action=Doodit&pwd&fam0=Grofflesby&fam16=Cocopuff&fam1=Squirt&fam86=Wensleydale&fam140=RumTum&fam15=Gonald&fam142=Bubbles&fam5=Margeruita&fam12=Tonald&fam7=Twiggy&fam63=Dendrite&fam20=Trog&fam51=Molar&fam3=McKenzie&fam32=6655321&fam8=Whale&fam14=Munch&fam45=Tobert&fam47=Huggies&fam122=Grofflesby
+
+[2967] Desert (Ultrahydrated)
+Encounter: swarm of fire ants
+Round 0: boolicious loses initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: swarm of fire ants takes 194 damage.
+You gain 12 hit points
+You gain 2 Mana Points
+You acquire an effect: Frozen Shoulders (duration: 1 Adventure)
+Round 2: boolicious wins the fight!
+You gain 77 Meat
+After Battle: Grofflesby hiccups and coughs up something covered in corrosive goo. Your curiosity overcomes your gag reflex and you pick up the device.
+You acquire an item: transporter transponder
+After Battle: Grofflesby smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 6 Strongness
+You gain 21 Wizardliness
+You gain 13 Smarm
+
+use 1 transporter transponder
+You acquire an effect: Transpondent (duration: 30 Adventures)
+
+spaaace.php?arrive=1
+adventure.php?snarfblat=265
+Encounter: unlikely survivor
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: unlikely survivor takes 7 damage.
+Round 2: unlikely survivor takes 1 damage.
+Round 2: unlikely survivor takes 7 damage.
+Round 2: unlikely survivor takes 4 damage.
+You lose 22 hit points
+Round 2: boolicious attacks!
+Round 3: unlikely survivor takes 1 damage.
+Round 3: unlikely survivor takes 2 damage.
+Round 3: unlikely survivor takes 5 damage.
+You lose 9 hit points
+Round 3: boolicious casts SAUCESTORM!
+Round 4: unlikely survivor takes 55 damage.
+You gain 11 hit points
+You gain 3 Mana Points
+You acquire an effect: Frozen Shoulders (duration: 1 Adventure)
+Round 4: unlikely survivor takes 1 damage.
+Round 4: unlikely survivor takes 5 damage.
+Round 4: unlikely survivor takes 5 damage.
+You lose 20 hit points
+Round 4: boolicious casts SAUCESTORM!
+Round 5: unlikely survivor takes 57 damage.
+You gain 11 hit points
+You gain 2 Mana Points
+Round 5: unlikely survivor takes 2 damage.
+Round 5: unlikely survivor takes 5 damage.
+Round 5: unlikely survivor takes 5 damage.
+You lose 18 hit points
+Round 5: boolicious wins the fight!
+Your familiar gains a pound: Grofflesby, the 2 lb. Li'l Xenomorph
+After Battle: Grofflesby smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 13 Fortitude
+You gain 20 Mysteriousness
+You gain 15 Smarm
+
+adventure.php?snarfblat=265
+Encounter: unlikely survivor
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: unlikely survivor takes 7 damage.
+Round 2: unlikely survivor takes 1 damage.
+Round 2: unlikely survivor takes 2 damage.
+Round 2: unlikely survivor takes 3 damage.
+You lose 22 hit points
+Round 2: boolicious casts SAUCEGEYSER!
+Round 3: unlikely survivor takes 291 damage.
+You gain 33 hit points
+You gain 9 Mana Points
+Round 3: boolicious wins the fight!
+You acquire an item: Map to Safety Shelter Ronald Prime
+After Battle: Grofflesby smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 17 Strongness
+You gain 22 Wizardliness
+You gain 9 Cheek
+
+use 1 Map to Safety Shelter Ronald Prime
+Encounter: Deep Inside Ronald, Baby
+choice.php?pwd&whichchoice=535&option=1
+Encounter: Deep Inside Ronald, Baby
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+June 6, 2011 - Carlvember 8
+
+Ronald: waning crescent
+Grimace: waxing gibbous
+Mini-moon: behind Ronald
+
+Halloween: 8 days
+Feast of Boris: 15 days
+Yuletide: 20 days
+Festival of Jarlsberg: 25 days
+Valentine's Day: 36 days
+St. Sneaky Pete's Day: 43 days
+Oyster Egg Day: 50 days
+El Dia De Los Muertos Borrachos: 58 days
+Generic Summer Holiday: 67 days
+Dependence Day: 76 days
+Arrrbor Day: 84 days
+Lab&oacute;r Day: 94 days
+
+
+Muscle bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: 
+
+Lv: 10
+HP: 286 / 307
+MP: 316 / 497
+
+Mus: 201 (95), tnp = 129
+Mys: 265 (126), tnp = 161
+Mox: 180 (89), tnp = 94
+
+Advs: 202
+Meat: 7,165
+Drunk: 0
+
+
+ > equipment
+
+Hat: big bad voodoo mask
+Weapon: world's smallest violin
+Off-hand: stress ball
+Shirt: (none)
+Pants: 1337 7r0uZ0RZ
+
+Acc. 1: Lord Spookyraven's spectacles
+Acc. 2: mysterious silver lapel pin
+Acc. 3: badass belt
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+
+
+ > effects
+
+1 of 3 AT buffs active.
+Having a Ball! (8)
+Transpondent (27)
+Curiosity of Br'er Tarrypin (309)
+Jingle Jangle Jingle (330)
+Saucemastery (486)
+Empathy (493)
+Astral Shell (520)
+Scarysauce (631)
+♫ Polka of Plenty (710)
+Jabañero Saucesphere (717)
+Elemental Saucesphere (863)
+Jalapeño Saucesphere (1,482)
+1337p4n7Z (∞)
+
+
+ > modifiers
+
+ML: +5
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.62
+Meat: +60.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+choice.php?pwd&whichchoice=535&option=2&choiceform2=Check+out+the+Armory
+choice.php?pwd&whichchoice=535&option=3&choiceform3=The+Right+Stuff%2C+er%2C+Door
+choice.php?pwd&whichchoice=535&option=2&choiceform2=Take+the+Skanky+Door
+You acquire an effect: Simulation Stimulation (duration: 10 Adventures)
+
+[2971] The Domed City of Ronaldus
+Encounter: primitive survivor
+
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: primitive survivor takes 7 damage.
+Round 2: boolicious uses the meat vortex!
+Round 3: primitive survivor takes 3 damage.
+Round 3: primitive survivor takes 6 damage.
+Round 3: primitive survivor takes 5 damage.
+You lose 21 hit points
+Round 3: boolicious 
+Round 4: boolicious casts WAVE OF SAUCE!
+Round 5: primitive survivor takes 78 damage.
+You gain 20 hit points
+You gain 4 Mana Points
+Round 5: primitive survivor takes 1 damage.
+Round 5: primitive survivor takes 5 damage.
+Round 5: primitive survivor takes 3 damage.
+You lose 22 hit points
+Round 5: boolicious casts WAVE OF SAUCE!
+Round 6: primitive survivor takes 79 damage.
+You gain 17 hit points
+You gain 4 Mana Points
+Round 6: boolicious wins the fight!
+You acquire an item: (unknown item 0)
+After Battle: Grofflesby hiccups and coughs up something covered in corrosive goo. Your curiosity overcomes your gag reflex and you pick up the device.
+You acquire an item: transporter transponder
+After Battle: Grofflesby smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 19 Beefiness
+You gain 18 Enchantedness
+You gain 18 Chutzpah
+
+familiar Pet Cheezling (24 lbs)
+
+Unequip Li'l Xenomorph
+
+Equip Pet Cheezling with Li'l Businessman Kit
+
+Unequip Pet Cheezling
+
+Equip Pet Cheezling with Li'l Businessman Kit
+
+[2972] The Domed City of Grimacia
+Encounter: whiny survivor
+
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: whiny survivor takes 7 damage.
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: whiny survivor takes 78 damage.
+You gain 18 hit points
+You gain 4 Mana Points
+Round 3: whiny survivor takes 3 damage.
+Round 3: whiny survivor takes 7 damage.
+Round 3: whiny survivor takes 3 damage.
+You lose 15 hit points
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: whiny survivor takes 75 damage.
+You gain 18 hit points
+You gain 5 Mana Points
+Round 4: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 38 hit points
+You gain 29 Mana Points
+You acquire an item: (unknown item 0)
+You acquire an item: (unknown item 0)
+You gain 9 Beefiness
+You gain 19 Enchantedness
+You gain 22 Roguishness
+
+[2973] Hamburglaris Shield Generator
+Encounter: mutated alielephant
+
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: mutated alielephant takes 7 damage.
+Round 2: mutated alielephant takes 2 damage.
+Round 2: mutated alielephant takes 3 damage.
+Round 2: mutated alielephant takes 4 damage.
+You lose 25 hit points
+Round 2: boolicious casts SAUCEGEYSER!
+Round 3: mutated alielephant takes 162 damage.
+You gain 35 hit points
+You gain 7 Mana Points
+Round 3: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 38 hit points
+You gain 47 Mana Points
+You acquire an item: (unknown item 0)
+You acquire an item: (unknown item 0)
+You acquire an item: (unknown item 0)
+You gain 14 Strengthliness
+You gain 19 Mysteriousness
+You gain 20 Sarcasm
+
+[2974] Hamburglaris Shield Generator
+Encounter: mutated alielephant
+
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: mutated alielephant takes 7 damage.
+Round 2: mutated alielephant takes 1 damage.
+Round 2: mutated alielephant takes 5 damage.
+Round 2: mutated alielephant takes 5 damage.
+You lose 27 hit points
+Round 2: boolicious casts SAUCEGEYSER!
+Round 3: mutated alielephant takes 156 damage.
+You gain 34 hit points
+You gain 8 Mana Points
+Round 3: boolicious wins the fight!
+Your familiar gains a pound: Wensleydale, the 20 lb. Pet Cheezling
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 38 hit points
+You gain 46 Mana Points
+You acquire an item: (unknown item 0)
+You gain 11 Beefiness
+You gain 26 Mysteriousness
+You gain 17 Roguishness
+
+[2975] Hamburglaris Shield Generator
+Encounter: mutated alielephant
+
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: mutated alielephant takes 8 damage.
+Round 2: mutated alielephant takes 1 damage.
+Round 2: mutated alielephant takes 9 damage.
+Round 2: mutated alielephant takes 3 damage.
+You lose 28 hit points
+Round 2: boolicious casts SAUCEGEYSER!
+Round 3: mutated alielephant takes 153 damage.
+You gain 33 hit points
+You gain 8 Mana Points
+Round 3: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 49 hit points
+You gain 45 Mana Points
+You acquire an item: (unknown item 0)
+You acquire an item: (unknown item 0)
+You gain 10 Strengthliness
+You gain 24 Wizardliness
+You gain 19 Sarcasm
+You gain a Moxie point!
+
+[2976] The Domed City of Grimacia
+Encounter: whiny survivor
+
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: whiny survivor takes 8 damage.
+Round 2: whiny survivor takes 2 damage.
+Round 2: whiny survivor takes 6 damage.
+Round 2: whiny survivor takes 3 damage.
+You lose 15 hit points
+Round 2: boolicious casts SAUCEGEYSER!
+Round 3: whiny survivor takes 157 damage.
+You gain 29 hit points
+You gain 7 Mana Points
+Round 3: boolicious wins the fight!
+You acquire an item: (unknown item 0)
+You gain 9 Muscleboundness
+You gain 22 Magicalness
+You gain 19 Roguishness
+
+inv_use.php?pwd=577479e5ee8f3fb16e9a427a0a24961c&which=3&whichitem=5172&ajax=1&_=1307387031346
+Encounter: Deep Inside Grimace, Bow Chick-a Bow Bow
+choice.php?pwd&whichchoice=536&option=1
+Encounter: Deep Inside Grimace, Bow Chick-a Bow Bow
+choice.php?pwd&whichchoice=536&option=1
+Encounter: Deep Inside Grimace, Bow Chick-a Bow Bow
+choice.php?pwd&whichchoice=536&option=2
+Encounter: Deep Inside Grimace, Bow Chick-a Bow Bow
+choice.php?pwd&whichchoice=536&option=3
+Encounter: Deep Inside Grimace, Bow Chick-a Bow Bow
+choice.php?pwd&whichchoice=536&option=2
+Encounter: Deep Inside Grimace, Bow Chick-a Bow Bow
+choice.php?pwd&whichchoice=536&option=2
+Encounter: Deep Inside Grimace, Bow Chick-a Bow Bow
+choice.php?pwd&whichchoice=536&option=1
+Encounter: Deep Inside Grimace, Bow Chick-a Bow Bow
+choice.php?pwd&whichchoice=536&option=1
+You acquire an item: elven hardtack
+You acquire an item: elven hardtack
+You acquire an item: elven squeeze
+You acquire an item: elven squeeze
+
+[2978] The Domed City of Grimacia
+Encounter: unhinged survivor
+
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: unhinged survivor takes 8 damage.
+Round 2: unhinged survivor takes 2 damage.
+Round 2: unhinged survivor takes 10 damage.
+Round 2: unhinged survivor takes 4 damage.
+You lose 23 hit points
+Round 2: boolicious casts SAUCEGEYSER!
+Round 3: unhinged survivor takes 156 damage.
+You gain 31 hit points
+You gain 7 Mana Points
+Round 3: boolicious wins the fight!
+You acquire an item: (unknown item 0)
+You gain 13 Muscleboundness
+You gain 17 Magicalness
+You gain 23 Chutzpah
+
+Use 1 disassembled clover
+You acquire an item: ten-leaf clover
+
+inv_eat.php?pwd=577479e5ee8f3fb16e9a427a0a24961c&which=1&whichitem=5132&ajax=1&_=1307387311297
+You gain 6 Adventures
+You gain 23 Strengthliness
+You gain 30 Magicalness
+You gain a Mysticality point!
+You gain 26 Chutzpah
+
+[2979] The Domed City of Ronaldus
+Encounter: primitive survivor
+
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: primitive survivor takes 8 damage.
+Round 2: primitive survivor takes 3 damage.
+Round 2: primitive survivor takes 3 damage.
+Round 2: primitive survivor takes 3 damage.
+You lose 12 hit points
+Round 2: boolicious casts SAUCEGEYSER!
+Round 3: primitive survivor takes 112 damage.
+You gain 35 hit points
+You gain 9 Mana Points
+Round 3: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 43 hit points
+You gain 40 Mana Points
+You gain 5 Strengthliness
+You gain 15 Wizardliness
+You gain 11 Cheek
+
+[2980] The Domed City of Ronaldus
+Encounter: overarmed survivor
+
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: overarmed survivor takes 8 damage.
+Round 2: overarmed survivor takes 3 damage.
+Round 2: overarmed survivor takes 8 damage.
+Round 2: overarmed survivor takes 4 damage.
+You lose 12 hit points
+Round 2: boolicious casts SAUCEGEYSER!
+Round 3: overarmed survivor takes 110 damage.
+You gain 33 hit points
+You gain 8 Mana Points
+Round 3: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 46 hit points
+You gain 29 Mana Points
+You gain 6 Strengthliness
+You gain 15 Mysteriousness
+You gain 9 Sarcasm
+
+[2981] The Domed City of Ronaldus
+Encounter: overarmed survivor
+
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: overarmed survivor takes 9 damage.
+Round 2: overarmed survivor takes 2 damage.
+Round 2: overarmed survivor takes 9 damage.
+Round 2: overarmed survivor takes 4 damage.
+You lose 14 hit points
+Round 2: boolicious casts SAUCEGEYSER!
+Round 3: overarmed survivor takes 119 damage.
+You gain 30 hit points
+You gain 9 Mana Points
+Round 3: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 39 hit points
+You gain 43 Mana Points
+You gain 3 Beefiness
+You gain 15 Enchantedness
+You gain 7 Chutzpah
+
+[2982] The Domed City of Ronaldus
+Encounter: overarmed survivor
+
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: overarmed survivor takes 8 damage.
+Round 2: overarmed survivor takes 1 damage.
+Round 2: overarmed survivor takes 7 damage.
+Round 2: overarmed survivor takes 3 damage.
+You lose 13 hit points
+Round 2: boolicious casts SAUCEGEYSER!
+Round 3: overarmed survivor takes 110 damage.
+You gain 34 hit points
+You gain 7 Mana Points
+Round 3: boolicious wins the fight!
+You gain 7 Strengthliness
+You gain a Muscle point!
+You gain 12 Enchantedness
+You gain 6 Roguishness
+
+[2983] The Domed City of Ronaldus
+Encounter: unlikely survivor
+
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: unlikely survivor takes 7 damage.
+Round 2: unlikely survivor takes 1 damage.
+Round 2: unlikely survivor takes 8 damage.
+Round 2: unlikely survivor takes 3 damage.
+You lose 9 hit points
+Round 2: boolicious casts SAUCEGEYSER!
+Round 3: unlikely survivor takes 213 damage.
+You gain 32 hit points
+You gain 8 Mana Points
+Round 3: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 31 hit points
+You gain 45 Mana Points
+You acquire an item: (unknown item 0)
+You gain 4 Muscleboundness
+You gain 12 Mysteriousness
+You gain 8 Sarcasm
+
+[2984] The Domed City of Grimacia
+Encounter: grizzled survivor
+
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: grizzled survivor takes 9 damage.
+Round 2: grizzled survivor takes 2 damage.
+Round 2: grizzled survivor takes 10 damage.
+Round 2: grizzled survivor takes 5 damage.
+You lose 13 hit points
+Round 2: boolicious casts SAUCEGEYSER!
+Round 3: grizzled survivor takes 113 damage.
+You gain 33 hit points
+You gain 9 Mana Points
+Round 3: boolicious wins the fight!
+You acquire an item: (unknown item 0)
+You gain 9 Muscleboundness
+You gain 14 Enchantedness
+You gain 3 Roguishness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+June 6, 2011 - Carlvember 8
+
+Ronald: waning crescent
+Grimace: waxing gibbous
+Mini-moon: behind Ronald
+
+Halloween: 8 days
+Feast of Boris: 15 days
+Yuletide: 20 days
+Festival of Jarlsberg: 25 days
+Valentine's Day: 36 days
+St. Sneaky Pete's Day: 43 days
+Oyster Egg Day: 50 days
+El Dia De Los Muertos Borrachos: 58 days
+Generic Summer Holiday: 67 days
+Dependence Day: 76 days
+Arrrbor Day: 84 days
+Lab&oacute;r Day: 94 days
+
+
+Muscle bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Sauceror
+
+Lv: 12
+HP: 213 / 213
+MP: 291 / 310
+
+Mus: 107 (96), tnp = 180
+Mys: 140 (127), tnp = 158
+Mox: 92 (90), tnp = 67
+
+Advs: 194
+Meat: 7,165
+Drunk: 2
+
+
+ > equipment
+
+Hat: big bad voodoo mask
+Weapon: world's smallest violin
+Off-hand: stress ball
+Shirt: (none)
+Pants: 1337 7r0uZ0RZ
+
+Acc. 1: Lord Spookyraven's spectacles
+Acc. 2: mysterious silver lapel pin
+Acc. 3: badass belt
+
+Pet: Pet Cheezling (25 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - Liver of Steel
+
+Sauceror
+ - Advanced Saucecrafting
+ - Elemental Saucesphere
+ - Expert Panhandling
+ - Intrinsic Spiciness
+ - Jabañero Saucesphere
+ - Jalapeño Saucesphere
+ - Salsaball
+ - Sauce Contemplation
+ - Saucegeyser
+ - Saucestorm
+ - Saucy Salve
+ - Scarysauce
+ - Stream of Sauce
+ - Wave of Sauce
+
+
+ > effects
+
+1 of 3 AT buffs active.
+Transpondent (13)
+Curiosity of Br'er Tarrypin (295)
+Jingle Jangle Jingle (316)
+Saucemastery (472)
+Empathy (479)
+Astral Shell (506)
+Scarysauce (617)
+♫ Polka of Plenty (696)
+Jabañero Saucesphere (703)
+Elemental Saucesphere (849)
+Jalapeño Saucesphere (1,468)
+1337p4n7Z (∞)
+
+
+ > modifiers
+
+ML: +5
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.62
+Meat: +75.00%
+Item: +5.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+eat 1 ballroom blintz
+
+eat 1 cactus fruit
+You gain 7 Adventures
+You gain 8 Fortitude
+You gain 1 Enchantedness
+You gain 2 Smarm
+You lose 10 hit points
+
+[2985] The Domed City of Grimacia
+Encounter: whiny survivor
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: whiny survivor takes 11 damage.
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: whiny survivor takes 125 damage.
+You gain 20 hit points
+You gain 4 Mana Points
+Round 3: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 29 hit points
+You gain 38 Mana Points
+You gain 5 Muscleboundness
+You gain 14 Wizardliness
+You gain 4 Cheek
+
+[2986] The Domed City of Ronaldus
+Encounter: primitive survivor
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: primitive survivor takes 7 damage.
+Round 2: primitive survivor takes 3 damage.
+Round 2: primitive survivor takes 4 damage.
+Round 2: primitive survivor takes 4 damage.
+You lose 14 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: primitive survivor takes 77 damage.
+You gain 20 hit points
+You gain 4 Mana Points
+Round 3: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 49 hit points
+You gain 46 Mana Points
+You acquire an item: elven squeeze
+You acquire an item: elven hardtack
+You gain 6 Strongness
+You gain 14 Mysteriousness
+You gain 6 Chutzpah
+
+[2987] The Domed City of Ronaldus
+Encounter: unlikely survivor
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: unlikely survivor takes 8 damage.
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: unlikely survivor takes 78 damage.
+You gain 20 hit points
+You gain 4 Mana Points
+Round 3: boolicious wins the fight!
+You acquire an item: (unknown item 0)
+You gain 4 Beefiness
+You gain 13 Enchantedness
+You gain 7 Sarcasm
+
+[2988] The Domed City of Ronaldus
+Encounter: primitive survivor
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: primitive survivor takes 9 damage.
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: primitive survivor takes 133 damage.
+You gain 18 hit points
+You gain 4 Mana Points
+Round 3: boolicious wins the fight!
+You gain 7 Muscleboundness
+You gain 15 Mysteriousness
+You gain 4 Chutzpah
+
+[2989] The Domed City of Ronaldus
+Encounter: overarmed survivor
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: overarmed survivor takes 7 damage.
+Round 2: overarmed survivor takes 1 damage.
+Round 2: overarmed survivor takes 3 damage.
+Round 2: overarmed survivor takes 3 damage.
+You lose 13 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: overarmed survivor takes 78 damage.
+You gain 18 hit points
+You gain 5 Mana Points
+Round 3: boolicious wins the fight!
+You gain 5 Beefiness
+You gain 13 Enchantedness
+You gain 7 Chutzpah
+
+[2990] The Domed City of Ronaldus
+Encounter: unlikely survivor
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: unlikely survivor takes 7 damage.
+Round 2: unlikely survivor takes 2 damage.
+Round 2: unlikely survivor takes 3 damage.
+Round 2: unlikely survivor takes 5 damage.
+You lose 9 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: unlikely survivor takes 125 damage.
+You gain 18 hit points
+You gain 5 Mana Points
+Round 3: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 50 hit points
+You gain 27 Mana Points
+You acquire an item: (unknown item 0)
+You gain 9 Muscleboundness
+You gain 10 Wizardliness
+You gain 6 Cheek
+
+use 1 ointment of the occult
+You acquire an effect: Mystically Oiled (duration: 10 Adventures)
+
+use 1 Notes from the Elfpocalypse, Chapter III
+You gain 32 Mana Points
+You gain 31 hit points
+
+use 1 tamarind-flavored chewing gum
+You acquire an effect: Tamarind Torment (duration: 5 Adventures)
+
+inv_use.php?pwd=ceacb120424ee95e40ce27bdeb4899e3&which=3&whichitem=5128&ajax=1&_=1307393131518
+You gain 39 Mana Points
+You gain 34 hit points
+
+[2991] Hamburglaris Shield Generator
+Encounter: alien hamsterpus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: alien hamsterpus takes 7 damage.
+Round 2: alien hamsterpus takes 3 damage.
+Round 2: alien hamsterpus takes 2 damage.
+Round 2: alien hamsterpus takes 3 damage.
+You lose 11 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: alien hamsterpus takes 76 damage.
+You gain 19 hit points
+You gain 4 Mana Points
+Round 3: boolicious wins the fight!
+You acquire an item: lunar isotope
+You acquire an item: elven medi-pack
+You acquire an item: elven magi-pack
+You gain 8 Fortitude
+You gain 10 Magicalness
+You gain 5 Sarcasm
+
+use 1 elven medi-pack
+You gain 100 hit points
+
+[2992] Hamburglaris Shield Generator
+Encounter: alien hamsterpus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: alien hamsterpus takes 8 damage.
+Round 2: alien hamsterpus takes 2 damage.
+Round 2: alien hamsterpus takes 2 damage.
+Round 2: alien hamsterpus takes 4 damage.
+You lose 11 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: alien hamsterpus takes 77 damage.
+You gain 18 hit points
+You gain 5 Mana Points
+Round 3: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 48 hit points
+You gain 29 Mana Points
+You acquire an item: elven medi-pack
+You gain 7 Strongness
+You gain 9 Wizardliness
+You gain 7 Sarcasm
+
+[2993] Hamburglaris Shield Generator
+Encounter: mutated alielf
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: mutated alielf takes 7 damage.
+Round 2: mutated alielf takes 1 damage.
+Round 2: mutated alielf takes 7 damage.
+Round 2: mutated alielf takes 4 damage.
+You lose 11 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: mutated alielf takes 125 damage.
+You gain 19 hit points
+You gain 4 Mana Points
+Round 3: boolicious wins the fight!
+You acquire an item: lunar isotope
+You acquire an item: elven medi-pack
+You acquire an item: elven magi-pack
+You gain 8 Beefiness
+You gain 12 Mysteriousness
+You gain 4 Chutzpah
+
+[2994] Hamburglaris Shield Generator
+Encounter: alien hamsterpus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: alien hamsterpus takes 8 damage.
+Round 2: alien hamsterpus takes 2 damage.
+Round 2: alien hamsterpus takes 9 damage.
+Round 2: alien hamsterpus takes 4 damage.
+You lose 11 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: alien hamsterpus takes 76 damage.
+You gain 20 hit points
+You gain 5 Mana Points
+Round 3: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 47 hit points
+You gain 45 Mana Points
+You gain 8 Beefiness
+You gain 9 Wizardliness
+You gain 7 Chutzpah
+
+[2995] The Domed City of Ronaldus
+Encounter: primitive survivor
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: primitive survivor takes 11 damage.
+Round 2: primitive survivor takes 2 damage.
+Round 2: primitive survivor takes 2 damage.
+Round 2: primitive survivor takes 3 damage.
+You lose 12 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: primitive survivor takes 75 damage.
+You gain 16 hit points
+You gain 5 Mana Points
+Round 3: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 39 hit points
+You gain 47 Mana Points
+You acquire an item: elven hardtack
+You gain 6 Strongness
+You gain 11 Enchantedness
+You gain 7 Chutzpah
+
+[2996] The Domed City of Ronaldus
+Encounter: primitive survivor
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: primitive survivor takes 8 damage.
+Round 2: primitive survivor takes 2 damage.
+Round 2: primitive survivor takes 9 damage.
+Round 2: primitive survivor takes 4 damage.
+You lose 14 hit points
+Round 2: boolicious attacks!
+Round 3: primitive survivor takes 3 damage.
+Round 3: primitive survivor takes 4 damage.
+Round 3: primitive survivor takes 4 damage.
+You lose 13 hit points
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: primitive survivor takes 76 damage.
+You gain 17 hit points
+You gain 5 Mana Points
+Round 4: boolicious wins the fight!
+You acquire an item: elven squeeze
+You gain 8 Strengthliness
+You gain 11 Wizardliness
+You gain 6 Sarcasm
+You gain a Moxie point!
+
+drink 1 elven squeeze
+You gain 8 Adventures
+You gain 29 Muscleboundness
+You gain 21 Wizardliness
+You gain a Mysticality point!
+You gain 22 Smarm
+You gain 3 Drunkenness
+
+[2997] The Domed City of Ronaldus
+Encounter: overarmed survivor
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: overarmed survivor takes 9 damage.
+Round 2: overarmed survivor takes 3 damage.
+Round 2: overarmed survivor takes 8 damage.
+Round 2: overarmed survivor takes 5 damage.
+You lose 12 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: overarmed survivor takes 79 damage.
+You gain 19 hit points
+You gain 5 Mana Points
+Round 3: boolicious wins the fight!
+You gain 7 Fortitude
+You gain 13 Enchantedness
+You gain 6 Smarm
+
+[2998] Dungeons of Doom
+Encounter: acid blob
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: acid blob takes 7 damage.
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: acid blob takes 125 damage.
+You gain 20 hit points
+You gain 5 Mana Points
+Round 3: boolicious wins the fight!
+You gain 3 Strengthliness
+You gain 7 Wizardliness
+You gain 6 Chutzpah
+
+[2999] Dungeons of Doom
+Encounter: acid blob
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: acid blob takes 8 damage.
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: acid blob takes 75 damage.
+You gain 18 hit points
+You gain 5 Mana Points
+Round 3: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 25 hit points
+You gain 41 Mana Points
+You gain 8 Strengthliness
+You gain 8 Mysteriousness
+
+[3000] Dungeons of Doom
+Encounter: The Return of the Dishwasher
+You gain 21 Wizardliness
+
+[3001] Dungeons of Doom
+Encounter: swarm of killer bees
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: swarm of killer bees takes 7 damage.
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: swarm of killer bees takes 152 damage.
+You gain 16 hit points
+You gain 5 Mana Points
+Round 3: boolicious wins the fight!
+You acquire an item: royal jelly
+You gain 1 Strongness
+You gain 12 Enchantedness
+You gain 3 Roguishness
+
+eat 0 royal jelly
+
+[3002] Dungeons of Doom
+Encounter: mind flayer
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: mind flayer takes 9 damage.
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: mind flayer takes 76 damage.
+You gain 19 hit points
+You gain 5 Mana Points
+Round 3: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 31 hit points
+You gain 43 Mana Points
+You gain 5 Strengthliness
+You gain 4 Magicalness
+You gain 7 Cheek
+
+[3003] Dungeons of Doom
+Encounter: acid blob
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: acid blob takes 7 damage.
+Round 2: boolicious attacks!
+Round 3: acid blob takes 46 damage.
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: acid blob takes 77 damage.
+You gain 19 hit points
+You gain 4 Mana Points
+Round 4: boolicious wins the fight!
+You gain 5 Muscleboundness
+You gain 7 Magicalness
+You gain 4 Chutzpah
+
+manor.php?place=gallery
+
+[3004] Haunted Bedroom
+Encounter: One Nightstand
+choice.php?pwd&whichchoice=82&option=3
+Encounter: animated nightstand
+Round 0: boolicious loses initiative!
+Round 1: animated nightstand (white) takes 3 damage.
+Round 1: animated nightstand (white) takes 5 damage.
+Round 1: animated nightstand (white) takes 3 damage.
+You lose 51 hit points
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: animated nightstand (white) takes 77 damage.
+You gain 18 hit points
+You gain 4 Mana Points
+Round 2: animated nightstand (white) takes 1 damage.
+Round 2: animated nightstand (white) takes 6 damage.
+Round 2: animated nightstand (white) takes 3 damage.
+You lose 51 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: animated nightstand (white) takes 78 damage.
+You gain 20 hit points
+You gain 5 Mana Points
+Round 3: animated nightstand (white) takes 3 damage.
+Round 3: animated nightstand (white) takes 4 damage.
+Round 3: animated nightstand (white) takes 4 damage.
+You lose 51 hit points
+Round 3: boolicious wins the fight!
+You acquire an item: grouchy restless spirit
+You gain 12 Strongness
+You gain 19 Magicalness
+You gain 10 Cheek
+
+[3005] Haunted Bathroom
+Encounter: toilet papergeist
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: toilet papergeist takes 14 damage.
+Round 2: toilet papergeist takes 3 damage.
+Round 2: toilet papergeist takes 1 damage.
+Round 2: toilet papergeist takes 4 damage.
+You lose 7 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: toilet papergeist takes 152 damage.
+You gain 18 hit points
+You gain 5 Mana Points
+Round 3: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 35 hit points
+You gain 26 Mana Points
+You acquire an item: roll of toilet paper
+You gain 2 Fortitude
+You gain 11 Magicalness
+You gain 10 Chutzpah
+
+[3006] Haunted Bedroom
+Encounter: One Nightstand
+Encounter: One Nightstand
+choice.php?pwd&whichchoice=84&option=3
+
+[3007] Haunted Bedroom
+Encounter: One Nightstand
+choice.php?pwd&whichchoice=84&option=1
+You gain 454 Meat
+
+Visiting Edam, the Sauceror
+
+Visiting Blaine
+
+Visiting Brie, the Trainer
+
+buy 1 magical mystery juice at market price from Gouda's Grimoire and Grocery
+You acquire an item: magical mystery juice
+You spent 100 Meat

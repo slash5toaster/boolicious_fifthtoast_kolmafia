@@ -1,0 +1,562 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+May 18, 2011 - Bor 5
+
+Ronald: full moon
+Grimace: first quarter
+Mini-moon: in front of Grimace, R side
+
+Arrrbor Day: 7 days
+Lab&oacute;r Day: 17 days
+Halloween: 27 days
+Feast of Boris: 34 days
+Yuletide: 39 days
+Festival of Jarlsberg: 44 days
+Valentine's Day: 55 days
+St. Sneaky Pete's Day: 62 days
+Oyster Egg Day: 69 days
+El Dia De Los Muertos Borrachos: 77 days
+Generic Summer Holiday: 86 days
+Dependence Day: 95 days
+
+
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: boolicious
+Class: Sauceror
+
+Lv: 9
+HP: 159 / 159
+MP: 165 / 268
+
+Mus: 56, tnp = 31
+Mys: 99 (78), tnp = 113
+Mox: 57, tnp = 26
+
+Advs: 0
+Meat: 1,329
+Drunk: 3
+
+
+ > equipment
+
+Hat: lihc face
+Weapon: 17-alarm Saucepan
+Off-hand: stress ball
+Shirt: (none)
+Pants: miner's pants
+
+Acc. 1: lucky rabbit's foot
+Acc. 2: mysterious silver lapel pin
+Acc. 3: imp unity ring
+
+Pet: Piano Cat (14 lbs)
+Item: ant rake
+
+ > skills
+
+Sauceror
+ - Advanced Saucecrafting
+ - Elemental Saucesphere
+ - Expert Panhandling
+ - Jalapeño Saucesphere
+ - Salsaball
+ - Sauce Contemplation
+ - Saucestorm
+ - Saucy Salve
+ - Stream of Sauce
+ - Wave of Sauce
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Elemental Saucesphere (31)
+♫ The Magical Mojomuscular Melody (45)
+Ghostly Shell (124)
+♫ Fat Leon's Phat Loot Lyric (180)
+Empathy (180)
+♫ Polka of Plenty (180)
+Scarysauce (190)
+Jabañero Saucesphere (211)
+Astral Shell (1,289)
+Jalapeño Saucesphere (2,311)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +154.50%
+Item: +65.75%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 5 Sauce Contemplation
+You acquire an effect: Saucemastery (duration: 25 Adventures)
+
+equip weapon chrome staff
+
+equip hat foolscap fool's cap
+
+equip pants bloody clown pants
+
+equip weapon big stirring stick
+
+equip weapon big bass drum
+
+equip weapon 17-alarm Saucepan
+
+equip off-hand stress ball
+
+equip acc2 acid-squirting flower
+
+Visiting the pretentious artist
+outfit Filthy Hippy Disguise
+
+Visiting the pretentious artist
+
+equip weapon hilarious comedy prop
+
+equip off-hand Victor, the Insult Comic Hellhound Puppet
+
+equip hat clown wig
+
+equip pants bloody clown pants
+
+Visiting the pretentious artist
+outfit Knob Goblin Harem Girl Disguise
+
+use 1 Knob Goblin perfume
+You acquire an effect: Knob Goblin Perfume (duration: 1 Adventure)
+
+[1752] Throne Room
+Encounter: Inside Cobb's Knob
+
+cobbsknob.php?action=tolabs
+cobbsknob.php?action=dispensary
+You lose 20 hit points
+
+equip hat lihc face
+
+equip pants swashbuckling pants
+unequip weapon
+
+equip off-hand stress ball
+
+equip weapon 17-alarm Saucepan
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+May 18, 2011 - Bor 5
+
+Ronald: full moon
+Grimace: first quarter
+Mini-moon: in front of Grimace, R side
+
+Arrrbor Day: 7 days
+Lab&oacute;r Day: 17 days
+Halloween: 27 days
+Feast of Boris: 34 days
+Yuletide: 39 days
+Festival of Jarlsberg: 44 days
+Valentine's Day: 55 days
+St. Sneaky Pete's Day: 62 days
+Oyster Egg Day: 69 days
+El Dia De Los Muertos Borrachos: 77 days
+Generic Summer Holiday: 86 days
+Dependence Day: 95 days
+
+
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: boolicious
+Class: Sauceror
+
+Lv: 9
+HP: 42 / 162
+MP: 150 / 270
+
+Mus: 56, tnp = 31
+Mys: 100 (78), tnp = 113
+Mox: 61 (57), tnp = 26
+
+Advs: 0
+Meat: 1,329
+Drunk: 3
+
+
+ > equipment
+
+Hat: lihc face
+Weapon: 17-alarm Saucepan
+Off-hand: stress ball
+Shirt: (none)
+Pants: swashbuckling pants
+
+Acc. 1: lucky rabbit's foot
+Acc. 2: acid-squirting flower
+Acc. 3: imp unity ring
+
+Pet: Piano Cat (14 lbs)
+Item: ant rake
+
+ > skills
+
+Sauceror
+ - Advanced Saucecrafting
+ - Elemental Saucesphere
+ - Expert Panhandling
+ - Jalapeño Saucesphere
+ - Salsaball
+ - Sauce Contemplation
+ - Saucestorm
+ - Saucy Salve
+ - Stream of Sauce
+ - Wave of Sauce
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Knob Goblin Perfume
+Saucemastery (25)
+Elemental Saucesphere (31)
+♫ The Magical Mojomuscular Melody (45)
+Ghostly Shell (124)
+♫ Polka of Plenty (180)
+Empathy (180)
+♫ Fat Leon's Phat Loot Lyric (180)
+Scarysauce (190)
+Jabañero Saucesphere (211)
+Astral Shell (1,289)
+Jalapeño Saucesphere (2,311)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +149.50%
+Item: +65.75%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+eat 1 tasty tart
+
+drink 1 bloody mary
+You gain 6 Adventures
+You gain 2 Strongness
+You gain 2 Enchantedness
+You gain 3 Chutzpah
+You gain 3 Drunkenness
+
+drink 1 bloody beer
+You gain 2 Adventures
+You gain 4 Mana Points
+You gain 1 Drunkenness
+
+drink 1 ice-cold Sir Schlitz
+You gain 1 Adventure
+You gain 4 Mana Points
+You gain 1 Drunkenness
+
+[1752] Pirate Cove
+Encounter: The Beached Boys
+You gain 15 Strengthliness
+
+[1753] Pirate Cove
+Encounter: Filching the Undarrwear
+You gain 18 Cheek
+
+[1754] Pirate Cove
+Encounter: shifty pirate
+Round 0: boolicious loses initiative!
+Round 1: shifty pirate takes 3 damage.
+Round 1: shifty pirate takes 3 damage.
+Round 1: shifty pirate takes 7 damage.
+Round 1: shifty pirate takes 3 damage.
+You lose 7 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: shifty pirate takes 49 damage.
+You gain 12 hit points
+You gain 3 Mana Points
+You acquire an effect: Burning Ears (duration: 1 Adventure)
+Round 2: boolicious wins the fight!
+After Battle: Grorg squints his eyes, sways back and forth, and sings the following verse:I'll sing you a song, I'm the piano catI'll sing you a song right now'Cause you look like you could use a melodySo sit back and hear me meow.
+After Battle: Grorg rakes in a little more Meat for you.
+You gain 131 Meat
+You acquire an item: sunken chest
+You gain 4 Fortitude
+You gain 9 Wizardliness
+You gain 8 Cheek
+You gain a Moxie point!
+
+use 1 sunken chest
+
+manor.php?place=gallery
+
+[1755] Haunted Library
+Encounter: banshee librarian
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: banshee librarian takes 30 damage.
+Round 2: boolicious attacks!
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: banshee librarian takes 146 damage.
+You gain 16 hit points
+You gain 5 Mana Points
+Round 4: Grorg rakes your enemy over the coals for 22 damage.
+Round 4: banshee librarian takes 22 damage.
+Round 4: boolicious wins the fight!
+After Battle: Grorg squints his eyes, sways back and forth, and sings the following verse:And the seal clubber's fighting ProtagonistsOn his way to the Hole in the SkyAnd the Sauceror's trying to beat Ed UndyingBut Ed's still frustratingly spry.
+You acquire an item: disintegrating quill pen
+You gain 5 Strongness
+You gain 10 Magicalness
+You gain 2 Sarcasm
+
+multiuse.php?passitem=1957&pwd=f41abb1bc8453172949477007ef8ed5e
+
+Use 1 disintegrating quill pen + 1 inkwell + 1 tattered scrap of paper
+You acquire an item: scroll of ancient forbidden unspeakable evil
+
+[1756] Icy Peak
+Encounter: upgraded ram
+Round 0: boolicious loses initiative!
+Round 1: upgraded ram takes 4 damage.
+Round 1: upgraded ram takes 1 damage.
+Round 1: upgraded ram takes 14 damage.
+Round 1: upgraded ram takes 3 damage.
+You lose 29 hit points
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: upgraded ram takes 252 damage.
+You gain 20 hit points
+You gain 5 Mana Points
+Round 2: boolicious wins the fight!
+After Battle: Grorg squints his eyes, sways back and forth, and sings the following verse:Now Pete was as sneaky as he could beHe reveled in foul crudityFor he thought it was moxious to make odors noxiousAnd then cast the blame upon me!
+After Battle: Grorg rakes in a little more Meat for you.
+You gain 222 Meat
+You gain 6 Fortitude
+You gain a Muscle point!
+You gain 18 Enchantedness
+You gain 8 Chutzpah
+
+[1757] Icy Peak
+Encounter: Snow Queen
+Round 0: boolicious loses initiative!
+Round 1: snow queen takes 1 damage.
+Round 1: snow queen takes 1 damage.
+Round 1: snow queen takes 8 damage.
+Round 1: snow queen takes 1 damage.
+You lose 15 hit points
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: snow queen takes 144 damage.
+You gain 17 hit points
+You gain 5 Mana Points
+Round 2: boolicious wins the fight!
+After Battle: Grorg squints his eyes, sways back and forth, and sings the following verse:And the seal clubber's fighting ProtagonistsOn his way to the Hole in the SkyAnd the Sauceror's trying to beat Ed UndyingBut Ed's still frustratingly spry.
+You acquire an item: ga-ga radio
+You acquire an item: crazy little Turkish delight
+You gain 7 Strongness
+You gain 17 Enchantedness
+You gain 8 Roguishness
+
+eat 0 crazy little Turkish delight
+
+[1758] Icy Peak
+Encounter: Avalanche!
+You gain 185 Mysteriousness
+You gain a Mysticality point!
+
+[1759] Icy Peak
+Encounter: upgraded ram
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: upgraded ram takes 1 damage.
+You gain 16 hit points
+You gain 4 Mana Points
+Round 2: upgraded ram takes 5 damage.
+Round 2: upgraded ram takes 2 damage.
+Round 2: upgraded ram takes 14 damage.
+Round 2: upgraded ram takes 3 damage.
+You lose 32 hit points
+Round 2: boolicious casts CHANCE!
+You gain 144 hit points
+You gain 62 Mana Points
+Round 3: Grorg rakes your enemy over the coals for 22 damage.
+Round 3: upgraded ram takes 22 damage.
+Round 3: upgraded ram takes 3 damage.
+Round 3: upgraded ram takes 2 damage.
+Round 3: upgraded ram takes 18 damage.
+Round 3: upgraded ram takes 4 damage.
+You lose 15 hit points
+Round 3: boolicious attacks!
+Round 4: upgraded ram takes 5 damage.
+Round 4: upgraded ram takes 2 damage.
+Round 4: upgraded ram takes 14 damage.
+Round 4: upgraded ram takes 3 damage.
+You lose 16 hit points
+Round 4: boolicious wins the fight!
+After Battle: Grorg squints his eyes, sways back and forth, and sings the following verse:Now Jarlsberg was freakishly mysticalAnd also insane as a batI met him one morning, and with little warningHe transformed me into a cat.
+After Battle: Grorg rakes in a little more Meat for you.
+You gain 263 Meat
+You gain 7 Beefiness
+You gain 17 Magicalness
+You gain 10 Roguishness
+
+[1760] Ninja Snowmen
+Encounter: Ninja Snowman Janitor
+Round 0: boolicious loses initiative!
+Round 1: ninja snowman janitor takes 5 damage.
+Round 1: ninja snowman janitor takes 1 damage.
+Round 1: ninja snowman janitor takes 16 damage.
+Round 1: ninja snowman janitor takes 4 damage.
+You lose 15 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: ninja snowman janitor takes 1 damage.
+You gain 10 hit points
+You gain 3 Mana Points
+Round 2: ninja snowman janitor takes 4 damage.
+Round 2: ninja snowman janitor takes 2 damage.
+Round 2: ninja snowman janitor takes 14 damage.
+Round 2: ninja snowman janitor takes 4 damage.
+You lose 16 hit points
+Round 2: boolicious attacks!
+Round 3: ninja snowman janitor takes 4 damage.
+Round 3: ninja snowman janitor takes 3 damage.
+Round 3: ninja snowman janitor takes 6 damage.
+Round 3: ninja snowman janitor takes 4 damage.
+You lose 16 hit points
+Round 3: boolicious wins the fight!
+After Battle: Grorg squints his eyes, sways back and forth, and sings the following verse:It's half-past noon on a CaturdayTime for a meow serenadeThere's a vagrant making eyes at meA flirtation I'll try to dissuade.He says, "cat, can you sing me a hobo song?  I can't bring to mind the whole tune,But it's more than just bawdy, it's really quite naughtyAnd maybe somewhat picayune."
+You acquire an item: frigid ninja stars
+You gain 15 Enchantedness
+You gain a Mysticality point!
+You gain 10 Sarcasm
+
+drink 1 vodka and cranberry
+You gain 5 Adventures
+You gain 17 Wizardliness
+You gain 3 Drunkenness
+
+Visiting the pretentious artist
+
+[1761] Lemon Party
+
+[1762] Lemon Party
+You acquire an item: lemon
+
+[1763] Lemon Party
+You acquire an item: lemon
+
+[1765] Cook 1 lemon + 1 cherry
+
+[1765] Cook 1 lemon + 1 flat dough + 1 Gnollish pie tin
+
+town_fleamarket.php?which=1
+town_fleamarket.php?pwd&buying=Yep.&which=1&whichitem=333&howmuch=1146
+You acquire an item: lime
+
+[1765] Cook 1 white chocolate chips + 1 flat dough
+
+[1765] Cook 1 white chocolate chips + 1 cherry
+
+Use unrolling pin
+You acquire wad of dough (6)
+
+[1765] Cook 2 wad of dough + 2 Gnollish pie tin
+You acquire pie crust (2)
+Crafting used 2 each of Gnollish pie tin and wad of dough
+
+[1765] Cook 1 lemon + 1 pie crust
+You acquire an item: lemon meringue pie
+Crafting used 1 each of pie crust and lemon
+
+[1765] Cook 1 lemon + 1 pie crust
+You acquire an item: lemon meringue pie
+Crafting used 1 each of pie crust and lemon
+
+[1765] Cook 1 taco shell + 1 hill of beans
+
+[1765] Cook 1 taco shell + 1 catgut
+You acquire an item: catgut taco
+Crafting used 1 each of taco shell and catgut
+
+[1765] Cook 1 taco shell + 1 ratgut
+
+[1765] Cook 1 hellion cube + 1 ratgut
+
+[1765] Cook 1 hellion cube + 1 scrumptious reagent
+You acquire an item: Hell broth
+Crafting used 1 each of scrumptious reagent and hellion cube
+
+use 1 magicalness-in-a-can
+You gain 2 Magicalness
+
+equip acc2 white collar
+
+Talking to Mourn at Belilafs Comedy Club
+
+equip hat clown wig
+
+equip weapon hilarious comedy prop
+
+equip off-hand Victor, the Insult Comic Hellhound Puppet
+
+equip pants bloody clown pants
+
+equip acc2 mysterious silver lapel pin
+Trying to insult Mourn
+You acquire meat stack (3)
+
+Talking to Mourn at Belilafs Comedy Club
+Trying some observational humor on Mourn
+
+[1765] Belilafs Comedy Club
+Encounter: CH Imp
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: ch imp takes 55 damage.
+You gain 17 hit points
+You gain 5 Mana Points
+Round 2: Grorg rakes your enemy over the coals for 1 damage.
+Round 2: ch imp takes 1 damage.
+Round 2: ch imp takes 2 damage.
+Round 2: ch imp takes 5 damage.
+Round 2: ch imp takes 5 damage.
+You lose 5 hit points
+Round 2: boolicious wins the fight!
+After Battle: Grorg squints his eyes, sways back and forth, and sings the following verse:I'll sing you a song, I'm the piano catI'll sing you a song right now'Cause you look like you could use a melodySo sit back and hear me meow.
+After Battle: Grorg rakes in a little more Meat for you.
+You gain 74 Meat
+You acquire an item: imp air
+You gain 2 Beefiness
+You gain 14 Enchantedness
+You gain 4 Cheek

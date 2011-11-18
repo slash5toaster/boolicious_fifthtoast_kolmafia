@@ -1,0 +1,695 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+June 1, 2011 - Carlvember 3
+
+Ronald: first quarter
+Grimace: waxing crescent
+Mini-moon: far left
+
+Lab&oacute;r Day: 3 days
+Halloween: 13 days
+Feast of Boris: 20 days
+Yuletide: 25 days
+Festival of Jarlsberg: 30 days
+Valentine's Day: 41 days
+St. Sneaky Pete's Day: 48 days
+Oyster Egg Day: 55 days
+El Dia De Los Muertos Borrachos: 63 days
+Generic Summer Holiday: 72 days
+Dependence Day: 81 days
+Arrrbor Day: 89 days
+
+
+2 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Sauceror
+
+Lv: 11
+HP: 288 / 288
+MP: 161 / 472
+
+Mus: 185 (87), tnp = 145
+Mys: 248 (116), tnp = 174
+Mox: 166 (82), tnp = 94
+
+Advs: 133
+Meat: 3,373
+Drunk: 0
+
+
+ > equipment
+
+Hat: Ancient Saucehelm
+Weapon: titanium assault umbrella
+Off-hand: stress ball
+Shirt: (none)
+Pants: 1337 7r0uZ0RZ
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: mysterious silver lapel pin
+Acc. 3: badass belt
+
+Pet: Pet Cheezling (20 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - Liver of Steel
+
+Sauceror
+ - Advanced Saucecrafting
+ - Elemental Saucesphere
+ - Expert Panhandling
+ - Intrinsic Spiciness
+ - Jabañero Saucesphere
+ - Jalapeño Saucesphere
+ - Salsaball
+ - Sauce Contemplation
+ - Saucegeyser
+ - Saucestorm
+ - Saucy Salve
+ - Stream of Sauce
+ - Wave of Sauce
+
+
+ > effects
+
+3 of 3 AT buffs active.
+♫ Inigo's Incantation of Inspiration (6)
+Having a Ball! (11)
+♫ Cletus's Canticle of Celerity (84)
+Empathy (222)
+Curiosity of Br'er Tarrypin (263)
+Astral Shell (324)
+Scarysauce (435)
+♫ Polka of Plenty (589)
+Elemental Saucesphere (682)
+Jabañero Saucesphere (686)
+Jalapeño Saucesphere (1,661)
+1337p4n7Z (∞)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +0.00
+Meat: +70.00%
+Item: +15.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 3 Advanced Saucecrafting
+You acquire scrumptious reagent (3)
+
+cast 30 Sauce Contemplation
+You acquire an effect: Saucemastery (duration: 150 Adventures)
+Visiting Potted Meat Tree in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+
+adventure.php?snarfblat=118
+
+adventure.php?snarfblat=118
+
+[2717] Hidden City (Square 24)
+Encounter: pygmy assault squad
+Round 0: boolicious loses initiative!
+Round 1: boolicious casts SAUCEGEYSER!
+Round 2: pygmy assault squad takes 294 damage.
+You gain 30 hit points
+You gain 8 Mana Points
+Round 2: boolicious wins the fight!
+You gain 209 Meat
+You acquire an item: pygmy pygment
+You acquire an item: bottle of alcohol
+You gain 11 Beefiness
+You gain 18 Magicalness
+You gain 9 Smarm
+
+adventure.php?snarfblat=118
+
+[2718] Hidden City (Square 24)
+Encounter: A Spine-Tingling Adventure
+You gain 20 Fortitude
+
+adventure.php?snarfblat=118
+
+[2719] Hidden City (Square 11)
+Encounter: Turnabout Pygmies
+You gain 20 Roguishness
+
+adventure.php?snarfblat=118
+
+[2720] Hidden City (Square 15)
+Encounter: boaraffe
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: boaraffe takes 8 damage.
+Round 2: boolicious casts SAUCESTORM!
+Round 3: boaraffe takes 57 damage.
+You gain 11 hit points
+You gain 2 Mana Points
+You acquire an effect: Frozen Shoulders (duration: 1 Adventure)
+Round 3: boolicious casts SAUCESTORM!
+Round 4: boaraffe takes 54 damage.
+You gain 10 hit points
+You gain 2 Mana Points
+Round 4: boolicious attacks!
+Round 5: boaraffe takes 72 damage.
+Round 5: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 35 hit points
+You gain 37 Mana Points
+You gain 154 Meat
+You gain 8 Fortitude
+You gain 19 Wizardliness
+You gain 9 Roguishness
+
+[2721] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[2722] Desert (Ultrahydrated)
+Encounter: swarm of fire ants
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: swarm of fire ants takes 1 damage.
+Round 2: boolicious casts SAUCESTORM!
+Round 3: swarm of fire ants takes 116 damage.
+You gain 10 hit points
+You gain 2 Mana Points
+You acquire an effect: Frozen Shoulders (duration: 1 Adventure)
+Round 3: boolicious casts SAUCESTORM!
+Round 4: swarm of fire ants takes 1 damage.
+You gain 12 hit points
+You gain 3 Mana Points
+You acquire an effect: Burning Ears (duration: 1 Adventure)
+Round 4: boolicious casts SAUCESTORM!
+Round 5: swarm of fire ants takes 1 damage.
+You gain 12 hit points
+You gain 3 Mana Points
+Round 5: boolicious attacks!
+Round 6: swarm of fire ants takes 87 damage.
+Round 6: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 33 hit points
+You gain 39 Mana Points
+You gain 86 Meat
+You acquire an item: handful of sand
+You gain 8 Strongness
+You gain 18 Mysteriousness
+You gain 10 Chutzpah
+
+[2723] Desert (Ultrahydrated)
+Encounter: cactuary
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: cactuary takes 7 damage.
+Round 2: boolicious attacks!
+Round 3: cactuary takes 81 damage.
+You lose 3 hit points
+Round 3: boolicious attacks!
+Round 4: cactuary takes 78 damage.
+You lose 8 hit points
+Round 4: boolicious wins the fight!
+You gain 152 Meat
+You gain 8 Fortitude
+You gain 17 Enchantedness
+You gain 9 Cheek
+
+[2724] Desert (Ultrahydrated)
+Encounter: plaque of locusts
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: plaque of locusts takes 8 damage.
+Round 2: boolicious attacks!
+You lose 1 hit point
+Round 3: boolicious attacks!
+Round 4: plaque of locusts takes 95 damage.
+Round 4: boolicious attacks!
+Round 5: plaque of locusts takes 82 damage.
+Round 5: boolicious wins the fight!
+You gain 40 Meat
+You gain 6 Fortitude
+You gain 20 Mysteriousness
+You gain 8 Smarm
+
+[2725] Desert (Ultrahydrated)
+Encounter: giant giant giant centipede
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: giant giant giant centipede takes 7 damage.
+Round 2: boolicious attacks!
+Round 3: giant giant giant centipede takes 78 damage.
+Round 3: boolicious attacks!
+Round 4: giant giant giant centipede takes 84 damage.
+Round 4: boolicious wins the fight!
+You gain 253 Meat
+You gain 8 Beefiness
+You gain 16 Wizardliness
+You gain 11 Sarcasm
+
+[2726] Desert (Ultrahydrated)
+Encounter: plaque of locusts
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: plaque of locusts takes 9 damage.
+Round 2: boolicious attacks!
+Round 3: plaque of locusts takes 87 damage.
+Round 3: boolicious attacks!
+Round 4: plaque of locusts takes 88 damage.
+Round 4: boolicious wins the fight!
+You gain 40 Meat
+You acquire an item: honey-dipped locust
+You gain 13 Strongness
+You gain 13 Mysteriousness
+You gain 8 Cheek
+
+adventure.php?snarfblat=118
+
+adventure.php?snarfblat=118
+
+[2727] Hidden City (Square 1)
+Encounter: A Spine-Tingling Adventure
+You gain 20 Strengthliness
+
+adventure.php?snarfblat=118
+
+[2728] Hidden City (Square 3)
+Encounter: pygmy blowgunner
+Round 0: boolicious loses initiative!
+Round 1: pygmy blowgunner takes 3 damage.
+Round 1: pygmy blowgunner takes 8 damage.
+Round 1: pygmy blowgunner takes 3 damage.
+You lose 59 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: pygmy blowgunner takes 56 damage.
+You gain 11 hit points
+You gain 3 Mana Points
+You acquire an effect: Frozen Shoulders (duration: 1 Adventure)
+Round 2: pygmy blowgunner takes 2 damage.
+Round 2: pygmy blowgunner takes 9 damage.
+Round 2: pygmy blowgunner takes 5 damage.
+You lose 59 hit points
+Round 2: boolicious attacks!
+Round 3: pygmy blowgunner takes 2 damage.
+Round 3: pygmy blowgunner takes 6 damage.
+Round 3: pygmy blowgunner takes 3 damage.
+You lose 57 hit points
+Round 3: boolicious casts SAUCESTORM!
+Round 4: pygmy blowgunner takes 101 damage.
+You gain 12 hit points
+You gain 2 Mana Points
+Round 4: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 29 hit points
+You gain 36 Mana Points
+You gain 173 Meat
+You gain 6 Muscleboundness
+You gain 23 Enchantedness
+You gain 10 Cheek
+You gain a Moxie point!
+
+adventure.php?snarfblat=118
+
+[2729] Hidden City (Square 5)
+Encounter: pygmy headhunter
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: pygmy headhunter takes 7 damage.
+Round 2: pygmy headhunter takes 2 damage.
+Round 2: pygmy headhunter takes 10 damage.
+Round 2: pygmy headhunter takes 5 damage.
+You lose 49 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: pygmy headhunter takes 112 damage.
+You gain 11 hit points
+You gain 3 Mana Points
+You acquire an effect: Frozen Shoulders (duration: 1 Adventure)
+Round 3: pygmy headhunter takes 1 damage.
+Round 3: pygmy headhunter takes 6 damage.
+Round 3: pygmy headhunter takes 4 damage.
+You lose 48 hit points
+Round 3: boolicious casts SAUCESTORM!
+Round 4: pygmy headhunter takes 56 damage.
+You gain 12 hit points
+You gain 2 Mana Points
+You acquire an effect: Burning Ears (duration: 1 Adventure)
+Round 4: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 27 hit points
+You gain 25 Mana Points
+You gain 328 Meat
+You gain 14 Strengthliness
+You gain 15 Magicalness
+You gain 8 Chutzpah
+
+adventure.php?snarfblat=118
+
+[2730] Hidden City (Square 10)
+Encounter: A Spine-Tingling Adventure
+You gain 20 Beefiness
+
+adventure.php?snarfblat=118
+
+[2731] Hidden City (Square 11)
+Encounter: boaraffe
+Round 0: boolicious loses initiative!
+Round 1: boaraffe takes 2 damage.
+Round 1: boaraffe takes 4 damage.
+Round 1: boaraffe takes 4 damage.
+You lose 47 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: boaraffe takes 58 damage.
+You gain 11 hit points
+You gain 3 Mana Points
+You acquire an effect: Frozen Shoulders (duration: 1 Adventure)
+Round 2: boaraffe takes 1 damage.
+Round 2: boaraffe takes 10 damage.
+Round 2: boaraffe takes 5 damage.
+You lose 48 hit points
+Visiting Comfy Sofa in clan rumpus room
+
+[2732] Rest in Clan Sofa (1 turns)
+You gain 55 hit points
+You gain 56 Mana Points
+
+adventure.php?snarfblat=118
+
+adventure.php?snarfblat=118
+
+[2733] Hidden City (Square 11)
+Encounter: pygmy headhunter
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: pygmy headhunter takes 7 damage.
+Round 2: pygmy headhunter takes 2 damage.
+Round 2: pygmy headhunter takes 10 damage.
+Round 2: pygmy headhunter takes 5 damage.
+You lose 72 hit points
+Visiting Comfy Sofa in clan rumpus room
+
+[2734] Rest in Clan Sofa (1 turns)
+You gain 55 hit points
+You gain 13 Mana Points
+
+multiuse.php?passitem=5102&pwd=c55b98117a2420bf0e1b176f1fae16ad
+
+use 1 Ben-Gal™ Balm
+You acquire an effect: Go Get 'Em, Tiger! (duration: 3 Adventures)
+
+use 1 black picnic basket
+You acquire an item: black pudding
+You acquire an item: Blackfly Chardonnay
+You acquire an item: black & tan
+
+eat 1 black pudding
+friars blessing 2
+You acquire an effect: Brother Corsican's Blessing (duration: 20 Adventures)
+
+[2735] Barrel full of Barrels
+
+[2735] Barrel Full of Barrels
+Encounter: Barrel Smash
+You acquire an item: salty dog
+
+[2736] Barrel Full of Barrels
+Encounter: Barrel Smash
+You acquire an item: white Canadian
+
+drink 1 white Canadian
+You gain 5 Adventures
+You gain 12 Fortitude
+You gain a Muscle point!
+You acquire an effect: Canadianity (duration: 3 Adventures)
+You gain 3 Drunkenness
+
+[2738] Cook 1 stalk of asparagus + 1 secret blend of herbs and spices
+You acquire an item: asparagus stir-fry
+Crafting used 1 each of secret blend of herbs and spices and stalk of asparagus
+
+[2739] Cook 1 fricasseed brains + 1 Gnollish casserole dish
+You acquire an item: brains casserole
+Crafting used 1 each of Gnollish casserole dish and fricasseed brains
+
+[2739] Cook 1 scrumptious reagent + 1 glass of goat's milk
+You acquire milk of magnesium (3)
+Crafting used 1 each of glass of goat's milk and scrumptious reagent
+
+[2740] Cook 1 scrumptious reagent + 1 grapefruit
+You acquire ointment of the occult (3)
+Crafting used 1 each of grapefruit and scrumptious reagent
+
+[2741] Cook 1 plain pizza + 1 Knob sausage
+You acquire an item: sausage pizza
+Crafting used 1 each of Knob sausage and plain pizza
+
+[2741] Cook 1 pr0n legs + 1 ketchup
+You acquire an item: pr0n cocktail
+Crafting used 1 each of ketchup and pr0n legs
+
+[2741] Cook 1 pie crust + 1 lemon
+You acquire an item: lemon meringue pie
+Crafting used 1 each of pie crust and lemon
+
+[2741] Cook 1 scrumptious reagent + 1 papaya
+You acquire papotion of papower (3)
+Crafting used 1 each of scrumptious reagent and papaya
+
+[2742] Cook 1 scrumptious reagent + 1 cranberries
+You acquire cranberry cordial (3)
+Crafting used 1 each of scrumptious reagent and cranberries
+
+[2743] Cook 1 pie crust + 1 strawberry
+You acquire an item: strawberry pie
+Crafting used 1 each of pie crust and strawberry
+
+[2743] Mix 1 tomato + 1 ice-cold Sir Schlitz
+You acquire an item: bloody beer
+Crafting used 1 each of ice-cold Sir Schlitz and tomato
+
+[2743] Mix 1 bottle of whiskey + 1 Dyspepsi-Cola
+You acquire an item: whiskey and cola
+Crafting used 1 each of bottle of whiskey and Dyspepsi-Cola
+
+[2743] Mix 1 bottle of rum + 1 grapefruit
+You acquire an item: monkey wrench
+Crafting used 1 each of grapefruit and bottle of rum
+
+add to closet: 1 bugbear beanie
+
+add to closet: 1 bugbear bungguard
+
+add to closet: 1 eyepatch
+
+add to closet: 1 filthy corduroys
+
+add to closet: 1 filthy knitted dread sack
+
+add to closet: 1 homoerotic frat-paddle
+
+add to closet: 1 Knob Goblin harem veil
+
+add to closet: 1 Orcish baseball cap
+
+add to closet: 1 Orcish cargo shorts
+
+add to closet: 1 stuffed shoulder parrot
+
+add to closet: 1 swashbuckling pants
+
+Combine 1 spooky shrunken head + 1 spooky stick
+You acquire an item: spooky staff
+Crafting used 1 each of spooky stick and spooky shrunken head
+
+[2743] Smith 1 chisel + 1 big rock
+You acquire an item: stone turtle
+Crafting used 1 each of big rock and chisel
+
+[2744] Smith 1 stone turtle + 1 turtle totem
+You acquire an item: Mace of the Tortoise
+Crafting used 1 each of turtle totem and stone turtle
+
+[2745] Mix 1 bottle of rum + 1 Dyspepsi-Cola
+You acquire an item: rum and cola
+Crafting used 1 each of Dyspepsi-Cola and bottle of rum
+
+use 1 bit-o-cactus
+You gain 10 Wizardliness
+
+eat 1 black pudding
+You gain 5 Adventures
+You gain 10 Beefiness
+You gain 10 Enchantedness
+You gain a Mysticality point!
+You gain 10 Cheek
+
+use 1 Doc Galaktik's Homeopathic Elixir
+You gain 20 hit points
+
+use 1 dwarvish document
+
+autosell: 1 Heimandatz's heart
+You gain 4,000 Meat
+
+use 1 milk of magnesium
+You acquire an effect: Got Milk (duration: 15 Adventures)
+
+[2745] Cook 1 carob chunks + 1 wad of dough
+You acquire an item: carob chunk cookies
+Crafting used 1 each of wad of dough and carob chunks
+
+eat 1 carob chunk cookies
+You gain 6 Adventures
+You gain 6 Mysteriousness
+You lose some of an effect: Got Milk
+
+[2745] Cook 1 pie crust + 1 strawberry
+You acquire an item: strawberry pie
+Crafting used 1 each of pie crust and strawberry
+
+eat 1 strawberry pie
+You gain 7 Adventures
+You gain 8 Cheek
+You lose some of an effect: Got Milk
+
+[2745] Cook 1 pie crust + 1 lemon
+You acquire an item: lemon meringue pie
+Crafting used 1 each of pie crust and lemon
+
+[2745] Cook 1 wad of tofu + 1 asparagus stir-fry
+You acquire an item: tofu stir-fry
+Crafting used 1 each of wad of tofu and asparagus stir-fry
+
+Use unrolling pin
+You acquire wad of dough (3)
+
+[2745] Cook 1 white chocolate chips + 1 wad of dough
+You acquire an item: white chocolate chip cookies
+Crafting used 1 each of wad of dough and white chocolate chips
+
+[2744] Fantasy Airship
+Encounter: MagiMechTech MechaMech
+Round 0: boolicious loses initiative!
+Round 1: magimechtech mechamech takes 3 damage.
+Round 1: magimechtech mechamech takes 3 damage.
+Round 1: magimechtech mechamech takes 4 damage.
+You lose 33 hit points
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: magimechtech mechamech takes 73 damage.
+You gain 17 hit points
+You gain 4 Mana Points
+Round 2: magimechtech mechamech takes 3 damage.
+Round 2: magimechtech mechamech takes 10 damage.
+Round 2: magimechtech mechamech takes 3 damage.
+You lose 33 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: magimechtech mechamech takes 58 damage.
+You gain 10 hit points
+You gain 2 Mana Points
+You acquire an effect: Burning Ears (duration: 1 Adventure)
+Round 3: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 24 hit points
+You gain 42 Mana Points
+You acquire an item: glowing red eye
+You gain 4 Strongness
+You gain 15 Wizardliness
+You gain 11 Smarm
+
+[2745] Fantasy Airship
+Encounter: Random Lack of an Encounter
+choice.php?pwd&whichchoice=182&option=1
+Encounter: Spunky Princess
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: spunky princess takes 8 damage.
+Round 2: spunky princess takes 2 damage.
+Round 2: spunky princess takes 2 damage.
+Round 2: spunky princess takes 4 damage.
+You lose 10 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: spunky princess takes 56 damage.
+You gain 11 hit points
+You gain 3 Mana Points
+You acquire an effect: Burning Ears (duration: 1 Adventure)
+Round 3: spunky princess takes 3 damage.
+Round 3: spunky princess takes 5 damage.
+Round 3: spunky princess takes 3 damage.
+You lose 10 hit points
+Round 3: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 29 hit points
+You gain 31 Mana Points
+You gain 198 Meat
+You acquire an item: titanium assault umbrella
+You acquire an item: cocoa eggshell fragment
+You gain 5 Strongness
+You gain 14 Mysteriousness
+You gain 3 Chutzpah
+
+[2747] Cook 1 cocoa eggshell fragment + 1 cocoa eggshell fragment
+You acquire an item: large cocoa eggshell fragment
+Crafting used 1 each of cocoa eggshell fragment and cocoa eggshell fragment
+
+[2747] Cook 1 cocoa eggshell fragment + 1 large cocoa eggshell fragment + 1 large cocoa eggshell fragment
+You acquire an item: cocoa egg
+Crafting used 1 each of large cocoa eggshell fragment and large cocoa eggshell fragment
+
+drink 1 monkey wrench
+You gain 6 Adventures
+You gain 10 Enchantedness
+You gain 3 Drunkenness
+
+Use 1 disassembled clover
+You acquire an item: ten-leaf clover
+
+[2747] Cook 1 ten-leaf clover + 1 cocoa egg
+You acquire an item: Lucky Surprise Egg
+Crafting used 1 each of ten-leaf clover and cocoa egg
+
+[2746] Fantasy Airship
+Encounter: Irritating Series of Random Encounters
+Round 0: boolicious loses initiative!
+Round 1: irritating series of random encounters takes 3 damage.
+Round 1: irritating series of random encounters takes 3 damage.
+Round 1: irritating series of random encounters takes 5 damage.
+You lose 20 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: irritating series of random encounters takes 116 damage.
+You gain 10 hit points
+You gain 3 Mana Points
+You acquire an effect: Frozen Shoulders (duration: 1 Adventure)
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Wensleydale, the 16 lb. Pet Cheezling
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 25 hit points
+You gain 45 Mana Points
+You gain 278 Meat
+You gain 8 Beefiness
+You gain 10 Enchantedness
+You gain 8 Roguishness
+
+[2747] Fantasy Airship
+Encounter: Random Lack of an Encounter
+choice.php?pwd&whichchoice=182&option=3
+You lose 40 hit points
+You gain 19 Muscleboundness
+You gain 18 Wizardliness
+You gain 20 Chutzpah

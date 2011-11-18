@@ -1,0 +1,232 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+August 1, 2011 - April 8
+
+Ronald: waning crescent
+Grimace: waning crescent
+Mini-moon: in front of Ronald, L side
+
+El Dia De Los Muertos Borrachos: 2 days
+Generic Summer Holiday: 11 days
+Dependence Day: 20 days
+Arrrbor Day: 28 days
+Lab&oacute;r Day: 38 days
+Halloween: 48 days
+Feast of Boris: 55 days
+Yuletide: 60 days
+Festival of Jarlsberg: 65 days
+Valentine's Day: 76 days
+St. Sneaky Pete's Day: 83 days
+Oyster Egg Day: 90 days
+
+
+Moxie bonus today and tomorrow.
+
+
+ > status
+
+Name: boolicious
+Class: Sauceror
+
+Lv: 15
+HP: 144 / 469
+MP: 571 / 833
+
+Mus: 333 (159), tnp = 32
+Mys: 489 (212), tnp = 145
+Mox: 341 (160), tnp = 111
+
+Advs: 182
+Meat: 33,427
+Drunk: 0
+
+
+ > equipment
+
+Hat: orange peel hat
+Weapon: Windsor Pan of the Source
+Off-hand: stress ball
+Shirt: (none)
+Pants: Newman's Own Trousers
+
+Acc. 1: Mr. Accessory
+Acc. 2: chintzy saucepan earring
+Acc. 3: Gravyskin Belt of the Sauceblob
+
+Pet: Fuzzy Dice (21 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - Liver of Steel
+
+Sauceror
+ - Advanced Saucecrafting
+ - Diminished Gag Reflex
+ - Elemental Saucesphere
+ - Expert Panhandling
+ - Immaculate Seasoning
+ - Impetuous Sauciness
+ - Intrinsic Spiciness
+ - Jabañero Saucesphere
+ - Jalapeño Saucesphere
+ - Salsaball
+ - Sauce Contemplation
+ - Saucegeyser
+ - Saucestorm
+ - Saucy Salve
+ - Scarysauce
+ - Stream of Sauce
+ - The Way of Sauce
+ - Wave of Sauce
+
+
+ > effects
+
+1 of 3 AT buffs active.
+Coated in Slime (6)
+Having a Ball! (17)
+Ghostly Shell (19)
+♫ Polka of Plenty (29)
+Empathy (42)
+Reptilian Fortitude (60)
+Scarysauce (68)
+Elemental Saucesphere (68)
+Jabañero Saucesphere (68)
+Saucemastery (592)
+Jalapeño Saucesphere (991)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +70.00%
+Item: +5.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+postwarisland.php?place=concert
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+
+[5042] Hippy Camp (Stone Age)
+Encounter: cavewomyn hippy
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+You lose 391 hit points
+
+postwarisland.php?place=nunnery
+postwarisland.php?action=nuns&pwd&place=nunnery
+You gain 406 hit points
+
+uneffect Beaten Up
+
+[5043] The Slime Tube
+Encounter: glistening Slime pseudopod
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+You lose 643 hit points
+
+clan_slimetube.php?action=chamois
+You lose an effect: Coated in Slime
+
+uneffect Beaten Up
+Visiting Comfy Sofa in clan rumpus room
+
+[5044] Rest in Clan Sofa (1 turns)
+You gain 75 hit points
+You gain 75 Mana Points
+
+[5045] Rest in Clan Sofa (1 turns)
+You gain 75 hit points
+You gain 75 Mana Points
+Visiting Potted Meat Tree in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+
+Visiting Doc Galaktik
+
+Visiting Doc Galaktik
+You gain 335 hit points
+You spent 2,010 Meat
+
+[5046] The Slime Tube
+Encounter: squirming Slime pseudopod
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 2: slime1 takes 8 damage.
+Round 2: slime1 takes 2 damage.
+Round 2: slime1 takes 10 damage.
+Round 2: slime1 takes 5 damage.
+You lose 1 hit point
+Round 2: boolicious casts SAUCEMAGEDDON!
+Round 3: slime1 takes 297 damage.
+You gain 36 hit points
+You gain 10 Mana Points
+Round 3: boolicious wins the fight!
+You gain 9 Muscleboundness
+You gain 14 Wizardliness
+You gain 9 Chutzpah
+
+[5047] The Slime Tube
+Encounter: glistening Slime lump
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+You lose 33 hit points
+Round 2: slime1 takes 7 damage.
+Round 2: boolicious casts SAUCEMAGEDDON!
+Round 3: slime1 takes 299 damage.
+You gain 36 hit points
+You gain 11 Mana Points
+Round 3: boolicious wins the fight!
+You gain 8 Fortitude
+You gain 12 Enchantedness
+You gain 12 Chutzpah
+
+[5048] The Slime Tube
+Encounter: glistening Slime pseudopod
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+You lose 98 hit points
+Round 2: slime1 takes 8 damage.
+Round 2: boolicious casts SAUCEMAGEDDON!
+Round 3: slime1 takes 307 damage.
+You gain 40 hit points
+You gain 8 Mana Points
+Round 3: boolicious wins the fight!
+You gain 3 Strongness
+You gain 19 Magicalness
+You gain 9 Smarm
+
+clan_slimetube.php?action=chamois
+You lose an effect: Coated in Slime
+
+[5049] Hippy Camp (Stone Age)
+Encounter: caveman hippy
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SALSABALL! (auto-attack)
+Round 2: caveman hippy takes 8 damage.
+Round 2: boolicious casts SAUCEMAGEDDON!
+Round 3: caveman hippy takes 614 damage.
+You gain 41 hit points
+You gain 8 Mana Points
+Round 3: boolicious wins the fight!
+You acquire an item: stone frisbee
+You gain 21 Strongness
+You gain a Muscle point!
+You gain 30 Magicalness
+You gain 12 Smarm
