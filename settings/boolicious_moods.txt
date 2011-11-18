@@ -1,0 +1,5 @@
+[ apathetic ]
+
+[ default ]
+lose_effect salamanderenity => cast 3 salamander kata
+
