@@ -27,7 +27,7 @@ chatFontSize=small
 chatLinksUseRelay=false
 chatStyle=0
 cloverProtectActive=true
-coinMasterIndex=3
+coinMasterIndex=1
 combatHotkey0
 combatHotkey1
 combatHotkey2
