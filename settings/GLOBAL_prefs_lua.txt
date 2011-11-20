@@ -44,7 +44,7 @@ connectViaAddress=false
 cookies.inventory
 copyAsHTML=false
 customizedTabs=true
-dailyDeedsOptions=Breakfast,Daily Dungeon,Submit Spading Data,Crimbo Tree,Chips,Library Card,Telescope,Ball Pit,Styx Pixie,VIP Pool,April Shower,Bag o' Tricks,Legendary Beat,Outrageous Sombrero,Friars,Skate Park,Concert,Demon Summoning,Rage Gland,Free Rests,Hot Tub,Nuns,Oscus' Soda,Express Card,Flush Mojo,Pudding,Melange,Stills,Tea Party,Photocopy,Putty,Camera,Bonus Adventures,Familiar Drops,Free Fights,Free Runaways,Feast,Romantic Arrow
+dailyDeedsOptions=Breakfast,Daily Dungeon,Submit Spading Data,Crimbo Tree,Chips,Library Card,Telescope,Ball Pit,Styx Pixie,VIP Pool,April Shower,Bag o' Tricks,Legendary Beat,Outrageous Sombrero,Feast,Rage Gland,Free Rests,Hot Tub,Nuns,Express Card,Flush Mojo,Pudding,Melange,Stills,Tea Party,Photocopy,Putty,Camera,Romantic Arrow,Bonus Adventures,Familiar Drops,Free Fights,Free Runaways
 dailyDeedsVersion=2
 debugBuy=false
 debugConsequences=false
@@ -60,7 +60,7 @@ displayName
 displayName.boolicious=boolicious
 externalEditor=geany 
 gapProtection=false
-getBreakfast=true
+getBreakfast=false
 getBreakfast.boolicious=true
 grabCloversHardcore=true
 grabCloversSoftcore=true
@@ -68,7 +68,7 @@ greenScreenProtection=false
 grimoireSkillsHardcore=Summon Hilarious Objects
 grimoireSkillsSoftcore=Summon Hilarious Objects
 guiUsesOneWindow=false
-harvestGardenHardcore=none
+harvestGardenHardcore=huge pumpkin
 harvestGardenSoftcore=none
 hideServerDebugText=false
 highlightList
@@ -105,7 +105,7 @@ logStatusEffects=true
 logStatusOnLogin=true
 loginRecoveryHardcore=false
 loginRecoverySoftcore=true
-loginScript=scripts/KnobTreasury.ash
+loginScript
 loginServerName=www.kingdomofloathing.com
 loginWindowLogo=lantern.gif
 logoutScript
