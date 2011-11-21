@@ -18,7 +18,7 @@ ItemManageFrame=592,332,-1
 KoLDesktop=287,74,-1
 LoginFrame=399,266,0
 MailboxFrame=289,310,1
-MaximizerFrame=295,348
+MaximizerFrame=385,266
 MeatManageFrame=249,377
 MushroomFrame=2544,410,0
 OptionsFrame=141,238,5
@@ -28,8 +28,8 @@ RequestFrame=-3,-3,-1
 RequestSynchFrame=337,247,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
-StoreManageFrame=-3,-3,0
-TabbedChatFrame=-3,-3,0
+StoreManageFrame=-3,-3,3
+TabbedChatFrame=390,362,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -99,12 +99,12 @@ _stressBallSqueezes=0
 _syntheticDogHairPillUsed=false
 _thingfinderCasts=0
 _timeHelmetAdv=0
-_toastSummons=1
+_toastSummons=3
 _tokenDrops=0
 _transponderDrops=0
 _userMods
 _vmaskAdv=0
-_zapCount=1
+_zapCount=0
 addingScrolls=2
 arcadeGameHints=true
 autoAbortThreshold=-0.05
@@ -564,7 +564,7 @@ concertVisited=true
 counterScript
 crimboTreeDays=7
 currentBountyItem=2102
-currentFullness=0
+currentFullness=1
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -596,7 +596,7 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8=Kelderred
 demonName9
-demonSummoned=false
+demonSummoned=true
 desktopHeight=600
 desktopWidth=800
 discardedKarma=0
@@ -663,13 +663,13 @@ lastBangPotion827=ettin strength
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=14
+lastBreakfast=15
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=14
+lastCounterDay=15
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=1
@@ -915,7 +915,7 @@ telescopeUpgrades=0
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=2
+tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
