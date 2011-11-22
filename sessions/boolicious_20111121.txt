@@ -269,3 +269,1283 @@ You acquire an item: ocean motion
 You acquire an item: a little sump'm sump'm
 
 [7769] Summoning Chamber
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+November 21, 2011 - Bill 8
+
+Ronald: waning crescent
+Grimace: waning crescent
+Mini-moon: in front of Grimace, R side
+
+Feast of Boris: 3 days
+Dependence Day: 4 days
+Arrrbor Day: 12 days
+Lab&oacute;r Day: 22 days
+Halloween: 32 days
+Festival of Jarlsberg: 41 days
+Yuletide: 44 days
+Valentine's Day: 60 days
+St. Sneaky Pete's Day: 67 days
+Oyster Egg Day: 74 days
+El Dia De Los Muertos Borrachos: 82 days
+Generic Summer Holiday: 91 days
+
+
+Moxie bonus today and tomorrow.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 20
+HP: 933 / 2,788
+MP: 639 / 1,053
+
+Mus: 1,834 (397), tnp = 150
+Mys: 648 (290), tnp = 370
+Mox: 673 (286), tnp = 60
+
+Advs: 201
+Meat: 102,713
+Drunk: 0
+
+
+ > equipment
+
+Hat: hardened slime hat
+Weapon: Flail of the Seven Aspects
+Off-hand: Tuesday's ruby
+Shirt: Ultracolor™ shirt
+Pants: Galapagosian Cuisses
+
+Acc. 1: cursed scrunchie
+Acc. 2: Pokëmann figurine: Frank
+Acc. 3: ring of conflict
+
+Pet: Cocoabo (35 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Phorcefullness (5)
+Sugar Rush (10)
+Muscularrr (10)
+Truly Gritty (10)
+Temporary Lycanthropy (10)
+Strength of Ten Ettins (10)
+Go Get 'Em, Tiger! (15)
+Brother Smothers's Blessing (20)
+Brother Flying Burrito's Blessing (20)
+Elvish (40)
+Having a Ball! (40)
+♫ The Sonata of Sneakiness (87)
+Salamanderenity (91)
+Astral Shell (163)
+Scarysauce (506)
+Tenacity of the Snapper (538)
+Reptilian Fortitude (538)
+Patience of the Tortoise (544)
+Empathy (578)
+♫ Stevedave's Shanty of Superiority (662)
+♫ The Magical Mojomuscular Melody (666)
+Elemental Saucesphere (913)
+Jingle Jangle Jingle (913)
+Jalapeño Saucesphere (913)
+Jabañero Saucesphere (913)
+Ghostly Shell (923)
+Retrograde Relaxation (7,216)
+
+
+ > modifiers
+
+ML: +0
+Enc: -10.00%
+Init: +20.00%
+
+Exp: +0.00
+Meat: +35.00%
+Item: +20.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+use 1 Manual of Labor
+
+use 1 Chester's bag of candy
+outfit Knob Goblin Harem Girl Disguise
+
+[7769] Cobb's Knob Treasury
+Encounter: Finally, the Payoff
+You gain 500 Meat
+
+equip hat hardened slime hat
+
+equip pants Galapagosian Cuisses
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 1,845 hit points
+
+buy 1 oil of stability for 684 each from 1877436 on 20111121
+You acquire an item: oil of stability
+
+use 1 oil of stability
+You acquire an effect: Stabilizing Oiliness (duration: 5 Adventures)
+
+buy 2 divine blowout for 600 each from 566589 on 20111121
+You acquire divine blowout (2)
+
+buy 1 scroll of drastic healing for 215 each from 845708 on 20111121
+You acquire an item: scroll of drastic healing
+
+buy 3 Jumbo Dr. Lucifer for 7000 each from 82818 on 20111121
+You acquire Jumbo Dr. Lucifer (3)
+
+buy 1 tomato juice of powerful power for 360 each from 2015495 on 20111121
+You acquire an item: tomato juice of powerful power
+
+use 1 tomato juice of powerful power
+You acquire an effect: Tomato Power (duration: 5 Adventures)
+
+buy 1 hot wad for 424 each from 273083 on 20111121
+You acquire an item: hot wad
+
+use 1 hot wad
+You gain 1 Adventure
+You gain 33 Muscleboundness
+You gain 9 Enchantedness
+You gain 24 Smarm
+You acquire an effect: Hot Blooded (duration: 10 Adventures)
+
+use 1 handful of hand chalk
+You acquire an effect: Chalky Hand (duration: 5 Adventures)
+
+cast 5 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 165 Adventures)
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=8
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=7
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=5
+clan_hobopolis.php?place=2
+
+[7770] Hobopolis Town Square
+Encounter: His Excellency Manny, the Curator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 2112 damage.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 79 hit points
+You gain 79 Muscularity Points
+Round 2: boolicious wins the fight!
+You gain 44 Strongness
+You gain 16 Mysteriousness
+You gain 25 Chutzpah
+Richard takes a hobo skin
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=3
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+
+[7771] Fernswarthy's Basement (Level 184)
+Encounter: The Ghost of Fernswarthy's great great great great great great great great great great great great Grandfather
+Round 0: boolicious loses initiative!
+Round 1: boolicious casts TURTLE OF SEVEN TAILS!
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 77 hit points
+You gain 77 Muscularity Points
+Round 2: boolicious attacks!
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great grandfather drops 12 attack power.
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great grandfather drops 12 defense.
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 10 damage.
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 354 hit points
+Round 3: boolicious uses the dark potion!
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 4 damage.
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 350 hit points
+Round 4: boolicious uses the divine blowout!
+Round 5: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+You gain 28 Roguishness
+Round 5: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 5: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 7 damage.
+Round 5: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 350 hit points
+Round 5: boolicious uses the boozebomb!
+Round 6: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 404 damage.
+Round 6: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 6: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 5 damage.
+Round 6: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 338 hit points
+Round 6: boolicious uses the gob of wet hair!
+Round 7: the ghost of fernswarthy's great great great great great great great great great great great great grandfather drops 2 attack power.
+Round 7: the ghost of fernswarthy's great great great great great great great great great great great great grandfather drops 3 defense.
+Round 7: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 7: the ghost of fernswarthy's great great great great great great great great great great great great grandfather drops 12 attack power.
+Round 7: the ghost of fernswarthy's great great great great great great great great great great great great grandfather drops 12 defense.
+Round 7: boolicious attacks!
+Round 8: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 180 Meat.
+Round 8: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 8: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 8 damage.
+Round 8: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 350 hit points
+Round 8: boolicious uses the The Six-Pack of Pain!
+Round 9: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 9: the ghost of fernswarthy's great great great great great great great great great great great great grandfather drops 110 attack power.
+Round 9: the ghost of fernswarthy's great great great great great great great great great great great great grandfather drops 101 defense.
+Round 9: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 79 hit points
+You gain 79 Muscularity Points
+Round 9: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 9: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 6 damage.
+Round 9: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 332 hit points
+Round 9: boolicious attacks!
+Round 10: Cocopuff's bells jingle merrily.
+Round 10: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 10: the ghost of fernswarthy's great great great great great great great great great great great great grandfather drops 12 attack power.
+Round 10: the ghost of fernswarthy's great great great great great great great great great great great great grandfather drops 12 defense.
+Round 10: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 10: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 4 damage.
+Round 10: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 318 hit points
+Round 10: boolicious attacks!
+Round 11: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 43 hit points
+You gain 43 Muscularity Points
+Round 11: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 11: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 4 damage.
+Round 11: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 332 hit points
+Round 11: boolicious attacks!
+Round 12: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 12: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 8 damage.
+Round 12: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 323 hit points
+Round 12: boolicious casts WAVE OF SAUCE!
+Round 13: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 51 damage.
+You gain 17 hit points
+You gain 5 Muscularity Points
+Round 13: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 13: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 9 damage.
+Round 13: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 322 hit points
+
+uneffect Beaten Up
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 3,257 hit points
+unequip weapon
+unequip offhand
+
+equip acc3 blackberry slippers
+
+buy 1 tobiko marble soda for 450 each from 1397085 on 20111121
+You acquire an item: tobiko marble soda
+
+use 1 tobiko marble soda
+You gain 8 Muscularity Points
+You acquire an effect: Pisces in the Skyces (duration: 15 Adventures)
+
+[7772] Fernswarthy's Basement (Level 184)
+Encounter: The Ghost of Fernswarthy's great great great great great great great great great great great great Grandfather
+Round 0: boolicious loses initiative!
+Round 1: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 1: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 5 damage.
+Round 1: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 340 hit points
+Round 1: boolicious casts ZENDO KOBUSHI KANCHO!
+Round 2: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 49 damage.
+Round 2: the ghost of fernswarthy's great great great great great great great great great great great great grandfather drops 33 defense.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 42 hit points
+You gain 42 Muscularity Points
+Round 2: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 2: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 7 damage.
+Round 2: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 358 hit points
+Round 2: boolicious casts ZENDO KOBUSHI KANCHO!
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 50 damage.
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great grandfather drops 33 defense.
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 8 damage.
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 359 hit points
+Round 3: boolicious casts SEVEN-FINGER STRIKE!
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 2 damage.
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 345 hit points
+Round 4: boolicious casts CHILLED MONKEY BRAIN TECHNIQUE!
+Round 5: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 52 damage.
+Round 5: boolicious casts ZENDO KOBUSHI KANCHO!
+Round 6: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 48 damage.
+Round 6: the ghost of fernswarthy's great great great great great great great great great great great great grandfather drops 33 defense.
+Round 6: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+Round 6: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 9 damage.
+Round 6: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 338 hit points
+Round 6: boolicious casts FLYING FIRE FIST!
+Round 7: the ghost of fernswarthy's great great great great great great great great great great great great grandfather takes 1307 damage.
+You lose an effect: Salamanderenity
+Round 7: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 43 hit points
+You gain 43 Muscularity Points
+Round 7: boolicious wins the fight!
+You gain 420 Muscleboundness
+You gain a Muscle point!
+You gain 179 Wizardliness
+You gain 227 Cheek
+
+[7773] Hobopolis Town Square
+Encounter: Marketplace Entrance
+Took choice 272/2: skip adventure
+choice.php?pwd&whichchoice=272&option=2
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=3
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+clan_hobopolis.php?preaction=simulacrum&place=3&qty=1&makeall=1
+
+[7773] Fernswarthy's Basement (Level 185)
+Encounter: Got Silk?/Leather is Betther
+You gain 432 Beefiness
+
+cast 5 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 165 Adventures)
+
+cast 5 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 165 Adventures)
+
+[7774] Fernswarthy's Basement (Level 186)
+Encounter: The Ghost of Fernswarthy's great great great great great great great great great great great great great Grandfather
+Round 0: boolicious loses initiative!
+Round 1: the ghost of fernswarthy's great great great great great great great great great great great great great grandfather takes 1 damage.
+Round 1: the ghost of fernswarthy's great great great great great great great great great great great great great grandfather takes 4 damage.
+Round 1: the ghost of fernswarthy's great great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 355 hit points
+Round 1: boolicious casts CHILLED MONKEY BRAIN TECHNIQUE!
+Round 2: the ghost of fernswarthy's great great great great great great great great great great great great great grandfather takes 48 damage.
+Round 2: boolicious casts CHILLED MONKEY BRAIN TECHNIQUE!
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great great grandfather takes 50 damage.
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great great grandfather takes 1 damage.
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great great grandfather takes 5 damage.
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 353 hit points
+Round 3: boolicious casts ZENDO KOBUSHI KANCHO!
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great great grandfather takes 51 damage.
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great great grandfather drops 33 defense.
+Round 4: Cocopuff's bells jingle merrily.
+Round 4: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 43 hit points
+You gain 43 Muscularity Points
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great great grandfather takes 1 damage.
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great great grandfather takes 5 damage.
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 354 hit points
+Round 4: boolicious casts FLYING FIRE FIST!
+Round 5: the ghost of fernswarthy's great great great great great great great great great great great great great grandfather takes 1692 damage.
+You lose an effect: Salamanderenity
+Round 5: boolicious wins the fight!
+You gain 388 Beefiness
+You gain a Muscle point!
+You gain 191 Enchantedness
+You gain a Mysticality point!
+You gain 262 Roguishness
+
+[7775] Hobopolis Town Square
+Encounter: Clyde Black, Whose Pants Are Indestructible
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 295 damage.
+Round 2: boolicious casts ASK RICHARD FOR A BANDAGE!
+You gain 535 hit points
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 77 hit points
+You gain 77 Muscularity Points
+You lose 43 hit points
+Round 3: boolicious attacks!
+Round 4: normal hobo takes 295 damage.
+Round 4: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused. LIMIT BREAK!
+Round 4: normal hobo drops 24 attack power.
+Round 4: normal hobo drops 24 defense.
+Round 4: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 52 Beefiness
+You gain 8 Wizardliness
+You gain 25 Roguishness
+
+cast 3 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 99 Adventures)
+
+[7776] Hobopolis Town Square
+Encounter: Isaiah O'Reilly, King of the Inhumans
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts FLYING FIRE FIST!
+Round 2: normal hobo takes 538 damage.
+You lose an effect: Salamanderenity
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 155 Meat.
+Round 2: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 41 Strengthliness
+You gain 21 Magicalness
+You gain 23 Sarcasm
+Richard takes a charred hobo boots
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=3
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+
+use 1 phial of spookiness
+You acquire an effect: Spookyform (duration: 5 Adventures)
+
+equip weapon Flail of the Seven Aspects
+
+equip off-hand Hodgman's varcolac paw
+
+[7777] Hobopolis Town Square
+Encounter: Attention -- A Tent!
+Took choice 225/2: join the crowd
+choice.php?pwd&whichchoice=225&option=2
+Encounter: Working the Crowd
+Took choice 227/3: unknown
+choice.php?pwd&whichchoice=227&option=3
+
+[7778] Hobopolis Town Square
+Encounter: Judge Huckleberry &quot;The Knickerbocker&quot; McDurkee
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1488 damage.
+Round 2: boolicious wins the fight!
+You gain 42 Strongness
+You gain 18 Enchantedness
+You gain 23 Smarm
+You gain a Moxie point!
+Richard takes a creepy hobo skull
+
+[7779] Hobopolis Town Square
+Encounter: Accusin' Willie North
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1125 damage.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 121 Meat.
+Round 2: boolicious wins the fight!
+You gain 53 Strongness
+You gain 15 Enchantedness
+You gain 15 Chutzpah
+Richard takes a creepy hobo skull
+
+[7780] Hobopolis Town Square
+Encounter: Lonely Slim McMahon, the Curator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1007 damage.
+Round 2: boolicious wins the fight!
+You gain 43 Strengthliness
+You gain 18 Mysteriousness
+You gain 23 Cheek
+Richard takes a creepy hobo skull
+
+[7781] Hobopolis Town Square
+Encounter: Dunstan &quot;Winky&quot; Benedict
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1004 damage.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 138 Meat.
+Round 2: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 42 Fortitude
+You gain 18 Mysteriousness
+You gain 24 Roguishness
+Richard takes a creepy hobo skull
+
+[7782] Hobopolis Town Square
+Encounter: Barney Haskell, the Boxcar Beekeeper
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 998 damage.
+Round 2: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 40 Beefiness
+You gain 17 Wizardliness
+You gain 27 Cheek
+Richard takes a hobo skin
+
+use 1 phial of coldness
+You acquire an effect: Coldform (duration: 5 Adventures)
+
+[7783] Hobopolis Town Square
+Encounter: Slow Motion Nicky, the Future of Hoboing
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 998 damage.
+Round 2: boolicious wins the fight!
+You gain 33 Strongness
+You gain 25 Mysteriousness
+You gain 25 Roguishness
+Richard takes a frozen hobo eyeballs
+
+[7784] Hobopolis Town Square
+Encounter: Rufus Rutgers, the Enigma Machine
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 947 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 38 damage.
+Round 2: normal hobo takes 38 damage.
+Round 2: boolicious wins the fight!
+You gain 40 Strongness
+You gain 20 Magicalness
+You gain 25 Smarm
+Richard takes a frozen hobo eyeballs
+
+[7785] Hobopolis Town Square
+Encounter: Dishwater Riff, the Hairless
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 940 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: normal hobo drops 12 attack power.
+Round 2: normal hobo drops 12 defense.
+Round 2: boolicious wins the fight!
+You gain 41 Beefiness
+You gain 21 Mysteriousness
+You gain 22 Chutzpah
+Richard takes a frozen hobo eyeballs
+
+[7786] Hobopolis Town Square
+Encounter: Slim &quot;Kobold Lips&quot; Tyler, the Boxcar Beekeeper
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 944 damage.
+Round 2: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 52 Fortitude
+You gain a Muscle point!
+You gain 11 Magicalness
+You gain 22 Roguishness
+Richard takes a frozen hobo eyeballs
+
+[7787] Hobopolis Town Square
+Encounter: R. J. Pennington, the Scoliosis Sufferer
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 944 damage.
+Round 2: boolicious wins the fight!
+You gain 46 Beefiness
+You gain 14 Wizardliness
+You gain 25 Smarm
+Richard takes a frozen hobo eyeballs
+
+cast 3 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 99 Adventures)
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=3
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+
+use 2 phial of hotness
+You acquire an effect: Hotform (duration: 10 Adventures)
+
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+
+[7788] Hobopolis Town Square
+Encounter: Enter The Hoboverlord
+Took choice 200/2: skip adventure
+choice.php?pwd&whichchoice=200&option=2
+
+equip hat worn tophat
+
+equip weapon star boomerang
+
+equip off-hand wicker shield
+
+equip pants astral shorts
+
+equip acc2 Pokëmann figurine: Moog
+
+equip acc3 Mr. Accessory
+
+use 1 cold-filtered water
+You acquire an effect: Purity of Spirit (duration: 10 Adventures)
+
+buy 1 serum of sarcasm for 359 each from 1877436 on 20111121
+You acquire an item: serum of sarcasm
+
+use 1 serum of sarcasm
+You acquire an effect: Superhuman Sarcasm (duration: 5 Adventures)
+
+buy 1 tomato juice of powerful power for 359 each from 1877436 on 20111121
+You acquire an item: tomato juice of powerful power
+
+use 1 tomato juice of powerful power
+You acquire an effect: Tomato Power (duration: 5 Adventures)
+
+use 1 effervescent potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+buy 1 hot wad for 438 each from 2261352 on 20111121
+You acquire an item: hot wad
+
+use 1 hot wad
+You gain 1 Adventure
+You gain 30 Beefiness
+You gain 10 Wizardliness
+You gain 23 Chutzpah
+You acquire an effect: Hot Blooded (duration: 10 Adventures)
+
+buy 5 hair spray for 24 each from Market Demon
+You acquire hair spray (5)
+You spent 120 Meat
+
+use 5 hair spray
+You acquire an effect: Butt-Rock Hair (duration: 15 Adventures)
+
+[7788] Fernswarthy's Basement (Level 187)
+Buffed Moxie Test: 1,690 current, 1,638 needed
+
+buy 1 divine blowout for 800 each from 56211 on 20111121
+You acquire an item: divine blowout
+
+equip hat hardened slime hat
+
+equip weapon Flail of the Seven Aspects
+
+equip pants Galapagosian Cuisses
+
+equip acc2 Pokëmann figurine: Frank
+
+equip acc3 Slow Talkin' Elliot's dogtags
+
+buy 1 philter of phorce for 363 each from 1783793 on 20111121
+You acquire an item: philter of phorce
+
+use 1 philter of phorce
+You acquire an effect: Phorcefullness (duration: 5 Adventures)
+
+buy 1 blood of the Wereseal for 500 each from Smacketeria
+You acquire an item: blood of the Wereseal
+You spent 500 Meat
+
+use 1 blood of the Wereseal
+You acquire an effect: Temporary Lycanthropy (duration: 10 Adventures)
+
+buy 5 Ben-Gal™ Balm for 24 each from Market Demon
+You acquire Ben-Gal™ Balm (5)
+You spent 120 Meat
+
+use 5 Ben-Gal™ Balm
+You acquire an effect: Go Get 'Em, Tiger! (duration: 15 Adventures)
+
+[7789] Fernswarthy's Basement (Level 188)
+Encounter: 3,054-Headed Hydra
+Round 0: boolicious loses initiative!
+Round 1: 3,054-headed hydra takes 2 damage.
+Round 1: 3,054-headed hydra takes 6 damage.
+Round 1: 3,054-headed hydra takes 4 damage.
+You lose 199 hit points
+Round 1: boolicious casts TURTLE OF SEVEN TAILS!
+Round 2: 3,054-headed hydra takes 2 damage.
+Round 2: 3,054-headed hydra takes 3 damage.
+Round 2: 3,054-headed hydra takes 4 damage.
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 3: 3,054-headed hydra drops 12 attack power.
+Round 3: 3,054-headed hydra drops 12 defense.
+Round 3: 3,054-headed hydra takes 3 damage.
+Round 3: 3,054-headed hydra takes 7 damage.
+Round 3: 3,054-headed hydra takes 3 damage.
+You lose 178 hit points
+Round 3: boolicious uses the divine blowout!
+Round 4: 3,054-headed hydra takes 1562 damage.
+You gain 29 Smarm
+Round 4: boolicious uses the divine blowout!
+Round 5: 3,054-headed hydra takes 1562 damage.
+You gain 28 Smarm
+Round 5: boolicious wins the fight!
+You gain 433 Beefiness
+You gain 185 Mysteriousness
+You gain 233 Cheek
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 2,738 hit points
+
+buy 2 baseball for 810 each from 1032011 on 20111121
+You acquire baseball (2)
+
+buy 1 baseball for 900 each from 1911549 on 20111121
+You acquire an item: baseball
+
+mallsell: 1 black kettle drum, 1 black shield, 1 black snake skin, 1 black sword, 2 bone flute, 1 box-in-the-box-in-the-box, 2 bubblewrap ore, 1 can of maces, 1 clown wig, 2 cornuthaum, 10 decaying goldfish liver
+
+mallsell: 1 disembodied smile, 1 disturbing fanfic, 1 drywall axe, 1 dull fish scale, 1 dungeoneer's dungarees, 2 eyepatch, 1 f3d0r4, 1 fairy gravy boat, 5 flaming crutch, 10 gator skin, 1 giant needle
+
+mallsell: 1 giant pinky ring, 2 Gnollish flyswatter, 2 Gnollish pie server, 3 goatskin umbrella, 1 graveyard snowglobe, 2 hot katana blade, 2 Iiti Kitty phone charm, 1 imp unity ring, 1 kneecapping stick, 2 Knob Goblin elite polearm, 1 Knob Goblin harem pants
+
+mallsell: 1 Li'l Businessman Kit, 1 lucky rabbit's foot, 4 magic whistle, 1 magilaser blastercannon, 1 mesh cap, 1 Nightstalker perfume, 2 ninja hot pants, 1 rusty grave robbing shovel, 1 rusty metal ring, 1 rusty metal shaft, 1 safarrri hat
+
+mallsell: 3 soggy seed packet, 3 sunken chest
+
+autosell: 18 valuable trinket
+You gain 4,500 Meat
+
+use 1 murky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+buy 1 pr0n chow mein for 288 each from 2025543 on 20111121
+You acquire an item: pr0n chow mein
+
+buy 1 tofu chow mein for 288 each from 2025543 on 20111121
+You acquire an item: tofu chow mein
+
+use 1 baseball
+You gain 3 Fortitude
+
+use 1 cheap wind-up clock
+You acquire an effect: Ticking Clock (duration: 10 Adventures)
+
+manageprices.php?action=update&price542=260&limit542=0&price362=180&limit362=0&price2571=300&limit2571=0&price1929=320&limit1929=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price622=272&limit622=0&price449=100&limit449=0&price2055=150&limit2055=0&price432=120&limit432=0&price2981=5400&limit2981=0&price5259=4000&limit5259=1&price79=100&limit79=0&price3284=950&limit3284=0&price431=120&limit431=0&price120=100&limit120=0&price2984=220&limit2984=0&price834=190&limit834=0&price258=2000&limit258=1&price472=190&limit472=0&price196=1400&limit196=1&price9=100&limit9=1&price541=240&limit541=0&price1801=35500&limit1801=0&price1866=186&limit1866=0&price1894=171&limit1894=0&price1867=195&limit1867=0&price1861=287&limit1861=0&price1851=176&limit1851=0&price1898=258&limit1898=0&price1826=140&limit1826=0&price1838=182&limit1838=0&price399=230&limit399=0&price355=220&limit355=0&price544=200&limit544=0&price616=258&limit616=0&price497=236&limit497=0&price1751=100&limit1751=0&price703=790&limit703=0&price2973=6100&limit2973=0&price611=270&limit611=0&price476=950&limit476=0&price218=155&limit218=0&price395=196&limit395=0&price4719=100&limit4719=0&price241=180&limit241=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price477=130&limit477=0&price1160=110&limit1160=0&price493=240&limit493=0&price4958=110&limit4958=0&price306=100&limit306=0&price35=100&limit35=0&price36=100&limit36=0&price312=160&limit312=0&price3844=184&limit3844=0&price628=258&limit628=0&price361=180&limit361=0&price5=100&limit5=0&price393=196&limit393=0&price280=700&limit280=0&price613=256&limit613=0&price5093=1000&limit5093=0&price5096=1000&limit5096=0&price6=100&limit6=0&price835=180&limit835=0&price1297=200&limit1297=0&price1429=2000&limit1429=0&price2959=7150&limit2959=0&price1=100&limit1=0&price356=222&limit356=0&price77=100&limit77=0&price2831=3450&limit2831=0&price2687=400&limit2687=0&price402=180&limit402=0&price129=400&limit129=0&price136=100&limit136=0&price1655=120&limit1655=0&price269=100&limit269=0&price905=100&limit905=3&price3865=999999999&limit3865=0&price2062=600&limit2062=0&price2060=600&limit2060=0&price3858=999999999&limit3858=0&price447=1600&limit447=0&price1677=999999999&limit1677=0&price291=999999999&limit291=0&price2475=1300&limit2475=0&price3229=300&limit3229=0&price1361=999999999&limit1361=0&price632=999999999&limit632=0&price555=999999999&limit555=0&price3486=200&limit3486=0&price296=999999999&limit296=0&price224=999999999&limit224=0&price538=999999999&limit538=0&price80=3600&limit80=0&price473=999999999&limit473=0&price3221=999999999&limit3221=0&price619=999999999&limit619=0&price1351=999999999&limit1351=0&price123=999999999&limit123=0&price1750=999999999&limit1750=0&price2451=1100&limit2451=0&price5261=6900&limit5261=0&price350=999999999&limit350=0&price2618=700&limit2618=0&price4666=999999999&limit4666=0&price776=999999999&limit776=0&price310=999999999&limit310=0&price305=999999999&limit305=0&price5110=5200&limit5110=0&price1485=1900&limit1485=0&price3867=999999999&limit3867=0&price490=600&limit490=0&price5329=800&limit5329=0&price352=999999999&limit352=0&price671=999999999&limit671=0&price82=999999999&limit82=0&price83=999999999&limit83=0&price416=999999999&limit416=0&price3553=1600&limit3553=0&price405=999999999&limit405=0
+manageprices.php?action=update&price2959=7100&limit2959=0&price5261=6900&limit5261=0&price2973=6100&limit2973=0&price2981=5400&limit2981=0&price5110=5200&limit5110=0&price5259=4000&limit5259=1&price80=3600&limit80=0&price1801=3450&limit1801=0&price2831=3450&limit2831=0&price258=2000&limit258=1&price1429=2000&limit1429=0&price1485=1900&limit1485=0&price447=1600&limit447=0&price3553=1600&limit3553=0&price196=1400&limit196=1&price2475=1300&limit2475=0&price2451=1100&limit2451=0&price5093=1000&limit5093=0&price5096=1000&limit5096=0&price3284=950&limit3284=0&price476=950&limit476=0&price5329=800&limit5329=0&price703=790&limit703=0&price2618=700&limit2618=0&price280=700&limit280=0&price2062=600&limit2062=0&price2060=600&limit2060=0&price490=600&limit490=0&price2687=400&limit2687=0&price129=400&limit129=0&price3867=399&limit3867=0&price619=330&limit619=0&price1929=320&limit1929=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price555=310&limit555=0&price2571=300&limit2571=0&price3229=300&limit3229=0&price1861=287&limit1861=0&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price1898=258&limit1898=0&price616=258&limit616=0&price628=258&limit628=0&price613=256&limit613=0&price3858=250&limit3858=0&price3865=246&limit3865=0&price541=240&limit541=0&price493=240&limit493=0&price497=236&limit497=0&price399=230&limit399=0&price356=222&limit356=0&price2984=220&limit2984=0&price355=220&limit355=0&price3486=200&limit3486=0&price544=200&limit544=0&price1297=200&limit1297=0&price1351=200&limit1351=0&price416=200&limit416=0&price395=196&limit395=0&price393=196&limit393=0&price1867=195&limit1867=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price1866=186&limit1866=0&price3844=184&limit3844=0&price1838=182&limit1838=0&price362=180&limit362=0&price241=180&limit241=0&price361=180&limit361=0&price835=180&limit835=0&price402=180&limit402=0&price1851=176&limit1851=0&price1894=171&limit1894=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price4666=170&limit4666=0&price312=160&limit312=0&price671=160&limit671=0&price218=155&limit218=0&price2055=150&limit2055=0&price352=150&limit352=0&price82=150&limit82=0&price1826=140&limit1826=0&price477=130&limit477=0&price473=130&limit473=0&price310=130&limit310=0&price1361=124&limit1361=0&price432=120&limit432=0&price431=120&limit431=0&price1655=120&limit1655=0&price1160=110&limit1160=0&price4958=110&limit4958=0&price291=110&limit291=0&price83=108&limit83=0&price449=100&limit449=0&price79=100&limit79=0&price120=100&limit120=0&price9=100&limit9=1&price1751=100&limit1751=0&price4719=100&limit4719=0&price306=100&limit306=0&price35=100&limit35=0&price36=100&limit36=0&price5=100&limit5=0&price6=100&limit6=0&price1=100&limit1=0&price77=100&limit77=0&price136=100&limit136=0&price269=100&limit269=0&price905=100&limit905=3&price1677=100&limit1677=0&price296=100&limit296=0&price224=100&limit224=0&price3221=100&limit3221=0&price123=100&limit123=0&price1750=100&limit1750=0&price350=100&limit350=0&price305=100&limit305=0&price405=100&limit405=0
+
+use 1 fish juice box
+You acquire an effect: Really Deep Breath (duration: 30 Adventures)
+You acquire an effect: Fishy (duration: 20 Adventures)
+
+use 1 willyweed
+You acquire an effect: Wet Willied (duration: 30 Adventures)
+
+[7790] The Wreck of the Edgar Fitzsimmons
+Encounter: cargo crab
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: cargo crab takes 2348 damage.
+Round 2: boolicious wins the fight!
+You gain 72 Meat, but the rest sinks into the murky depths.
+You gain 74 Muscleboundness
+You gain 19 Magicalness
+You gain 34 Roguishness
+
+use 1 dolphin whistle
+
+[7791] Dolphin Whistle
+Encounter: rotten dolphin thief
+Round 0: boolicious loses initiative!
+Round 1: boolicious casts TURTLE OF SEVEN TAILS!
+Round 2: rotten dolphin thief takes 936 damage.
+Round 2: rotten dolphin thief takes 961 damage.
+Round 2: rotten dolphin thief takes 920 damage.
+Round 2: rotten dolphin thief takes 920 damage.
+Round 2: rotten dolphin thief takes 909 damage.
+Round 2: rotten dolphin thief takes 949 damage.
+Round 2: rotten dolphin thief takes 969 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: imitation crab crate
+You gain 57 Beefiness
+You gain 31 Wizardliness
+You gain 24 Chutzpah
+You gain a Moxie point!
+
+Visiting Big Brother
+
+trading 25 sand dollars for 1 map to the Skate Park
+Encounter: Sickpipe, the Skate Board Member
+
+[7793] The Skate Park
+Encounter: grouper groupie
+Round 0: boolicious loses initiative!
+Round 1: boolicious casts TURTLE OF SEVEN TAILS!
+Round 2: grouper groupie takes 834 damage.
+Round 2: grouper groupie takes 780 damage.
+Round 2: grouper groupie takes 841 damage.
+Round 2: grouper groupie takes 848 damage.
+Round 2: grouper groupie takes 765 damage.
+Round 2: grouper groupie takes 873 damage.
+Round 2: grouper groupie takes 799 damage.
+Round 2: boolicious wins the fight!
+You gain 43 Strengthliness
+You gain 24 Magicalness
+You gain 33 Roguishness
+
+[7794] The Skate Park
+Encounter: ice skate
+Round 0: boolicious loses initiative!
+Round 1: boolicious casts TURTLE OF SEVEN TAILS!
+Round 2: ice skate takes 633 damage.
+Round 2: ice skate takes 672 damage.
+Round 2: ice skate takes 626 damage.
+Round 2: ice skate takes 602 damage.
+Round 2: ice skate takes 611 damage.
+Round 2: ice skate takes 634 damage.
+Round 2: ice skate takes 622 damage.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 140 Meat.
+Round 2: boolicious wins the fight!
+You gain 39 Meat, but the rest sinks into the murky depths.
+You gain 62 Strongness
+You gain 22 Mysteriousness
+You gain 28 Chutzpah
+
+[7795] The Skate Park
+Encounter: grouper groupie
+Round 0: boolicious loses initiative!
+Round 1: boolicious casts TURTLE OF SEVEN TAILS!
+Round 2: grouper groupie takes 665 damage.
+Round 2: grouper groupie takes 669 damage.
+Round 2: grouper groupie takes 698 damage.
+Round 2: grouper groupie takes 639 damage.
+Round 2: grouper groupie takes 638 damage.
+Round 2: grouper groupie takes 675 damage.
+Round 2: grouper groupie takes 634 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 2: grouper groupie drops 12 attack power.
+Round 2: grouper groupie drops 12 defense.
+Round 2: boolicious wins the fight!
+You gain 42 Muscleboundness
+You gain a Muscle point!
+You gain 22 Magicalness
+You gain 33 Cheek
+
+equip acc3 Zinc Delta of Tranquility
+
+equip off-hand The Necbromancer's Stein
+
+[7797] The Skate Park
+Encounter: Picking Sides
+Took choice 403/2: brand new key
+choice.php?pwd&whichchoice=403&option=2
+You acquire an item: brand new key
+
+[7797] The Skate Park
+Encounter: Skate Board member
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: skate board member takes 1631 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 37 damage.
+Round 2: skate board member takes 37 damage.
+Round 2: boolicious wins the fight!
+You gain 44 Meat, but the rest sinks into the murky depths.
+You gain 58 Muscleboundness
+You gain 21 Enchantedness
+You gain 49 Cheek
+
+[7798] The Skate Park
+Encounter: ice skate
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: ice skate takes 1067 damage.
+Round 2: boolicious wins the fight!
+You gain 35 Meat, but the rest sinks into the murky depths.
+You gain 49 Fortitude
+You gain 28 Wizardliness
+You gain a Mysticality point!
+You gain 37 Sarcasm
+
+[7799] The Skate Park
+Encounter: grouper groupie
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: grouper groupie takes 996 damage.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 113 Meat.
+Round 2: boolicious wins the fight!
+You gain 57 Strongness
+You gain 19 Magicalness
+You gain 20 Cheek
+
+[7800] The Skate Park
+Encounter: grouper groupie
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: grouper groupie takes 879 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 76 damage. LIMIT BREAK!
+Round 2: grouper groupie takes 76 damage.
+Round 2: boolicious wins the fight!
+You gain 56 Muscleboundness
+You gain 24 Mysteriousness
+You gain 17 Sarcasm
+
+equip off-hand black shield
+
+[7801] The Skate Park
+Encounter: roller skate
+Round 0: boolicious loses initiative!
+Round 1: roller skate takes 2 damage.
+Round 1: roller skate takes 5 damage.
+Round 1: roller skate takes 4 damage.
+You lose 28 hit points
+Round 1: boolicious attacks!
+Round 2: roller skate takes 934 damage.
+Round 2: boolicious wins the fight!
+You gain 36 Meat, but the rest sinks into the murky depths.
+You gain 54 Strongness
+You gain 28 Enchantedness
+You gain 47 Smarm
+
+eat 1 brown sugar cane
+You gain 6 Adventures
+You gain 2 Strongness
+You gain 4 Enchantedness
+You gain 22 Cheek
+You acquire an effect: Sugar Rush (duration: 3 Adventures)
+You gain 2 Fullness
+
+eat 1 fortune cookie
+You gain 1 Adventure
+You gain 1 Fullness
+Lucky numbers: 66, 127, 12
+
+equip weapon brand new key
+
+[7802] The Skate Park
+Encounter: Skate Board member
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: skate board member takes 908 damage.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 42 hit points
+You gain 42 Muscularity Points
+Round 2: boolicious wins the fight!
+You gain 50 Meat, but the rest sinks into the murky depths.
+You gain 56 Strongness
+You gain 37 Magicalness
+You gain 32 Cheek
+
+[7803] The Skate Park
+Encounter: urchin urchin
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: urchin urchin takes 1072 damage.
+Round 2: boolicious wins the fight!
+You gain 52 Muscleboundness
+You gain 26 Mysteriousness
+You gain 34 Cheek
+
+[7804] The Skate Park
+Encounter: The Onbringing
+
+[7805] The Skate Park
+Encounter: Skate Board member
+Round 0: boolicious loses initiative!
+Round 1: skate board member takes 3 damage.
+Round 1: skate board member takes 3 damage.
+Round 1: skate board member takes 5 damage.
+You lose 46 hit points
+Round 1: boolicious attacks!
+Round 2: skate board member takes 795 damage.
+Round 2: boolicious wins the fight!
+You gain 45 Meat, but the rest sinks into the murky depths.
+You gain 59 Strengthliness
+You gain 27 Magicalness
+You gain 40 Roguishness
+
+[7806] The Skate Park
+Encounter: ice skate
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: ice skate takes 804 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 130 Meat.
+Round 2: boolicious wins the fight!
+You gain 37 Meat, but the rest sinks into the murky depths.
+You gain 50 Strongness
+You gain 25 Enchantedness
+You gain 38 Cheek
+
+[7807] The Skate Park
+Encounter: Choreography Amongst the Coral
+
+[7808] The Skate Park
+Encounter: grouper groupie
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: grouper groupie takes 877 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 37 damage.
+Round 2: grouper groupie takes 37 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: groupie lipstick
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: sand dollar
+You gain 61 Strongness
+You gain 16 Mysteriousness
+You gain 22 Chutzpah
+
+[7809] The Skate Park
+Encounter: Skate Board member
+Round 0: boolicious loses initiative!
+Round 1: skate board member takes 3 damage.
+Round 1: skate board member takes 8 damage.
+Round 1: skate board member takes 3 damage.
+You lose 51 hit points
+Round 1: boolicious casts KNEE + SHIELD COMBO!
+Round 2: skate board member takes 360 damage.
+Round 2: skate board member takes 49 damage.
+Round 2: skate board member takes 21 damage.
+Round 2: skate board member drops 5 attack power.
+Round 2: skate board member takes 1 damage.
+Round 2: skate board member takes 6 damage.
+Round 2: skate board member takes 4 damage.
+You lose 44 hit points
+Round 2: boolicious casts KNEE + SHIELD COMBO!
+Round 3: skate board member takes 351 damage.
+Round 3: skate board member takes 28 damage.
+Round 3: skate board member takes 30 damage.
+Round 3: skate board member drops 5 attack power.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 43 hit points
+You gain 43 Muscularity Points
+Round 3: boolicious wins the fight!
+You gain 51 Meat, but the rest sinks into the murky depths.
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: sand dollar
+You gain 57 Beefiness
+You gain 33 Magicalness
+You gain 35 Cheek
+
+[7810] The Skate Park
+Encounter: The Last of the Ice Skates
+
+[7812] The Skate Park
+Encounter: roller skate
+Round 0: boolicious loses initiative!
+Round 1: roller skate takes 3 damage.
+Round 1: roller skate takes 4 damage.
+Round 1: roller skate takes 5 damage.
+You lose 38 hit points
+Round 1: boolicious attacks!
+Round 2: roller skate takes 468 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 38 damage.
+Round 2: roller skate takes 38 damage.
+Round 2: roller skate takes 3 damage.
+Round 2: roller skate takes 3 damage.
+Round 2: roller skate takes 3 damage.
+You lose 35 hit points
+Round 2: boolicious attacks!
+Round 3: roller skate takes 422 damage.
+Round 3: boolicious wins the fight!
+You gain 31 Meat, but the rest sinks into the murky depths.
+You gain 68 Fortitude
+You gain 26 Magicalness
+You gain 33 Chutzpah
+
+Visiting Comet, the Roller Skate
+You acquire an effect: Finstrong (duration: 30 Adventures)
+
+[7814] The Skate Park
+Encounter: urchin urchin
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: urchin urchin takes 481 damage.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 81 hit points
+You gain 81 Muscularity Points
+Round 2: urchin urchin takes 1 damage.
+Round 2: urchin urchin takes 8 damage.
+Round 2: urchin urchin takes 4 damage.
+You lose 20 hit points
+Round 2: boolicious attacks!
+Round 3: urchin urchin takes 476 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 168 Meat.
+Round 3: boolicious wins the fight!
+You acquire an item: underwater slingshot
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: sand dollar
+You gain 63 Strengthliness
+You gain 25 Wizardliness
+You gain 23 Chutzpah
+Visiting Little Brother
+
+[7816] Anemone Mine
+Encounter: Anemone combatant
+Round 0: boolicious loses initiative!
+Round 1: anemone combatant takes 2 damage.
+Round 1: anemone combatant takes 6 damage.
+Round 1: anemone combatant takes 4 damage.
+You lose 48 hit points
+Round 1: boolicious attacks!
+Round 2: anemone combatant takes 210 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 2: anemone combatant drops 12 attack power.
+Round 2: anemone combatant drops 12 defense.
+Round 2: anemone combatant takes 3 damage.
+Round 2: anemone combatant takes 4 damage.
+Round 2: anemone combatant takes 5 damage.
+You lose 47 hit points
+Round 2: boolicious casts KNEE + SHIELD COMBO!
+Round 3: anemone combatant takes 243 damage.
+Round 3: anemone combatant takes 39 damage.
+Round 3: anemone combatant takes 20 damage.
+Round 3: anemone combatant drops 5 attack power.
+Round 3: anemone combatant takes 2 damage.
+Round 3: anemone combatant takes 6 damage.
+Round 3: anemone combatant takes 5 damage.
+You lose 54 hit points
+Round 3: boolicious casts KNEE + SHIELD COMBO!
+Round 4: anemone combatant takes 227 damage.
+Round 4: anemone combatant takes 33 damage.
+Round 4: anemone combatant takes 16 damage.
+Round 4: anemone combatant drops 5 attack power.
+Round 4: boolicious wins the fight!
+You gain 57 Fortitude
+You gain a Muscle point!
+You gain 19 Mysteriousness
+You gain 38 Cheek
+You gain a Moxie point!
+
+equip weapon Flail of the Seven Aspects
+
+[7818] Anemone Mine
+Encounter: Mer-kin miner
+Round 0: boolicious loses initiative!
+Round 1: mer-kin miner takes 1 damage.
+Round 1: mer-kin miner takes 3 damage.
+Round 1: mer-kin miner takes 4 damage.
+You lose 37 hit points
+Round 1: boolicious attacks!
+Round 2: mer-kin miner takes 364 damage.
+Round 2: mer-kin miner takes 2 damage.
+Round 2: mer-kin miner takes 9 damage.
+Round 2: mer-kin miner takes 3 damage.
+You lose 30 hit points
+Round 2: boolicious casts TURTLE OF SEVEN TAILS!
+Round 3: mer-kin miner takes 125 damage.
+Round 3: mer-kin miner takes 112 damage.
+Round 3: mer-kin miner takes 120 damage.
+Round 3: mer-kin miner takes 114 damage.
+Round 3: mer-kin miner takes 119 damage.
+Round 3: mer-kin miner takes 126 damage.
+Round 3: mer-kin miner takes 122 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 42 hit points
+You gain 42 Muscularity Points
+Round 3: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: sand dollar
+You gain 57 Fortitude
+You gain 34 Wizardliness
+You gain 35 Roguishness
+
+buy 5 divine blowout for 800 each from 56211 on 20111121
+You acquire divine blowout (5)
+
+[7820] Fernswarthy's Basement (Level 189)
+Encounter: The Beast with 3,078 Eyes
+Round 0: boolicious loses initiative!
+Round 1: the beast with 3,078 eyes takes 1 damage.
+Round 1: the beast with 3,078 eyes takes 9 damage.
+Round 1: the beast with 3,078 eyes takes 3 damage.
+You lose 442 hit points
+Round 1: boolicious uses the divine blowout!
+Round 2: the beast with 3,078 eyes takes 357 damage.
+You gain 23 Sarcasm
+Round 2: the beast with 3,078 eyes takes 2 damage.
+Round 2: the beast with 3,078 eyes takes 5 damage.
+Round 2: the beast with 3,078 eyes takes 5 damage.
+You lose 441 hit points
+Round 2: boolicious uses the divine blowout!
+Round 3: the beast with 3,078 eyes takes 357 damage.
+You gain 24 Cheek
+Round 3: the beast with 3,078 eyes takes 3 damage.
+Round 3: the beast with 3,078 eyes takes 6 damage.
+Round 3: the beast with 3,078 eyes takes 3 damage.
+You lose 457 hit points
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 713 hit points
+
+uneffect Beaten Up
