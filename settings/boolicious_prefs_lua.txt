@@ -29,7 +29,7 @@ RequestSynchFrame=-3,-3,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=-3,-3,0
-TabbedChatFrame=391,362,3
+TabbedChatFrame=391,362,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -564,7 +564,7 @@ concertVisited=true
 counterScript
 crimboTreeDays=7
 currentBountyItem=2102
-currentFullness=4
+currentFullness=11
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -572,7 +572,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=4
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -625,7 +625,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=15
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 gongPath=10
 gourdItemCount=6
 grimoire1Summons=0
@@ -647,7 +647,7 @@ hpAutoRecoveryTarget=0.8
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=true
 knownAscensions=1
-lastAdventure=Hobopolis Town Square
+lastAdventure=Wartime Sonofa Beach
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -663,13 +663,13 @@ lastBangPotion827=ettin strength
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=1
+lastBreakfast=2
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=1
+lastCounterDay=2
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=1
@@ -710,7 +710,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=Free-Peanuts Niles, the Whistlin' Kidnapper
+lastEncounter=Possessed Can of Cranberry Sauce
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -792,6 +792,8 @@ manaBurnSummonThreshold=10
 manaBurningThreshold=-0.05
 manaBurningTrigger=-0.05
 maxManaBurn=1000
+maximizerMRULength=0
+maximizerMRUList=mainstat;mus;mys;mox;familiar weight;HP;MP;ML;DA;DR;+combat -tie;-combat -tie;initiative;exp;meat dropitem drop;2.0 meat, 1.0 item;item, sea;weapon dmg;ranged dmg;elemental dmg;spell dmg;adv;hot res;cold res;spooky res;stench res;sleaze res
 mayflyExperience=0
 meansuckerPrice=400
 meatDropSpading=false
@@ -843,7 +845,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=8223\:Holiday Monster window begin loc\=*\:lparen.gif\:8233\:Holiday Monster window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -889,11 +891,11 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=73
-stationaryButton2=66
-stationaryButton3=4009
-stationaryButton4=70
-stationaryButton5=2015
+stationaryButton1=66
+stationaryButton2=4009
+stationaryButton3=70
+stationaryButton4=2015
+stationaryButton5=2107
 styxPixieVisited=false
 sugarCounter4178=1
 sugarCounter4179=0
