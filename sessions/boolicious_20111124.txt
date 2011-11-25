@@ -755,3 +755,228 @@ You gain 2 Fullness
 eat 1 White Citadel burger
 You gain 3 Adventures
 You gain 2 Fullness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+November 24, 2011 - Bor 3
+
+Ronald: first quarter
+Grimace: waxing crescent
+Mini-moon: far left
+
+Feast of Boris: today
+Dependence Day: tomorrow
+Arrrbor Day: 9 days
+Lab&oacute;r Day: 19 days
+Halloween: 29 days
+Festival of Jarlsberg: 38 days
+Yuletide: 41 days
+Valentine's Day: 57 days
+St. Sneaky Pete's Day: 64 days
+Oyster Egg Day: 71 days
+El Dia De Los Muertos Borrachos: 79 days
+Generic Summer Holiday: 88 days
+
+Feast of Boris
+2 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 21
+HP: 234 / 1,035
+MP: 566 / 618
+
+Mus: 652 (413), tnp = 796
+Mys: 372 (301), tnp = 310
+Mox: 359 (299), tnp = 154
+
+Advs: 81
+Meat: 131,913
+Drunk: 3
+
+
+ > equipment
+
+Hat: hardened slime hat
+Weapon: Flail of the Seven Aspects
+Off-hand: black shield
+Shirt: Ultracolor™ shirt
+Pants: Galapagosian Cuisses
+
+Acc. 1: cursed scrunchie
+Acc. 2: Pokëmann figurine: Frank
+Acc. 3: dead guy's watch
+
+Pet: Cocoabo (35 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+2 of 3 AT buffs active.
+Scarysauce (75)
+Reptilian Fortitude (107)
+Tenacity of the Snapper (107)
+Empathy (147)
+♫ Stevedave's Shanty of Superiority (231)
+♫ The Magical Mojomuscular Melody (235)
+Patience of the Tortoise (348)
+Jingle Jangle Jingle (482)
+Jalapeño Saucesphere (482)
+Jabañero Saucesphere (482)
+Elemental Saucesphere (482)
+Ghostly Shell (492)
+Retrograde Relaxation (6,785)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +35.00%
+Item: +20.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+Use 5 disassembled clover
+You acquire ten-leaf clover (5)
+
+mallsell: 5 ten-leaf clover
+
+mallsell: 2 tomb ratchet, 1 white satin pants, 1 Wint-O-Fresh mint
+
+mallsell: 2 stuffed shoulder parrot
+
+mallsell: 5 rocky raccoon
+
+equip off-hand hobo code binder
+
+game.php?mainpane=messages
+
+eat 1 Jarlsberg's key lime pie
+You gain 15 Adventures
+You gain 30 Mysteriousness
+You acquire an item: Jarlsberg's key
+You gain 4 Fullness
+
+cast 1 Summon Clip Art
+You acquire an item: ultrafondue
+
+eat 1 ultrafondue
+You gain 14 Adventures
+You gain 22 Fortitude
+You gain 18 Enchantedness
+You gain 20 Roguishness
+You acquire an effect: Fondid (duration: 30 Adventures)
+You gain 3 Fullness
+
+cast 1 Summon Clip Art
+You acquire an item: cheezburger
+
+cast 1 Summon Clip Art
+You acquire an item: cheezburger
+
+eat 2 cheezburger
+You gain 13 Adventures
+You gain 11 Muscleboundness
+You gain 9 Mysteriousness
+You gain 10 Sarcasm
+You acquire an effect: Yes, Can Haz (duration: 50 Adventures)
+You gain 3 Fullness
+You gain 12 Adventures
+You gain 13 Strengthliness
+You gain 1 Enchantedness
+You gain 4 Roguishness
+You acquire an effect: Yes, Can Haz (duration: 50 Adventures)
+You gain 3 Fullness
+
+Use unrolling pin
+You acquire wad of dough (19)
+
+Cook 1 Gnollish pie tin + 1 wad of dough
+You acquire an item: pie crust
+Crafting used 1 each of Gnollish pie tin and wad of dough
+
+Cook 1 pie crust + 1 plum
+You acquire an item: Crimbo pie
+Crafting used 1 each of pie crust and plum
+
+eat 1 Crimbo pie
+You gain 11 Adventures
+You gain 42 Fortitude
+You gain 3 Fullness
+
+eat 1 desiccated apricot
+You gain 2 Adventures
+You gain 17 Beefiness
+You gain 1 Fullness
+
+eat 1 fortune cookie
+You gain 1 Adventure
+You gain 1 Fullness
+Lucky numbers: 46, 206, 297
+
+eat 0 elven hardtack
