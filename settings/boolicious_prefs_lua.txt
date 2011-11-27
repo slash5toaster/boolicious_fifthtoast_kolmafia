@@ -74,7 +74,7 @@ _leafblowerML=1
 _legendaryBeat=false
 _lookingGlass=false
 _lunchBreak=false
-_madTeaParty=false
+_madTeaParty=true
 _mayflySummons=0
 _navelRunaways=0
 _pasteDrops=0
@@ -560,11 +560,11 @@ choiceAdventure91=2
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=true
+concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2102
-currentFullness=13
+currentFullness=2
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -572,7 +572,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=5
+currentSpleenUse=2
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -625,7 +625,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=15
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 gongPath=10
 gourdItemCount=6
 grimoire1Summons=0
@@ -663,13 +663,13 @@ lastBangPotion827=ettin strength
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=4
+lastBreakfast=5
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=4
+lastCounterDay=5
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=1
@@ -710,7 +710,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=Philatelist Stephen, the Dilettante
+lastEncounter=Enter The Hoboverlord
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -891,11 +891,11 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=2022
-stationaryButton2=66
-stationaryButton3=73
-stationaryButton4=71
-stationaryButton5=68
+stationaryButton1=73
+stationaryButton2=71
+stationaryButton3=68
+stationaryButton4=4009
+stationaryButton5=69
 styxPixieVisited=false
 sugarCounter4178=1
 sugarCounter4179=0
