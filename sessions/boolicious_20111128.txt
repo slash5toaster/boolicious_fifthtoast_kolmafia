@@ -280,3 +280,828 @@ You gain 4 Drunkenness
 add to closet: 100000 Meat
 
 add to closet: 21913 Meat
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+November 28, 2011 - Bor 7
+
+Ronald: third quarter
+Grimace: waxing gibbous
+Mini-moon: in back, near Grimace
+
+Arrrbor Day: 5 days
+Lab&oacute;r Day: 15 days
+Halloween: 25 days
+Feast of Boris: 32 days
+Festival of Jarlsberg: 34 days
+Yuletide: 37 days
+Valentine's Day: 53 days
+St. Sneaky Pete's Day: 60 days
+Oyster Egg Day: 67 days
+El Dia De Los Muertos Borrachos: 75 days
+Generic Summer Holiday: 84 days
+Dependence Day: 93 days
+
+
+2 days until Muscle.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 21
+HP: 2239 / 2,832
+MP: 700 / 3,243
+
+Mus: 1,863 (421), tnp = 20
+Mys: 2,039 (308), tnp = 260
+Mox: 2,132 (307), tnp = 156
+
+Advs: 170
+Meat: 100,600
+Drunk: 4
+
+
+ > equipment
+
+Hat: hardened slime hat
+Weapon: Flail of the Seven Aspects
+Off-hand: Tuesday's ruby
+Shirt: Ultracolor™ shirt
+Pants: Galapagosian Cuisses
+
+Acc. 1: cursed scrunchie
+Acc. 2: Pokëmann figurine: Frank
+Acc. 3: Zinc Delta of Tranquility
+
+Pet: Cocoabo (35 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Tomato Power
+Superhuman Sarcasm
+Stabilizing Oiliness
+Newt Gets In Your Eyes
+Mystically Oiled (2)
+Fan-Cooled (3)
+Spooky Demeanor (6)
+Aspect of the Twinklefairy (6)
+Stenchtastic (6)
+Supafly (6)
+Purity of Spirit (6)
+Izchak's Blessing (6)
+Locks Like the Raven (6)
+Strange Mental Acuity (7)
+Temporary Lycanthropy (10)
+Sugar Rush (10)
+Butt-Rock Hair (11)
+Elvish (16)
+Brother Flying Burrito's Blessing (20)
+♫ The Sonata of Sneakiness (124)
+Astral Shell (124)
+Scarysauce (127)
+Reptilian Fortitude (159)
+Tenacity of the Snapper (159)
+Patience of the Tortoise (180)
+Empathy (199)
+♫ Stevedave's Shanty of Superiority (283)
+♫ The Magical Mojomuscular Melody (287)
+Elemental Saucesphere (534)
+Jingle Jangle Jingle (534)
+Jalapeño Saucesphere (534)
+Jabañero Saucesphere (534)
+Ghostly Shell (544)
+Retrograde Relaxation (6,462)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: +20.00%
+
+Exp: +0.00
+Meat: +35.00%
+Item: +28.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+use 1 Manual of Labor
+
+use 1 Chester's bag of candy
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+outfit Knob Goblin Harem Girl Disguise
+
+cast 3 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 99 Adventures)
+
+[8523] Cobb's Knob Treasury
+Encounter: Finally, the Payoff
+You gain 500 Meat
+
+equip hat hardened slime hat
+
+equip pants Galapagosian Cuisses
+
+game.php?mainpane=messages
+
+use 1 Mick's IcyVapoHotness Inhaler
+You acquire an effect: Sinuses For Miles (duration: 10 Adventures)
+
+buy 1 philter of phorce for 365 each from 1699424 on 20111128
+You acquire an item: philter of phorce
+
+use 1 philter of phorce
+You acquire an effect: Phorcefullness (duration: 5 Adventures)
+Jumping into Awesome Ball Pit in clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+Use 5 turtlemail bits
+You acquire an item: turtlemail breeches
+
+equip pants turtlemail breeches
+
+equip acc3 hopping socks
+
+cast 135 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 4455 Adventures)
+
+cast 14 Patience of the Tortoise
+You acquire an effect: Patience of the Tortoise (duration: 70 Adventures)
+
+eat 1 Jumbo Dr. Lucifer
+You gain 2 Adventures
+You gain 20,668 Muscularity Points
+You gain 1 Fullness
+
+buy 10 Medicinal Herb's medicinal herbs for 100 each from Smacketeria
+You acquire Medicinal Herb's medicinal herbs (10)
+You spent 1,000 Meat
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 3,979 hit points
+
+equip off-hand stress ball
+
+use 1 Pokëmann band-aid
+You gain 68 hit points
+You acquire an effect: Aided and Abetted (duration: 10 Adventures)
+
+[8524] Fernswarthy's Basement (Level 216)
+Maximum HP Test: 4,048 current, 20028 * 0.19 (820 DA) = 3,895 needed
+You lose 3,514 hit points
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 3,504 hit points
+
+[8525] Fernswarthy's Basement (Level 217)
+Buffed Muscle Test: 2,454 current, 2,018 needed
+unequip weapon
+unequip offhand
+
+[8526] Fernswarthy's Basement (Level 218)
+Encounter: 3,758-Headed Hydra
+Round 0: boolicious loses initiative!
+Round 1: 3,758-headed hydra takes 3 damage.
+Round 1: 3,758-headed hydra takes 7 damage.
+Round 1: 3,758-headed hydra takes 4 damage.
+You lose 209 hit points
+Round 1: boolicious casts ZENDO KOBUSHI KANCHO!
+Round 2: 3,758-headed hydra takes 53 damage.
+Round 2: 3,758-headed hydra drops 33 defense.
+Round 2: 3,758-headed hydra takes 1 damage.
+Round 2: 3,758-headed hydra takes 8 damage.
+Round 2: 3,758-headed hydra takes 5 damage.
+You lose 623 hit points
+Round 2: boolicious casts ZENDO KOBUSHI KANCHO!
+Round 3: 3,758-headed hydra takes 50 damage.
+Round 3: 3,758-headed hydra drops 33 defense.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 104 Meat.
+Round 3: 3,758-headed hydra takes 2 damage.
+Round 3: 3,758-headed hydra takes 8 damage.
+Round 3: 3,758-headed hydra takes 4 damage.
+You lose 213 hit points
+Round 3: boolicious casts ZENDO KOBUSHI KANCHO!
+Round 4: 3,758-headed hydra takes 52 damage.
+Round 4: 3,758-headed hydra drops 33 defense.
+Round 4: 3,758-headed hydra takes 3 damage.
+Round 4: 3,758-headed hydra takes 5 damage.
+Round 4: 3,758-headed hydra takes 4 damage.
+You lose 626 hit points
+Round 4: boolicious casts FLYING FIRE FIST!
+Round 5: 3,758-headed hydra takes 22796 damage.
+You lose an effect: Salamanderenity
+Round 5: boolicious wins the fight!
+You gain 507 Beefiness
+You gain a Muscle point!
+You gain 248 Magicalness
+You gain 231 Cheek
+You gain a Moxie point!
+
+cast 1 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 33 Adventures)
+
+cast 20 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 660 Adventures)
+
+[8527] Fernswarthy's Basement (Level 219)
+Encounter: The Ghost of Fernswarthy's great great great great great great great great great great great great great great Grandfather
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts DRUNKEN BABY STYLE!
+Round 2: the ghost of fernswarthy's great great great great great great great great great great great great great great grandfather takes 1 damage.
+Round 2: the ghost of fernswarthy's great great great great great great great great great great great great great great grandfather takes 1 damage.
+Round 2: the ghost of fernswarthy's great great great great great great great great great great great great great great grandfather takes 3 damage.
+Round 2: the ghost of fernswarthy's great great great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 637 hit points
+Round 2: boolicious attacks!
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great great great grandfather takes 1 damage.
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great great great grandfather takes 6 damage.
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 623 hit points
+Round 3: boolicious casts FLYING FIRE FIST!
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great great great grandfather takes 3506 damage.
+You lose an effect: Salamanderenity
+Round 4: Cocopuff's bells jingle merrily.
+Round 4: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 1 damage.
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great great great grandfather takes 1 damage.
+Round 4: boolicious wins the fight!
+You gain 480 Beefiness
+You gain a Muscle point!
+You gain 253 Enchantedness
+You gain a Mysticality point!
+You gain 257 Roguishness
+
+[8528] Fernswarthy's Basement (Level 220)
+Encounter: Save the Dolls/Save the Cardboard
+You gain 436 Smarm
+You gain a Moxie point!
+
+equip hat worn tophat
+
+equip weapon drywall axe
+
+equip pants astral shorts
+
+equip acc2 Pokëmann figurine: Moog
+
+equip acc3 Mr. Accessory
+
+cast 1 Summon Clip Art
+You acquire an item: cold-filtered water
+
+use 1 cold-filtered water
+You acquire an effect: Purity of Spirit (duration: 10 Adventures)
+
+buy 1 serum of sarcasm for 390 each from 1699424 on 20111128
+You acquire an item: serum of sarcasm
+
+use 1 serum of sarcasm
+You acquire an effect: Superhuman Sarcasm (duration: 5 Adventures)
+
+buy 1 oil of stability for 695 each from 1699424 on 20111128
+You acquire an item: oil of stability
+
+use 1 oil of stability
+You acquire an effect: Stabilizing Oiliness (duration: 5 Adventures)
+
+buy 1 tomato juice of powerful power for 465 each from 1699424 on 20111128
+You acquire an item: tomato juice of powerful power
+
+use 1 tomato juice of powerful power
+You acquire an effect: Tomato Power (duration: 5 Adventures)
+
+[8529] Fernswarthy's Basement (Level 221)
+Buffed Moxie Test: 2,300 current, 2,070 needed
+
+cast 20 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 660 Adventures)
+
+cast 10 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 330 Adventures)
+
+[8530] Fernswarthy's Basement (Level 222)
+Encounter: 10 Stone Golem
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts ZENDO KOBUSHI KANCHO!
+Round 2: boolicious casts HEAD + KNEE COMBO!
+Round 3: 10 stone golem takes 2 damage.
+Round 3: 10 stone golem takes 10 damage.
+Round 3: 10 stone golem takes 2 damage.
+You lose 746 hit points
+Round 3: boolicious casts RETURN!
+unequip weapon
+
+[8531] Fernswarthy's Basement (Level 222)
+Encounter: 10 Stone Golem
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts ZENDO KOBUSHI KANCHO!
+Round 2: 10 stone golem takes 48 damage.
+Round 2: 10 stone golem drops 33 defense.
+Round 2: 10 stone golem takes 2 damage.
+Round 2: 10 stone golem takes 7 damage.
+Round 2: 10 stone golem takes 2 damage.
+You lose 776 hit points
+
+uneffect Beaten Up
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 2,869 hit points
+
+[8532] Fernswarthy's Basement (Level 222)
+Encounter: 10 Stone Golem
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts FLYING FIRE FIST!
+Round 2: 10 stone golem takes 4983 damage.
+You lose an effect: Salamanderenity
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 2: 10 stone golem drops 10 attack power.
+Round 2: 10 stone golem drops 10 defense.
+Round 2: boolicious wins the fight!
+You gain 522 Muscleboundness
+You gain 242 Enchantedness
+You gain 248 Smarm
+
+cast 30 Ghostly Shell
+You acquire an effect: Ghostly Shell (duration: 600 Adventures)
+
+[8533] Fernswarthy's Basement (Level 223)
+Encounter: The Ghost of Fernswarthy's great great great great great great great great great great great great great great great Grandfather
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts ZENDO KOBUSHI KANCHO!
+Round 2: the ghost of fernswarthy's great great great great great great great great great great great great great great great grandfather takes 53 damage.
+Round 2: the ghost of fernswarthy's great great great great great great great great great great great great great great great grandfather drops 33 defense.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 1 damage. LIMIT BREAK!
+Round 2: the ghost of fernswarthy's great great great great great great great great great great great great great great great grandfather takes 1 damage.
+Round 2: the ghost of fernswarthy's great great great great great great great great great great great great great great great grandfather takes 1 damage.
+Round 2: the ghost of fernswarthy's great great great great great great great great great great great great great great great grandfather takes 5 damage.
+Round 2: the ghost of fernswarthy's great great great great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 751 hit points
+Round 2: boolicious casts FLYING FIRE FIST!
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great great great great grandfather takes 41 damage.
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great great great great grandfather takes 1 damage.
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great great great great grandfather takes 4 damage.
+Round 3: the ghost of fernswarthy's great great great great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 804 hit points
+Round 3: boolicious casts FLYING FIRE FIST!
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great great great great grandfather takes 43 damage.
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great great great great grandfather takes 1 damage.
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great great great great grandfather takes 5 damage.
+Round 4: the ghost of fernswarthy's great great great great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 764 hit points
+Round 4: boolicious casts FLYING FIRE FIST!
+Round 5: the ghost of fernswarthy's great great great great great great great great great great great great great great great grandfather takes 41 damage.
+Round 5: the ghost of fernswarthy's great great great great great great great great great great great great great great great grandfather takes 1 damage.
+Round 5: the ghost of fernswarthy's great great great great great great great great great great great great great great great grandfather takes 3 damage.
+Round 5: the ghost of fernswarthy's great great great great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 770 hit points
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 1,829 hit points
+
+uneffect Beaten Up
+
+cast 1 Summon Clip Art
+You acquire an item: blunt cat claw
+
+cast 1 Summon Clip Art
+You acquire an item: Fromage Pinotage
+
+[8535] Mix 10 bottle of rum + 10 lime
+You acquire grog (10)
+Crafting used 10 each of lime and bottle of rum
+
+Create 1 meat paste
+You acquire an item: meat paste
+You lose 10 Meat
+
+Combine 1 batblade + 1 bat wing
+You acquire an item: one-winged stab bat
+Crafting used 1 each of bat wing and batblade
+
+Cook 4 wad of dough + 4 tomato
+You acquire plain pizza (4)
+Crafting used 4 each of wad of dough and tomato
+
+Create 1 meat paste
+You acquire an item: meat paste
+You lose 10 Meat
+
+Combine 1 bat wing + 1 one-winged stab bat
+You acquire an item: rewinged stab bat
+Crafting used 1 each of bat wing and one-winged stab bat
+
+Use 1 delectable catalyst + 1 scrumptious reagent
+You acquire an item: scrumdiddlyumptious solution
+
+Create 1 meat paste
+You acquire an item: meat paste
+You lose 10 Meat
+
+Combine 1 rusty metal ring + 1 rusty metal shaft
+You acquire an item: rusty metal key
+Crafting used 1 each of rusty metal ring and rusty metal shaft
+
+Create 1 meat paste
+You acquire an item: meat paste
+You lose 10 Meat
+
+Combine 1 spider web + 1 spider web
+You acquire an item: really sticky spider web
+Crafting used 1 each of spider web and spider web
+
+Combine 1 really sticky spider web + 1 really sticky spider web
+
+Use 2 mummy wrapping
+You acquire an item: really thick bandage
+
+Use 2 mummy wrapping
+You acquire an item: really thick bandage
+
+[8535] Mix 1 bottle of vodka + 1 olive
+You acquire an item: vodka martini
+Crafting used 1 each of bottle of vodka and olive
+
+Cook 1 Jarlsberg's key + 1 lime
+You acquire an item: Jarlsberg's key lime
+Crafting used 1 each of Jarlsberg's key and lime
+
+Use 7 disassembled clover
+You acquire ten-leaf clover (7)
+
+mallsell: 7 ten-leaf clover
+
+mall.php?didadv=0&pudnuggler=clover&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+
+buy 1 disassembled clover for 200 each from 2284553 on 20111128
+You acquire an item: disassembled clover
+
+buy 1 divine noisemaker for 100 each from 2284553 on 20111128
+You acquire an item: divine noisemaker
+
+buy 1 baggie of powdered sugar for 100 each from 2284553 on 20111128
+You acquire an item: baggie of powdered sugar
+
+mall.php?didadv=0&pudnuggler=clover&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+
+buy 1 disassembled clover for 1000 each from 2283314 on 20111128
+You acquire an item: disassembled clover
+
+buy 1 disassembled clover for 1000 each from 2283314 on 20111128
+You acquire an item: disassembled clover
+
+buy 1 disassembled clover for 1000 each from 2283314 on 20111128
+You acquire an item: disassembled clover
+
+buy 3 disassembled clover for 1000 each from 2283314 on 20111128
+You acquire disassembled clover (3)
+
+Use 7 disassembled clover
+You acquire ten-leaf clover (7)
+
+mallsell: 7 ten-leaf clover
+
+manageprices.php?action=update&pwd&price542=260&limit542=0&price362=180&limit362=0&price594=410&limit594=0&price2571=300&limit2571=0&price1929=320&limit1929=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price19=100&limit19=0&price622=272&limit622=0&price435=120&limit435=0&price449=100&limit449=0&price2055=150&limit2055=0&price432=120&limit432=0&price3858=250&limit3858=0&price2981=5400&limit2981=0&price79=100&limit79=0&price1675=100&limit1675=0&price615=248&limit615=0&price1089=4900&limit1089=0&price431=120&limit431=0&price120=100&limit120=0&price634=100&limit634=0&price2984=220&limit2984=0&price834=190&limit834=0&price414=190&limit414=0&price258=2000&limit258=1&price3843=100&limit3843=0&price5282=3400&limit5282=0&price472=190&limit472=0&price565=100&limit565=0&price9=100&limit9=1&price1361=124&limit1361=0&price632=264&limit632=0&price541=240&limit541=0&price296=100&limit296=0&price1866=186&limit1866=0&price1894=171&limit1894=0&price1861=287&limit1861=0&price1898=258&limit1898=0&price1826=140&limit1826=0&price1838=182&limit1838=0&price399=230&limit399=0&price355=220&limit355=0&price1462=100&limit1462=0&price538=260&limit538=0&price80=3600&limit80=0&price3864=164&limit3864=0&price544=200&limit544=0&price616=258&limit616=0&price166=100&limit166=0&price497=236&limit497=0&price1033=120&limit1033=0&price172=100&limit172=0&price123=100&limit123=0&price1750=100&limit1750=0&price1751=100&limit1751=0&price703=790&limit703=0&price2973=6100&limit2973=0&price611=270&limit611=0&price476=950&limit476=0&price3=100&limit3=0&price218=155&limit218=0&price395=196&limit395=0&price4719=100&limit4719=0&price241=180&limit241=0&price2093=230&limit2093=0&price4665=170&limit4665=0&price4666=170&limit4666=0&price3859=170&limit3859=0&price477=130&limit477=0&price1160=110&limit1160=0&price493=240&limit493=0&price776=190&limit776=0&price4958=110&limit4958=0&price310=130&limit310=0&price305=100&limit305=0&price306=100&limit306=0&price38=100&limit38=0&price35=100&limit35=0&price36=100&limit36=0&price312=160&limit312=0&price475=130&limit475=0&price2598=300&limit2598=0&price3844=184&limit3844=0&price4718=100&limit4718=0&price1163=100&limit1163=1&price628=258&limit628=0&price360=180&limit360=0&price361=180&limit361=0&price352=150&limit352=0&price5103=225&limit5103=1&price239=160&limit239=0&price240=160&limit240=0&price5=100&limit5=0&price2633=365&limit2633=0&price393=196&limit393=0&price280=700&limit280=0&price613=256&limit613=0&price5087=600&limit5087=0&price614=256&limit614=0&price6=100&limit6=0&price835=180&limit835=0&price1297=200&limit1297=0&price2613=155&limit2613=0&price2959=7100&limit2959=0&price671=160&limit671=0&price416=200&limit416=0&price1=100&limit1=0&price1464=1500&limit1464=0&price2680=300&limit2680=0&price356=222&limit356=0&price77=100&limit77=0&price119=100&limit119=0&price2687=400&limit2687=0&price402=180&limit402=0&price21=100&limit21=0&price5321=700&limit5321=0&price24=1600&limit24=2&price129=400&limit129=0&price136=100&limit136=0&price2540=1400&limit2540=1&price1655=120&limit1655=0&price269=100&limit269=0&price909=100&limit909=0&price905=100&limit905=3
+mall.php?didadv=0&pudnuggler=fuzz&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+mall.php?didadv=0&pudnuggler=sum&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+mall.php?didadv=0&pudnuggler=libram&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+
+Trade 20 red pixel, 10 black pixel, 10 white pixel
+You acquire an item: pixel shield
+
+equip hat star hat
+
+[8534] Hole in the Sky
+Encounter: The Bush
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: the bush takes 347 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 113 Meat.
+Round 2: boolicious wins the fight!
+You gain 22 Muscleboundness
+You gain 8 Magicalness
+You gain 11 Sarcasm
+
+[8535] Hole in the Sky
+Encounter: The Bush
+Round 0: boolicious wins initiative!
+
+equip hat miner's helmet
+
+equip acc1 frosty halo
+
+equip acc3 Zinc Delta of Tranquility
+friars blessing 3
+Round 1: boolicious attacks!
+Round 2: the bush takes 345 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: star
+You acquire an item: star
+You gain 21 Strongness
+You gain 8 Wizardliness
+You gain 12 Sarcasm
+
+buy 1 Knob Goblin eyedrops for 200 each from 1945689 on 20111128
+You acquire an item: Knob Goblin eyedrops
+
+use 1 Knob Goblin eyedrops
+You acquire an effect: Peeled Eyeballs (duration: 10 Adventures)
+
+use 1 eyedrops of the ermine
+You acquire an effect: Ermine Eyes (duration: 5 Adventures)
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+friars blessing 3
+You acquire an effect: Brother Smothers's Blessing (duration: 20 Adventures)
+
+[8536] Hole in the Sky
+Encounter: The Camel's Toe
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: the camel's toe takes 368 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: star
+You gain 21 Strengthliness
+You gain 9 Magicalness
+You gain 11 Chutzpah
+
+[8537] Hole in the Sky
+Encounter: The Beaver
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: the beaver takes 363 damage.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 36 hit points
+You gain 36 Muscularity Points
+Round 2: boolicious wins the fight!
+You acquire an item: star
+You acquire an item: star
+You gain 24 Fortitude
+You gain 5 Wizardliness
+You gain 13 Chutzpah
+
+Draw 4 stars with 6 lines
+You acquire an item: star buckler
+
+[8538] Hole in the Sky
+Encounter: The Box
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: the box takes 376 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 66 damage. LIMIT BREAK!
+Round 2: the box takes 66 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: line
+You gain 20 Beefiness
+You gain 6 Enchantedness
+You gain 12 Chutzpah
+
+[8539] Hole in the Sky
+Encounter: The Box
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: the box takes 252 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: line
+You acquire an item: line
+You gain 14 Strongness
+You gain 8 Wizardliness
+You gain 17 Cheek
+
+[8540] Hole in the Sky
+Encounter: The Astronomer
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: the astronomer takes 209 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: star chart
+You gain 29 Muscleboundness
+You gain 6 Mysteriousness
+You gain 9 Smarm
+
+[8541] Hole in the Sky
+Encounter: The Beaver
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: the beaver takes 227 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: star
+You acquire an item: star
+You gain 26 Fortitude
+You gain 5 Wizardliness
+You gain 13 Smarm
+
+[8542] Hole in the Sky
+Encounter: The Little Man in the Canoe
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: the little man in the canoe takes 227 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: star
+You acquire an item: line
+You gain 24 Strengthliness
+You gain 8 Mysteriousness
+You gain 11 Cheek
+
+[8543] Hole in the Sky
+Encounter: The Camel's Toe
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 67 hit points
+You gain 67 Muscularity Points
+Round 2: boolicious attacks!
+You lose 1 hit point
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 101 Meat.
+Round 3: boolicious casts FLYING FIRE FIST!
+Round 4: the camel's toe takes 43 damage.
+Round 4: boolicious casts FLYING FIRE FIST!
+Round 5: the camel's toe takes 43 damage.
+Round 5: boolicious casts FLYING FIRE FIST!
+Round 6: the camel's toe takes 42 damage.
+Round 6: boolicious casts ZENDO KOBUSHI KANCHO!
+Round 7: the camel's toe takes 1 damage.
+Round 7: the camel's toe drops 33 defense.
+Round 7: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 32 damage.
+Round 7: the camel's toe takes 32 damage.
+Round 7: boolicious wins the fight!
+You acquire an item: line
+You gain 15 Muscleboundness
+You gain a Muscle point!
+You gain 17 Mysteriousness
+You gain 9 Cheek
+
+[8544] Hole in the Sky
+Encounter: The Honey Pot
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: the honey pot takes 128 damage.
+Round 2: boolicious attacks!
+Round 3: the honey pot takes 128 damage.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 3: the honey pot drops 10 attack power.
+Round 3: the honey pot drops 10 defense.
+Round 3: boolicious wins the fight!
+You acquire an item: star
+You gain 22 Muscleboundness
+You gain 10 Enchantedness
+You gain 8 Roguishness
+
+mall.php?didadv=0&pudnuggler=skull&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+mall.php?didadv=0&pudnuggler=skull&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0&PHPSESSID=9q0g4lkkevaddd1ht0re5ar8v5&start=10
+manageprices.php?action=update&price905=100&limit905=3&price1163=120&limit1163=1&price24=1600&limit24=2&price120=100&limit120=0&price119=100&limit119=0&price613=256&limit613=0&price565=100&limit565=0&price497=236&limit497=0&price3844=184&limit3844=0&price2598=300&limit2598=0&price834=190&limit834=0&price835=180&limit835=0&price2613=155&limit2613=0&price21=100&limit21=0&price2055=150&limit2055=0&price2984=220&limit2984=0&price541=240&limit541=0&price399=230&limit399=0&price1462=100&limit1462=0&price166=100&limit166=0&price395=196&limit395=0&price2540=1400&limit2540=1&price79=100&limit79=0&price1675=100&limit1675=0&price431=120&limit431=0&price544=200&limit544=0&price616=258&limit616=0&price1751=100&limit1751=0&price306=100&limit306=0&price36=100&limit36=0&price312=160&limit312=0&price360=180&limit360=0&price5=100&limit5=0&price393=196&limit393=0&price6=100&limit6=0&price2680=300&limit2680=0&price129=400&limit129=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price449=100&limit449=0&price432=120&limit432=0&price3858=250&limit3858=0&price615=248&limit615=0&price3843=100&limit3843=0&price9=100&limit9=1&price296=100&limit296=0&price355=220&limit355=0&price3864=164&limit3864=0&price123=100&limit123=0&price1750=100&limit1750=0&price476=950&limit476=0&price3=100&limit3=0&price218=155&limit218=0&price4719=100&limit4719=0&price1160=110&limit1160=0&price493=240&limit493=0&price310=130&limit310=0&price35=100&limit35=0&price4718=100&limit4718=0&price628=258&limit628=0&price361=180&limit361=0&price239=160&limit239=0&price1=100&limit1=0&price77=100&limit77=0&price2687=400&limit2687=0&price402=180&limit402=0&price136=100&limit136=0&price1655=120&limit1655=0&price542=260&limit542=0&price362=180&limit362=0&price594=410&limit594=0&price2571=300&limit2571=0&price1929=320&limit1929=0&price1930=320&limit1930=0&price19=100&limit19=0&price622=272&limit622=0&price435=120&limit435=0&price2981=5400&limit2981=0&price1089=4900&limit1089=0&price634=100&limit634=0&price414=190&limit414=0&price258=2000&limit258=1&price5282=3400&limit5282=0&price472=190&limit472=0&price1361=124&limit1361=0&price632=264&limit632=0&price1866=186&limit1866=0&price1894=171&limit1894=0&price1861=287&limit1861=0&price1898=258&limit1898=0&price1826=140&limit1826=0&price1838=182&limit1838=0&price538=260&limit538=0&price80=3600&limit80=0&price1033=120&limit1033=0&price172=100&limit172=0&price703=790&limit703=0&price2973=6100&limit2973=0&price611=270&limit611=0&price241=180&limit241=0&price2093=230&limit2093=0&price4665=170&limit4665=0&price4666=170&limit4666=0&price3859=170&limit3859=0&price477=130&limit477=0&price776=190&limit776=0&price4958=110&limit4958=0&price305=100&limit305=0&price38=100&limit38=0&price475=130&limit475=0&price352=150&limit352=0&price5103=225&limit5103=1&price240=160&limit240=0&price2633=365&limit2633=0&price280=700&limit280=0&price5087=600&limit5087=0&price614=256&limit614=0&price1297=200&limit1297=0&price2959=7100&limit2959=0&price671=160&limit671=0&price416=200&limit416=0&price1464=1500&limit1464=0&price356=222&limit356=0&price5321=700&limit5321=0&price269=100&limit269=0&price909=100&limit909=0
+mall.php?didadv=0&pudnuggler=marzipan+skull&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+
+[8545] South of the Border
+Encounter: Finger-Lickin'... Death.
+Took choice 4/3: skip adventure
+choice.php?pwd&whichchoice=4&option=3
+
+[8545] South of the Border
+Encounter: A Chewy Encounter
+You acquire an item: jabañero-flavored chewing gum
+You lose 30 Meat
+
+[8546] South of the Border
+Encounter: La Farmacia de Sue&ntilde;os
+You acquire an item: Meleegra™ pills
+
+[8547] South of the Border
+Encounter: raging bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: raging bull takes 208 damage.
+Round 2: boolicious wins the fight!
+You gain 36 Meat
+You acquire an item: pile of jumping beans
+You acquire an item: can of Red Minotaur
+You gain 6 Muscleboundness
+You gain 1 Roguishness
+
+[8548] Hole in the Sky
+Encounter: The Muff
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: the muff takes 116 damage.
+Round 2: boolicious attacks!
+Round 3: the muff takes 116 damage.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 69 hit points
+You gain 69 Muscularity Points
+Round 3: boolicious wins the fight!
+You acquire an item: star
+You gain 24 Strengthliness
+You gain 9 Mysteriousness
+You gain 8 Chutzpah
+
+[8549] Hole in the Sky
+Encounter: The Flange
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 1 hit point
+
+Draw 7 stars with 7 lines
+Round 2: boolicious attacks!
+Round 3: the flange takes 116 damage.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 33 damage.
+Round 3: the flange takes 33 damage.
+Round 3: boolicious uses the Gnomitronic Hyperspatial Demodulizer!
+Round 4: the flange takes 7 damage.
+You acquire an effect: Super-Mega-Ultra-Charged (duration: 5 Adventures)
+Round 4: boolicious wins the fight!
+You acquire an item: star
+You acquire an item: line
+You gain 24 Fortitude
+You gain 12 Wizardliness
+You gain 7 Chutzpah
+
+Draw 7 stars with 7 lines
+You acquire an item: star pants
+outfit Star Garb
+
+equip hat star hat
+
+Visiting the pretentious artist
+You have unlocked a new tattoo.
