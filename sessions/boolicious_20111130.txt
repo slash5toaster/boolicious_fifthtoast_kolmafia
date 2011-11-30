@@ -2633,3 +2633,326 @@ You spent 120 Meat
 
 use 5 Ben-Gal™ Balm
 You acquire an effect: Go Get 'Em, Tiger! (duration: 15 Adventures)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+November 30, 2011 - Petember 1
+
+Ronald: new moon
+Grimace: full moon
+Mini-moon: in front of Ronald, L side
+
+Arrrbor Day: 3 days
+Lab&oacute;r Day: 13 days
+Halloween: 23 days
+Feast of Boris: 30 days
+Festival of Jarlsberg: 32 days
+Yuletide: 35 days
+Valentine's Day: 51 days
+St. Sneaky Pete's Day: 58 days
+Oyster Egg Day: 65 days
+El Dia De Los Muertos Borrachos: 73 days
+Generic Summer Holiday: 82 days
+Dependence Day: 91 days
+
+
+Muscle bonus today and tomorrow.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 21
+HP: 864 / 2,095
+MP: 606 / 693
+
+Mus: 1,392 (432), tnp = 730
+Mys: 420 (315), tnp = 314
+Mox: 456 (314), tnp = 533
+
+Advs: 132
+Meat: 105,316
+Drunk: 15
+
+
+ > equipment
+
+Hat: hardened slime hat
+Weapon: scratch 'n' sniff sword
+Off-hand: (none)
+Shirt: Ultracolor™ shirt
+Pants: (none)
+
+Acc. 1: cursed scrunchie
+Acc. 2: Pokëmann figurine: Frank
+Acc. 3: Slow Talkin' Elliot's dogtags
+
+Pet: Cocoabo (30 lbs)
+Item: Li'l Businessman Kit
+
+Sticker 1: scratch 'n' sniff wrestler sticker (0)
+Sticker 2: scratch 'n' sniff wrestler sticker (0)
+Sticker 3: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+2 of 3 AT buffs active.
+Salamanderenity (4)
+Phorcefullness (5)
+Strength of Ten Ettins (10)
+Sugar Rush (10)
+Go Get 'Em, Tiger! (15)
+Empathy (15)
+Patience of the Tortoise (91)
+♫ Stevedave's Shanty of Superiority (99)
+♫ The Magical Mojomuscular Melody (103)
+20/20 Vision (156)
+Jingle Jangle Jingle (350)
+Jabañero Saucesphere (350)
+Elemental Saucesphere (350)
+Jalapeño Saucesphere (350)
+Ghostly Shell (960)
+Retrograde Relaxation (6,278)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: -10.00%
+
+Exp: +0.00
+Meat: +35.00%
+Item: +30.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+use 1 Manual of Labor
+
+use 1 Chester's bag of candy
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+outfit Knob Goblin Harem Girl Disguise
+
+[8707] Cobb's Knob Treasury
+Encounter: Just Tryin' to Get Paid
+
+equip hat hardened slime hat
+
+Fold sugar sheet
+You acquire an item: sugar shorts
+
+equip pants sugar shorts
+outfit Swashbuckling Getup
+
+buy 1 pirate brochure for 300 each from Barrrtleby's Barrrgain Books (Bees Hate You)
+You acquire an item: pirate brochure
+You spent 300 Meat
+
+use 1 pirate brochure
+You acquire an effect: Muscularrr (duration: 10 Adventures)
+custom outfit Backup
+concert 1
+
+buy 1 pygmy pygment for 310 each from 1784128 on 20111130
+You acquire an item: pygmy pygment
+
+use 1 pygmy pygment
+You acquire an effect: Woad Warrior (duration: 10 Adventures)
+
+buy 1 phial of stench for 497 each from 1877436 on 20111130
+You acquire an item: phial of stench
+
+use 1 phial of stench
+You acquire an effect: Stenchform (duration: 5 Adventures)
+
+buy 1 SPF 451 lip balm for 1050 each from 2084467 on 20111130
+You acquire an item: SPF 451 lip balm
+
+use 1 SPF 451 lip balm
+You acquire an effect: Fireproof Lips (duration: 10 Adventures)
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 1,497 hit points
+
+[8707] Fernswarthy's Basement (Level 234)
+Elemental Resist Test: +5 stench 100% (1 hp), +14 hot 82% (1,816 hp)
+You lose 1 hit point
+You lose 1,693 hit points
+
+[8708] Fernswarthy's Basement (Level 235)
+Encounter: Save the Dolls/Save the Cardboard
+You gain 411 Sarcasm
+
+buy 1 oil of stability for 350 each from 2242283 on 20111130
+You acquire an item: oil of stability
+
+use 1 oil of stability
+You acquire an effect: Stabilizing Oiliness (duration: 5 Adventures)
+
+[8709] Fernswarthy's Basement (Level 236)
+Buffed Muscle Test: 1,569 current, 2,269 needed
+Jumping into Awesome Ball Pit in clan rumpus room
+
+buy 1 blood of the Wereseal for 500 each from Smacketeria
+You acquire an item: blood of the Wereseal
+You spent 500 Meat
+
+use 1 blood of the Wereseal
+You acquire an effect: Temporary Lycanthropy (duration: 10 Adventures)
+
+buy 1 tomato juice of powerful power for 394 each from 1783793 on 20111130
+You acquire an item: tomato juice of powerful power
+
+use 1 tomato juice of powerful power
+You acquire an effect: Tomato Power (duration: 5 Adventures)
+
+buy 1 hot wad for 593 each from 1342093 on 20111130
+You acquire an item: hot wad
+
+use 1 hot wad
+You gain 1 Adventure
+You gain 37 Beefiness
+You gain 8 Magicalness
+You gain 20 Cheek
+You acquire an effect: Hot Blooded (duration: 10 Adventures)
+
+buy 1 seal-brain elixir for 995 each from 2187987 on 20111130
+You acquire an item: seal-brain elixir
+
+use 1 seal-brain elixir
+You acquire an effect: Sealed Brain (duration: 20 Adventures)
+
+buy 1 Mick's IcyVapoHotness Rub for 282 each from 1053259 on 20111130
+You acquire an item: Mick's IcyVapoHotness Rub
+
+use 1 Mick's IcyVapoHotness Rub
+You acquire an effect: Extreme Muscle Relaxation (duration: 10 Adventures)
+
+equip off-hand black shield
+
+[8710] Fernswarthy's Basement (Level 236)
+Buffed Muscle Test: 2,258 current, 2,269 needed
+
+cast 40 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 1320 Adventures)
+unequip weapon
+unequip offhand
+
+buy 1 tamarind-flavored chewing gum for 200 each from Gno-Mart
+You acquire an item: tamarind-flavored chewing gum
+You spent 200 Meat
+
+use 1 tamarind-flavored chewing gum
+You acquire an effect: Tamarind Torment (duration: 5 Adventures)
+
+[8711] Fernswarthy's Basement (Level 237)
+Encounter: 13 Stone Golem
+Round 0: boolicious loses initiative!
+Round 1: 13 stone golem takes 1 damage.
+Round 1: 13 stone golem takes 3 damage.
+You lose 888 hit points
+
+uneffect Beaten Up
+
+use 1 scroll of drastic healing
+
+[8712] Fernswarthy's Basement (Level 237)
+Encounter: 13 Stone Golem
+Round 0: boolicious loses initiative!
+Round 1: 13 stone golem takes 1 damage.
+Round 1: 13 stone golem takes 3 damage.
+You lose 899 hit points
+Round 1: boolicious casts KNUCKLE SANDWICH!
+Round 2: 13 stone golem takes 24 damage.
+Round 2: 13 stone golem drops 33 attack power.
+Round 2: 13 stone golem takes 2 damage.
+Round 2: 13 stone golem takes 2 damage.
+You lose 869 hit points
+Round 2: boolicious casts FLYING FIRE FIST!
+Round 3: 13 stone golem takes 6636 damage.
+You lose an effect: Salamanderenity
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 16 damage.
+Round 3: 13 stone golem takes 16 damage.
+Round 3: boolicious wins the fight!
+You gain 702 Beefiness
+You gain a Muscle point!
+You gain 273 Magicalness
+You gain 263 Cheek
+You gain a Moxie point!
+
+[8713] Fernswarthy's Basement (Level 238)
+Buffed Moxie Test: 1,056 current, 2,296 needed
