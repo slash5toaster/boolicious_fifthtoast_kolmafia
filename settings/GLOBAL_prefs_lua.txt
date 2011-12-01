@@ -60,7 +60,7 @@ displayName
 displayName.boolicious=boolicious
 externalEditor=geany 
 gapProtection=false
-getBreakfast=true
+getBreakfast=false
 getBreakfast.boolicious=false
 grabCloversHardcore=true
 grabCloversSoftcore=true
