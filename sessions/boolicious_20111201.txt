@@ -2234,3 +2234,333 @@ Item: +30.00%
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+December 1, 2011 - Petember 2
+
+Ronald: waxing crescent
+Grimace: full moon
+Mini-moon: front center
+
+Arrrbor Day: 2 days
+Lab&oacute;r Day: 12 days
+Halloween: 22 days
+Feast of Boris: 29 days
+Festival of Jarlsberg: 31 days
+Yuletide: 34 days
+Valentine's Day: 50 days
+St. Sneaky Pete's Day: 57 days
+Oyster Egg Day: 64 days
+El Dia De Los Muertos Borrachos: 72 days
+Generic Summer Holiday: 81 days
+Dependence Day: 90 days
+
+
+Muscle bonus today and yesterday.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 21
+HP: 324 / 1,219
+MP: 663 / 805
+
+Mus: 788 (441), tnp = 313
+Mys: 491 (321), tnp = 399
+Mox: 481 (321), tnp = 524
+
+Advs: 139
+Meat: 387,370
+Drunk: 14
+
+
+ > equipment
+
+Hat: hardened slime hat
+Weapon: (none)
+Off-hand: (none)
+Shirt: Ultracolor™ shirt
+Pants: sugar shorts
+
+Acc. 1: cursed scrunchie
+Acc. 2: Pokëmann figurine: Frank
+Acc. 3: Mr. Accessory
+
+Pet: Cocoabo (30 lbs)
+Item: Li'l Businessman Kit
+
+Sticker 1: scratch 'n' sniff wrestler sticker (0)
+Sticker 2: scratch 'n' sniff wrestler sticker (0)
+Sticker 3: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Salamanderenity (45)
+20/20 Vision (48)
+♫ Jackasses' Symphony of Destruction (281)
+Scarysauce (281)
+Astral Shell (281)
+Tenacity of the Snapper (281)
+Reptilian Fortitude (281)
+Empathy (282)
+♫ Stevedave's Shanty of Superiority (366)
+♫ The Magical Mojomuscular Melody (370)
+Patience of the Tortoise (538)
+Jingle Jangle Jingle (617)
+Jabañero Saucesphere (617)
+Elemental Saucesphere (617)
+Jalapeño Saucesphere (617)
+Ghostly Shell (1,227)
+Retrograde Relaxation (6,170)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +35.00%
+Item: +30.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+outfit Knob Goblin Harem Girl Disguise
+
+[8815] Cobb's Knob Treasury
+Encounter: Finally, the Payoff
+You gain 500 Meat
+
+equip hat hardened slime hat
+
+equip pants sugar shorts
+
+add to stash: 87870 Meat
+You gain 29290 Clan Karma
+
+add to closet: 150000 Meat
+
+Visiting Mr. Store
+
+trading 1 Mr. Accessory for 1 Mint Salton Pepper's Peppermint Seed Catalog
+You acquire an item: Mint Salton Pepper's Peppermint Seed Catalog
+
+mallsell: 1 Mint Salton Pepper's Peppermint Seed Catalog
+
+manageprices.php?action=update&price5403=9999999&limit5403=0&price2959=7100&limit2959=0&price2973=6100&limit2973=0&price2981=5400&limit2981=0&price1089=4900&limit1089=0&price5282=3400&limit5282=0&price258=2000&limit258=1&price1464=1500&limit1464=0&price476=950&limit476=0&price703=790&limit703=0&price280=700&limit280=0&price5087=600&limit5087=0&price638=504&limit638=0&price594=410&limit594=0&price2687=400&limit2687=0&price129=400&limit129=0&price2633=365&limit2633=0&price1929=320&limit1929=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price2571=300&limit2571=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price628=258&limit628=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price615=248&limit615=0&price541=240&limit541=0&price493=240&limit493=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price356=222&limit356=0&price2984=220&limit2984=0&price355=220&limit355=0&price544=200&limit544=0&price1297=200&limit1297=0&price416=200&limit416=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price1866=186&limit1866=0&price3844=184&limit3844=0&price1838=182&limit1838=0&price362=180&limit362=0&price360=180&limit360=0&price361=180&limit361=0&price835=180&limit835=0&price402=180&limit402=0&price4665=170&limit4665=0&price4666=170&limit4666=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price240=160&limit240=0&price671=160&limit671=0&price218=155&limit218=0&price2613=155&limit2613=0&price2055=150&limit2055=0&price352=150&limit352=0&price1826=140&limit1826=0&price310=130&limit310=0&price475=130&limit475=0&price1163=125&limit1163=1&price1361=124&limit1361=0&price432=120&limit432=0&price431=120&limit431=0&price1655=120&limit1655=0&price1160=110&limit1160=0&price4958=110&limit4958=0&price449=100&limit449=0&price79=100&limit79=0&price1675=100&limit1675=0&price120=100&limit120=0&price634=100&limit634=0&price3843=100&limit3843=0&price565=100&limit565=0&price9=100&limit9=1&price296=100&limit296=0&price1462=100&limit1462=0&price166=100&limit166=0&price172=100&limit172=0&price123=100&limit123=0&price1750=100&limit1750=0&price1751=100&limit1751=0&price3=100&limit3=0&price4719=100&limit4719=0&price305=100&limit305=0&price306=100&limit306=0&price38=100&limit38=0&price35=100&limit35=0&price36=100&limit36=0&price4718=100&limit4718=0&price5=100&limit5=0&price6=100&limit6=0&price1=100&limit1=0&price77=100&limit77=0&price119=100&limit119=0&price21=100&limit21=0&price136=100&limit136=0&price269=100&limit269=0&price909=100&limit909=0&price905=100&limit905=3
+
+[8816] The Slime Tube
+Encounter: throbbing Slime polyp
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 11 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 227 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 2: slime1 drops 11 attack power.
+Round 2: slime1 drops 11 defense.
+Round 2: boolicious wins the fight!
+You gain 17 Strongness
+You gain 8 Magicalness
+You gain 5 Sarcasm
+
+[8817] The Slime Tube
+Encounter: dripping Slime pseudopod
+Round 0: boolicious wins initiative!
+You lose 13 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 231 damage.
+Round 2: boolicious wins the fight!
+You gain 18 Muscleboundness
+You gain 5 Magicalness
+You gain 6 Roguishness
+
+[8818] The Slime Tube
+Encounter: pulsating Slime polyp
+Round 0: boolicious wins initiative!
+You lose 81 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 226 damage.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 164 Meat.
+Round 2: boolicious wins the fight!
+You gain 18 Strengthliness
+You gain 5 Magicalness
+You gain 6 Cheek
+
+drink 1 slimy fermented bile bladder
+You gain 2 Adventures
+You acquire an effect: Bilious (duration: 20 Adventures)
+You gain 1 Drunkenness
+
+[8819] The Slime Tube
+Encounter: glistening Slime nodule
+Round 0: boolicious wins initiative!
+You lose 219 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 213 damage.
+Round 2: boolicious attacks!
+Round 3: slime1 takes 214 damage.
+Round 3: boolicious wins the fight!
+You gain 11 Strengthliness
+You gain 12 Magicalness
+You gain 12 Smarm
+
+clan_slimetube.php?action=chamois
+You lose an effect: Coated in Slime
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 1,167 hit points
+
+[8820] The Slime Tube
+Encounter: dripping Slime pseudopod
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 209 damage.
+Round 2: boolicious attacks!
+Round 3: slime1 takes 209 damage.
+Round 3: boolicious wins the fight!
+You gain 19 Fortitude
+You gain 7 Magicalness
+You gain 10 Roguishness
+
+use 1 murky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+[8821] The Slime Tube
+Encounter: Engulfed!
+Took choice 337/1: +1 rusty -> slime-covered item conversion
+choice.php?pwd&whichchoice=337&option=1
+
+[8822] The Slime Tube
+Encounter: pulsating Slime pseudopod
+Round 0: boolicious wins initiative!
+You lose 249 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 241 damage.
+Round 2: boolicious wins the fight!
+You gain 19 Fortitude
+You gain 10 Wizardliness
+You gain 8 Sarcasm
+
+clan_slimetube.php?action=chamois
+You lose an effect: Coated in Slime
+
+[8823] The Slime Tube
+Encounter: dripping Slime pseudopod
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 240 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused. LIMIT BREAK!
+Round 2: slime1 drops 21 attack power.
+Round 2: slime1 drops 21 defense.
+Round 2: boolicious wins the fight!
+You gain 19 Strengthliness
+You gain 8 Enchantedness
+You gain 10 Smarm
+
+[8824] The Slime Tube
+Encounter: glistening Slime nodule
+Round 0: boolicious wins initiative!
+You lose 83 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 241 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 117 Meat.
+Round 2: boolicious wins the fight!
+You gain 23 Beefiness
+You gain 5 Enchantedness
+You gain 9 Sarcasm
+
+clan_slimetube.php?action=chamois
+You lose an effect: Coated in Slime
+
+[8825] The Slime Tube
+Encounter: throbbing Slime polyp
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 241 damage.
+Round 2: boolicious wins the fight!
+You gain 19 Strengthliness
+You gain 7 Mysteriousness
+You gain 10 Smarm
+
+[8826] The Slime Tube
+Encounter: squirming Slime pseudopod
+Round 0: boolicious wins initiative!
+You lose 83 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 243 damage.
+Round 2: boolicious wins the fight!
+You gain 19 Strongness
+You gain 9 Magicalness
+You gain 8 Sarcasm
+
+clan_slimetube.php?action=chamois
+You lose an effect: Coated in Slime
