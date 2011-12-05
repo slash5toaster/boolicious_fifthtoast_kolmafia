@@ -1,0 +1,12 @@
+#!/bin/bash
+
+JAVABIN=/usr/lib/jvm/java-1.5.0-sun-1.5.0.19/bin/java
+
+pushd ~/.kolmafia/
+svn up
+svn commit -m $(date +%F-%H%M) 
+$JAVABIN -jar ~/.kolmafia/KoLmafia-14.8.jar 
+svn add */*$(date -u +%y%m%d)*
+svn up --password 1aK8U30UMO 
+svn commit -m $(date +%F-%H%M) --password 1aK8U30UMO
+popd
