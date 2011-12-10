@@ -1,0 +1,1819 @@
+outfit Knob Goblin Harem Girl Disguise
+
+[9455] Cobb's Knob Treasury
+Encounter: Finally, the Payoff
+You gain 500 Meat
+
+equip hat miner's helmet
+
+equip pants astral shorts
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 994 Meat
+
+use 1 Manual of Labor
+
+use 1 Chester's bag of candy
+You acquire an item: Tasty Fun Good rice candy
+You acquire Yummy Tummy bean (4)
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+eat 1 cold hi mein
+You gain 24 Adventures
+You gain 82 Fortitude
+You gain 30 Enchantedness
+You gain 23 Smarm
+You gain a Moxie point!
+You acquire an effect: Cold Breath (duration: 5 Adventures)
+You gain 5 Fullness
+
+eat 1 Knob lo mein
+You gain 18 Adventures
+You gain 30 Wizardliness
+You gain 4 Fullness
+
+eat 1 unidentified jerky
+You gain 4 Adventures
+You gain 13 Strengthliness
+You gain 11 Magicalness
+You gain 17 Chutzpah
+You gain 2 Fullness
+
+eat 1 elven hardtack
+You gain 7 Adventures
+You gain 25 Strongness
+You gain 29 Magicalness
+You gain 38 Sarcasm
+You gain 3 Fullness
+
+eat 1 fortune cookie
+You gain 1 Adventure
+You gain 1 Fullness
+Lucky numbers: 191, 83, 184
+
+drink 1 bloody beer
+You gain 2 Adventures
+You gain 5 Muscularity Points
+You gain 1 Drunkenness
+
+drink 1 Bordeaux Marteaux
+You gain 5 Adventures
+You gain 65 Muscleboundness
+You acquire an effect: Hammered (duration: 20 Adventures)
+You gain 1 Drunkenness
+
+eat 0 t8r tots
+
+drink 1 rum and cola
+You gain 5 Adventures
+You gain 14 Smarm
+You gain 15 Muscularity Points
+You gain 3 Drunkenness
+
+drink 1 pumpkin beer
+You gain 6 Adventures
+You gain 22 Fortitude
+You gain 11 Mysteriousness
+You gain 13 Chutzpah
+You gain 4 Muscularity Points
+You gain 1 Drunkenness
+
+drink 1 parisian cathouse
+You gain 8 Adventures
+You gain 22 Smarm
+You gain 3 Drunkenness
+
+drink 1 snifter of thoroughly aged brandy
+You gain 5 Adventures
+You gain 9 Enchantedness
+You gain 2 Drunkenness
+
+managestore.php?action=additem&pwd&qty1=1&item1=0&price1=&limit1=
+
+mallsell: 2 Nuclear Blastball
+
+manageprices.php?action=update&pwd&price542=260&limit542=0&price362=180&limit362=0&price594=410&limit594=0&price1929=320&limit1929=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price622=272&limit622=0&price449=100&limit449=0&price2055=150&limit2055=0&price432=120&limit432=0&price3858=250&limit3858=0&price2981=5400&limit2981=0&price5259=4000&limit5259=0&price79=100&limit79=0&price615=248&limit615=0&price431=120&limit431=0&price120=100&limit120=0&price634=100&limit634=0&price2984=220&limit2984=0&price834=190&limit834=0&price414=190&limit414=0&price258=2000&limit258=1&price472=190&limit472=0&price565=100&limit565=0&price9=100&limit9=1&price1361=124&limit1361=0&price632=264&limit632=0&price541=240&limit541=0&price296=100&limit296=0&price1866=186&limit1866=0&price1826=140&limit1826=0&price1838=182&limit1838=0&price399=230&limit399=0&price355=220&limit355=0&price1462=100&limit1462=0&price538=260&limit538=0&price3864=164&limit3864=0&price544=200&limit544=0&price616=258&limit616=0&price166=100&limit166=0&price497=236&limit497=0&price172=100&limit172=0&price123=100&limit123=0&price1750=100&limit1750=0&price1751=100&limit1751=0&price703=790&limit703=0&price2973=5600&limit2973=0&price611=270&limit611=0&price3=100&limit3=0&price218=155&limit218=0&price395=196&limit395=0&price4719=100&limit4719=0&price2093=230&limit2093=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price1160=110&limit1160=0&price776=190&limit776=0&price4958=110&limit4958=0&price310=130&limit310=0&price305=100&limit305=0&price306=100&limit306=0&price38=100&limit38=0&price35=100&limit35=0&price36=100&limit36=0&price312=160&limit312=0&price475=130&limit475=0&price2598=300&limit2598=0&price3844=184&limit3844=0&price4718=100&limit4718=0&price1163=125&limit1163=1&price628=258&limit628=0&price360=180&limit360=0&price361=180&limit361=0&price5403=9999999&limit5403=0&price352=150&limit352=0&price5103=215&limit5103=0&price239=160&limit239=0&price240=160&limit240=0&price5=100&limit5=0&price2633=365&limit2633=0&price393=196&limit393=0&price280=700&limit280=0&price613=256&limit613=0&price5087=600&limit5087=0&price614=256&limit614=0&price6=100&limit6=0&price835=180&limit835=0&price1297=200&limit1297=0&price2613=155&limit2613=0&price2959=6225&limit2959=0&price1=100&limit1=0&price2680=300&limit2680=0&price356=222&limit356=0&price77=100&limit77=0&price119=100&limit119=0&price2687=400&limit2687=0&price402=180&limit402=0&price21=100&limit21=0&price129=400&limit129=0&price136=100&limit136=0&price1655=120&limit1655=0&price269=100&limit269=0&price909=100&limit909=0&price905=100&limit905=3
+
+Harvesting your garden
+You acquire peppermint sprout (3)
+
+adventure.php?snarfblat=275
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2:  takes 196 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (5)
+You gain 10 Beefiness
+You gain 6 Magicalness
+You gain 5 Smarm
+
+adventure.php?snarfblat=275
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2:  takes 199 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (5)
+You gain 14 Fortitude
+You gain 7 Magicalness
+You gain 3 Sarcasm
+
+adventure.php?snarfblat=275
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2:  takes 205 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (5)
+You gain 13 Muscleboundness
+You gain 3 Enchantedness
+You gain 8 Cheek
+
+adventure.php?snarfblat=275
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2:  takes 201 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (5)
+You gain 11 Fortitude
+You gain 4 Mysteriousness
+You gain 8 Smarm
+
+[9460] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 282 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Strongness
+You gain 3 Smarm
+
+[9461] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 275 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 3 Beefiness
+You gain 3 Smarm
+
+[9462] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 253 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 3 Fortitude
+You gain 3 Magicalness
+You gain 7 Smarm
+
+[9463] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 277 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 2 Fortitude
+You gain 1 Wizardliness
+You gain 4 Sarcasm
+
+[9464] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 223 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 7 Fortitude
+You gain 7 Mysteriousness
+You gain 3 Sarcasm
+
+[9465] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: lollipede takes 277 damage.
+Round 3: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Strongness
+You gain 1 Mysteriousness
+
+[9466] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 275 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 3 Strongness
+You gain 3 Smarm
+
+[9467] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 277 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 2 Beefiness
+You gain 2 Magicalness
+You gain 3 Smarm
+
+[9468] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 277 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Muscleboundness
+You gain 2 Wizardliness
+
+[9469] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 250 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Shakira, the 10 lb. Baby Gravy Fairy
+After Battle: Shakira does a little fairy dance.
+You gain 8 Strongness
+You gain 1 Enchantedness
+You gain 3 Smarm
+
+[9470] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 277 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 5 Strongness
+You gain 1 Magicalness
+
+[9471] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 223 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You acquire an item: lollipop stick
+You gain 10 Strongness
+You gain 1 Wizardliness
+You gain 7 Sarcasm
+
+[9472] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 277 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 3 Muscleboundness
+You gain 3 Enchantedness
+
+[9473] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 277 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 3 Muscleboundness
+You gain 3 Wizardliness
+
+[9474] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 277 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 2 Fortitude
+You gain 2 Magicalness
+You gain 3 Cheek
+
+[9475] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 277 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Strongness
+You gain 1 Enchantedness
+You gain 2 Smarm
+
+[9476] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 207 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 1 Wizardliness
+You gain 7 Cheek
+
+[9477] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 172 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 11 Strongness
+You gain 5 Enchantedness
+You gain 2 Roguishness
+
+[9478] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 208 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Strengthliness
+You gain 2 Magicalness
+
+[9479] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 191 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Fortitude
+You gain 3 Enchantedness
+You gain 4 Cheek
+
+[9480] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 208 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 2 Muscleboundness
+You gain 1 Enchantedness
+You gain 3 Chutzpah
+
+[9481] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 208 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 3 Strengthliness
+You gain 3 Magicalness
+
+[9482] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 207 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Strongness
+You gain 3 Chutzpah
+
+[9483] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 170 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 8 Strongness
+You gain 4 Magicalness
+You gain 5 Sarcasm
+
+[9484] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 208 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 3 Strongness
+You gain 1 Mysteriousness
+You gain 3 Cheek
+
+[9485] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/3: skip adventure or make a lollipop stick item
+choice.php?pwd&whichchoice=557&option=3
+Encounter: Tool Time
+Took choice 558/2: sucker kabuto
+choice.php?pwd&whichchoice=558&option=2
+You acquire an item: sucker kabuto
+outfit Sucker Samurai Suit
+
+Visiting the pretentious artist
+You have unlocked a new tattoo.
+
+[9486] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 599 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 2 Fortitude
+You gain 2 Wizardliness
+You gain 4 Roguishness
+
+adventure.php?snarfblat=275
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 548 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (5)
+You gain 15 Beefiness
+You gain 3 Enchantedness
+You gain 5 Chutzpah
+
+adventure.php?snarfblat=275
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 542 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (5)
+You gain 15 Strongness
+You gain 2 Mysteriousness
+You gain 5 Chutzpah
+
+adventure.php?snarfblat=275
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 553 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (5)
+You gain 11 Beefiness
+You gain 6 Enchantedness
+You gain 5 Roguishness
+
+adventure.php?snarfblat=275
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 545 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (6)
+You gain 13 Strengthliness
+You gain 9 Wizardliness
+You gain 2 Cheek
+
+adventure.php?snarfblat=275
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 553 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Shakira, the 11 lb. Baby Gravy Fairy
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (6)
+You gain 13 Strengthliness
+You gain 5 Magicalness
+You gain 5 Sarcasm
+
+adventure.php?snarfblat=275
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 548 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (5)
+You gain 16 Fortitude
+You gain 3 Wizardliness
+You gain 3 Chutzpah
+
+[9493] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 579 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Muscleboundness
+You gain 6 Wizardliness
+You gain 2 Roguishness
+
+[9494] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 607 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: bananagate
+You gain 2 Muscleboundness
+You gain 1 Magicalness
+You gain 4 Cheek
+
+Create 30 meat paste
+You acquire meat paste (30)
+You lose 300 Meat
+
+buy 10 chewing gum on a string for 50 each from Market Demon
+You acquire chewing gum on a string (10)
+You spent 500 Meat
+
+use 10 chewing gum on a string
+You acquire an item: disco ball
+You acquire worthless trinket (3)
+You acquire worthless knick-knack (2)
+You acquire an item: Hollandaise helmet
+You acquire an item: ravioli hat
+You acquire worthless gewgaw (2)
+
+trading 4 worthless items for 4 ten-leaf clovers
+You acquire ten-leaf clover (4)
+
+Use 4 ten-leaf clover
+You acquire disassembled clover (4)
+
+mallsell: 13 disassembled clover
+
+mallsell: 1 chocolate frosted sugar bomb
+
+mallsell: 1 slip 'n' slide
+
+mallsell: 1 Pokëmann figurine: Bloodkip
+
+mallsell: 3 photoprotoneutron torpedo
+
+manageprices.php?action=update&price5403=9999999&limit5403=0&price5270=7300&limit5270=0&price2959=6225&limit2959=0&price2973=5600&limit2973=0&price2981=5400&limit2981=0&price5259=4000&limit5259=0&price258=2000&limit258=1&price196=1500&limit196=0&price681=1034&limit681=0&price5093=950&limit5093=0&price703=790&limit703=0&price280=700&limit280=0&price5087=600&limit5087=0&price594=410&limit594=0&price2687=400&limit2687=0&price129=400&limit129=0&price2633=365&limit2633=0&price1929=320&limit1929=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=289&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price628=258&limit628=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price615=248&limit615=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price356=222&limit356=0&price2984=220&limit2984=0&price355=220&limit355=0&price5103=215&limit5103=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price1866=186&limit1866=0&price3844=184&limit3844=0&price1838=182&limit1838=0&price362=180&limit362=0&price360=180&limit360=0&price361=180&limit361=0&price835=180&limit835=0&price402=180&limit402=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price240=160&limit240=0&price218=155&limit218=0&price2613=155&limit2613=0&price2055=150&limit2055=0&price352=150&limit352=0&price1826=140&limit1826=0&price310=130&limit310=0&price475=130&limit475=0&price1163=125&limit1163=1&price1361=124&limit1361=0&price432=120&limit432=0&price431=120&limit431=0&price1655=120&limit1655=0&price1160=110&limit1160=0&price4958=110&limit4958=0&price449=100&limit449=0&price79=100&limit79=0&price120=100&limit120=0&price634=100&limit634=0&price565=100&limit565=0&price9=100&limit9=1&price296=100&limit296=0&price1462=100&limit1462=0&price166=100&limit166=0&price172=100&limit172=0&price123=100&limit123=0&price1750=100&limit1750=0&price1751=100&limit1751=0&price3=100&limit3=0&price4719=100&limit4719=0&price305=100&limit305=0&price306=100&limit306=0&price38=100&limit38=0&price35=100&limit35=0&price36=100&limit36=0&price4718=100&limit4718=0&price5=100&limit5=0&price6=100&limit6=0&price1=100&limit1=0&price77=100&limit77=0&price119=100&limit119=0&price21=100&limit21=0&price136=100&limit136=0&price269=100&limit269=0&price909=100&limit909=0&price905=100&limit905=3
+adventure.php?snarfblat=275
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+
+[9495] Lollipop Forest
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 544 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (5)
+You gain 13 Strengthliness
+You gain 5 Enchantedness
+You gain 4 Roguishness
+
+[9496] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 597 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Beefiness
+You gain 1 Enchantedness
+You gain 2 Chutzpah
+
+[9497] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 601 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 3 Fortitude
+You gain 2 Wizardliness
+You gain 2 Sarcasm
+
+[9498] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 600 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Muscleboundness
+You gain 1 Mysteriousness
+You gain 2 Sarcasm
+
+[9499] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 573 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 5 Strengthliness
+You gain 5 Enchantedness
+You gain 8 Chutzpah
+
+[9500] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/3: skip adventure or make a lollipop stick item
+choice.php?pwd&whichchoice=557&option=3
+Encounter: Tool Time
+Took choice 558/5: sucker scaffold
+choice.php?pwd&whichchoice=558&option=5
+You acquire an item: sucker scaffold
+
+[9501] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 597 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Beefiness
+You gain 3 Roguishness
+
+[9502] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 2: boolicious attacks!
+Round 3: lolliphaunt takes 580 damage.
+Round 3: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 4 Beefiness
+You gain 3 Magicalness
+You gain 5 Sarcasm
+
+adventure.php?snarfblat=275
+adventure.php?snarfblat=275
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 545 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (6)
+You gain 15 Strengthliness
+You gain 4 Wizardliness
+You gain 5 Roguishness
+
+adventure.php?snarfblat=275
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 559 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (6)
+You gain 10 Beefiness
+You gain 5 Wizardliness
+You gain 8 Chutzpah
+
+[9505] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 600 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Beefiness
+You gain 3 Roguishness
+
+[9506] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 564 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You acquire an item: lollipop stick
+You gain 4 Muscleboundness
+You gain 8 Magicalness
+You gain 5 Sarcasm
+
+[9507] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 602 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 4 Fortitude
+You gain 1 Enchantedness
+You gain 2 Cheek
+
+[9508] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 580 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 6 Strongness
+You gain 2 Enchantedness
+You gain 4 Chutzpah
+
+[9509] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 599 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Beefiness
+You gain 3 Chutzpah
+
+[9510] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 601 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 4 Strengthliness
+You gain 1 Mysteriousness
+You gain 2 Chutzpah
+
+[9511] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 598 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 3 Strengthliness
+You gain 2 Mysteriousness
+
+[9512] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 563 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 10 Strengthliness
+You gain 2 Mysteriousness
+You gain 5 Smarm
+
+[9513] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 600 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 2 Mysteriousness
+You gain 4 Smarm
+
+[9514] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 601 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 2 Beefiness
+You gain 2 Wizardliness
+You gain 3 Cheek
+
+[9515] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 600 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Shakira, the 12 lb. Baby Gravy Fairy
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 5 Strengthliness
+You gain 2 Sarcasm
+
+[9516] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 595 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 4 Muscleboundness
+You gain 2 Enchantedness
+
+use 1 licorice root
+You acquire an effect: Rootin' Around (duration: 20 Adventures)
+
+buy 1 scroll of drastic healing for 214 each from 2025543 on 20111208
+You acquire an item: scroll of drastic healing
+
+[9517] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 583 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You acquire an item: kumquartz
+You gain 5 Beefiness
+You gain 1 Enchantedness
+You gain 5 Smarm
+
+Combine 1 kumquartz + 1 bananagate
+
+Combine 1 kumquartz + 1 lollipop stick
+You acquire an item: kumquat supersucker
+Crafting used 1 each of lollipop stick and kumquartz
+
+Combine 1 kumquartz + 1 lollipop stick
+You acquire an item: kumquat supersucker
+Crafting used 1 each of lollipop stick and kumquartz
+
+Combine 1 kumquartz + 1 bananagate + 1 lollipop stick
+You acquire an item: banana supersucker
+Crafting used 1 each of lollipop stick and bananagate
+
+Combine 1 kumquartz + 1 bananagate + 1 lollipop stick
+You acquire an item: banana supersucker
+Crafting used 1 each of lollipop stick and bananagate
+
+Combine 1 kumquartz + 1 strawberyl + 1 lollipop stick
+You acquire an item: strawberry supersucker
+Crafting used 1 each of lollipop stick and strawberyl
+
+Cook 1 plum + 1 lemon
+
+[9519] Mix 1 bottle of gin + 1 olive
+You acquire an item: martini
+Crafting used 1 each of bottle of gin and olive
+
+[9519] Mix 10 strawberry + 10 bottle of rum
+You acquire strawberry daiquiri (10)
+Crafting used 10 each of strawberry and bottle of rum
+
+drink 1 strawberry daiquiri
+You gain 6 Adventures
+You gain 12 Smarm
+You gain 3 Drunkenness
+
+drink 1 strawberry daiquiri
+You gain 6 Adventures
+You gain 12 Roguishness
+You gain 3 Drunkenness
+
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+use 1 Manual of Labor
+
+use 1 Chester's bag of candy
+
+[9518] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 586 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Strengthliness
+You gain 4 Mysteriousness
+You gain 5 Chutzpah
+
+[9519] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 587 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 7 Strongness
+You gain 1 Magicalness
+You gain 4 Sarcasm
+
+[9520] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 604 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 3 Beefiness
+You gain 1 Wizardliness
+You gain 3 Roguishness
+
+cast 3 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 99 Adventures)
+
+[9521] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 5 hit points
+Round 2: boolicious attacks!
+Round 3: lolliphaunt takes 585 damage.
+Round 3: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Strengthliness
+You gain 4 Magicalness
+You gain 4 Roguishness
+
+[9522] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 570 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 7 Strongness
+You gain 3 Magicalness
+You gain 8 Chutzpah
+
+[9523] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 604 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 2 Beefiness
+You gain 3 Wizardliness
+You gain 2 Sarcasm
+
+[9524] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 606 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 5 Strengthliness
+You gain 1 Magicalness
+
+[9525] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 601 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 6 Strongness
+
+[9526] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 601 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 3 Fortitude
+You gain 4 Sarcasm
+
+[9527] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 4 hit points
+Round 2: boolicious attacks!
+Round 3: lolliphaunt takes 589 damage.
+Round 3: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 6 Beefiness
+You gain 1 Wizardliness
+You gain 5 Smarm
+
+[9528] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 614 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 3 Fortitude
+You gain 2 Enchantedness
+You gain 2 Roguishness
+
+[9529] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 569 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 10 Muscleboundness
+You gain 3 Magicalness
+You gain 5 Smarm
+
+[9530] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 594 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 6 Muscleboundness
+You gain 2 Wizardliness
+You gain 3 Smarm
+
+[9531] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 583 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 5 Fortitude
+You gain a Muscle point!
+You gain 4 Enchantedness
+You gain 2 Chutzpah
+
+[9532] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 606 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Strengthliness
+You gain 1 Mysteriousness
+You gain 2 Chutzpah
+
+[9533] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 604 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: tourmalime
+You gain 3 Strongness
+You gain 2 Magicalness
+You gain 2 Cheek
+
+[9534] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 584 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Muscleboundness
+You gain 3 Enchantedness
+You gain 7 Chutzpah
+
+[9535] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/1: get candies
+choice.php?whichchoice=557&option=1&pwd
+You acquire an item: honey-dipped locust
+You acquire an item: marzipan skull
+You acquire an item: bazookafish bubble gum
+You acquire an item: crazy little Turkish delight
+
+[9536] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 613 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 5 Beefiness
+You gain 2 Smarm
+
+[9537] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 599 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 4 Strongness
+You gain 2 Magicalness
+
+[9538] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/1: get candies
+choice.php?whichchoice=557&option=1&pwd
+You acquire an item: Elvish delight
+You acquire an item: Tasty Fun Good rice candy
+You acquire an item: lime-and-chile-flavored chewing gum
+You acquire an item: pickle-flavored chewing gum
+You acquire an item: Daffy Taffy
+
+[9539] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 577 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 11 Strengthliness
+You gain 1 Magicalness
+You gain 5 Chutzpah
+
+[9540] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 601 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 5 Strengthliness
+You gain 2 Smarm
+
+[9541] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 564 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 6 Muscleboundness
+You gain 6 Mysteriousness
+You gain 4 Smarm
+
+[9542] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 600 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Shakira, the 13 lb. Baby Gravy Fairy
+After Battle: Shakira does a little fairy dance.
+You gain 3 Muscleboundness
+You gain 3 Magicalness
+
+[9543] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 585 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 6 Muscleboundness
+You gain 2 Enchantedness
+You gain 4 Sarcasm
+
+[9544] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 601 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Beefiness
+You gain 1 Wizardliness
+You gain 2 Chutzpah
+
+[9545] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 603 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Strengthliness
+You gain 1 Wizardliness
+
+[9546] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/3: skip adventure or make a lollipop stick item
+choice.php?whichchoice=557&option=3&pwd
+Encounter: Tool Time
+Took choice 558/5: sucker scaffold
+choice.php?whichchoice=558&option=5&pwd
+You acquire an item: sucker scaffold
+
+[9547] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 599 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 2 Beefiness
+You gain 4 Enchantedness
+
+[9548] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 567 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 10 Beefiness
+You gain 4 Wizardliness
+You gain 4 Chutzpah
+
+[9549] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 600 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 4 Fortitude
+You gain 1 Mysteriousness
+You gain 2 Sarcasm
+
+[9550] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 601 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 3 Strongness
+You gain 1 Mysteriousness
+You gain 3 Smarm
+
+[9551] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 568 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 7 Strengthliness
+You gain 6 Magicalness
+You gain 4 Chutzpah
+
+[9552] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 602 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 3 Muscleboundness
+You gain 4 Sarcasm
+
+[9553] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 563 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 9 Strongness
+You gain 5 Wizardliness
+You gain 4 Cheek
+
+[9554] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 602 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 2 Beefiness
+You gain 2 Magicalness
+You gain 3 Sarcasm
+
+[9555] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 602 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: tourmalime
+You gain 3 Fortitude
+You gain 4 Roguishness
+
+[9556] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 579 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 6 Muscleboundness
+You gain 3 Enchantedness
+You gain 4 Cheek
+
+[9557] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/3: skip adventure or make a lollipop stick item
+choice.php?whichchoice=557&option=3&pwd
+Encounter: Tool Time
+Took choice 558/5: sucker scaffold
+choice.php?whichchoice=558&option=5&pwd
+You acquire an item: sucker scaffold
+
+[9558] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 598 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Strongness
+You gain 3 Sarcasm
+
+[9559] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 600 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Beefiness
+You gain 2 Magicalness
+
+[9560] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 564 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 5 Beefiness
+You gain 7 Enchantedness
+You gain 5 Roguishness
+
+[9561] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 564 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 5 Strengthliness
+You gain 6 Magicalness
+You gain a Mysticality point!
+You gain 5 Smarm
+
+[9562] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 599 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 2 Strengthliness
+You gain 4 Enchantedness
+
+[9563] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 611 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 3 Strongness
+You gain 3 Enchantedness
+
+[9564] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 600 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 3 Strengthliness
+You gain 1 Wizardliness
+You gain 3 Cheek
+
+[9565] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 607 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 3 Strengthliness
+You gain 2 Enchantedness
+You gain 2 Smarm
+
+[9566] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 582 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 7 Strengthliness
+You gain 3 Magicalness
+You gain 2 Sarcasm
+
+[9567] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 582 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 6 Muscleboundness
+You gain 3 Enchantedness
+You gain 3 Sarcasm
+
+[9568] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 583 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 5 Strengthliness
+You gain 2 Mysteriousness
+You gain 5 Chutzpah
+
+[9569] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/3: skip adventure or make a lollipop stick item
+choice.php?whichchoice=557&option=3&pwd
+Encounter: Tool Time
+Took choice 558/5: sucker scaffold
+choice.php?whichchoice=558&option=5&pwd
+You acquire an item: sucker scaffold
+
+[9570] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 603 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 5 Fortitude
+You gain 1 Magicalness
+
+[9571] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 602 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Muscleboundness
+You gain 2 Enchantedness
+
+[9572] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/3: skip adventure or make a lollipop stick item
+choice.php?whichchoice=557&option=3&pwd
+Encounter: Tool Time
+Took choice 558/5: sucker scaffold
+choice.php?whichchoice=558&option=5&pwd
+You acquire an item: sucker scaffold
+
+[9573] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 599 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Shakira, the 14 lb. Baby Gravy Fairy
+After Battle: Shakira does a little fairy dance.
+You gain 4 Strengthliness
+You gain 2 Wizardliness
+
+[9574] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 561 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 7 Muscleboundness
+You gain 2 Magicalness
+You gain 8 Smarm
+
+[9575] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 601 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 2 Fortitude
+You gain 3 Magicalness
+You gain 2 Smarm
+
+[9576] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 584 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 6 Fortitude
+You gain 7 Cheek
+
+[9577] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 581 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 6 Fortitude
+You gain 3 Magicalness
+You gain 4 Sarcasm
+
+[9578] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 599 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 3 Muscleboundness
+You gain 1 Magicalness
+You gain 3 Roguishness
+
+[9579] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 602 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 4 Beefiness
+You gain 2 Wizardliness
+
+[9580] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 598 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 5 Fortitude
+You gain 1 Mysteriousness
+You gain 2 Cheek
+
+[9581] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 566 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You acquire an item: lollipop stick
+You gain 7 Muscleboundness
+You gain 6 Enchantedness
+You gain 4 Roguishness
+
+[9582] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 596 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 3 Fortitude
+You gain 2 Magicalness
+You gain 2 Cheek
+
+[9583] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 565 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 11 Beefiness
+You gain 5 Magicalness
+
+[9584] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 564 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You acquire an item: lollipop stick
+You gain 7 Fortitude
+You gain 3 Magicalness
+You gain 7 Smarm
+
+[9585] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 5 hit points
+Round 2: boolicious attacks!
+Round 3: lolligator takes 598 damage.
+Round 3: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 2 Strongness
+You gain 3 Wizardliness
+You gain 2 Roguishness
+
+[9586] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 603 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 2 Beefiness
+You gain 3 Magicalness
+You gain 2 Cheek
+
+[9587] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 585 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 5 Beefiness
+You gain 4 Wizardliness
+You gain 3 Roguishness
+
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+use 1 Manual of Labor
+
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+use 1 Manual of Labor
+
+use 1 Chester's bag of candy
+
+adventure.php?snarfblat=275
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2:  takes 547 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (6)
+You gain 14 Beefiness
+You gain 4 Magicalness
+You gain 5 Roguishness
+
+adventure.php?snarfblat=275
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2:  takes 542 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (6)
+You gain 11 Muscleboundness
+You gain 6 Magicalness
+You gain 5 Smarm
