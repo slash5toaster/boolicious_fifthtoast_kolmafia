@@ -1,6 +1,22 @@
 #!/bin/bash
 
-JAVABIN=/usr/lib/jvm/java-1.5.0-sun-1.5.0.19/bin/java
+HOST=$(hostname -s)
+case $HOST in
+  "lua" )
+       echo $HOST
+       JAVABIN=/usr/lib/jvm/java-1.5.0-sun-1.5.0.19/bin/java
+       ;;
+  "ussf311936" )
+       echo $HOST
+       JAVABIN=/usr/bin/java
+       ;;
+  * )
+       echo $HOST "using default java "
+       if [ -e $(which java) ] ;then 
+         JAVABIN=$(which java)
+       fi
+       ;;
+esac
 
 pushd ~/.kolmafia/
 svn up  --password 1aK8U30UMO
