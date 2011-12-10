@@ -219,3 +219,478 @@ use 5 Ben-Gal™ Balm
 You acquire an effect: Go Get 'Em, Tiger! (duration: 15 Adventures)
 concert 1
 You acquire an effect: Elvish (duration: 20 Adventures)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+December 10, 2011 - Carlvember 3
+
+Ronald: first quarter
+Grimace: waxing crescent
+Mini-moon: behind Ronald
+
+Lab&oacute;r Day: 3 days
+Halloween: 13 days
+Feast of Boris: 20 days
+Festival of Jarlsberg: 22 days
+Yuletide: 25 days
+Valentine's Day: 41 days
+St. Sneaky Pete's Day: 48 days
+Oyster Egg Day: 55 days
+El Dia De Los Muertos Borrachos: 63 days
+Generic Summer Holiday: 72 days
+Dependence Day: 81 days
+Arrrbor Day: 89 days
+
+
+2 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 22
+HP: 852 / 1,881
+MP: 653 / 1,229
+
+Mus: 1,229 (457), tnp = 306
+Mys: 760 (333), tnp = 442
+Mox: 757 (336), tnp = 651
+
+Advs: 183
+Meat: 101,569
+Drunk: 0
+
+
+ > equipment
+
+Hat: Elder Turtle Shell
+Weapon: fouet de tortue-dressage
+Off-hand: eye of the Tiger-lily
+Shirt: Ultracolor™ shirt
+Pants: Galapagosian Cuisses
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: Zinc Delta of Tranquility
+Acc. 3: Nickel Gamma of Frugality
+
+Pet: Baby Gravy Fairy (49 lbs)
+Item: eye-pod
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Strength of Ten Ettins (10)
+Go Get 'Em, Tiger! (15)
+Elvish (20)
+Having a Ball! (20)
+♫ Stevedave's Shanty of Superiority (34)
+Scarysauce (34)
+♫ Polka of Plenty (34)
+♫ The Magical Mojomuscular Melody (34)
+Tenacity of the Snapper (34)
+Reptilian Fortitude (34)
+Astral Shell (34)
+Empathy (34)
+Salamanderenity (77)
+Jalapeño Saucesphere (164)
+Elemental Saucesphere (164)
+Jingle Jangle Jingle (164)
+Jabañero Saucesphere (164)
+20/20 Vision (221)
+Patience of the Tortoise (565)
+Ghostly Shell (954)
+Retrograde Relaxation (5,342)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +80.00%
+Item: +152.91%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 1 Summon Clip Art
+You acquire an item: 4:20 bomb
+
+cast 1 Summon Clip Art
+You acquire an item: Beignet Milgranet
+
+cast 1 Summon Clip Art
+You acquire an item: cool cat claw
+
+[9644] Mix 2 bottle of rum + 2 lime
+You acquire grog (2)
+Crafting used 2 each of lime and bottle of rum
+
+drink 2 grog
+You gain 7 Adventures
+You gain 11 Fortitude
+You gain 3 Drunkenness
+You gain 5 Adventures
+You gain 11 Muscleboundness
+You gain 3 Drunkenness
+
+Use 2 peppermint sprout
+You acquire an item: peppermint patty
+
+Cook 1 Sneaky Pete's key + 1 lime
+You acquire an item: Sneaky Pete's key lime
+Crafting used 1 each of Sneaky Pete's key and lime
+
+Cook 1 Richard's star key + 1 lime
+You acquire an item: star key lime
+Crafting used 1 each of lime and Richard's star key
+
+Trade 5 white pixel, 2 red pixel, 2 blue pixel
+You acquire an item: purple pixel pie
+friars blessing 3
+You acquire an effect: Brother Smothers's Blessing (duration: 20 Adventures)
+
+use 1 oil of stability
+You acquire an effect: Stabilizing Oiliness (duration: 5 Adventures)
+
+equip hat worn tophat
+
+equip weapon drywall axe
+
+equip shirt star shirt
+
+equip pants astral shorts
+
+equip acc1 cursed scrunchie
+
+equip acc2 Pokëmann figurine: Moog
+
+equip acc3 Mr. Accessory
+
+use 1 serum of sarcasm
+You acquire an effect: Superhuman Sarcasm (duration: 5 Adventures)
+
+use 1 tomato juice of powerful power
+You acquire an effect: Tomato Power (duration: 5 Adventures)
+
+use 1 effervescent potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+buy 1 fermenting powder for 70 each from Market Demon
+You acquire an item: fermenting powder
+You spent 70 Meat
+
+buy 1 pretty flower for 100 each from 643739 on 20111210
+You acquire an item: pretty flower
+
+[9644] Mix 1 fermenting powder + 1 pretty flower
+You acquire an item: shot of flower schnapps
+Crafting used 1 each of pretty flower and fermenting powder
+
+drink 1 shot of flower schnapps
+You gain 2 Adventures
+You acquire an effect: Flower Power (duration: 3 Adventures)
+You gain 1 Drunkenness
+
+buy 1 hot wad for 560 each from 102608 on 20111210
+You acquire an item: hot wad
+
+use 1 hot wad
+You gain 1 Adventure
+You gain 31 Beefiness
+You gain 9 Magicalness
+You gain 18 Chutzpah
+You acquire an effect: Hot Blooded (duration: 10 Adventures)
+
+buy 1 sleaze wad for 638 each from 2139523 on 20111210
+You acquire an item: sleaze wad
+
+use 1 sleaze wad
+You gain 1 Adventure
+You gain 16 Fortitude
+You gain 12 Magicalness
+You gain 29 Cheek
+You acquire an effect: Supafly (duration: 10 Adventures)
+
+buy 1 spooky wad for 544 each from 1661854 on 20111210
+You acquire an item: spooky wad
+
+use 1 spooky wad
+You gain 1 Adventure
+You gain 11 Strongness
+You gain 26 Mysteriousness
+You gain 20 Chutzpah
+You acquire an effect: Spooky Demeanor (duration: 10 Adventures)
+
+buy 5 hair spray for 24 each from Market Demon
+You acquire hair spray (5)
+You spent 120 Meat
+
+use 5 hair spray
+You acquire an effect: Butt-Rock Hair (duration: 15 Adventures)
+
+Combine 1 tourmalime + 1 lollipop stick
+You acquire an item: lime supersucker
+Crafting used 1 each of lollipop stick and tourmalime
+
+use 1 lime supersucker
+You acquire an effect: Sugar Rush (duration: 30 Adventures)
+You acquire an effect: In the Limelight (duration: 30 Adventures)
+
+buy 1 Black Body™ spray for 300 each from 608418 on 20111210
+You acquire an item: Black Body™ spray
+
+use 1 Black Body™ spray
+You acquire an effect: Radiating Black Body&trade; (duration: 10 Adventures)
+
+buy 1 twinkly wad for 180 each from 2076846 on 20111210
+You acquire an item: twinkly wad
+
+use 1 twinkly wad
+You gain 1 Adventure
+You gain 11 Strengthliness
+You gain 10 Magicalness
+You gain 8 Chutzpah
+You acquire an effect: Aspect of the Twinklefairy (duration: 10 Adventures)
+
+buy 1 stench wad for 599 each from 1305362 on 20111210
+You acquire an item: stench wad
+
+use 1 stench wad
+You gain 1 Adventure
+You gain 22 Fortitude
+You gain 29 Wizardliness
+You gain 9 Smarm
+You acquire an effect: Stenchtastic (duration: 10 Adventures)
+
+buy 1 yellow polka-dot oyster egg for 549 each from 1783793 on 20111210
+You acquire an item: yellow polka-dot oyster egg
+
+use 1 yellow polka-dot oyster egg
+You acquire an effect: Egg-cellent Vocabulary (duration: 20 Adventures)
+You gain 11 Sarcasm
+
+buy 1 cold wad for 519 each from 1505893 on 20111210
+You acquire an item: cold wad
+
+use 1 cold wad
+You gain 1 Adventure
+You gain 29 Fortitude
+You gain 20 Mysteriousness
+You gain 9 Sarcasm
+You acquire an effect: Cold Blooded (duration: 10 Adventures)
+
+buy 1 pirate pamphlet for 750 each from 722124 on 20111210
+You acquire an item: pirate pamphlet
+
+use 1 pirate pamphlet
+You acquire an effect: Charrrming (duration: 10 Adventures)
+
+buy 1 handsomeness potion for 300 each from Gno-Mart
+You acquire an item: handsomeness potion
+You spent 300 Meat
+
+use 1 handsomeness potion
+You acquire an effect: Mysteriously Handsome (duration: 5 Adventures)
+
+buy 1 maple syrup for 200 each from 753153 on 20111210
+You acquire an item: maple syrup
+
+eat 1 maple syrup
+You gain 1 Adventure
+You gain 28 hit points
+You gain 22 Muscularity Points
+You acquire an effect: Antsy in your Pantsy (duration: 5 Adventures)
+You gain 1 Fullness
+
+use 1 Angry Farmer candy
+You acquire an effect: Sugar Rush (duration: 10 Adventures)
+
+buy 1 Black No. 2 for 100 each from 1394997 on 20111210
+You acquire an item: Black No. 2
+
+use 1 Black No. 2
+You acquire an effect: Locks Like the Raven (duration: 10 Adventures)
+
+[9643] Fernswarthy's Basement (Level 286)
+Buffed Moxie Test: 2,983 current, 2,969 needed
+
+use 1 scroll of drastic healing
+
+equip hat hardened slime hat
+
+equip weapon brand new key
+
+equip off-hand stress ball
+
+equip pants turtlemail breeches
+
+equip acc2 hopping socks
+
+equip acc3 Pokëmann figurine: Frank
+
+buy 1 philter of phorce for 395 each from 1412213 on 20111210
+You acquire an item: philter of phorce
+
+use 1 philter of phorce
+You acquire an effect: Phorcefullness (duration: 5 Adventures)
+
+buy 1 blood of the Wereseal for 500 each from Smacketeria
+You acquire an item: blood of the Wereseal
+You spent 500 Meat
+
+use 1 blood of the Wereseal
+You acquire an effect: Temporary Lycanthropy (duration: 10 Adventures)
+
+buy 1 Mick's IcyVapoHotness Rub for 282 each from 1053259 on 20111210
+You acquire an item: Mick's IcyVapoHotness Rub
+
+use 1 Mick's IcyVapoHotness Rub
+You acquire an effect: Extreme Muscle Relaxation (duration: 10 Adventures)
+
+buy 1 fish-liver oil for 150 each from 1860930 on 20111210
+You acquire an item: fish-liver oil
+
+use 1 fish-liver oil
+You acquire an effect: Fishy Fortification (duration: 5 Adventures)
+outfit Swashbuckling Getup
+
+buy 1 pirate brochure for 300 each from Barrrtleby's Barrrgain Books (Bees Hate You)
+You acquire an item: pirate brochure
+You spent 300 Meat
+
+use 1 pirate brochure
+You acquire an effect: Muscularrr (duration: 10 Adventures)
+custom outfit Backup
+
+buy 1 yellow striped oyster egg for 100 each from 1827364 on 20111210
+You acquire an item: yellow striped oyster egg
+
+use 1 yellow striped oyster egg
+You acquire an effect: Egg-stra Arm (duration: 20 Adventures)
+You gain 15 Beefiness
+
+buy 1 weremoose spit for 244 each from 2075640 on 20111210
+You acquire an item: weremoose spit
+
+use 1 weremoose spit
+You acquire an effect: Lycanthropy, Eh? (duration: 20 Adventures)
+
+buy 1 pygmy pygment for 310 each from 1435328 on 20111210
+You acquire an item: pygmy pygment
+
+use 1 pygmy pygment
+You acquire an effect: Woad Warrior (duration: 10 Adventures)
+
+buy 1 scroll of drastic healing for 214 each from 2025543 on 20111210
+You acquire an item: scroll of drastic healing
+
+use 1 scroll of drastic healing
+
+[9644] Fernswarthy's Basement (Level 287)
+Maximum HP Test: 5,439 current, 29816 * 0.16 (885 DA) = 4,748 needed
+You lose 4,366 hit points
+
+use 1 scroll of drastic healing
+
+equip off-hand black shield
+
+equip pants Galapagosian Cuisses
+
+cast 40 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 1320 Adventures)
+unequip weapon
+unequip offhand
+
+[9645] Fernswarthy's Basement (Level 288)
+Encounter: 18 Stone Golem
+Round 0: boolicious loses initiative!
+Round 1: 18 stone golem takes 1 damage.
+Round 1: 18 stone golem takes 4 damage.
+Round 1: 18 stone golem takes 2 damage.
+You lose 442 hit points
+Round 1: boolicious casts ZENDO KOBUSHI KANCHO!
+Round 2: 18 stone golem takes 52 damage.
+Round 2: 18 stone golem drops 33 defense.
+Round 2: 18 stone golem takes 1 damage.
+Round 2: 18 stone golem takes 10 damage.
+Round 2: 18 stone golem takes 3 damage.
+You lose 437 hit points
+Round 2: boolicious casts ZENDO KOBUSHI KANCHO!
+Round 3: 18 stone golem takes 49 damage.
+Round 3: 18 stone golem drops 33 defense.
+Round 3: 18 stone golem takes 1 damage.
+Round 3: 18 stone golem takes 9 damage.
+Round 3: 18 stone golem takes 3 damage.
+You lose 461 hit points
+Round 3: boolicious casts FLYING FIRE FIST!
+Round 4: 18 stone golem takes 7018 damage.
+You lose an effect: Salamanderenity
+Round 4: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 754 Strengthliness
+You gain a Muscle point!
+You gain 371 Magicalness
+You gain a Mysticality point!
+You gain 333 Smarm
