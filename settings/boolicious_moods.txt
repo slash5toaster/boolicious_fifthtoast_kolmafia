@@ -1,5 +1,6 @@
 [ apathetic ]
 
 [ default ]
+lose_effect rootin' around => use 1 licorice root
 lose_effect salamanderenity => cast 3 salamander kata
 
