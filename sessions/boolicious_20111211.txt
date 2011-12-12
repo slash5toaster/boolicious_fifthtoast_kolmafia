@@ -1026,3 +1026,277 @@ You acquire an item: fudgecule (6)
 You gain 15 Beefiness
 You gain 6 Magicalness
 You gain 1 Smarm
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+December 11, 2011 - Carlvember 4
+
+Ronald: waxing gibbous
+Grimace: waxing crescent
+Mini-moon: in front of Ronald, L side
+
+Lab&oacute;r Day: 2 days
+Halloween: 12 days
+Feast of Boris: 19 days
+Festival of Jarlsberg: 21 days
+Yuletide: 24 days
+Valentine's Day: 40 days
+St. Sneaky Pete's Day: 47 days
+Oyster Egg Day: 54 days
+El Dia De Los Muertos Borrachos: 62 days
+Generic Summer Holiday: 71 days
+Dependence Day: 80 days
+Arrrbor Day: 88 days
+
+
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 22
+HP: 814 / 814
+MP: 653 / 653
+
+Mus: 518 (462), tnp = 819
+Mys: 389 (337), tnp = 233
+Mox: 393 (338), tnp = 20
+
+Advs: 58
+Meat: 199,512
+Drunk: 0
+
+
+ > equipment
+
+Hat: eyepatch
+Weapon: fouet de tortue-dressage
+Off-hand: eye of the Tiger-lily
+Shirt: Ultracolor™ shirt
+Pants: swashbuckling pants
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: Zinc Delta of Tranquility
+Acc. 3: stuffed shoulder parrot
+
+Pet: Baby Gravy Fairy (45 lbs)
+Item: eye-pod
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+20/20 Vision (7)
+Rootin' Around (17)
+Salamanderenity (93)
+♫ Polka of Plenty (195)
+♫ The Magical Mojomuscular Melody (195)
+♫ Stevedave's Shanty of Superiority (195)
+Astral Shell (195)
+Reptilian Fortitude (195)
+Empathy (195)
+Tenacity of the Snapper (195)
+Scarysauce (195)
+Jingle Jangle Jingle (325)
+Jabañero Saucesphere (325)
+Elemental Saucesphere (325)
+Jalapeño Saucesphere (325)
+Patience of the Tortoise (351)
+Ghostly Shell (1,115)
+Retrograde Relaxation (5,128)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +80.00%
+Item: +139.75%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+outfit Knob Goblin Harem Girl Disguise
+
+[9857] Cobb's Knob Treasury
+Encounter: Finally, the Payoff
+You gain 500 Meat
+
+equip hat eyepatch
+
+equip pants swashbuckling pants
+unequip weapon
+unequip offhand
+
+equip shirt General Sage's Lonely Diamonds Club Jacket
+
+equip acc2 time halo
+
+equip acc3 dead guy's watch
+
+mall.php?didadv=0&pudnuggler=scaffold&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=0&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+
+eat 1 Hell ramen
+You gain 26 Adventures
+You gain 27 Muscleboundness
+You gain 24 Enchantedness
+You gain 24 Sarcasm
+You gain a Moxie point!
+You gain 24 Meat
+You gain 6 Fullness
+
+eat 1 hot hi mein
+You gain 25 Adventures
+You gain 81 Beefiness
+You gain 18 Wizardliness
+You gain 30 Chutzpah
+You acquire an effect: Hot Breath (duration: 5 Adventures)
+You gain 5 Fullness
+
+cast 1 Summon Clip Art
+You acquire an item: ultrafondue
+
+eat 1 ultrafondue
+You gain 15 Adventures
+You gain 17 Strengthliness
+You gain 20 Mysteriousness
+You gain 16 Cheek
+You acquire an effect: Fondid (duration: 30 Adventures)
+You gain 3 Fullness
+
+drink 1 fuzzbump
+You gain 11 Adventures
+You gain 39 Muscleboundness
+You gain 4 Drunkenness
+
+drink 1 bloody mary
+You gain 5 Adventures
+You gain 1 Fortitude
+You gain 1 Magicalness
+You gain 2 Sarcasm
+You gain 3 Drunkenness
+
+drink 1 vodka and cranberry
+You gain 5 Adventures
+You gain 21 Wizardliness
+You gain 3 Drunkenness
+
+drink 1 vodka martini
+You gain 6 Adventures
+You gain 9 Roguishness
+You gain 3 Drunkenness
+
+drink 1 shot of tomato schnapps
+You gain 2 Adventures
+You gain 2 Fortitude
+You gain 1 Mysteriousness
+You gain 2 Smarm
+You gain 1 Drunkenness
+
+[9858] Summoning Chamber
+
+buy 3 thin black candle for 288 each from 1053259 on 20111211
+You acquire thin black candle (3)
+
+buy 1 tattered scrap of paper for 1990 each from 952059 on 20111211
+You acquire an item: tattered scrap of paper
+
+Use 1 disintegrating quill pen + 1 inkwell + 1 tattered scrap of paper
+You acquire an item: scroll of ancient forbidden unspeakable evil
+summon Red'Nyakel
+You acquire an item: cherry pie
+You acquire an item: strawberry pie
+You acquire an item: lemon meringue pie
+
+cast 1 Summon Clip Art
+You acquire an item: boozebomb
+
+eat 1 dehydrated caviar
+You gain 2 Adventures
+You gain 15 Sarcasm
+You gain 1 Fullness
+
+[9859] Mix 2 tomato + 2 ice-cold Willer
+You acquire bloody beer (2)
+Crafting used 2 each of ice-cold Willer and tomato
+
+drink 2 bloody beer
+You gain 2 Adventures
+You gain 5 Muscularity Points
+You gain 1 Drunkenness
+You gain 2 Adventures
+You gain 4 Muscularity Points
+You gain 1 Drunkenness
+
+drink 1 rum and cola
+You gain 5 Adventures
+You gain 10 Cheek
+You gain 14 Muscularity Points
+You gain 3 Drunkenness
+Jumping into Awesome Ball Pit in clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+friars blessing 3
+You acquire an effect: Brother Smothers's Blessing (duration: 20 Adventures)
