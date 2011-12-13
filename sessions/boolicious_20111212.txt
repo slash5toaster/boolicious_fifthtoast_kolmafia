@@ -3444,3 +3444,963 @@ equip acc2 time halo
 equip acc3 wristwatch of the white knight
 
 manageprices.php?action=update&price5403=9999999&limit5403=0&price5401=60000&limit5401=0&price5280=8100&limit5280=0&price2959=6225&limit2959=0&price2973=5600&limit2973=0&price2981=5400&limit2981=0&price5259=4000&limit5259=0&price258=2000&limit258=1&price196=1550&limit196=2&price703=790&limit703=0&price280=700&limit280=0&price5087=600&limit5087=0&price594=410&limit594=0&price2687=400&limit2687=0&price129=400&limit129=0&price2633=365&limit2633=0&price1929=320&limit1929=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=289&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price628=258&limit628=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price615=248&limit615=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price356=222&limit356=0&price2984=220&limit2984=0&price355=220&limit355=0&price544=200&limit544=0&price1297=200&limit1297=0&price2276=200&limit2276=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price1866=186&limit1866=0&price3844=184&limit3844=0&price1838=182&limit1838=0&price362=180&limit362=0&price360=180&limit360=0&price361=180&limit361=0&price835=180&limit835=0&price402=180&limit402=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price240=160&limit240=0&price218=155&limit218=0&price2613=155&limit2613=0&price2055=150&limit2055=0&price352=150&limit352=0&price1826=140&limit1826=0&price310=130&limit310=0&price475=130&limit475=0&price1361=124&limit1361=0&price432=120&limit432=0&price431=120&limit431=0&price1655=120&limit1655=0&price1160=110&limit1160=0&price4958=110&limit4958=0&price449=100&limit449=0&price79=100&limit79=0&price120=100&limit120=0&price634=100&limit634=0&price565=100&limit565=0&price9=100&limit9=1&price1462=100&limit1462=0&price166=100&limit166=0&price172=100&limit172=0&price123=100&limit123=0&price1750=100&limit1750=0&price1751=100&limit1751=0&price3=100&limit3=0&price4719=100&limit4719=0&price305=100&limit305=0&price38=100&limit38=0&price35=100&limit35=0&price36=100&limit36=0&price4718=100&limit4718=0&price5=100&limit5=0&price6=100&limit6=0&price1=100&limit1=0&price77=100&limit77=0&price119=100&limit119=0&price21=100&limit21=0&price136=100&limit136=0&price269=100&limit269=0&price909=100&limit909=0&price905=100&limit905=3
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+December 12, 2011 - Carlvember 5
+
+Ronald: full moon
+Grimace: first quarter
+Mini-moon: front center
+
+Lab&oacute;r Day: tomorrow
+Halloween: 11 days
+Feast of Boris: 18 days
+Festival of Jarlsberg: 20 days
+Yuletide: 23 days
+Valentine's Day: 39 days
+St. Sneaky Pete's Day: 46 days
+Oyster Egg Day: 53 days
+El Dia De Los Muertos Borrachos: 61 days
+Generic Summer Holiday: 70 days
+Dependence Day: 79 days
+Arrrbor Day: 87 days
+
+
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 22
+HP: 1060 / 1,065
+MP: 638 / 638
+
+Mus: 685 (464), tnp = 132
+Mys: 385 (340), tnp = 591
+Mox: 426 (340), tnp = 170
+
+Advs: 68
+Meat: 88,031
+Drunk: 0
+
+
+ > equipment
+
+Hat: hardened slime hat
+Weapon: (none)
+Off-hand: (none)
+Shirt: General Sage's Lonely Diamonds Club Jacket
+Pants: Galapagosian Cuisses
+
+Acc. 1: cursed scrunchie
+Acc. 2: time halo
+Acc. 3: wristwatch of the white knight
+
+Pet: Baby Gravy Fairy (40 lbs)
+Item: eye-pod
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Rootin' Around (3)
+Down the Rabbit Hole (3)
+♫ The Magical Mojomuscular Melody (5)
+♫ Stevedave's Shanty of Superiority (5)
+Scarysauce (5)
+Astral Shell (5)
+♫ Polka of Plenty (5)
+Empathy (5)
+Tenacity of the Snapper (5)
+Reptilian Fortitude (5)
+Fondid (13)
+Fan-Cooled (13)
+Sugar Rush (36)
+Salamanderenity (75)
+20/20 Vision (93)
+Jingle Jangle Jingle (135)
+Elemental Saucesphere (135)
+Jalapeño Saucesphere (135)
+Jabañero Saucesphere (135)
+Patience of the Tortoise (161)
+Ghostly Shell (925)
+Retrograde Relaxation (4,938)
+
+
+ > modifiers
+
+ML: +15
+Enc: +0.00%
+Init: +30.00%
+
+Exp: +1.88
+Meat: +80.00%
+Item: +108.90%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+outfit Knob Goblin Harem Girl Disguise
+
+[10047] Cobb's Knob Treasury
+Encounter: Just Tryin' to Get Paid
+
+equip hat hardened slime hat
+
+equip pants Galapagosian Cuisses
+
+equip acc2 Pokëmann figurine: Frank
+
+buy 1 philter of phorce for 458 each from 1877436 on 20111212
+You acquire an item: philter of phorce
+
+use 1 philter of phorce
+You acquire an effect: Phorcefullness (duration: 5 Adventures)
+
+buy 1 ducha de oro for 230 each from 2088969 on 20111212
+You acquire an item: ducha de oro
+
+drink 1 horizontal tango
+You gain 12 Adventures
+You gain 43 Enchantedness
+You gain 4 Drunkenness
+
+drink 1 rockin' wagon
+You gain 10 Adventures
+You gain 35 Sarcasm
+You gain 4 Drunkenness
+
+drink 1 slap and tickle
+You gain 10 Adventures
+You gain 12 Enchantedness
+You gain 25 Chutzpah
+You gain 4 Drunkenness
+
+drink 2 whiskey sour
+You gain 5 Adventures
+You gain 8 Strongness
+You gain 3 Drunkenness
+You gain 5 Adventures
+You gain 11 Strongness
+You gain 3 Drunkenness
+
+buy 1 phial of stench for 473 each from 503811 on 20111212
+You acquire an item: phial of stench
+
+use 1 phial of stench
+You acquire an effect: Stenchform (duration: 5 Adventures)
+
+buy 1 tomato juice of powerful power for 101 each from 1773242 on 20111212
+You acquire an item: tomato juice of powerful power
+
+use 1 tomato juice of powerful power
+You acquire an effect: Tomato Power (duration: 5 Adventures)
+
+buy 1 Mick's IcyVapoHotness Rub for 282 each from 1053259 on 20111212
+You acquire an item: Mick's IcyVapoHotness Rub
+
+use 1 Mick's IcyVapoHotness Rub
+You acquire an effect: Extreme Muscle Relaxation (duration: 10 Adventures)
+
+use 1 murky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+buy 5 Ben-Gal™ Balm for 24 each from Market Demon
+You acquire Ben-Gal™ Balm (5)
+You spent 120 Meat
+
+use 5 Ben-Gal™ Balm
+You acquire an effect: Go Get 'Em, Tiger! (duration: 15 Adventures)
+
+buy 1 SPF 451 lip balm for 590 each from 2039048 on 20111212
+You acquire an item: SPF 451 lip balm
+
+use 1 SPF 451 lip balm
+You acquire an effect: Fireproof Lips (duration: 10 Adventures)
+
+equip weapon titanium assault umbrella
+
+equip off-hand stress ball
+
+equip shirt Ultracolor™ shirt
+
+equip pants dungeoneer's dungarees
+
+equip acc3 ring of fire resistance
+
+buy 1 Oil of Parrrlay for 275 each from 2013659 on 20111212
+You acquire an item: Oil of Parrrlay
+
+use 1 Oil of Parrrlay
+You acquire an effect: Well-Oiled (duration: 5 Adventures)
+
+buy 1 hot powder for 128 each from 1783793 on 20111212
+You acquire an item: hot powder
+
+use 1 hot powder
+You acquire an effect: Flame-Retardant Trousers (duration: 5 Adventures)
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 1,804 hit points
+
+[10047] Fernswarthy's Basement (Level 298)
+Elemental Resist Test: +9 stench 100% (1 hp), +21 hot 88% (1,726 hp)
+You lose 1 hit point
+You lose 1,584 hit points
+
+cast 35 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 1155 Adventures)
+unequip weapon
+unequip offhand
+
+equip pants Galapagosian Cuisses
+outfit Swashbuckling Getup
+
+buy 1 pirate brochure for 300 each from Barrrtleby's Barrrgain Books (Bees Hate You)
+You acquire an item: pirate brochure
+You spent 300 Meat
+
+use 1 pirate brochure
+You acquire an effect: Muscularrr (duration: 10 Adventures)
+custom outfit Backup
+
+use 1 scroll of drastic healing
+
+[10048] Fernswarthy's Basement (Level 299)
+Encounter: 5,848-Headed Hydra
+Round 0: boolicious loses initiative!
+Round 1: 5,848-headed hydra takes 2 damage.
+Round 1: 5,848-headed hydra takes 8 damage.
+Round 1: 5,848-headed hydra takes 5 damage.
+You lose 116 hit points
+Round 1: boolicious casts ZENDO KOBUSHI KANCHO!
+Round 2: 5,848-headed hydra takes 51 damage.
+Round 2: 5,848-headed hydra drops 33 defense.
+Round 2: 5,848-headed hydra takes 2 damage.
+Round 2: 5,848-headed hydra takes 7 damage.
+Round 2: 5,848-headed hydra takes 4 damage.
+You lose 839 hit points
+Round 2: boolicious casts KNUCKLE SANDWICH!
+Round 3: 5,848-headed hydra takes 51 damage.
+Round 3: 5,848-headed hydra drops 33 attack power.
+Round 3: 5,848-headed hydra takes 3 damage.
+Round 3: 5,848-headed hydra takes 2 damage.
+Round 3: 5,848-headed hydra takes 4 damage.
+You lose 1 hit point
+Round 3: boolicious casts KNUCKLE SANDWICH!
+Round 4: 5,848-headed hydra takes 49 damage.
+Round 4: 5,848-headed hydra drops 33 attack power.
+Round 4: 5,848-headed hydra takes 3 damage.
+Round 4: 5,848-headed hydra takes 10 damage.
+Round 4: 5,848-headed hydra takes 4 damage.
+You lose 113 hit points
+Round 4: boolicious casts FLYING FIRE FIST!
+Round 5: 5,848-headed hydra takes 6186 damage.
+You lose an effect: Salamanderenity
+Round 5: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 817 Beefiness
+You gain a Muscle point!
+You gain 437 Enchantedness
+You gain 375 Sarcasm
+You gain a Moxie point!
+
+[10049] Fernswarthy's Basement (Level 300)
+Encounter: Giggity Bobbity Boo!
+You acquire an item: enchanted leopard-print barbell
+
+cast 35 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 1155 Adventures)
+
+[10050] Fernswarthy's Basement (Level 301)
+Encounter: 5,904-Headed Hydra
+Round 0: boolicious loses initiative!
+Round 1: 5,904-headed hydra takes 2 damage.
+Round 1: 5,904-headed hydra takes 5 damage.
+Round 1: 5,904-headed hydra takes 3 damage.
+You lose 113 hit points
+Round 1: boolicious casts FLYING FIRE FIST!
+Round 2: 5,904-headed hydra takes 5816 damage.
+You lose an effect: Salamanderenity
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 811 Muscleboundness
+You gain a Muscle point!
+You gain 472 Magicalness
+You gain a Mysticality point!
+You gain 366 Smarm
+
+cast 35 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 1155 Adventures)
+
+[10051] Fernswarthy's Basement (Level 302)
+Encounter: The Beast with 5,930 Ears
+Round 0: boolicious loses initiative!
+Round 1: the beast with 5,930 ears takes 1 damage.
+Round 1: the beast with 5,930 ears takes 4 damage.
+Round 1: the beast with 5,930 ears takes 3 damage.
+You lose 849 hit points
+Round 1: boolicious casts FLYING FIRE FIST!
+Round 2: the beast with 5,930 ears takes 5816 damage.
+You lose an effect: Salamanderenity
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 838 Strengthliness
+You gain a Muscle point!
+You gain 460 Mysteriousness
+You gain a Mysticality point!
+You gain 357 Cheek
+You gain a Moxie point!
+
+use 1 oil of stability
+You acquire an effect: Stabilizing Oiliness (duration: 5 Adventures)
+
+equip hat beer helmet
+
+equip weapon fluorescent lightbulb
+
+equip off-hand stress ball
+
+equip shirt star shirt
+
+equip pants bullet-proof corduroys
+
+equip acc2 Mesmereyes™ contact lenses
+
+equip acc3 hopping socks
+
+buy 1 tomato juice of powerful power for 460 each from 1699424 on 20111212
+You acquire an item: tomato juice of powerful power
+
+use 1 tomato juice of powerful power
+You acquire an effect: Tomato Power (duration: 5 Adventures)
+
+buy 1 funky dried mushroom for 450 each from 2028801 on 20111212
+You acquire an item: funky dried mushroom
+
+use 1 funky dried mushroom
+You acquire an effect: Seeing Colors (duration: 10 Adventures)
+
+use 1 fizzy potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+buy 5 glittery mascara for 24 each from Market Demon
+You acquire glittery mascara (5)
+You spent 120 Meat
+
+use 5 glittery mascara
+You acquire an effect: Glittering Eyelashes (duration: 15 Adventures)
+
+uneffect Sugar Rush
+
+buy 1 twinkly wad for 180 each from 1773242 on 20111212
+You acquire an item: twinkly wad
+
+use 1 twinkly wad
+You gain 1 Adventure
+You gain 11 Strengthliness
+You gain 10 Wizardliness
+You gain 9 Chutzpah
+You acquire an effect: Aspect of the Twinklefairy (duration: 10 Adventures)
+
+buy 1 Okee-Dokee soda for 449 each from 2189739 on 20111212
+You acquire an item: Okee-Dokee soda
+
+use 1 Okee-Dokee soda
+You gain 40 Muscularity Points
+You acquire an effect: Okee-Dokee Go! (duration: 18 Adventures)
+You acquire an effect: Okee-Dokee Computer (duration: 15 Adventures)
+You acquire an effect: Okee-Dokee, Smokee (duration: 15 Adventures)
+You acquire an effect: Sugar Rush (duration: 20 Adventures)
+
+use 1 marzipan skull
+You acquire an effect: Hardly Poisoned at All (duration: 5 Adventures)
+You acquire an effect: Hombre Muerto Caminando (duration: 5 Adventures)
+You acquire an effect: Sugar Rush (duration: 5 Adventures)
+
+use 1 Bright Water
+You acquire an effect: Bright! (duration: 10 Adventures)
+
+buy 1 shot of flower schnapps for 390 each from 2261430 on 20111212
+You acquire an item: shot of flower schnapps
+
+drink 1 shot of flower schnapps
+You gain 2 Adventures
+You acquire an effect: Flower Power (duration: 3 Adventures)
+You gain 1 Drunkenness
+
+buy 1 bottled inspiration for 675 each from 685791 on 20111212
+You acquire an item: bottled inspiration
+
+use 1 bottled inspiration
+You acquire an effect: Inspired! (duration: 10 Adventures)
+
+buy 1 cold wad for 624 each from 2261352 on 20111212
+You acquire an item: cold wad
+
+use 1 cold wad
+You gain 1 Adventure
+You gain 30 Strongness
+You gain 24 Mysteriousness
+You gain 8 Smarm
+You acquire an effect: Cold Blooded (duration: 10 Adventures)
+
+buy 1 sleaze wad for 639 each from 1491208 on 20111212
+You acquire an item: sleaze wad
+
+use 1 sleaze wad
+You gain 1 Adventure
+You gain 15 Fortitude
+You gain 15 Magicalness
+You gain 24 Roguishness
+You acquire an effect: Supafly (duration: 10 Adventures)
+
+use 1 anti-anti-antidote
+
+buy 1 black sheepskin diploma for 300 each from 744584 on 20111212
+You acquire an item: black sheepskin diploma
+
+use 1 black sheepskin diploma
+You acquire an effect: Erudite (duration: 10 Adventures)
+
+buy 1 antique bottle of cough syrup for 575 each from 2116942 on 20111212
+You acquire an item: antique bottle of cough syrup
+
+use 1 antique bottle of cough syrup
+You gain 23 Wizardliness
+You acquire an effect: The Q Is Talking To You (duration: 10 Adventures)
+
+uneffect Sugar Rush
+
+buy 1 ointment of the occult for 460 each from 1699424 on 20111212
+You acquire an item: ointment of the occult
+
+use 1 ointment of the occult
+You acquire an effect: Mystically Oiled (duration: 5 Adventures)
+
+Combine 1 kumquartz + 1 lollipop stick
+You acquire an item: kumquat supersucker
+Crafting used 1 each of lollipop stick and kumquartz
+
+use 1 kumquat supersucker
+You acquire an effect: Sugar Rush (duration: 30 Adventures)
+You acquire an effect: Koyaaniskumquatsi  (duration: 30 Adventures)
+
+buy 1 spooky wad for 555 each from 1949483 on 20111212
+You acquire an item: spooky wad
+
+use 1 spooky wad
+You gain 1 Adventure
+You gain 11 Beefiness
+You gain 33 Wizardliness
+You gain 18 Smarm
+You acquire an effect: Spooky Demeanor (duration: 10 Adventures)
+
+buy 1 stench wad for 592 each from 2213137 on 20111212
+You acquire an item: stench wad
+
+use 1 stench wad
+You gain 1 Adventure
+You gain 20 Strengthliness
+You gain 34 Mysteriousness
+You gain 9 Chutzpah
+You acquire an effect: Stenchtastic (duration: 10 Adventures)
+
+uneffect Sugar Rush
+
+buy 1 salamander slurry for 495 each from 2290286 on 20111212
+You acquire an item: salamander slurry
+
+use 1 salamander slurry
+You acquire an effect: Salamander In Your Stomach (duration: 5 Adventures)
+
+buy 1 spooky eyeliner for 200 each from 774594 on 20111212
+You acquire an item: spooky eyeliner
+
+use 1 spooky eyeliner
+You acquire an effect: Gothy (duration: 10 Adventures)
+
+cast 159 Patience of the Tortoise
+You acquire an effect: Patience of the Tortoise (duration: 795 Adventures)
+
+cast 1 Ghostly Shell
+You acquire an effect: Ghostly Shell (duration: 20 Adventures)
+
+buy 1 Jumbo Dr. Lucifer for 5998 each from 2111932 on 20111212
+You acquire an item: Jumbo Dr. Lucifer
+
+eat 1 Jumbo Dr. Lucifer
+You gain 2 Adventures
+You gain 6,857 Muscularity Points
+You gain 1 Fullness
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 2,682 hit points
+
+[10052] Fernswarthy's Basement (Level 303)
+Maximum MP Test: 5,596 current, 5,372 needed
+You lose 5,018 Muscularity Points
+
+use 1 phial of hotness
+You acquire an effect: Hotform (duration: 5 Adventures)
+
+buy 1 can of black paint for 900 each from 2288534 on 20111212
+You acquire an item: can of black paint
+
+use 1 can of black paint
+You acquire an effect: Red Door Syndrome (duration: 10 Adventures)
+
+buy 1 spooky sap for 794 each from 1783793 on 20111212
+You acquire an item: spooky sap
+
+use 1 spooky sap
+You acquire an effect: Sappy Blood (duration: 5 Adventures)
+You acquire an effect: Sugar Rush (duration: 5 Adventures)
+
+buy 1 spooky powder for 189 each from 1783793 on 20111212
+You acquire an item: spooky powder
+
+use 1 spooky powder
+You acquire an effect: Spookypants (duration: 5 Adventures)
+
+buy 1 Oil of Parrrlay for 275 each from 2013659 on 20111212
+You acquire an item: Oil of Parrrlay
+
+use 1 Oil of Parrrlay
+You acquire an effect: Well-Oiled (duration: 5 Adventures)
+
+use 1 Pokëmann band-aid
+You gain 36 hit points
+You acquire an effect: Aided and Abetted (duration: 10 Adventures)
+
+[10053] Fernswarthy's Basement (Level 304)
+Elemental Resist Test: +14 hot 100% (1 hp), +14 spooky 82% (2,619 hp)
+You lose 1 hit point
+You lose 2,538 hit points
+
+[10054] Fernswarthy's Basement (Level 305)
+Encounter: Got Silk?/Leather is Betther
+You gain 493 Sarcasm
+You gain a Moxie point!
+
+equip hat big bad voodoo mask
+
+equip weapon drywall axe
+
+equip pants flowing hippy skirt
+
+equip acc3 Mr. Accessory
+
+uneffect Sugar Rush
+
+equip hat Elder Turtle Shell
+
+equip weapon fouet de tortue-dressage
+
+equip off-hand eye of the Tiger-lily
+
+equip shirt Ultracolor™ shirt
+
+equip pants Galapagosian Cuisses
+
+equip acc1 Baron von Ratsworth's monocle
+
+equip acc2 Zinc Delta of Tranquility
+
+equip acc3 Nickel Gamma of Frugality
+
+buy 1 Knob Goblin eyedrops for 200 each from 1945689 on 20111212
+You acquire an item: Knob Goblin eyedrops
+
+use 1 Knob Goblin eyedrops
+You acquire an effect: Peeled Eyeballs (duration: 10 Adventures)
+
+buy 1 Knob Goblin pet-buffing spray for 250 each from 1945689 on 20111212
+You acquire an item: Knob Goblin pet-buffing spray
+
+use 1 Knob Goblin pet-buffing spray
+You acquire an effect: Heavy Petting (duration: 10 Adventures)
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+buy 1 love song of icy revenge for 735 each from 1533030 on 20111212
+You acquire an item: love song of icy revenge
+
+use 1 love song of icy revenge
+You acquire an effect: Cold Hearted (duration: 5 Adventures)
+friars blessing 3
+
+cast 3 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 99 Adventures)
+
+buy 1 licorice root for 1500 each from 102069 on 20111212
+You acquire an item: licorice root
+
+use 1 licorice root
+You acquire an effect: Rootin' Around (duration: 20 Adventures)
+
+[10055] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 1673 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 6 Muscleboundness
+You gain 5 Enchantedness
+You gain 6 Cheek
+
+[10056] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 1674 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 10 Strongness
+You gain 6 Chutzpah
+
+[10057] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 1169 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 9 Muscleboundness
+You gain 7 Magicalness
+You gain 3 Cheek
+
+[10058] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 1077 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 11 Strengthliness
+You gain 7 Enchantedness
+You gain 5 Sarcasm
+
+[10059] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 1097 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 5 Muscleboundness
+You gain 4 Wizardliness
+You gain 9 Chutzpah
+
+[10060] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 1049 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 13 Strengthliness
+You gain 8 Enchantedness
+You gain 4 Sarcasm
+
+[10061] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 1050 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 16 Beefiness
+You gain 5 Magicalness
+You gain 3 Chutzpah
+
+[10062] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/3: skip adventure or make a lollipop stick item
+choice.php?whichchoice=557&option=3&pwd
+Encounter: Tool Time
+Took choice 558/5: sucker scaffold
+choice.php?whichchoice=558&option=5&pwd
+You acquire an item: sucker scaffold
+
+[10063] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 509 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 6 Strongness
+You gain 8 Wizardliness
+You gain 1 Smarm
+
+[10064] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 508 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 9 Fortitude
+You gain 3 Cheek
+
+[10065] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 540 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 9 Beefiness
+You gain 4 Chutzpah
+
+[10066] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 522 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 6 Strengthliness
+You gain 9 Mysteriousness
+You gain 6 Smarm
+
+[10067] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 509 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 10 Beefiness
+You gain 5 Magicalness
+You gain 5 Sarcasm
+
+[10068] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 507 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 7 Beefiness
+You gain 8 Magicalness
+You gain 5 Roguishness
+
+[10069] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/3: skip adventure or make a lollipop stick item
+choice.php?whichchoice=557&option=3&pwd
+Encounter: Tool Time
+Took choice 558/5: sucker scaffold
+choice.php?whichchoice=558&option=5&pwd
+You acquire an item: sucker scaffold
+
+[10070] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 520 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lollipop stick
+You gain 7 Strongness
+You gain 2 Mysteriousness
+You gain 6 Cheek
+
+[10071] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/2: licorice root
+choice.php?pwd&whichchoice=557&option=2
+You acquire an item: licorice root
+
+[10072] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 519 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 10 Fortitude
+You gain 4 Wizardliness
+You gain 1 Roguishness
+
+[10073] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 523 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 7 Beefiness
+You gain 2 Magicalness
+You gain 5 Sarcasm
+
+[10074] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 469 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (6)
+You gain 17 Muscleboundness
+You gain 10 Mysteriousness
+You gain 5 Cheek
+
+[10075] Fudge Mountain
+Encounter: Fudge Mountain Breakdown
+Took choice 559/2: fight a swarm of fudgewasps or skip adventure
+choice.php?pwd&whichchoice=559&option=2
+
+[10075] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 462 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (6)
+You gain 16 Strongness
+You gain 9 Wizardliness
+You gain 6 Sarcasm
+
+[10076] Fudge Mountain
+Encounter: Fudge Mountain Breakdown
+Took choice 559/1: fudge lily
+choice.php?pwd&whichchoice=559&option=1
+You acquire an item: fudge lily
+
+use 1 fudge lily
+You acquire an effect: Stop and Smell the Fudge (duration: 20 Adventures)
+
+[10077] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 2 hit points
+Round 2: boolicious attacks!
+Round 3: fudge poodle takes 429 damage.
+Round 3: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (15)
+You gain 20 Strengthliness
+You gain 12 Magicalness
+You gain 10 Smarm
+
+[10078] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 467 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (8)
+You gain 14 Strengthliness
+You gain 8 Magicalness
+You gain 9 Sarcasm
+
+[10079] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 466 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (7)
+You gain 13 Beefiness
+You gain 12 Wizardliness
+You gain 6 Smarm
+
+[10080] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 466 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (6)
+You gain 15 Strongness
+You gain 12 Wizardliness
+You gain 5 Chutzpah
