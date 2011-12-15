@@ -105,7 +105,7 @@ logStatusEffects=true
 logStatusOnLogin=true
 loginRecoveryHardcore=false
 loginRecoverySoftcore=true
-loginScript=scripts/KnobTreasury.ash
+loginScript
 loginServerName=www.kingdomofloathing.com
 loginWindowLogo=lantern.gif
 logoutScript
