@@ -15,7 +15,7 @@ FamiliarTrainingFrame=161,307
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=220,150,-1
+KoLDesktop=213,0,-1
 LoginFrame=409,276,0
 MailboxFrame=289,310,1
 MaximizerFrame=326,275
@@ -38,7 +38,7 @@ _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
 _bagOfCandy=false
-_ballpit=true
+_ballpit=false
 _banderRunaways=0
 _benettonsCasts=0
 _bonersSummoned=false
@@ -59,7 +59,7 @@ _elronsCasts=0
 _feastUsed=0
 _feastedFamiliars
 _fingertrapArrows=0
-_fudgeWaspFights=3
+_fudgeWaspFights=2
 _gapBuffs=0
 _gibbererAdv=0
 _gongDrops=0
@@ -102,7 +102,7 @@ _thingfinderCasts=0
 _timeHelmetAdv=0
 _toastSummons=3
 _tokenDrops=0
-_transponderDrops=1
+_transponderDrops=0
 _userMods
 _vmaskAdv=0
 _zapCount=0
@@ -564,11 +564,11 @@ choiceAdventure91=2
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=true
+concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=15
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -576,7 +576,7 @@ currentMojoFilters=0
 currentMood=candyland
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=10
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -600,7 +600,7 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8=Kelderred
 demonName9
-demonSummoned=true
+demonSummoned=false
 desktopHeight=600
 desktopWidth=800
 discardedKarma=0
@@ -667,13 +667,13 @@ lastBangPotion827=ettin strength
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=6
+lastBreakfast=7
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=6
+lastCounterDay=7
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=1
@@ -714,7 +714,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=fudge weasel
+lastEncounter=fudge oyster
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -849,7 +849,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=10372\:Fortune Cookie\:fortune.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
