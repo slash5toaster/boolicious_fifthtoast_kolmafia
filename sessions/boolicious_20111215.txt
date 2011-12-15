@@ -746,3 +746,2419 @@ pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
 buy 1 chewing gum on a string for 50 each from Market Demon
 You acquire an item: chewing gum on a string
 You spent 50 Meat
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+December 15, 2011 - Carlvember 8
+
+Ronald: waning crescent
+Grimace: waxing gibbous
+Mini-moon: in back, near Ronald
+
+Halloween: 8 days
+Feast of Boris: 15 days
+Festival of Jarlsberg: 17 days
+Yuletide: 20 days
+Valentine's Day: 36 days
+St. Sneaky Pete's Day: 43 days
+Oyster Egg Day: 50 days
+El Dia De Los Muertos Borrachos: 58 days
+Generic Summer Holiday: 67 days
+Dependence Day: 76 days
+Arrrbor Day: 84 days
+Lab&oacute;r Day: 94 days
+
+
+Muscle bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 22
+HP: 795 / 795
+MP: 553 / 574
+
+Mus: 505 (476), tnp = 572
+Mys: 364 (347), tnp = 91
+Mox: 366 (349), tnp = 564
+
+Advs: 138
+Meat: 120,150
+Drunk: 10
+
+
+ > equipment
+
+Hat: miner's helmet
+Weapon: fouet de tortue-dressage
+Off-hand: eye of the Tiger-lily
+Shirt: Ultracolor™ shirt
+Pants: Galapagosian Cuisses
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: Nickel Gamma of Frugality
+Acc. 3: Zinc Delta of Tranquility
+
+Pet: Baby Gravy Fairy (50 lbs)
+Item: eye-pod
+
+Sticker 1: scratch 'n' sniff wrestler sticker (0)
+Sticker 2: scratch 'n' sniff wrestler sticker (0)
+Sticker 3: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Stop and Smell the Fudge (7)
+Object Detection (9)
+Rootin' Around (10)
+20/20 Vision (37)
+♫ Jackasses' Symphony of Destruction (321)
+♫ The Sonata of Sneakiness (321)
+Scarysauce (321)
+Jingle Jangle Jingle (321)
+♫ Polka of Plenty (321)
+Empathy (321)
+Reptilian Fortitude (321)
+Tenacity of the Snapper (321)
+Astral Shell (321)
+Jalapeño Saucesphere (321)
+Jabañero Saucesphere (321)
+Elemental Saucesphere (321)
+Patience of the Tortoise (590)
+Ghostly Shell (2,354)
+Retrograde Relaxation (4,572)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +80.00%
+Item: +164.44%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+mall.php?didadv=0&pudnuggler=clover&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+
+buy 1 ten-leaf clover for 200 each from 1741689 on 20111215
+You acquire an item: ten-leaf clover
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+buy 1 disassembled clover for 200 each from 1741689 on 20111215
+You acquire an item: disassembled clover
+
+equip hat hardened slime hat
+
+equip weapon scratch 'n' sniff sword
+
+equip off-hand stress ball
+
+equip shirt star shirt
+
+equip pants turtlemail breeches
+
+equip acc1 hopping socks
+
+equip acc2 cursed scrunchie
+
+equip acc3 Pokëmann figurine: Frank
+
+Visiting Fudge Wand
+You acquire an item: ten-leaf clover
+
+Visiting Fudge Wand
+You acquire an item: disassembled clover
+
+Visiting Fudge Wand
+You acquire an item: ten-leaf clover
+
+[10413] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 728 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (7)
+You gain 13 Muscleboundness
+You gain 5 Wizardliness
+You gain 3 Chutzpah
+Jumping into Awesome Ball Pit in clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+buy 1 blood of the Wereseal for 500 each from Smacketeria
+You acquire an item: blood of the Wereseal
+You spent 500 Meat
+
+use 1 blood of the Wereseal
+You acquire an effect: Temporary Lycanthropy (duration: 10 Adventures)
+
+buy 1 tomato juice of powerful power for 444 each from 1877436 on 20111215
+You acquire an item: tomato juice of powerful power
+
+use 1 tomato juice of powerful power
+You acquire an effect: Tomato Power (duration: 5 Adventures)
+
+buy 1 hot wad for 645 each from 1983255 on 20111215
+You acquire an item: hot wad
+
+use 1 hot wad
+You gain 1 Adventure
+You gain 27 Strengthliness
+You gain 10 Wizardliness
+You gain 17 Cheek
+You acquire an effect: Hot Blooded (duration: 10 Adventures)
+
+buy 1 cold wad for 660 each from 188160 on 20111215
+You acquire an item: cold wad
+
+use 1 cold wad
+You gain 1 Adventure
+You gain 33 Fortitude
+You gain 19 Wizardliness
+You gain 10 Smarm
+You acquire an effect: Cold Blooded (duration: 10 Adventures)
+
+buy 1 Mick's IcyVapoHotness Rub for 282 each from 1053259 on 20111215
+You acquire an item: Mick's IcyVapoHotness Rub
+
+use 1 Mick's IcyVapoHotness Rub
+You acquire an effect: Extreme Muscle Relaxation (duration: 10 Adventures)
+
+use 1 murky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+buy 1 fermenting powder for 70 each from Market Demon
+You acquire an item: fermenting powder
+You spent 70 Meat
+
+buy 1 pretty flower for 100 each from 643739 on 20111215
+You acquire an item: pretty flower
+
+[10415] Mix 1 fermenting powder + 1 pretty flower
+You acquire an item: shot of flower schnapps
+Crafting used 1 each of pretty flower and fermenting powder
+
+drink 1 shot of flower schnapps
+You gain 2 Adventures
+You acquire an effect: Flower Power (duration: 3 Adventures)
+You gain 1 Drunkenness
+
+buy 1 stench wad for 598 each from 2029934 on 20111215
+You acquire an item: stench wad
+
+use 1 stench wad
+You gain 1 Adventure
+You gain 20 Beefiness
+You gain 28 Magicalness
+You gain 8 Cheek
+You acquire an effect: Stenchtastic (duration: 10 Adventures)
+
+buy 1 fish-liver oil for 150 each from 1053259 on 20111215
+You acquire an item: fish-liver oil
+
+use 1 fish-liver oil
+You acquire an effect: Fishy Fortification (duration: 5 Adventures)
+
+buy 1 sleaze wad for 664 each from 1557378 on 20111215
+You acquire an item: sleaze wad
+
+use 1 sleaze wad
+You gain 1 Adventure
+You gain 16 Strengthliness
+You gain 15 Mysteriousness
+You gain 29 Cheek
+You acquire an effect: Supafly (duration: 10 Adventures)
+
+buy 5 Ben-Gal™ Balm for 24 each from Market Demon
+You acquire Ben-Gal™ Balm (5)
+You spent 120 Meat
+
+use 5 Ben-Gal™ Balm
+You acquire an effect: Go Get 'Em, Tiger! (duration: 15 Adventures)
+
+buy 1 spooky wad for 544 each from 2029934 on 20111215
+You acquire an item: spooky wad
+
+use 1 spooky wad
+You gain 1 Adventure
+You gain 9 Strongness
+You gain 27 Wizardliness
+You gain a Mysticality point!
+You gain 18 Smarm
+You acquire an effect: Spooky Demeanor (duration: 10 Adventures)
+outfit Swashbuckling Getup
+
+buy 1 pirate brochure for 300 each from Barrrtleby's Barrrgain Books (Bees Hate You)
+You acquire an item: pirate brochure
+You spent 300 Meat
+
+use 1 pirate brochure
+You acquire an effect: Muscularrr (duration: 10 Adventures)
+custom outfit Backup
+
+buy 1 weremoose spit for 593 each from 2075640 on 20111215
+You acquire an item: weremoose spit
+
+use 1 weremoose spit
+You acquire an effect: Lycanthropy, Eh? (duration: 20 Adventures)
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+
+buy 1 yellow striped oyster egg for 300 each from 2252851 on 20111215
+You acquire an item: yellow striped oyster egg
+
+use 1 yellow striped oyster egg
+You acquire an effect: Egg-stra Arm (duration: 20 Adventures)
+You gain 16 Beefiness
+
+buy 1 twinkly wad for 408 each from 2029934 on 20111215
+You acquire an item: twinkly wad
+
+use 1 twinkly wad
+You gain 1 Adventure
+You gain 11 Muscleboundness
+You gain 8 Mysteriousness
+You gain 10 Chutzpah
+You acquire an effect: Aspect of the Twinklefairy (duration: 10 Adventures)
+
+buy 1 pygmy pygment for 310 each from 156723 on 20111215
+You acquire an item: pygmy pygment
+
+use 1 pygmy pygment
+You acquire an effect: Woad Warrior (duration: 10 Adventures)
+
+use 1 phial of hotness
+You acquire an effect: Hotform (duration: 5 Adventures)
+
+use 1 scroll of drastic healing
+
+[10414] Fernswarthy's Basement (Level 316)
+Elemental Resist Test: +8 hot 100% (1 hp), +10 spooky 73% (4,090 hp)
+You lose 1 hit point
+You lose 3,751 hit points
+unequip weapon
+unequip offhand
+
+cast 35 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 1155 Adventures)
+
+[10415] Fernswarthy's Basement (Level 317)
+Encounter: The Beast with 6,348 Eyes
+Round 0: boolicious loses initiative!
+Round 1: boolicious casts FLYING FIRE FIST!
+Round 2: the beast with 6,348 eyes takes 5817 damage.
+You lose an effect: Salamanderenity
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 855 Muscleboundness
+You gain a Muscle point!
+You gain 403 Mysteriousness
+You gain 407 Cheek
+
+equip weapon scratch 'n' sniff sword
+
+equip off-hand black shield
+
+equip pants Galapagosian Cuisses
+
+equip acc1 Slow Talkin' Elliot's dogtags
+
+buy 1 philter of phorce for 443 each from 1877436 on 20111215
+You acquire an item: philter of phorce
+
+use 1 philter of phorce
+You acquire an effect: Phorcefullness (duration: 5 Adventures)
+
+[10416] Fernswarthy's Basement (Level 318)
+Buffed Muscle Test: 3,487 current, 3,444 needed
+
+[10417] Fernswarthy's Basement (Level 319)
+Buffed Muscle Test: 3,487 current, 3,459 needed
+
+[10418] Fernswarthy's Basement (Level 320)
+Encounter: Save the Dolls/Save the Cardboard
+You gain 504 Roguishness
+You gain a Moxie point!
+
+cast 35 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 1155 Adventures)
+
+[10419] Fernswarthy's Basement (Level 321)
+Encounter: The Beast with 6,460 Ears
+Round 0: boolicious loses initiative!
+Round 1: the beast with 6,460 ears takes 1 damage.
+Round 1: the beast with 6,460 ears takes 2 damage.
+Round 1: the beast with 6,460 ears takes 4 damage.
+You lose 538 hit points
+Round 1: boolicious casts FLYING FIRE FIST!
+Round 2: boolicious uses the peppermint parasol!
+unequip weapon
+unequip offhand
+
+cast 1 Summon Clip Art
+
+Combine 1 tourmalime + 1 lollipop stick
+You acquire an item: lime supersucker
+Crafting used 1 each of lollipop stick and tourmalime
+
+Combine 1 kumquartz + 1 lollipop stick
+You acquire an item: kumquat supersucker
+Crafting used 1 each of lollipop stick and kumquartz
+
+[10419] Fernswarthy's Basement (Level 321)
+Encounter: The Beast with 6,460 Ears
+Round 0: boolicious loses initiative!
+Round 1: the beast with 6,460 ears takes 1 damage.
+Round 1: the beast with 6,460 ears takes 6 damage.
+Round 1: the beast with 6,460 ears takes 4 damage.
+You lose 738 hit points
+
+Visiting Fudge Wand
+You gain 4,177 hit points
+
+[10420] Fernswarthy's Basement (Level 321)
+Encounter: The Beast with 6,460 Ears
+Round 0: boolicious loses initiative!
+Round 1: the beast with 6,460 ears takes 2 damage.
+Round 1: the beast with 6,460 ears takes 4 damage.
+Round 1: the beast with 6,460 ears takes 3 damage.
+You lose 781 hit points
+Round 1: boolicious casts KNUCKLE SANDWICH!
+Round 2: the beast with 6,460 ears takes 49 damage.
+Round 2: the beast with 6,460 ears drops 33 attack power.
+Round 2: the beast with 6,460 ears takes 1 damage.
+Round 2: the beast with 6,460 ears takes 6 damage.
+Round 2: the beast with 6,460 ears takes 5 damage.
+You lose 789 hit points
+Round 2: boolicious casts FLYING FIRE FIST!
+Round 3: the beast with 6,460 ears takes 5811 damage.
+You lose an effect: Salamanderenity
+Round 3: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 883 Muscleboundness
+You gain a Muscle point!
+You gain 405 Mysteriousness
+You gain a Mysticality point!
+You gain 408 Cheek
+You gain a Moxie point!
+
+cast 35 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 1155 Adventures)
+
+[10421] Fernswarthy's Basement (Level 322)
+Encounter: 21 Stone Golem
+Round 0: boolicious loses initiative!
+
+uneffect Beaten Up
+Round 1: boolicious casts FLYING FIRE FIST!
+Round 2: 21 stone golem takes 5818 damage.
+You lose an effect: Salamanderenity
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 903 Strengthliness
+You gain a Muscle point!
+You gain 402 Magicalness
+You gain 400 Sarcasm
+
+buy 53 Cherry Cloaca Cola for 80 each from White Citadel
+
+uneffect Beaten Up
+You acquire Cherry Cloaca Cola (53)
+You spent 4,240 Meat
+
+use 53 Cherry Cloaca Cola
+You gain 428 Muscularity Points
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+cast 35 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 1155 Adventures)
+
+[10422] Fernswarthy's Basement (Level 323)
+Encounter: The Beast with 6,516 Eyes
+Round 0: boolicious loses initiative!
+Round 1: the beast with 6,516 eyes takes 3 damage.
+Round 1: the beast with 6,516 eyes takes 10 damage.
+Round 1: the beast with 6,516 eyes takes 5 damage.
+You lose 773 hit points
+Round 1: boolicious casts FLYING FIRE FIST!
+Round 2: the beast with 6,516 eyes takes 5818 damage.
+You lose an effect: Salamanderenity
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 895 Muscleboundness
+You gain a Muscle point!
+You gain 398 Magicalness
+You gain a Mysticality point!
+You gain 418 Roguishness
+You gain a Moxie point!
+
+cast 35 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 1155 Adventures)
+
+[10423] Fernswarthy's Basement (Level 324)
+Encounter: 6,544-Headed Hydra
+Round 0: boolicious loses initiative!
+Round 1: 6,544-headed hydra takes 1 damage.
+Round 1: 6,544-headed hydra takes 8 damage.
+Round 1: 6,544-headed hydra takes 3 damage.
+You lose 777 hit points
+Round 1: boolicious casts FLYING FIRE FIST!
+Round 2: 6,544-headed hydra takes 5816 damage.
+You lose an effect: Salamanderenity
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 874 Muscleboundness
+You gain a Muscle point!
+You gain 425 Wizardliness
+You gain 417 Chutzpah
+
+[10424] Fernswarthy's Basement (Level 325)
+Encounter: Got Silk?/Leather is Betther
+You gain 484 Smarm
+You gain a Moxie point!
+
+[10425] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 279 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (11)
+You gain 18 Strongness
+You gain 9 Magicalness
+You gain 5 Sarcasm
+
+[10426] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 278 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (11)
+You gain 15 Strengthliness
+You gain 9 Magicalness
+You gain 9 Smarm
+
+[10427] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 278 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (11)
+You gain 20 Strongness
+You gain 7 Wizardliness
+You gain 5 Smarm
+
+Use 2 ten-leaf clover
+You acquire an item: disassembled clover
+
+[10428] Fudge Mountain
+Encounter: Fudge Mountain Breakdown
+Took choice 559/2: fight a swarm of fudgewasps or skip adventure
+choice.php?pwd&whichchoice=559&option=2
+Encounter: swarm of fudgewasps
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: swarm of fudgewasps takes 32 damage.
+Round 2: swarm of fudgewasps takes 2 damage.
+Round 2: swarm of fudgewasps takes 7 damage.
+Round 2: swarm of fudgewasps takes 3 damage.
+You lose 9 hit points
+Round 2: boolicious attacks!
+Round 3: swarm of fudgewasps takes 31 damage.
+Round 3: swarm of fudgewasps takes 3 damage.
+Round 3: swarm of fudgewasps takes 5 damage.
+Round 3: swarm of fudgewasps takes 3 damage.
+You lose 8 hit points
+Round 3: boolicious casts DRUNKEN BABY STYLE!
+Round 4: swarm of fudgewasps takes 127 damage.
+Round 4: boolicious casts DRUNKEN BABY STYLE!
+Round 5: swarm of fudgewasps takes 130 damage.
+Round 5: boolicious casts DRUNKEN BABY STYLE!
+Round 6: swarm of fudgewasps takes 130 damage.
+Round 6: boolicious uses the Gnomitronic Hyperspatial Demodulizer!
+Round 7: swarm of fudgewasps takes 15 damage.
+Round 7: boolicious uses the Gnomitronic Hyperspatial Demodulizer!
+Round 8: boolicious attacks!
+Round 9: swarm of fudgewasps takes 31 damage.
+Round 9: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (19)
+You gain 61 Muscleboundness
+You gain 27 Magicalness
+You gain a Mysticality point!
+You gain 31 Cheek
+
+Cook 1 popsicle stick + 1 frigid fudgepuck
+You acquire an item: fudgesicle
+Crafting used 1 each of popsicle stick and frigid fudgepuck
+
+eat 1 fudgesicle
+You gain 2 Adventures
+You acquire an effect: Fudge Headache (duration: 30 Adventures)
+You gain 1 Fullness
+
+buy 1 licorice root for 950 each from 2262651 on 20111215
+You acquire an item: licorice root
+
+use 1 licorice root
+You acquire an effect: Rootin' Around (duration: 20 Adventures)
+
+use 1 fudge lily
+You acquire an effect: Stop and Smell the Fudge (duration: 20 Adventures)
+
+[10429] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 259 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (20)
+You gain 11 Muscleboundness
+You gain 12 Wizardliness
+You gain 7 Roguishness
+
+[10430] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 275 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (16)
+You gain 15 Fortitude
+You gain 7 Mysteriousness
+You gain 5 Chutzpah
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+[10431] Fudge Mountain
+Encounter: Fudge Mountain Breakdown
+Took choice 559/3: frigid fudgepuck or skip adventure
+choice.php?pwd&whichchoice=559&option=3
+You acquire an item: frigid fudgepuck
+
+Cook 2 frigid fudgepuck + 2 popsicle stick
+You acquire fudgesicle (2)
+Crafting used 2 each of popsicle stick and frigid fudgepuck
+
+eat 1 fudgesicle
+
+[10432] Fudge Mountain
+You gain 2 Adventures
+You acquire an effect: Fudge Headache (duration: 30 Adventures)
+You gain 1 Fullness
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 295 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 11 Strongness
+You gain 6 Wizardliness
+You gain 3 Cheek
+
+[10433] Fudge Mountain
+Encounter: Fudge Mountain Breakdown
+Took choice 559/2: fight a swarm of fudgewasps or skip adventure
+choice.php?pwd&whichchoice=559&option=2
+
+[10433] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 293 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 8 Strengthliness
+You gain 8 Enchantedness
+You gain 5 Smarm
+
+[10434] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 137 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 10 Fortitude
+You gain 5 Enchantedness
+You gain 6 Chutzpah
+
+[10435] Fudge Mountain
+Encounter: Fudge Mountain Breakdown
+Took choice 559/1: fudge lily
+choice.php?pwd&whichchoice=559&option=1
+You acquire an item: fudge lily
+
+[10436] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 139 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 10 Fortitude
+You gain 5 Enchantedness
+You gain 6 Chutzpah
+
+[10437] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 139 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 9 Strongness
+You gain 3 Wizardliness
+You gain 9 Roguishness
+
+[10438] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 123 damage.
+Round 2: boolicious attacks!
+Round 3: fudge oyster takes 123 damage.
+Round 3: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (20)
+You gain 14 Strongness
+You gain 7 Magicalness
+You gain 6 Chutzpah
+
+[10439] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 138 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 11 Fortitude
+You gain 5 Mysteriousness
+You gain 6 Roguishness
+
+[10440] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 139 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 10 Beefiness
+You gain 4 Enchantedness
+You gain 7 Cheek
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+[10441] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 140 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 11 Muscleboundness
+You gain 7 Mysteriousness
+You gain 3 Roguishness
+
+[10442] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 104 damage.
+Round 2: boolicious attacks!
+You lose 1 hit point
+Round 3: boolicious attacks!
+Round 4: fudge poodle takes 105 damage.
+Round 4: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (24)
+You gain 19 Strongness
+You gain 9 Enchantedness
+You gain 5 Cheek
+
+[10443] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 138 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 14 Muscleboundness
+You gain 4 Wizardliness
+You gain 4 Chutzpah
+
+[10444] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 103 damage.
+Round 2: boolicious attacks!
+Round 3: fudge poodle takes 103 damage.
+Round 3: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (24)
+You gain 11 Fortitude
+You gain 4 Mysteriousness
+You gain 16 Roguishness
+
+[10445] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 118 damage.
+Round 2: boolicious attacks!
+Round 3: fudge oyster takes 118 damage.
+Round 3: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (20)
+You gain 16 Strongness
+You gain 5 Wizardliness
+You gain 7 Sarcasm
+
+[10446] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 119 damage.
+Round 2: boolicious attacks!
+Round 3: fudge oyster takes 119 damage.
+Round 3: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (16)
+You gain 15 Strongness
+You gain 7 Mysteriousness
+You gain 6 Roguishness
+
+[10447] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: fudge vulture takes 2 damage.
+Round 2: fudge vulture takes 4 damage.
+Round 2: fudge vulture takes 4 damage.
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: fudge vulture takes 138 damage.
+Round 3: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 15 Fortitude
+You gain 3 Wizardliness
+You gain 4 Roguishness
+
+buy 1 licorice root for 950 each from 701275 on 20111215
+You acquire an item: licorice root
+
+use 1 licorice root
+You acquire an effect: Rootin' Around (duration: 20 Adventures)
+
+use 1 fudge lily
+You acquire an effect: Stop and Smell the Fudge (duration: 20 Adventures)
+
+[10448] Fudge Mountain
+Encounter: Fudge Mountain Breakdown
+Took choice 559/3: frigid fudgepuck or skip adventure
+choice.php?pwd&whichchoice=559&option=3
+You acquire an item: frigid fudgepuck
+
+[10449] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 141 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 10 Muscleboundness
+You gain 4 Mysteriousness
+You gain 6 Cheek
+
+[10450] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 139 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 15 Strongness
+You gain 4 Wizardliness
+You gain 3 Chutzpah
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+[10451] Fudge Mountain
+Encounter: Fudge Mountain Breakdown
+Took choice 559/1: fudge lily
+choice.php?pwd&whichchoice=559&option=1
+You acquire an item: fudge lily
+
+[10452] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 106 damage.
+Round 2: boolicious attacks!
+Round 3: fudge poodle takes 106 damage.
+Round 3: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (22)
+You gain 15 Strongness
+You gain 6 Mysteriousness
+You gain 10 Cheek
+
+[10453] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 136 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 8 Fortitude
+You gain 7 Enchantedness
+You gain 6 Roguishness
+
+[10454] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 124 damage.
+Round 2: boolicious attacks!
+Round 3: fudge oyster takes 124 damage.
+Round 3: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (16)
+You gain 13 Strengthliness
+You gain 6 Enchantedness
+You gain 9 Smarm
+
+equip weapon fouet de tortue-dressage
+
+equip off-hand eye of the Tiger-lily
+
+equip shirt Ultracolor™ shirt
+
+equip acc1 Baron von Ratsworth's monocle
+
+equip acc2 Zinc Delta of Tranquility
+
+equip acc3 Nickel Gamma of Frugality
+
+buy 1 Knob Goblin eyedrops for 200 each from 1945689 on 20111215
+You acquire an item: Knob Goblin eyedrops
+
+use 1 Knob Goblin eyedrops
+You acquire an effect: Peeled Eyeballs (duration: 10 Adventures)
+
+buy 5 d20 for 175 each from 1120160 on 20111215
+You acquire d20 (5)
+
+buy 15 d20 for 190 each from 1200792 on 20111215
+You acquire d20 (15)
+
+roll 20d20
+You acquire an effect: 20/20 Vision (duration: 170 Adventures)
+friars blessing 3
+
+[10455] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 664 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 5 Strengthliness
+You gain 8 Magicalness
+You gain 7 Roguishness
+
+[10456] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 627 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (24)
+You gain 13 Fortitude
+You gain 8 Magicalness
+You gain 10 Roguishness
+
+[10457] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 663 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 10 Fortitude
+You gain 5 Magicalness
+You gain 4 Roguishness
+
+[10458] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 661 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 10 Strongness
+You gain 6 Magicalness
+You gain 3 Smarm
+
+[10459] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 664 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 8 Beefiness
+You gain 4 Wizardliness
+You gain 8 Smarm
+
+[10460] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 626 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (22)
+You gain 19 Beefiness
+You gain 9 Magicalness
+You gain 4 Cheek
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+[10461] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 663 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 14 Strengthliness
+You gain 3 Magicalness
+You gain 4 Smarm
+
+[10462] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 647 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (16)
+You gain 13 Muscleboundness
+You gain 6 Enchantedness
+You gain 7 Cheek
+
+[10463] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 666 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 8 Beefiness
+You gain 7 Mysteriousness
+You gain 5 Smarm
+
+[10464] Fudge Mountain
+Encounter: Fudge Mountain Breakdown
+Took choice 559/4: superheated fudge or skip adventure
+choice.php?pwd&whichchoice=559&option=4
+You acquire an item: superheated fudge
+
+[10465] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 658 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 13 Muscleboundness
+You gain 3 Mysteriousness
+You gain 7 Cheek
+You gain a Moxie point!
+
+[10466] Fudge Mountain
+Encounter: Fudge Mountain Breakdown
+Took choice 559/3: frigid fudgepuck or skip adventure
+choice.php?pwd&whichchoice=559&option=3
+You acquire an item: frigid fudgepuck
+
+Cook 1 superheated fudge + 1 scrumdiddlyumptious solution
+
+eat 1 gnocchetti di Nietzsche
+You gain 27 Adventures
+You gain 50 Mysteriousness
+You gain 6 Fullness
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 11 non-Euclidean hooves
+
+[10467] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 634 damage.
+Round 2: boolicious wins the fight!
+You gain 397 Meat
+After Battle: Shakira does a little fairy dance.
+You acquire an item: non-Euclidean hoof
+You gain 18 Muscleboundness
+You gain 4 Wizardliness
+You gain 7 Roguishness
+
+buy 1 licorice root for 950 each from 701275 on 20111215
+You acquire an item: licorice root
+
+use 1 licorice root
+You acquire an effect: Rootin' Around (duration: 20 Adventures)
+
+use 1 fudge lily
+You acquire an effect: Stop and Smell the Fudge (duration: 20 Adventures)
+
+[10468] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 630 damage.
+Round 2: boolicious wins the fight!
+You gain 160 Meat
+After Battle: Shakira does a little fairy dance.
+You gain 16 Strengthliness
+You gain 6 Magicalness
+You gain 8 Cheek
+
+[10469] Haunted Gallery
+Encounter: Out in the Garden
+Took choice 89/3: Dreams and Lights
+choice.php?whichchoice=89&option=3&pwd
+You acquire an effect: Dreams and Lights (duration: 10 Adventures)
+
+[10470] Haunted Gallery
+Encounter: Louvre It or Leave It 
+Took choice 91/2: skip adventure
+choice.php?whichchoice=91&option=2&pwd
+
+[10470] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 652 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: antique helmet
+You acquire an item: antique spear
+You gain 16 Muscleboundness
+You gain 6 Mysteriousness
+You gain 9 Roguishness
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+[10471] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 633 damage.
+Round 2: boolicious wins the fight!
+You gain 156 Meat
+After Battle: Shakira does a little fairy dance.
+You gain 17 Beefiness
+You gain 9 Enchantedness
+You gain 4 Roguishness
+
+[10472] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 650 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 16 Beefiness
+You gain 9 Enchantedness
+You gain 6 Roguishness
+
+[10473] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 654 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: antique greaves
+You gain 22 Fortitude
+You gain 6 Mysteriousness
+You gain 3 Chutzpah
+
+[10474] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 637 damage.
+Round 2: boolicious wins the fight!
+You gain 372 Meat
+After Battle: Shakira does a little fairy dance.
+You acquire an item: non-Euclidean hoof
+You gain 13 Fortitude
+You gain 6 Wizardliness
+You gain 10 Chutzpah
+
+[10475] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 637 damage.
+Round 2: boolicious wins the fight!
+You gain 174 Meat
+After Battle: Shakira does a little fairy dance.
+You gain 15 Muscleboundness
+You gain 6 Wizardliness
+You gain 9 Cheek
+
+[10476] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 635 damage.
+Round 2: boolicious wins the fight!
+You gain 189 Meat
+After Battle: Shakira does a little fairy dance.
+You gain 17 Muscleboundness
+You gain 5 Mysteriousness
+You gain 7 Chutzpah
+
+[10477] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 649 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 18 Strengthliness
+You gain 7 Mysteriousness
+You gain 5 Roguishness
+
+[10478] Haunted Gallery
+Encounter: Out in the Garden
+Took choice 89/1: Wolf Knight
+choice.php?whichchoice=89&option=1&pwd
+Encounter: Knight (Wolf)
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knight (wolf) takes 626 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: lupine sword
+You gain 21 Fortitude
+You gain 6 Mysteriousness
+You gain 4 Roguishness
+
+[10479] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 651 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 14 Muscleboundness
+You gain 8 Enchantedness
+You gain 9 Roguishness
+
+[10480] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 648 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: antique greaves
+You gain 17 Fortitude
+You gain 6 Mysteriousness
+You gain 8 Cheek
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+[10481] Haunted Gallery
+Encounter: Out in the Garden
+Took choice 89/3: Dreams and Lights
+choice.php?whichchoice=89&option=3&pwd
+You acquire an effect: Dreams and Lights (duration: 10 Adventures)
+
+[10482] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 656 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: antique spear
+You gain 15 Muscleboundness
+You gain 7 Wizardliness
+You gain 8 Smarm
+
+[10483] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 642 damage.
+Round 2: boolicious wins the fight!
+You gain 378 Meat
+After Battle: Shakira does a little fairy dance.
+You acquire an item: non-Euclidean hoof
+You gain 15 Beefiness
+You gain 9 Magicalness
+You gain 5 Smarm
+
+[10484] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 636 damage.
+Round 2: boolicious wins the fight!
+You gain 178 Meat
+After Battle: Shakira does a little fairy dance.
+You gain 16 Strengthliness
+You gain 9 Enchantedness
+You gain 5 Roguishness
+
+[10485] Haunted Gallery
+Encounter: Louvre It or Leave It 
+Took choice 91/2: skip adventure
+choice.php?whichchoice=91&option=2&pwd
+
+[10485] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 635 damage.
+Round 2: boolicious wins the fight!
+You gain 178 Meat
+After Battle: Shakira does a little fairy dance.
+You gain 15 Strengthliness
+You gain 5 Mysteriousness
+You gain 10 Smarm
+
+[10486] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 643 damage.
+Round 2: boolicious wins the fight!
+You gain 385 Meat
+After Battle: Shakira does a little fairy dance.
+You acquire an item: non-Euclidean hoof
+You gain 14 Beefiness
+You gain 6 Enchantedness
+You gain 10 Cheek
+
+[10487] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 642 damage.
+Round 2: boolicious wins the fight!
+You gain 315 Meat
+After Battle: Shakira does a little fairy dance.
+You acquire an item: non-Euclidean hoof
+You gain 15 Strengthliness
+You gain 8 Magicalness
+You gain 5 Sarcasm
+
+[10488] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 638 damage.
+Round 2: boolicious wins the fight!
+You gain 415 Meat
+After Battle: Shakira does a little fairy dance.
+You acquire an item: non-Euclidean hoof
+You gain 16 Strengthliness
+You gain a Muscle point!
+You gain 6 Wizardliness
+You gain 5 Smarm
+
+[10489] Haunted Gallery
+Encounter: Out in the Garden
+Took choice 89/2: Snake Knight
+choice.php?whichchoice=89&option=2&pwd
+Encounter: Knight (Snake)
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knight (snake) takes 613 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 15 Beefiness
+You gain 11 Mysteriousness
+You gain 6 Roguishness
+
+[10490] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 629 damage.
+Round 2: boolicious wins the fight!
+You gain 315 Meat
+After Battle: Shakira does a little fairy dance.
+You acquire an item: non-Euclidean hoof
+You gain 14 Fortitude
+You gain 9 Magicalness
+You gain 6 Roguishness
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+[10491] Haunted Gallery
+Encounter: Louvre It or Leave It 
+Took choice 91/2: skip adventure
+choice.php?whichchoice=91&option=2&pwd
+
+[10491] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 622 damage.
+Round 2: boolicious wins the fight!
+You gain 187 Meat
+After Battle: Shakira does a little fairy dance.
+You gain 8 Muscleboundness
+You gain 12 Magicalness
+You gain 9 Sarcasm
+
+[10492] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 628 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: antique helmet
+You gain 11 Fortitude
+You gain 11 Wizardliness
+You gain 7 Smarm
+
+[10493] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 616 damage.
+Round 2: boolicious wins the fight!
+You gain 176 Meat
+After Battle: Shakira does a little fairy dance.
+You gain 19 Strengthliness
+You gain 9 Enchantedness
+You gain 2 Roguishness
+
+[10494] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 614 damage.
+Round 2: boolicious wins the fight!
+You gain 154 Meat
+After Battle: Shakira does a little fairy dance.
+You gain 15 Muscleboundness
+You gain 10 Magicalness
+You gain 3 Roguishness
+
+[10495] Haunted Gallery
+Encounter: Out in the Garden
+Took choice 89/3: Dreams and Lights
+choice.php?whichchoice=89&option=3&pwd
+You acquire an effect: Dreams and Lights (duration: 10 Adventures)
+
+[10496] Haunted Gallery
+Encounter: Louvre It or Leave It 
+Took choice 91/2: skip adventure
+choice.php?whichchoice=91&option=2&pwd
+
+[10496] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 627 damage.
+Round 2: boolicious wins the fight!
+You gain 363 Meat
+After Battle: Shakira does a little fairy dance.
+You acquire an item: non-Euclidean hoof
+You gain 19 Strengthliness
+You gain 5 Magicalness
+You gain 6 Sarcasm
+
+[10497] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 638 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: antique helmet
+You acquire an item: antique shield
+You gain 17 Muscleboundness
+You gain 4 Magicalness
+You gain 9 Smarm
+
+[10498] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 634 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: antique greaves
+You acquire an item: antique helmet
+You gain 17 Fortitude
+You gain 6 Enchantedness
+You gain 6 Cheek
+
+[10499] Haunted Gallery
+Encounter: Louvre It or Leave It 
+Took choice 91/2: skip adventure
+choice.php?whichchoice=91&option=2&pwd
+
+[10499] Haunted Gallery
+Encounter: Out in the Garden
+Took choice 89/1: Wolf Knight
+choice.php?whichchoice=89&option=1&pwd
+Encounter: Knight (Wolf)
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knight (wolf) takes 613 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 15 Muscleboundness
+You gain 5 Wizardliness
+You gain 11 Cheek
+
+[10500] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 634 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 21 Muscleboundness
+You gain 8 Mysteriousness
+You gain 2 Roguishness
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+[10501] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: empty suit of armor takes 636 damage.
+Round 3: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 14 Muscleboundness
+You gain 8 Enchantedness
+You gain 8 Cheek
+
+[10502] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 630 damage.
+Round 2: boolicious wins the fight!
+You gain 160 Meat
+After Battle: Shakira does a little fairy dance.
+You gain 15 Strengthliness
+You gain 9 Magicalness
+You gain 5 Chutzpah
+
+[10503] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 636 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: antique shield
+You gain 16 Muscleboundness
+You gain 8 Wizardliness
+You gain 7 Chutzpah
+
+[10504] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 624 damage.
+Round 2: boolicious wins the fight!
+You gain 334 Meat
+After Battle: Shakira does a little fairy dance.
+You acquire an item: non-Euclidean hoof
+You acquire an item: 4-dimensional guitar
+You gain 14 Strengthliness
+You gain 5 Magicalness
+You gain 8 Sarcasm
+
+[10505] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 637 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 15 Muscleboundness
+You gain 9 Wizardliness
+You gain 7 Smarm
+
+[10506] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 616 damage.
+Round 2: boolicious wins the fight!
+You gain 376 Meat
+After Battle: Shakira does a little fairy dance.
+You acquire an item: non-Euclidean hoof
+You gain 14 Beefiness
+You gain 4 Wizardliness
+You gain 9 Cheek
+
+[10507] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 628 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You gain 18 Fortitude
+You gain 8 Mysteriousness
+You gain 5 Chutzpah
+
+[10508] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 615 damage.
+Round 2: boolicious wins the fight!
+You gain 165 Meat
+After Battle: Shakira does a little fairy dance.
+You gain 11 Fortitude
+You gain 6 Wizardliness
+You gain 11 Sarcasm
+
+[10509] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 620 damage.
+Round 2: boolicious wins the fight!
+You gain 189 Meat
+After Battle: Shakira does a little fairy dance.
+You gain 20 Strengthliness
+You gain 6 Wizardliness
+You gain 4 Smarm
+
+[10510] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 619 damage.
+Round 2: boolicious wins the fight!
+You gain 194 Meat
+After Battle: Shakira does a little fairy dance.
+You gain 17 Strongness
+You gain 2 Mysteriousness
+You gain 10 Sarcasm
+
+buy 1 milky potion for 120 each from 1801777 on 20111215
+You acquire an item: milky potion of detection
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+[10511] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 620 damage.
+Round 2: boolicious wins the fight!
+You gain 178 Meat
+After Battle: Shakira does a little fairy dance.
+You acquire an item: pitchfork
+You gain 16 Strongness
+You gain 6 Magicalness
+You gain 8 Chutzpah
+
+[10512] Haunted Gallery
+Encounter: Out in the Garden
+Took choice 89/3: Dreams and Lights
+choice.php?whichchoice=89&option=3&pwd
+You acquire an effect: Dreams and Lights (duration: 10 Adventures)
+
+[10513] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 628 damage.
+Round 2: boolicious wins the fight!
+You gain 430 Meat
+After Battle: Shakira does a little fairy dance.
+You acquire an item: non-Euclidean hoof
+You gain 19 Muscleboundness
+You gain 5 Enchantedness
+You gain 4 Smarm
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+multiuse.php?passitem=2536&pwd=03f8db5237349c9b921296cc0d86e88b
+
+use 10 canopic jar
+You acquire ancient spice (5)
+You acquire powdered organs (5)
+
+eat 1 fudgesicle
+You gain 2 Adventures
+You acquire an effect: Fudge Headache (duration: 30 Adventures)
+You gain 1 Fullness
+
+buy 1 fudge lily for 3749 each from 352230 on 20111215
+You acquire an item: fudge lily
+
+use 1 fudge lily
+You acquire an effect: Stop and Smell the Fudge (duration: 20 Adventures)
+
+[10514] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 663 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 8 Strengthliness
+You gain 5 Enchantedness
+You gain 8 Sarcasm
+
+[10515] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 639 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (16)
+You gain 14 Muscleboundness
+You gain 8 Magicalness
+You gain 5 Sarcasm
+
+[10516] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 627 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (22)
+You gain 22 Fortitude
+You gain 3 Magicalness
+You gain 7 Smarm
+
+[10517] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 659 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 10 Strongness
+You gain 7 Wizardliness
+You gain 4 Smarm
+
+[10518] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 657 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 5 Strongness
+You gain 7 Mysteriousness
+You gain 8 Roguishness
+
+[10519] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 659 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 11 Beefiness
+You gain 6 Wizardliness
+You gain 4 Cheek
+
+[10520] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 663 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 14 Fortitude
+You gain 5 Mysteriousness
+You gain 3 Smarm
+
+buy 1 milky potion for 120 each from 196620 on 20111215
+You acquire an item: milky potion of detection
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+[10521] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 638 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (16)
+You gain 10 Muscleboundness
+You gain 11 Enchantedness
+You gain 6 Smarm
+
+[10522] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 623 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (20)
+You gain 18 Fortitude
+You gain 7 Wizardliness
+You gain 7 Sarcasm
+
+[10523] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 654 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 9 Strongness
+You gain 3 Enchantedness
+You gain 9 Chutzpah
+
+[10524] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 656 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 13 Muscleboundness
+You gain 5 Mysteriousness
+You gain 3 Roguishness
+
+[10525] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 652 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 11 Beefiness
+You gain 6 Wizardliness
+You gain 5 Sarcasm
+
+[10526] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 654 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 11 Beefiness
+You gain 5 Magicalness
+You gain 5 Sarcasm
+
+[10527] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 632 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (16)
+You gain 9 Strengthliness
+You gain 8 Wizardliness
+You gain 10 Smarm
+
+[10528] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 618 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (22)
+You gain 16 Fortitude
+You gain 5 Enchantedness
+You gain 10 Sarcasm
+
+[10529] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 653 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 8 Strengthliness
+You gain 8 Wizardliness
+You gain 5 Chutzpah
+
+[10530] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 633 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (16)
+You gain 10 Beefiness
+You gain 8 Mysteriousness
+You gain 8 Cheek
+
+buy 1 milky potion for 259 each from 2184589 on 20111215
+You acquire an item: milky potion of detection
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+[10531] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 2 hit points
+Round 2: boolicious attacks!
+Round 3: fudge vulture takes 653 damage.
+Round 3: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 17 Beefiness
+You gain 3 Enchantedness
+You gain 1 Sarcasm
+
+[10532] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Took choice 559/1: fudge lily
+choice.php?pwd&whichchoice=559&option=1&choiceform1=Frolic+in+the+wildflowers
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 654 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 10 Beefiness
+You gain 5 Magicalness
+You gain 6 Smarm
+
+buy 1 fudge lily for 3749 each from 352230 on 20111215
+You acquire an item: fudge lily
+
+use 1 fudge lily
+You acquire an effect: Stop and Smell the Fudge (duration: 20 Adventures)
+
+[10533] Fudge Mountain
+Encounter: Fudge Mountain Breakdown
+Took choice 559/1: fudge lily
+choice.php?pwd&whichchoice=559&option=1
+You acquire an item: fudge lily
+
+[10534] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 655 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 6 Beefiness
+You gain 6 Wizardliness
+You gain 9 Chutzpah
+
+[10535] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 2 hit points
+Round 2: boolicious attacks!
+Round 3: fudge poodle takes 624 damage.
+Round 3: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (22)
+You gain 14 Strongness
+You gain 6 Wizardliness
+You gain 12 Cheek
+
+[10536] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 635 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (16)
+You gain 11 Muscleboundness
+You gain 3 Enchantedness
+You gain 13 Cheek
+
+[10537] Fudge Mountain
+Encounter: Fudge Mountain Breakdown
+Took choice 559/1: fudge lily
+choice.php?pwd&whichchoice=559&option=1
+You acquire an item: fudge lily
+
+[10538] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 616 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (22)
+You gain 13 Fortitude
+You gain 12 Mysteriousness
+You gain 8 Sarcasm
+
+[10539] Fudge Mountain
+Encounter: Fudge Mountain Breakdown
+Took choice 559/1: fudge lily
+choice.php?pwd&whichchoice=559&option=1
+You acquire an item: fudge lily
+
+[10540] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 654 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 7 Beefiness
+You gain 11 Wizardliness
+You gain 2 Smarm
+
+[10542] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 656 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 13 Muscleboundness
+You gain 6 Magicalness
+You gain a Mysticality point!
+You gain 2 Sarcasm
+
+[10542] Fudge Mountain
+Encounter: Fudge Mountain Breakdown
+Took choice 559/3: frigid fudgepuck or skip adventure
+choice.php?pwd&whichchoice=559&option=3
+You acquire an item: frigid fudgepuck
+
+Cook 3 frigid fudgepuck + 3 popsicle stick
+You acquire fudgesicle (3)
+Crafting used 3 each of popsicle stick and frigid fudgepuck
+
+[10543] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 648 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 10 Fortitude
+You gain 7 Mysteriousness
+You gain 5 Cheek
+
+[10544] Fudge Mountain
+Encounter: Fudge Mountain Breakdown
+Took choice 559/1: fudge lily
+choice.php?pwd&whichchoice=559&option=1
+You acquire an item: fudge lily
+
+[10545] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 611 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 16 Strongness
+You gain 11 Mysteriousness
+You gain 5 Cheek
+
+eat 1 fudgesicle
+You gain 2 Adventures
+You acquire an effect: Fudge Headache (duration: 30 Adventures)
+You gain 1 Fullness
+
+buy 1 milky potion for 259 each from 2151136 on 20111215
+You acquire an item: milky potion of detection
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+[10546] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 653 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 13 Fortitude
+You gain 5 Mysteriousness
+You gain 3 Cheek
+
+[10547] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 638 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (20)
+You gain 16 Strongness
+You gain 4 Mysteriousness
+You gain 7 Roguishness
+
+[10548] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 654 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 13 Fortitude
+You gain 7 Magicalness
+You gain 3 Sarcasm
+
+[10549] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 655 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 13 Muscleboundness
+You gain 3 Wizardliness
+You gain 7 Cheek
+
+[10550] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 650 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 13 Strengthliness
+You gain 5 Magicalness
+You gain 4 Cheek
+
+[10551] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 654 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (10)
+You gain 10 Beefiness
+You gain 7 Mysteriousness
+You gain 4 Chutzpah
+
+[10552] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 2 hit points
+Round 2: boolicious attacks!
+Round 3: fudge poodle takes 617 damage.
+Round 3: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (22)
+You gain 19 Strengthliness
+You gain 5 Enchantedness
+You gain 8 Sarcasm
+
+[10553] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 656 damage.
+Round 2: boolicious wins the fight!
+After Battle: Shakira does a little fairy dance.
+You acquire an item: fudgecule (12)
+You gain 8 Strengthliness
+You gain 7 Magicalness
+You gain 6 Cheek
+
+Visiting Fudge Wand
+
+drink 1 horizontal tango
+You gain 12 Adventures
+You gain 34 Enchantedness
+You gain 4 Drunkenness
+
+drink 1 perpendicular hula
+You gain 12 Adventures
+You gain 35 Sarcasm
+You gain 4 Drunkenness
+
+eat 1 elven hardtack
+You gain 5 Adventures
+You gain 29 Fortitude
+You gain 30 Mysteriousness
+You gain 29 Smarm
+You gain 3 Fullness
+
+eat 1 cactus fruit
+You gain 6 Adventures
+You gain 13 Muscleboundness
+You gain 2 Wizardliness
+You gain 1 Roguishness
+You lose 9 hit points
+You gain 2 Fullness
+
+use 1 scroll of pasta summoning
+You acquire an item: delicious noodles
+
+use 1 scroll of pasta summoning
+You acquire an item: fettucini Inconnu
+
+use 1 scroll of pasta summoning
+You acquire an item: spaghetti with Skullheads
+
+mallsell: 3 antique greaves, 4 antique helmet, 2 antique shield, 2 antique spear
+
+autosell: 10 salamander spleen
+You gain 50 Meat
+
+mallsell: 3 wool hat
+
+mallsell: 1 mummy mask
+
+mallsell: 2 cornuthaum
+
+manageprices.php?action=update&price5403=19999999&limit5403=0&price5401=60000&limit5401=0&price2973=5600&limit2973=0&price2959=5500&limit2959=0&price2981=5400&limit2981=0&price5259=4000&limit5259=0&price258=2000&limit258=1&price196=1495&limit196=2&price2452=969&limit2452=0&price2636=900&limit2636=0&price703=790&limit703=0&price280=700&limit280=0&price5087=600&limit5087=0&price594=410&limit594=0&price2687=400&limit2687=0&price129=400&limit129=0&price2633=365&limit2633=0&price1929=320&limit1929=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=289&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price628=258&limit628=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price615=248&limit615=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price356=222&limit356=0&price2984=220&limit2984=0&price355=220&limit355=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price1866=186&limit1866=0&price3844=184&limit3844=0&price1838=182&limit1838=0&price362=180&limit362=0&price360=180&limit360=0&price361=180&limit361=0&price835=180&limit835=0&price402=180&limit402=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price240=160&limit240=0&price218=155&limit218=0&price2613=155&limit2613=0&price2055=150&limit2055=0&price352=150&limit352=0&price1826=140&limit1826=0&price310=130&limit310=0&price475=130&limit475=0&price432=120&limit432=0&price431=120&limit431=0&price1655=120&limit1655=0&price1160=110&limit1160=0&price4958=110&limit4958=0&price449=100&limit449=0&price79=100&limit79=0&price120=100&limit120=0&price634=100&limit634=0&price565=100&limit565=0&price9=100&limit9=1&price1462=100&limit1462=0&price166=100&limit166=0&price172=100&limit172=0&price123=100&limit123=0&price1750=100&limit1750=0&price1751=100&limit1751=0&price3=100&limit3=0&price4719=100&limit4719=0&price305=100&limit305=0&price38=100&limit38=0&price35=100&limit35=0&price36=100&limit36=0&price4718=100&limit4718=0&price5=100&limit5=0&price6=100&limit6=0&price1=100&limit1=0&price77=100&limit77=0&price119=100&limit119=0&price21=100&limit21=0&price136=100&limit136=0&price269=100&limit269=0&price909=100&limit909=0&price905=100&limit905=3
