@@ -16,7 +16,7 @@ FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
 KoLDesktop=536,225,-1
-LoginFrame=1689,365,0
+LoginFrame=2285,64,0
 MailboxFrame=289,310,1
 MaximizerFrame=266,248
 MeatManageFrame=1921,395
@@ -568,7 +568,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2102
-currentFullness=15
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -667,13 +667,13 @@ lastBangPotion827=ettin strength
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=6
+lastBreakfast=7
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard=BQc2,BRg2,BKh2,BNe3,BNb4,BRe4,BBc5,BRf5,BBa6,WRe6,BBc8
 lastCouncilVisit=14
-lastCounterDay=6
+lastCounterDay=7
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=1
