@@ -207,3 +207,709 @@ use 1 milky potion of detection
 You acquire an effect: Object Detection (duration: 10 Adventures)
 
 manageprices.php?action=update&price5403=19999999&limit5403=0&price5401=16090&limit5401=0&price2973=5600&limit2973=0&price2959=5500&limit2959=0&price2981=5400&limit2981=0&price5259=4000&limit5259=0&price258=2000&limit258=1&price196=1500&limit196=0&price2452=969&limit2452=0&price2636=900&limit2636=0&price703=790&limit703=0&price280=700&limit280=0&price5087=600&limit5087=0&price594=410&limit594=0&price2687=400&limit2687=0&price129=400&limit129=0&price2633=365&limit2633=0&price1929=320&limit1929=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=289&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price615=248&limit615=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price356=222&limit356=0&price2984=220&limit2984=0&price355=220&limit355=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price1866=186&limit1866=0&price3844=184&limit3844=0&price1838=182&limit1838=0&price835=180&limit835=0&price402=180&limit402=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price240=160&limit240=0&price218=155&limit218=0&price2613=155&limit2613=0&price2055=150&limit2055=0&price352=150&limit352=0&price1826=140&limit1826=0&price310=130&limit310=0&price475=130&limit475=0&price432=120&limit432=0&price431=120&limit431=0&price1655=120&limit1655=0&price1160=110&limit1160=0&price4958=110&limit4958=0&price449=100&limit449=0&price79=100&limit79=0&price120=100&limit120=0&price634=100&limit634=0&price565=100&limit565=0&price9=100&limit9=1&price1462=100&limit1462=0&price166=100&limit166=0&price172=100&limit172=0&price123=100&limit123=0&price1750=100&limit1750=0&price1751=100&limit1751=0&price3=100&limit3=0&price4719=100&limit4719=0&price305=100&limit305=0&price38=100&limit38=0&price35=100&limit35=0&price36=100&limit36=0&price4718=100&limit4718=0&price5=100&limit5=0&price6=100&limit6=0&price1=100&limit1=0&price77=100&limit77=0&price119=100&limit119=0&price21=100&limit21=0&price136=100&limit136=0&price269=100&limit269=0
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+December 18, 2011 - Porktober 3
+
+Ronald: first quarter
+Grimace: waning gibbous
+Mini-moon: in front of Grimace, L side
+
+Halloween: 5 days
+Feast of Boris: 12 days
+Festival of Jarlsberg: 14 days
+Yuletide: 17 days
+Valentine's Day: 33 days
+St. Sneaky Pete's Day: 40 days
+Oyster Egg Day: 47 days
+El Dia De Los Muertos Borrachos: 55 days
+Generic Summer Holiday: 64 days
+Dependence Day: 73 days
+Arrrbor Day: 81 days
+Lab&oacute;r Day: 91 days
+
+
+2 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 22
+HP: 820 / 820
+MP: 556 / 556
+
+Mus: 522 (485), tnp = 42
+Mys: 318 (353), tnp = 83
+Mox: 374 (356), tnp = 373
+
+Advs: 184
+Meat: 259,426
+Drunk: 0
+
+
+ > equipment
+
+Hat: miner's helmet
+Weapon: (none)
+Off-hand: (none)
+Shirt: General Sage's Lonely Diamonds Club Jacket
+Pants: Galapagosian Cuisses
+
+Acc. 1: time halo
+Acc. 2: fudgecycle
+Acc. 3: wristwatch of the white knight
+
+Pet: Peppermint Rhino (24 lbs)
+Item: Li'l Businessman Kit
+
+Sticker 1: scratch 'n' sniff wrestler sticker (0)
+Sticker 2: scratch 'n' sniff wrestler sticker (0)
+Sticker 3: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Sugar Rush (2)
+Spooky Breath (4)
+Object Detection (10)
+Stop and Smell the Fudge (20)
+20/20 Vision (23)
+♫ Ode to Booze (74)
+Patience of the Tortoise (165)
+♫ Polka of Plenty (344)
+♫ Jackasses' Symphony of Destruction (344)
+Scarysauce (494)
+Jingle Jangle Jingle (494)
+Jabañero Saucesphere (494)
+Empathy (494)
+Reptilian Fortitude (494)
+Jalapeño Saucesphere (494)
+Tenacity of the Snapper (494)
+Elemental Saucesphere (494)
+Astral Shell (494)
+Ghostly Shell (2,444)
+Retrograde Relaxation (4,137)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +30.00%
+
+Exp: +0.00
+Meat: +85.00%
+Item: +97.33%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+equip weapon fouet de tortue-dressage
+
+equip off-hand eye of the Tiger-lily
+
+equip shirt Ultracolor™ shirt
+
+equip acc1 Baron von Ratsworth's monocle
+
+equip acc2 Zinc Delta of Tranquility
+
+buy 1 Knob Goblin eyedrops for 200 each from 1945689 on 20111218
+You acquire an item: Knob Goblin eyedrops
+
+use 1 Knob Goblin eyedrops
+You acquire an effect: Peeled Eyeballs (duration: 10 Adventures)
+
+buy 1 eyedrops of the ermine for 585 each from 1649738 on 20111218
+You acquire an item: eyedrops of the ermine
+
+use 1 eyedrops of the ermine
+You acquire an effect: Ermine Eyes (duration: 5 Adventures)
+friars blessing 3
+You acquire an effect: Brother Smothers's Blessing (duration: 20 Adventures)
+outfit Mining Gear
+
+equip acc3 Nickel Gamma of Frugality
+
+[10848] The Gummi Mine (in Disguise)
+
+[10848] The Gummi Mine (in Disguise)
+You acquire an item: trilobite fossil
+
+[10849] The Gummi Mine (in Disguise)
+You acquire an item: strawberyl
+
+[10850] The Gummi Mine (in Disguise)
+You lose 377 hit points
+
+[10851] The Gummi Mine (in Disguise)
+You lose 468 hit points
+
+uneffect Beaten Up
+
+Visiting Fudge Wand
+You gain 782 hit points
+
+buy 1 ten-leaf clover for 200 each from 710999 on 20111218
+You acquire an item: ten-leaf clover
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+mallsell: 9 disassembled clover
+
+[10852] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[10853] The Gummi Mine (in Disguise)
+You acquire an item: tourmalime
+
+[10854] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[10855] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[10856] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[10857] The Gummi Mine (in Disguise)
+You lose 568 hit points
+
+[10858] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[10859] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[10860] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[10861] The Gummi Mine (in Disguise)
+You lose 463 hit points
+
+uneffect Beaten Up
+
+[10862] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[10863] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[10864] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[10865] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[10866] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[10867] The Gummi Mine (in Disguise)
+
+[10868] The Gummi Mine (in Disguise)
+
+[10869] The Gummi Mine (in Disguise)
+
+[10870] The Gummi Mine (in Disguise)
+
+[10871] The Gummi Mine (in Disguise)
+
+[10871] The Gummi Mine (in Disguise)
+You lose 589 hit points
+
+uneffect Beaten Up
+
+[10872] The Gummi Mine (in Disguise)
+You acquire an item: bananagate
+
+[10873] The Gummi Mine (in Disguise)
+You acquire an item: bananagate
+
+[10874] The Gummi Mine (in Disguise)
+You acquire an item: kumquartz
+
+[10875] The Gummi Mine (in Disguise)
+
+[10876] The Gummi Mine (in Disguise)
+You lose 523 hit points
+
+uneffect Beaten Up
+
+[10877] The Gummi Mine (in Disguise)
+You lose 679 hit points
+
+uneffect Beaten Up
+
+[10878] The Gummi Mine (in Disguise)
+You lose 734 hit points
+
+buy 30 tiny house for 214 each from 503811 on 20111218
+You acquire tiny house (30)
+
+use 1 tiny house
+You gain 23 hit points
+You gain 21 Muscularity Points
+
+[10879] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[10880] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[10881] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[10882] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+use 1 gummi snake
+You acquire an effect: Gummibrain (duration: 1 Adventure)
+
+Use 1 green gummi ingot
+You acquire an item: gummi snake
+
+Use 1 green gummi ingot
+You acquire an item: gummi snake
+
+Use 1 green gummi ingot
+You acquire an item: gummi snake
+
+Use 1 green gummi ingot
+You acquire an item: gummi snake
+
+[10883] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[10884] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[10885] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[10886] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+Use 1 yellow gummi ingot
+You acquire an item: gummi canary
+
+Use 1 yellow gummi ingot
+You acquire an item: gummi canary
+
+Use 1 yellow gummi ingot
+You acquire an item: gummi canary
+
+Use 1 yellow gummi ingot
+You acquire an item: gummi canary
+
+Use 1 yellow gummi ingot
+You acquire an item: gummi canary
+
+Use 1 yellow gummi ingot
+You acquire an item: gummi canary
+
+Use 1 yellow gummi ingot
+You acquire an item: gummi canary
+
+Use 1 yellow gummi ingot
+You acquire an item: gummi canary
+
+Use 1 yellow gummi ingot
+You acquire an item: gummi canary
+
+Use 1 yellow gummi ingot
+You acquire an item: gummi canary
+
+Use 1 yellow gummi ingot
+You acquire an item: gummi canary
+
+Use 1 yellow gummi ingot
+You acquire an item: gummi canary
+
+use 1 gummi canary
+You acquire an effect: Gummiskin (duration: 1 Adventure)
+
+use 1 gummi canary
+You acquire an effect: Gummiskin (duration: 1 Adventure)
+
+use 1 gummi canary
+You acquire an effect: Gummiskin (duration: 1 Adventure)
+
+use 1 gummi canary
+You acquire an effect: Gummiskin (duration: 1 Adventure)
+
+use 1 gummi canary
+You acquire an effect: Gummiskin (duration: 1 Adventure)
+
+[10887] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[10888] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[10889] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[10890] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+town_fleamarket.php?which=1
+town_fleamarket.php?pwd&buying=Yep.&which=1&whichitem=2094&howmuch=116
+You acquire an item: ballroom blintz
+town_fleamarket.php?pwd&buying=Yep.&which=1&whichitem=568&howmuch=221
+You acquire an item: Double Bacon Beelzeburger
+
+eat 1 Double Bacon Beelzeburger
+
+eat 1 Double Bacon Beelzeburger
+You gain 4 Adventures
+You gain 31 Strongness
+You lose 26 Magicalness
+You gain 3 Fullness
+
+equip weapon fouet de tortue-dressage
+
+equip off-hand eye of the Tiger-lily
+
+equip pants Galapagosian Cuisses
+
+equip acc3 fudgecycle
+
+mall.php?didadv=0&pudnuggler=comet+pop&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+mall.php?didadv=0&pudnuggler=comet&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+mall.php?justitems=0&pudnuggler=%22Comet+Drop%22
+mall.php?didadv=0&pudnuggler=pop&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+mall.php?didadv=0&pudnuggler=pop&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0&PHPSESSID=sasvak616mjlddpai7g1pec894&start=10
+
+buy 1 Polka Pop for 3000 each from 1775888 on 20111218
+You acquire an item: Polka Pop
+
+Visiting Fudge Wand
+You acquire an effect: Polka Face (duration: 10 Adventures)
+
+[10891] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 522 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (10)
+You gain 15 Muscleboundness
+You gain a Muscle point!
+You gain 6 Mysteriousness
+You gain 6 Sarcasm
+
+[10892] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 532 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 7 Beefiness
+You gain 6 Magicalness
+You gain 8 Chutzpah
+
+[10893] Fudge Mountain
+Encounter: The Abominable Fudgeman
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: the abominable fudgeman takes 293 damage.
+Round 2: boolicious attacks!
+Round 3: the abominable fudgeman takes 295 damage.
+Round 3: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: heart of dark chocolate
+You gain 42 Muscleboundness
+You gain 26 Mysteriousness
+You gain 24 Chutzpah
+
+crimbo11.php?place=yourpresents
+crimbo11.php?place=tradeincandy
+crimbo11.php?pwd&action=tradecandy&howmany=1&whichitem=617
+crimbo11.php?pwd&action=tradecandy&howmany=43&whichitem=617
+crimbo11.php?pwd&action=tradecandy&howmany=3&whichitem=913
+crimbo11.php?pwd&action=tradecandy&howmany=1&whichitem=2942
+crimbo11.php?pwd&action=tradecandy&howmany=1&whichitem=3496
+
+Buy and eat 1 null for 0 Meat
+You gain 17 Adventures
+You acquire an effect: Castaway Physique (duration: 15 Adventures)
+You gain 5 Drunkenness
+You spent 100 Meat
+You lose some of an effect: Ode to Booze
+
+crimbo11.php?place=yourpresents
+crimbo11.php?place=tradeincandy
+crimbo11.php?pwd&action=tradecandy&howmany=1&whichitem=5402
+crimbo11.php?pwd&action=tradecandy&howmany=1&whichitem=3496
+crimbo11.php?pwd&action=tradecandy&howmany=1&whichitem=5416
+crimbo11.php?pwd&action=tradecandy&howmany=2&whichitem=3496
+crimbo11.php?place=buygifts
+
+crimbo11.php?place=buygifts
+crimbo11.php?place=tradeincandy
+crimbo11.php?place=tradeincandy
+crimbo11.php?pwd&action=tradecandy&howmany=1&whichitem=5477
+crimbo11.php?pwd&action=tradecandy&howmany=7&whichitem=5478
+crimbo11.php?pwd&action=tradecandy&howmany=10&whichitem=5455
+crimbo11.php?pwd&action=tradecandy&howmany=1&whichitem=3760
+crimbo11.php?pwd&action=tradecandy&howmany=2&whichitem=4152
+crimbo11.php?pwd&action=tradecandy&howmany=11&whichitem=2088
+crimbo11.php?pwd&action=tradecandy&howmany=5&whichitem=5477
+crimbo11.php?place=yourpresents
+crimbo11.php?place=buygifts
+crimbo11.php?pwd&action=buygifts&whichitem=5500
+crimbo11.php?pwd&action=buygifts&whichitem=5507
+crimbo11.php?pwd&action=reallybuygifts&whichitem=5507&howmany=1&towho=kansas_mac&contact=0
+crimbo11.php?pwd&action=buygifts&whichitem=5509
+crimbo11.php?pwd&action=reallybuygifts&whichitem=5509&howmany=1&towho=Griz+the+Deathbringer&contact=0
+crimbo11.php?pwd&action=buygifts&whichitem=5510
+crimbo11.php?pwd&action=reallybuygifts&whichitem=5510&howmany=1&towho=papacap&contact=0
+crimbo11.php?place=tradeincandy
+crimbo11.php?pwd&action=tradecandy&howmany=7&whichitem=4393
+crimbo11.php?pwd&action=tradecandy&howmany=5&whichitem=4463
+crimbo11.php?place=yourpresents
+crimbo11.php?place=yourpresents
+crimbo11.php?place=buygifts
+crimbo11.php?pwd&action=buygifts&whichitem=5506
+crimbo11.php?pwd&action=reallybuygifts&whichitem=5506&howmany=1&towho=Messiah87+Mark+2+&contact=0
+crimbo11.php?pwd&action=buygifts&whichitem=5505
+crimbo11.php?pwd&action=reallybuygifts&whichitem=5505&howmany=1&towho=rasoj&contact=0
+crimbo11.php?pwd&action=buygifts&whichitem=5505
+crimbo11.php?pwd&action=buygifts&whichitem=5505
+crimbo11.php?pwd&action=reallybuygifts&whichitem=5505&howmany=1&towho=Raist1in&contact=0
+crimbo11.php?pwd&action=buygifts&whichitem=5505
+crimbo11.php?pwd&action=reallybuygifts&whichitem=5505&howmany=1&towho=kruncho&contact=0
+
+buy 1 milky potion for 120 each from 537147 on 20111218
+You acquire an item: milky potion of detection
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+buy 1 fudge lily for 3600 each from 1774848 on 20111218
+You acquire an item: fudge lily
+
+use 1 fudge lily
+You acquire an effect: Stop and Smell the Fudge (duration: 20 Adventures)
+
+buy 1 fudgesicle for 5970 each from 1649738 on 20111218
+You acquire an item: fudgesicle
+
+[10894] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 674 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (6)
+You gain 11 Muscleboundness
+You gain 8 Wizardliness
+You gain 2 Roguishness
+
+[10895] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 674 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (7)
+You gain 11 Fortitude
+You gain 6 Wizardliness
+You gain 4 Smarm
+
+[10896] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 673 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (6)
+You gain 9 Muscleboundness
+You gain 9 Magicalness
+You gain 4 Roguishness
+
+eat 1 fudgesicle
+You gain 2 Adventures
+You acquire an effect: Fudge Headache (duration: 30 Adventures)
+You gain 1 Fullness
+
+buy 1 Private Pepper's Lonely Hearts Club Jacket for 270 each from 2118295 on 20111218
+You acquire an item: Private Pepper's Lonely Hearts Club Jacket
+
+[10897] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 662 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (16)
+You gain 13 Fortitude
+You gain 4 Enchantedness
+You gain 10 Chutzpah
+
+[10898] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 676 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (10)
+You gain 8 Fortitude
+You gain 6 Wizardliness
+You gain 7 Chutzpah
+
+[10899] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 642 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (20)
+You gain 25 Muscleboundness
+You gain 3 Wizardliness
+You gain 6 Chutzpah
+
+[10900] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 678 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (10)
+You gain 10 Strengthliness
+You gain 7 Magicalness
+You gain 5 Sarcasm
+
+[10901] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 672 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (12)
+You gain 13 Muscleboundness
+You gain 2 Wizardliness
+You gain 6 Smarm
+
+[10902] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 671 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (12)
+You gain 17 Beefiness
+You gain 3 Enchantedness
+You gain 2 Roguishness
+
+[10903] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 669 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (12)
+You gain 10 Beefiness
+You gain 7 Wizardliness
+You gain 4 Chutzpah
+
+[10904] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 670 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (10)
+You gain 8 Fortitude
+You gain 7 Magicalness
+You gain 6 Cheek
+
+[10905] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: fudge monkey takes 668 damage.
+Round 3: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (12)
+You gain 10 Strongness
+You gain 6 Enchantedness
+You gain 5 Cheek
