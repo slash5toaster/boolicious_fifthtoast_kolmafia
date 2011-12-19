@@ -7,7 +7,6 @@ lose_effect stop and smell the fudge => use 1 fudge lily
 
 [ fudgefinding ]
 lose_effect fudge headache => eat 1 fudgesicle
-lose_effect fudgehound => use 1 fluid of fudge-finding
 lose_effect object detection => use 1 potion of detection
 lose_effect stop and smell the fudge => use 1 fudge lily
 
