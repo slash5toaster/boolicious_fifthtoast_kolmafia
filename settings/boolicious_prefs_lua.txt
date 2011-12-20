@@ -28,7 +28,7 @@ RequestFrame=-3,-3,-1
 RequestSynchFrame=430,3,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
-StoreManageFrame=-3,-3,0
+StoreManageFrame=293,225,3
 TabbedChatFrame=524,78,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
@@ -38,7 +38,7 @@ _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
 _bagOfCandy=false
-_ballpit=false
+_ballpit=true
 _banderRunaways=0
 _benettonsCasts=0
 _bonersSummoned=false
@@ -100,7 +100,7 @@ _stressBallSqueezes=0
 _syntheticDogHairPillUsed=false
 _thingfinderCasts=0
 _timeHelmetAdv=0
-_toastSummons=0
+_toastSummons=3
 _tokenDrops=0
 _transponderDrops=0
 _userMods
@@ -204,7 +204,7 @@ blankOutUsed=0
 bootsCharged=false
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=false
+breakfastCompleted=true
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
@@ -566,19 +566,19 @@ choiceAdventure91=2
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=false
+concertVisited=true
 counterScript
 crimboTreeDays=7
 currentBountyItem=2409
-currentFullness=0
+currentFullness=1
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
 currentMojoFilters=0
-currentMood=fudgefinding
+currentMood=apathetic
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=1
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -669,7 +669,7 @@ lastBangPotion827=ettin strength
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=11
+lastBreakfast=12
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
@@ -716,7 +716,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=swarm of fudgewasps
+lastEncounter=fudge oyster
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -852,7 +852,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=10988\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -924,7 +924,7 @@ telescopeUpgrades=0
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=0
+tomeSummons=2
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
