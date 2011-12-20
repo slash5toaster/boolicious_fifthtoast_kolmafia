@@ -1104,3 +1104,650 @@ mallsell: 1 belemnite fossil, 2 trilobite fossil
 mallsell: 68 fudgecule, 5 superheated fudge
 
 manageprices.php?action=update&price5435=999999999&limit5435=0&price5403=9999999&limit5403=0&price5496=81990&limit5496=0&price5492=20000&limit5492=0&price2973=5600&limit2973=0&price2959=5500&limit2959=0&price2981=5400&limit2981=0&price5248=4600&limit5248=0&price5259=4000&limit5259=0&price5437=3290&limit5437=0&price258=2000&limit258=1&price196=1440&limit196=2&price5490=995&limit5490=0&price2452=969&limit2452=0&price2636=900&limit2636=0&price5489=895&limit5489=0&price703=790&limit703=0&price280=700&limit280=0&price5488=690&limit5488=0&price5087=600&limit5087=0&price594=410&limit594=0&price2687=400&limit2687=0&price129=400&limit129=0&price2633=365&limit2633=0&price1929=320&limit1929=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=289&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price615=248&limit615=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price356=222&limit356=0&price2984=220&limit2984=0&price355=220&limit355=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price1866=186&limit1866=0&price3844=184&limit3844=0&price1838=182&limit1838=0&price402=180&limit402=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price240=160&limit240=0&price218=155&limit218=0&price2613=155&limit2613=0&price2055=150&limit2055=0&price352=150&limit352=0&price1826=140&limit1826=0&price310=130&limit310=0&price475=130&limit475=0&price432=120&limit432=0&price431=120&limit431=0&price1655=120&limit1655=0&price1160=110&limit1160=0&price4958=110&limit4958=0&price449=100&limit449=0&price79=100&limit79=0&price120=100&limit120=0&price634=100&limit634=0&price565=100&limit565=0&price9=100&limit9=1&price166=100&limit166=0&price172=100&limit172=0&price123=100&limit123=0&price1750=100&limit1750=0&price1751=100&limit1751=0&price3=100&limit3=0&price4719=100&limit4719=0&price305=100&limit305=0&price38=100&limit38=0&price35=100&limit35=0&price36=100&limit36=0&price4718=100&limit4718=0&price5=100&limit5=0&price6=100&limit6=0&price1=100&limit1=0&price77=100&limit77=0&price119=100&limit119=0&price21=100&limit21=0&price136=100&limit136=0&price269=100&limit269=0
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+December 20, 2011 - Porktober 5
+
+Ronald: full moon
+Grimace: third quarter
+Mini-moon: in back, near Grimace
+
+Halloween: 3 days
+Feast of Boris: 10 days
+Festival of Jarlsberg: 12 days
+Yuletide: 15 days
+Valentine's Day: 31 days
+St. Sneaky Pete's Day: 38 days
+Oyster Egg Day: 45 days
+El Dia De Los Muertos Borrachos: 53 days
+Generic Summer Holiday: 62 days
+Dependence Day: 71 days
+Arrrbor Day: 79 days
+Lab&oacute;r Day: 89 days
+
+
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 23
+HP: 824 / 942
+MP: 572 / 572
+
+Mus: 605 (488), tnp = 731
+Mys: 363 (355), tnp = 510
+Mox: 365 (357), tnp = 16
+
+Advs: 120
+Meat: 402,114
+Drunk: 15
+
+
+ > equipment
+
+Hat: hardened slime hat
+Weapon: fouet de tortue-dressage
+Off-hand: eye of the Tiger-lily
+Shirt: Ultracolor™ shirt
+Pants: Galapagosian Cuisses
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: Zinc Delta of Tranquility
+Acc. 3: fudgecycle
+
+Pet: Peppermint Rhino (40 lbs)
+Item: Li'l Businessman Kit
+
+Sticker 1: scratch 'n' sniff wrestler sticker (0)
+Sticker 2: scratch 'n' sniff wrestler sticker (0)
+Sticker 3: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+1 of 3 AT buffs active.
+Object Detection
+Stop and Smell the Fudge (2)
+Fudge Headache (12)
+Earthen Fist (77)
+Jabañero Saucesphere (116)
+Jingle Jangle Jingle (116)
+Jalapeño Saucesphere (116)
+Reptilian Fortitude (116)
+Empathy (116)
+Tenacity of the Snapper (116)
+Astral Shell (116)
+Elemental Saucesphere (116)
+Scarysauce (191)
+♫ Polka of Plenty (216)
+20/20 Vision (245)
+Salamanderenity (469)
+Ghostly Shell (2,066)
+Retrograde Relaxation (3,759)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +85.00%
+Item: +141.90%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+use 1 Manual of Labor
+
+use 1 Chester's bag of candy
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+managestore.php?action=takeall&whichitem=5435
+You acquire fudgecule (68)
+
+buy 10 fudgecule for 100 each from 1754760 on 20111220
+You acquire fudgecule (10)
+
+buy 1 fudgecule for 100 each from 1332529 on 20111220
+You acquire an item: fudgecule
+
+buy 300 fudgecule for 150 each from 1028572 on 20111220
+You acquire fudgecule (300)
+
+add to closet: 200000 Meat
+
+add to closet: 100000 Meat
+
+Visiting Fudge Wand
+
+trading 343 fudgecules for 1 fudge cube
+You acquire an item: fudge cube
+
+Combine 1 fudge cube + 1 sucker scaffold
+You acquire an item: blank fudge mold
+Crafting used 1 each of sucker scaffold and fudge cube
+
+buy 330 fudgecule for 150 each from 1028572 on 20111220
+You acquire fudgecule (330)
+
+Visiting Fudge Wand
+
+trading 343 fudgecules for 1 fudge cube
+You acquire an item: fudge cube
+
+Combine 1 fudge cube + 1 sucker scaffold
+You acquire an item: blank fudge mold
+Crafting used 1 each of sucker scaffold and fudge cube
+
+Combine 1 really sticky spider web + 1 really sticky spider web
+You acquire an item: really really sticky spider web
+Crafting used 1 each of really sticky spider web and really sticky spider web
+
+Cook 7 cocoa eggshell fragment + 7 cocoa eggshell fragment
+You acquire large cocoa eggshell fragment (3)
+Crafting used 3 each of cocoa eggshell fragment and cocoa eggshell fragment
+
+Cook 3 large cocoa eggshell fragment + 3 large cocoa eggshell fragment
+You acquire an item: cocoa egg
+Crafting used 1 each of large cocoa eggshell fragment and large cocoa eggshell fragment
+
+Use 2 disassembled clover
+You acquire ten-leaf clover (2)
+
+Cook 1 ten-leaf clover + 1 cocoa egg
+You acquire an item: Lucky Surprise Egg
+Crafting used 1 each of ten-leaf clover and cocoa egg
+
+buy 1 large cocoa eggshell fragment for 428 each from 568688 on 20111220
+You acquire an item: large cocoa eggshell fragment
+
+cast 1 Summon Clip Art
+You acquire an item: cold-filtered water
+
+[11226] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 612 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (18)
+You gain 11 Muscleboundness
+You gain 9 Enchantedness
+You gain 9 Roguishness
+
+[11227] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 632 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (10)
+You gain 11 Beefiness
+You gain 7 Magicalness
+You gain 5 Smarm
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+[11228] The Gummi Mine (in Disguise)
+
+[11228] The Gummi Mine (in Disguise)
+
+[11228] The Gummi Mine (in Disguise)
+
+[11229] The Gummi Mine (in Disguise)
+
+[11230] The Gummi Mine (in Disguise)
+
+[11231] The Gummi Mine (in Disguise)
+You lose 889 hit points
+
+[11232] The Gummi Mine (in Disguise)
+You acquire an item: tourmalime
+
+[11233] The Gummi Mine (in Disguise)
+You lose 641 hit points
+
+[11234] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11235] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11236] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+You acquire an item: yellow gummi ingot
+You acquire an item: green gummi ingot
+
+[11237] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11240] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11241] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11242] The Gummi Mine (in Disguise)
+You acquire an item: bananagate
+
+[11243] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11244] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11245] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11246] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11247] The Gummi Mine (in Disguise)
+You acquire an item: tourmalime
+
+[11248] The Gummi Mine (in Disguise)
+You acquire an item: ammonite fossil
+
+[11249] The Gummi Mine (in Disguise)
+You lose 532 hit points
+
+[11250] The Gummi Mine (in Disguise)
+You lose 375 hit points
+
+[11251] The Gummi Mine (in Disguise)
+
+[11252] The Gummi Mine (in Disguise)
+
+[11253] The Gummi Mine (in Disguise)
+
+[11254] The Gummi Mine (in Disguise)
+
+[11254] The Gummi Mine (in Disguise)
+You acquire an item: pearidot
+
+[11255] The Gummi Mine (in Disguise)
+You acquire an item: strawberyl
+
+[11256] The Gummi Mine (in Disguise)
+You acquire an item: belemnite fossil
+
+[11257] The Gummi Mine (in Disguise)
+
+[11258] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11259] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11260] The Gummi Mine (in Disguise)
+You lose 587 hit points
+
+[11261] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11262] The Gummi Mine (in Disguise)
+You lose 516 hit points
+
+[11263] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11264] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11265] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11266] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11267] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11268] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11269] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11270] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11271] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11272] The Gummi Mine (in Disguise)
+
+[11273] The Gummi Mine (in Disguise)
+You lose 478 hit points
+
+[11274] The Gummi Mine (in Disguise)
+You lose 437 hit points
+
+[11275] The Gummi Mine (in Disguise)
+
+[11276] The Gummi Mine (in Disguise)
+
+[11277] The Gummi Mine (in Disguise)
+You acquire an item: kumquartz
+
+[11278] The Gummi Mine (in Disguise)
+
+[11279] The Gummi Mine (in Disguise)
+
+[11279] The Gummi Mine (in Disguise)
+You acquire an item: kumquartz
+
+[11280] The Gummi Mine (in Disguise)
+You acquire an item: kumquartz
+
+[11281] The Gummi Mine (in Disguise)
+
+[11282] The Gummi Mine (in Disguise)
+You acquire an item: bananagate
+
+[11283] The Gummi Mine (in Disguise)
+You acquire an item: ammonite fossil
+
+[11284] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11285] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11286] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11287] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11288] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11289] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11290] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11291] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11292] The Gummi Mine (in Disguise)
+You lose 829 hit points
+
+[11293] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11294] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11295] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11296] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11297] The Gummi Mine (in Disguise)
+You lose 859 hit points
+
+[11298] The Gummi Mine (in Disguise)
+You lose 505 hit points
+
+[11299] The Gummi Mine (in Disguise)
+You lose 542 hit points
+
+[11300] The Gummi Mine (in Disguise)
+
+[11301] The Gummi Mine (in Disguise)
+
+[11302] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 363 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (9)
+You gain 14 Beefiness
+You gain 9 Wizardliness
+You gain 5 Chutzpah
+You gain a Moxie point!
+
+Visiting Your Presents
+
+Visiting Uncle Crimbo
+
+Visiting Crimbo Town Toy Factory
+
+crimbo11.php?pwd&action=buygifts&whichitem=5502
+
+trading 1500 Candy Credits for 1 Trivial Avocations board game for kruncho
+
+crimbo11.php?pwd&action=buygifts&whichitem=5501
+
+trading 1000 Candy Credits for 1 Jackass Plumber home game for kruncho
+
+crimbo11.php?pwd&action=buygifts&whichitem=5505
+
+trading 100 Candy Credits for 1 pack of pogs for kruncho
+
+crimbo11.php?pwd&action=buygifts&whichitem=5500
+
+trading 500 Candy Credits for 1 Fuzzby for stethorel
+
+crimbo11.php?pwd&action=buygifts&whichitem=5505
+
+trading 100 Candy Credits for 1 pack of pogs for stethorel
+
+crimbo11.php?pwd&action=buygifts&whichitem=5500
+
+trading 500 Candy Credits for 1 Fuzzby for rasoj
+
+crimbo11.php?pwd&action=buygifts&whichitem=5501
+
+trading 1000 Candy Credits for 1 Jackass Plumber home game for rasoj
+
+crimbo11.php?pwd&action=buygifts&whichitem=5505
+
+trading 100 Candy Credits for 1 pack of pogs for rasoj
+
+crimbo11.php?pwd&action=buygifts&whichitem=5505
+
+trading 100 Candy Credits for 1 pack of pogs for greentiger
+
+Combine 1 blank fudge mold + 1 ammonite fossil
+You acquire an item: ammonite candy mold
+Crafting used 1 each of blank fudge mold and ammonite fossil
+
+Combine 1 blank fudge mold + 1 belemnite fossil
+You acquire an item: belemnite candy mold
+Crafting used 1 each of blank fudge mold and belemnite fossil
+
+Use 1 belemnite candy mold + 10 red gummi ingot + 10 green gummi ingot + 10 yellow gummi ingot
+You acquire an item: gummi belemnite
+
+mallsell: 13 red gummi ingot
+
+mallsell: 1 yellow gummi ingot
+
+cast 10 Worldpunch
+You acquire an effect: Earthen Fist (duration: 110 Adventures)
+
+[11303] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 586 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (12)
+You gain 14 Muscleboundness
+You gain 8 Wizardliness
+You gain 13 Roguishness
+
+[11304] The Gummi Mine (in Disguise)
+
+[11304] The Gummi Mine (in Disguise)
+You acquire an item: kumquartz
+
+[11305] The Gummi Mine (in Disguise)
+You acquire an item: trilobite fossil
+
+[11306] The Gummi Mine (in Disguise)
+You acquire an item: bananagate
+
+[11307] The Gummi Mine (in Disguise)
+You acquire an item: kumquartz
+
+[11308] The Gummi Mine (in Disguise)
+
+[11309] The Gummi Mine (in Disguise)
+
+[11310] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11311] The Gummi Mine (in Disguise)
+You lose 823 hit points
+
+[11312] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11313] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11314] The Gummi Mine (in Disguise)
+You lose 412 hit points
+
+[11315] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11316] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11317] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11318] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11319] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11320] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11321] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11322] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11323] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11324] The Gummi Mine (in Disguise)
+You lose 520 hit points
+
+[11325] The Gummi Mine (in Disguise)
+You lose 466 hit points
+
+[11326] The Gummi Mine (in Disguise)
+
+[11327] The Gummi Mine (in Disguise)
+
+[11328] The Gummi Mine (in Disguise)
+
+mallsell: 4 red gummi ingot, 4 yellow gummi ingot
+
+mallsell: 1 gummi belemnite, 1 gummi trilobite
+
+Use 1 trilobite candy mold + 10 red gummi ingot + 10 green gummi ingot + 10 yellow gummi ingot
+You acquire an item: gummi trilobite
+
+mallsell: 1 ammonite candy mold
+
+mallsell: 1 gummi trilobite
+
+manageprices.php?action=update&price5403=9999999&limit5403=0&price5494=85000&limit5494=0&price5496=84000&limit5496=0&price5492=30000&limit5492=0&price2973=5600&limit2973=0&price2959=5500&limit2959=0&price2981=5400&limit2981=0&price5248=4600&limit5248=0&price5259=4000&limit5259=0&price5456=2350&limit5456=0&price258=2000&limit258=1&price5454=2000&limit5454=0&price196=1440&limit196=2&price2452=969&limit2452=0&price2636=900&limit2636=0&price703=790&limit703=0&price280=700&limit280=0&price5087=600&limit5087=0&price594=410&limit594=0&price2687=400&limit2687=0&price129=400&limit129=0&price2633=365&limit2633=0&price1929=320&limit1929=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=289&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price615=248&limit615=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price356=222&limit356=0&price2984=220&limit2984=0&price355=220&limit355=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price1866=186&limit1866=0&price3844=184&limit3844=0&price1838=182&limit1838=0&price402=180&limit402=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price240=160&limit240=0&price218=155&limit218=0&price2613=155&limit2613=0&price2055=150&limit2055=0&price352=150&limit352=0&price1826=140&limit1826=0&price310=130&limit310=0&price475=130&limit475=0&price432=120&limit432=0&price431=120&limit431=0&price1655=120&limit1655=0&price1160=110&limit1160=0&price4958=110&limit4958=0&price449=100&limit449=0&price79=100&limit79=0&price120=100&limit120=0&price634=100&limit634=0&price565=100&limit565=0&price9=100&limit9=1&price166=100&limit166=0&price172=100&limit172=0&price123=100&limit123=0&price1750=100&limit1750=0&price1751=100&limit1751=0&price3=100&limit3=0&price4719=100&limit4719=0&price305=100&limit305=0&price38=100&limit38=0&price35=100&limit35=0&price36=100&limit36=0&price4718=100&limit4718=0&price5=100&limit5=0&price6=100&limit6=0&price1=100&limit1=0&price77=100&limit77=0&price119=100&limit119=0&price21=100&limit21=0&price136=100&limit136=0&price269=100&limit269=0
+
+mallsell: 1 ammonite fossil, 1 trilobite fossil
