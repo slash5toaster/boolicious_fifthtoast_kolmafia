@@ -59,7 +59,7 @@ _elronsCasts=0
 _feastUsed=0
 _feastedFamiliars
 _fingertrapArrows=0
-_fudgeWaspFights=1
+_fudgeWaspFights=0
 _gapBuffs=0
 _gibbererAdv=0
 _gongDrops=0
@@ -100,7 +100,7 @@ _stressBallSqueezes=0
 _syntheticDogHairPillUsed=false
 _thingfinderCasts=0
 _timeHelmetAdv=0
-_toastSummons=3
+_toastSummons=0
 _tokenDrops=0
 _transponderDrops=0
 _userMods
@@ -124,6 +124,7 @@ autoSteal=true
 autostartGalaktikQuest=true
 availableBoneChips=0
 availableCRIMBCOScrip=0
+availableCandyCredits=0
 availableCommendations=0
 availableCrimbux=0
 availableDimes=17
@@ -203,7 +204,7 @@ blankOutUsed=0
 bootsCharged=false
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=true
+breakfastCompleted=false
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
@@ -569,7 +570,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2409
-currentFullness=10
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -674,7 +675,7 @@ lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=11
+lastCounterDay=12
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=1
@@ -923,7 +924,7 @@ telescopeUpgrades=0
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=3
+tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
