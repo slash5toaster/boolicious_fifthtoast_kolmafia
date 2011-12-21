@@ -1,5 +1,5 @@
 =1
-AdventureFrame=2135,72,3
+AdventureFrame=2135,72,0
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=742,435
@@ -570,7 +570,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=14
+currentFullness=15
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -578,7 +578,7 @@ currentMojoFilters=0
 currentMood=fudgefinding
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=4
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
