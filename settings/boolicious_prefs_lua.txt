@@ -25,11 +25,11 @@ OptionsFrame=141,238,5
 ProfileFrame=422,616,-1
 RecentEventsFrame=474,284
 RequestFrame=-3,-3,-1
-RequestSynchFrame=430,3,-1
+RequestSynchFrame=3,3,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=-3,-3,0
-TabbedChatFrame=524,78,0
+TabbedChatFrame=524,78,3
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -59,7 +59,7 @@ _elronsCasts=0
 _feastUsed=0
 _feastedFamiliars
 _fingertrapArrows=0
-_fudgeWaspFights=1
+_fudgeWaspFights=3
 _gapBuffs=0
 _gibbererAdv=0
 _gongDrops=0
@@ -570,7 +570,7 @@ concertVisited=true
 counterScript
 crimboTreeDays=7
 currentBountyItem=2409
-currentFullness=14
+currentFullness=15
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -578,7 +578,7 @@ currentMojoFilters=0
 currentMood=fudgefinding
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=1
+currentSpleenUse=3
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -716,7 +716,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=fudge cube
+lastEncounter=fudge monkey
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
