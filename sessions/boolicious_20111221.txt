@@ -34,15 +34,15 @@ Name: boolicious
 Class: Turtle Tamer
 
 Lv: 23
-HP: 745 / 753
-MP: 559 / 559
+HP: 748 / 748
+MP: 572 / 572
 
-Mus: 499 (488), tnp = 270
-Mys: 355, tnp = 273
-Mox: 358, tnp = 465
+Mus: 496 (488), tnp = 174
+Mys: 363 (355), tnp = 235
+Mox: 456 (358), tnp = 424
 
-Advs: 88
-Meat: 279,929
+Advs: 72
+Meat: 284,449
 Drunk: 0
 
 
@@ -52,13 +52,13 @@ Hat: Big Candy's tophat
 Weapon: (none)
 Off-hand: (none)
 Shirt: General Sage's Lonely Diamonds Club Jacket
-Pants: Galapagosian Cuisses
+Pants: astral shorts
 
-Acc. 1: time halo
-Acc. 2: wristwatch of the white knight
+Acc. 1: Zinc Delta of Tranquility
+Acc. 2: Baron von Ratsworth's monocle
 Acc. 3: fudgecycle
 
-Pet: Peppermint Rhino (26 lbs)
+Pet: Peppermint Rhino (21 lbs)
 Item: Li'l Businessman Kit
 
 Sticker 1: scratch 'n' sniff wrestler sticker (0)
@@ -119,26 +119,25 @@ Gnome Trainer
  > effects
 
 1 of 3 AT buffs active.
-Object Detection (4)
-Stop and Smell the Fudge (14)
-Earthen Fist (58)
-Scarysauce (62)
-♫ Polka of Plenty (87)
-20/20 Vision (116)
-Salamanderenity (340)
-Ghostly Shell (1,937)
-Retrograde Relaxation (3,630)
+Rootin' Around (6)
+Earthen Fist (42)
+Scarysauce (46)
+♫ Polka of Plenty (71)
+20/20 Vision (100)
+Salamanderenity (324)
+Ghostly Shell (1,921)
+Retrograde Relaxation (3,614)
 
 
  > modifiers
 
 ML: +0
 Enc: +0.00%
-Init: +10.00%
+Init: +20.00%
 
 Exp: +0.00
 Meat: +85.00%
-Item: +95.82%
+Item: +99.99%
 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -146,285 +145,1632 @@ Item: +95.82%
 
 
 use 1 cheap toaster
-You acquire an item: toast
-
-use 1 cheap toaster
-You acquire an item: toast
-
-use 1 cheap toaster
-You acquire an item: toast
 Visiting Soda Machine in clan rumpus room
-You acquire an item: Marquis de Poivre soda
 Visiting Soda Machine in clan rumpus room
-You acquire an item: Marquis de Poivre soda
 Visiting Soda Machine in clan rumpus room
-You acquire an item: Marquis de Poivre soda
 Visiting Potted Meat Tree in clan rumpus room
-You gain 968 Meat
 
 use 1 Manual of Labor
 
 use 1 Chester's bag of candy
-You acquire marzipan skull (2)
-You acquire Tasty Fun Good rice candy (2)
-You acquire Yummy Tummy bean (2)
 
 pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
 
-buy 2 chewing gum on a string for 50 each from Market Demon
-You acquire chewing gum on a string (2)
-You spent 100 Meat
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
 
-add to closet: 1 worthless gewgaw
-
-use 2 chewing gum on a string
-You acquire an item: worthless trinket
+use 1 chewing gum on a string
 You acquire an item: worthless gewgaw
+outfit Knob Goblin Harem Girl Disguise
 
-take from closet: 1 worthless gewgaw
-You acquire an item: worthless gewgaw
+buy 1 fudgesicle for 4964 each from 1108143 on 20111221
+You acquire an item: fudgesicle
 
-trading 3 worthless items for 3 ten-leaf clovers
-You acquire ten-leaf clover (3)
+buy 1 milky potion for 120 each from 1801777 on 20111221
+You acquire an item: milky potion of detection
 
-Use 3 ten-leaf clover
-You acquire disassembled clover (3)
-You gain 4,282 Meat
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
 
-Visiting Uncle Crimbo
+buy 1 fudge lily for 2990 each from 1800043 on 20111221
+You acquire an item: fudge lily
 
-trading 1 fry-oil-flavored Hob-O for 25 Candy Credits
-You acquire 25 Candy Credits
+use 1 fudge lily
+You acquire an effect: Stop and Smell the Fudge (duration: 20 Adventures)
 
-trading 1 candy cane for 5 Candy Credits
-You acquire 5 Candy Credits
-You acquire an item: tiny plastic trollipop
+[11371] Cobb's Knob Treasury
+Encounter: Finally, the Payoff
+You gain 500 Meat
 
-[11355] Lollipop Forest
-Encounter: lolligator
-Round 0: boolicious wins initiative!
-Adjusted combat item count: paint bomb
-Round 1: boolicious attacks!
-Round 2: lolligator takes 117 damage.
-Round 2: boolicious wins the fight!
-After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
-You acquire an item: lollipop stick
-You gain 5 Strongness
-You gain 1 Mysteriousness
+equip hat Big Candy's tophat
 
-[11356] Lollipop Forest
-Encounter: Gingerbread Homestead
-Took choice 557/2: licorice root
-choice.php?pwd&whichchoice=557&option=2
-You acquire an item: licorice root
+equip pants astral shorts
 
-use 1 licorice root
-You acquire an effect: Rootin' Around (duration: 20 Adventures)
+eat 1 fudgesicle
+You gain 2 Adventures
+You acquire an effect: Fudge Headache (duration: 30 Adventures)
+You gain 1 Fullness
 
-[11357] Lollipop Forest
+[11372] Lollipop Forest
 Encounter: lolrus
 Round 0: boolicious wins initiative!
-Round 1: boolicious attacks!
-Round 2: lolrus takes 82 damage.
-Round 2: boolicious wins the fight!
-After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
-You acquire an item: lollipop stick
-You gain 5 Strongness
-You gain 4 Wizardliness
-You gain 6 Roguishness
-
-[11358] Lollipop Forest
-Encounter: lolligator
-Round 0: boolicious wins initiative!
-Round 1: boolicious attacks!
-Round 2: lolligator takes 116 damage.
-Round 2: boolicious wins the fight!
-After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
-You gain 4 Fortitude
-You gain 2 Wizardliness
-
-[11359] Lollipop Forest
-Encounter: Gingerbread Homestead
-Took choice 557/1: get candies
-choice.php?pwd&whichchoice=557&option=1
-You acquire an item: Comet Drop
-You acquire an item: Senior Mints
-You acquire an item: tamarind-flavored chewing gum
-You acquire an item: lime-and-chile-flavored chewing gum
-
-[11360] Lollipop Forest
-Encounter: lolligator
-Round 0: boolicious wins initiative!
-Round 1: boolicious attacks!
-Round 2: lolligator takes 117 damage.
-Round 2: boolicious wins the fight!
-After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
-You gain 4 Fortitude
-You gain 2 Roguishness
-
-[11361] Lollipop Forest
-Encounter: lolliphaunt
-Round 0: boolicious wins initiative!
-Round 1: boolicious attacks!
-Round 2: lolliphaunt takes 100 damage.
-Round 2: boolicious wins the fight!
-After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
-You acquire an item: lollipop stick
-You gain 5 Fortitude
-You gain 4 Wizardliness
-You gain 2 Smarm
-
-[11362] Lollipop Forest
-Encounter: lollipede
-Round 0: boolicious wins initiative!
-Round 1: boolicious attacks!
-Round 2: lollipede takes 117 damage.
-Round 2: boolicious wins the fight!
-After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
-You gain 2 Beefiness
-You gain 4 Chutzpah
-
-[11363] Lollipop Forest
-Encounter: lollicat
-Round 0: boolicious wins initiative!
-Round 1: boolicious attacks!
-Round 2: lollicat takes 117 damage.
-Round 2: boolicious wins the fight!
-After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
-You gain 4 Strongness
-You gain 2 Magicalness
-
-[11364] Lollipop Forest
-Encounter: lolrus
-Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
 Round 1: boolicious attacks!
 Round 2: lolrus takes 81 damage.
 Round 2: boolicious wins the fight!
 After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
 You acquire an item: lollipop stick
 You acquire an item: lollipop stick
-You gain 9 Strengthliness
-You gain 2 Enchantedness
-You gain 4 Roguishness
+You gain 9 Strongness
+You gain 4 Magicalness
+You gain 3 Smarm
 
-equip acc1 Zinc Delta of Tranquility
+[11373] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 117 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 4 Strongness
+You gain 2 Magicalness
 
-equip acc2 Baron von Ratsworth's monocle
+[11374] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/2: licorice root
+choice.php?pwd&whichchoice=557&option=2&choiceform2=Explore+the+cellar
+You acquire an item: licorice root
 
-equip pants astral shorts
+[11375] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 117 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 5 Strongness
+You gain 1 Cheek
 
-[11365] Lollipop Forest
+[11376] Lollipop Forest
 Encounter: lolliphaunt
 Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 99 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 7 Muscleboundness
+You gain 5 Chutzpah
+
+[11377] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/2: licorice root
+choice.php?pwd&whichchoice=557&option=2&choiceform2=Explore+the+cellar
+You acquire an item: licorice root
+
+use 1 licorice root
+You acquire an effect: Rootin' Around (duration: 20 Adventures)
+
+[11378] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
 Round 1: boolicious attacks!
 Round 2: lolliphaunt takes 99 damage.
 Round 2: boolicious wins the fight!
 After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
 You acquire an item: lollipop stick
-You gain 7 Beefiness
-You gain 2 Mysteriousness
-You gain 2 Cheek
+You acquire an item: kumquartz
+You gain 7 Fortitude
+You gain 2 Wizardliness
+You gain 2 Sarcasm
 
-[11366] Lollipop Forest
-Encounter: lolligator
+[11379] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/2: licorice root
+choice.php?whichchoice=557&option=2&pwd
+You acquire an item: licorice root
+
+buy 1 milky potion for 120 each from 196620 on 20111221
+You acquire an item: milky potion of detection
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+[11380] Lollipop Forest
+Encounter: lollicat
 Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
 Round 1: boolicious attacks!
-Round 2: lolligator takes 117 damage.
+Round 2: lollicat takes 116 damage.
 Round 2: boolicious wins the fight!
 After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
-You acquire an item: lollipop stick
-You gain 3 Strengthliness
-You gain 2 Mysteriousness
-You gain 1 Sarcasm
+You gain 5 Muscleboundness
+You gain 1 Smarm
 
-Combine 5 lollipop stick + 5 kumquartz
-You acquire kumquat supersucker (5)
-Crafting used 5 each of lollipop stick and kumquartz
+[11381] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/2: licorice root
+choice.php?whichchoice=557&option=2&pwd
+You acquire an item: licorice root
 
-Combine 5 lollipop stick + 5 bananagate
-You acquire banana supersucker (5)
-Crafting used 5 each of lollipop stick and bananagate
-
-Create 100 meat paste
-You acquire meat paste (100)
-You lose 1,000 Meat
-
-Visiting Your Presents
-
-Visiting Uncle Crimbo
-
-Visiting Crimbo Town Toy Factory
-
-trading 30 Candy Credits for 1 bottle of bubbles for Seraphony
-
-trading 30 Candy Credits for 1 bottle of bubbles for Hrothgar King of the Danes
-
-trading 30 Candy Credits for 1 bottle of bubbles for Insert Offensive Name Here
-
-trading 30 Candy Credits for 1 Uncle Greenspan's Bathroom Finance Guide for Esiotrot
-
-trading 30 Candy Credits for 1 bottle of bubbles for Loree
-
-trading 30 Candy Credits for 1 bottle of bubbles for Loree, magic miss ile, Rotund, Nanoshell, Esiotrot, Insert Offensive Name Here, boolicious, Lurcherino, Griz the Deathbringer
-
-trading 30 Candy Credits for 1 bottle of bubbles for magic miss ile
-
-trading 30 Candy Credits for 1 bottle of bubbles for Lurcherino
-
-trading 30 Candy Credits for 1 bottle of bubbles for Rotund
-
-[11367] Fudge Mountain
-Encounter: fudge vulture
+[11382] Lollipop Forest
+Encounter: lolligator
 Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
 Round 1: boolicious attacks!
-Round 2: fudge vulture takes 62 damage.
+Round 2: lolligator takes 118 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 2 Beefiness
+You gain 3 Wizardliness
+You gain 1 Chutzpah
+
+[11383] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 81 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 8 Fortitude
+You gain 7 Wizardliness
+You gain 1 Cheek
+
+[11384] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 97 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 4 Fortitude
+You gain 3 Wizardliness
+You gain 4 Cheek
+
+[11385] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 116 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 4 Strongness
+You gain 2 Smarm
+
+[11386] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/2: licorice root
+choice.php?whichchoice=557&option=2&pwd
+You acquire an item: licorice root
+
+[11387] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 1 hit point
 Round 2: boolicious attacks!
-Round 3: fudge vulture takes 62 damage.
+Round 3: lollipede takes 118 damage.
 Round 3: boolicious wins the fight!
 After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
-You acquire an item: fudgecule (8)
-You gain 16 Strongness
-You gain 4 Wizardliness
-You gain 2 Cheek
+You gain 3 Strengthliness
+You gain 1 Wizardliness
+You gain 2 Smarm
 
-[11368] Fudge Mountain
+[11388] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 40 damage.
+Round 2: boolicious attacks!
+Round 3: fudge oyster takes 40 damage.
+Round 3: boolicious attacks!
+Round 4: fudge oyster takes 40 damage.
+Round 4: boolicious attacks!
+Round 5: fudge oyster takes 40 damage.
+Round 5: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (16)
+You gain 13 Fortitude
+You gain 3 Enchantedness
+You gain 10 Roguishness
+
+[11389] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 62 damage.
+Round 2: boolicious attacks!
+Round 3: fudge monkey takes 62 damage.
+Round 3: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (12)
+You gain 5 Fortitude
+You gain 6 Wizardliness
+You gain 9 Cheek
+
+buy 1 milky potion for 269 each from 1786754 on 20111221
+You acquire an item: milky potion of detection
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+[11390] Fudge Mountain
 Encounter: fudge vulture
 Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
 Round 1: boolicious attacks!
 Round 2: fudge vulture takes 63 damage.
 Round 2: boolicious attacks!
 Round 3: fudge vulture takes 63 damage.
 Round 3: boolicious wins the fight!
+Your familiar gains a pound: patty, the 17 lb. Peppermint Rhino
 After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
-You acquire an item: fudgecule (6)
-You gain 10 Muscleboundness
-You gain 4 Wizardliness
-You gain 7 Cheek
+You acquire an item: fudgecule (12)
+You gain 10 Strengthliness
+You gain 7 Wizardliness
+You gain 5 Chutzpah
 
-[11369] Fudge Mountain
+[11391] Fudge Mountain
 Encounter: fudge weasel
 Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
 Round 1: boolicious attacks!
-Round 2: fudge weasel takes 65 damage.
+Round 2: fudge weasel takes 63 damage.
 Round 2: boolicious attacks!
-Round 3: fudge weasel takes 65 damage.
+Round 3: fudge weasel takes 63 damage.
 Round 3: boolicious wins the fight!
 After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
-You acquire an item: fudgecule (5)
-You gain 8 Fortitude
-You gain 8 Mysteriousness
-You gain 6 Roguishness
+You acquire an item: fudgecule (11)
+You gain 10 Strongness
+You gain 2 Mysteriousness
+You gain 9 Roguishness
 
-[11370] Fudge Mountain
+[11392] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: fudge monkey takes 64 damage.
+Round 3: boolicious attacks!
+Round 4: fudge monkey takes 64 damage.
+Round 4: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (9)
+You gain 14 Muscleboundness
+You gain 4 Wizardliness
+You gain 5 Smarm
+
+[11393] Fudge Mountain
 Encounter: fudge vulture
 Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
 Round 1: boolicious attacks!
-Round 2: fudge vulture takes 61 damage.
+Round 2: fudge vulture takes 60 damage.
 Round 2: boolicious attacks!
 Round 3: fudge vulture takes 61 damage.
 Round 3: boolicious wins the fight!
 After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
-You acquire an item: fudgecule (6)
-You gain 14 Muscleboundness
+You acquire an item: fudgecule (11)
+You gain 15 Beefiness
+You gain 3 Enchantedness
+You gain 4 Sarcasm
+
+[11394] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 25 damage.
+Round 2: boolicious attacks!
+Round 3: fudge poodle takes 25 damage.
+Round 3: boolicious attacks!
+Round 4: fudge poodle takes 25 damage.
+Round 4: boolicious attacks!
+Round 5: fudge poodle takes 25 damage.
+Round 5: boolicious attacks!
+Round 6: fudge poodle takes 25 damage.
+Round 6: boolicious attacks!
+Round 7: fudge poodle takes 25 damage.
+Round 7: boolicious attacks!
+Round 8: fudge poodle takes 25 damage.
+Round 8: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (21)
+You gain 10 Strongness
+You gain 13 Mysteriousness
+You gain 8 Sarcasm
+
+[11395] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: fudge poodle takes 27 damage.
+Round 3: boolicious attacks!
+Round 4: fudge poodle takes 27 damage.
+Round 4: boolicious attacks!
+Round 5: fudge poodle takes 27 damage.
+Round 5: boolicious attacks!
+Round 6: fudge poodle takes 27 damage.
+Round 6: boolicious attacks!
+Round 7: fudge poodle takes 27 damage.
+Round 7: boolicious attacks!
+Round 8: fudge poodle takes 27 damage.
+Round 8: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (18)
+You gain 17 Beefiness
+You gain 8 Wizardliness
+You gain 7 Cheek
+
+[11396] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 45 damage.
+Round 2: boolicious attacks!
+Round 3: fudge oyster takes 46 damage.
+Round 3: boolicious attacks!
+Round 4: fudge oyster takes 46 damage.
+Round 4: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (14)
+You gain 17 Strengthliness
+You gain 8 Magicalness
+You gain 2 Chutzpah
+
+use 1 licorice root
+You acquire an effect: Rootin' Around (duration: 20 Adventures)
+
+[11397] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 45 damage.
+Round 2: boolicious attacks!
+Round 3: fudge oyster takes 45 damage.
+Round 3: boolicious attacks!
+Round 4: fudge oyster takes 45 damage.
+Round 4: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (14)
+You gain 17 Muscleboundness
+You gain a Muscle point!
+You gain 5 Mysteriousness
+You gain 4 Chutzpah
+
+use 1 Fudgie Roll
+You gain 16 Beefiness
+You gain 15 Enchantedness
+You gain 10 Chutzpah
+You acquire an effect: Sugar Rush (duration: 20 Adventures)
+
+[11398] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 123 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 4 Fortitude
+You gain 1 Sarcasm
+
+[11399] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 123 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 2 Strongness
+You gain 1 Mysteriousness
+You gain 3 Roguishness
+
+[11400] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 87 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 8 Fortitude
+You gain 6 Magicalness
+You gain 2 Chutzpah
+
+game.php?mainpane=messages
+
+send a kmail to 1889009: 6436 Meat
+
+[11401] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 114 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: lollipop stick
+You gain 6 Strengthliness
+You gain 4 Mysteriousness
+
+[11402] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts DRUNKEN BABY STYLE!
+Round 2: lolligator takes 82 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: lollipop stick
+You gain 4 Beefiness
+You gain 2 Wizardliness
+
+[11403] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the spectre scepter!
+Round 2: lolrus takes 9 damage.
+Round 2: boolicious uses the spectre scepter!
+Round 3: lolrus takes 10 damage.
+Round 3: boolicious uses the spectre scepter!
+Round 4: lolrus takes 10 damage.
+Round 4: boolicious uses the spectre scepter!
+You gain 4 hit points
+Round 5: boolicious uses the spectre scepter!
+You gain 5 hit points
+Round 6: boolicious uses the spectre scepter!
+You gain 4 hit points
+Round 7: boolicious uses the spectre scepter!
+Round 8: lolrus drops 3 attack power.
+Round 8: lolrus drops 1 defense.
+Round 8: boolicious uses the spectre scepter!
+Round 9: lolrus takes 9 damage.
+Round 9: boolicious uses the spectre scepter!
+Round 10: lolrus takes 8 damage.
+Round 10: lolrus takes 2 damage.
+Round 10: lolrus takes 10 damage.
+Round 10: lolrus takes 3 damage.
+You lose 1 hit point
+Round 10: boolicious uses the Gnomitronic Hyperspatial Demodulizer!
+Round 11: lolrus takes 8 damage.
+You acquire an effect: Super-Charged (duration: 5 Adventures)
+Round 11: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 8 Beefiness
+You gain 6 Magicalness
+You gain 2 Roguishness
+
+[11404] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 137 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 3 Muscleboundness
+You gain 2 Mysteriousness
+You gain 1 Smarm
+
+[11405] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/1: get candies
+choice.php?pwd&whichchoice=557&option=1
+You acquire an item: white chocolate chips
+You acquire an item: Cold Hots candy
+You acquire an item: Cold Hots candy
+You acquire an item: alphabet gum
+You acquire an item: Daffy Taffy
+
+[11406] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 137 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 2 Strongness
+You gain 2 Mysteriousness
+You gain 2 Chutzpah
+
+[11407] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the spectre scepter!
+Round 2: lolligator takes 10 damage.
+Round 2: boolicious uses the spectre scepter!
+You gain 4 hit points
+Round 3: boolicious uses the spectre scepter!
+You gain 4 hit points
+Round 4: boolicious uses the spectre scepter!
+Round 5: lolligator takes 8 damage.
+Round 5: boolicious uses the spectre scepter!
+Round 6: lolligator takes 9 damage.
+Round 6: boolicious uses the Gnomitronic Hyperspatial Demodulizer!
+Round 7: boolicious attacks!
+Round 8: lolligator takes 136 damage.
+Round 8: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: lollipop stick
+You gain 4 Muscleboundness
+You gain 2 Cheek
+
+[11408] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 137 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: lollipop stick
+You gain 5 Strongness
+You gain 1 Cheek
+
+[11409] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/1: get candies
+choice.php?pwd&whichchoice=557&option=1
+You acquire an item: pickle-flavored chewing gum
+You acquire an item: chocolate filthy lucre
+You acquire an item: Rock Pops
+You acquire an item: Senior Mints
+You acquire an item: jabañero-flavored chewing gum
+
+[11410] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 112 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: lollipop stick
+You gain 7 Fortitude
+You gain 1 Enchantedness
+You gain 3 Sarcasm
+
+[11411] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 95 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 9 Strongness
 You gain 3 Mysteriousness
+You gain 4 Cheek
+
+[11412] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 130 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 3 Muscleboundness
+You gain 2 Wizardliness
+You gain 1 Roguishness
+
+[11413] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: lollicat takes 131 damage.
+Round 3: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: lollipop stick
+You gain 4 Strengthliness
+You gain 2 Chutzpah
+
+[11414] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/1: get candies
+choice.php?pwd&whichchoice=557&option=1
+You acquire an item: chocolate filthy lucre
+You acquire an item: Daffy Taffy
+You acquire an item: crazy little Turkish delight
+You acquire an item: Steal This Candy
+You acquire an item: Rock Pops
+
+eat 1 crazy little Turkish delight
+You gain 2 Adventures
+You gain 37 Mysteriousness
+You gain 1 Fullness
+
+[11415] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/3: skip adventure or make a lollipop stick item
+choice.php?pwd&whichchoice=557&option=3
+Encounter: Tool Time
+Encounter: Tool Time
+Took choice 558/5: sucker scaffold
+choice.php?whichchoice=558&option=5&pwd
+You acquire an item: sucker scaffold
+Took choice 558/6: skip adventure
+choice.php?pwd&whichchoice=558&option=6
+
+mall.php?didadv=0&pudnuggler=sucker&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=330&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+
+[11416] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 131 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 2 Fortitude
+You gain 3 Mysteriousness
+You gain 1 Cheek
+
+[11417] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 131 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: lollipop stick
+You gain 3 Strengthliness
+You gain 1 Enchantedness
+You gain 2 Sarcasm
+
+[11418] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 124 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: lollipop stick
+You gain 4 Strongness
+You gain 1 Wizardliness
+
+[11419] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: lolligator takes 125 damage.
+Round 3: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 3 Beefiness
+You gain 2 Wizardliness
+You gain 1 Cheek
+
+mall.php?didadv=0&pudnuggler=clover&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=330&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+
+buy 1 ten-leaf clover for 200 each from 710999 on 20111221
+You acquire an item: ten-leaf clover
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+mall.php?didadv=0&pudnuggler=clover&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=330&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+
+mallsell: 1 sucker scaffold
+
+mallsell: 30 Tasty Fun Good rice candy
+
+manageprices.php?action=update&price5403=9999999&limit5403=0&price2973=5600&limit2973=0&price2959=5500&limit2959=0&price2981=5400&limit2981=0&price5248=4600&limit5248=0&price5259=4000&limit5259=0&price258=2000&limit258=1&price5430=2000&limit5430=0&price5488=1700&limit5488=0&price5489=1500&limit5489=0&price540=1500&limit540=0&price196=1440&limit196=2&price2452=969&limit2452=0&price2636=900&limit2636=0&price703=790&limit703=0&price280=700&limit280=0&price5087=600&limit5087=0&price594=410&limit594=0&price2687=400&limit2687=0&price129=400&limit129=0&price2633=365&limit2633=0&price1929=320&limit1929=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=289&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price615=248&limit615=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price356=222&limit356=0&price2984=220&limit2984=0&price355=220&limit355=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price1866=186&limit1866=0&price3844=184&limit3844=0&price1838=182&limit1838=0&price402=180&limit402=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price240=160&limit240=0&price218=155&limit218=0&price2613=155&limit2613=0&price2055=150&limit2055=0&price352=150&limit352=0&price1826=140&limit1826=0&price475=130&limit475=0&price432=120&limit432=0&price431=120&limit431=0&price1655=120&limit1655=0&price1160=110&limit1160=0&price449=100&limit449=0&price79=100&limit79=0&price120=100&limit120=0&price634=100&limit634=0&price565=100&limit565=0&price9=100&limit9=1&price166=100&limit166=0&price172=100&limit172=0&price123=100&limit123=0&price1750=100&limit1750=0&price1751=100&limit1751=0&price3=100&limit3=0&price4719=100&limit4719=0&price305=100&limit305=0&price38=100&limit38=0&price35=100&limit35=0&price36=100&limit36=0&price4718=100&limit4718=0&price5=100&limit5=0&price6=100&limit6=0&price1=100&limit1=0&price77=100&limit77=0&price119=100&limit119=0&price21=100&limit21=0&price136=100&limit136=0&price269=100&limit269=0
+manageprices.php?action=update&price5403=9999999&limit5403=0&price2973=5600&limit2973=0&price2959=5500&limit2959=0&price2981=5400&limit2981=0&price5248=4600&limit5248=0&price5259=4000&limit5259=0&price258=2000&limit258=1&price5430=2000&limit5430=0&price5488=1700&limit5488=0&price196=1440&limit196=2&price2452=800&limit2452=0&price2636=775&limit2636=0&price594=410&limit594=0&price2687=400&limit2687=0&price129=400&limit129=0&price5087=390&limit5087=0&price540=380&limit540=0&price2633=365&limit2633=0&price1929=320&limit1929=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=289&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price703=250&limit703=0&price615=248&limit615=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price356=222&limit356=0&price2984=220&limit2984=0&price355=220&limit355=0&price5489=200&limit5489=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price1866=186&limit1866=0&price3844=184&limit3844=0&price1838=182&limit1838=0&price402=180&limit402=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price240=160&limit240=0&price218=155&limit218=0&price2613=155&limit2613=0&price2055=150&limit2055=0&price352=150&limit352=0&price280=150&limit280=0&price1826=140&limit1826=0&price475=130&limit475=0&price432=120&limit432=0&price431=120&limit431=0&price1655=120&limit1655=0&price1160=110&limit1160=0&price449=100&limit449=0&price79=100&limit79=0&price120=100&limit120=0&price634=100&limit634=0&price565=100&limit565=0&price9=100&limit9=1&price166=100&limit166=0&price172=100&limit172=0&price123=100&limit123=0&price1750=100&limit1750=0&price1751=100&limit1751=0&price3=100&limit3=0&price4719=100&limit4719=0&price305=100&limit305=0&price38=100&limit38=0&price35=100&limit35=0&price36=100&limit36=0&price4718=100&limit4718=0&price5=100&limit5=0&price6=100&limit6=0&price1=100&limit1=0&price77=100&limit77=0&price119=100&limit119=0&price21=100&limit21=0&price136=100&limit136=0&price269=100&limit269=0
+manageprices.php?action=update&price5403=9999999&limit5403=0&price2973=5600&limit2973=0&price2959=5500&limit2959=0&price2981=5400&limit2981=0&price5248=4600&limit5248=0&price5259=4000&limit5259=0&price258=2000&limit258=1&price5488=1700&limit5488=0&price196=1440&limit196=2&price2452=800&limit2452=0&price2636=775&limit2636=0&price594=410&limit594=0&price2687=400&limit2687=0&price129=400&limit129=0&price5087=390&limit5087=0&price540=380&limit540=0&price2633=365&limit2633=0&price1929=320&limit1929=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=289&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price703=250&limit703=0&price615=248&limit615=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price356=222&limit356=0&price2984=220&limit2984=0&price355=220&limit355=0&price5489=200&limit5489=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price1866=186&limit1866=0&price3844=184&limit3844=0&price1838=182&limit1838=0&price402=180&limit402=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price240=160&limit240=0&price218=155&limit218=0&price2613=155&limit2613=0&price2055=150&limit2055=0&price352=150&limit352=0&price280=150&limit280=0&price1826=140&limit1826=0&price475=130&limit475=0&price432=120&limit432=0&price431=120&limit431=0&price1655=120&limit1655=0&price1160=110&limit1160=0&price449=100&limit449=0&price79=100&limit79=0&price120=100&limit120=0&price634=100&limit634=0&price565=100&limit565=0&price9=100&limit9=1&price166=100&limit166=0&price172=100&limit172=0&price123=100&limit123=0&price1750=100&limit1750=0&price1751=100&limit1751=0&price3=100&limit3=0&price4719=100&limit4719=0&price305=100&limit305=0&price38=100&limit38=0&price35=100&limit35=0&price36=100&limit36=0&price4718=100&limit4718=0&price5=100&limit5=0&price6=100&limit6=0&price1=100&limit1=0&price77=100&limit77=0&price119=100&limit119=0&price21=100&limit21=0&price136=100&limit136=0&price269=100&limit269=0
+
+[11420] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 108 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 4 Fortitude
+You gain 4 Mysteriousness
+You gain 3 Smarm
+
+[11421] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 125 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 5 Muscleboundness
+
+[11422] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 89 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: lollipop stick
+You acquire an item: strawberyl
+You gain 8 Beefiness
+You gain 4 Enchantedness
+You gain 4 Chutzpah
+
+use 1 all-year sucker
+You acquire an effect: Gonna Get You, Sucker (duration: 10 Adventures)
+
+[11423] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 69 damage.
+Round 2: boolicious attacks!
+Round 3: fudge monkey takes 70 damage.
+Round 3: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (6)
+You gain 13 Muscleboundness
+You gain 4 Mysteriousness
+You gain 5 Chutzpah
+
+Visiting Your Presents
+
+Visiting Crimbo Town Toy Factory
+
+trading 500 Candy Credits for 1 Fuzzby for Kansas_Mac
+
+trading 30 Candy Credits for 1 Uncle Greenspan's Bathroom Finance Guide for Kansas_Mac
+
+Buy and eat 1 null for 0 Meat
+You gain 12 Adventures
+You acquire an effect: Jerky, Boy (duration: 15 Adventures)
+You gain 5 Drunkenness
+You spent 100 Meat
+
+Buy and eat 1 null for 0 Meat
+You gain 13 Adventures
+You acquire an effect: Healthy, Elfy, and Wise (duration: 30 Adventures)
+You gain 5 Fullness
+You spent 100 Meat
+
+Combine 2 bananagate + 2 lollipop stick
+You acquire banana supersucker (2)
+Crafting used 2 each of lollipop stick and bananagate
+
+Combine 2 kumquartz + 2 lollipop stick
+You acquire kumquat supersucker (2)
+Crafting used 2 each of lollipop stick and kumquartz
+
+Combine 2 tourmalime + 2 lollipop stick
+You acquire lime supersucker (2)
+Crafting used 2 each of lollipop stick and tourmalime
+
+Combine 2 pearidot + 2 lollipop stick
+You acquire pear supersucker (2)
+Crafting used 2 each of lollipop stick and pearidot
+
+Combine 2 strawberyl + 2 lollipop stick
+You acquire strawberry supersucker (2)
+Crafting used 2 each of lollipop stick and strawberyl
+
+[11424] The Gummi Mine (in Disguise)
+
+cast 15 Worldpunch
+You acquire an effect: Earthen Fist (duration: 165 Adventures)
+Jumping into Awesome Ball Pit in clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+postwarisland.php?place=concert
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+
+[11424] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 210 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 13 Muscleboundness
+You gain 4 Magicalness
+You gain 6 Smarm
+
+[11425] Fudge Mountain
+Encounter: Fudge Mountain Breakdown
+Took choice 559/1: fudge lily
+choice.php?pwd&whichchoice=559&option=1
+You acquire an item: fudge lily
+
+[11426] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: fudge oyster takes 189 damage.
+Round 3: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (9)
+You gain 17 Strongness
+You gain 4 Magicalness
+You gain 6 Chutzpah
+
+[11427] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts DRUNKEN BABY STYLE!
+Round 2: fudge weasel takes 107 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 14 Strongness
+You gain 5 Magicalness
+You gain 3 Cheek
+
+[11428] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts DRUNKEN BABY STYLE!
+Round 2: fudge oyster takes 108 damage.
+Round 2: boolicious executes a macro!
+
+[11428] Fudge Mountain
+Round 2: boolicious attacks!
+Round 3: fudge oyster takes 189 damage.
+Round 3: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (8)
+You gain 11 Muscleboundness
+You gain 6 Magicalness
+You gain 10 Sarcasm
+
+buy 1 milky potion for 269 each from 1786754 on 20111221
+You acquire an item: milky potion of detection
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+use 1 licorice root
+You acquire an effect: Rootin' Around (duration: 20 Adventures)
+
+[11429] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 209 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 10 Muscleboundness
+You gain 7 Mysteriousness
 You gain 5 Smarm
+
+[11430] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 211 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: patty, the 18 lb. Peppermint Rhino
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 11 Fortitude
+You gain 7 Mysteriousness
+You gain 4 Roguishness
+
+[11431] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 170 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (12)
+You gain 16 Fortitude
+You gain 8 Wizardliness
+You gain 7 Cheek
+
+[11432] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 207 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 14 Beefiness
+You gain 7 Enchantedness
+You gain 1 Sarcasm
+
+[11433] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 201 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 11 Beefiness
+You gain 4 Wizardliness
+You gain 6 Roguishness
+
+[11434] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 205 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 15 Strengthliness
+You gain 4 Enchantedness
+You gain a Mysticality point!
+You gain 2 Roguishness
+
+[11435] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 183 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (9)
+You gain 17 Strengthliness
+You gain 4 Mysteriousness
+You gain 6 Roguishness
+
+[11436] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 205 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (6)
+You gain 9 Muscleboundness
+You gain 8 Wizardliness
+You gain 4 Cheek
+
+[11437] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 169 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (11)
+You gain 14 Beefiness
+You gain 10 Mysteriousness
+You gain 9 Chutzpah
+
+buy 1 milky potion for 269 each from 1786754 on 20111221
+You acquire an item: milky potion of detection
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+[11438] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 201 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 11 Fortitude
+You gain 4 Wizardliness
+You gain 6 Roguishness
+
+[11439] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 207 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (6)
+You gain 10 Fortitude
+You gain 5 Mysteriousness
+You gain 5 Chutzpah
+
+[11440] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 206 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 17 Muscleboundness
+You gain 3 Mysteriousness
+You gain 3 Roguishness
+
+[11441] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 205 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (6)
+You gain 15 Strongness
+You gain 3 Magicalness
+You gain 4 Cheek
+
+[11442] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 186 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (8)
+You gain 13 Strengthliness
+You gain 5 Magicalness
+You gain 9 Cheek
+Round 0: boolicious attacks!
+
+[11443] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 188 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (8)
+You gain 9 Muscleboundness
+You gain 15 Wizardliness
+You gain 3 Sarcasm
+
+[11444] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 71 damage.
+Round 2: boolicious casts DRUNKEN BABY STYLE!
+
+cast 1 Summon Clip Art
+You acquire an item: bobcat grenade
+
+cast 1 Summon Clip Art
+You acquire an item: cold-filtered water
+
+cast 1 Summon Clip Art
+You acquire an item: cheezburger
+
+[11445] Fudge Mountain
+Round 3: boolicious attacks!
+Round 4: fudge vulture takes 33 damage.
+Round 4: boolicious attacks!
+Round 5: fudge vulture takes 32 damage.
+Round 5: fudge vulture takes 3 damage.
+Round 5: fudge vulture takes 9 damage.
+Round 5: fudge vulture takes 3 damage.
+You lose 1 hit point
+Round 5: boolicious casts DRUNKEN BABY STYLE!
+Round 6: fudge vulture takes 105 damage.
+Round 6: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (11)
+You gain 18 Strengthliness
+You gain 5 Enchantedness
+You gain 8 Smarm
+
+[11446] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 54 damage.
+Round 2: boolicious casts DRUNKEN BABY STYLE!
+Round 3: fudge oyster takes 105 damage.
+Round 3: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (10)
+You gain 14 Strengthliness
+You gain 5 Enchantedness
+You gain 7 Sarcasm
+
+[11447] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 71 damage.
+Round 2: boolicious casts DRUNKEN BABY STYLE!
+Round 3: fudge weasel takes 105 damage.
+Round 3: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (6)
+You gain 14 Beefiness
+You gain 3 Magicalness
+You gain 5 Roguishness
+
+[11448] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts DRUNKEN BABY STYLE!
+Round 2: fudge monkey takes 106 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 10 Strengthliness
+You gain 4 Magicalness
+You gain 7 Chutzpah
+
+[11449] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts DRUNKEN BABY STYLE!
+Round 2: fudge poodle takes 106 damage.
+Round 2: boolicious casts DRUNKEN BABY STYLE!
+Round 3: fudge poodle takes 107 damage.
+Round 3: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (12)
+You gain 10 Beefiness
+You gain 12 Enchantedness
+You gain 9 Chutzpah
+
+[11450] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts DRUNKEN BABY STYLE!
+Round 2: fudge weasel takes 108 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 14 Fortitude
+You gain 3 Mysteriousness
+You gain 5 Sarcasm
+
+postwarisland.php?place=lighthouse
+Visiting the lighthouse keeper with 0 barrel of gunpowder.
+
+bigisland.php?place=lighthouse
+friars blessing 1
+You acquire an effect: Brother Flying Burrito's Blessing (duration: 20 Adventures)
+Buying trophy #70 at the Trophy Hut
+You spent 10,000 Meat
+Buying trophy #72 at the Trophy Hut
+You spent 10,000 Meat
+
+[11452] The Lower Chambers (Rats/Token)
+You lose 32 hit points
+
+[11453] The Middle Chamber
+Encounter: tomb bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: tomb bat takes 19 damage.
+Round 2: boolicious casts DRUNKEN BABY STYLE!
+Round 3: tomb bat takes 110 damage.
+Round 3: boolicious casts DRUNKEN BABY STYLE!
+Round 4: tomb bat takes 107 damage.
+Round 4: boolicious wins the fight!
+You gain 88 Meat
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: leathery bat skin
+You gain 26 Strengthliness
+You gain 10 Wizardliness
+You gain 12 Chutzpah
+
+buy 1 phial of sleaziness for 454 each from 1578935 on 20111221
+You acquire an item: phial of sleaziness
+
+use 1 phial of sleaziness
+You acquire an effect: Sleazeform (duration: 5 Adventures)
+
+buy 1 stench powder for 100 each from 2295679 on 20111221
+You acquire an item: stench powder
+
+use 1 stench powder
+You acquire an effect: Smelly Pants (duration: 5 Adventures)
+
+buy 1 oil of stability for 785 each from 1699424 on 20111221
+You acquire an item: oil of stability
+
+use 1 oil of stability
+You acquire an effect: Stabilizing Oiliness (duration: 5 Adventures)
+Jumping into Awesome Ball Pit in clan rumpus room
+
+buy 1 philter of phorce for 450 each from 1352635 on 20111221
+You acquire an item: philter of phorce
+
+use 1 philter of phorce
+You acquire an effect: Phorcefullness (duration: 5 Adventures)
+
+buy 1 can of black paint for 750 each from 738750 on 20111221
+You acquire an item: can of black paint
+
+use 1 can of black paint
+You acquire an effect: Red Door Syndrome (duration: 10 Adventures)
+
+buy 1 Oil of Parrrlay for 110 each from 1413965 on 20111221
+You acquire an item: Oil of Parrrlay
+
+use 1 Oil of Parrrlay
+You acquire an effect: Well-Oiled (duration: 5 Adventures)
+
+buy 1 Ferrigno's Elixir of Power for 1546 each from 1877436 on 20111221
+You acquire an item: Ferrigno's Elixir of Power
+
+use 1 Ferrigno's Elixir of Power
+You acquire an effect: Incredibly Hulking (duration: 5 Adventures)
+
+[11454] Lollipop Forest
+Encounter: lollipede
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lollipede takes 491 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 2 Beefiness
+You gain 2 Wizardliness
+You gain 2 Sarcasm
+
+[11455] The Gummi Mine (in Disguise)
+
+[11455] The Gummi Mine (in Disguise)
+
+[11455] The Gummi Mine (in Disguise)
+You acquire an item: belemnite fossil
+
+[11456] The Gummi Mine (in Disguise)
+You lose 2,946 hit points
+
+[11457] The Gummi Mine (in Disguise)
+You lose 1,978 hit points
+
+[11458] The Gummi Mine (in Disguise)
+
+[11459] The Gummi Mine (in Disguise)
+
+[11460] The Gummi Mine (in Disguise)
+You lose 344 hit points
+
+[11461] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11462] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11463] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11464] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11465] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+You acquire an item: yellow gummi ingot
+You acquire an item: strawberyl
+You acquire an item: red gummi ingot
+You acquire an item: red gummi ingot
+You acquire an item: green gummi ingot
+
+[11471] The Gummi Mine (in Disguise)
+
+Buy and eat 1 null for 0 Meat
+You gain 13 Adventures
+You acquire an effect: Healthy, Elfy, and Wise (duration: 30 Adventures)
+You gain 5 Fullness
+You spent 100 Meat
+
+eat 1 cactus fruit
+You gain 6 Adventures
+You gain 9 Strongness
+You gain 2 Magicalness
+You gain 2 Roguishness
+You lose 10 hit points
+You gain 2 Fullness
+
+eat 1 bucket of honey
+You gain 3 Adventures
+You acquire an effect: Sugar Rush (duration: 50 Adventures)
+You gain 1 Fullness
+
+Buy and eat 1 null for 0 Meat
+You gain 13 Adventures
+You acquire an effect: Castaway Physique (duration: 15 Adventures)
+You gain 5 Drunkenness
+You spent 100 Meat
+
+Buy and eat 1 null for 0 Meat
+You gain 13 Adventures
+You acquire an effect: Rad-ish (duration: 15 Adventures)
+You gain 5 Drunkenness
+You spent 100 Meat
+
+drink 1 calle de miel
+You gain 10 Adventures
+You gain 8 Muscleboundness
+You gain 25 Chutzpah
+You gain 4 Drunkenness
+
+use 1 gooey paste
+You gain 6 Adventures
+You gain 22 Fortitude
+You gain 21 Enchantedness
+You gain 21 Sarcasm
+
+use 1 gooey paste
+You gain 9 Adventures
+You gain 23 Muscleboundness
+You gain 18 Enchantedness
+You gain 19 Chutzpah
+
+[11471] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11472] The Gummi Mine (in Disguise)
+You acquire an item: pearidot
+
+[11473] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11474] The Gummi Mine (in Disguise)
+You acquire an item: strawberyl
+
+[11475] The Gummi Mine (in Disguise)
+You lose 902 hit points
+
+[11476] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11477] The Gummi Mine (in Disguise)
+
+[11478] The Gummi Mine (in Disguise)
+
+[11478] The Gummi Mine (in Disguise)
+
+[11479] The Gummi Mine (in Disguise)
+
+[11480] The Gummi Mine (in Disguise)
+You lose 741 hit points
+
+[11481] The Gummi Mine (in Disguise)
+You acquire an item: tourmalime
+
+[11482] The Gummi Mine (in Disguise)
+You acquire an item: pearidot
+
+[11483] The Gummi Mine (in Disguise)
+You lose 564 hit points
+
+[11484] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11485] The Gummi Mine (in Disguise)
+You acquire an item: ammonite fossil
+
+[11486] The Gummi Mine (in Disguise)
+You acquire an item: kumquartz
+
+[11487] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11488] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11489] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11490] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11491] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11492] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11493] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11494] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11495] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11496] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11497] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11498] The Gummi Mine (in Disguise)
+You lose 595 hit points
+
+[11499] The Gummi Mine (in Disguise)
+
+[11500] The Gummi Mine (in Disguise)
+You lose 299 hit points
+
+[11501] The Gummi Mine (in Disguise)
+
+[11502] The Gummi Mine (in Disguise)
+
+[11503] The Gummi Mine (in Disguise)
+
+[11503] The Gummi Mine (in Disguise)
+You lose 216 hit points
+
+[11504] The Gummi Mine (in Disguise)
+You acquire an item: tourmalime
+
+[11505] The Gummi Mine (in Disguise)
+You acquire an item: pearidot
+
+[11506] The Gummi Mine (in Disguise)
+
+[11507] The Gummi Mine (in Disguise)
+
+[11508] The Gummi Mine (in Disguise)
+
+[11509] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11510] The Gummi Mine (in Disguise)
+You lose 585 hit points
+
+[11511] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11512] The Gummi Mine (in Disguise)
+You lose 227 hit points
+
+[11513] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11514] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11515] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11516] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11517] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11518] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11519] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11520] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11521] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11522] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11523] The Gummi Mine (in Disguise)
+You lose 422 hit points
+
+[11524] The Gummi Mine (in Disguise)
+
+[11525] The Gummi Mine (in Disguise)
+You acquire an item: pearidot
+
+[11526] The Gummi Mine (in Disguise)
+You acquire an item: belemnite fossil
+
+[11527] The Gummi Mine (in Disguise)
+
+[11528] The Gummi Mine (in Disguise)
+
+[11528] The Gummi Mine (in Disguise)
+You acquire an item: kumquartz
+
+[11529] The Gummi Mine (in Disguise)
+You lose 726 hit points
+
+[11530] The Gummi Mine (in Disguise)
+You lose 250 hit points
+
+[11531] The Gummi Mine (in Disguise)
+You lose 367 hit points
+
+[11532] The Gummi Mine (in Disguise)
+You acquire an item: trilobite fossil
+
+[11533] The Gummi Mine (in Disguise)
+You acquire an item: pearidot
+
+[11534] The Gummi Mine (in Disguise)
+
+[11535] The Gummi Mine (in Disguise)
+
+[11536] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11537] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11538] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11539] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11540] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11541] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11542] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11543] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11544] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+custom outfit Rollover jammies
+
+equip hat Big Candy's tophat
+
+Buy and eat 1 null for 0 Meat
+You gain 13 Adventures
+You acquire an effect: Jerky, Boy (duration: 15 Adventures)
+You gain 5 Drunkenness
+You spent 100 Meat
+
+Visiting Fudge Wand
+Encounter: You're the Fudge Wizard Now, Dog
+
+trading 343 fudgecules for 1 fudge cube
+Encounter: fudge cube
+You acquire an item: fudge cube
+
+trading 200 fudgecules for 1 fudge spork
+Encounter: fudge spork
+You acquire an item: fudge spork
+Encounter: You're the Fudge Wizard Now, Dog
+
+Combine 
+You acquire an item: blank fudge mold
+You acquire an item: trilobite candy mold
+Crafting used 1 each of sucker scaffold and fudge cube
+Crafting used 1 each of blank fudge mold and trilobite fossil
+
+Use 1 trilobite candy mold + 10 red gummi ingot + 10 green gummi ingot + 10 yellow gummi ingot
+You acquire an item: gummi trilobite
+
+mallsell: 1 gummi trilobite
+
+manageprices.php?action=update&pwd&price542=260&limit542=0&price594=410&limit594=0&price1929=320&limit1929=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price622=272&limit622=0&price449=100&limit449=0&price2055=150&limit2055=0&price432=120&limit432=0&price3858=250&limit3858=0&price2981=5400&limit2981=0&price5259=4000&limit5259=0&price79=100&limit79=0&price615=248&limit615=0&price431=120&limit431=0&price120=100&limit120=0&price634=100&limit634=0&price2984=220&limit2984=0&price834=190&limit834=0&price414=190&limit414=0&price258=2000&limit258=1&price472=190&limit472=0&price565=100&limit565=0&price196=1440&limit196=2&price9=100&limit9=1&price632=264&limit632=0&price541=240&limit541=0&price1866=186&limit1866=0&price1826=140&limit1826=0&price1838=182&limit1838=0&price399=230&limit399=0&price355=220&limit355=0&price538=260&limit538=0&price3864=164&limit3864=0&price544=200&limit544=0&price616=258&limit616=0&price166=100&limit166=0&price497=236&limit497=0&price172=100&limit172=0&price123=100&limit123=0&price1750=100&limit1750=0&price1751=100&limit1751=0&price703=250&limit703=0&price2973=5600&limit2973=0&price5494=74000&limit5494=0&price611=270&limit611=0&price3=100&limit3=0&price218=155&limit218=0&price395=196&limit395=0&price4719=100&limit4719=0&price2093=230&limit2093=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price1160=110&limit1160=0&price776=190&limit776=0&price305=100&limit305=0&price38=100&limit38=0&price35=100&limit35=0&price36=100&limit36=0&price312=160&limit312=0&price475=130&limit475=0&price2598=300&limit2598=0&price3844=184&limit3844=0&price4718=100&limit4718=0&price5403=9999999&limit5403=0&price2636=775&limit2636=0&price352=150&limit352=0&price239=160&limit239=0&price240=160&limit240=0&price5=100&limit5=0&price2633=365&limit2633=0&price393=196&limit393=0&price630=289&limit630=1&price280=150&limit280=0&price613=256&limit613=0&price5087=390&limit5087=0&price614=256&limit614=0&price6=100&limit6=0&price1297=200&limit1297=0&price2613=155&limit2613=0&price2959=5500&limit2959=0&price1=100&limit1=0&price2680=300&limit2680=0&price356=222&limit356=0&price77=100&limit77=0&price119=100&limit119=0&price2687=400&limit2687=0&price402=180&limit402=0&price21=100&limit21=0&price540=380&limit540=0&price129=400&limit129=0&price5248=4600&limit5248=0&price136=100&limit136=0&price5488=1700&limit5488=0&price1655=120&limit1655=0&price269=100&limit269=0&price2452=800&limit2452=0
+manageprices.php?action=update&pwd&price542=260&limit542=0&price594=410&limit594=0&price1929=320&limit1929=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price622=272&limit622=0&price449=100&limit449=0&price2055=150&limit2055=0&price432=120&limit432=0&price3858=250&limit3858=0&price2981=5400&limit2981=0&price5259=4000&limit5259=0&price79=100&limit79=0&price615=248&limit615=0&price431=120&limit431=0&price120=100&limit120=0&price634=100&limit634=0&price2984=220&limit2984=0&price834=190&limit834=0&price414=190&limit414=0&price258=2000&limit258=1&price472=190&limit472=0&price565=100&limit565=0&price196=1440&limit196=2&price9=100&limit9=1&price632=264&limit632=0&price541=240&limit541=0&price1866=186&limit1866=0&price1826=140&limit1826=0&price1838=182&limit1838=0&price399=230&limit399=0&price355=220&limit355=0&price538=260&limit538=0&price3864=164&limit3864=0&price544=200&limit544=0&price616=258&limit616=0&price166=100&limit166=0&price497=236&limit497=0&price172=100&limit172=0&price123=100&limit123=0&price1750=100&limit1750=0&price1751=100&limit1751=0&price703=250&limit703=0&price2973=5600&limit2973=0&price5494=74000&limit5494=0&price611=270&limit611=0&price3=100&limit3=0&price218=155&limit218=0&price395=196&limit395=0&price4719=100&limit4719=0&price2093=230&limit2093=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price1160=110&limit1160=0&price776=190&limit776=0&price305=100&limit305=0&price38=100&limit38=0&price35=100&limit35=0&price36=100&limit36=0&price312=160&limit312=0&price475=130&limit475=0&price2598=300&limit2598=0&price3844=184&limit3844=0&price4718=100&limit4718=0&price5403=9999999&limit5403=0&price2636=775&limit2636=0&price352=150&limit352=0&price239=160&limit239=0&price240=160&limit240=0&price5=100&limit5=0&price2633=365&limit2633=0&price393=196&limit393=0&price630=289&limit630=1&price280=150&limit280=0&price613=256&limit613=0&price5087=390&limit5087=0&price614=256&limit614=0&price6=100&limit6=0&price1297=200&limit1297=0&price2613=155&limit2613=0&price2959=5500&limit2959=0&price1=100&limit1=0&price2680=300&limit2680=0&price356=222&limit356=0&price77=100&limit77=0&price119=100&limit119=0&price2687=400&limit2687=0&price402=180&limit402=0&price21=100&limit21=0&price540=380&limit540=0&price129=400&limit129=0&price5248=4590&limit5248=0&price136=100&limit136=0&price5488=1700&limit5488=0&price1655=120&limit1655=0&price269=100&limit269=0&price2452=800&limit2452=0
+
+mallsell: 5 banana supersucker, 5 kumquat supersucker
+
+mallsell: 2 lime supersucker, 2 pear supersucker, 2 strawberry supersucker
