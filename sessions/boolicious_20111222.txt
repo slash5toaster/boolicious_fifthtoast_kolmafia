@@ -1631,3 +1631,969 @@ choice.php?pwd&whichchoice=212&option=2
 
 mall.php?didadv=0&pudnuggler=headphones&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
 mall.php?didadv=0&pudnuggler=headphone&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+December 22, 2011 - Porktober 7
+
+Ronald: third quarter
+Grimace: waning crescent
+Mini-moon: in front of Ronald, L side
+
+Halloween: tomorrow
+Feast of Boris: 8 days
+Festival of Jarlsberg: 10 days
+Yuletide: 13 days
+Valentine's Day: 29 days
+St. Sneaky Pete's Day: 36 days
+Oyster Egg Day: 43 days
+El Dia De Los Muertos Borrachos: 51 days
+Generic Summer Holiday: 60 days
+Dependence Day: 69 days
+Arrrbor Day: 77 days
+Lab&oacute;r Day: 87 days
+
+
+Moxie bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 23
+HP: 846 / 1,285
+MP: 635 / 789
+
+Mus: 834 (492), tnp = 519
+Mys: 481 (358), tnp = 192
+Mox: 474 (360), tnp = 205
+
+Advs: 61
+Meat: 487,027
+Drunk: 11
+
+
+ > equipment
+
+Hat: hardened slime hat
+Weapon: scratch 'n' sniff sword
+Off-hand: hobo code binder
+Shirt: star shirt
+Pants: Galapagosian Cuisses
+
+Acc. 1: cursed scrunchie
+Acc. 2: Pokëmann figurine: Frank
+Acc. 3: Slow Talkin' Elliot's dogtags
+
+Pet: Pair of Stomping Boots (21 lbs)
+Item: (none)
+
+Sticker 1: scratch 'n' sniff wrestler sticker (0)
+Sticker 2: scratch 'n' sniff wrestler sticker (0)
+Sticker 3: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Jalapeño Saucesphere (99)
+♫ The Magical Mojomuscular Melody (99)
+♫ The Sonata of Sneakiness (99)
+Elemental Saucesphere (99)
+Jabañero Saucesphere (99)
+Scarysauce (115)
+Reptilian Fortitude (129)
+Astral Shell (129)
+Empathy (129)
+Tenacity of the Snapper (129)
+Earthen Fist (134)
+♫ Polka of Plenty (140)
+Jingle Jangle Jingle (144)
+Ghostly Shell (2,020)
+Retrograde Relaxation (3,308)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: -30.00%
+
+Exp: +0.00
+Meat: +80.00%
+Item: +66.99%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+use 1 Manual of Labor
+
+use 1 Chester's bag of candy
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+[11677] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/1: take the tunnel
+choice.php?pwd&whichchoice=197&option=1
+
+[11678] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 636 damage.
+Round 2: boolicious wins the fight!
+You gain 149 Meat
+After Battle: Dr Marten does a few high kicks. When you're a pair of boots with no legs, the sky's the limit for how high you can kick.
+You acquire an item: sewer nuggets
+You acquire an item: sewer nuggets
+You gain 30 Beefiness
+You gain 18 Mysteriousness
+You gain 17 Smarm
+
+[11679] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/1: take the tunnel
+choice.php?pwd&whichchoice=197&option=1
+
+[11680] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?pwd&whichchoice=199&option=1
+
+[11681] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?pwd&whichchoice=199&option=1
+
+[11682] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?pwd&whichchoice=199&option=1
+
+[11683] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 629 damage.
+Round 2: boolicious wins the fight!
+You gain 142 Meat
+After Battle: Dr Marten tries to start a mosh pit, but ends up slam-dancing with itself.
+You acquire an item: sewer nuggets
+You acquire an item: sewer nuggets
+You gain 33 Strengthliness
+You gain 14 Wizardliness
+You gain 18 Cheek
+
+[11684] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?pwd&whichchoice=199&option=1
+
+[11685] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 633 damage.
+Round 2: Dr Marten makes sure kicks aren't getting harder to find by kicking it for 14 damage.
+Round 2: sewer gator takes 14 damage.
+Round 2: boolicious wins the fight!
+You gain 145 Meat
+After Battle: Dr Marten assumes the pli&eacute; position and bends its calf-parts in and out a few times.
+You acquire an item: gator skin
+You gain 33 Fortitude
+You gain 12 Magicalness
+You gain 19 Smarm
+
+[11686] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 634 damage.
+Round 2: Dr Marten gives it the boot for 21 damage.
+Round 2: sewer gator takes 21 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Dr Marten, the 7 lb. Pair of Stomping Boots
+You gain 126 Meat
+After Battle: Dr Marten assumes the pli&eacute; position and bends its calf-parts in and out a few times.
+You acquire an item: gator skin
+You acquire an item: sewer nuggets
+You acquire an item: sewer nuggets
+You gain 30 Strengthliness
+You gain 16 Wizardliness
+You gain 17 Chutzpah
+
+[11687] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious casts RELEASE THE BOOTS!
+Round 2: Dr Marten leaps up, feet flying, heels stomping, buckles jangling, and stomps your opponent into paste. Thank goodness there wasn't a mudhole nearby.
+You acquire an item: beastly paste
+Round 2: boolicious wins the fight!
+
+[11688] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 7 hit points
+Round 2: boolicious attacks!
+Round 3: c. h. u. m. takes 621 damage.
+Round 3: Dr Marten makes sure kicks aren't getting harder to find by kicking him for 23 damage.
+Round 3: c. h. u. m. takes 23 damage.
+Round 3: boolicious wins the fight!
+After Battle: Dr Marten does a few high kicks. When you're a pair of boots with no legs, the sky's the limit for how high you can kick.
+You gain 30 Beefiness
+You gain 23 Mysteriousness
+You gain 16 Smarm
+
+[11689] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 786 damage.
+Round 2: Dr Marten's bells jingle merrily.
+Round 2: Dr Marten makes sure kicks aren't getting harder to find by kicking it for 13 damage.
+Round 2: fudge vulture takes 13 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten forms a one-pair-of-boots chorus line.
+You acquire an item: fudgecule (5)
+You gain 13 Strengthliness
+You gain 3 Enchantedness
+You gain 6 Roguishness
+
+[11690] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 784 damage.
+Round 2: Dr Marten makes sure kicks aren't getting harder to find by kicking it for 26 damage.
+Round 2: fudge vulture takes 26 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten assumes the pli&eacute; position and bends its calf-parts in and out a few times.
+You acquire an item: fudgecule (5)
+You gain 7 Fortitude
+You gain 5 Mysteriousness
+You gain 9 Sarcasm
+
+[11691] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 783 damage.
+Round 2: Dr Marten pulls it into an impromptu mosh pit, stomping it for 27 damage.
+Round 2: fudge monkey takes 27 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten does a little of the ol' soft shoe, except it's more of a hard boot.
+You acquire an item: fudgecule (6)
+You gain 16 Beefiness
+You gain 2 Mysteriousness
+You gain 5 Sarcasm
+
+[11692] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious casts RELEASE THE BOOTS!
+Round 2: Dr Marten leaps up, feet flying, heels stomping, buckles jangling, and stomps your opponent into paste. Thank goodness there wasn't a mudhole nearby.
+You acquire an item: gooey paste
+Round 2: boolicious wins the fight!
+
+[11693] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 780 damage.
+Round 2: Dr Marten pulls it into an impromptu mosh pit, stomping it for 21 damage.
+Round 2: fudge weasel takes 21 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten assumes the pli&eacute; position and bends its calf-parts in and out a few times.
+You acquire an item: fudgecule (5)
+You gain 13 Beefiness
+You gain 5 Wizardliness
+You gain 4 Roguishness
+
+[11694] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 803 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten proves that it's made for dancing, not walking, with a little impromptu line dancing.
+You acquire an item: fudgecule (6)
+You gain 4 Muscleboundness
+You gain 12 Enchantedness
+You gain 5 Chutzpah
+
+buy 1 milky potion for 250 each from 193228 on 20111222
+You acquire an item: milky potion of detection
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+equip acc2 Zinc Delta of Tranquility
+
+equip acc3 fudgecycle
+
+equip weapon Flail of the Seven Aspects
+
+equip acc1 Baron von Ratsworth's monocle
+
+equip familiar stomp box
+friars blessing 3
+You acquire an effect: Brother Smothers's Blessing (duration: 20 Adventures)
+
+use 1 licorice root
+You acquire an effect: Rootin' Around (duration: 20 Adventures)
+
+[11695] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 568 damage.
+Round 2: Dr Marten boots it, then re-boots it again, for a total of 31 damage.
+Round 2: fudge oyster takes 31 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten does a little boot-scootin' boogie.
+You acquire an item: fudgecule (8)
+You gain 13 Muscleboundness
+You gain 9 Mysteriousness
+You gain 5 Cheek
+
+[11696] Fudge Mountain
+
+familiar Peppermint Rhino (34 lbs)
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 606 damage.
+Round 2: Dr Marten gives it some pumped-up kicks for 23 damage. Looks like it didn't run fast enough.
+Round 2: fudge weasel takes 23 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten assumes the pli&eacute; position and bends its calf-parts in and out a few times.
+You acquire an item: fudgecule (6)
+You gain 13 Strongness
+You gain 5 Magicalness
+You gain 4 Sarcasm
+
+[11697] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 603 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten does a few high kicks. When you're a pair of boots with no legs, the sky's the limit for how high you can kick.
+You acquire an item: fudgecule (5)
+You gain 17 Strongness
+You gain 3 Magicalness
+You gain 3 Cheek
+
+familiar Peppermint Rhino (34 lbs)
+
+[11698] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 596 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (6)
+You gain 11 Muscleboundness
+You gain 6 Magicalness
+You gain 5 Roguishness
+
+[11699] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 575 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (10)
+You gain 14 Fortitude
+You gain 6 Mysteriousness
+You gain 6 Chutzpah
+
+[11700] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 605 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 9 Beefiness
+You gain 4 Magicalness
+You gain 7 Cheek
+
+[11701] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 594 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 9 Strongness
+You gain 3 Magicalness
+You gain 9 Cheek
+
+[11702] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 581 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (9)
+You gain 16 Beefiness
+You gain 6 Magicalness
+You gain 6 Cheek
+
+[11703] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 585 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (6)
+You gain 13 Fortitude
+You gain 3 Magicalness
+You gain 5 Chutzpah
+
+mall.php?didadv=0&pudnuggler=peppermint&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+
+Harvesting your garden
+You acquire peppermint sprout (6)
+
+Use 11 peppermint sprout
+You acquire an item: peppermint rhino baby
+
+Use 3 peppermint sprout
+You acquire an item: peppermint crook
+
+mallsell: 1 peppermint crook, 1 peppermint rhino baby
+
+[11704] The Gummi Mine (in Disguise)
+
+[11704] The Gummi Mine (in Disguise)
+
+[11704] The Gummi Mine (in Disguise)
+You lose 712 hit points
+
+[11705] The Gummi Mine (in Disguise)
+You acquire an item: pearidot
+
+[11706] The Gummi Mine (in Disguise)
+
+[11707] The Gummi Mine (in Disguise)
+You acquire an item: kumquartz
+
+[11708] The Gummi Mine (in Disguise)
+You acquire an item: tourmalime
+
+[11709] The Gummi Mine (in Disguise)
+You acquire an item: trilobite fossil
+
+[11710] The Gummi Mine (in Disguise)
+You lose 491 hit points
+
+[11711] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11712] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11713] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11714] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11715] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11716] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11717] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11718] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11719] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11720] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11721] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11722] The Gummi Mine (in Disguise)
+You lose 630 hit points
+
+[11723] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11724] The Gummi Mine (in Disguise)
+You lose 564 hit points
+
+[11725] The Gummi Mine (in Disguise)
+
+[11726] The Gummi Mine (in Disguise)
+
+[11726] The Gummi Mine (in Disguise)
+You lose 307 hit points
+
+[11727] The Gummi Mine (in Disguise)
+You lose 503 hit points
+
+[11728] The Gummi Mine (in Disguise)
+You acquire an item: belemnite fossil
+
+[11729] The Gummi Mine (in Disguise)
+You acquire an item: bananagate
+
+[11730] The Gummi Mine (in Disguise)
+
+[11731] The Gummi Mine (in Disguise)
+You acquire an item: strawberyl
+
+[11732] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11733] The Gummi Mine (in Disguise)
+You acquire an item: tourmalime
+
+[11734] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11735] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11736] The Gummi Mine (in Disguise)
+You acquire an item: red gummi ingot
+
+[11737] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+Use 1 yellow gummi ingot
+You acquire an item: gummi canary
+
+Use 1 yellow gummi ingot
+You acquire an item: gummi canary
+
+Buy and eat 1 null for 0 Meat
+You gain 13 Adventures
+You acquire an effect: Castaway Physique (duration: 15 Adventures)
+You gain 5 Drunkenness
+You spent 100 Meat
+
+drink 1 grog
+You gain 6 Adventures
+You gain 9 Strongness
+You gain 3 Drunkenness
+
+use 1 beastly paste
+You gain 6 Adventures
+You gain 21 Strongness
+You gain 22 Magicalness
+You gain 19 Roguishness
+You acquire an effect: Beastly Flavor (duration: 10 Adventures)
+
+use 1 gooey paste
+You gain 6 Adventures
+You gain 22 Beefiness
+You gain 19 Enchantedness
+You gain a Mysticality point!
+You gain 21 Roguishness
+You gain a Moxie point!
+
+mall.php?didadv=0&pudnuggler=candy&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=330&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+
+Use 1 red gummi ingot
+You acquire an item: gummi salamander
+
+[11738] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/3: turn the valve
+choice.php?pwd&whichchoice=197&option=3
+
+[11738] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/1: take the tunnel
+choice.php?pwd&whichchoice=197&option=1
+
+[11739] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/1: take the tunnel
+choice.php?pwd&whichchoice=197&option=1
+
+[11740] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 558 damage.
+Round 2: boolicious wins the fight!
+You gain 135 Meat
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: sewer nuggets
+You acquire an item: sewer nuggets
+You gain 33 Strongness
+You gain 16 Mysteriousness
+You gain 15 Cheek
+
+familiar Pair of Stomping Boots (30 lbs)
+
+[11741] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 564 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten does a little of the ol' soft shoe, except it's more of a hard boot.
+You acquire an item: sewer nuggets
+You gain 37 Beefiness
+You gain 15 Mysteriousness
+You gain 14 Smarm
+
+[11742] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious casts RELEASE THE BOOTS!
+Round 2: Dr Marten leaps up, feet flying, heels stomping, buckles jangling, and stomps your opponent into paste. Thank goodness there wasn't a mudhole nearby.
+You acquire an item: ectoplasmic paste
+Round 2: Dr Marten's bells jingle merrily.
+Round 2: boolicious wins the fight!
+
+[11743] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 553 damage.
+Round 2: Dr Marten's bells jingle merrily.
+Round 2: Dr Marten attempts to kickstart it. It doesn't get fully funded, but does do 34 damage.
+Round 2: giant zombie goldfish takes 34 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten tries to start a mosh pit, but ends up slam-dancing with itself.
+You acquire an item: decaying goldfish liver
+You gain 40 Beefiness
+You gain 16 Magicalness
+You gain 11 Smarm
+
+[11744] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts TURTLE OF SEVEN TAILS!
+Round 2: sewer gator takes 239 damage.
+Round 2: sewer gator takes 230 damage.
+Round 2: sewer gator takes 227 damage.
+Round 2: sewer gator takes 251 damage.
+Round 2: sewer gator takes 241 damage.
+Round 2: sewer gator takes 233 damage.
+Round 2: sewer gator takes 227 damage.
+Round 2: Dr Marten boots it, then re-boots it again, for a total of 35 damage.
+Round 2: sewer gator takes 35 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Dr Marten, the 8 lb. Pair of Stomping Boots
+You gain 122 Meat
+After Battle: Dr Marten does a few high kicks. When you're a pair of boots with no legs, the sky's the limit for how high you can kick.
+You acquire an item: sewer nuggets
+You acquire an item: sewer nuggets
+You gain 38 Strengthliness
+You gain a Muscle point!
+You gain 18 Enchantedness
+You gain 9 Chutzpah
+
+[11745] A Maze of Sewer Tunnels
+Encounter: C. H. U. M. chieftain
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. chieftain takes 519 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten does a few high kicks. When you're a pair of boots with no legs, the sky's the limit for how high you can kick.
+You acquire an item: bottle of sewage schnapps
+You acquire an item: bottle of sewage schnapps
+You gain 41 Beefiness
+You gain 22 Magicalness
+You gain 24 Cheek
+
+[11746] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 568 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten proves that it's made for dancing, not walking, with a little impromptu line dancing.
+You acquire an item: bottle of sewage schnapps
+You gain 41 Strongness
+You gain 18 Enchantedness
+You gain 10 Cheek
+
+[11747] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 571 damage.
+Round 2: Dr Marten leaps up and high-kicks  it for 25 damage.
+Round 2: giant zombie goldfish takes 25 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten stomps around in a circle, its buckles jingling.
+You acquire an item: decaying goldfish liver
+You acquire an item: sewer nuggets
+You acquire an item: sewer nuggets
+You gain 42 Muscleboundness
+You gain 13 Mysteriousness
+You gain 13 Roguishness
+
+[11748] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 565 damage.
+Round 2: boolicious wins the fight!
+You gain 140 Meat
+After Battle: Dr Marten forms a one-pair-of-boots chorus line.
+You acquire an item: sewer nuggets
+You gain 24 Strengthliness
+You gain 25 Magicalness
+You gain 15 Smarm
+
+[11749] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious casts RELEASE THE BOOTS!
+Round 2: Dr Marten leaps up, feet flying, heels stomping, buckles jangling, and stomps your opponent into paste. Thank goodness there wasn't a mudhole nearby.
+You acquire an item: ectoplasmic paste
+Round 2: boolicious wins the fight!
+
+[11750] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 556 damage.
+Round 2: Dr Marten leaps up and high-kicks  him for 19 damage.
+Round 2: c. h. u. m. takes 19 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten forms a one-pair-of-boots chorus line.
+You gain 30 Strongness
+You gain 16 Enchantedness
+You gain 22 Roguishness
+
+use 1 ectoplasmic paste
+
+[11751] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/1: take the tunnel
+choice.php?pwd&whichchoice=198&option=1
+
+[11752] A Maze of Sewer Tunnels
+Encounter: At Last!
+
+clan_hobopolis.php?place=1
+
+familiar Peppermint Rhino (34 lbs)
+
+[11753] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 567 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (8)
+You gain 11 Muscleboundness
+You gain 6 Magicalness
+You gain 9 Roguishness
+
+[11754] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 604 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (10)
+You gain 15 Beefiness
+You gain 5 Mysteriousness
+You gain 7 Cheek
+
+[11755] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 587 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (6)
+You gain 16 Beefiness
+You gain 4 Mysteriousness
+You gain 2 Sarcasm
+
+[11756] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/1: get candies
+choice.php?pwd&whichchoice=557&option=1
+You acquire an item: Daffy Taffy
+You acquire an item: candy brain
+You acquire an item: crazy little Turkish delight
+You acquire an item: Bit O' Ectoplasm
+You acquire an item: pack of chewing gum
+
+[11757] Lollipop Forest
+Encounter: lolliphaunt
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lolliphaunt takes 639 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: lollipop stick
+You gain 6 Strengthliness
+You gain 2 Wizardliness
+You gain 4 Roguishness
+
+[11758] Lollipop Forest
+Encounter: lolrus
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lolrus takes 618 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: patty, the 20 lb. Peppermint Rhino
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: lollipop stick
+You gain 7 Fortitude
+You gain 7 Mysteriousness
+You gain 2 Sarcasm
+
+[11759] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/2: licorice root
+choice.php?pwd&whichchoice=557&option=2
+You acquire an item: licorice root
+
+[11760] Lollipop Forest
+Encounter: Gingerbread Homestead
+Took choice 557/2: licorice root
+choice.php?pwd&whichchoice=557&option=2
+You acquire an item: licorice root
+
+[11761] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 651 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 4 Strengthliness
+You gain 1 Mysteriousness
+You gain 1 Smarm
+
+[11762] The Gummi Mine (in Disguise)
+
+[11762] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11763] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11764] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11765] The Gummi Mine (in Disguise)
+You acquire an item: yellow gummi ingot
+
+[11766] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11767] The Gummi Mine (in Disguise)
+You acquire an item: green gummi ingot
+
+[11768] The Gummi Mine (in Disguise)
+You lose 846 hit points
+
+Buy and eat 1 null for 0 Meat
+You gain 13 Adventures
+You acquire an effect: Castaway Physique (duration: 15 Adventures)
+You gain 5 Drunkenness
+You spent 100 Meat
+custom outfit Rollover Jammies
+unequip weapon
+unequip offhand
