@@ -6,6 +6,10 @@ case $HOST in
        echo $HOST
        JAVABIN=/usr/lib/jvm/java-1.5.0-sun-1.5.0.19/bin/java
        ;;
+  "ussf319388" )
+       echo $HOST
+       JAVABIN=/usr/lib/jvm/java-6-openjdk/jre/bin/java
+       ;;
   "ussf311936" )
        echo $HOST
        JAVABIN=/usr/bin/java
