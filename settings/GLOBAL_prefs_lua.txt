@@ -161,7 +161,7 @@ showAllRequests=false
 showExceptionalRequests=true
 statusDropdown=0
 stealthLogin=true
-swingLookAndFeel
+swingLookAndFeel=javax.swing.plaf.metal.MetalLookAndFeel
 switchEquipmentForBuffs=false
 tomeSkillsHardcore=Summon Stickers
 tomeSkillsSoftcore=all
