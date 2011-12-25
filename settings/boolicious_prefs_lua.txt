@@ -33,17 +33,17 @@ TabbedChatFrame=780,65,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
-_allYearSucker=true
+_allYearSucker=false
 _aprilShower=false
 _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
 _bagOfCandy=false
-_ballpit=true
+_ballpit=false
 _banderRunaways=0
 _benettonsCasts=0
 _bonersSummoned=false
-_bootStomps=2
+_bootStomps=0
 _borrowedTimeUsed=false
 _boxingGloveArrows=0
 _brickoFights=0
@@ -61,7 +61,7 @@ _elronsCasts=0
 _feastUsed=0
 _feastedFamiliars
 _fingertrapArrows=0
-_fudgeWaspFights=3
+_fudgeWaspFights=0
 _gapBuffs=0
 _gibbererAdv=0
 _gongDrops=0
@@ -80,7 +80,7 @@ _lunchBreak=false
 _madTeaParty=false
 _mayflySummons=0
 _navelRunaways=0
-_pasteDrops=2
+_pasteDrops=0
 _photocopyUsed=false
 _pieDrops=0
 _piePartsCount=0
@@ -126,7 +126,7 @@ autoSteal=true
 autostartGalaktikQuest=true
 availableBoneChips=0
 availableCRIMBCOScrip=0
-availableCandyCredits=500
+availableCandyCredits=0
 availableCommendations=0
 availableCrimbux=0
 availableDimes=17
@@ -203,7 +203,7 @@ birdformSpooky=0
 birdformStench=0
 blackPuddingsDefeated=1
 blankOutUsed=0
-bootsCharged=true
+bootsCharged=false
 breakableHandling=1
 breakableHandling1964=2
 breakfastCompleted=true
@@ -568,11 +568,11 @@ choiceAdventure91=2
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=true
+concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2409
-currentFullness=15
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -580,7 +580,7 @@ currentMojoFilters=0
 currentMood=fudgefinding
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=13
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -604,7 +604,7 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8=Kelderred
 demonName9
-demonSummoned=false
+demonSummoned=true
 desktopHeight=600
 desktopWidth=800
 discardedKarma=0
@@ -655,7 +655,7 @@ hpAutoRecoveryTarget=0.8
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=true
 knownAscensions=1
-lastAdventure=Lollipop Forest
+lastAdventure=Fudge Mountain
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -671,13 +671,13 @@ lastBangPotion827=ettin strength
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=0
+lastBreakfast=1
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=0
+lastCounterDay=1
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=1
@@ -718,7 +718,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=lolrus
+lastEncounter=fudge weasel
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -808,7 +808,7 @@ meatDropSpading=false
 mineLayout1
 mineLayout2=\#43<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#42<img src\="http\://images.kingdomofloathing.com/itemimages/meatstack.gif" alt\="meat stack" title\="meat stack" class\=hand onClick\='descitem(814092432)'>\#41<img src\="http\://images.kingdomofloathing.com/itemimages/meatstack.gif" alt\="meat stack" title\="meat stack" class\=hand onClick\='descitem(814092432)'>\#26<img src\="http\://images.kingdomofloathing.com/itemimages/cardore.gif" alt\="cardboard ore" title\="cardboard ore" class\=hand onClick\='descitem(582580469)'>\#25<img src\="http\://images.kingdomofloathing.com/itemimages/cardore.gif" alt\="cardboard ore" title\="cardboard ore" class\=hand onClick\='descitem(582580469)'>\#18<img src\="http\://images.kingdomofloathing.com/itemimages/cardore.gif" alt\="cardboard ore" title\="cardboard ore" class\=hand onClick\='descitem(582580469)'>\#17<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#19<img src\="http\://images.kingdomofloathing.com/itemimages/styore.gif" alt\="styrofoam ore" title\="styrofoam ore" class\=hand onClick\='descitem(614466541)'>\#27<img src\="http\://images.kingdomofloathing.com/itemimages/cardore.gif" alt\="cardboard ore" title\="cardboard ore" class\=hand onClick\='descitem(582580469)'>\#20<img src\="http\://images.kingdomofloathing.com/itemimages/styore.gif" alt\="styrofoam ore" title\="styrofoam ore" class\=hand onClick\='descitem(614466541)'>\#28<img src\="http\://images.kingdomofloathing.com/itemimages/styore.gif" alt\="styrofoam ore" title\="styrofoam ore" class\=hand onClick\='descitem(614466541)'>\#29<img src\="http\://images.kingdomofloathing.com/itemimages/bubbleore.gif" alt\="bubblewrap ore" title\="bubblewrap ore" class\=hand onClick\='descitem(571478721)'>\#37<img src\="http\://images.kingdomofloathing.com/itemimages/bubbleore.gif" alt\="bubblewrap ore" title\="bubblewrap ore" class\=hand onClick\='descitem(571478721)'>\#38<img src\="http\://images.kingdomofloathing.com/itemimages/meatstack.gif" alt\="meat stack" title\="meat stack" class\=hand onClick\='descitem(814092432)'>\#21<img src\="http\://images.kingdomofloathing.com/itemimages/bubbleore.gif" alt\="bubblewrap ore" title\="bubblewrap ore" class\=hand onClick\='descitem(571478721)'>\#22<img src\="http\://images.kingdomofloathing.com/itemimages/jewel.gif" alt\="stone of eXtreme power" title\="stone of eXtreme power" class\=hand onClick\='descitem(376860845)'>\#13<img src\="http\://images.kingdomofloathing.com/itemimages/bubbleore.gif" alt\="bubblewrap ore" title\="bubblewrap ore" class\=hand onClick\='descitem(571478721)'>\#11<img src\="http\://images.kingdomofloathing.com/itemimages/styore.gif" alt\="styrofoam ore" title\="styrofoam ore" class\=hand onClick\='descitem(614466541)'>
 mineLayout3
-mineLayout4=\#50<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#51<img src\="http\://images.kingdomofloathing.com/itemimages/pearidot.gif" alt\="pearidot" title\="pearidot" class\=hand onClick\='descitem(503470795)'>\#43<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#45<img src\="http\://images.kingdomofloathing.com/itemimages/foss_tri.gif" alt\="trilobite fossil" title\="trilobite fossil" class\=hand onClick\='descitem(452690664)'>\#35<img src\="http\://images.kingdomofloathing.com/itemimages/tourmalime.gif" alt\="tourmalime" title\="tourmalime" class\=hand onClick\='descitem(900074095)'>
+mineLayout4=\#52<img src\="http\://images.kingdomofloathing.com/itemimages/pearidot.gif" alt\="pearidot" title\="pearidot" class\=hand onClick\='descitem(503470795)'>\#44<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#54<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#36<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="green gummi ingot" title\="green gummi ingot" class\=hand onClick\='descitem(578465854)'>\#28<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="green gummi ingot" title\="green gummi ingot" class\=hand onClick\='descitem(578465854)'>\#29<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="green gummi ingot" title\="green gummi ingot" class\=hand onClick\='descitem(578465854)'>\#20<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="green gummi ingot" title\="green gummi ingot" class\=hand onClick\='descitem(578465854)'>\#21<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="red gummi ingot" title\="red gummi ingot" class\=hand onClick\='descitem(992812754)'>\#12<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#13<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="red gummi ingot" title\="red gummi ingot" class\=hand onClick\='descitem(992812754)'>\#22<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="red gummi ingot" title\="red gummi ingot" class\=hand onClick\='descitem(992812754)'>\#14<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="red gummi ingot" title\="red gummi ingot" class\=hand onClick\='descitem(992812754)'>\#18<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="yellow gummi ingot" title\="yellow gummi ingot" class\=hand onClick\='descitem(743292189)'>\#26<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="yellow gummi ingot" title\="yellow gummi ingot" class\=hand onClick\='descitem(743292189)'>\#10<img src\="http\://images.kingdomofloathing.com/itemimages/foss_tri.gif" alt\="trilobite fossil" title\="trilobite fossil" class\=hand onClick\='descitem(452690664)'>\#9<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="yellow gummi ingot" title\="yellow gummi ingot" class\=hand onClick\='descitem(743292189)'>\#17<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="yellow gummi ingot" title\="yellow gummi ingot" class\=hand onClick\='descitem(743292189)'>\#25<img src\="http\://images.kingdomofloathing.com/itemimages/tourmalime.gif" alt\="tourmalime" title\="tourmalime" class\=hand onClick\='descitem(900074095)'>\#33<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#41<img src\="http\://images.kingdomofloathing.com/itemimages/bananagate.gif" alt\="bananagate" title\="bananagate" class\=hand onClick\='descitem(951513573)'>
 mmgAutoConfirmBets=true
 mmgSearchMaximum=100000
 mmgSearchMinimum=1000
