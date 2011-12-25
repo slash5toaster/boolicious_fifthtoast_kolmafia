@@ -1601,3 +1601,290 @@ use 1 pack of pogs
 You acquire an item: pog #08 (hellion)
 You acquire an item: pog #10 (hobo)
 You acquire an item: pog #03 (warwelf)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+December 25, 2011 - Boozember 2
+
+Ronald: waxing crescent
+Grimace: new moon
+Mini-moon: behind Grimace
+
+Crimbo: today
+Feast of Boris: 5 days
+Festival of Jarlsberg: 7 days
+Yuletide: 10 days
+Valentine's Day: 26 days
+St. Sneaky Pete's Day: 33 days
+Oyster Egg Day: 40 days
+El Dia De Los Muertos Borrachos: 48 days
+Generic Summer Holiday: 57 days
+Dependence Day: 66 days
+Arrrbor Day: 74 days
+Lab&oacute;r Day: 84 days
+Halloween: 94 days
+
+Crimbo
+3 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 23
+HP: 201 / 1,930
+MP: 581 / 1,216
+
+Mus: 1,264 (496), tnp = 690
+Mys: 772 (361), tnp = 549
+Mox: 830 (363), tnp = 228
+
+Advs: 145
+Meat: 137,576
+Drunk: 14
+
+
+ > equipment
+
+Hat: Big Candy's tophat
+Weapon: fouet de tortue-dressage
+Off-hand: eye of the Tiger-lily
+Shirt: star shirt
+Pants: Galapagosian Cuisses
+
+Acc. 1: cursed scrunchie
+Acc. 2: Zinc Delta of Tranquility
+Acc. 3: Baron von Ratsworth's monocle
+
+Pet: Tickle-Me Emilio (26 lbs)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+1 of 3 AT buffs active.
+Gamer Rage (8)
+Strength of Ten Ettins (8)
+Reptilian Fortitude (9)
+Tenacity of the Snapper (9)
+Astral Shell (9)
+Empathy (9)
+Sugar Rush (10)
+Having a Ball! (18)
+Elvish (18)
+♫ Polka of Plenty (20)
+Healthy, Elfy, and Wise (24)
+Jingle Jangle Jingle (24)
+Earthen Fist (102)
+20/20 Vision (164)
+Elemental Saucesphere (354)
+Jabañero Saucesphere (354)
+Scarysauce (370)
+Ghostly Shell (1,900)
+Retrograde Relaxation (2,813)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +0.00
+Meat: +80.00%
+Item: +48.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+drink 1 pink pony
+You gain 11 Adventures
+You gain 28 Beefiness
+You gain 9 Cheek
+You gain 4 Drunkenness
+
+cast 1 Summon Clip Art
+You acquire an item: Beignet Milgranet
+
+cast 1 Summon Clip Art
+You acquire an item: Fromage Pinotage
+
+[12173] Mix 1 fermenting powder + 1 blackberry
+You acquire an item: shot of blackberry schnapps
+Crafting used 1 each of fermenting powder and blackberry
+
+use 1 ectoplasmic paste
+You gain 7 Adventures
+You gain 24 Muscleboundness
+You gain 21 Magicalness
+You gain 22 Roguishness
+You acquire an effect: Spooky Flavor (duration: 10 Adventures)
+
+use 1 hobo paste
+You gain 9 Adventures
+You gain 23 Muscleboundness
+You gain 20 Enchantedness
+You gain 20 Cheek
+You acquire an effect: Hobo Flavor (duration: 10 Adventures)
+
+buy 1 milky potion for 270 each from 2261352 on 20111225
+You acquire an item: milky potion of detection
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+buy 1 Knob Goblin eyedrops for 200 each from 1945689 on 20111225
+You acquire an item: Knob Goblin eyedrops
+
+use 1 Knob Goblin eyedrops
+You acquire an effect: Peeled Eyeballs (duration: 10 Adventures)
+
+adventure.php?snarfblat=275
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2:  takes 1802 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: fudgecule (10)
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 19 Muscleboundness
+You gain 6 Mysteriousness
+You gain 6 Roguishness
+
+familiar Peppermint Rhino (45 lbs)
+
+adventure.php?snarfblat=275
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2:  takes 1826 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (6)
+You gain 8 Fortitude
+You gain 6 Magicalness
+You gain 7 Chutzpah
+
+adventure.php?snarfblat=275
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2:  takes 1826 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (6)
+You gain 11 Strengthliness
+You gain 3 Wizardliness
+You gain 6 Chutzpah
+
+adventure.php?snarfblat=275
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2:  takes 1824 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (6)
+You gain 9 Fortitude
+You gain 7 Enchantedness
+You gain 5 Sarcasm
+
+adventure.php?snarfblat=275
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2:  takes 1820 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 8 Strengthliness
+You gain 5 Enchantedness
+You gain 7 Sarcasm
+
+adventure.php?snarfblat=275
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2:  takes 1797 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (8)
+You gain 16 Muscleboundness
+You gain 7 Wizardliness
+You gain 3 Chutzpah
+
+adventure.php?snarfblat=275
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2:  takes 1821 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 14 Muscleboundness
+You gain 5 Enchantedness
+You gain 3 Roguishness
+
+adventure.php?snarfblat=275
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2:  takes 1826 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (6)
+You gain 14 Fortitude
+You gain 4 Mysteriousness
+You gain 4 Sarcasm
+
+crimbo11.php?place=yourpresents
+crimbo11.php?place=buygifts
