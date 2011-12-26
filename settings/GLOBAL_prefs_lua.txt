@@ -55,7 +55,7 @@ defaultDropdown1=0
 defaultDropdown2=1
 defaultDropdownSplit=-1
 defaultLimit=10
-defaultLoginServer=1
+defaultLoginServer=2
 displayName
 displayName.boolicious=boolicious
 externalEditor=geany 
@@ -106,7 +106,7 @@ logStatusOnLogin=true
 loginRecoveryHardcore=false
 loginRecoverySoftcore=true
 loginScript
-loginServerName=www.kingdomofloathing.com
+loginServerName=www2.kingdomofloathing.com
 loginWindowLogo=lantern.gif
 logoutScript
 macroDebug=false
