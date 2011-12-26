@@ -24,27 +24,27 @@ MushroomFrame=305,324,1
 OptionsFrame=141,238,5
 ProfileFrame=-3,-3,-1
 RecentEventsFrame=474,284
-RequestFrame=-3,-3,-1
+RequestFrame=337,247,-1
 RequestSynchFrame=3,3,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=-2,-3,0
-TabbedChatFrame=-3,-3,-1
+TabbedChatFrame=390,362,-1
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
-_allYearSucker=false
+_allYearSucker
 _aprilShower=false
 _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
 _bagOfCandy=false
-_ballpit=true
+_ballpit=false
 _banderRunaways=0
 _benettonsCasts=0
-_bonersSummoned=false
+_bonersSummoned
 _bootStomps=0
-_borrowedTimeUsed=false
+_borrowedTimeUsed
 _boxingGloveArrows=0
 _brickoFights=0
 _cameraUsed=false
@@ -53,15 +53,15 @@ _carboLoaded=false
 _chipBags=0
 _companionshipCasts=0
 _crimboTree=false
-_darkChocolateHeart=false
+_darkChocolateHeart
 _deluxeKlawSummons=0
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
-_feastUsed=0
+_feastUsed
 _feastedFamiliars
 _fingertrapArrows=0
-_fudgeWaspFights=0
+_fudgeWaspFights
 _gapBuffs=0
 _gibbererAdv=0
 _gongDrops=0
@@ -71,7 +71,7 @@ _hotTubSoaks=0
 _iceballUses=0
 _inigosCasts=0
 _ironicMoustache=false
-_jackassePlumberGame=false
+_jackassePlumberGame
 _klawSummons=0
 _lastZomboEye=0
 _leafblowerML=1
@@ -89,7 +89,7 @@ _poisonArrows=0
 _poolGames=0
 _precisionCasts=0
 _riftletAdv=0
-_romanticFightsLeft=0
+_romanticFightsLeft
 _sealFigurineUses=0
 _sealsSummoned=0
 _sexChanged=false
@@ -106,7 +106,7 @@ _timeHelmetAdv=0
 _toastSummons=3
 _tokenDrops=0
 _transponderDrops=0
-_trivialAvocationsGame=false
+_trivialAvocationsGame
 _userMods
 _vmaskAdv=0
 _zapCount=0
@@ -570,11 +570,11 @@ choiceAdventure91=2
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=true
+concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2409
-currentFullness=14
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -582,7 +582,7 @@ currentMojoFilters=0
 currentMood=fudgefinding
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=8
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -606,7 +606,7 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8=Kelderred
 demonName9
-demonSummoned=true
+demonSummoned=false
 desktopHeight=600
 desktopWidth=800
 discardedKarma=0
@@ -657,7 +657,7 @@ hpAutoRecoveryTarget=0.8
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=true
 knownAscensions=1
-lastAdventure=Fudge Mountain
+lastAdventure=Cobb's Knob Treasury
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -673,13 +673,13 @@ lastBangPotion827=ettin strength
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=1
+lastBreakfast=2
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=1
+lastCounterDay=2
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=1
@@ -720,7 +720,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=fudge poodle
+lastEncounter=Finally, the Payoff
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -856,7 +856,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=12179\:Fortune Cookie\:fortune.gif\:12296\:Fortune Cookie\:fortune.gif\:12305\:Fortune Cookie\:fortune.gif
+relayCounters=12296\:Fortune Cookie\:fortune.gif\:12305\:Fortune Cookie\:fortune.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -928,7 +928,7 @@ telescopeUpgrades=0
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=3
+tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
