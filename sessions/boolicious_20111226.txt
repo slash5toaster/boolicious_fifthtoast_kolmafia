@@ -2205,3 +2205,306 @@ You acquire an item: red gummi ingot
 
 [12357] The Gummi Mine (in Disguise)
 You lose 395 hit points
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+December 26, 2011 - Boozember 3
+
+Ronald: first quarter
+Grimace: waxing crescent
+Mini-moon: in back, near Ronald
+
+Feast of Boris: 4 days
+Festival of Jarlsberg: 6 days
+Yuletide: 9 days
+Valentine's Day: 25 days
+St. Sneaky Pete's Day: 32 days
+Oyster Egg Day: 39 days
+El Dia De Los Muertos Borrachos: 47 days
+Generic Summer Holiday: 56 days
+Dependence Day: 65 days
+Arrrbor Day: 73 days
+Lab&oacute;r Day: 83 days
+Halloween: 93 days
+
+
+2 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 23
+HP: 18 / 497
+MP: 571 / 571
+
+Mus: 279 (497), tnp = 190
+Mys: 189 (362), tnp = 592
+Mox: 190 (364), tnp = 226
+
+Advs: 33
+Meat: 236,813
+Drunk: 0
+
+
+ > equipment
+
+Hat: Elder Turtle Shell
+Weapon: fouet de tortue-dressage
+Off-hand: eye of the Tiger-lily
+Shirt: Ultracolor™ shirt
+Pants: Galapagosian Cuisses
+
+Acc. 1: fudgecycle
+Acc. 2: Zinc Delta of Tranquility
+Acc. 3: Baron von Ratsworth's monocle
+
+Pet: Peppermint Rhino (48 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Beaten Up (3)
+♫ Ode to Booze (25)
+Earthen Fist (41)
+♫ Fat Leon's Phat Loot Lyric (303)
+Astral Shell (375)
+Tenacity of the Snapper (375)
+Jalapeño Saucesphere (453)
+Elemental Saucesphere (543)
+Jingle Jangle Jingle (635)
+Reptilian Fortitude (638)
+Empathy (678)
+Jabañero Saucesphere (798)
+♫ Polka of Plenty (1,064)
+Scarysauce (1,189)
+Ghostly Shell (2,464)
+Retrograde Relaxation (2,627)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +85.00%
+Item: +159.38%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+mall.php?didadv=0&pudnuggler=peppermint&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=0&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+mall.php?justitems=0&pudnuggler=%22peppermint+patty%22
+mall.php?didadv=0&pudnuggler=%22peppermint%22&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=0&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+mall.php?didadv=0&pudnuggler=peppermint&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=0&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 479 hit points
+
+uneffect Beaten Up
+
+Harvesting your garden
+You acquire peppermint sprout (9)
+
+Use 2 peppermint sprout
+You acquire an item: peppermint patty
+
+Use 2 peppermint sprout
+You acquire an item: peppermint patty
+
+mallsell: 2 peppermint patty
+
+cast 1 Summon Clip Art
+You acquire an item: thyme jelly donut
+
+cast 1 Summon Clip Art
+You acquire an item: thyme jelly donut
+
+cast 1 Summon Clip Art
+You acquire an item: Muschat
+
+[12359] Mix 1 boxed wine + 1 peppermint twist
+You acquire an item: Sangria de Menthe
+Crafting used 1 each of boxed wine and peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[12360] Mix 2 boxed wine + 2 peppermint twist
+You acquire Sangria de Menthe (2)
+Crafting used 2 each of boxed wine and peppermint twist
+
+drink 1 Sangria de Menthe
+You gain 13 Adventures
+You gain 11 Strengthliness
+You gain 38 Enchantedness
+You gain 16 Sarcasm
+You gain 2 Drunkenness
+You lose some of an effect: Ode to Booze
+
+mallsell: 2 Sangria de Menthe
+
+manageprices.php?action=update&price5403=9499999&limit5403=0&price5412=11250&limit5412=0&price2973=5600&limit2973=0&price2959=5500&limit2959=0&price2981=5400&limit2981=0&price5430=5000&limit5430=0&price5259=4000&limit5259=0&price258=2000&limit258=1&price5397=1350&limit5397=0&price5091=500&limit5091=0&price594=410&limit594=0&price2687=400&limit2687=0&price129=400&limit129=0&price2633=365&limit2633=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=289&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price703=250&limit703=0&price615=248&limit615=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price356=222&limit356=0&price2984=220&limit2984=0&price544=200&limit544=0&price1297=200&limit1297=0&price5087=200&limit5087=0&price643=200&limit643=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price1866=186&limit1866=0&price3844=184&limit3844=0&price1838=182&limit1838=0&price402=180&limit402=0&price835=180&limit835=0&price1294=180&limit1294=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price240=160&limit240=0&price218=155&limit218=0&price2613=155&limit2613=0&price2055=150&limit2055=0&price352=150&limit352=0&price1826=140&limit1826=0&price475=130&limit475=0&price432=120&limit432=0&price431=120&limit431=0&price1655=120&limit1655=0&price1160=110&limit1160=0&price449=100&limit449=0&price120=100&limit120=0&price634=100&limit634=0&price565=100&limit565=0&price9=100&limit9=1&price166=100&limit166=0&price172=100&limit172=0&price123=100&limit123=0&price1750=100&limit1750=0&price1751=100&limit1751=0&price3=100&limit3=0&price4719=100&limit4719=0&price38=100&limit38=0&price35=100&limit35=0&price36=100&limit36=0&price4718=100&limit4718=0&price5=100&limit5=0&price6=100&limit6=0&price1=100&limit1=0&price77=100&limit77=0&price119=100&limit119=0&price21=100&limit21=0&price136=100&limit136=0&price269=100&limit269=0
+
+[12361] Lollipop Forest
+Encounter: lollicat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lollicat takes 595 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You gain 2 Strongness
+You gain 1 Enchantedness
+You gain 3 Roguishness
+
+[12362] Lollipop Forest
+Encounter: lolligator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lolligator takes 596 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: lollipop stick
+You gain 3 Muscleboundness
+You gain 2 Magicalness
+You gain 1 Chutzpah
+
+Cook 1 plain pizza + 1 goat cheese
+You acquire an item: goat cheese pizza
+Crafting used 1 each of goat cheese and plain pizza
+
+Cook 1 large cocoa eggshell fragment + 1 large cocoa eggshell fragment
+You acquire an item: cocoa egg
+Crafting used 1 each of large cocoa eggshell fragment and large cocoa eggshell fragment
+
+Cook 1 spooky mushroom + 1 goat cheese
+You acquire an item: stuffed spooky mushroom
+Crafting used 1 each of goat cheese and spooky mushroom
+
+Cook 1 spooky mushroom + 1 goat cheese
+You acquire an item: stuffed spooky mushroom
+Crafting used 1 each of goat cheese and spooky mushroom
+
+take from closet: 1 star key lime pie
+You acquire an item: star key lime pie
+
+Buy and eat 1 null for 0 Meat
+You gain 12 Adventures
+You acquire an effect: Healthy, Elfy, and Wise (duration: 30 Adventures)
+You gain 5 Fullness
+You spent 100 Meat
+
+buy 1 milk of magnesium for 1150 each from 1890951 on 20111226
+You acquire an item: milk of magnesium
+
+use 1 milk of magnesium
+You acquire an effect: Got Milk (duration: 10 Adventures)
+
+Use 2 peppermint sprout
+You acquire an item: peppermint patty
+
+eat 1 peppermint patty
+You gain 12 Adventures
+You gain 14 Muscleboundness
+You gain 18 Magicalness
+You gain 10 Smarm
+You gain 2 Fullness
+You lose some of an effect: Got Milk
+
+eat 1 mind flayer corpse
+You gain 10 Adventures
+You gain 23 Enchantedness
+You gain 5 Fullness
+You lose some of an effect: Got Milk
+
+Buy and eat 1 null for 0 Meat
+You gain 17 Adventures
+You acquire an effect: Castaway Physique (duration: 15 Adventures)
+You gain 5 Drunkenness
+You spent 100 Meat
+You lose some of an effect: Ode to Booze
+
+Buy and eat 1 null for 0 Meat
+You gain 18 Adventures
+You acquire an effect: Rad-ish (duration: 15 Adventures)
+You gain 5 Drunkenness
+You spent 100 Meat
+You lose some of an effect: Ode to Booze
+
+drink 1 ducha de oro
+You gain 14 Adventures
+You gain 10 Strengthliness
+You gain 25 Magicalness
+You gain 4 Drunkenness
+You lose some of an effect: Ode to Booze
+
+drink 1 grog
+You gain 8 Adventures
+You gain 11 Strongness
+You gain 3 Drunkenness
+You lose some of an effect: Ode to Booze
