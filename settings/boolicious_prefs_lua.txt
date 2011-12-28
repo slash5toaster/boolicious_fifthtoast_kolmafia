@@ -1,5 +1,5 @@
 =4
-AdventureFrame=431,137,3
+AdventureFrame=112,137,0
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=742,435
@@ -71,7 +71,7 @@ _hotTubSoaks=0
 _iceballUses=0
 _inigosCasts=0
 _ironicMoustache=false
-_jackassePlumberGame=false
+_jackassePlumberGame=true
 _klawSummons=0
 _lastZomboEye=0
 _leafblowerML=1
@@ -128,7 +128,7 @@ autoSteal=true
 autostartGalaktikQuest=true
 availableBoneChips=0
 availableCRIMBCOScrip=0
-availableCandyCredits=0
+availableCandyCredits=270
 availableCommendations=0
 availableCrimbux=0
 availableDimes=17
@@ -579,7 +579,7 @@ currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
 currentMojoFilters=0
-currentMood=apathetic
+currentMood=fudgefinding
 currentNunneryMeat=93
 currentPvpVictories
 currentSpleenUse=0
@@ -720,7 +720,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=fudge oyster
+lastEncounter=fudge weasel
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
