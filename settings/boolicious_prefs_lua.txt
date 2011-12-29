@@ -15,7 +15,7 @@ FamiliarTrainingFrame=161,307
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=-276,108,-1
+KoLDesktop=202,133,-1
 LoginFrame=409,276,0
 MailboxFrame=289,310,1
 MaximizerFrame=169,232
@@ -574,7 +574,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=15
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
