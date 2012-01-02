@@ -2002,3 +2002,523 @@ You acquire an item: dull fish scale
 You gain 50 Fortitude
 You gain 20 Enchantedness
 You gain 26 Smarm
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 1, 2012 - Dougtember 1
+
+Ronald: new moon
+Grimace: full moon
+Mini-moon: behind Ronald
+
+Festival of Jarlsberg: today
+Yuletide: 3 days
+Valentine's Day: 19 days
+St. Sneaky Pete's Day: 26 days
+Oyster Egg Day: 33 days
+El Dia De Los Muertos Borrachos: 41 days
+Generic Summer Holiday: 50 days
+Dependence Day: 59 days
+Arrrbor Day: 67 days
+Lab&oacute;r Day: 77 days
+Halloween: 87 days
+Feast of Boris: 94 days
+
+Festival of Jarlsberg
+Muscle bonus today and tomorrow.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 23
+HP: 1369 / 1,369
+MP: 520 / 794
+
+Mus: 890 (509), tnp = 808
+Mys: 504 (369), tnp = 354
+Mox: 506 (371), tnp = 301
+
+Advs: 64
+Meat: 109,058
+Drunk: 0
+
+
+ > equipment
+
+Hat: hardened slime hat
+Weapon: Flail of the Seven Aspects
+Off-hand: Mer-kin roundshield
+Shirt: star shirt
+Pants: sugar shorts
+
+Acc. 1: cursed scrunchie
+Acc. 2: Pokëmann figurine: Frank
+Acc. 3: Slow Talkin' Elliot's dogtags
+
+Pet: Pair of Stomping Boots (25 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+2 of 3 AT buffs active.
+Earthen Fist (56)
+♫ The Sonata of Sneakiness (345)
+Tenacity of the Snapper (368)
+Astral Shell (368)
+Jalapeño Saucesphere (446)
+Elemental Saucesphere (536)
+Jingle Jangle Jingle (628)
+Reptilian Fortitude (631)
+Empathy (671)
+Jabañero Saucesphere (791)
+♫ Polka of Plenty (1,057)
+Scarysauce (1,182)
+Retrograde Relaxation (1,870)
+Ghostly Shell (2,457)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: -30.00%
+
+Exp: +0.00
+Meat: +85.00%
+Item: +79.08%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+familiar Li'l Xenomorph (12 lbs)
+
+equip hat worn tophat
+
+equip weapon drywall axe
+
+equip acc2 Pokëmann figurine: Moog
+
+equip acc3 ridiculous sunglasses
+
+Unequip Pair of Stomping Boots
+
+equip familiar Li'l Businessman Kit
+
+equip hat miner's helmet
+unequip weapon
+
+equip shirt Ultracolor™ shirt
+
+equip pants The Necbromancer's Shorts
+
+equip acc2 Baron von Ratsworth's monocle
+
+equip acc3 Zinc Delta of Tranquility
+
+buy 1 Knob Goblin eyedrops for 200 each from 402816 on 20120101
+You acquire an item: Knob Goblin eyedrops
+
+use 1 Knob Goblin eyedrops
+You acquire an effect: Peeled Eyeballs (duration: 10 Adventures)
+friars blessing 1
+You acquire an effect: Brother Flying Burrito's Blessing (duration: 20 Adventures)
+
+equip acc1 fudgecycle
+
+familiar Peppermint Rhino (30 lbs)
+
+[13115] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 118 damage.
+Round 2: boolicious attacks!
+Round 3: fudge poodle takes 118 damage.
+Round 3: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (10)
+You gain 27 Fortitude
+You gain 7 Enchantedness
+You gain 3 Roguishness
+
+equip weapon fouet de tortue-dressage
+
+equip off-hand sucker bucket
+
+[13116] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 517 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (10)
+You gain 17 Fortitude
+You gain 10 Wizardliness
+You gain 2 Smarm
+
+[13117] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 536 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (6)
+You gain 17 Muscleboundness
+You gain 2 Magicalness
+You gain 6 Chutzpah
+
+[13118] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 516 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (10)
+You gain 18 Strengthliness
+You gain 4 Enchantedness
+You gain 6 Roguishness
+
+[13119] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 518 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (8)
+You gain 18 Muscleboundness
+You gain 5 Enchantedness
+You gain 7 Smarm
+
+[13120] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 538 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 13 Strengthliness
+You gain 5 Enchantedness
+You gain 4 Chutzpah
+
+[13121] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 514 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (9)
+You gain 18 Strengthliness
+You gain 6 Wizardliness
+You gain 5 Chutzpah
+
+[13122] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 498 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (12)
+You gain 26 Fortitude
+You gain 2 Magicalness
+You gain 9 Roguishness
+
+[13123] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 504 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (10)
+You gain 21 Fortitude
+You gain 8 Wizardliness
+You gain 7 Chutzpah
+
+[13124] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 535 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (6)
+You gain 10 Fortitude
+You gain 6 Wizardliness
+You gain 5 Smarm
+
+[13125] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 528 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 15 Strengthliness
+You gain 1 Wizardliness
+You gain 8 Roguishness
+
+[13126] Fudge Mountain
+Encounter: Fudge Mountain Breakdown
+Took choice 559/2: fight a swarm of fudgewasps or skip adventure
+choice.php?whichchoice=559&option=2&pwd
+Encounter: swarm of fudgewasps
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: swarm of fudgewasps takes 200 damage.
+Round 2: swarm of fudgewasps takes 3 damage.
+Round 2: swarm of fudgewasps takes 6 damage.
+Round 2: swarm of fudgewasps takes 3 damage.
+You lose 32 hit points
+Round 2: boolicious attacks!
+Round 3: swarm of fudgewasps takes 198 damage.
+Round 3: swarm of fudgewasps takes 3 damage.
+Round 3: swarm of fudgewasps takes 9 damage.
+Round 3: swarm of fudgewasps takes 3 damage.
+You lose 31 hit points
+Round 3: boolicious attacks!
+Round 4: swarm of fudgewasps takes 199 damage.
+Round 4: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (19)
+You gain 72 Muscleboundness
+You gain 27 Wizardliness
+You gain 32 Smarm
+
+[13127] Fudge Mountain
+Encounter: Fudge Mountain Breakdown
+Took choice 559/2: fight a swarm of fudgewasps or skip adventure
+choice.php?whichchoice=559&option=2&pwd
+Encounter: swarm of fudgewasps
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: swarm of fudgewasps takes 198 damage.
+Round 2: swarm of fudgewasps takes 3 damage.
+Round 2: swarm of fudgewasps takes 10 damage.
+Round 2: swarm of fudgewasps takes 4 damage.
+You lose 34 hit points
+Round 2: boolicious attacks!
+Round 3: swarm of fudgewasps takes 199 damage.
+Round 3: swarm of fudgewasps takes 2 damage.
+Round 3: swarm of fudgewasps takes 2 damage.
+Round 3: swarm of fudgewasps takes 3 damage.
+You lose 29 hit points
+Round 3: boolicious attacks!
+Round 4: swarm of fudgewasps takes 198 damage.
+Round 4: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (18)
+You gain 75 Strongness
+You gain 28 Enchantedness
+You gain 30 Chutzpah
+
+[13128] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 529 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (6)
+You gain 17 Fortitude
+You gain 7 Wizardliness
+You gain 1 Smarm
+
+[13129] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 493 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (11)
+You gain 18 Beefiness
+You gain 7 Enchantedness
+You gain 10 Chutzpah
+
+[13130] Fudge Mountain
+Encounter: Fudge Mountain Breakdown
+Took choice 559/2: fight a swarm of fudgewasps or skip adventure
+choice.php?whichchoice=559&option=2&pwd
+
+[13130] Fudge Mountain
+Encounter: fudge oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge oyster takes 514 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (9)
+You gain 22 Muscleboundness
+You gain 6 Enchantedness
+You gain 3 Sarcasm
+
+[13131] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 491 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (11)
+You gain 19 Muscleboundness
+You gain 8 Magicalness
+You gain 8 Chutzpah
+
+[13132] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 530 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (6)
+You gain 17 Beefiness
+You gain 6 Enchantedness
+You gain 3 Sarcasm
+
+[13133] Fudge Mountain
+Encounter: fudge weasel
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge weasel takes 528 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 11 Strengthliness
+You gain 6 Enchantedness
+You gain 6 Cheek
+
+[13134] Fudge Mountain
+Encounter: fudge vulture
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge vulture takes 531 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (6)
+You gain 11 Muscleboundness
+You gain 8 Enchantedness
+You gain 4 Cheek
+
+[13135] Fudge Mountain
+Encounter: fudge poodle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge poodle takes 487 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (11)
+You gain 14 Strengthliness
+You gain 15 Magicalness
+You gain 5 Cheek
+
+[13136] Fudge Mountain
+Encounter: fudge monkey
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fudge monkey takes 524 damage.
+Round 2: boolicious wins the fight!
+After Battle: patty thunders around the area looking for goodies.  Mostly candy goodies.
+You acquire an item: fudgecule (5)
+You gain 13 Muscleboundness
+You gain 4 Enchantedness
+You gain 7 Roguishness
+
+Visiting Fudge Wand
+Encounter: You're the Fudge Wizard Now, Dog
+Encounter: You're the Fudge Wizard Now, Dog
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be feistier
+
+cast 1 Summon Clip Art
+You acquire an item: 4:20 bomb
