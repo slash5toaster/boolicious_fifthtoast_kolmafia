@@ -235,3 +235,395 @@ You acquire an item: Feliz Navidad
 Crafting used 1 each of bottle of tequila and peppermint twist
 
 mallsell: 1 Vodka Matryoshka
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 2, 2012 - Dougtember 2
+
+Ronald: waxing crescent
+Grimace: full moon
+Mini-moon: in front of Ronald, L side
+
+Yuletide: 2 days
+Festival of Jarlsberg: 7 days
+Valentine's Day: 18 days
+St. Sneaky Pete's Day: 25 days
+Oyster Egg Day: 32 days
+El Dia De Los Muertos Borrachos: 40 days
+Generic Summer Holiday: 49 days
+Dependence Day: 58 days
+Arrrbor Day: 66 days
+Lab&oacute;r Day: 76 days
+Halloween: 86 days
+Feast of Boris: 93 days
+
+
+Muscle bonus today and yesterday.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 23
+HP: 817 / 817
+MP: 602 / 602
+
+Mus: 522 (509), tnp = 319
+Mys: 382 (369), tnp = 176
+Mox: 384 (371), tnp = 130
+
+Advs: 108
+Meat: 114,645
+Drunk: 0
+
+
+ > equipment
+
+Hat: miner's helmet
+Weapon: fouet de tortue-dressage
+Off-hand: sucker bucket
+Shirt: Ultracolor™ shirt
+Pants: The Necbromancer's Shorts
+
+Acc. 1: fudgecycle
+Acc. 2: Baron von Ratsworth's monocle
+Acc. 3: Zinc Delta of Tranquility
+
+Pet: Peppermint Rhino (40 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+2 of 3 AT buffs active.
+Gonna Get You, Sucker (8)
+Earthen Fist (32)
+♫ The Sonata of Sneakiness (321)
+Astral Shell (344)
+Tenacity of the Snapper (344)
+Jalapeño Saucesphere (422)
+Elemental Saucesphere (512)
+Jingle Jangle Jingle (604)
+Reptilian Fortitude (607)
+Empathy (647)
+Jabañero Saucesphere (767)
+♫ Polka of Plenty (1,033)
+Scarysauce (1,158)
+Retrograde Relaxation (1,846)
+Ghostly Shell (2,433)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +85.00%
+Item: +126.90%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+buy 1 party hat for 300 each from Market Demon
+You acquire an item: party hat
+You spent 300 Meat
+
+buy 3 hermit permit for 100 each from Market Demon
+You acquire hermit permit (3)
+You spent 300 Meat
+
+familiar Pair of Stomping Boots (35 lbs)
+
+oldman.php?action=talk
+
+Visiting Your Presents
+
+Visiting Crimbo Town Toy Factory
+
+Buy and drink 1 Desert Island Iced Tea for 100 Meat
+You gain 13 Adventures
+You acquire an effect: Castaway Physique (duration: 15 Adventures)
+You gain 5 Drunkenness
+You spent 100 Meat
+
+Buy and drink 1 Desert Island Iced Tea for 100 Meat
+You gain 13 Adventures
+You acquire an effect: Castaway Physique (duration: 15 Adventures)
+You gain 5 Drunkenness
+You spent 100 Meat
+
+Buy and eat 1 Turnip and Rutabaga Pie for 100 Meat
+You gain 12 Adventures
+You acquire an effect: Healthy, Elfy, and Wise (duration: 30 Adventures)
+You gain 5 Fullness
+You spent 100 Meat
+
+Buy and eat 1 Turnip and Rutabaga Pie for 100 Meat
+You gain 13 Adventures
+You acquire an effect: Healthy, Elfy, and Wise (duration: 30 Adventures)
+You gain 5 Fullness
+You spent 100 Meat
+
+Buy and drink 1 Jerkitini for 100 Meat
+You gain 13 Adventures
+You acquire an effect: Jerky, Boy (duration: 15 Adventures)
+You gain 5 Drunkenness
+You spent 100 Meat
+
+use 1 fishy paste
+You gain 8 Adventures
+You gain 27 Beefiness
+You gain 19 Wizardliness
+You gain 21 Roguishness
+You acquire an effect: Fishy (duration: 10 Adventures)
+
+use 1 fishy paste
+You gain 10 Adventures
+You gain 26 Strengthliness
+You gain 18 Wizardliness
+You gain 19 Chutzpah
+You acquire an effect: Fishy (duration: 10 Adventures)
+
+equip hat worn tophat
+
+equip weapon drywall axe
+
+equip shirt star shirt
+
+equip pants sugar shorts
+
+equip acc1 cursed scrunchie
+
+equip acc2 Pokëmann figurine: Moog
+
+equip acc3 ridiculous sunglasses
+
+equip familiar stomp box
+Jumping into Awesome Ball Pit in clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+buy 1 serum of sarcasm for 510 each from 1983875 on 20120102
+You acquire an item: serum of sarcasm
+
+use 1 serum of sarcasm
+You acquire an effect: Superhuman Sarcasm (duration: 5 Adventures)
+
+use 1 effervescent potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+use 1 lime supersucker
+You acquire an effect: Sugar Rush (duration: 30 Adventures)
+You acquire an effect: In the Limelight (duration: 30 Adventures)
+
+buy 1 shot of flower schnapps for 550 each from 182644 on 20120102
+You acquire an item: shot of flower schnapps
+
+drink 1 shot of flower schnapps
+You gain 2 Adventures
+You acquire an effect: Flower Power (duration: 3 Adventures)
+You gain 1 Drunkenness
+
+buy 1 hot wad for 600 each from 1395211 on 20120102
+You acquire an item: hot wad
+
+use 1 hot wad
+You gain 1 Adventure
+You gain 40 Strongness
+You gain 10 Wizardliness
+You gain 17 Chutzpah
+You acquire an effect: Hot Blooded (duration: 10 Adventures)
+
+buy 1 spooky wad for 540 each from 845186 on 20120102
+You acquire an item: spooky wad
+
+use 1 spooky wad
+You gain 1 Adventure
+You gain 10 Strengthliness
+You gain 28 Wizardliness
+You gain 19 Smarm
+You acquire an effect: Spooky Demeanor (duration: 10 Adventures)
+
+buy 5 hair spray for 24 each from Market Demon
+You acquire hair spray (5)
+You spent 120 Meat
+
+use 5 hair spray
+You acquire an effect: Butt-Rock Hair (duration: 15 Adventures)
+
+buy 1 Black Body™ spray for 300 each from 608418 on 20120102
+You acquire an item: Black Body™ spray
+
+use 1 Black Body™ spray
+You acquire an effect: Radiating Black Body&trade; (duration: 10 Adventures)
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+
+buy 1 twinkly wad for 404 each from 1557378 on 20120102
+You acquire an item: twinkly wad
+
+use 1 twinkly wad
+You gain 1 Adventure
+You gain 13 Fortitude
+You gain 9 Enchantedness
+You gain 8 Cheek
+You acquire an effect: Aspect of the Twinklefairy (duration: 10 Adventures)
+
+buy 1 stench wad for 525 each from 1305362 on 20120102
+You acquire an item: stench wad
+
+use 1 stench wad
+You gain 1 Adventure
+You gain 25 Strongness
+You gain 26 Magicalness
+You gain 9 Smarm
+You acquire an effect: Stenchtastic (duration: 10 Adventures)
+
+buy 1 cold wad for 604 each from 1305362 on 20120102
+You acquire an item: cold wad
+
+use 1 cold wad
+You gain 1 Adventure
+You gain 37 Fortitude
+You gain 16 Mysteriousness
+You gain 10 Chutzpah
+You acquire an effect: Cold Blooded (duration: 10 Adventures)
+
+buy 1 pirate pamphlet for 500 each from 692002 on 20120102
+You acquire an item: pirate pamphlet
+
+use 1 pirate pamphlet
+You acquire an effect: Charrrming (duration: 10 Adventures)
+
+drink 1 Muschat
+You gain 3 Adventures
+You gain 37 Roguishness
+You gain a Moxie point!
+You acquire an effect: L'instinct F&eacute;lin (duration: 20 Adventures)
+You gain 1 Drunkenness
+
+use 1 handsomeness potion
+You acquire an effect: Mysteriously Handsome (duration: 5 Adventures)
+
+use 1 cold-filtered water
+You acquire an effect: Purity of Spirit (duration: 10 Adventures)
+
+buy 1 oil of stability for 1297 each from 1877436 on 20120102
+You acquire an item: oil of stability
+
+use 1 oil of stability
+You acquire an effect: Stabilizing Oiliness (duration: 5 Adventures)
+
+buy 1 knight cookie for 12000 each from 1813032 on 20120102
+You acquire an item: knight cookie
+
+eat 1 knight cookie
+You gain 4 Adventures
+You gain 29 Chutzpah
+You acquire an effect: Knightlife (duration: 30 Adventures)
+You gain 1 Fullness
+
+[13139] Fernswarthy's Basement (Level 333)
+Buffed Moxie Test: 3,817 current, 3,673 needed
+
+equip hat hardened slime hat
+unequip weapon
+
+cast 1 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 33 Adventures)
+
+equip hat party hat
+
+cast 35 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 1155 Adventures)
+
+equip hat Ol' Scratch's stovepipe hat
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 3,151 hit points
+
+[13140] Fernswarthy's Basement (Level 334)
+Encounter: 84 Bottles of Beer on a Golem
+Round 0: boolicious loses initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: 84 bottles of beer on a golem takes 1 damage.
+Round 1: 84 bottles of beer on a golem takes 2 damage.
+Round 1: 84 bottles of beer on a golem takes 4 damage.
+You lose 624 hit points
+Round 1: boolicious casts FLYING FIRE FIST!
+Round 2: 84 bottles of beer on a golem takes 5992 damage.
+You lose an effect: Salamanderenity
+Round 2: Dr Marten does a little dance on top of it, to the tune of 28 damage.
+Round 2: 84 bottles of beer on a golem takes 28 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten tries to start a mosh pit, but ends up slam-dancing with itself.
+You gain 1159 Fortitude
+You gain a Muscle point!
+You gain 414 Enchantedness
+You gain a Mysticality point!
+You gain 436 Roguishness
+
+[13141] Fernswarthy's Basement (Level 335)
+Encounter: Save the Dolls/Save the Cardboard
+You gain 554 Magicalness
+You gain a Mysticality point!
