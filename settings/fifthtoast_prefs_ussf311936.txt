@@ -1,7 +1,7 @@
 AdventureFrame=203,187,0
 CouncilFrame=424,322,-1
 KoLDesktop=209,132,-1
-LoginFrame=729,365,0
+LoginFrame=2649,365,0
 MaximizerFrame=326,275
 TabbedChatFrame=1072,132,0
 _absintheDrops=0
@@ -38,6 +38,7 @@ _fudgeWaspFights=0
 _gapBuffs=0
 _gibbererAdv=0
 _gongDrops=0
+_grooseDrops=0
 _hareAdv=0
 _hipsterAdv=0
 _hotTubSoaks=0
@@ -46,6 +47,7 @@ _inigosCasts=0
 _ironicMoustache=false
 _jackassePlumberGame=false
 _klawSummons=0
+_kloopDrops=0
 _lastZomboEye=0
 _leafblowerML=1
 _legendaryBeat=false
@@ -496,7 +498,16 @@ choiceAdventure554=0
 choiceAdventure557=0
 choiceAdventure558=0
 choiceAdventure559=0
+choiceAdventure560=1
+choiceAdventure561=0
 choiceAdventure562=0
+choiceAdventure563=1
+choiceAdventure564=1
+choiceAdventure565=0
+choiceAdventure566=1
+choiceAdventure567=1
+choiceAdventure568=0
+choiceAdventure569=1
 choiceAdventure6=1
 choiceAdventure7=1
 choiceAdventure71=1
@@ -529,7 +540,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=5
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -673,7 +684,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=fudge poodle
+lastEncounter=fudge monkey
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=-1
@@ -854,7 +865,7 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster
-stationaryButton1
+stationaryButton1=5003
 stationaryButton2
 stationaryButton3
 stationaryButton4
