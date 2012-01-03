@@ -1,8 +1,9 @@
-AdventureFrame=255,213,0
+AdventureFrame=203,187,0
+CouncilFrame=424,322,-1
 KoLDesktop=209,132,-1
 LoginFrame=409,276,0
 MaximizerFrame=326,275
-TabbedChatFrame=390,362,0
+TabbedChatFrame=715,353,0
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -528,7 +529,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=15
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -610,7 +611,7 @@ hpAutoRecoveryTarget=1.0
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=false
 knownAscensions=0
-lastAdventure=Degrassi Knoll
+lastAdventure=Cobb's Knob Barracks
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -625,13 +626,13 @@ lastBangPotion827
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=9
+lastBreakfast=10
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=5
-lastCounterDay=9
+lastCounterDay=10
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -672,12 +673,12 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=Gnollish Piebaker
+lastEncounter=Knob Goblin Elite Guard
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=-1
 lastGalleryUnlock=-1
-lastGuildStoreOpen=-1
+lastGuildStoreOpen=0
 lastGuyMadeOfBeesReset=0
 lastHermitReset=0
 lastHiddenCityAscension=0
