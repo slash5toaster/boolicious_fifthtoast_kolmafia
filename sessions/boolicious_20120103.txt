@@ -3515,3 +3515,165 @@ You lose 373 hit points
 You lose 408 hit points
 
 [13498] The Gummi Mine (in Disguise)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 3, 2012 - Dougtember 3
+
+Ronald: first quarter
+Grimace: waning gibbous
+Mini-moon: front center
+
+Yuletide: tomorrow
+Festival of Jarlsberg: 6 days
+Valentine's Day: 17 days
+St. Sneaky Pete's Day: 24 days
+Oyster Egg Day: 31 days
+El Dia De Los Muertos Borrachos: 39 days
+Generic Summer Holiday: 48 days
+Dependence Day: 57 days
+Arrrbor Day: 65 days
+Lab&oacute;r Day: 75 days
+Halloween: 85 days
+Feast of Boris: 92 days
+
+
+2 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 23
+HP: 25 / 521
+MP: 597 / 597
+
+Mus: 285 (521), tnp = 90
+Mys: 203 (379), tnp = 110
+Mox: 203 (379), tnp = 268
+
+Advs: 25
+Meat: 163,234
+Drunk: 19
+
+
+ > equipment
+
+Hat: Big Candy's tophat
+Weapon: fouet de tortue-dressage
+Off-hand: sucker bucket
+Shirt: star shirt
+Pants: Galapagosian Cuisses
+
+Acc. 1: fudgecycle
+Acc. 2: Zinc Delta of Tranquility
+Acc. 3: Baron von Ratsworth's monocle
+
+Pet: Peppermint Rhino (45 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+1 of 3 AT buffs active.
+Beaten Up (3)
+Jalapeño Saucesphere (63)
+Elemental Saucesphere (153)
+Jingle Jangle Jingle (245)
+Reptilian Fortitude (248)
+Empathy (288)
+Jabañero Saucesphere (408)
+♫ Polka of Plenty (674)
+Scarysauce (799)
+Retrograde Relaxation (1,487)
+Ghostly Shell (2,074)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +85.00%
+Item: +129.75%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 7 Summon Resolutions
+You acquire an item: resolution: be kinder
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be luckier
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be smarter
+
+use 1 resolution: be more adventurous
+custom outfit Rollover Jammies
+unequip weapon
+unequip offhand
+
+uneffect Beaten Up
