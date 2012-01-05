@@ -253,3 +253,98 @@ You gain 500 Meat
 equip hat mariachi hat
 
 equip pants Knob Goblin elite pants
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 4, 2012 - Dougtember 4
+
+Ronald: waxing gibbous
+Grimace: waning gibbous
+Mini-moon: in front of Grimace, R side
+
+Yuletide: today
+Festival of Jarlsberg: 5 days
+Valentine's Day: 16 days
+St. Sneaky Pete's Day: 23 days
+Oyster Egg Day: 30 days
+El Dia De Los Muertos Borrachos: 38 days
+Generic Summer Holiday: 47 days
+Dependence Day: 56 days
+Arrrbor Day: 64 days
+Lab&oacute;r Day: 74 days
+Halloween: 84 days
+Feast of Boris: 91 days
+
+Yuletide
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 6
+HP: 29 / 56
+MP: 32 / 32
+
+Mus: 30 (24), tnp = 20
+Mys: 29 (23), tnp = 42
+Mox: 45 (33), tnp = 28
+
+Advs: 152
+Meat: 1,380
+Drunk: 0
+
+
+ > equipment
+
+Hat: mariachi hat
+Weapon: big bass drum
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin elite pants
+
+Acc. 1: tiny plastic abominable fudgeman
+Acc. 2: shiny ring
+Acc. 3: tiny plastic Big Candy
+
+Pet: Tickle-Me Emilio (4 lbs)
+Item: (none)
+
+ > skills
+
+Disco Bandit
+ - Disco Aerobics
+ - Disco Eye-Poke
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Brother Flying Burrito's Blessing (11)
+Disco State of Mind (128)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +1.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
