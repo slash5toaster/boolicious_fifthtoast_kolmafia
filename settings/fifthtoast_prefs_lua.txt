@@ -3,7 +3,7 @@ CouncilFrame=424,322,-1
 KoLDesktop=209,132,-1
 LoginFrame=409,276,0
 MaximizerFrame=326,275
-TabbedChatFrame=715,353,1
+TabbedChatFrame=715,353,0
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -540,7 +540,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=1
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -622,7 +622,7 @@ hpAutoRecoveryTarget=1.0
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=false
 knownAscensions=0
-lastAdventure=Cobb's Knob Treasury
+lastAdventure=Pre-Cyrpt Cemetary
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -684,7 +684,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=Finally, the Payoff
+lastEncounter=Smart Skelton
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=-1
@@ -820,7 +820,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=417\:Semirare window begin loc\=*\:lparen.gif\:457\:Semirare window end loc\=*\:rparen.gif
+relayCounters=457\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
