@@ -16,7 +16,7 @@ FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
 KoLDesktop=509,31,-1
-LoginFrame=2649,365,0
+LoginFrame=1974,98,0
 MailboxFrame=289,310,1
 MaximizerFrame=1005,99
 MeatManageFrame=1921,395
@@ -28,8 +28,8 @@ RequestFrame=-3,-3,-1
 RequestSynchFrame=2575,334,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
-StoreManageFrame=949,297,0
-TabbedChatFrame=36,33,3
+StoreManageFrame=-4,-4,0
+TabbedChatFrame=36,33,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -803,7 +803,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=0
+libramSummons=17
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -914,11 +914,11 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=15
-stationaryButton2=4009
-stationaryButton3=71
-stationaryButton4=66
-stationaryButton5=73
+stationaryButton1
+stationaryButton2
+stationaryButton3
+stationaryButton4
+stationaryButton5
 styxPixieVisited=false
 sugarCounter4178=0
 sugarCounter4179=0
