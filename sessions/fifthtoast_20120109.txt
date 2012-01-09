@@ -1,0 +1,688 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 9, 2012 - Jarlsuary 1
+
+Ronald: new moon
+Grimace: new moon
+Mini-moon: in front of Grimace, L side
+
+Festival of Jarlsberg: today
+Valentine's Day: 11 days
+St. Sneaky Pete's Day: 18 days
+Oyster Egg Day: 25 days
+El Dia De Los Muertos Borrachos: 33 days
+Generic Summer Holiday: 42 days
+Dependence Day: 51 days
+Arrrbor Day: 59 days
+Lab&oacute;r Day: 69 days
+Halloween: 79 days
+Feast of Boris: 86 days
+Yuletide: 91 days
+
+Festival of Jarlsberg
+Moxie bonus today and yesterday.
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 6
+HP: 63 / 79
+MP: 35 / 35
+
+Mus: 43 (27), tnp = 27
+Mys: 32 (26), tnp = 41
+Mox: 49 (38), tnp = 58
+
+Advs: 200
+Meat: 3,360
+Drunk: 0
+
+
+ > equipment
+
+Hat: Knob Goblin elite helm
+Weapon: Knob Goblin elite polearm
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin elite pants
+
+Acc. 1: tiny plastic abominable fudgeman
+Acc. 2: shiny ring
+Acc. 3: tiny plastic Big Candy
+
+Pet: Tickle-Me Emilio (12 lbs)
+Item: (none)
+
+ > skills
+
+Disco Bandit
+ - Disco Aerobics
+ - Disco Eye-Poke
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Disco State of Mind (72)
+Ghostly Shell (309)
+♫ Cringle's Curative Carol (309)
+Reptilian Fortitude (309)
+Scarysauce (309)
+Jingle Jangle Jingle (309)
+Tenacity of the Snapper (309)
+Astral Shell (309)
+Jalapeño Saucesphere (309)
+Empathy (309)
+Jabañero Saucesphere (309)
+♫ Polka of Plenty (309)
+♫ Jackasses' Symphony of Destruction (309)
+Elemental Saucesphere (309)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +1.73
+Meat: +50.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+game.php?mainpane=messages
+
+[459] Belilafs Comedy Club
+Encounter: CH Imp
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+You acquire an item: imp air
+Round 2: Emilio says &quot;Hey, I found this 60 Meat on the ground here.  And I figure since I found it, that-&quot;You point your Knob Goblin elite polearm at him.&quot;-that I'd give it to you.&quot;  He grins sheepishly and hands over the Meat.
+You gain 60 Meat.
+Round 2: ch imp takes 2 damage.
+Round 2: ch imp takes 6 damage.
+Round 2: ch imp takes 3 damage.
+You lose 9 hit points
+Round 2: fifthtoast attacks!
+Round 3: Emilio pulls out a can of beer, takes one sip, and pours the rest on your opponent's feet, dealing 34 damage.
+Round 3: ch imp takes 34 damage.
+Round 3: ch imp takes 3 damage.
+Round 3: ch imp takes 3 damage.
+Round 3: ch imp takes 4 damage.
+You lose 4 hit points
+Round 3: fifthtoast attacks!
+Round 4: ch imp takes 2 damage.
+Round 4: ch imp takes 2 damage.
+Round 4: ch imp takes 5 damage.
+You lose 10 hit points
+Round 4: fifthtoast wins the fight!
+You gain 37 Meat
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 9 Strengthliness
+You gain 2 Enchantedness
+You gain 10 Chutzpah
+
+[460] Hey Deze Arena
+Encounter: A Dicey Situation
+You acquire an item: gin-soaked blotter paper
+
+[461] Hey Deze Arena
+Encounter: inkubus
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: inkubus takes 1 damage.
+Round 2: inkubus takes 6 damage.
+Round 2: inkubus takes 3 damage.
+You lose 7 hit points
+Round 2: fifthtoast attacks!
+Round 3: Emilio pulls out a stick of gum, folds it in half, and throws it at your opponent.  It explodes, dealing 48 damage.  Hasta lasagna, don't get any on ya.
+Round 3: inkubus takes 48 damage.
+Round 3: inkubus takes 1 damage.
+Round 3: inkubus takes 2 damage.
+Round 3: inkubus takes 3 damage.
+You lose 7 hit points
+Round 3: fifthtoast wins the fight!
+You gain 64 Meat
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 4 Beefiness
+You gain 4 Enchantedness
+You gain 13 Smarm
+
+[462] Hey Deze Arena
+Encounter: suckubus
+Round 0: fifthtoast loses initiative!
+Round 1: suckubus takes 3 damage.
+Round 1: suckubus takes 4 damage.
+Round 1: suckubus takes 4 damage.
+You lose 1 hit point
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+You lose 3 hit points
+Round 3: Emilio loses his temper and totally totals your opponent for 18 damage.  Like, totally.
+Round 3: suckubus takes 18 damage.
+Round 3: suckubus takes 3 damage.
+Round 3: suckubus takes 2 damage.
+Round 3: suckubus takes 4 damage.
+You lose 1 hit point
+Round 3: fifthtoast attacks!
+Round 4: suckubus takes 2 damage.
+Round 4: suckubus takes 10 damage.
+Round 4: suckubus takes 5 damage.
+You lose 5 hit points
+Round 4: fifthtoast wins the fight!
+You gain 70 Meat
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 3 Strongness
+You gain 4 Magicalness
+You gain 13 Sarcasm
+
+[463] Hey Deze Arena
+Encounter: inkubus
+Round 0: fifthtoast loses initiative!
+Round 1: inkubus takes 1 damage.
+Round 1: inkubus takes 2 damage.
+Round 1: inkubus takes 3 damage.
+You lose 7 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: inkubus takes 2 damage.
+Round 3: inkubus takes 6 damage.
+Round 3: inkubus takes 3 damage.
+You lose 7 hit points
+Round 3: fifthtoast attacks!
+You lose 2 hit points
+Round 4: fifthtoast attacks!
+Round 5: inkubus takes 1 damage.
+Round 5: inkubus takes 10 damage.
+Round 5: inkubus takes 3 damage.
+You lose 8 hit points
+Round 5: fifthtoast attacks!
+Round 6: Emilio pulls out a can of beer, takes one sip, and pours the rest on your opponent's feet, dealing 34 damage.
+Round 6: inkubus takes 34 damage.
+Round 6: fifthtoast wins the fight!
+You gain 82 Meat
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 5 Fortitude
+You gain 7 Enchantedness
+You gain 8 Sarcasm
+
+[464] Hey Deze Arena
+Encounter: Your Bassist Impulses
+You acquire an item: sponge cake
+
+[465] Hey Deze Arena
+Encounter: serialbus
+Round 0: fifthtoast loses initiative!
+Round 1: serialbus takes 2 damage.
+Round 1: serialbus takes 10 damage.
+Round 1: serialbus takes 5 damage.
+You lose 8 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: Emilio looks you in the eye and delivers a pep talk:  &quot;You may make it. You may not. But that doesn't matter, fifthtoast. What matters is that we're here. Look around. Who ever thought we'd make it this far. 1 2 3 Triple Deke. Take your best shot. I believe in you, fifthtoast. Win or lose.&quot;You feel inspired!
+You gain 21 hit points
+You gain 21 Mojo Points
+Round 3: serialbus takes 2 damage.
+Round 3: serialbus takes 9 damage.
+Round 3: serialbus takes 3 damage.
+You lose 8 hit points
+Round 3: fifthtoast attacks!
+You lose 2 hit points
+Round 4: serialbus takes 1 damage.
+Round 4: serialbus takes 10 damage.
+Round 4: serialbus takes 4 damage.
+You lose 8 hit points
+Round 4: fifthtoast attacks!
+Round 5: Emilio says this is the last year he's gonna throw trash.  You remind him that he said that last year, and in anger, he throws some trash at your opponent, dealing 32 damage.
+Round 5: serialbus takes 32 damage.
+Round 5: fifthtoast wins the fight!
+You gain 51 Meat
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 4 Muscleboundness
+You gain 11 Wizardliness
+You gain 5 Sarcasm
+
+[466] Hey Deze Arena
+Encounter: A Pertinent Imp
+You acquire an item: comfy pillow
+
+[467] Hey Deze Arena
+Encounter: Suckubus? You Hardly Know Us!
+You acquire an item: beer-scented teddy bear
+
+[468] Hey Deze Arena
+Encounter: serialbus
+Round 0: fifthtoast loses initiative!
+Round 1: serialbus takes 2 damage.
+Round 1: serialbus takes 9 damage.
+Round 1: serialbus takes 5 damage.
+You lose 8 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: serialbus takes 3 damage.
+Round 3: serialbus takes 10 damage.
+Round 3: serialbus takes 4 damage.
+You lose 4 hit points
+Round 3: fifthtoast attacks!
+Round 4: Emilio loses his temper and totally totals your opponent for 17 damage.  Like, totally.
+Round 4: serialbus takes 17 damage.
+Round 4: serialbus takes 3 damage.
+Round 4: serialbus takes 6 damage.
+Round 4: serialbus takes 5 damage.
+You lose 10 hit points
+Round 4: fifthtoast wins the fight!
+You gain 39 Meat
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 2 Strengthliness
+You gain a Muscle point!
+You gain 6 Wizardliness
+You gain 13 Smarm
+You gain a Moxie point!
+
+[469] Hey Deze Arena
+Encounter: inkubus
+Round 0: fifthtoast loses initiative!
+Round 1: inkubus takes 3 damage.
+Round 1: inkubus takes 2 damage.
+Round 1: inkubus takes 5 damage.
+You lose 8 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: inkubus takes 57 damage.
+Round 4: fifthtoast wins the fight!
+You gain 85 Meat
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 4 Strengthliness
+You gain 3 Enchantedness
+You gain 15 Roguishness
+
+[470] Hey Deze Arena
+Encounter: inkubus
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: Emilio loses his temper and totally totals your opponent for 17 damage.  Like, totally.
+Round 3: inkubus takes 17 damage.
+Round 3: inkubus takes 1 damage.
+Round 3: inkubus takes 4 damage.
+Round 3: inkubus takes 5 damage.
+You lose 8 hit points
+Round 3: fifthtoast attacks!
+Round 4: Emilio tapes your opponent's buns together.  It looks like he feels bad about it afterwards, but still, dang, what a jerk!
+Round 4: inkubus drops 5 attack power.
+Round 4: inkubus drops 5 defense.
+Round 4: inkubus takes 2 damage.
+Round 4: inkubus takes 8 damage.
+Round 4: inkubus takes 4 damage.
+You lose 6 hit points
+Round 4: fifthtoast attacks!
+Round 5: Emilio marches toward your opponent, and then there are two hits.  Emilio hitting your opponent for 16 (+17) damage, and your opponent hitting the floor.
+Round 5: inkubus takes 33 damage.
+Round 5: fifthtoast wins the fight!
+You gain 78 Meat
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 3 Strengthliness
+You gain 5 Magicalness
+You gain a Mysticality point!
+You gain 14 Chutzpah
+
+[471] Hey Deze Arena
+Encounter: inkubus
+Round 0: fifthtoast loses initiative!
+Round 1: inkubus takes 2 damage.
+Round 1: inkubus takes 9 damage.
+Round 1: inkubus takes 4 damage.
+You lose 7 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: inkubus takes 3 damage.
+Round 3: inkubus takes 5 damage.
+Round 3: inkubus takes 5 damage.
+You lose 8 hit points
+Round 3: fifthtoast attacks!
+Round 4: inkubus takes 3 damage.
+Round 4: inkubus takes 9 damage.
+Round 4: inkubus takes 5 damage.
+You lose 8 hit points
+Round 4: fifthtoast attacks!
+Round 5: Emilio marches toward your opponent, and then there are two hits.  Emilio hitting your opponent for 17 (+17) damage, and your opponent hitting the floor.
+Round 5: inkubus takes 34 damage.
+Round 5: fifthtoast wins the fight!
+You gain 90 Meat
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 3 Strengthliness
+You gain 5 Enchantedness
+You gain 14 Sarcasm
+
+[472] Hey Deze Arena
+Encounter: suckubus
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: suckubus takes 3 damage.
+Round 2: suckubus takes 4 damage.
+Round 2: suckubus takes 5 damage.
+You lose 5 hit points
+Round 2: fifthtoast attacks!
+Round 3: Emilio loses his temper and totally totals your opponent for 17 damage.  Like, totally.
+Round 3: suckubus takes 17 damage.
+Round 3: suckubus takes 3 damage.
+Round 3: suckubus takes 4 damage.
+Round 3: suckubus takes 4 damage.
+You lose 4 hit points
+Round 3: fifthtoast attacks!
+Round 4: suckubus takes 2 damage.
+Round 4: suckubus takes 10 damage.
+Round 4: suckubus takes 5 damage.
+You lose 1 hit point
+Round 4: fifthtoast wins the fight!
+You gain 55 Meat
+You acquire an item: bus pass
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 2 Strengthliness
+You gain 4 Mysteriousness
+You gain 14 Roguishness
+
+[473] Hey Deze Arena
+Encounter: inkubus
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: Emilio loses his temper and totally totals your opponent for 16 damage.  Like, totally.
+Round 2: inkubus takes 16 damage.
+Round 2: inkubus takes 3 damage.
+Round 2: inkubus takes 4 damage.
+Round 2: inkubus takes 3 damage.
+You lose 7 hit points
+Round 2: fifthtoast attacks!
+Round 3: Emilio pulls out a stick of gum, folds it in half, and throws it at your opponent.  It explodes, dealing 51 damage.  Hasta lasagna, don't get any on ya.
+Round 3: inkubus takes 51 damage.
+Round 3: fifthtoast wins the fight!
+Your familiar gains a pound: Emilio, the 8 lb. Tickle-Me Emilio
+You gain 87 Meat
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 6 Strengthliness
+You gain 5 Wizardliness
+You gain 8 Smarm
+
+[474] Hey Deze Arena
+Encounter: suckubus
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: Emilio loses his temper and totally totals your opponent for 17 damage.  Like, totally.
+Round 3: suckubus takes 17 damage.
+Round 3: fifthtoast attacks!
+Round 4: suckubus takes 1 damage.
+Round 4: suckubus takes 7 damage.
+Round 4: suckubus takes 3 damage.
+You lose 1 hit point
+Round 4: fifthtoast attacks!
+Round 5: suckubus takes 49 damage.
+Round 5: fifthtoast wins the fight!
+You gain 55 Meat
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 1 Fortitude
+You gain 7 Magicalness
+You gain 12 Roguishness
+You gain a Moxie point!
+You gain a Level!
+
+[475] Hey Deze Arena
+Encounter: serialbus
+Round 0: fifthtoast loses initiative!
+Round 1: serialbus takes 2 damage.
+Round 1: serialbus takes 5 damage.
+Round 1: serialbus takes 5 damage.
+You lose 2 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: serialbus takes 49 damage.
+Round 3: Emilio marches toward your opponent, and then there are two hits.  Emilio hitting your opponent for 18 (+19) damage, and your opponent hitting the floor.
+Round 3: serialbus takes 37 damage.
+Round 3: fifthtoast wins the fight!
+You gain 48 Meat
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 6 Beefiness
+You gain 3 Enchantedness
+You gain 12 Cheek
+
+[476] Hey Deze Arena
+Encounter: serialbus
+Round 0: fifthtoast loses initiative!
+Round 1: serialbus takes 3 damage.
+Round 1: serialbus takes 6 damage.
+Round 1: serialbus takes 3 damage.
+You lose 9 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: Emilio looks you in the eye and delivers a pep talk:  &quot;You may make it. You may not. But that doesn't matter, fifthtoast. What matters is that we're here. Look around. Who ever thought we'd make it this far. 1 2 3 Triple Deke. Take your best shot. I believe in you, fifthtoast. Win or lose.&quot;You feel inspired!
+You gain 24 hit points
+You gain 24 Mojo Points
+Round 3: serialbus takes 2 damage.
+Round 3: serialbus takes 5 damage.
+Round 3: serialbus takes 3 damage.
+You lose 10 hit points
+Round 3: fifthtoast attacks!
+Round 4: serialbus takes 2 damage.
+Round 4: serialbus takes 2 damage.
+Round 4: serialbus takes 3 damage.
+You lose 10 hit points
+Round 4: fifthtoast attacks!
+Round 5: serialbus takes 2 damage.
+Round 5: serialbus takes 4 damage.
+Round 5: serialbus takes 4 damage.
+You lose 4 hit points
+Round 5: fifthtoast attacks!
+Round 6: Emilio says to your opponent: &quot;Yo, wastoid, you're not gonna blaze up in here.&quot;  Your opponent proves him wrong, though, by bursting into flame, suffering 1 damage.
+Round 6: serialbus takes 1 damage.
+Round 6: serialbus takes 2 damage.
+Round 6: serialbus takes 4 damage.
+Round 6: serialbus takes 3 damage.
+You lose 4 hit points
+Round 6: fifthtoast attacks!
+Round 7: Emilio loses his temper and totally totals your opponent for 18 damage.  Like, totally.
+Round 7: serialbus takes 18 damage.
+Round 7: fifthtoast wins the fight!
+You gain 46 Meat
+You acquire an item: bus pass
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 5 Strongness
+You gain 7 Enchantedness
+You gain 9 Cheek
+
+[477] Hey Deze Arena
+Encounter: suckubus
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: Emilio marches toward your opponent, and then there are two hits.  Emilio hitting your opponent for 18 (+19) damage, and your opponent hitting the floor.
+Round 3: suckubus takes 37 damage.
+Round 3: suckubus takes 1 damage.
+Round 3: suckubus takes 8 damage.
+Round 3: suckubus takes 4 damage.
+You lose 1 hit point
+Round 3: fifthtoast attacks!
+Round 4: suckubus takes 3 damage.
+Round 4: suckubus takes 4 damage.
+Round 4: suckubus takes 4 damage.
+You lose 1 hit point
+Round 4: fifthtoast wins the fight!
+You gain 57 Meat
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 6 Fortitude
+You gain 3 Enchantedness
+You gain 10 Chutzpah
+
+[478] Hey Deze Arena
+Encounter: serialbus
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: serialbus takes 3 damage.
+Round 2: serialbus takes 7 damage.
+Round 2: serialbus takes 5 damage.
+You lose 9 hit points
+Round 2: fifthtoast attacks!
+Round 3: Emilio says to your opponent: &quot;Yo, wastoid, you're not gonna blaze up in here.&quot;  Your opponent proves him wrong, though, by bursting into flame, suffering 1 damage.
+Round 3: serialbus takes 1 damage.
+Round 3: serialbus takes 3 damage.
+Round 3: serialbus takes 7 damage.
+Round 3: serialbus takes 4 damage.
+You lose 8 hit points
+Round 3: fifthtoast attacks!
+Round 4: serialbus takes 3 damage.
+Round 4: serialbus takes 9 damage.
+Round 4: serialbus takes 5 damage.
+You lose 8 hit points
+
+[479] Hey Deze Arena
+Encounter: inkubus
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: Emilio pulls out a can of beer, takes one sip, and pours the rest on your opponent's feet, dealing 36 damage.
+Round 2: inkubus takes 36 damage.
+Round 2: inkubus takes 2 damage.
+Round 2: inkubus takes 7 damage.
+Round 2: inkubus takes 5 damage.
+You lose 18 hit points
+
+[480] Hey Deze Arena
+Encounter: serialbus
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+You acquire an item: bus pass
+Round 2: serialbus takes 3 damage.
+Round 2: serialbus takes 9 damage.
+Round 2: serialbus takes 4 damage.
+You lose 19 hit points
+
+[481] Hey Deze Arena
+Encounter: suckubus
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: suckubus takes 3 damage.
+Round 2: suckubus takes 9 damage.
+Round 2: suckubus takes 3 damage.
+You lose 9 hit points
+
+[482] Hey Deze Arena
+Encounter: suckubus
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: Emilio says this is the last year he's gonna throw trash.  You remind him that he said that last year, and in anger, he throws some trash at your opponent, dealing 36 damage.
+Round 2: suckubus takes 36 damage.
+Round 2: suckubus takes 3 damage.
+Round 2: suckubus takes 6 damage.
+Round 2: suckubus takes 5 damage.
+You lose 16 hit points
+
+[483] Hey Deze Arena
+Encounter: inkubus
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: Emilio looks you in the eye and delivers a pep talk:  &quot;You may make it. You may not. But that doesn't matter, fifthtoast. What matters is that we're here. Look around. Who ever thought we'd make it this far. 1 2 3 Triple Deke. Take your best shot. I believe in you, fifthtoast. Win or lose.&quot;You feel inspired!
+You gain 23 hit points
+You gain 23 Mojo Points
+Round 2: inkubus takes 2 damage.
+Round 2: inkubus takes 5 damage.
+Round 2: inkubus takes 4 damage.
+You lose 18 hit points
+Round 2: fifthtoast attacks!
+Round 3: Emilio says this is the last year he's gonna throw trash.  You remind him that he said that last year, and in anger, he throws some trash at your opponent, dealing 34 damage.
+Round 3: inkubus takes 34 damage.
+Round 3: inkubus takes 2 damage.
+Round 3: inkubus takes 6 damage.
+Round 3: inkubus takes 4 damage.
+You lose 17 hit points
+
+[484] Hey Deze Arena
+Encounter: serialbus
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: serialbus takes 3 damage.
+Round 2: serialbus takes 9 damage.
+Round 2: serialbus takes 5 damage.
+You lose 18 hit points
+
+[485] Hey Deze Arena
+Encounter: inkubus
+Round 0: fifthtoast wins initiative!
+
+game.php?mainpane=messages
+Round 2: fifthtoast attacks!
+Round 3: inkubus takes 1 damage.
+Round 3: inkubus takes 7 damage.
+Round 3: inkubus takes 5 damage.
+You lose 17 hit points
+
+[486] Rest in your dwelling
+You gain 9 hit points
+You gain 10 Mojo Points
+
+equip hat mariachi hat
+
+equip weapon diamond-studded cane
+
+equip off-hand hot plate
+
+equip acc1 infernal insoles
+
+use 1 tiny house
+You gain 24 hit points
+You gain 24 Mojo Points
+
+buy 1 Black No. 2 for 100 each from 2089191 on 20120109
+You acquire an item: Black No. 2
+
+use 1 Black No. 2
+You acquire an effect: Locks Like the Raven (duration: 10 Adventures)
+
+buy 5 hair spray for 24 each from Market Demon
+You acquire hair spray (5)
+You spent 120 Meat
+
+use 5 hair spray
+You acquire an effect: Butt-Rock Hair (duration: 15 Adventures)
+outfit Knob Goblin Harem Girl Disguise
+
+[487] Cobb's Knob Treasury
+Encounter: Finally, the Payoff
+You gain 500 Meat
+
+game.php?mainpane=messages

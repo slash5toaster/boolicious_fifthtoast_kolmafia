@@ -1,8 +1,9 @@
 AdventureFrame=203,187,0
 CouncilFrame=424,322,-1
 KoLDesktop=209,132,-1
-LoginFrame=407,276,0
+LoginFrame=409,276,0
 MaximizerFrame=326,275
+ProfileFrame=424,322,-1
 TabbedChatFrame=715,353,0
 _absintheDrops=0
 _aguaDrops=0
@@ -81,7 +82,7 @@ _timeHelmetAdv=0
 _toastSummons=0
 _tokenDrops=0
 _transponderDrops=0
-_trivialAvocationsGame=true
+_trivialAvocationsGame=false
 _userMods
 _vmaskAdv=0
 _zapCount=0
@@ -173,7 +174,7 @@ blankOutUsed=0
 bootsCharged=false
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=true
+breakfastCompleted=false
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
@@ -643,7 +644,7 @@ lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=5
-lastCounterDay=14
+lastCounterDay=0
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -891,7 +892,7 @@ telescopeLookedHigh=false
 telescopeUpgrades=0
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
-timesRested=0
+timesRested=1
 tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome ore
