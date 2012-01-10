@@ -1,10 +1,10 @@
-AdventureFrame=203,187,0
+AdventureFrame=48,188,1
 CouncilFrame=424,322,-1
-KoLDesktop=209,132,-1
+KoLDesktop=188,141,-1
 LoginFrame=409,276,0
 MaximizerFrame=326,275
 ProfileFrame=424,322,-1
-TabbedChatFrame=715,353,-1
+TabbedChatFrame=715,353,0
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -156,8 +156,8 @@ badMoonEncounter47=false
 badMoonEncounter48=false
 ballpitBonus=1
 bankedKarma=0
-barrelGoal=1
-barrelLayout=?????????
+barrelGoal=7
+barrelLayout=RBS??BB??
 bartenderTurnsUsed=0
 basementMallPrices=1
 battleAction=attack with weapon
@@ -304,6 +304,7 @@ choiceAdventure223=0
 choiceAdventure224=2
 choiceAdventure225=0
 choiceAdventure23=4
+choiceAdventure230=0
 choiceAdventure24=4
 choiceAdventure25=2
 choiceAdventure26=2
@@ -320,6 +321,7 @@ choiceAdventure281=0
 choiceAdventure282=0
 choiceAdventure283=0
 choiceAdventure284=0
+choiceAdventure285=0
 choiceAdventure286=0
 choiceAdventure287=0
 choiceAdventure288=0
@@ -425,6 +427,11 @@ choiceAdventure448=1
 choiceAdventure449=1
 choiceAdventure45=1
 choiceAdventure451=5
+choiceAdventure452=0
+choiceAdventure453=0
+choiceAdventure454=0
+choiceAdventure455=0
+choiceAdventure456=0
 choiceAdventure457=2
 choiceAdventure458=1
 choiceAdventure46=3
@@ -472,6 +479,7 @@ choiceAdventure513=1
 choiceAdventure514=1
 choiceAdventure515=1
 choiceAdventure517=1
+choiceAdventure518=0
 choiceAdventure519=0
 choiceAdventure521=1
 choiceAdventure522=2
@@ -555,8 +563,8 @@ customCombatScript=default
 cyrptAlcoveEvilness=33
 cyrptCrannyEvilness=50
 cyrptNicheEvilness=0
-cyrptNookEvilness=49
-cyrptTotalEvilness=132
+cyrptNookEvilness=45
+cyrptTotalEvilness=128
 dailyDungeonDone=false
 dbNemesisSkill1=0
 dbNemesisSkill2=0
@@ -623,7 +631,7 @@ hpAutoRecoveryTarget=1.0
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=false
 knownAscensions=0
-lastAdventure=Defiled Alcove
+lastAdventure=Barrel full of Barrels
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -636,7 +644,7 @@ lastBangPotion825
 lastBangPotion826
 lastBangPotion827
 lastBangPotionReset=0
-lastBarrelSmashed=0
+lastBarrelSmashed=32
 lastBattlefieldReset=0
 lastBreakfast=14
 lastCellarReset=0
@@ -644,7 +652,7 @@ lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=7
-lastCounterDay=0
+lastCounterDay=1
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -685,7 +693,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=grave rober zmobie
+lastEncounter=Barrel Smash
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -866,8 +874,8 @@ sortByRoom=true
 spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
-spookyPuttyMonster
-stationaryButton1
+spookyPuttyMonster=something <i>totally</i> unrecognizable
+stationaryButton1=5003
 stationaryButton2
 stationaryButton3
 stationaryButton4
@@ -892,7 +900,7 @@ telescopeLookedHigh=false
 telescopeUpgrades=0
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
-timesRested=1
+timesRested=0
 tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome ore
