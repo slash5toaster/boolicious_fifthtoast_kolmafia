@@ -585,7 +585,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=14
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -803,7 +803,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=15
+libramSummons=31
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
