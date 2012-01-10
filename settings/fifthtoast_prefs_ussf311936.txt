@@ -3,6 +3,7 @@ CouncilFrame=424,322,-1
 KoLDesktop=209,132,-1
 LoginFrame=2649,365,0
 MaximizerFrame=326,275
+ProfileFrame=2662,409,-1
 TabbedChatFrame=1060,201,0
 _absintheDrops=0
 _aguaDrops=0
@@ -540,7 +541,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=4
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -551,11 +552,11 @@ currentPvpVictories
 currentSpleenUse=0
 currentWheelPosition=muscle
 customCombatScript=default
-cyrptAlcoveEvilness=0
-cyrptCrannyEvilness=0
+cyrptAlcoveEvilness=30
+cyrptCrannyEvilness=41
 cyrptNicheEvilness=0
-cyrptNookEvilness=0
-cyrptTotalEvilness=0
+cyrptNookEvilness=45
+cyrptTotalEvilness=116
 dailyDungeonDone=false
 dbNemesisSkill1=0
 dbNemesisSkill2=0
@@ -622,7 +623,7 @@ hpAutoRecoveryTarget=1.0
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=false
 knownAscensions=0
-lastAdventure=Cobb's Knob Treasury
+lastAdventure=Defiled Nook
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -637,13 +638,13 @@ lastBangPotion827
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=11
+lastBreakfast=1
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=6
-lastCounterDay=11
+lastCounterDay=1
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -684,7 +685,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=Finally, the Payoff
+lastEncounter=toothy sklelton
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=-1
@@ -789,6 +790,7 @@ oceanDestination=manual
 olfactedMonster=wabbit
 oscusSodaUsed=false
 outrageousSombreroUsed=false
+parasolUsed=0
 pastamancerGhostExperience=0
 pastamancerGhostName
 pastamancerGhostSummons=0
@@ -819,7 +821,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=417\:Semirare window begin loc\=*\:lparen.gif\:457\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -890,7 +892,7 @@ telescopeLookedHigh=false
 telescopeUpgrades=0
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
-timesRested=1
+timesRested=0
 tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome ore

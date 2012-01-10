@@ -1233,3 +1233,403 @@ You acquire an item: shot of tomato schnapps
 [604] Barrel Full of Barrels
 Encounter: Barrel Smash
 You acquire an item: shot of grapefruit schnapps
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 10, 2012 - Jarlsuary 2
+
+Ronald: waxing crescent
+Grimace: new moon
+Mini-moon: far right
+
+Valentine's Day: 10 days
+St. Sneaky Pete's Day: 17 days
+Oyster Egg Day: 24 days
+El Dia De Los Muertos Borrachos: 32 days
+Generic Summer Holiday: 41 days
+Dependence Day: 50 days
+Arrrbor Day: 58 days
+Lab&oacute;r Day: 68 days
+Halloween: 78 days
+Feast of Boris: 85 days
+Yuletide: 90 days
+Festival of Jarlsberg: 95 days
+
+
+3 days until Mysticism.
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 7
+HP: 75 / 75
+MP: 22 / 42
+
+Mus: 39 (33), tnp = 2
+Mys: 39 (33), tnp = 50
+Mox: 64 (49), tnp = 95
+
+Advs: 94
+Meat: 132
+Drunk: 0
+
+
+ > equipment
+
+Hat: mariachi hat
+Weapon: diamond-studded cane
+Off-hand: hot plate
+Shirt: (none)
+Pants: Knob Goblin elite pants
+
+Acc. 1: continuum transfunctioner
+Acc. 2: shiny ring
+Acc. 3: tiny plastic Big Candy
+
+Pet: Tickle-Me Emilio (18 lbs)
+Item: (none)
+
+ > skills
+
+Disco Bandit
+ - Disco Aerobics
+ - Disco Eye-Poke
+ - Disco Nap
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+♫ Jackasses' Symphony of Destruction (163)
+♫ Polka of Plenty (163)
+Scarysauce (163)
+Jingle Jangle Jingle (163)
+♫ Cringle's Curative Carol (163)
+Jabañero Saucesphere (163)
+Jalapeño Saucesphere (163)
+Empathy (163)
+Reptilian Fortitude (163)
+Tenacity of the Snapper (163)
+Astral Shell (163)
+Elemental Saucesphere (163)
+Ghostly Shell (163)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +2.12
+Meat: +50.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Trivial Avocations board game
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless trinket
+
+[606] Cook 1 Gnollish pie tin + 1 wad of dough
+You acquire an item: pie crust
+Crafting used 1 each of Gnollish pie tin and wad of dough
+
+[606] Cook 1 lihc eye + 1 pie crust
+You acquire an item: lihc eye pie
+Crafting used 1 each of pie crust and lihc eye
+
+eat 1 lihc eye pie
+You gain 8 Adventures
+You gain 12 Enchantedness
+You acquire an effect: Eye of the Lihc (duration: 5 Adventures)
+
+drink 1 bloody mary
+You gain 6 Adventures
+You gain 1 Fortitude
+You gain 2 Enchantedness
+You gain 1 Chutzpah
+You gain 3 Drunkenness
+
+drink 1 monkey wrench
+You gain 5 Adventures
+You gain 10 Magicalness
+You gain 3 Drunkenness
+
+[606] Mix 1 bottle of whiskey + 1 soda water
+You acquire an item: whiskey and soda
+Crafting used 1 each of bottle of whiskey and soda water
+
+drink 1 whiskey and soda
+You gain 6 Adventures
+You gain 9 Wizardliness
+You gain 3 Mojo Points
+You gain 3 Drunkenness
+
+drink 1 Mt. Noob Pale Ale
+You gain 5 Adventures
+You gain 2 Drunkenness
+
+Talking to Sven Golly at the Hey Deze Arena
+
+[605] South of the Border
+Encounter: La Farmacia de Sue&ntilde;os
+You acquire an item: Meleegra™ pills
+
+use 1 Meleegra™ pills
+You acquire an effect: Engorged Weapon (duration: 5 Adventures)
+
+use 1 Jack-in-the-box
+
+Use 1 bat guano
+You acquire an item: guano coffee cup
+
+use 1 Degrassi Knoll shopping list
+
+use 1 wind-up meatcar
+You acquire an effect: All Wound Up (duration: 100 Adventures)
+
+use 1 Uncle Greenspan's Bathroom Finance Guide
+You acquire an effect: Buy!  Sell!  Buy!  Sell! (duration: 100 Adventures)
+
+use 1 Evilometer
+
+[606] Defiled Cranny
+Encounter: Death Rattlin'
+Took choice 523/3: can of Ghuol-B-Gone&trade;
+choice.php?pwd&whichchoice=523&option=3
+You acquire an item: can of Ghuol-B-Gone™
+
+[607] Defiled Cranny
+Encounter: gaunt ghuol
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: Emilio marches toward your opponent, and then there are two hits.  Emilio hitting your opponent for 22 (+22) damage, and your opponent hitting the floor.
+Round 2: gaunt ghuol takes 44 damage.
+Round 2: gaunt ghuol heals 1 hit points.
+Round 2: fifthtoast attacks!
+Round 3: gaunt ghuol heals 6 hit points.
+Round 3: fifthtoast attacks!
+Round 4: fifthtoast uses the razor-sharp can lid!
+Round 5: gaunt ghuol takes 3 damage.
+Round 5: Emilio says this is the last year he's gonna throw trash.  You remind him that he said that last year, and in anger, he throws some trash at your opponent, dealing 44 damage.
+Round 5: gaunt ghuol takes 44 damage.
+Round 5: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 30 Meat
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 3 Muscleboundness
+You gain a Muscle point!
+You gain 5 Mysteriousness
+You gain 10 Cheek
+
+equip weapon flaming crutch
+
+equip weapon big bass drum
+
+[608] Defiled Cranny
+Encounter: gluttonous ghuol
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+You lose 3 hit points
+Round 2: fifthtoast attacks!
+Round 3: gluttonous ghuol takes 34 damage.
+Round 3: Emilio loses his temper and totally totals your opponent for 22 damage.  Like, totally.
+Round 3: gluttonous ghuol takes 22 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 87 Meat
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 5 Beefiness
+You gain 3 Mysteriousness
+You gain 10 Cheek
+
+[609] Defiled Cranny
+Encounter: Death Rattlin'
+Took choice 523/2: stats & HP & MP
+choice.php?pwd&whichchoice=523&option=2
+You gain 20 Beefiness
+You gain 20 Mysteriousness
+You gain a Mysticality point!
+You gain 24 Sarcasm
+You gain 44 hit points
+You gain 41 Mojo Points
+
+[610] Defiled Cranny
+Encounter: Death Rattlin'
+Took choice 523/4: fight swarm of ghuol whelps
+choice.php?pwd&whichchoice=523&option=4
+Encounter: swarm of ghuol whelps
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: swarm of ghuol whelps takes 40 damage.
+Round 2: Emilio looks you in the eye and delivers a pep talk:  &quot;You may make it. You may not. But that doesn't matter, fifthtoast. What matters is that we're here. Look around. Who ever thought we'd make it this far. 1 2 3 Triple Deke. Take your best shot. I believe in you, fifthtoast. Win or lose.&quot;You feel inspired!
+You gain 27 hit points
+You gain 27 Mojo Points
+Round 2: fifthtoast attacks!
+Round 3: swarm of ghuol whelps takes 37 damage.
+Round 3: Emilio says to your opponent: &quot;Yo, wastoids, you're not gonna blaze up in here.&quot;  Your opponents prove him wrong, though, by bursting into flame, suffering 48 damage.
+Round 3: swarm of ghuol whelps takes 48 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: You pant as you smash the last of the little buggers.  Your Evilometer beeps 3 times.
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 5 Beefiness
+You gain 7 Wizardliness
+You gain 5 Cheek
+
+[611] Defiled Cranny
+Encounter: gluttonous ghuol
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: gluttonous ghuol takes 30 damage.
+Round 2: Emilio's bells jingle merrily.
+Round 2: Emilio says to your opponent: &quot;Yo, wastoid, you're not gonna blaze up in here.&quot;  Your opponent proves him wrong, though, by bursting into flame, suffering 48 damage.
+Round 2: gluttonous ghuol takes 48 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 100 Meat
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 4 Muscleboundness
+You gain 5 Enchantedness
+You gain 8 Smarm
+
+[612] Defiled Cranny
+Encounter: gluttonous ghuol
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast tries to steal an item!
+You acquire an item: ghuol egg
+Round 2: Emilio says to your opponent: &quot;Yo, wastoid, you're not gonna blaze up in here.&quot;  Your opponent proves him wrong, though, by bursting into flame, suffering 44 damage.
+Round 2: gluttonous ghuol takes 44 damage.
+Round 2: gluttonous ghuol takes 1 damage.
+Round 2: gluttonous ghuol takes 1 damage.
+Round 2: gluttonous ghuol takes 5 damage.
+You lose 1 hit point
+Round 2: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 101 Meat
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 3 Strongness
+You gain 5 Mysteriousness
+You gain 11 Chutzpah
+
+[613] Defiled Cranny
+Encounter: Death Rattlin'
+Took choice 523/1: small meat boost
+choice.php?pwd&whichchoice=523&option=1
+You gain 211 Meat
+
+[614] Defiled Cranny
+Encounter: gaunt ghuol
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: gaunt ghuol takes 28 damage.
+Round 2: fifthtoast attacks!
+Round 3: gaunt ghuol takes 29 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 30 Meat
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 5 Strongness
+You gain 5 Mysteriousness
+You gain 7 Cheek
+
+[615] Defiled Cranny
+Encounter: gaunt ghuol
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: gaunt ghuol takes 33 damage.
+Round 2: Emilio's bells jingle merrily.
+Round 2: Emilio marches toward your opponent, and then there are two hits.  Emilio hitting your opponent for 24 (+23) damage, and your opponent hitting the floor.
+Round 2: gaunt ghuol takes 47 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 39 Meat
+You acquire an item: ghuol ears
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 3 Muscleboundness
+You gain 3 Magicalness
+You gain 12 Roguishness
+
+[616] Defiled Cranny
+Encounter: Death Rattlin'
+Took choice 523/5: skip adventure
+choice.php?pwd&whichchoice=523&option=5
+You lose interest in the drawers and wander off
+
+[616] Defiled Alcove
+Encounter: grave rober zmobie
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: grave rober zmobie takes 32 damage.
+Round 2: fifthtoast attacks!
+Round 3: grave rober zmobie takes 32 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 75 Meat
+You acquire an item: loose teeth
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 5 Beefiness
+You gain 7 Enchantedness
+You gain 6 Chutzpah
+
+[617] Defiled Alcove
+Encounter: corpulent zobmie
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: corpulent zobmie takes 32 damage.
+Round 2: Emilio says to your opponent: &quot;Yo, wastoid, you're not gonna blaze up in here.&quot;  Your opponent proves him wrong, though, by bursting into flame, suffering 48 damage.
+Round 2: corpulent zobmie takes 48 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 132 Meat
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 4 Fortitude
+You gain 7 Magicalness
+You gain 6 Cheek
+You gain a Moxie point!
+
+[618] Defiled Alcove
+Encounter: grave rober zmobie
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+You lose 2 hit points
+Round 2: Emilio pulls out a stick of gum, folds it in half, and throws it at your opponent.  It explodes, dealing 69 damage.  Hasta lasagna, don't get any on ya.
+Round 2: grave rober zmobie takes 69 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 95 Meat
+You acquire an item: loose teeth
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 4 Strongness
+You gain 11 Wizardliness
+You gain 4 Smarm
+
+Combine 1 loose teeth + 1 skeleton bone
+You acquire an item: skeleton key
+Crafting used 1 each of skeleton bone and loose teeth
+
+[619] Defiled Nook
+Encounter: toothy sklelton
+Round 0: fifthtoast loses initiative!
