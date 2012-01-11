@@ -157,7 +157,7 @@ badMoonEncounter48=false
 ballpitBonus=1
 bankedKarma=0
 barrelGoal=7
-barrelLayout=RBS??BB??
+barrelLayout=?????????
 bartenderTurnsUsed=0
 basementMallPrices=1
 battleAction=attack with weapon
@@ -174,7 +174,7 @@ blankOutUsed=0
 bootsCharged=false
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=false
+breakfastCompleted=true
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
@@ -609,7 +609,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 gongPath=0
 gourdItemCount=5
 grimoire1Summons=0
@@ -644,15 +644,15 @@ lastBangPotion825
 lastBangPotion826
 lastBangPotion827
 lastBangPotionReset=0
-lastBarrelSmashed=32
+lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=14
+lastBreakfast=2
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=7
-lastCounterDay=1
+lastCounterDay=2
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
