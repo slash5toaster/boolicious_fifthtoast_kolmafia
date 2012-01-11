@@ -975,3 +975,113 @@ You acquire an item: chrome ore
 You acquire an item: chrome crossbow
 
 equip weapon chrome crossbow
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 11, 2012 - Jarlsuary 3
+
+Ronald: first quarter
+Grimace: waxing crescent
+Mini-moon: in back, near Grimace
+
+Valentine's Day: 9 days
+St. Sneaky Pete's Day: 16 days
+Oyster Egg Day: 23 days
+El Dia De Los Muertos Borrachos: 31 days
+Generic Summer Holiday: 40 days
+Dependence Day: 49 days
+Arrrbor Day: 57 days
+Lab&oacute;r Day: 67 days
+Halloween: 77 days
+Feast of Boris: 84 days
+Yuletide: 89 days
+Festival of Jarlsberg: 94 days
+
+
+2 days until Mysticism.
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 8
+HP: 80 / 80
+MP: 31 / 46
+
+Mus: 44 (38), tnp = 48
+Mys: 43 (37), tnp = 2
+Mox: 68 (55), tnp = 87
+
+Advs: 71
+Meat: 3,527
+Drunk: 0
+
+
+ > equipment
+
+Hat: miner's helmet
+Weapon: chrome crossbow
+Off-hand: (none)
+Shirt: (none)
+Pants: miner's pants
+
+Acc. 1: infernal insoles
+Acc. 2: shiny ring
+Acc. 3: tiny plastic Big Candy
+
+Pet: Killer Bee (11 lbs)
+Item: (none)
+
+ > skills
+
+Disco Bandit
+ - Disco Aerobics
+ - Disco Eye-Poke
+ - Disco Nap
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Buy! Sell! Buy! Sell! (8)
+All Wound Up (8)
+♫ Jackasses' Symphony of Destruction (70)
+Scarysauce (70)
+♫ Cringle's Curative Carol (70)
+♫ Polka of Plenty (70)
+Jingle Jangle Jingle (70)
+Jabañero Saucesphere (70)
+Empathy (70)
+Reptilian Fortitude (70)
+Tenacity of the Snapper (70)
+Astral Shell (70)
+Jalapeño Saucesphere (70)
+Elemental Saucesphere (70)
+Ghostly Shell (70)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +30.00%
+
+Exp: +0.00
+Meat: +236.00%
+Item: +5.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
