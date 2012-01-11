@@ -596,3 +596,382 @@ You gain 156 Meat
 You gain 6 Strengthliness
 You gain 1 Enchantedness
 You gain 14 Roguishness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 11, 2012 - Jarlsuary 3
+
+Ronald: first quarter
+Grimace: waxing crescent
+Mini-moon: in back, near Grimace
+
+Valentine's Day: 9 days
+St. Sneaky Pete's Day: 16 days
+Oyster Egg Day: 23 days
+El Dia De Los Muertos Borrachos: 31 days
+Generic Summer Holiday: 40 days
+Dependence Day: 49 days
+Arrrbor Day: 57 days
+Lab&oacute;r Day: 67 days
+Halloween: 77 days
+Feast of Boris: 84 days
+Yuletide: 89 days
+Festival of Jarlsberg: 94 days
+
+
+2 days until Mysticism.
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 8
+HP: 139 / 139
+MP: 31 / 80
+
+Mus: 83 (37), tnp = 12
+Mys: 77 (37), tnp = 35
+Mox: 165 (54), tnp = 65
+
+Advs: 114
+Meat: 2,127
+Drunk: 0
+
+
+ > equipment
+
+Hat: mariachi hat
+Weapon: big bass drum
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin elite pants
+
+Acc. 1: infernal insoles
+Acc. 2: shiny ring
+Acc. 3: tiny plastic Big Candy
+
+Pet: Jack-in-the-Box (7 lbs)
+Item: (none)
+
+ > skills
+
+Disco Bandit
+ - Disco Aerobics
+ - Disco Eye-Poke
+ - Disco Nap
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Spicy Limeness (2)
+Sugar Rush (2)
+Spiky Hair (2)
+Busy Bein' Delicious (2)
+Amorous (7)
+Locks Like the Raven (7)
+Butt-Rock Hair (12)
+Trivia Master (27)
+All Wound Up (51)
+Buy! Sell! Buy! Sell! (51)
+Jingle Jangle Jingle (113)
+♫ Cringle's Curative Carol (113)
+Scarysauce (113)
+♫ Polka of Plenty (113)
+Empathy (113)
+Reptilian Fortitude (113)
+Ghostly Shell (113)
+Tenacity of the Snapper (113)
+Astral Shell (113)
+Jabañero Saucesphere (113)
+Jalapeño Saucesphere (113)
+Elemental Saucesphere (113)
+♫ Jackasses' Symphony of Destruction (113)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +50.00%
+
+Exp: +0.00
+Meat: +150.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+familiar Killer Bee (10 lbs)
+
+town_sellflea.php?pwd=97872834f26eab764f302877fc9a9d76&whichitem=196&sellprice=1400&selling=Yep.
+town_sellflea.php?pwd=97872834f26eab764f302877fc9a9d76&whichitem=196&sellprice=1400&selling=Yep.
+town_fleamarket.php?which=11
+town_fleamarket.php?pwd&buying=Yep.&which=11&whichitem=211&howmuch=116
+You acquire an item: decorative fountain
+
+[655] Itznotyerzitz Mine
+Encounter: 7-Foot Dwarf
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+You lose 1 hit point
+Round 3: fifthtoast attacks!
+Round 4: 7-foot dwarf takes 83 damage.
+Round 4: fifthtoast wins the fight!
+You gain 90 Meat
+After Battle: spelling produces a small amount of royal jelly, and feeds it to you intravenously.  Feel the burn!
+You lose 1 hit point
+You gain 5 Fortitude
+You gain 2 Magicalness
+You gain 7 Cheek
+
+[656] Itznotyerzitz Mine
+Encounter: 100% Legal
+Took choice 19/1: miner's helmet
+choice.php?pwd&whichchoice=19&option=1
+You acquire an item: miner's helmet
+
+equip hat miner's helmet
+
+[657] Itznotyerzitz Mine
+Encounter: 7-Foot Dwarf
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: 7-foot dwarf takes 84 damage.
+Round 2: fifthtoast wins the fight!
+You gain 99 Meat
+You gain 2 Beefiness
+You gain 5 Wizardliness
+You gain 6 Roguishness
+
+[658] Itznotyerzitz Mine
+Encounter: A Girl's Best Friend
+You gain 10 Roguishness
+You gain 100 Meat
+
+[659] Itznotyerzitz Mine
+Encounter: A Girl's Best Friend
+You gain 10 Roguishness
+You gain 100 Meat
+
+[660] Itznotyerzitz Mine
+Encounter: Speak, Frat Boy, and Enter
+You gain 10 Muscleboundness
+You gain a Muscle point!
+You gain 100 Meat
+
+[661] Itznotyerzitz Mine
+Encounter: 7-Foot Dwarf
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: 7-foot dwarf takes 89 damage.
+Round 2: spelling's bells jingle merrily.
+Round 2: spelling repeatedly stings your opponent, doing 4 damage.
+Round 2: 7-foot dwarf takes 4 damage.
+Round 2: fifthtoast wins the fight!
+You gain 91 Meat
+You gain 4 Strongness
+You gain 2 Enchantedness
+You gain 7 Roguishness
+
+[662] Itznotyerzitz Mine
+Encounter: 7-Foot Dwarf
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: 7-foot dwarf takes 87 damage.
+Round 2: spelling repeatedly stings your opponent, doing 5 damage.
+Round 2: 7-foot dwarf takes 5 damage.
+Round 2: fifthtoast wins the fight!
+You gain 110 Meat
+You gain 1 Fortitude
+You gain 2 Magicalness
+You gain 10 Chutzpah
+
+[663] Itznotyerzitz Mine
+Encounter: Grilling the Foreman
+You gain 10 Wizardliness
+You gain 100 Meat
+
+[664] Itznotyerzitz Mine
+Encounter: 7-Foot Dwarf Foreman
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: 7-foot dwarf foreman takes 76 damage.
+Round 2: fifthtoast wins the fight!
+You gain 155 Meat
+You gain 3 Muscleboundness
+You gain 1 Wizardliness
+You gain 10 Roguishness
+
+[665] Itznotyerzitz Mine
+Encounter: 7-Foot Dwarf
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast tries to steal an item!
+Round 2: spelling's bells jingle merrily.
+Round 2: spelling repeatedly stings your opponent, doing 3 damage.
+Round 2: 7-foot dwarf takes 3 damage.
+Round 2: fifthtoast attacks!
+Round 3: 7-foot dwarf takes 85 damage.
+Round 3: spelling repeatedly stings your opponent, doing 1 damage.
+Round 3: 7-foot dwarf takes 1 damage.
+Round 3: fifthtoast wins the fight!
+You gain 99 Meat
+You gain 3 Beefiness
+You gain 3 Wizardliness
+You gain 6 Roguishness
+You gain a Moxie point!
+
+[666] Itznotyerzitz Mine
+Encounter: See You Next Fall
+Took choice 20/3: small meat boost
+choice.php?pwd&whichchoice=20&option=3
+You gain 100 Meat
+
+[667] Itznotyerzitz Mine
+Encounter: 7-Foot Dwarf Foreman
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: 7-foot dwarf foreman takes 82 damage.
+Round 2: spelling repeatedly stings your opponent, doing 4 damage.
+Round 2: 7-foot dwarf foreman takes 4 damage.
+Round 2: fifthtoast wins the fight!
+You gain 164 Meat
+After Battle: spelling produces a small amount of royal jelly, and feeds it to you intravenously.  Feel the burn!
+You lose 1 hit point
+You gain 3 Fortitude
+You gain 5 Mysteriousness
+You gain 7 Sarcasm
+
+[668] Itznotyerzitz Mine
+Encounter: 7-Foot Dwarf
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: 7-foot dwarf takes 92 damage.
+Round 2: fifthtoast wins the fight!
+You gain 115 Meat
+After Battle: spelling produces a small amount of royal jelly, and feeds it to you intravenously.  Feel the burn!
+You lose 1 hit point
+You gain 7 Strengthliness
+You gain 1 Wizardliness
+You gain 8 Roguishness
+
+[669] Itznotyerzitz Mine
+Encounter: 7-Foot Dwarf
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: 7-foot dwarf takes 88 damage.
+Round 2: spelling repeatedly stings your opponent, doing 5 damage.
+Round 2: 7-foot dwarf takes 5 damage.
+Round 2: fifthtoast wins the fight!
+Your familiar gains a pound: spelling, the 6 lb. Killer Bee
+You gain 113 Meat
+You gain 3 Strongness
+You gain 2 Enchantedness
+You gain 8 Smarm
+
+[670] Itznotyerzitz Mine
+Encounter: 100% Legal
+Took choice 19/2: miner's pants
+choice.php?pwd&whichchoice=19&option=2
+You acquire an item: miner's pants
+outfit Mining Gear
+
+Visiting the pretentious artist
+You have unlocked a new tattoo.
+
+[671] Itznotyerzitz Mine (in Disguise)
+You lose 73 hit points
+
+[672] Itznotyerzitz Mine (in Disguise)
+You lose 67 hit points
+
+[673] Itznotyerzitz Mine (in Disguise)
+You acquire an item: stone of eXtreme power
+
+[674] Itznotyerzitz Mine (in Disguise)
+You lose 70 hit points
+
+[675] Itznotyerzitz Mine (in Disguise)
+You acquire meat stack (3)
+
+[676] Itznotyerzitz Mine (in Disguise)
+You lose 52 hit points
+
+[677] Itznotyerzitz Mine (in Disguise)
+You acquire an item: stone of eXtreme power
+
+[678] Itznotyerzitz Mine (in Disguise)
+
+[679] Itznotyerzitz Mine (in Disguise)
+You acquire an item: lump of diamond
+
+[680] Itznotyerzitz Mine (in Disguise)
+You acquire an item: lump of diamond
+
+[681] Itznotyerzitz Mine (in Disguise)
+You acquire an item: lump of diamond
+
+[682] Itznotyerzitz Mine (in Disguise)
+You acquire an item: lump of diamond
+
+[683] Itznotyerzitz Mine (in Disguise)
+You acquire an item: asbestos ore
+
+[684] Itznotyerzitz Mine (in Disguise)
+You acquire an item: asbestos ore
+
+[685] Itznotyerzitz Mine (in Disguise)
+You acquire an item: linoleum ore
+
+[686] Itznotyerzitz Mine (in Disguise)
+You acquire an item: linoleum ore
+
+[687] Itznotyerzitz Mine (in Disguise)
+You acquire an item: linoleum ore
+
+[688] Itznotyerzitz Mine (in Disguise)
+You acquire an item: linoleum ore
+
+[689] Itznotyerzitz Mine (in Disguise)
+You acquire meat stack (3)
+
+[690] Itznotyerzitz Mine (in Disguise)
+You acquire an item: asbestos ore
+
+[691] Itznotyerzitz Mine (in Disguise)
+You acquire an item: asbestos ore
+
+[692] Itznotyerzitz Mine (in Disguise)
+You acquire an item: chrome ore
+
+[693] Itznotyerzitz Mine (in Disguise)
+You acquire an item: stone of eXtreme power
+
+[694] Itznotyerzitz Mine (in Disguise)
+You acquire an item: chrome ore
+
+[695] Itznotyerzitz Mine (in Disguise)
+You acquire an item: chrome ore
+
+[696] Itznotyerzitz Mine (in Disguise)
+You acquire meat stack (3)
+
+[697] Itznotyerzitz Mine (in Disguise)
+You acquire an item: chrome ore
+You acquire an item: chrome crossbow
+
+equip weapon chrome crossbow
