@@ -2,7 +2,7 @@ AdventureFrame=48,188,1
 CouncilFrame=424,322,-1
 KoLDesktop=188,141,-1
 LoginFrame=409,276,0
-MaximizerFrame=326,275
+MaximizerFrame=379,354
 ProfileFrame=424,322,-1
 TabbedChatFrame=715,353,0
 _absintheDrops=0
@@ -98,7 +98,7 @@ autoOlfact
 autoPotionID=false
 autoPutty
 autoRepairBoxServants=false
-autoSetConditions=true
+autoSetConditions=false
 autoSphereID=false
 autoSteal=true
 autostartGalaktikQuest=true
@@ -563,8 +563,8 @@ customCombatScript=default
 cyrptAlcoveEvilness=33
 cyrptCrannyEvilness=50
 cyrptNicheEvilness=0
-cyrptNookEvilness=45
-cyrptTotalEvilness=128
+cyrptNookEvilness=0
+cyrptTotalEvilness=83
 dailyDungeonDone=false
 dbNemesisSkill1=0
 dbNemesisSkill2=0
@@ -631,7 +631,7 @@ hpAutoRecoveryTarget=1.0
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=false
 knownAscensions=0
-lastAdventure=Barrel full of Barrels
+lastAdventure=Itznotyerzitz Mine
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -651,7 +651,7 @@ lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=7
+lastCouncilVisit=8
 lastCounterDay=2
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
@@ -693,7 +693,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=Barrel Smash
+lastEncounter=7-Foot Dwarf Foreman
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -876,7 +876,7 @@ spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
 stationaryButton1=5003
-stationaryButton2
+stationaryButton2=5021
 stationaryButton3
 stationaryButton4
 stationaryButton5
@@ -900,7 +900,7 @@ telescopeLookedHigh=false
 telescopeUpgrades=0
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
-timesRested=0
+timesRested=1
 tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome ore

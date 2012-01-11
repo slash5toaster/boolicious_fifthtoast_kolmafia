@@ -144,3 +144,455 @@ You acquire ten-leaf clover (3)
 
 Use 3 ten-leaf clover
 You acquire disassembled clover (3)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 11, 2012 - Jarlsuary 3
+
+Ronald: first quarter
+Grimace: waxing crescent
+Mini-moon: in back, near Grimace
+
+Valentine's Day: 9 days
+St. Sneaky Pete's Day: 16 days
+Oyster Egg Day: 23 days
+El Dia De Los Muertos Borrachos: 31 days
+Generic Summer Holiday: 40 days
+Dependence Day: 49 days
+Arrrbor Day: 57 days
+Lab&oacute;r Day: 67 days
+Halloween: 77 days
+Feast of Boris: 84 days
+Yuletide: 89 days
+Festival of Jarlsberg: 94 days
+
+
+2 days until Mysticism.
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 7
+HP: 98 / 98
+MP: 45 / 45
+
+Mus: 42 (36), tnp = 15
+Mys: 42 (36), tnp = 32
+Mox: 62 (52), tnp = 55
+
+Advs: 126
+Meat: 3,667
+Drunk: 0
+
+
+ > equipment
+
+Hat: mariachi hat
+Weapon: big bass drum
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin elite pants
+
+Acc. 1: continuum transfunctioner
+Acc. 2: shiny ring
+Acc. 3: tiny plastic Big Candy
+
+Pet: Tickle-Me Emilio (19 lbs)
+Item: (none)
+
+ > skills
+
+Disco Bandit
+ - Disco Aerobics
+ - Disco Eye-Poke
+ - Disco Nap
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Buy! Sell! Buy! Sell! (63)
+All Wound Up (63)
+♫ Jackasses' Symphony of Destruction (125)
+Scarysauce (125)
+♫ Cringle's Curative Carol (125)
+♫ Polka of Plenty (125)
+Jingle Jangle Jingle (125)
+Jabañero Saucesphere (125)
+Empathy (125)
+Reptilian Fortitude (125)
+Tenacity of the Snapper (125)
+Astral Shell (125)
+Jalapeño Saucesphere (125)
+Elemental Saucesphere (125)
+Ghostly Shell (125)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +2.18
+Meat: +126.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[643] Defiled Nook
+Encounter: spiny skelelton
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: spiny skelelton takes 47 damage.
+Round 2: Emilio tapes your opponent's buns together.  It looks like he feels bad about it afterwards, but still, dang, what a jerk!
+Round 2: spiny skelelton drops 7 attack power.
+Round 2: spiny skelelton drops 7 defense.
+Round 2: fifthtoast attacks!
+Round 3: spiny skelelton takes 45 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: smart skull
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 9 Fortitude
+You gain 6 Enchantedness
+You gain 4 Smarm
+
+[644] Defiled Nook
+Encounter: toothy sklelton
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast tries to steal an item!
+Round 2: Emilio tapes your opponent's buns together.  It looks like he feels bad about it afterwards, but still, dang, what a jerk!
+Round 2: toothy sklelton drops 7 attack power.
+Round 2: toothy sklelton drops 7 defense.
+Round 2: fifthtoast attacks!
+Round 3: toothy sklelton takes 48 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: bone flute
+You acquire an item: evil eye
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 3 Fortitude
+You gain 6 Magicalness
+You gain 9 Cheek
+
+use 1 evil eye
+
+[645] Defiled Nook
+Encounter: toothy sklelton
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: toothy sklelton takes 41 damage.
+Round 2: Emilio marches toward your opponent, and then there are two hits.  Emilio hitting your opponent for 25 (+25) damage, and your opponent hitting the floor.
+Round 2: toothy sklelton takes 50 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: evil eye
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 3 Muscleboundness
+You gain a Muscle point!
+You gain 4 Enchantedness
+You gain 12 Sarcasm
+
+use 1 evil eye
+
+[646] Defiled Nook
+Encounter: toothy sklelton
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: toothy sklelton takes 45 damage.
+Round 2: fifthtoast attacks!
+Round 3: toothy sklelton takes 61 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: bone flute
+After Battle: You give Emilio a tickle, and he giggles for a second before suddenly grimacing and flipping you the bird.
+You gain 8 Strengthliness
+You gain 3 Wizardliness
+You gain 7 Sarcasm
+
+familiar Jack-in-the-Box (6 lbs)
+
+[647] Defiled Nook
+Encounter: spiny skelelton
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: spiny skelelton takes 44 damage.
+Round 2: fifthtoast attacks!
+Round 3: spiny skelelton takes 46 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+After Battle: You turn Gort's crank for a while.
+You gain 3 Beefiness
+You gain 2 Wizardliness
+You gain 9 Chutzpah
+
+[648] Defiled Nook
+Encounter: Skull, Skull, Skull
+Took choice 155/1: moxie substats
+choice.php?pwd&whichchoice=155&option=1
+You gain 51 Chutzpah
+You gain a Moxie point!
+You gain a Level!
+
+[649] Defiled Nook
+Encounter: spiny skelelton
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: spiny skelelton takes 48 damage.
+Round 2: fifthtoast plays Garin's Harp!
+Round 3: fifthtoast attacks!
+Round 4: spiny skelelton takes 50 damage.
+Round 4: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+After Battle: The tension builds as you turn Gort's crank some more.
+You acquire an item: smart skull
+You gain 2 Muscleboundness
+You gain 4 Enchantedness
+You gain 7 Chutzpah
+
+use 1 evil eye
+
+use 1 evil eye
+
+[650] Defiled Nook
+Encounter: giant skeelton
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast tries to steal an item!
+You acquire an item: skeleton bone
+Round 2: fifthtoast attacks!
+Round 3: giant skeelton takes 2 damage.
+Round 3: giant skeelton takes 1 damage.
+Round 3: giant skeelton takes 3 damage.
+You lose 4 hit points
+Round 3: fifthtoast attacks!
+Round 4: giant skeelton takes 49 damage.
+Round 4: giant skeelton takes 2 damage.
+Round 4: giant skeelton takes 1 damage.
+Round 4: giant skeelton takes 4 damage.
+You lose 5 hit points
+Round 4: fifthtoast attacks!
+Round 5: giant skeelton takes 3 damage.
+Round 5: giant skeelton takes 1 damage.
+Round 5: giant skeelton takes 5 damage.
+You lose 5 hit points
+Round 5: fifthtoast attacks!
+Round 6: giant skeelton takes 1 damage.
+Round 6: giant skeelton takes 1 damage.
+Round 6: giant skeelton takes 4 damage.
+You lose 4 hit points
+Round 6: fifthtoast casts MOXIOUS MANEUVER!
+Round 7: giant skeelton takes 2 damage.
+Round 7: giant skeelton takes 1 damage.
+Round 7: giant skeelton takes 5 damage.
+You lose 5 hit points
+Round 7: fifthtoast uses the rusty bonesaw!
+Round 8: giant skeelton takes 63 damage.
+Round 8: fifthtoast wins the fight!
+After Battle: As the skeelton collapses in a jumbled pile of bones, the Evilometer emits a single very loud beep.
+You acquire an item: skeleton bone
+You gain 14 Strongness
+You gain 11 Magicalness
+You gain a Mysticality point!
+You gain 33 Smarm
+
+[651] Haert of the Cyrpt
+Encounter: The Haert of Darkness
+Took choice 527/2: skip adventure
+choice.php?pwd&whichchoice=527&option=2
+
+[651] Haert of the Cyrpt
+Encounter: The Haert of Darkness
+Took choice 527/1: fight the Bonerdagon
+choice.php?pwd&whichchoice=527&option=1
+Encounter: The Bonerdagon
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: the bonerdagon takes 2 damage.
+Round 2: the bonerdagon takes 1 damage.
+Round 2: the bonerdagon takes 5 damage.
+You lose 17 hit points
+Round 2: fifthtoast attacks!
+Round 3: the bonerdagon takes 1 damage.
+Round 3: the bonerdagon takes 1 damage.
+Round 3: the bonerdagon takes 3 damage.
+You lose 16 hit points
+Round 3: fifthtoast casts MOXIOUS MANEUVER!
+Round 4: the bonerdagon takes 2 damage.
+Round 4: the bonerdagon takes 1 damage.
+Round 4: the bonerdagon takes 5 damage.
+You lose 18 hit points
+Round 4: fifthtoast casts DISCO EYE-POKE!
+Round 5: the bonerdagon takes 3 damage.
+Round 5: the bonerdagon takes 1 damage.
+Round 5: the bonerdagon takes 3 damage.
+You lose 17 hit points
+Round 5: fifthtoast attacks!
+Round 6: the bonerdagon takes 2 damage.
+Round 6: the bonerdagon takes 1 damage.
+Round 6: the bonerdagon takes 4 damage.
+You lose 16 hit points
+Round 6: fifthtoast casts RETURN!
+
+equip acc1 infernal insoles
+
+buy 1 Black No. 2 for 100 each from 485472 on 20120111
+You acquire an item: Black No. 2
+
+use 1 Black No. 2
+You acquire an effect: Locks Like the Raven (duration: 10 Adventures)
+
+buy 5 hair spray for 24 each from Market Demon
+You acquire hair spray (5)
+You spent 120 Meat
+
+use 5 hair spray
+You acquire an effect: Butt-Rock Hair (duration: 15 Adventures)
+
+buy 1 super-spiky hair gel for 224 each from 952071 on 20120111
+You acquire an item: super-spiky hair gel
+
+use 1 super-spiky hair gel
+You acquire an effect: Spiky Hair (duration: 5 Adventures)
+
+buy 1 Crimbo fudge for 100 each from 598713 on 20120111
+You acquire an item: Crimbo fudge
+
+use 1 Crimbo fudge
+You acquire an effect: Sugar Rush (duration: 5 Adventures)
+You acquire an effect: Busy Bein' Delicious (duration: 5 Adventures)
+
+buy 1 roofie for 100 each from 1053259 on 20120111
+You acquire an item: roofie
+
+use 1 roofie
+You acquire an effect: Confused (duration: 10 Adventures)
+You acquire an effect: Amorous (duration: 10 Adventures)
+
+buy 1 lime-and-chile-flavored chewing gum for 150 each from 817382 on 20120111
+You acquire an item: lime-and-chile-flavored chewing gum
+
+use 1 lime-and-chile-flavored chewing gum
+You acquire an effect: Spicy Limeness (duration: 5 Adventures)
+
+use 1 Trivial Avocations Card:  What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #235/1200:
+Question: What was stolen from the Brazzleton Museum of Applied Metaphysics on Bor tenth, 1909?
+Answer: An olive and olive loaf sandwich.
+
+use 1 Trivial Avocations Card:  When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #327/1200:
+Question: When did Señor Ralph Hernandez win the Nobel Prize for Cursing?
+Answer: 1873.
+
+use 1 Trivial Avocations Card:  Where?
+You acquire an effect: You Know Where to Go (duration: 1 Adventure)
+Trivia card #1191/1200:
+Question: Where did Mssr. Ralph Young, inventor of the steam-powered post-hole digger, get married?
+Answer: On the last train to Bacon.
+
+use 1 Trivial Avocations Card:  Who?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Where to Go
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #813/1200:
+Question: Who wrote about the thermonuclear clockwork fish-cleaner?
+Answer: A marmoset.
+
+[652] Rest in your dwelling
+You gain 10 hit points
+You gain 10 Mojo Points
+
+cast 1 Disco Nap
+You gain 20 hit points
+You lose an effect: Confused
+
+Visiting Doc Galaktik
+
+Visiting Doc Galaktik
+
+Restore 10 HP at Doc Galaktik's
+You gain 10 hit points
+You spent 100 Meat
+
+Visiting Doc Galaktik
+You gain 89 hit points
+You spent 890 Meat
+
+[652] Haert of the Cyrpt
+Encounter: The Haert of Darkness
+Took choice 527/1: fight the Bonerdagon
+choice.php?pwd&whichchoice=527&option=1
+Encounter: The Bonerdagon
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast casts SUCKERPUNCH!
+Round 2: the bonerdagon takes 1 damage.
+Round 2: the bonerdagon drops 1 attack power.
+Round 2: the bonerdagon drops 1 defense.
+Round 2: fifthtoast casts SUCKERPUNCH!
+Round 3: fifthtoast casts SUCKERPUNCH!
+Round 4: the bonerdagon takes 1 damage.
+Round 4: the bonerdagon drops 1 attack power.
+Round 4: the bonerdagon drops 1 defense.
+Round 4: fifthtoast attacks!
+Round 5: the bonerdagon takes 53 damage.
+Round 5: fifthtoast attacks!
+Round 6: the bonerdagon takes 53 damage.
+Round 6: fifthtoast attacks!
+Round 7: the bonerdagon takes 49 damage.
+Round 7: fifthtoast wins the fight!
+After Battle: You turn Gort's crank for a while.
+Your familiar gains a pound: Gort, the 2 lb. Jack-in-the-Box
+You acquire an item: skull of the Bonerdagon
+You acquire an item: chest of the Bonerdagon
+You gain 25 Fortitude
+You gain 31 Enchantedness
+You gain 56 Sarcasm
+You gain a Moxie point!
+You acquire an item: dragonbone belt buckle
+
+Combine 1 batskin belt + 1 dragonbone belt buckle
+You acquire an item: badass belt
+Crafting used 1 each of batskin belt and dragonbone belt buckle
+
+[653] Itznotyerzitz Mine
+Encounter: 7-Foot Dwarf
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: 7-foot dwarf takes 81 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: The tension builds as you turn Gort's crank some more.
+You gain 88 Meat
+You gain 5 Fortitude
+You gain 4 Wizardliness
+You gain 4 Cheek
+
+[654] Itznotyerzitz Mine
+Encounter: 7-Foot Dwarf Foreman
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: 7-foot dwarf foreman takes 72 damage.
+Round 3: fifthtoast wins the fight!
+You gain 156 Meat
+You gain 6 Strengthliness
+You gain 1 Enchantedness
+You gain 14 Roguishness
