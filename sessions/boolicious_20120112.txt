@@ -249,3 +249,1141 @@ You acquire an item: resolution: be luckier
 You acquire an item: resolution: be smarter
 
 mallsell: 5 resolution: be more adventurous
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 12, 2012 - Jarlsuary 4
+
+Ronald: waxing gibbous
+Grimace: waxing crescent
+Mini-moon: behind Ronald
+
+Valentine's Day: 8 days
+St. Sneaky Pete's Day: 15 days
+Oyster Egg Day: 22 days
+El Dia De Los Muertos Borrachos: 30 days
+Generic Summer Holiday: 39 days
+Dependence Day: 48 days
+Arrrbor Day: 56 days
+Lab&oacute;r Day: 66 days
+Halloween: 76 days
+Feast of Boris: 83 days
+Yuletide: 88 days
+Festival of Jarlsberg: 93 days
+
+
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 24
+HP: 2663 / 3,361
+MP: 77 / 3,035
+
+Mus: 2,216 (570), tnp = 7
+Mys: 1,907 (417), tnp = 375
+Mox: 1,535 (415), tnp = 454
+
+Advs: 200
+Meat: 83,412
+Drunk: 0
+
+
+ > equipment
+
+Hat: hardened slime hat
+Weapon: brand new key
+Off-hand: hobo code binder
+Shirt: star shirt
+Pants: cane-mail pants
+
+Acc. 1: Pokëmann figurine: Frank
+Acc. 2: cursed scrunchie
+Acc. 3: Mr. Accessory
+
+Pet: Pair of Stomping Boots (35 lbs)
+Item: stomp box
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Okee-Dokee Go! (4)
+Butt-Rock Hair (5)
+Having a Ball! (5)
+Elvish (5)
+Pwnd (15)
+Koyaaniskumquatsi (15)
+In the Limelight (15)
+Trivia Master (15)
+Curiosity of Br'er Tarrypin (33)
+♫ The Magical Mojomuscular Melody (255)
+♫ The Sonata of Sneakiness (309)
+Tenacity of the Snapper (309)
+Astral Shell (380)
+Jalapeño Saucesphere (443)
+Elemental Saucesphere (533)
+Jabañero Saucesphere (788)
+Patience of the Tortoise (909)
+♫ Polka of Plenty (979)
+Reptilian Fortitude (1,003)
+Empathy (1,043)
+Jingle Jangle Jingle (1,075)
+Scarysauce (1,179)
+Ghostly Shell (2,379)
+Retrograde Relaxation (3,868)
+
+
+ > modifiers
+
+ML: +30
+Enc: -5.00%
+Init: +20.00%
+
+Exp: +3.75
+Meat: +80.00%
+Item: +90.87%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 all-year sucker
+You acquire an effect: Gonna Get You, Sucker (duration: 10 Adventures)
+
+postwarisland.php?place=concert
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+Jumping into Awesome Ball Pit in clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+clan_hobopolis.php?place=1
+
+equip hat worn tophat
+
+equip weapon drywall axe
+
+equip pants astral shorts
+
+equip acc1 Pokëmann figurine: Moog
+
+use 1 effervescent potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+cast 1 Summon Clip Art
+You acquire an item: cold-filtered water
+
+use 1 cold-filtered water
+You acquire an effect: Purity of Spirit (duration: 10 Adventures)
+
+use 1 gummi canary
+You acquire an effect: Gummiskin (duration: 1 Adventure)
+
+cast 1 Summon Clip Art
+You acquire an item: Muschat
+
+drink 1 Muschat
+You gain 4 Adventures
+You gain 45 Cheek
+You acquire an effect: L'instinct F&eacute;lin (duration: 20 Adventures)
+You gain 1 Drunkenness
+
+cast 1 Summon Clip Art
+You acquire an item: cool cat elixir
+
+use 1 cool cat elixir
+You acquire an effect: Cool, Catlike (duration: 20 Adventures)
+
+use 1 handsomeness potion
+You acquire an effect: Mysteriously Handsome (duration: 5 Adventures)
+
+use 1 Angry Farmer candy
+You acquire an effect: Sugar Rush (duration: 10 Adventures)
+
+buy 1 oil of stability for 780 each from 1699424 on 20120112
+You acquire an item: oil of stability
+
+use 1 oil of stability
+You acquire an effect: Stabilizing Oiliness (duration: 5 Adventures)
+
+buy 1 serum of sarcasm for 440 each from 587953 on 20120112
+You acquire an item: serum of sarcasm
+
+use 1 serum of sarcasm
+You acquire an effect: Superhuman Sarcasm (duration: 5 Adventures)
+
+buy 1 tomato juice of powerful power for 101 each from 845708 on 20120112
+You acquire an item: tomato juice of powerful power
+
+use 1 tomato juice of powerful power
+You acquire an effect: Tomato Power (duration: 5 Adventures)
+
+buy 1 sleaze wad for 993 each from 1636800 on 20120112
+You acquire an item: sleaze wad
+
+use 1 sleaze wad
+You gain 1 Adventure
+You gain 15 Fortitude
+You gain a Muscle point!
+You gain 14 Wizardliness
+You gain 26 Smarm
+You acquire an effect: Supafly (duration: 10 Adventures)
+
+buy 1 pretty flower for 100 each from 643739 on 20120112
+You acquire an item: pretty flower
+
+[14319] Mix 1 fermenting powder + 1 pretty flower
+You acquire an item: shot of flower schnapps
+Crafting used 1 each of pretty flower and fermenting powder
+
+drink 1 shot of flower schnapps
+You gain 2 Adventures
+You acquire an effect: Flower Power (duration: 3 Adventures)
+You gain 1 Drunkenness
+
+buy 1 hot wad for 511 each from 1636800 on 20120112
+You acquire an item: hot wad
+
+use 1 hot wad
+You gain 1 Adventure
+You gain 33 Fortitude
+You gain 10 Magicalness
+You gain 16 Sarcasm
+You acquire an effect: Hot Blooded (duration: 10 Adventures)
+
+buy 1 spooky wad for 494 each from 1636800 on 20120112
+You acquire an item: spooky wad
+
+use 1 spooky wad
+You gain 1 Adventure
+You gain 11 Muscleboundness
+You gain 27 Magicalness
+You gain 18 Chutzpah
+You acquire an effect: Spooky Demeanor (duration: 10 Adventures)
+
+buy 1 Black Body™ spray for 300 each from 608418 on 20120112
+You acquire an item: Black Body™ spray
+
+use 1 Black Body™ spray
+You acquire an effect: Radiating Black Body&trade; (duration: 10 Adventures)
+
+buy 1 twinkly wad for 395 each from 1615613 on 20120112
+You acquire an item: twinkly wad
+
+use 1 twinkly wad
+You gain 1 Adventure
+You gain 8 Muscleboundness
+You gain 8 Enchantedness
+You gain 9 Roguishness
+You acquire an effect: Aspect of the Twinklefairy (duration: 10 Adventures)
+
+buy 1 stench wad for 500 each from 2280415 on 20120112
+You acquire an item: stench wad
+
+use 1 stench wad
+You gain 1 Adventure
+You gain 22 Fortitude
+You gain 26 Mysteriousness
+You gain 8 Roguishness
+You acquire an effect: Stenchtastic (duration: 10 Adventures)
+
+buy 1 yellow polka-dot oyster egg for 343 each from 102069 on 20120112
+You acquire an item: yellow polka-dot oyster egg
+
+use 1 yellow polka-dot oyster egg
+You acquire an effect: Egg-cellent Vocabulary (duration: 20 Adventures)
+You gain 13 Chutzpah
+
+buy 1 cold wad for 648 each from 1636800 on 20120112
+You acquire an item: cold wad
+
+use 1 cold wad
+You gain 1 Adventure
+You gain 30 Muscleboundness
+You gain 17 Wizardliness
+You gain 9 Sarcasm
+You acquire an effect: Cold Blooded (duration: 10 Adventures)
+
+buy 1 pirate pamphlet for 500 each from 692002 on 20120112
+You acquire an item: pirate pamphlet
+
+use 1 pirate pamphlet
+You acquire an effect: Charrrming (duration: 10 Adventures)
+
+buy 1 eyedrops of newt for 750 each from 2080238 on 20120112
+You acquire an item: eyedrops of newt
+
+use 1 eyedrops of newt
+You acquire an effect: Newt Gets In Your Eyes (duration: 5 Adventures)
+
+buy 1 maple syrup for 200 each from 955987 on 20120112
+You acquire an item: maple syrup
+
+eat 1 maple syrup
+You gain 1 Adventure
+You gain 28 hit points
+You gain 27 Muscularity Points
+You acquire an effect: Antsy in your Pantsy (duration: 5 Adventures)
+You gain 1 Fullness
+
+buy 1 roasted marshmallow for 250 each from 1931381 on 20120112
+You acquire an item: roasted marshmallow
+
+eat 1 roasted marshmallow
+You gain 1 Adventure
+You acquire an effect: Mallowed Out (duration: 3 Adventures)
+You gain 1 Fullness
+
+buy 1 Black No. 2 for 100 each from 1053259 on 20120112
+You acquire an item: Black No. 2
+
+use 1 Black No. 2
+You acquire an effect: Locks Like the Raven (duration: 10 Adventures)
+
+use 1 oil of expertise
+You acquire an effect: Expert Oiliness (duration: 5 Adventures)
+
+use 1 super-spiky hair gel
+You acquire an effect: Spiky Hair (duration: 5 Adventures)
+
+use 1 roofie
+You acquire an effect: Confused (duration: 10 Adventures)
+You acquire an effect: Amorous (duration: 10 Adventures)
+
+use 1 lime-and-chile-flavored chewing gum
+You acquire an effect: Spicy Limeness (duration: 5 Adventures)
+
+buy 1 potion of temporary gr8tness for 1400 each from 2181165 on 20120112
+You acquire an item: potion of temporary gr8tness
+
+use 1 potion of temporary gr8tness
+You acquire an effect: Gr8tness (duration: 5 Adventures)
+
+[14318] Fernswarthy's Basement (Level 432)
+Buffed Moxie Test: 5,093 current, 5,287 needed
+
+buy 261 Cherry Cloaca Cola for 80 each from White Citadel
+You acquire Cherry Cloaca Cola (261)
+You spent 20,880 Meat
+
+use 261 Cherry Cloaca Cola
+You gain 2,103 Muscularity Points
+
+[14319] Fernswarthy's Basement (Level 433)
+Buffed Moxie Test: 5,664 current, 5,304 needed
+
+[14320] Fernswarthy's Basement (Level 434)
+Buffed Moxie Test: 5,535 current, 5,322 needed
+
+[14321] Fernswarthy's Basement (Level 435)
+Encounter: Take the Red Pill/Take the Blue Pill
+You gain 581 Strongness
+
+equip hat hardened slime hat
+
+equip weapon brand new key
+
+equip off-hand stress ball
+
+equip pants cane-mail pants
+
+equip acc1 hopping socks
+
+equip acc3 Pokëmann figurine: Frank
+
+buy 1 philter of phorce for 459 each from 1877436 on 20120112
+You acquire an item: philter of phorce
+
+use 1 philter of phorce
+You acquire an effect: Phorcefullness (duration: 5 Adventures)
+
+buy 1 blood of the Wereseal for 500 each from Smacketeria
+You acquire an item: blood of the Wereseal
+You spent 500 Meat
+
+use 1 blood of the Wereseal
+You acquire an effect: Temporary Lycanthropy (duration: 10 Adventures)
+
+use 1 murky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+buy 1 Mick's IcyVapoHotness Rub for 282 each from 952071 on 20120112
+You acquire an item: Mick's IcyVapoHotness Rub
+
+use 1 Mick's IcyVapoHotness Rub
+You acquire an effect: Extreme Muscle Relaxation (duration: 10 Adventures)
+
+buy 1 bellhop bell for 385 each from 1649736 on 20120112
+You acquire an item: bellhop bell
+
+use 1 bellhop bell
+You acquire an effect: Ringing Ears (duration: 10 Adventures)
+
+buy 1 shot of flower schnapps for 465 each from 2261430 on 20120112
+You acquire an item: shot of flower schnapps
+
+drink 1 shot of flower schnapps
+You gain 2 Adventures
+You acquire an effect: Flower Power (duration: 3 Adventures)
+You gain 1 Drunkenness
+
+use 1 gummi salamander
+You acquire an effect: Gummiheart (duration: 1 Adventure)
+
+buy 1 fish-liver oil for 150 each from 1053259 on 20120112
+You acquire an item: fish-liver oil
+
+use 1 fish-liver oil
+You acquire an effect: Fishy Fortification (duration: 5 Adventures)
+
+buy 5 Ben-Gal™ Balm for 24 each from Market Demon
+You acquire Ben-Gal™ Balm (5)
+You spent 120 Meat
+
+use 5 Ben-Gal™ Balm
+You acquire an effect: Go Get 'Em, Tiger! (duration: 15 Adventures)
+
+buy 1 black facepaint for 350 each from 608418 on 20120112
+You acquire an item: black facepaint
+
+use 1 black facepaint
+You acquire an effect: Black Face (duration: 10 Adventures)
+outfit Swashbuckling Getup
+
+buy 1 pirate brochure for 300 each from Barrrtleby's Barrrgain Books (Bees Hate You)
+You acquire an item: pirate brochure
+You spent 300 Meat
+
+use 1 pirate brochure
+You acquire an effect: Muscularrr (duration: 10 Adventures)
+custom outfit Backup
+
+buy 1 yellow striped oyster egg for 345 each from 102069 on 20120112
+You acquire an item: yellow striped oyster egg
+
+use 1 yellow striped oyster egg
+You acquire an effect: Egg-stra Arm (duration: 20 Adventures)
+You gain 16 Beefiness
+
+buy 1 weremoose spit for 400 each from 1476231 on 20120112
+You acquire an item: weremoose spit
+
+use 1 weremoose spit
+You acquire an effect: Lycanthropy, Eh? (duration: 20 Adventures)
+
+buy 1 dwarf bread for 100 each from 2171058 on 20120112
+You acquire an item: dwarf bread
+
+eat 1 dwarf bread
+You gain 3 Adventures
+You lose 13 hit points
+You acquire an effect: Dwarven Hardiness (duration: 5 Adventures)
+You gain 3 Fullness
+
+buy 1 roasted marshmallow for 250 each from 1931381 on 20120112
+You acquire an item: roasted marshmallow
+
+eat 1 roasted marshmallow
+You gain 1 Adventure
+You acquire an effect: Mallowed Out (duration: 3 Adventures)
+You gain 1 Fullness
+
+buy 1 pygmy pygment for 310 each from 1876993 on 20120112
+You acquire an item: pygmy pygment
+
+use 1 pygmy pygment
+You acquire an effect: Woad Warrior (duration: 10 Adventures)
+
+buy 1 Frogade for 800 each from 360817 on 20120112
+You acquire an item: Frogade
+
+use 1 Frogade
+You acquire an effect: Frog In Your Throat (duration: 5 Adventures)
+
+buy 1 true grit for 140 each from 1219905 on 20120112
+You acquire an item: true grit
+
+use 1 true grit
+You acquire an effect: Truly Gritty (duration: 10 Adventures)
+
+use 1 oily paste
+You gain 10 Adventures
+You gain 23 Strengthliness
+You gain 20 Wizardliness
+You gain 21 Cheek
+You acquire an effect: Oily Flavor (duration: 10 Adventures)
+
+uneffect Spicy Limeness
+
+buy 1 Crimbo peppermint bark for 100 each from 294980 on 20120112
+You acquire an item: Crimbo peppermint bark
+
+use 1 Crimbo peppermint bark
+You acquire an effect: Sugar Rush (duration: 5 Adventures)
+You acquire an effect: Peppermint Bite (duration: 5 Adventures)
+
+use 1 tamarind-flavored chewing gum
+You acquire an effect: Tamarind Torment (duration: 5 Adventures)
+
+use 1 yellow candy heart
+You acquire an effect: Heart of Yellow (duration: 10 Adventures)
+
+equip shirt Mer-kin breastplate
+
+use 1 scroll of drastic healing
+
+[14322] Fernswarthy's Basement (Level 436)
+Maximum HP Test: 9,978 current, 53543 * 0.10 (1000 DA) = 5,354 needed
+You lose 5,064 hit points
+
+[14323] Fernswarthy's Basement (Level 437)
+Buffed Muscle Test: 6,394 current, 5,373 needed
+unequip weapon
+unequip offhand
+
+cast 1 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 33 Adventures)
+
+cast 50 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 1650 Adventures)
+
+[14324] Fernswarthy's Basement (Level 438)
+Encounter: The Ghost of Fernswarthy's great great great great great great great great great great great great great great great great great great great great great great great great great great Grandfather
+Round 0: boolicious loses initiative!
+Round 1: the ghost of fernswarthy's great great great great great great great great great great great great great great great great great great great great great great great great great great grandfather takes 1 damage.
+Round 1: the ghost of fernswarthy's great great great great great great great great great great great great great great great great great great great great great great great great great great grandfather takes 9 damage.
+Round 1: the ghost of fernswarthy's great great great great great great great great great great great great great great great great great great great great great great great great great great grandfather takes 1 damage.
+You lose 930 hit points
+Round 1: boolicious casts FLYING FIRE FIST!
+Round 2: the ghost of fernswarthy's great great great great great great great great great great great great great great great great great great great great great great great great great great grandfather takes 8456 damage.
+You lose an effect: Salamanderenity
+Round 2: Dr Marten gives him the boot for 1 damage.
+Round 2: the ghost of fernswarthy's great great great great great great great great great great great great great great great great great great great great great great great great great great grandfather takes 1 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten does a little boot-scootin' boogie.
+You gain 1363 Muscleboundness
+You gain a Muscle point!
+You gain 627 Wizardliness
+You gain a Mysticality point!
+You gain 636 Sarcasm
+You gain a Moxie point!
+
+equip hat big bad voodoo mask
+
+equip weapon drywall axe
+
+equip shirt star shirt
+
+equip acc1 Mesmereyes™ contact lenses
+
+equip acc3 Mr. Accessory
+
+buy 1 ointment of the occult for 400 each from 2280415 on 20120112
+You acquire an item: ointment of the occult
+
+use 1 ointment of the occult
+You acquire an effect: Mystically Oiled (duration: 5 Adventures)
+
+buy 1 tomato juice of powerful power for 452 each from 1957677 on 20120112
+You acquire an item: tomato juice of powerful power
+
+use 1 tomato juice of powerful power
+You acquire an effect: Tomato Power (duration: 5 Adventures)
+
+buy 1 funky dried mushroom for 450 each from 952071 on 20120112
+You acquire an item: funky dried mushroom
+
+use 1 funky dried mushroom
+You acquire an effect: Seeing Colors (duration: 10 Adventures)
+
+uneffect Confused
+
+use 1 fizzy potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+uneffect Ringing Ears
+
+buy 1 shot of flower schnapps for 465 each from 2261430 on 20120112
+You acquire an item: shot of flower schnapps
+
+drink 1 shot of flower schnapps
+You gain 2 Adventures
+You acquire an effect: Flower Power (duration: 3 Adventures)
+You gain 1 Drunkenness
+
+buy 1 bottled inspiration for 700 each from 2255527 on 20120112
+You acquire an item: bottled inspiration
+
+use 1 bottled inspiration
+You acquire an effect: Inspired! (duration: 10 Adventures)
+
+buy 5 glittery mascara for 24 each from Market Demon
+You acquire glittery mascara (5)
+You spent 120 Meat
+
+use 5 glittery mascara
+You acquire an effect: Glittering Eyelashes (duration: 15 Adventures)
+
+buy 1 black sheepskin diploma for 300 each from 608418 on 20120112
+You acquire an item: black sheepskin diploma
+
+use 1 black sheepskin diploma
+You acquire an effect: Erudite (duration: 10 Adventures)
+
+buy 1 yellow paisley oyster egg for 240 each from 2015478 on 20120112
+You acquire an item: yellow paisley oyster egg
+
+use 1 yellow paisley oyster egg
+You acquire an effect: Egg-headedness (duration: 20 Adventures)
+You gain 12 Magicalness
+
+uneffect Sugar Rush
+
+buy 1 Okee-Dokee soda for 200 each from 1724102 on 20120112
+You acquire an item: Okee-Dokee soda
+
+use 1 Okee-Dokee soda
+You gain 48 Muscularity Points
+You acquire an effect: Okee-Dokee Go! (duration: 19 Adventures)
+You acquire an effect: Okee-Dokee Computer (duration: 15 Adventures)
+You acquire an effect: Okee-Dokee, Smokee (duration: 19 Adventures)
+You acquire an effect: Sugar Rush (duration: 20 Adventures)
+
+buy 1 salamander slurry for 350 each from 360817 on 20120112
+You acquire an item: salamander slurry
+
+use 1 salamander slurry
+You acquire an effect: Salamander In Your Stomach (duration: 5 Adventures)
+
+buy 1 spooky lipstick for 100 each from 1348985 on 20120112
+You acquire an item: spooky lipstick
+
+use 1 spooky lipstick
+You acquire an effect: Gothy (duration: 10 Adventures)
+
+uneffect Sugar Rush
+
+buy 1 oil of stability for 769 each from 1877436 on 20120112
+You acquire an item: oil of stability
+
+use 1 oil of stability
+You acquire an effect: Stabilizing Oiliness (duration: 5 Adventures)
+
+[14325] Fernswarthy's Basement (Level 439)
+Buffed Mysticality Test: 5,745 current, 5,408 needed
+
+[14326] Fernswarthy's Basement (Level 440)
+Encounter: Got Silk?/Leather is Betther
+You gain 532 Cheek
+You gain a Moxie point!
+
+equip acc1 blackberry slippers
+
+equip hat hardened slime hat
+unequip weapon
+
+cast 50 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 1650 Adventures)
+
+[14327] Fernswarthy's Basement (Level 441)
+Encounter: The Beast with 10,076 Eyes
+Round 0: boolicious loses initiative!
+Round 1: the beast with 10,076 eyes takes 3 damage.
+Round 1: the beast with 10,076 eyes takes 7 damage.
+Round 1: the beast with 10,076 eyes takes 3 damage.
+You lose 1,156 hit points
+Round 1: boolicious casts FLYING FIRE FIST!
+Round 2: the beast with 10,076 eyes takes 8292 damage.
+You lose an effect: Salamanderenity
+Round 2: Dr Marten kicks out the jams, and by that I mean kicks it for 30 damage.
+Round 2: the beast with 10,076 eyes takes 30 damage.
+Round 2: the beast with 10,076 eyes takes 1 damage.
+Round 2: the beast with 10,076 eyes takes 2 damage.
+Round 2: the beast with 10,076 eyes takes 4 damage.
+You lose 1,150 hit points
+Round 2: boolicious uses the 4:20 bomb!
+Round 3: the beast with 10,076 eyes takes 499 damage.
+Round 3: boolicious wins the fight!
+After Battle: Dr Marten stomps around in a circle, its buckles jingling.
+You gain 1314 Beefiness
+You gain a Muscle point!
+You gain 676 Wizardliness
+You gain a Mysticality point!
+You gain 656 Cheek
+
+buy 1 phial of spookiness for 489 each from 1877436 on 20120112
+You acquire an item: phial of spookiness
+
+use 1 phial of spookiness
+You acquire an effect: Spookyform (duration: 5 Adventures)
+
+buy 1 lihc eye pie for 100 each from 360817 on 20120112
+You acquire an item: lihc eye pie
+
+eat 1 lihc eye pie
+You gain 9 Adventures
+You gain 11 Magicalness
+You acquire an effect: Eye of the Lihc (duration: 5 Adventures)
+You gain 4 Fullness
+
+buy 1 cold powder for 685 each from 2143903 on 20120112
+You acquire an item: cold powder
+
+use 1 cold powder
+You acquire an effect: Insulated Trousers (duration: 5 Adventures)
+
+buy 1 Oil of Parrrlay for 500 each from 1527419 on 20120112
+You acquire an item: Oil of Parrrlay
+
+use 1 Oil of Parrrlay
+You acquire an effect: Well-Oiled (duration: 5 Adventures)
+
+equip weapon titanium assault umbrella
+
+equip off-hand stress ball
+
+equip shirt eXtreme Bi-Polar Fleece Vest
+
+equip pants The Necbromancer's Shorts
+
+equip acc1 Pokëmann figurine: Duck
+
+equip acc2 ring of cold resistance
+
+equip acc3 hopping socks
+
+buy 1 can of black paint for 976 each from 530356 on 20120112
+You acquire an item: can of black paint
+
+use 1 can of black paint
+You acquire an effect: Red Door Syndrome (duration: 10 Adventures)
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 3,374 hit points
+
+[14328] Fernswarthy's Basement (Level 442)
+Elemental Resist Test: +22 cold 88% (2,905 hp), +13 spooky 100% (1 hp)
+You lose 2,738 hit points
+You lose 1 hit point
+
+equip shirt star shirt
+
+equip pants cane-mail pants
+
+equip acc1 cursed scrunchie
+
+equip acc2 Pokëmann figurine: Frank
+
+buy 1 fish-liver oil for 150 each from 1469237 on 20120112
+You acquire an item: fish-liver oil
+
+use 1 fish-liver oil
+You acquire an effect: Fishy Fortification (duration: 5 Adventures)
+
+use 1 Angry Farmer candy
+You acquire an effect: Sugar Rush (duration: 10 Adventures)
+
+uneffect Gothy
+
+cast 52 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 1716 Adventures)
+
+buy 10 scroll of drastic healing for 500 each from 1864452 on 20120112
+You acquire scroll of drastic healing (10)
+
+use 1 Dyspepsi-Cola
+You gain 11 Muscularity Points
+
+[14329] Fernswarthy's Basement (Level 443)
+Encounter: The Beast with 10,140 Eyes
+Round 0: boolicious loses initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: the beast with 10,140 eyes takes 3 damage.
+Round 1: the beast with 10,140 eyes takes 6 damage.
+Round 1: the beast with 10,140 eyes takes 5 damage.
+You lose 1,212 hit points
+Round 1: boolicious casts FLYING FIRE FIST!
+Round 2: boolicious casts RETURN!
+Round 3: Dr Marten kicks you in the butt to speed your escape.  Thanks, Dr Marten...
+unequip weapon
+unequip offhand
+
+[14329] Fernswarthy's Basement (Level 443)
+Encounter: The Beast with 10,140 Eyes
+Round 0: boolicious loses initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: the beast with 10,140 eyes takes 3 damage.
+Round 1: the beast with 10,140 eyes takes 9 damage.
+Round 1: the beast with 10,140 eyes takes 5 damage.
+You lose 1,218 hit points
+Round 1: boolicious casts FLYING FIRE FIST!
+Round 2: the beast with 10,140 eyes takes 8621 damage.
+You lose an effect: Salamanderenity
+Round 2: the beast with 10,140 eyes takes 1 damage.
+Round 2: the beast with 10,140 eyes takes 9 damage.
+Round 2: the beast with 10,140 eyes takes 5 damage.
+You lose 1,236 hit points
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 4,660 hit points
+
+cast 55 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 1815 Adventures)
+
+[14330] Fernswarthy's Basement (Level 443)
+Encounter: The Beast with 10,140 Eyes
+Round 0: boolicious loses initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: the beast with 10,140 eyes takes 2 damage.
+Round 1: the beast with 10,140 eyes takes 3 damage.
+Round 1: the beast with 10,140 eyes takes 3 damage.
+You lose 1,362 hit points
+Round 1: boolicious casts ZENDO KOBUSHI KANCHO!
+Round 2: the beast with 10,140 eyes takes 48 damage.
+Round 2: the beast with 10,140 eyes drops 33 defense.
+Round 2: Dr Marten gives it some pumped-up kicks for 24 damage. Looks like it didn't run fast enough.
+Round 2: the beast with 10,140 eyes takes 24 damage.
+Round 2: the beast with 10,140 eyes takes 3 damage.
+Round 2: the beast with 10,140 eyes takes 2 damage.
+Round 2: the beast with 10,140 eyes takes 3 damage.
+You lose 1,377 hit points
+Round 2: boolicious casts FLYING FIRE FIST!
+Round 3: the beast with 10,140 eyes takes 9117 damage.
+You lose an effect: Salamanderenity
+Round 3: boolicious wins the fight!
+After Battle: Dr Marten does a little of the ol' soft shoe, except it's more of a hard boot.
+You gain 1335 Strengthliness
+You gain some Muscle points!
+You gain 671 Wizardliness
+You gain a Mysticality point!
+You gain 659 Smarm
+You gain a Moxie point!
+
+use 1 scroll of drastic healing
+
+buy 1 oil of stability for 769 each from 1877436 on 20120112
+You acquire an item: oil of stability
+
+use 1 oil of stability
+You acquire an effect: Stabilizing Oiliness (duration: 5 Adventures)
+
+equip hat big bad voodoo mask
+
+equip weapon drywall axe
+
+equip acc2 Mesmereyes™ contact lenses
+
+equip acc3 Mr. Accessory
+
+buy 1 ointment of the occult for 433 each from 1117265 on 20120112
+You acquire an item: ointment of the occult
+
+use 1 ointment of the occult
+You acquire an effect: Mystically Oiled (duration: 5 Adventures)
+
+uneffect Beaten Up
+
+buy 1 tomato juice of powerful power for 452 each from 1957677 on 20120112
+You acquire an item: tomato juice of powerful power
+
+use 1 tomato juice of powerful power
+You acquire an effect: Tomato Power (duration: 5 Adventures)
+
+buy 1 shot of flower schnapps for 545 each from 109114 on 20120112
+You acquire an item: shot of flower schnapps
+
+drink 1 shot of flower schnapps
+You gain 2 Adventures
+You acquire an effect: Flower Power (duration: 3 Adventures)
+You gain 1 Drunkenness
+
+use 1 gummi snake
+You acquire an effect: Gummibrain (duration: 1 Adventure)
+
+uneffect Sugar Rush
+
+buy 1 salamander slurry for 350 each from 360817 on 20120112
+You acquire an item: salamander slurry
+
+use 1 salamander slurry
+You acquire an effect: Salamander In Your Stomach (duration: 5 Adventures)
+
+buy 1 spooky lipstick for 100 each from 1348985 on 20120112
+You acquire an item: spooky lipstick
+
+use 1 spooky lipstick
+You acquire an effect: Gothy (duration: 10 Adventures)
+
+use 1 pickle-flavored chewing gum
+You acquire an effect: Mystic Pickleness (duration: 5 Adventures)
+
+use 1 jabañero-flavored chewing gum
+You acquire an effect: Spicy Mouth (duration: 5 Adventures)
+
+buy 1 potion of temporary gr8tness for 1400 each from 2181165 on 20120112
+You acquire an item: potion of temporary gr8tness
+
+use 1 potion of temporary gr8tness
+You acquire an effect: Gr8tness (duration: 5 Adventures)
+
+buy 1 pirate tract for 800 each from 1901336 on 20120112
+You acquire an item: pirate tract
+
+use 1 pirate tract
+You acquire an effect: Carrrsmic (duration: 10 Adventures)
+
+buy 1 maple syrup for 200 each from 955987 on 20120112
+You acquire an item: maple syrup
+
+eat 1 maple syrup
+You gain 1 Adventure
+You gain 22 hit points
+You gain 22 Muscularity Points
+You acquire an effect: Antsy in your Pantsy (duration: 5 Adventures)
+You gain 1 Fullness
+
+buy 1 roasted marshmallow for 250 each from 1931381 on 20120112
+You acquire an item: roasted marshmallow
+
+eat 1 roasted marshmallow
+You gain 1 Adventure
+You acquire an effect: Mallowed Out (duration: 3 Adventures)
+You gain 1 Fullness
+
+[14331] Fernswarthy's Basement (Level 444)
+Buffed Mysticality Test: 5,218 current, 5,494 needed
+
+[14332] Fernswarthy's Basement (Level 445)
+Encounter: Take the Red Pill/Take the Blue Pill
+You gain 682 Beefiness
+
+use 1 phial of hotness
+You acquire an effect: Hotform (duration: 5 Adventures)
+
+buy 1 spooky powder for 160 each from 2121861 on 20120112
+You acquire an item: spooky powder
+
+use 1 spooky powder
+You acquire an effect: Spookypants (duration: 5 Adventures)
+
+buy 1 Oil of Parrrlay for 500 each from 2206328 on 20120112
+You acquire an item: Oil of Parrrlay
+
+use 1 Oil of Parrrlay
+You acquire an effect: Well-Oiled (duration: 5 Adventures)
+
+equip hat hardened slime hat
+
+equip weapon jungle drum
+
+equip shirt Ultracolor™ shirt
+
+equip pants dungeoneer's dungarees
+
+equip acc1 Pokëmann figurine: Nothing
+
+equip acc2 glowing red eye
+
+equip acc3 glowing red eye
+
+use 1 marzipan skull
+You acquire an effect: Hardly Poisoned at All (duration: 5 Adventures)
+You acquire an effect: Hombre Muerto Caminando (duration: 5 Adventures)
+You acquire an effect: Sugar Rush (duration: 5 Adventures)
+
+[14333] Fernswarthy's Basement (Level 446)
+Elemental Resist Test: +10 hot 100% (1 hp), +22 spooky 88% (2,942 hp)
+You lose 1 hit point
+You lose 2,717 hit points
+
+equip hat worn tophat
+
+equip weapon drywall axe
+
+equip shirt star shirt
+
+equip pants astral shorts
+
+equip acc1 cursed scrunchie
+
+equip acc2 Pokëmann figurine: Moog
+
+equip acc3 Mr. Accessory
+
+buy 1 serum of sarcasm for 440 each from 2015495 on 20120112
+You acquire an item: serum of sarcasm
+
+use 1 serum of sarcasm
+You acquire an effect: Superhuman Sarcasm (duration: 5 Adventures)
+
+use 1 effervescent potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+use 1 Trivial Avocations Card:  What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #232/1200:
+Question: What did Professor Glenn Martin, mayor of Wibbleford, find when he opened the time capsule that had been buried under his wife on Carlvember 1st, 1180?
+Answer: An ascot belonging to the Lord of Fandanzia.
+
+use 1 Trivial Avocations Card:  When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #487/1200:
+Question: When did the Flaxbury Grove Feral Dutchmen win the national prancing championship?
+Answer: Never.
+
+use 1 Trivial Avocations Card:  Where?
+You acquire an effect: You Know Where to Go (duration: 1 Adventure)
+Trivia card #1185/1200:
+Question: Where did Li'l Huckleberry Franklin, inventor of the original marshmallow, lose his can of sardines?
+Answer: Stubborn Mule, Taintingham.
+
+use 1 Trivial Avocations Card:  Who?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Where to Go
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #731/1200:
+Question: Who wrote the mysterious graphic novel 
+Answer: A ferret named Fido.
+
+use 1 anti-anti-antidote
+
+buy 1 knight cookie for 12650 each from 2028071 on 20120112
+You acquire an item: knight cookie
+
+eat 1 knight cookie
+You gain 6 Adventures
+You gain 20 Chutzpah
+You acquire an effect: Knightlife (duration: 30 Adventures)
+You gain 1 Fullness
+
+Combine 1 tourmalime + 1 lollipop stick
+You acquire an item: lime supersucker
+Crafting used 1 each of lollipop stick and tourmalime
+
+use 1 lime supersucker
+You acquire an effect: Sugar Rush (duration: 30 Adventures)
+You acquire an effect: In the Limelight (duration: 30 Adventures)
+
+uneffect Inspired!
+
+use 1 gummi canary
+You acquire an effect: Gummiskin (duration: 1 Adventure)
+
+buy 5 hair spray for 24 each from Market Demon
+You acquire hair spray (5)
+You spent 120 Meat
+
+use 5 hair spray
+You acquire an effect: Butt-Rock Hair (duration: 15 Adventures)
+
+buy 1 Black Body™ spray for 300 each from 608418 on 20120112
+You acquire an item: Black Body™ spray
+
+use 1 Black Body™ spray
+You acquire an effect: Radiating Black Body&trade; (duration: 10 Adventures)
+
+buy 1 pirate pamphlet for 500 each from 692002 on 20120112
+You acquire an item: pirate pamphlet
+
+use 1 pirate pamphlet
+You acquire an effect: Charrrming (duration: 10 Adventures)
+
+uneffect Lycanthropy, Eh?
+
+uneffect Gothy
+
+uneffect Spicy Mouth
+
+buy 1 shot of flower schnapps for 545 each from 109114 on 20120112
+You acquire an item: shot of flower schnapps
+
+drink 1 shot of flower schnapps
+You gain 2 Adventures
+You acquire an effect: Flower Power (duration: 3 Adventures)
+You gain 1 Drunkenness
+
+buy 1 handsomeness potion for 300 each from Gno-Mart
+You acquire an item: handsomeness potion
+You spent 300 Meat
+
+use 1 handsomeness potion
+You acquire an effect: Mysteriously Handsome (duration: 5 Adventures)
+
+buy 1 roasted marshmallow for 250 each from 1931381 on 20120112
+You acquire an item: roasted marshmallow
+
+eat 1 roasted marshmallow
+You gain 1 Adventure
+You acquire an effect: Mallowed Out (duration: 3 Adventures)
+You gain 1 Fullness
+
+buy 1 Black No. 2 for 100 each from 1876993 on 20120112
+You acquire an item: Black No. 2
+
+use 1 Black No. 2
+You acquire an effect: Locks Like the Raven (duration: 10 Adventures)
+
+[14334] Fernswarthy's Basement (Level 447)
+Buffed Moxie Test: 4,820 current, 5,546 needed
