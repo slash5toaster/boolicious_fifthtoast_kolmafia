@@ -39,7 +39,7 @@ _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
 _bagOfCandy=false
-_ballpit=false
+_ballpit=true
 _banderRunaways=0
 _benettonsCasts=0
 _bonersSummoned=false
@@ -72,7 +72,7 @@ _hotTubSoaks=0
 _iceballUses=0
 _inigosCasts=0
 _ironicMoustache=false
-_jackassePlumberGame=false
+_jackassePlumberGame=true
 _klawSummons=0
 _kloopDrops=0
 _lastZomboEye=0
@@ -581,11 +581,11 @@ choiceAdventure91=2
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=false
+concertVisited=true
 counterScript
 crimboTreeDays=7
-currentBountyItem=0
-currentFullness=0
+currentBountyItem=2099
+currentFullness=1
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -593,7 +593,7 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=3
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -731,7 +731,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=The Beast with 10,140 Eyes
+lastEncounter=27 Stone Golem
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -803,7 +803,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=12
+libramSummons=14
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -868,7 +868,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=14360\:Fortune Cookie\:fortune.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -923,7 +923,7 @@ styxPixieVisited=false
 sugarCounter4178=1
 sugarCounter4179=0
 sugarCounter4180=0
-sugarCounter4181=0
+sugarCounter4181=1
 sugarCounter4182=0
 sugarCounter4183=16
 sugarCounter4191=1
@@ -940,7 +940,7 @@ telescopeUpgrades=0
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=0
+tomeSummons=2
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true

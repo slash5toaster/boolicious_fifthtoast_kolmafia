@@ -1,5 +1,6 @@
-AdventureFrame=48,188,1
+AdventureFrame=48,188,0
 CouncilFrame=424,322,-1
+DescriptionFrame=424,322,-1
 KoLDesktop=188,141,-1
 LoginFrame=408,276,0
 MaximizerFrame=379,354
@@ -98,7 +99,7 @@ autoOlfact
 autoPotionID=false
 autoPutty
 autoRepairBoxServants=false
-autoSetConditions=false
+autoSetConditions=true
 autoSphereID=false
 autoSteal=true
 autostartGalaktikQuest=true
@@ -549,7 +550,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=2
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -560,12 +561,12 @@ currentPvpVictories
 currentSpleenUse=0
 currentWheelPosition=muscle
 customCombatScript=default
-cyrptAlcoveEvilness=33
-cyrptCrannyEvilness=50
+cyrptAlcoveEvilness=0
+cyrptCrannyEvilness=0
 cyrptNicheEvilness=0
 cyrptNookEvilness=0
-cyrptTotalEvilness=83
-dailyDungeonDone=false
+cyrptTotalEvilness=0
+dailyDungeonDone=true
 dbNemesisSkill1=0
 dbNemesisSkill2=0
 dbNemesisSkill3=0
@@ -631,7 +632,7 @@ hpAutoRecoveryTarget=1.0
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=false
 knownAscensions=0
-lastAdventure=Itznotyerzitz Mine
+lastAdventure=Haiku Dungeon
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -693,7 +694,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=100% Legal
+lastEncounter=ancient insane monk
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
