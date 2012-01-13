@@ -2,7 +2,7 @@ AdventureFrame=1960,236,0
 CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 KoLDesktop=2732,66,-1
-LoginFrame=2649,365,0
+LoginFrame=1498,344,0
 MaximizerFrame=326,275
 ProfileFrame=2662,409,-1
 TabbedChatFrame=2162,94,0
@@ -610,7 +610,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 gongPath=0
 gourdItemCount=5
 grimoire1Summons=0
@@ -632,7 +632,7 @@ hpAutoRecoveryTarget=1.0
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=false
 knownAscensions=0
-lastAdventure=Hey Deze Arena
+lastAdventure=Spooky Forest
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -647,13 +647,13 @@ lastBangPotion827
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=2
+lastBreakfast=3
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=8
-lastCounterDay=2
+lastCounterDay=3
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -694,10 +694,10 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=serialbus
+lastEncounter=spooky sapling
 lastFilthClearance=-1
 lastFratboyCall=-1
-lastFriarCeremonyAscension=-1
+lastFriarCeremonyAscension=0
 lastGalleryUnlock=-1
 lastGuildStoreOpen=0
 lastGuyMadeOfBeesReset=0
@@ -808,7 +808,7 @@ pastamancerOrbedExperience=0
 pastamancerOrbedName
 pastamancerOrbedType
 pendingMapReflections=0
-photocopyMonster
+photocopyMonster=monster
 plantingDate
 plantingDay=-1
 plantingLength
