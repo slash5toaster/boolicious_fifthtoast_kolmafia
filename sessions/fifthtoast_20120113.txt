@@ -707,3 +707,150 @@ Round 2: fifthtoast wins the fight!
 After Battle: Sanguine, serene smile / Life is better than it seems / thank you, familiar.
 You gain 2 Magicalness
 You gain 4 Roguishness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 13, 2012 - Jarlsuary 5
+
+Ronald: full moon
+Grimace: first quarter
+Mini-moon: in front of Ronald, L side
+
+Valentine's Day: 7 days
+St. Sneaky Pete's Day: 14 days
+Oyster Egg Day: 21 days
+El Dia De Los Muertos Borrachos: 29 days
+Generic Summer Holiday: 38 days
+Dependence Day: 47 days
+Arrrbor Day: 55 days
+Lab&oacute;r Day: 65 days
+Halloween: 75 days
+Feast of Boris: 82 days
+Yuletide: 87 days
+Festival of Jarlsberg: 92 days
+
+
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 8
+HP: 56 / 86
+MP: 44 / 52
+
+Mus: 50 (42), tnp = 49
+Mys: 49 (41), tnp = 10
+Mox: 73 (59), tnp = 12
+
+Advs: 80
+Meat: 10,523
+Drunk: 0
+
+
+ > equipment
+
+Hat: mariachi hat
+Weapon: hilarious comedy prop
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin elite pants
+
+Acc. 1: badass belt
+Acc. 2: observational glasses
+Acc. 3: tiny plastic Big Candy
+
+Pet: Tickle-Me Emilio (19 lbs)
+Item: (none)
+
+ > skills
+
+Disco Bandit
+ - Disco Aerobics
+ - Disco Eye-Poke
+ - Disco Nap
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Bubble Vision (10)
+Disco State of Mind (10)
+♫ Ode to Booze (25)
+♫ Jackasses' Symphony of Destruction (375)
+♫ Polka of Plenty (375)
+Jingle Jangle Jingle (375)
+Jabañero Saucesphere (375)
+Scarysauce (375)
+Jalapeño Saucesphere (375)
+Empathy (375)
+Reptilian Fortitude (375)
+Tenacity of the Snapper (375)
+Astral Shell (375)
+Elemental Saucesphere (375)
+Ghostly Shell (375)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +2.18
+Meat: +50.00%
+Item: +96.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Trivial Avocations board game
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+buy 1 hermit permit for 100 each from Market Demon
+You acquire an item: hermit permit
+You spent 100 Meat
+
+game.php?mainpane=messages
+sendmessage.php?toid=654348
+
+send a kmail to 654348
+
+cast 25 Disco Aerobics
+You acquire an effect: Disco State of Mind (duration: 125 Adventures)
+
+cast 19 Disco Aerobics
+You acquire an effect: Disco State of Mind (duration: 95 Adventures)
+
+use 1 Knob Goblin superseltzer
+You gain 25 Mojo Points
+
+cast 6 Disco Aerobics
+You acquire an effect: Disco State of Mind (duration: 30 Adventures)
+
+cast 10 Disco Aerobics
+You acquire an effect: Disco State of Mind (duration: 50 Adventures)
+
+use 1 Jack-in-the-box
