@@ -2733,3 +2733,1742 @@ Richard takes a frozen hobo eyeballs
 Encounter: Attention -- A Tent!
 Took choice 225/1: perform on stage
 choice.php?pwd&whichchoice=225&option=1
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 13, 2012 - Jarlsuary 5
+
+Ronald: full moon
+Grimace: first quarter
+Mini-moon: in front of Ronald, L side
+
+Valentine's Day: 7 days
+St. Sneaky Pete's Day: 14 days
+Oyster Egg Day: 21 days
+El Dia De Los Muertos Borrachos: 29 days
+Generic Summer Holiday: 38 days
+Dependence Day: 47 days
+Arrrbor Day: 55 days
+Lab&oacute;r Day: 65 days
+Halloween: 75 days
+Feast of Boris: 82 days
+Yuletide: 87 days
+Festival of Jarlsberg: 92 days
+
+
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 25
+HP: 1360 / 1,360
+MP: 893 / 893
+
+Mus: 882 (589), tnp = 337
+Mys: 547 (430), tnp = 572
+Mox: 534 (428), tnp = 418
+
+Advs: 101
+Meat: 96,550
+Drunk: 6
+
+
+ > equipment
+
+Hat: hardened slime hat
+Weapon: brand new key
+Off-hand: snake shield
+Shirt: star shirt
+Pants: cane-mail pants
+
+Acc. 1: cursed scrunchie
+Acc. 2: ring of conflict
+Acc. 3: Mr. Accessory
+
+Pet: Pair of Stomping Boots (35 lbs)
+Item: stomp box
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+♫ The Magical Mojomuscular Melody (322)
+♫ The Sonata of Sneakiness (375)
+Astral Shell (446)
+Jalapeño Saucesphere (509)
+Patience of the Tortoise (600)
+Tenacity of the Snapper (750)
+Jabañero Saucesphere (854)
+♫ Polka of Plenty (1,045)
+Reptilian Fortitude (1,069)
+Empathy (1,109)
+Jingle Jangle Jingle (1,141)
+Scarysauce (1,245)
+Elemental Saucesphere (1,259)
+Ghostly Shell (2,445)
+Retrograde Relaxation (3,559)
+
+
+ > modifiers
+
+ML: +0
+Enc: -10.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +80.00%
+Item: +90.87%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[14627] Summoning Chamber
+
+buy 3 thin black candle for 288 each from 1053259 on 20120113
+You acquire thin black candle (3)
+
+buy 1 disintegrating quill pen for 100 each from 917450 on 20120113
+You acquire an item: disintegrating quill pen
+
+buy 1 inkwell for 280 each from 917450 on 20120113
+You acquire an item: inkwell
+
+buy 1 tattered scrap of paper for 1500 each from 1956752 on 20120113
+You acquire an item: tattered scrap of paper
+
+Use 1 disintegrating quill pen + 1 inkwell + 1 tattered scrap of paper
+You acquire an item: scroll of ancient forbidden unspeakable evil
+summon Red'Nyakel
+You acquire an item: cherry pie
+You acquire an item: strawberry pie
+You acquire an item: lemon meringue pie
+
+clan_hobopolis.php?place=2
+
+familiar Syncopated Turtle (23 lbs)
+
+use 1 turtle pheromones
+You acquire an effect: Eau de Tortue (duration: 5 Adventures)
+
+clan_hobopolis.php?place=6
+
+[14627] The Heap
+Encounter: Jack &quot;Stinkyfeet&quot; Nite, the Filth Merchant
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 8 hit points
+You lose 169 hit points
+Round 2: boolicious attacks!
+Round 3: stench hobo takes 632 damage.
+Round 3: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+After Battle: Gorg brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 49 Strengthliness
+You gain 28 Magicalness
+You gain 21 Cheek
+
+[14628] The Heap
+Encounter: You vs. The Volcano
+Took choice 214/1: decrease stench hobos & increase stench
+choice.php?pwd&whichchoice=214&option=1
+
+[14629] The Heap
+Encounter: Holden &quot;Awful Offal&quot; O'Sullivan
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 617 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: hobo nickel
+You gain 49 Strongness
+You gain 32 Magicalness
+You gain 19 Sarcasm
+
+[14630] The Heap
+Encounter: Del &quot;No Soap, Thank You&quot; Taylor, the Foul
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 625 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 50 Strongness
+You gain 24 Enchantedness
+You gain 24 Sarcasm
+
+equip weapon Flail of the Seven Aspects
+
+[14631] The Heap
+Encounter: Training Day
+Took choice 345/1: unknown
+choice.php?pwd&whichchoice=345&option=1
+You acquire an item: boxcar turtle
+
+[14631] The Heap
+Encounter: The Compostal Service
+Took choice 216/2: skip adventure
+choice.php?pwd&whichchoice=216&option=2
+
+[14631] The Heap
+Encounter: The Compostal Service
+Took choice 216/2: skip adventure
+choice.php?pwd&whichchoice=216&option=2
+
+[14631] The Heap
+Encounter: Brendan &quot;Underarms&quot; Symington
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 589 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Gorg, the 14 lb. Syncopated Turtle
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: hobo nickel
+You acquire an item: Biddy Cracker's Old-Fashioned Cookbook
+After Battle: Gorg brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 49 Muscleboundness
+You gain 30 Enchantedness
+You gain 19 Roguishness
+
+use 2 resolution: be luckier
+You acquire an effect: Fortunate Resolve (duration: 40 Adventures)
+
+[14632] The Heap
+Encounter: Caboose-Fouling Virgil, Who Is Extremely Funky But Not In a Good Way
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 589 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 50 Muscleboundness
+You gain 25 Magicalness
+You gain 21 Smarm
+
+use 2 large box
+You acquire milky potion of detection (2)
+You acquire an item: swirly potion of inebriety
+You acquire an item: smoky potion of sleepiness
+You acquire cloudy potion of healing (2)
+You acquire an item: fizzy potion of mental acuity
+You acquire dark potion of teleportitis (2)
+You acquire murky potion of ettin strength (2)
+
+use 1 small box
+You acquire swirly potion of inebriety (2)
+You acquire an item: bubbly potion of confusion
+
+use 1 boxcar turtle
+You acquire briefcase (10)
+
+[14633] The Heap
+Encounter: Martin Harris, Who Has Never Bathed Ever
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 582 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+After Battle: Gorg brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 50 Strengthliness
+You gain 28 Magicalness
+You gain 20 Chutzpah
+
+[14634] The Heap
+Encounter: Garbage Juice Virgil Harris
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 600 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: hobo nickel
+You gain 54 Muscleboundness
+You gain a Muscle point!
+You gain 28 Mysteriousness
+You gain 17 Chutzpah
+
+use 1 turtle pheromones
+You acquire an effect: Eau de Tortue (duration: 5 Adventures)
+
+[14635] The Heap
+Encounter: Edgar &quot;Loo Brush&quot; Walker
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 596 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: hobo nickel
+You gain 48 Strengthliness
+You gain 28 Enchantedness
+You gain 22 Sarcasm
+
+[14636] The Heap
+Encounter: Manny &quot;Sardine-Breath&quot; Steadwick
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 601 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 41 Strongness
+You gain 32 Enchantedness
+You gain 26 Smarm
+
+[14637] The Heap
+Encounter: Necrotic-Limb Leo Davis, the Rotten Meat Vendor
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 624 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+After Battle: Gorg brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 46 Strengthliness
+You gain 34 Mysteriousness
+You gain 20 Sarcasm
+
+[14638] The Heap
+Encounter: Training Day
+Took choice 345/1: unknown
+choice.php?pwd&whichchoice=345&option=1
+You acquire an item: boxcar turtle
+
+clan_hobopolis.php?place=6
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=3
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+
+buy 1 phial of hotness for 470 each from 2015495 on 20120113
+You acquire an item: phial of hotness
+
+mall.php?didadv=0&pudnuggler=phial&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=5&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+
+buy 1 phial of sleaziness for 464 each from 2015495 on 20120113
+You acquire an item: phial of sleaziness
+
+buy 1 phial of spookiness for 484 each from 2015495 on 20120113
+You acquire an item: phial of spookiness
+
+buy 1 phial of stench for 465 each from 2015495 on 20120113
+You acquire an item: phial of stench
+
+use 1 phial of spookiness
+You acquire an effect: Spookyform (duration: 5 Adventures)
+
+[14638] Hobopolis Town Square
+Encounter: Lou &quot;The Tiger&quot; Lennon
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 641 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+After Battle: Gorg brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 41 Strongness
+You gain 24 Mysteriousness
+You gain 20 Roguishness
+Richard takes a creepy hobo skull
+
+[14639] Hobopolis Town Square
+Encounter: Barney &quot;Taco&quot; Young
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 629 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 38 Fortitude
+You gain 28 Magicalness
+You gain 19 Cheek
+Richard takes a creepy hobo skull
+
+equip off-hand hobo code binder
+
+[14640] Hobopolis Town Square
+Encounter: Gutthrower Lamont &quot;The Elbow&quot; Jones
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 635 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 41 Muscleboundness
+You gain 27 Mysteriousness
+You gain 17 Chutzpah
+Richard takes a creepy hobo skull
+
+[14641] Hobopolis Town Square
+Encounter: Ol' Noam Jackson, the Devil
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 622 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 46 Beefiness
+You gain 19 Enchantedness
+You gain 18 Sarcasm
+Richard takes a creepy hobo skull
+
+[14642] Hobopolis Town Square
+Encounter: Gluttonous Raph Waldorf
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 634 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+After Battle: Gorg brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 48 Strongness
+You gain 19 Wizardliness
+You gain 18 Sarcasm
+Richard takes a creepy hobo skull
+
+[14643] Hobopolis Town Square
+Encounter: Staples Earl Nite, the Child-Size
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 623 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+After Battle: Gorg brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 43 Fortitude
+You gain 24 Magicalness
+You gain 17 Sarcasm
+Richard takes a hobo skin
+
+[14644] Hobopolis Town Square
+Encounter: Attention -- A Tent!
+Took choice 225/3: skip adventure
+choice.php?pwd&whichchoice=225&option=3
+
+[14644] Hobopolis Town Square
+Encounter: Several Teeth Dwight &quot;Shuffleboard-Playin'&quot; Martin
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 635 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 41 Muscleboundness
+You gain 22 Mysteriousness
+You gain 20 Cheek
+Richard takes a hobo skin
+
+use 1 phial of sleaziness
+You acquire an effect: Sleazeform (duration: 5 Adventures)
+
+[14645] Hobopolis Town Square
+Encounter: Marketplace Entrance
+Took choice 272/1: 48 nickels,  hobo code binder equipped
+choice.php?pwd&whichchoice=272&option=1
+Encounter: The Hobo Marketplace
+Took choice 231/1: unknown
+choice.php?pwd&whichchoice=231&option=1
+Encounter: Food Went A-Courtin'
+Took choice 234/1: unknown
+choice.php?pwd&whichchoice=234&option=1
+Encounter: Food, Glorious Food
+Took choice 236/1: unknown
+choice.php?pwd&whichchoice=236&option=1
+Encounter: Big Merv's Protein Shakes
+Took choice 237/1: unknown
+choice.php?pwd&whichchoice=237&option=1
+You gain 71 Adventures
+You gain 406 Strongness
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=6
+
+[14646] The Heap
+Encounter: Ulrich &quot;Pitstain&quot; Shannahan
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 1164 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+After Battle: Gorg brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 48 Beefiness
+You gain 32 Wizardliness
+You gain 20 Sarcasm
+
+[14647] The Heap
+Encounter: You vs. The Volcano
+Took choice 214/1: decrease stench hobos & increase stench
+choice.php?pwd&whichchoice=214&option=1
+
+[14648] The Heap
+Encounter: Upchuck Molly &quot;Stinkspit&quot; Garfunkel, the Human Paper Mill
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 1184 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 46 Muscleboundness
+You gain 37 Mysteriousness
+You gain 18 Smarm
+
+[14649] The Heap
+Encounter: Eustace &quot;Lavatory&quot; Cooper
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 1168 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 33 Beefiness
+You gain 27 Wizardliness
+You gain 36 Chutzpah
+
+[14650] The Heap
+Encounter: Week-Old Meat Sting, the Master of Flatulence
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 574 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 51 Fortitude
+You gain 27 Mysteriousness
+You gain a Mysticality point!
+You gain 22 Roguishness
+You gain a Moxie point!
+
+[14651] The Heap
+Encounter: Shane &quot;Halitosis&quot; Tyler
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 580 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: hobo nickel
+After Battle: Gorg brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 48 Beefiness
+You gain 30 Enchantedness
+You gain 21 Smarm
+
+clan_hobopolis.php?place=6
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=3
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+
+buy 3 phial of sleaziness for 464 each from 2015495 on 20120113
+You acquire phial of sleaziness (3)
+
+mallsell: 10 disassembled clover
+
+manageprices.php?action=update&price5251=5725&limit5251=1&price2959=5500&limit2959=0&price2981=5400&limit2981=0&price2973=4600&limit2973=0&price5259=4000&limit5259=0&price258=2000&limit258=1&price5105=1450&limit5105=0&price196=1350&limit196=0&price594=410&limit594=0&price2687=400&limit2687=0&price5095=396&limit5095=0&price2633=365&limit2633=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price703=250&limit703=0&price615=248&limit615=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price1866=186&limit1866=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price240=160&limit240=0&price218=155&limit218=0&price2613=155&limit2613=0&price2055=150&limit2055=0&price352=150&limit352=0&price475=130&limit475=0&price432=120&limit432=0&price431=120&limit431=0&price1655=120&limit1655=0&price1160=110&limit1160=0&price120=100&limit120=0&price634=100&limit634=0&price166=100&limit166=0&price172=100&limit172=0&price123=100&limit123=0&price1750=100&limit1750=0&price1751=100&limit1751=0&price3=100&limit3=0&price4719=100&limit4719=0&price38=100&limit38=0&price35=100&limit35=0&price36=100&limit36=0&price4718=100&limit4718=0&price5=100&limit5=0&price6=100&limit6=0&price1=100&limit1=0&price77=100&limit77=0&price119=100&limit119=0&price21=100&limit21=0&price129=100&limit129=0&price136=100&limit136=0&price269=100&limit269=0
+
+use 1 phial of sleaziness
+You acquire an effect: Sleazeform (duration: 5 Adventures)
+
+clan_hobopolis.php?place=2
+
+[14652] Hobopolis Town Square
+Encounter: Kerosene-Soaked Red, the Family Man
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 637 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 40 Strengthliness
+You gain 22 Wizardliness
+You gain 23 Smarm
+Richard takes a hobo crotch
+
+[14653] Hobopolis Town Square
+Encounter: Many-Eyed Pontius, the Scientologist Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 626 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 46 Beefiness
+You gain 25 Enchantedness
+You gain 14 Roguishness
+Richard takes a hobo crotch
+
+[14654] Hobopolis Town Square
+Encounter: Clayton &quot;The Tiger&quot; Anderson
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 633 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 46 Beefiness
+You gain a Muscle point!
+You gain 22 Enchantedness
+You gain 17 Sarcasm
+Richard takes a hobo crotch
+
+[14655] Hobopolis Town Square
+Encounter: Attention -- A Tent!
+Took choice 225/3: skip adventure
+choice.php?pwd&whichchoice=225&option=3
+
+[14655] Hobopolis Town Square
+Encounter: Shekky &quot;Castanets&quot; Pennington
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 634 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 39 Strongness
+You gain 27 Magicalness
+You gain 20 Smarm
+Richard takes a hobo crotch
+
+[14656] Hobopolis Town Square
+Encounter: Staggering Leroy &quot;Casters on Crutches&quot; Salisbury
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 623 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 38 Beefiness
+You gain 29 Wizardliness
+You gain 18 Chutzpah
+Richard takes a hobo crotch
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=3
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+
+use 1 phial of stench
+You acquire an effect: Stenchform (duration: 5 Adventures)
+
+[14657] Hobopolis Town Square
+Encounter: Double Stuff John, the Train-Oyster
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 623 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 47 Muscleboundness
+You gain 22 Enchantedness
+You gain 16 Smarm
+Richard takes a stinking hobo guts
+
+[14658] Hobopolis Town Square
+Encounter: Craine &quot;Marvin the Martini&quot; Tyler, the Chamberlain
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 631 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 40 Muscleboundness
+You gain 22 Magicalness
+You gain 22 Cheek
+Richard takes a stinking hobo guts
+
+[14659] Hobopolis Town Square
+Encounter: Eyepatch Glenn &quot;Powderpuff&quot; Westinghouse
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 636 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 37 Fortitude
+You gain 28 Wizardliness
+You gain 22 Smarm
+Richard takes a stinking hobo guts
+
+[14660] Hobopolis Town Square
+Encounter: Sweet Eddie, the Freakster
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 622 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+After Battle: Gorg brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 47 Muscleboundness
+You gain 24 Magicalness
+You gain 13 Cheek
+Richard takes a stinking hobo guts
+
+[14661] Hobopolis Town Square
+Encounter: Freddy Garfield, the Freightyard Satan
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 627 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 43 Beefiness
+You gain 22 Enchantedness
+You gain 19 Cheek
+Richard takes a stinking hobo guts
+
+[14662] Sleazy Back Alley
+Encounter: completely different spider
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: completely different spider takes 909 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Gorg, the 15 lb. Syncopated Turtle
+You gain 9 Meat
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 2 Fortitude
+
+[14663] Sleazy Back Alley
+Encounter: The Entertainer
+Took choice 110/4: skip adventure
+choice.php?whichchoice=110&option=4&pwd
+
+[14663] Sleazy Back Alley
+Encounter: big creepy spider
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: big creepy spider takes 902 damage.
+Round 2: boolicious wins the fight!
+You gain 11 Meat
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 2 Enchantedness
+
+[14664] Sleazy Back Alley
+Encounter: hung-over half-orc hobo
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hung-over half-orc hobo takes 896 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: Mad Train wine
+You acquire an item: dirty hobo gloves
+You acquire an item: moxie weed
+You acquire an item: hobo gristle
+You gain 1 Chutzpah
+
+[14665] Sleazy Back Alley
+Encounter: big creepy spider
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: big creepy spider takes 909 damage.
+Round 2: boolicious wins the fight!
+You gain 11 Meat
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: spider web
+You gain 2 Fortitude
+
+[14666] Sleazy Back Alley
+Encounter: Dumpster Diving
+Took choice 109/1: enter combat
+choice.php?whichchoice=109&option=1&pwd
+Encounter: drunken half-orc hobo
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: drunken half-orc hobo takes 893 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: Mad Train wine
+You acquire an item: dirty hobo gloves
+You acquire an item: hobo gristle
+You gain 2 Wizardliness
+
+equip hat Elder Turtle Shell
+
+equip weapon fouet de tortue-dressage
+
+equip off-hand eye of the Tiger-lily
+
+Use 15 peppermint sprout
+You acquire an item: cane-mail shirt
+
+equip shirt cane-mail shirt
+
+equip pants Galapagosian Cuisses
+
+equip acc1 Baron von Ratsworth's monocle
+
+equip acc2 Zinc Delta of Tranquility
+
+equip acc3 Nickel Gamma of Frugality
+
+use 1 resolution: be happier
+You acquire an effect: Joyful Resolve (duration: 20 Adventures)
+
+use 1 resolution: be kinder
+You acquire an effect: Kindly Resolve (duration: 20 Adventures)
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+friars blessing 1
+You acquire an effect: Brother Flying Burrito's Blessing (duration: 20 Adventures)
+
+[14667] Sleazy Back Alley
+Encounter: rushing bum
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: rushing bum takes 623 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: Mad Train wine
+You acquire an item: bum cheek
+You gain 4 Strengthliness
+You gain 2 Enchantedness
+You gain 1 Sarcasm
+
+[14668] Sleazy Back Alley
+Encounter: The Entertainer
+Took choice 110/4: skip adventure
+choice.php?whichchoice=110&option=4&pwd
+
+[14668] Sleazy Back Alley
+Encounter: big creepy spider
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: big creepy spider takes 622 damage.
+Round 2: boolicious wins the fight!
+You gain 10 Meat
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: spider web
+You acquire an item: spider web
+You gain 3 Fortitude
+You gain 2 Wizardliness
+You gain 2 Smarm
+
+[14669] Sleazy Back Alley
+Encounter: rushing bum
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: rushing bum takes 623 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: Mad Train wine
+You acquire an item: bum cheek
+You acquire an item: moxie weed
+You gain 3 Muscleboundness
+You gain 3 Sarcasm
+
+[14670] Sleazy Back Alley
+Encounter: Aww, Craps
+Took choice 108/4: skip adventure
+choice.php?whichchoice=108&option=4&pwd
+
+[14670] Sleazy Back Alley
+Encounter: completely different spider
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: completely different spider takes 623 damage.
+Round 2: boolicious wins the fight!
+You gain 8 Meat
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: spider web
+You acquire an item: spider web
+You gain 3 Muscleboundness
+You gain 3 Mysteriousness
+You gain 1 Roguishness
+
+[14671] Sleazy Back Alley
+Encounter: big creepy spider
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: big creepy spider takes 623 damage.
+Round 2: boolicious wins the fight!
+You gain 8 Meat
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: spider web
+You acquire an item: spider web
+You gain 4 Fortitude
+You gain 3 Mysteriousness
+
+[14672] Sleazy Back Alley
+Encounter: hung-over half-orc hobo
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hung-over half-orc hobo takes 624 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: Mad Train wine
+You acquire an item: dirty hobo gloves
+You acquire an item: moxie weed
+You acquire an item: hobo gristle
+You gain 4 Strengthliness
+You gain 3 Mysteriousness
+
+[14673] Sleazy Back Alley
+Encounter: big creepy spider
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: big creepy spider takes 623 damage.
+Round 2: boolicious wins the fight!
+You gain 10 Meat
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: spider web
+You gain 2 Strongness
+You gain 3 Magicalness
+You gain 3 Smarm
+
+[14674] Sleazy Back Alley
+Encounter: completely different spider
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: completely different spider takes 622 damage.
+Round 2: boolicious wins the fight!
+You gain 10 Meat
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: spider web
+You gain 4 Fortitude
+You gain 2 Mysteriousness
+You gain 1 Roguishness
+
+[14675] Sleazy Back Alley
+Encounter: completely different spider
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: completely different spider takes 622 damage.
+Round 2: boolicious wins the fight!
+You gain 8 Meat
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 4 Fortitude
+You gain 2 Mysteriousness
+You gain 1 Cheek
+
+[14676] Sleazy Back Alley
+Encounter: The Entertainer
+Took choice 110/4: skip adventure
+choice.php?whichchoice=110&option=4&pwd
+
+[14676] Sleazy Back Alley
+Encounter: big creepy spider
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: big creepy spider takes 623 damage.
+Round 2: boolicious wins the fight!
+You gain 12 Meat
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: spider web
+You gain 2 Strengthliness
+You gain 2 Magicalness
+You gain 4 Smarm
+
+[14677] Sleazy Back Alley
+Encounter: hung-over half-orc hobo
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hung-over half-orc hobo takes 624 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: Mad Train wine
+You acquire an item: dirty hobo gloves
+You acquire an item: hobo gristle
+You gain 2 Strongness
+You gain 2 Mysteriousness
+You gain 3 Roguishness
+
+[14678] Sleazy Back Alley
+Encounter: rushing bum
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: rushing bum takes 624 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: bum cheek
+You gain 2 Beefiness
+You gain 3 Magicalness
+You gain 2 Sarcasm
+
+[14679] Sleazy Back Alley
+Encounter: rushing bum
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: rushing bum takes 624 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: Mad Train wine
+You acquire an item: moxie weed
+You acquire an item: dented harmonica
+You gain 3 Strongness
+You gain 2 Mysteriousness
+You gain 2 Cheek
+
+[14680] Sleazy Back Alley
+Encounter: hung-over half-orc hobo
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hung-over half-orc hobo takes 623 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: Mad Train wine
+You acquire an item: dirty hobo gloves
+You acquire an item: moxie weed
+You acquire an item: hobo gristle
+You gain 5 Strengthliness
+You gain 2 Mysteriousness
+You gain 1 Roguishness
+
+[14681] Sleazy Back Alley
+Encounter: Under the Knife
+Took choice 21/2: skip adventure
+choice.php?whichchoice=21&option=2&pwd
+
+[14681] Sleazy Back Alley
+Encounter: completely different spider
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: completely different spider takes 623 damage.
+Round 2: boolicious wins the fight!
+You gain 8 Meat
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: spider web
+You acquire an item: spider web
+You gain 3 Beefiness
+You gain 3 Wizardliness
+You gain 1 Chutzpah
+
+[14682] Sleazy Back Alley
+Encounter: big creepy spider
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: big creepy spider takes 623 damage.
+Round 2: boolicious wins the fight!
+You gain 8 Meat
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: spider web
+You gain 3 Strengthliness
+You gain 3 Roguishness
+
+[14683] Sleazy Back Alley
+Encounter: hung-over half-orc hobo
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hung-over half-orc hobo takes 624 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: Mad Train wine
+You acquire an item: dirty hobo gloves
+You acquire an item: hobo gristle
+You gain 3 Beefiness
+You gain 2 Magicalness
+You gain 2 Cheek
+
+[14684] Sleazy Back Alley
+Encounter: completely different spider
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: completely different spider takes 623 damage.
+Round 2: boolicious wins the fight!
+You gain 10 Meat
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: spider web
+You acquire an item: spider web
+You gain 2 Strengthliness
+You gain 5 Mysteriousness
+
+[14685] Sleazy Back Alley
+Encounter: Aww, Craps
+Took choice 108/4: skip adventure
+choice.php?whichchoice=108&option=4&pwd
+
+[14685] Sleazy Back Alley
+Encounter: rushing bum
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: rushing bum takes 622 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: Mad Train wine
+You acquire an item: bum cheek
+You acquire an item: dented harmonica
+You gain 5 Fortitude
+You gain 2 Wizardliness
+
+[14686] Sleazy Back Alley
+Encounter: rushing bum
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: rushing bum takes 626 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: Mad Train wine
+You acquire an item: bum cheek
+You gain 3 Beefiness
+You gain 4 Enchantedness
+
+[14687] Sleazy Back Alley
+Encounter: completely different spider
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: completely different spider takes 628 damage.
+Round 2: boolicious wins the fight!
+You gain 12 Meat
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: spider web
+You gain 5 Fortitude
+You gain 2 Mysteriousness
+
+[14688] Sleazy Back Alley
+Encounter: rushing bum
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: rushing bum takes 623 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: Mad Train wine
+You acquire an item: bum cheek
+You acquire an item: moxie weed
+You acquire an item: dented harmonica
+You gain 3 Fortitude
+You gain 2 Magicalness
+You gain 2 Sarcasm
+
+[14689] Sleazy Back Alley
+Encounter: big creepy spider
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: big creepy spider takes 622 damage.
+Round 2: boolicious wins the fight!
+You gain 10 Meat
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: spider web
+You gain 5 Beefiness
+You gain 1 Smarm
+
+[14690] Sleazy Back Alley
+Encounter: hung-over half-orc hobo
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hung-over half-orc hobo takes 622 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: Mad Train wine
+You acquire an item: dirty hobo gloves
+You acquire an item: moxie weed
+You acquire an item: hobo gristle
+You gain 4 Strengthliness
+You gain 2 Mysteriousness
+You gain 1 Sarcasm
+
+[14691] Sleazy Back Alley
+Encounter: completely different spider
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: completely different spider takes 624 damage.
+Round 2: boolicious wins the fight!
+You gain 10 Meat
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: spider web
+You acquire an item: spider web
+You gain 4 Fortitude
+You gain 3 Wizardliness
+
+[14692] Sleazy Back Alley
+Encounter: hung-over half-orc hobo
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hung-over half-orc hobo takes 624 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: Mad Train wine
+You acquire an item: dirty hobo gloves
+You acquire an item: hobo gristle
+You gain 3 Fortitude
+You gain 2 Magicalness
+You gain 2 Cheek
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+equip hat Ol' Scratch's stovepipe hat
+
+equip hat mummy mask
+
+equip hat Ol' Scratch's stovepipe hat
+
+equip hat worn tophat
+
+equip weapon star boomerang
+
+equip off-hand Tuesday's ruby
+
+equip shirt star shirt
+
+equip pants astral shorts
+
+equip acc1 cursed scrunchie
+
+equip acc2 Pokëmann figurine: Moog
+
+equip acc3 Mr. Accessory
+Jumping into Awesome Ball Pit in clan rumpus room
+
+use 1 effervescent potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+buy 5 hair spray for 24 each from Market Demon
+You acquire hair spray (5)
+You spent 120 Meat
+
+use 5 hair spray
+You acquire an effect: Butt-Rock Hair (duration: 15 Adventures)
+concert 1
+
+[14693] The Heap
+Encounter: Craig &quot;Poo-Flinger&quot; Rudd
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 245 damage.
+You lose 263 hit points
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: stench hobo takes 220 damage.
+You lose 262 hit points
+You lose 2 hit points
+Round 3: boolicious uses the beer bomb!
+Round 4: stench hobo takes 62 damage.
+Round 4: boolicious wins the fight!
+Your familiar gains a pound: Gorg, the 16 lb. Syncopated Turtle
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+After Battle: Gorg brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 57 Strongness
+You gain 29 Enchantedness
+You gain 15 Cheek
+
+equip hat hardened slime hat
+
+equip pants cane-mail pants
+
+equip acc2 Pokëmann figurine: Frank
+
+use 1 murky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+buy 5 Ben-Gal™ Balm for 24 each from Market Demon
+You acquire Ben-Gal™ Balm (5)
+You spent 120 Meat
+
+use 5 Ben-Gal™ Balm
+You acquire an effect: Go Get 'Em, Tiger! (duration: 15 Adventures)
+
+use 1 fish-liver oil
+You acquire an effect: Fishy Fortification (duration: 5 Adventures)
+
+use 1 all-year sucker
+You acquire an effect: Gonna Get You, Sucker (duration: 10 Adventures)
+
+[14694] The Heap
+Encounter: Halitosis Dave Hall, the Sultan of Stink
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 618 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 44 Beefiness
+You gain 27 Mysteriousness
+You gain 26 Cheek
+
+equip weapon Flail of the Seven Aspects
+
+equip off-hand snake shield
+
+[14695] The Heap
+Encounter: Malvolio McNichols, the Nose Exploder
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 952 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: hobo nickel
+You gain 51 Fortitude
+You gain 22 Enchantedness
+You gain 25 Smarm
+
+[14696] The Heap
+Encounter: Gangrene-Riddled Tomas Lennon
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 959 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 50 Strongness
+You gain 34 Mysteriousness
+You gain 16 Chutzpah
+
+[14697] The Heap
+Encounter: Martin &quot;Swampy&quot; Nite, the Fustulent Crack
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 955 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: hobo nickel
+You gain 44 Strongness
+You gain 30 Magicalness
+You gain 23 Chutzpah
+
+equip shirt cane-mail shirt
+
+equip pants Galapagosian Cuisses
+
+equip acc1 Baron von Ratsworth's monocle
+
+use 1 bottle of bubbles
+You acquire an effect: Bubble Vision (duration: 100 Adventures)
+
+use 1 resolution: be happier
+You acquire an effect: Joyful Resolve (duration: 20 Adventures)
+
+use 1 resolution: be kinder
+You acquire an effect: Kindly Resolve (duration: 20 Adventures)
+
+[14698] The Heap
+Encounter: Cthulhu &quot;Sardine-Breath&quot; Des Moines
+Round 0: boolicious wins initiative!
+
+use 1 resolution: be luckier
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 819 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 48 Beefiness
+You gain 38 Magicalness
+You gain 19 Roguishness
+Round 0: boolicious attacks!
+
+[14699] The Heap
+Encounter: Martin &quot;Smell-So-Bad&quot; Simon
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 751 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: hobo nickel
+You gain 48 Strongness
+You gain 34 Mysteriousness
+You gain 23 Roguishness
+
+[14700] The Heap
+Encounter: Moe &quot;Halitosis&quot; White
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 769 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 52 Fortitude
+You gain 25 Magicalness
+You gain 25 Cheek
+
+[14701] The Heap
+Encounter: Stinky Eddie, the Rotten-Egg-Tosser
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 757 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: hobo nickel
+After Battle: Gorg brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 48 Muscleboundness
+You gain 28 Enchantedness
+You gain 27 Smarm
+
+[14702] The Heap
+Encounter: Awful Stench Paco &quot;Lavatory&quot; Lewis
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stench hobo takes 774 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+After Battle: Gorg brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 50 Strongness
+You gain 34 Enchantedness
+You gain 19 Chutzpah
+
+clan_hobopolis.php?place=6
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=7
+
+[14703] The Ancient Hobo Burial Ground
+Encounter: Edgar &quot;Gives You the Jibblies&quot; Johnson
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 752 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: hobo nickel
+You gain 74 Strengthliness
+You gain 25 Mysteriousness
+You gain 16 Chutzpah
+
+[14704] The Ancient Hobo Burial Ground
+Encounter: Spooky Boris King
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 565 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 58 Strengthliness
+You gain 40 Enchantedness
+You gain 17 Sarcasm
+
+[14705] The Ancient Hobo Burial Ground
+Encounter: Nothing-But-Femurs Wade, the Empty Eye Socket
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 615 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+After Battle: Gorg brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 68 Strongness
+You gain 23 Wizardliness
+You gain 24 Smarm
+
+[14706] The Ancient Hobo Burial Ground
+Encounter: Skeletal Elmer &quot;Graverobber&quot; Lee, the Boogity Man
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 574 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: hobo nickel
+You gain 52 Fortitude
+You gain 32 Magicalness
+You gain 31 Sarcasm
+
+[14707] The Ancient Hobo Burial Ground
+Encounter: Eerie Moe Lewis
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 567 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 53 Beefiness
+You gain a Muscle point!
+You gain 35 Enchantedness
+You gain 26 Cheek
+
+[14708] The Ancient Hobo Burial Ground
+Encounter: Deathly Buck Cooper
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 571 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 58 Fortitude
+You gain 25 Magicalness
+You gain 30 Sarcasm
+
+[14709] The Ancient Hobo Burial Ground
+Encounter: Wes Craven's Lewis &quot;Ghoulicious&quot; McDurkee
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 483 damage.
+Round 2: boolicious attacks!
+Round 3: spooky hobo takes 489 damage.
+Round 3: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 63 Strengthliness
+You gain 25 Wizardliness
+You gain 25 Smarm
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+[14710] The Ancient Hobo Burial Ground
+Encounter: Coffin-Breath Curly Shatner
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 492 damage.
+You lose 147 hit points
+Round 2: boolicious casts TURTLE OF SEVEN TAILS!
+Round 3: spooky hobo takes 197 damage.
+Round 3: spooky hobo takes 208 damage.
+Round 3: spooky hobo takes 211 damage.
+Round 3: spooky hobo takes 205 damage.
+Round 3: spooky hobo takes 200 damage.
+Round 3: spooky hobo takes 205 damage.
+Round 3: spooky hobo takes 215 damage.
+Round 3: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+After Battle: Gorg brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 59 Fortitude
+You gain 32 Magicalness
+You gain a Mysticality point!
+You gain 24 Cheek
+
+[14711] The Ancient Hobo Burial Ground
+Encounter: Coffin-Breath Tomas &quot;Bogeyman&quot; Buck, the Evil-Eyed
+Round 0: boolicious wins initiative!
+Round 2: boolicious attacks!
+Round 3: spooky hobo takes 489 damage.
+You lose 133 hit points
+Round 3: boolicious attacks!
+Round 4: spooky hobo takes 489 damage.
+Round 4: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+After Battle: Gorg brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 72 Strengthliness
+You gain 24 Mysteriousness
+You gain 19 Roguishness
+
+clan_hobopolis.php?place=7
+
+[14712] The Slime Tube
+Encounter: squirming Slime lump
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 711 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 25 Strengthliness
+You gain 13 Wizardliness
+You gain 8 Roguishness
+
+[14713] The Slime Tube
+Encounter: dripping Slime polyp
+Round 0: boolicious wins initiative!
+You lose 84 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 715 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 20 Beefiness
+You gain 12 Magicalness
+You gain 12 Chutzpah
+
+[14714] The Slime Tube
+Encounter: pulsing Slime polyp
+Round 0: boolicious wins initiative!
+You lose 253 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 698 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: tiny slimy cyst
+You gain 26 Fortitude
+You gain 12 Magicalness
+You gain 8 Cheek
+
+clan_slimetube.php?action=chamois
+You lose an effect: Coated in Slime
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 1,236 hit points
+
+equip off-hand stress ball
+
+equip pants The Necbromancer's Shorts
+
+[14715] The Slime Tube
+Encounter: squirming Slime polyp
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 684 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 22 Fortitude
+You gain 12 Enchantedness
+You gain 10 Smarm
+
+[14716] The Slime Tube
+Encounter: glistening Slime pseudopod
+Round 0: boolicious wins initiative!
+You lose 89 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 689 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: slimy sweetbreads
+You gain 24 Fortitude
+You gain 9 Enchantedness
+You gain 12 Smarm
+
+clan_slimetube.php?action=chamois
+You lose an effect: Coated in Slime
+
+[14717] The Slime Tube
+Encounter: throbbing Slime nodule
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 724 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: slimy fermented bile bladder
+You gain 19 Strongness
+You gain 17 Enchantedness
+You gain 11 Roguishness
+
+clan_slimetube.php?action=chamois
+You lose an effect: Coated in Slime
+
+[14718] The Slime Tube
+Encounter: pulsating Slime polyp
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 689 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 20 Strengthliness
+You gain 12 Wizardliness
+You gain 13 Roguishness
+
+[14719] The Slime Tube
+Encounter: pulsing Slime lump
+Round 0: boolicious wins initiative!
+You lose 89 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 684 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: slimy fermented bile bladder
+You gain 17 Strengthliness
+You gain 15 Mysteriousness
+You gain 12 Smarm
+
+clan_slimetube.php?action=chamois
+You lose an effect: Coated in Slime
+
+drink 1 slimy fermented bile bladder
+You gain 2 Adventures
+You acquire an effect: Bilious (duration: 20 Adventures)
+You gain 1 Drunkenness
+
+eat 1 slimy sweetbreads
+You gain 2 Adventures
+You acquire an effect: Grimace (duration: 20 Adventures)
+You gain 1 Fullness
+
+[14720] The Slime Tube
+Encounter: grasping Slime claw
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 9 Adventures)
+You lose 71 hit points
+Round 1: boolicious attacks!
+Round 2: slime2 takes 639 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 26 Strongness
+You gain 18 Wizardliness
+You gain 17 Roguishness
+
+clan_slimetube.php?action=chamois
+You lose an effect: Coated in Slime
+
+[14721] The Slime Tube
+Encounter: grasping Slime groper
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 9 Adventures)
+You lose 71 hit points
+Round 1: boolicious attacks!
+Round 2: slime2 takes 652 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You gain 24 Strengthliness
+You gain 24 Wizardliness
+You gain 13 Sarcasm
+
+[14722] The Slime Tube
+Encounter: clutching Slime mitt
+Round 0: boolicious wins initiative!
+You lose 215 hit points
+Round 1: boolicious attacks!
+Round 2: slime2 takes 661 damage.
+Round 2: boolicious wins the fight!
+After Battle: Gorg dances around in a circle.  Very... very... slowly.
+You acquire an item: slimy fermented bile bladder
+You gain 33 Strongness
+You gain 18 Enchantedness
+You gain 9 Cheek
+
+clan_slimetube.php?action=chamois
+You lose an effect: Coated in Slime
+custom outfit Rollover Jammies
+unequip weapon
+unequip offhand
