@@ -500,3 +500,227 @@ You spent 17,520 Meat
 
 use 219 Cherry Cloaca Cola
 You gain 1,751 Muscularity Points
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 14, 2012 - Jarlsuary 6
+
+Ronald: waning gibbous
+Grimace: first quarter
+Mini-moon: front center
+
+Valentine's Day: 6 days
+St. Sneaky Pete's Day: 13 days
+Oyster Egg Day: 20 days
+El Dia De Los Muertos Borrachos: 28 days
+Generic Summer Holiday: 37 days
+Dependence Day: 46 days
+Arrrbor Day: 54 days
+Lab&oacute;r Day: 64 days
+Halloween: 74 days
+Feast of Boris: 81 days
+Yuletide: 86 days
+Festival of Jarlsberg: 91 days
+
+
+3 days until Muscle.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 25
+HP: 880 / 8,563
+MP: 1990 / 6,685
+
+Mus: 5,684 (592), tnp = 531
+Mys: 4,224 (432), tnp = 566
+Mox: 5,517 (430), tnp = 801
+
+Advs: 163
+Meat: 78,573
+Drunk: 1
+
+
+ > equipment
+
+Hat: hardened slime hat
+Weapon: brand new key
+Off-hand: snake shield
+Shirt: star shirt
+Pants: cane-mail pants
+
+Acc. 1: cursed scrunchie
+Acc. 2: Pokëmann figurine: Frank
+Acc. 3: Slow Talkin' Elliot's dogtags
+
+Pet: Syncopated Turtle (26 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Flower Power (2)
+Mallowed Out (2)
+Antsy in your Pantsy (4)
+Stabilizing Oiliness (4)
+Clean-Shaven (4)
+Mysteriously Handsome (4)
+Busy Bein' Delicious (4)
+Newt Gets In Your Eyes (4)
+Gr8tness (4)
+Spicy Limeness (4)
+Superhuman Sarcasm (4)
+Tomato Power (4)
+Phorcefullness (5)
+Cold Blooded (9)
+Aspect of the Twinklefairy (9)
+Hot Blooded (9)
+Stenchtastic (9)
+Supafly (9)
+Purity of Spirit (9)
+Gonna Get You, Sucker (9)
+Charrrming (9)
+Radiating Black Body™ (9)
+Amorous (9)
+Locks Like the Raven (9)
+Confused (9)
+Spooky Demeanor (9)
+Izchak's Blessing (9)
+Temporary Lycanthropy (10)
+Butt-Rock Hair (14)
+Grimace (16)
+Bilious (16)
+Having a Ball! (19)
+Cool, Catlike (19)
+Elvish (19)
+Egg-cellent Vocabulary (19)
+Trivia Master (29)
+In the Limelight (29)
+Sugar Rush (34)
+Bubble Vision (74)
+♫ The Magical Mojomuscular Melody (225)
+♫ The Sonata of Sneakiness (278)
+Astral Shell (349)
+Jalapeño Saucesphere (412)
+Patience of the Tortoise (503)
+Tenacity of the Snapper (653)
+Jabañero Saucesphere (757)
+♫ Polka of Plenty (948)
+Reptilian Fortitude (972)
+Empathy (1,012)
+Jingle Jangle Jingle (1,044)
+Scarysauce (1,148)
+Elemental Saucesphere (1,162)
+Ghostly Shell (2,348)
+Retrograde Relaxation (3,462)
+
+
+ > modifiers
+
+ML: +56
+Enc: -5.00%
+Init: -10.00%
+
+Exp: +7.00
+Meat: +85.00%
+Item: +107.82%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 9 Summon Resolutions
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be kinder
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be sexier
+
+use 1 resolution: be feistier
+You acquire an effect: Destructive Resolve (duration: 20 Adventures)
+
+use 1 resolution: be happier
+You acquire an effect: Joyful Resolve (duration: 20 Adventures)
+
+use 1 resolution: be kinder
+You acquire an effect: Kindly Resolve (duration: 20 Adventures)
+
+use 1 resolution: be luckier
+You acquire an effect: Fortunate Resolve (duration: 20 Adventures)
+
+use 1 resolution: be sexier
+You acquire an effect: Irresistible Resolve (duration: 20 Adventures)
+
+use 1 resolution: be smarter
+You acquire an effect: Brilliant Resolve (duration: 20 Adventures)
+
+use 1 resolution: be stronger
+You acquire an effect: Strong Resolve (duration: 20 Adventures)
+
+use 1 resolution: be wealthier
+You acquire an effect: Greedy Resolve (duration: 20 Adventures)
