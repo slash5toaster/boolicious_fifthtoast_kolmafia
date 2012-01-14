@@ -724,3 +724,1223 @@ You acquire an effect: Strong Resolve (duration: 20 Adventures)
 
 use 1 resolution: be wealthier
 You acquire an effect: Greedy Resolve (duration: 20 Adventures)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 14, 2012 - Jarlsuary 6
+
+Ronald: waning gibbous
+Grimace: first quarter
+Mini-moon: front center
+
+Valentine's Day: 6 days
+St. Sneaky Pete's Day: 13 days
+Oyster Egg Day: 20 days
+El Dia De Los Muertos Borrachos: 28 days
+Generic Summer Holiday: 37 days
+Dependence Day: 46 days
+Arrrbor Day: 54 days
+Lab&oacute;r Day: 64 days
+Halloween: 74 days
+Feast of Boris: 81 days
+Yuletide: 86 days
+Festival of Jarlsberg: 91 days
+
+
+3 days until Muscle.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 25
+HP: 880 / 8,563
+MP: 34 / 6,685
+
+Mus: 5,684 (592), tnp = 531
+Mys: 4,224 (432), tnp = 566
+Mox: 5,517 (430), tnp = 801
+
+Advs: 163
+Meat: 78,573
+Drunk: 1
+
+
+ > equipment
+
+Hat: hardened slime hat
+Weapon: brand new key
+Off-hand: snake shield
+Shirt: star shirt
+Pants: cane-mail pants
+
+Acc. 1: cursed scrunchie
+Acc. 2: Pokëmann figurine: Frank
+Acc. 3: Slow Talkin' Elliot's dogtags
+
+Pet: Blavious Kloop (26 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Mallowed Out (2)
+Flower Power (2)
+Stabilizing Oiliness (4)
+Gr8tness (4)
+Mysteriously Handsome (4)
+Newt Gets In Your Eyes (4)
+Clean-Shaven (4)
+Tomato Power (4)
+Superhuman Sarcasm (4)
+Spicy Limeness (4)
+Busy Bein' Delicious (4)
+Antsy in your Pantsy (4)
+Phorcefullness (5)
+Hot Blooded (9)
+Aspect of the Twinklefairy (9)
+Confused (9)
+Amorous (9)
+Charrrming (9)
+Purity of Spirit (9)
+Gonna Get You, Sucker (9)
+Radiating Black Body™ (9)
+Locks Like the Raven (9)
+Stenchtastic (9)
+Supafly (9)
+Spooky Demeanor (9)
+Cold Blooded (9)
+Izchak's Blessing (9)
+Temporary Lycanthropy (10)
+Butt-Rock Hair (14)
+Grimace (16)
+Bilious (16)
+Egg-cellent Vocabulary (19)
+Cool, Catlike (19)
+Elvish (19)
+Having a Ball! (19)
+Strong Resolve (20)
+Joyful Resolve (20)
+Greedy Resolve (20)
+Fortunate Resolve (20)
+Brilliant Resolve (20)
+Kindly Resolve (20)
+Destructive Resolve (20)
+Irresistible Resolve (20)
+In the Limelight (29)
+Trivia Master (29)
+Sugar Rush (34)
+Bubble Vision (74)
+♫ The Magical Mojomuscular Melody (225)
+♫ The Sonata of Sneakiness (278)
+Astral Shell (349)
+Jalapeño Saucesphere (412)
+Patience of the Tortoise (503)
+Tenacity of the Snapper (653)
+Jabañero Saucesphere (757)
+♫ Polka of Plenty (948)
+Reptilian Fortitude (972)
+Empathy (1,012)
+Jingle Jangle Jingle (1,044)
+Scarysauce (1,148)
+Elemental Saucesphere (1,162)
+Ghostly Shell (2,348)
+Retrograde Relaxation (3,462)
+
+
+ > modifiers
+
+ML: +56
+Enc: -5.00%
+Init: -10.00%
+
+Exp: +9.00
+Meat: +236.63%
+Item: +122.82%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+game.php?mainpane=messages
+
+buy 246 Cherry Cloaca Cola for 80 each from White Citadel
+You acquire Cherry Cloaca Cola (246)
+You spent 19,680 Meat
+
+use 246 Cherry Cloaca Cola
+You gain 1,965 Muscularity Points
+
+use 1 devilish folio
+You acquire an effect: Dis Abled (duration: 30 Adventures)
+
+[14724] The Clumsiness Grove
+Encounter: The Bat in the Spats
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: boolicious attacks!
+Round 3: the bat in the spats takes 610 damage.
+Round 3: boolicious attacks!
+Round 4: boolicious attacks!
+You lose 3 hit points
+Round 5: boolicious attacks!
+Round 6: boolicious attacks!
+Round 7: boolicious attacks!
+Round 8: boolicious attacks!
+Round 9: boolicious attacks!
+Round 10: boolicious attacks!
+Round 11: boolicious attacks!
+Round 12: boolicious attacks!
+Round 13: the bat in the spats takes 611 damage.
+Round 13: boolicious attacks!
+Round 14: boolicious attacks!
+Round 15: boolicious attacks!
+Round 16: the bat in the spats takes 611 damage.
+Round 16: boolicious attacks!
+Round 17: boolicious attacks!
+Round 18: the bat in the spats takes 610 damage.
+Round 18: boolicious attacks!
+Round 19: boolicious attacks!
+Round 20: boolicious attacks!
+You lose 2 hit points
+Round 21: boolicious attacks!
+Round 22: boolicious attacks!
+Round 23: the bat in the spats takes 610 damage.
+Round 23: boolicious attacks!
+Round 24: the bat in the spats takes 609 damage.
+Round 24: boolicious attacks!
+Round 25: boolicious attacks!
+Round 26: boolicious attacks!
+Round 27: boolicious attacks!
+Round 28: boolicious attacks!
+Round 29: boolicious attacks!
+Round 30: boolicious attacks!
+Round 31: boolicious attacks!
+
+[14725] The Clumsiness Grove
+Encounter: the Sorrowful Hickory
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: the sorrowful hickory takes 5687 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop does a little soft-shoe / With some shivers and shakes, like a gnu with the flu.
+You acquire an item: clumsiness bark
+You gain 17 Strongness
+You gain 18 Magicalness
+You gain 10 Roguishness
+
+[14726] The Clumsiness Grove
+Encounter: the Suffering Juniper
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: the suffering juniper takes 5534 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop is a Kloop born to dance! / A mere glance at its dance sends you into a trance!
+You acquire an item: clumsiness bark
+You gain 25 Strongness
+You gain 12 Magicalness
+You gain 9 Roguishness
+
+[14727] The Clumsiness Grove
+Encounter: the Sorrowful Hickory
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: the sorrowful hickory takes 5524 damage.
+Round 2: boolicious wins the fight!
+After Battle: What a dance your Kloop does! What a joy to behold! / He folds and he flounces and shivers like mold!
+You acquire an item: clumsiness bark
+After Battle: Your Kloop drops at your feet a small leatherbound book / With a sly little smile and a mischievous look.
+You acquire an item: devilish folio
+You gain 26 Strongness
+You gain 7 Magicalness
+You gain 13 Roguishness
+
+[14728] The Clumsiness Grove
+Encounter: the Woeful Magnolia
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: the woeful magnolia takes 4628 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop leaps and it twirls and it whirls and it scoops! / It does cartwheels and jumps through a set of Kloop hoops!
+You acquire an item: clumsiness bark
+You gain 22 Strongness
+You gain 11 Magicalness
+You gain 13 Roguishness
+
+[14729] The Clumsiness Grove
+Encounter: the Woeful Magnolia
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: the woeful magnolia takes 4031 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop loves to dance and cavort! / It's a Kloop's only hobby, religion, and sport!
+You acquire an item: clumsiness bark
+You gain 19 Strongness
+You gain 13 Magicalness
+You gain 13 Roguishness
+
+[14730] The Clumsiness Grove
+Encounter: the Sorrowful Hickory
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 13 hit points
+Round 2: boolicious attacks!
+Round 3: the sorrowful hickory takes 4030 damage.
+Round 3: boolicious wins the fight!
+After Battle: The Blavious Kloop loves to dance and cavort! / It's a Kloop's only hobby, religion, and sport!
+You acquire an item: clumsiness bark
+You gain 27 Strongness
+You gain 9 Magicalness
+You gain 10 Roguishness
+
+[14731] The Clumsiness Grove
+Encounter: The Bat in the Spats
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: boolicious attacks!
+Round 3: boolicious attacks!
+Round 4: boolicious attacks!
+You lose 2 hit points
+Round 5: boolicious attacks!
+Round 6: boolicious attacks!
+Round 7: boolicious attacks!
+Round 8: boolicious attacks!
+Round 9: boolicious attacks!
+Round 10: boolicious attacks!
+Round 11: boolicious attacks!
+Round 12: boolicious attacks!
+Round 13: boolicious attacks!
+Round 14: boolicious attacks!
+Round 15: boolicious attacks!
+Round 16: boolicious attacks!
+Round 17: boolicious attacks!
+Round 18: the bat in the spats takes 517 damage.
+Round 18: boolicious attacks!
+You lose 2 hit points
+Round 19: boolicious attacks!
+Round 20: the bat in the spats takes 518 damage.
+Round 20: boolicious attacks!
+Round 21: boolicious attacks!
+Round 22: boolicious attacks!
+Round 23: boolicious attacks!
+Round 24: the bat in the spats takes 518 damage.
+Round 24: boolicious attacks!
+Round 25: boolicious attacks!
+Round 26: boolicious attacks!
+Round 27: the bat in the spats takes 518 damage.
+Round 27: boolicious attacks!
+Round 28: the bat in the spats takes 517 damage.
+Round 28: boolicious attacks!
+Round 29: boolicious attacks!
+Round 30: the bat in the spats takes 518 damage.
+Round 30: boolicious attacks!
+Round 31: boolicious attacks!
+
+[14732] The Clumsiness Grove
+Encounter: the Tormented Baobab
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: the tormented baobab takes 4030 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your Kloop does a dance that's a little bit daft / But you can't deny it is well-choreographed.
+You acquire an item: clumsiness bark
+After Battle: Your Kloop drops at your feet a small leatherbound book / With a sly little smile and a mischievous look.
+You acquire an item: devilish folio
+You gain 22 Strongness
+You gain 14 Magicalness
+You gain 10 Roguishness
+
+[14733] The Clumsiness Grove
+Encounter: the Suffering Juniper
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: the suffering juniper takes 2696 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop is a Kloop born to dance! / A mere glance at its dance sends you into a trance!
+You acquire an item: berries of suffering
+You acquire an item: clumsiness bark
+You gain 25 Strongness
+You gain 9 Magicalness
+You gain 12 Roguishness
+
+[14734] The Clumsiness Grove
+Encounter: the Sorrowful Hickory
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: the sorrowful hickory takes 2329 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop starts to jump and to jive, / Doing a Kloop-dance on which Kloops all thrive.
+You acquire an item: clumsiness bark
+You gain 27 Strongness
+You gain 11 Magicalness
+You gain 9 Roguishness
+
+[14735] The Clumsiness Grove
+Encounter: the Sorrowful Hickory
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: the sorrowful hickory takes 2310 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop does a little soft-shoe / With some shivers and shakes, like a gnu with the flu.
+You acquire an item: clumsiness bark
+You gain 25 Strongness
+You gain 11 Magicalness
+You gain 10 Roguishness
+
+[14736] The Clumsiness Grove
+Encounter: The Bat in the Spats
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: the bat in the spats takes 357 damage.
+Round 2: boolicious attacks!
+Round 3: boolicious attacks!
+Round 4: boolicious attacks!
+You lose 2 hit points
+Round 5: boolicious attacks!
+Round 6: boolicious attacks!
+Round 7: boolicious attacks!
+You lose 2 hit points
+Round 8: boolicious attacks!
+Round 9: the bat in the spats takes 356 damage.
+Round 9: boolicious attacks!
+Round 10: boolicious attacks!
+Round 11: boolicious attacks!
+Round 12: boolicious attacks!
+Round 13: boolicious attacks!
+Round 14: boolicious attacks!
+Round 15: boolicious attacks!
+Round 16: boolicious attacks!
+Round 17: boolicious attacks!
+Round 18: boolicious attacks!
+Round 19: boolicious attacks!
+Round 20: boolicious attacks!
+Round 21: boolicious attacks!
+Round 22: boolicious attacks!
+Round 23: boolicious attacks!
+Round 24: boolicious attacks!
+Round 25: boolicious attacks!
+Round 26: boolicious attacks!
+Round 27: boolicious attacks!
+Round 28: boolicious attacks!
+Round 29: boolicious attacks!
+Round 30: boolicious attacks!
+Round 31: the bat in the spats takes 358 damage.
+Round 31: boolicious attacks!
+
+[14737] The Clumsiness Grove
+Encounter: the Whimpering Willow
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: the whimpering willow takes 2365 damage.
+Round 2: boolicious wins the fight!
+After Battle: What a dance your Kloop does! What a joy to behold! / He folds and he flounces and shivers like mold!
+You acquire an item: clumsiness bark
+After Battle: Your Kloop drops at your feet a small leatherbound book / With a sly little smile and a mischievous look.
+You acquire an item: devilish folio
+You gain 15 Strongness
+You gain 18 Magicalness
+You gain 12 Roguishness
+
+[14738] The Clumsiness Grove
+Encounter: The Bat in the Spats
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: boolicious attacks!
+Round 3: boolicious attacks!
+Round 4: boolicious attacks!
+Round 5: boolicious attacks!
+Round 6: boolicious attacks!
+Round 7: boolicious attacks!
+Round 8: the bat in the spats takes 358 damage.
+Round 8: boolicious attacks!
+Round 9: the bat in the spats takes 356 damage.
+Round 9: boolicious attacks!
+Round 10: boolicious attacks!
+Round 11: boolicious attacks!
+Round 12: boolicious attacks!
+Round 13: boolicious attacks!
+Round 14: boolicious attacks!
+You lose 1 hit points
+Round 15: boolicious attacks!
+Round 16: boolicious attacks!
+Round 17: boolicious attacks!
+Round 18: boolicious attacks!
+You lose 1 hit points
+Round 19: boolicious attacks!
+Round 20: boolicious attacks!
+Round 21: boolicious attacks!
+Round 22: boolicious attacks!
+Round 23: boolicious attacks!
+Round 24: boolicious attacks!
+Round 25: boolicious attacks!
+Round 26: boolicious attacks!
+Round 27: the bat in the spats takes 357 damage.
+Round 27: boolicious attacks!
+Round 28: boolicious attacks!
+Round 29: boolicious attacks!
+Round 30: the bat in the spats takes 356 damage.
+You lose 2 hit points
+Round 30: boolicious attacks!
+Round 31: boolicious attacks!
+
+cast 1 Summon Clip Art
+You acquire an item: cold-filtered water
+
+use 1 cold-filtered water
+You acquire an effect: Purity of Spirit (duration: 10 Adventures)
+
+use 1 philter of phorce
+You acquire an effect: Phorcefullness (duration: 5 Adventures)
+
+buy 1 blood of the Wereseal for 500 each from Smacketeria
+You acquire an item: blood of the Wereseal
+You spent 500 Meat
+
+use 1 blood of the Wereseal
+You acquire an effect: Temporary Lycanthropy (duration: 10 Adventures)
+
+buy 1 tomato juice of powerful power for 446 each from 2015495 on 20120114
+You acquire an item: tomato juice of powerful power
+
+use 1 tomato juice of powerful power
+You acquire an effect: Tomato Power (duration: 5 Adventures)
+
+buy 1 hot wad for 511 each from 1636800 on 20120114
+You acquire an item: hot wad
+
+use 1 hot wad
+You gain 1 Adventure
+You gain 29 Muscleboundness
+You gain 9 Wizardliness
+You gain 16 Roguishness
+You acquire an effect: Hot Blooded (duration: 10 Adventures)
+
+use 1 murky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+buy 1 Mick's IcyVapoHotness Rub for 282 each from 952071 on 20120114
+You acquire an item: Mick's IcyVapoHotness Rub
+
+use 1 Mick's IcyVapoHotness Rub
+You acquire an effect: Extreme Muscle Relaxation (duration: 10 Adventures)
+
+buy 1 bellhop bell for 380 each from 2301583 on 20120114
+You acquire an item: bellhop bell
+
+use 1 bellhop bell
+You acquire an effect: Ringing Ears (duration: 10 Adventures)
+
+buy 1 shot of flower schnapps for 550 each from 1071606 on 20120114
+You acquire an item: shot of flower schnapps
+
+drink 1 shot of flower schnapps
+You gain 2 Adventures
+You acquire an effect: Flower Power (duration: 3 Adventures)
+You gain 1 Drunkenness
+
+buy 1 stench wad for 568 each from 1636800 on 20120114
+You acquire an item: stench wad
+
+use 1 stench wad
+You gain 1 Adventure
+You gain 19 Strongness
+You gain 26 Enchantedness
+You gain 10 Smarm
+You acquire an effect: Stenchtastic (duration: 10 Adventures)
+
+buy 1 cold wad for 635 each from 1636800 on 20120114
+You acquire an item: cold wad
+
+use 1 cold wad
+You gain 1 Adventure
+You gain 32 Strongness
+You gain 16 Magicalness
+You gain 10 Chutzpah
+You acquire an effect: Cold Blooded (duration: 10 Adventures)
+
+use 1 gummi salamander
+You acquire an effect: Gummiheart (duration: 1 Adventure)
+
+buy 5 Ben-Gal™ Balm for 24 each from Market Demon
+You acquire Ben-Gal™ Balm (5)
+You spent 120 Meat
+
+use 5 Ben-Gal™ Balm
+You acquire an effect: Go Get 'Em, Tiger! (duration: 15 Adventures)
+
+buy 1 sleaze wad for 971 each from 1636800 on 20120114
+You acquire an item: sleaze wad
+
+use 1 sleaze wad
+You gain 1 Adventure
+You gain 16 Strongness
+You gain 15 Wizardliness
+You gain 28 Sarcasm
+You acquire an effect: Supafly (duration: 10 Adventures)
+
+buy 1 weremoose spit for 700 each from 2015478 on 20120114
+You acquire an item: weremoose spit
+
+use 1 weremoose spit
+You acquire an effect: Lycanthropy, Eh? (duration: 20 Adventures)
+
+buy 1 black facepaint for 350 each from 608418 on 20120114
+You acquire an item: black facepaint
+
+use 1 black facepaint
+You acquire an effect: Black Face (duration: 10 Adventures)
+outfit Swashbuckling Getup
+
+buy 1 pirate brochure for 300 each from Barrrtleby's Barrrgain Books (Bees Hate You)
+You acquire an item: pirate brochure
+You spent 300 Meat
+
+use 1 pirate brochure
+You acquire an effect: Muscularrr (duration: 10 Adventures)
+custom outfit Backup
+
+buy 1 twinkly wad for 180 each from 1491885 on 20120114
+You acquire an item: twinkly wad
+
+use 1 twinkly wad
+You gain 1 Adventure
+You gain 8 Beefiness
+You gain 9 Wizardliness
+You gain 9 Chutzpah
+You acquire an effect: Aspect of the Twinklefairy (duration: 10 Adventures)
+
+use 1 fish-liver oil
+You acquire an effect: Fishy Fortification (duration: 5 Adventures)
+
+buy 1 dwarf bread for 100 each from 2170973 on 20120114
+You acquire an item: dwarf bread
+
+eat 1 dwarf bread
+You gain 3 Adventures
+You lose 12 hit points
+You acquire an effect: Dwarven Hardiness (duration: 5 Adventures)
+You gain 3 Fullness
+
+use 1 tamarind-flavored chewing gum
+You acquire an effect: Tamarind Torment (duration: 5 Adventures)
+
+eat 1 pawn cookie
+You gain 3 Adventures
+You acquire an effect: Pwnd (duration: 30 Adventures)
+You gain 1 Fullness
+
+use 1 love song of sugary cuteness
+You acquire an effect: Sweet Heart (duration: 5 Adventures)
+
+[14739] Fernswarthy's Basement (Level 464)
+Buffed Muscle Test: 5,847 current, 5,843 needed
+
+[14740] Fernswarthy's Basement (Level 465)
+Encounter: Save the Dolls/Save the Cardboard
+You gain 590 Smarm
+
+buy 1 oil of stability for 756 each from 2015495 on 20120114
+You acquire an item: oil of stability
+
+use 1 oil of stability
+You acquire an effect: Stabilizing Oiliness (duration: 5 Adventures)
+
+equip hat worn tophat
+
+equip weapon drywall axe
+
+equip pants astral shorts
+
+equip acc2 Pokëmann figurine: Moog
+
+equip acc3 Mr. Accessory
+
+buy 1 serum of sarcasm for 446 each from 1877436 on 20120114
+You acquire an item: serum of sarcasm
+
+use 1 serum of sarcasm
+You acquire an effect: Superhuman Sarcasm (duration: 5 Adventures)
+
+use 1 effervescent potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+use 1 gummi canary
+You acquire an effect: Gummiskin (duration: 1 Adventure)
+
+buy 5 hair spray for 24 each from Market Demon
+You acquire hair spray (5)
+You spent 120 Meat
+
+use 5 hair spray
+You acquire an effect: Butt-Rock Hair (duration: 15 Adventures)
+
+uneffect Lycanthropy, Eh?
+
+use 1 super-spiky hair gel
+You acquire an effect: Spiky Hair (duration: 5 Adventures)
+
+use 1 lime-and-chile-flavored chewing gum
+You acquire an effect: Spicy Limeness (duration: 5 Adventures)
+
+uneffect Tamarind Torment
+
+buy 1 shaving cream for 247 each from 102069 on 20120114
+You acquire an item: shaving cream
+
+use 1 shaving cream
+You acquire an effect: Clean-Shaven (duration: 5 Adventures)
+
+use 1 Jackass Plumber home game
+You acquire an effect: Gamer Rage (duration: 10 Adventures)
+
+equip hat hardened slime hat
+
+equip weapon Flail of the Seven Aspects
+
+equip off-hand stress ball
+
+equip shirt Ultracolor™ shirt
+
+[14741] The Clumsiness Grove
+Encounter: the Suffering Juniper
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: the suffering juniper takes 8513 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your Kloop does a dance that's a little bit daft / But you can't deny it is well-choreographed.
+You acquire an item: clumsiness bark
+You gain 18 Strongness
+You gain 16 Magicalness
+You gain 11 Roguishness
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 5 vials of pirate sweat
+
+postwarisland.php?place=concert
+
+[14742] Pirate Cove
+Encounter: shady pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shady pirate takes 8466 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop does a waltz with a skip and a hop / And he winks while his little Kloop hooves go klip-klop!
+You gain 96 Meat
+You gain 13 Fortitude
+You gain 7 Magicalness
+You gain 4 Chutzpah
+
+[14743] Pirate Cove
+Encounter: A Dreadful Curse
+You gain 15 Enchantedness
+
+[14744] Pirate Cove
+Encounter: A Dreadful Curse
+You gain 15 Magicalness
+
+[14745] Pirate Cove
+Encounter: shifty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shifty pirate takes 5881 damage.
+Round 2: boolicious wins the fight!
+After Battle: With a wink, your Kloop dances a Blavious jig! / While he dances he sniffs and he snorts like a pig!
+You gain 144 Meat
+You acquire an item: sunken chest
+You gain 8 Strongness
+You gain 3 Wizardliness
+You gain 7 Roguishness
+You gain a Moxie point!
+
+[14746] Pirate Cove
+Encounter: sassy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sassy pirate takes 5863 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Ringo, the 12 lb. Blavious Kloop
+After Battle: This Kloop sure can dance! He can dance like a Spizzin! / He winks while he does it, just like a wild Flizzin!
+You gain 52 Meat
+You acquire an item: flaregun
+You gain 9 Fortitude
+You gain 3 Magicalness
+You gain 4 Chutzpah
+
+[14747] Pirate Cove
+Encounter: The Beached Boys
+You gain 16 Strongness
+
+[14748] Pirate Cove
+Encounter: swarthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: swarthy pirate takes 5919 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop dances like it has ants in its pants! / And it winks while it does its ants-pants-fancy-dance!
+You gain 78 Meat
+After Battle: Your Kloop drops at your feet a small leatherbound book / With a sly little smile and a mischievous look.
+You acquire an item: devilish folio
+You gain 9 Strongness
+You gain 3 Wizardliness
+You gain 5 Smarm
+
+[14749] Pirate Cove
+Encounter: The Beached Boys
+You gain 16 Beefiness
+
+[14750] Pirate Cove
+Encounter: smarmy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: smarmy pirate takes 2557 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop does a Blavious dance / And he shivers and winks in his Kloopish dance trance.
+You gain 67 Meat
+You acquire an item: Jolly Roger charrrm bracelet
+You acquire an item: bottle of rum
+You acquire an item: flaregun
+You acquire an item: vial of pirate sweat
+You gain 8 Beefiness
+You gain 7 Enchantedness
+You gain 2 Chutzpah
+
+[14751] Pirate Cove
+Encounter: shifty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shifty pirate takes 1710 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop does a Blavious dance / And he shivers and winks in his Kloopish dance trance.
+You gain 137 Meat
+You acquire an item: sunken chest
+You acquire an item: flaregun
+You gain 10 Beefiness
+You gain 4 Enchantedness
+You gain 4 Smarm
+
+[14752] Pirate Cove
+Encounter: Amatearrr Night
+Took choice 24/2: small meat boost
+choice.php?whichchoice=24&option=2&pwd
+You gain 100 Meat
+
+[14753] Pirate Cove
+Encounter: Barrie Me at Sea
+Took choice 23/3: small meat boost
+choice.php?whichchoice=23&option=3&pwd
+You gain 100 Meat
+
+[14754] Pirate Cove
+Encounter: sassy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sassy pirate takes 898 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop dances hard, like he's in a Kloop troupe! / Then he winks like a saucy troupe Kloop who's no dupe!
+You gain 58 Meat
+You acquire an item: sunken chest
+You acquire an item: flaregun
+You gain 7 Fortitude
+You gain 5 Wizardliness
+You gain 4 Chutzpah
+
+[14755] Pirate Cove
+Encounter: The Arrrbitrator
+Took choice 22/3: small meat boost
+choice.php?whichchoice=22&option=3&pwd
+You gain 100 Meat
+
+[14756] Pirate Cove
+Encounter: shady pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shady pirate takes 909 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop does a dance, then it tips you a wink, / Like a wink from the Blinkers of Minker-Dink-Vink!
+You gain 73 Meat
+You gain 11 Beefiness
+You gain 1 Mysteriousness
+You gain 6 Cheek
+
+[14757] Pirate Cove
+Encounter: swarthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: swarthy pirate takes 906 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop does a waltz with a skip and a hop / And he winks while his little Kloop hooves go klip-klop!
+You gain 58 Meat
+After Battle: Your Kloop drops at your feet a small leatherbound book / With a sly little smile and a mischievous look.
+You acquire an item: devilish folio
+You gain 8 Strongness
+You gain 3 Mysteriousness
+You gain 5 Roguishness
+
+[14758] Pirate Cove
+Encounter: sassy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sassy pirate takes 862 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop does a dance, then it tips you a wink, / Like a wink from the Blinkers of Minker-Dink-Vink!
+You gain 64 Meat
+You acquire an item: swashbuckling pants
+You gain 7 Beefiness
+You gain 5 Magicalness
+You gain 5 Chutzpah
+
+[14759] Pirate Cove
+Encounter: Filching the Undarrwear
+You gain 15 Cheek
+
+[14760] Pirate Cove
+Encounter: Yo Ho Ho and a Bottle of Whatever This Is
+You acquire an item: bottle of pirate juice
+
+[14761] Pirate Cove
+Encounter: The Beached Boys
+You gain 17 Fortitude
+
+[14762] Pirate Cove
+Encounter: The Arrrbitrator
+Took choice 22/3: small meat boost
+choice.php?whichchoice=22&option=3&pwd
+You gain 100 Meat
+
+[14763] Pirate Cove
+Encounter: smarmy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: smarmy pirate takes 892 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop dances hard, like he's in a Kloop troupe! / Then he winks like a saucy troupe Kloop who's no dupe!
+You gain 78 Meat
+You acquire an item: eyepatch
+You acquire an item: bottle of rum
+You acquire an item: vial of pirate sweat
+You gain 11 Strengthliness
+You gain 4 Mysteriousness
+You gain 3 Smarm
+
+[14764] Pirate Cove
+Encounter: sassy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sassy pirate takes 865 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop tips a wink while it dances! / It winks like a fink while it dances and prances!
+You gain 61 Meat
+You acquire an item: flaregun
+You gain 5 Beefiness
+You gain 7 Enchantedness
+You gain 4 Smarm
+
+[14765] Pirate Cove
+Encounter: swarthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: swarthy pirate takes 908 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop tips a wink while it dances! / It winks like a fink while it dances and prances!
+You gain 76 Meat
+You acquire an item: pirate pelvis
+You gain 10 Strengthliness
+You gain a Muscle point!
+You gain 2 Wizardliness
+You gain 5 Sarcasm
+
+[14766] Pirate Cove
+Encounter: Amatearrr Night
+Took choice 24/2: small meat boost
+choice.php?whichchoice=24&option=2&pwd
+You gain 100 Meat
+
+[14767] Pirate Cove
+Encounter: A Dreadful Curse
+You gain 15 Wizardliness
+
+[14768] Pirate Cove
+Encounter: shady pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shady pirate takes 906 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop dances like it has ants in its pants! / And it winks while it does its ants-pants-fancy-dance!
+You gain 78 Meat
+You gain 11 Strongness
+You gain 1 Magicalness
+You gain 6 Sarcasm
+
+[14769] Pirate Cove
+Encounter: Barrie Me at Sea
+Took choice 23/3: small meat boost
+choice.php?whichchoice=23&option=3&pwd
+You gain 100 Meat
+
+equip hat Elder Turtle Shell
+
+equip weapon fouet de tortue-dressage
+
+equip off-hand eye of the Tiger-lily
+
+equip shirt cane-mail shirt
+
+equip pants Galapagosian Cuisses
+
+equip acc1 Baron von Ratsworth's monocle
+
+equip acc2 Zinc Delta of Tranquility
+
+equip acc3 Nickel Gamma of Frugality
+
+[14770] Pirate Cove
+Encounter: Filching the Undarrwear
+You gain 15 Roguishness
+
+[14771] Pirate Cove
+Encounter: smarmy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: smarmy pirate takes 565 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop dances like it has ants in its pants! / And it winks while it does its ants-pants-fancy-dance!
+You gain 99 Meat
+You acquire an item: eyepatch
+You acquire an item: bottle of rum
+You acquire an item: flaregun
+You acquire an item: vial of pirate sweat
+You gain 9 Strengthliness
+You gain 9 Magicalness
+You gain 5 Smarm
+
+[14772] Pirate Cove
+Encounter: swarthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: swarthy pirate takes 570 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop dances hard, like he's in a Kloop troupe! / Then he winks like a saucy troupe Kloop who's no dupe!
+You gain 84 Meat
+You acquire an item: stuffed shoulder parrot
+You acquire an item: pirate pelvis
+You gain 8 Fortitude
+You gain 7 Enchantedness
+You gain 7 Chutzpah
+
+[14773] Pirate Cove
+Encounter: shifty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shifty pirate takes 564 damage.
+Round 2: boolicious wins the fight!
+After Battle: With a wink, your Kloop dances a Blavious jig! / While he dances he sniffs and he snorts like a pig!
+You gain 172 Meat
+You acquire an item: sunken chest
+You acquire an item: flaregun
+You gain 16 Muscleboundness
+You gain 4 Mysteriousness
+You gain 5 Chutzpah
+
+[14774] Pirate Cove
+Encounter: shifty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shifty pirate takes 563 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop dances hard, like he's in a Kloop troupe! / Then he winks like a saucy troupe Kloop who's no dupe!
+You gain 169 Meat
+You acquire an item: arrrgyle socks
+You acquire an item: sunken chest
+You acquire an item: flaregun
+You gain 13 Strengthliness
+You gain 4 Enchantedness
+You gain 7 Cheek
+
+[14775] Pirate Cove
+Encounter: sassy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sassy pirate takes 573 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop does a Blavious dance / And he shivers and winks in his Kloopish dance trance.
+You gain 69 Meat
+You acquire an item: flaregun
+You gain 9 Muscleboundness
+You gain 8 Wizardliness
+You gain 4 Cheek
+
+[14776] Pirate Cove
+Encounter: shady pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shady pirate takes 563 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop does a dance, then it tips you a wink, / Like a wink from the Blinkers of Minker-Dink-Vink!
+You gain 125 Meat
+You gain 8 Strengthliness
+You gain 8 Enchantedness
+You gain 7 Chutzpah
+
+[14777] Pirate Cove
+Encounter: sassy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sassy pirate takes 571 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop tips a wink while it dances! / It winks like a fink while it dances and prances!
+You gain 73 Meat
+You acquire an item: flaregun
+You gain 11 Strengthliness
+You gain 7 Magicalness
+You gain 3 Chutzpah
+
+[14778] Pirate Cove
+Encounter: swarthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: swarthy pirate takes 569 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop dances hard, like he's in a Kloop troupe! / Then he winks like a saucy troupe Kloop who's no dupe!
+You gain 77 Meat
+You acquire an item: stuffed shoulder parrot
+You acquire an item: pirate pelvis
+You gain 13 Strengthliness
+You gain 5 Wizardliness
+You gain 4 Chutzpah
+
+[14779] Pirate Cove
+Encounter: smarmy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: smarmy pirate takes 565 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop does a Blavious dance / And he shivers and winks in his Kloopish dance trance.
+You gain 102 Meat
+You acquire an item: eyepatch
+You acquire an item: bottle of rum
+You acquire an item: vial of pirate sweat
+You gain 17 Strengthliness
+You gain 3 Magicalness
+You gain 4 Sarcasm
+
+[14780] Pirate Cove
+Encounter: smarmy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: smarmy pirate takes 566 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop dances hard, like he's in a Kloop troupe! / Then he winks like a saucy troupe Kloop who's no dupe!
+You gain 106 Meat
+You acquire an item: Jolly Roger charrrm bracelet
+You acquire an item: bottle of rum
+You acquire an item: flaregun
+You acquire an item: vial of pirate sweat
+You gain 11 Muscleboundness
+You gain 6 Mysteriousness
+You gain 5 Roguishness
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+custom outfit Rollover Jammies
+unequip weapon
+unequip offhand

@@ -15,7 +15,7 @@ FamiliarTrainingFrame=161,307
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=160,236,-1
+KoLDesktop=121,157,-1
 LoginFrame=409,276,0
 MailboxFrame=289,310,1
 MaximizerFrame=373,445
@@ -72,9 +72,9 @@ _hotTubSoaks=0
 _iceballUses=0
 _inigosCasts=0
 _ironicMoustache=false
-_jackassePlumberGame=false
+_jackassePlumberGame=true
 _klawSummons=0
-_kloopDrops=0
+_kloopDrops=5
 _lastZomboEye=0
 _leafblowerML=1
 _legendaryBeat=false
@@ -548,9 +548,9 @@ choiceAdventure560=1
 choiceAdventure561=0
 choiceAdventure562=0
 choiceAdventure563=1
-choiceAdventure564=1
+choiceAdventure564=0
 choiceAdventure565=0
-choiceAdventure566=1
+choiceAdventure566=0
 choiceAdventure567=1
 choiceAdventure568=0
 choiceAdventure569=1
@@ -585,8 +585,8 @@ cocktailSummons=0
 concertVisited=true
 counterScript
 crimboTreeDays=7
-currentBountyItem=2099
-currentFullness=2
+currentBountyItem=0
+currentFullness=6
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -594,7 +594,7 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=7
+currentSpleenUse=12
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -669,7 +669,7 @@ hpAutoRecoveryTarget=0.8
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=true
 knownAscensions=1
-lastAdventure=The Maelstrom of Lovers
+lastAdventure=Pirate Cove
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -732,7 +732,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=The Ghost of Fernswarthy's great great great great great great great great great great great great great great great great great great great great great great great great great great great Grandfather
+lastEncounter=smarmy pirate
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -869,7 +869,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=14920\:Semirare window begin loc\=*\:lparen.gif\:14960\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -878,8 +878,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=13272
-semirareLocation=Giant's Castle
+semirareCounter=14760
+semirareLocation=Pirate Cove
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
@@ -941,7 +941,7 @@ telescopeUpgrades=0
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=2
+tomeSummons=3
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
