@@ -5,7 +5,7 @@ KoLDesktop=188,141,-1
 LoginFrame=409,276,0
 MaximizerFrame=379,354
 ProfileFrame=424,322,-1
-TabbedChatFrame=715,353,1
+TabbedChatFrame=715,353,0
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -648,13 +648,13 @@ lastBangPotion827
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=5
+lastBreakfast=6
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=8
-lastCounterDay=5
+lastCounterDay=6
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
