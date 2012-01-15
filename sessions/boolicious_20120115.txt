@@ -1055,3 +1055,869 @@ You acquire an item: jar full of wind
 You gain 13 Strongness
 You gain 16 Magicalness
 You gain 10 Roguishness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 15, 2012 - Jarlsuary 7
+
+Ronald: third quarter
+Grimace: waxing gibbous
+Mini-moon: in front of Grimace, R side
+
+Valentine's Day: 5 days
+St. Sneaky Pete's Day: 12 days
+Oyster Egg Day: 19 days
+El Dia De Los Muertos Borrachos: 27 days
+Generic Summer Holiday: 36 days
+Dependence Day: 45 days
+Arrrbor Day: 53 days
+Lab&oacute;r Day: 63 days
+Halloween: 73 days
+Feast of Boris: 80 days
+Yuletide: 85 days
+Festival of Jarlsberg: 90 days
+
+
+2 days until Muscle.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 25
+HP: 987 / 987
+MP: 471 / 756
+
+Mus: 633 (593), tnp = 457
+Mys: 460 (433), tnp = 736
+Mox: 448 (431), tnp = 426
+
+Advs: 162
+Meat: 51,576
+Drunk: 0
+
+
+ > equipment
+
+Hat: Elder Turtle Shell
+Weapon: fouet de tortue-dressage
+Off-hand: eye of the Tiger-lily
+Shirt: cane-mail shirt
+Pants: Galapagosian Cuisses
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: Zinc Delta of Tranquility
+Acc. 3: Nickel Gamma of Frugality
+
+Pet: Blavious Kloop (41 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Brother Smothers's Blessing (6)
+Bubble Vision (86)
+♫ The Magical Mojomuscular Melody (137)
+♫ The Sonata of Sneakiness (190)
+Astral Shell (261)
+Jalapeño Saucesphere (324)
+Patience of the Tortoise (415)
+Tenacity of the Snapper (565)
+Jabañero Saucesphere (669)
+♫ Polka of Plenty (860)
+Reptilian Fortitude (884)
+Empathy (924)
+Jingle Jangle Jingle (956)
+Scarysauce (1,060)
+Elemental Saucesphere (1,074)
+Ghostly Shell (2,260)
+Retrograde Relaxation (3,374)
+
+
+ > modifiers
+
+ML: +20
+Enc: -5.00%
+Init: +0.00%
+
+Exp: +2.50
+Meat: +270.97%
+Item: +150.49%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 4 Summon Resolutions
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be more adventurous
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be wealthier
+
+use 1 devilish folio
+You acquire an effect: Dis Abled (duration: 30 Adventures)
+
+familiar Wereturtle (29 lbs)
+
+equip acc1 cursed scrunchie
+
+equip acc3 Baron von Ratsworth's monocle
+
+Unequip Blavious Kloop
+
+equip familiar Li'l Businessman Kit
+
+[14812] The Maelstrom of Lovers
+Encounter: Thug 1 and Thug 2
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: thug 1 and thug 2 takes 10 damage.
+Round 2: Your friend shouts "Wahoo!" and leaps into the fight! / It does 4 points of damage, not great, but all right!
+Round 2: thug 1 and thug 2 takes 4 damage.
+Round 2: boolicious attacks!
+Round 3: thug 1 and thug 2 takes 10 damage.
+Round 3: Your friend shouts "Wahoo!" and leaps into the fight! / It does 4 points of damage, not great, but all right!
+Round 3: thug 1 and thug 2 takes 4 damage.
+Round 3: boolicious attacks!
+Round 4: thug 1 and thug 2 takes 10 damage.
+Round 4: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 4 damage, slickly.
+Round 4: thug 1 and thug 2 takes 4 damage.
+Round 4: boolicious attacks!
+Round 5: thug 1 and thug 2 takes 10 damage.
+Round 5: Your friend shouts "Wahoo!" and leaps into the fight! / It does 4 points of damage, not great, but all right!
+Round 5: thug 1 and thug 2 takes 4 damage.
+Round 5: boolicious attacks!
+Round 6: thug 1 and thug 2 takes 10 damage.
+Round 6: Your little friend's limber and loose in the joints, / It leaps on your foe and hits them for 5 points!
+Round 6: thug 1 and thug 2 takes 5 damage.
+Round 6: boolicious attacks!
+Round 7: thug 1 and thug 2 takes 10 damage.
+Round 7: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 4 damage, slickly.
+Round 7: thug 1 and thug 2 takes 4 damage.
+Round 7: boolicious attacks!
+Round 8: thug 1 and thug 2 takes 10 damage.
+Round 8: From violence, familiars will rarely abstain, / Yours leaps into the fight, dealing 4 points of pain.
+Round 8: thug 1 and thug 2 takes 4 damage.
+Round 8: boolicious attacks!
+Round 9: thug 1 and thug 2 takes 10 damage.
+Round 9: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 4 damage, slickly.
+Round 9: thug 1 and thug 2 takes 4 damage.
+Round 9: boolicious attacks!
+You lose 2 hit points
+Round 10: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 4 damage, slickly.
+Round 10: thug 1 and thug 2 takes 4 damage.
+You lose 4 hit points
+Round 10: boolicious attacks!
+Round 11: thug 1 and thug 2 takes 10 damage.
+Round 11: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 4 damage, slickly.
+Round 11: thug 1 and thug 2 takes 4 damage.
+Round 11: boolicious attacks!
+Round 12: thug 1 and thug 2 takes 10 damage.
+Round 12: Your little friend's limber and loose in the joints, / It leaps on your foe and hits them for 4 points!
+Round 12: thug 1 and thug 2 takes 4 damage.
+Round 12: boolicious attacks!
+Round 13: thug 1 and thug 2 takes 10 damage.
+Round 13: From violence, familiars will rarely abstain, / Yours leaps into the fight, dealing 4 points of pain.
+Round 13: thug 1 and thug 2 takes 4 damage.
+Round 13: boolicious attacks!
+Round 14: thug 1 and thug 2 takes 10 damage.
+Round 14: Your little friend's limber and loose in the joints, / It leaps on your foe and hits them for 4 points!
+Round 14: thug 1 and thug 2 takes 4 damage.
+Round 14: boolicious attacks!
+Round 15: thug 1 and thug 2 takes 10 damage.
+Round 15: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 4 damage, slickly.
+Round 15: thug 1 and thug 2 takes 4 damage.
+Round 15: boolicious attacks!
+Round 16: thug 1 and thug 2 takes 10 damage.
+Round 16: Your familiar did something to help in your plight, / but you were distracted, with monsters to fight.
+Round 16: boolicious attacks!
+You lose 2 hit points
+Round 17: Your pet did a thing; I don't know what it did. / Perhaps it went skiing, or huggled a squid?
+You lose 5 hit points
+Round 17: boolicious attacks!
+Round 18: thug 1 and thug 2 takes 10 damage.
+Round 18: Your pet did a thing; I didn't see it, did you? / I guess it just did what they usually do.
+Round 18: boolicious attacks!
+Round 19: thug 1 and thug 2 takes 10 damage.
+Round 19: From violence, familiars will rarely abstain, / Yours leaps into the fight, dealing 4 points of pain.
+Round 19: thug 1 and thug 2 takes 4 damage.
+Round 19: boolicious attacks!
+Round 20: thug 1 and thug 2 takes 10 damage.
+Round 20: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 4 damage, slickly.
+Round 20: thug 1 and thug 2 takes 4 damage.
+You lose 5 hit points
+Round 20: boolicious attacks!
+Round 21: thug 1 and thug 2 takes 10 damage.
+Round 21: From violence, familiars will rarely abstain, / Yours leaps into the fight, dealing 5 points of pain.
+Round 21: thug 1 and thug 2 takes 5 damage.
+Round 21: boolicious attacks!
+Round 22: thug 1 and thug 2 takes 10 damage.
+Round 22: Your little friend's limber and loose in the joints, / It leaps on your foe and hits them for 4 points!
+Round 22: thug 1 and thug 2 takes 4 damage.
+You lose 5 hit points
+Round 22: boolicious attacks!
+Round 23: thug 1 and thug 2 takes 10 damage.
+Round 23: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 4 damage, slickly.
+Round 23: thug 1 and thug 2 takes 4 damage.
+Round 23: boolicious attacks!
+Round 24: thug 1 and thug 2 takes 10 damage.
+Round 24: Your friend shouts "Wahoo!" and leaps into the fight! / It does 4 points of damage, not great, but all right!
+Round 24: thug 1 and thug 2 takes 4 damage.
+Round 24: boolicious attacks!
+Round 25: thug 1 and thug 2 takes 10 damage.
+Round 25: Your friend shouts "Wahoo!" and leaps into the fight! / It does 4 points of damage, not great, but all right!
+Round 25: thug 1 and thug 2 takes 4 damage.
+Round 25: boolicious attacks!
+You lose 1 hit points
+Round 26: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 4 damage, slickly.
+Round 26: thug 1 and thug 2 takes 4 damage.
+Round 26: boolicious attacks!
+Round 27: thug 1 and thug 2 takes 10 damage.
+Round 27: Your little friend's limber and loose in the joints, / It leaps on your foe and hits them for 4 points!
+Round 27: thug 1 and thug 2 takes 4 damage.
+Round 27: boolicious attacks!
+Round 28: thug 1 and thug 2 takes 10 damage.
+Round 28: Your friend shouts "Wahoo!" and leaps into the fight! / It does 4 points of damage, not great, but all right!
+Round 28: thug 1 and thug 2 takes 4 damage.
+Round 28: boolicious attacks!
+Round 29: thug 1 and thug 2 takes 10 damage.
+Round 29: From violence, familiars will rarely abstain, / Yours leaps into the fight, dealing 5 points of pain.
+Round 29: thug 1 and thug 2 takes 5 damage.
+You lose 4 hit points
+Round 29: boolicious attacks!
+Round 30: thug 1 and thug 2 takes 10 damage.
+Round 30: From violence, familiars will rarely abstain, / Yours leaps into the fight, dealing 4 points of pain.
+Round 30: thug 1 and thug 2 takes 4 damage.
+Round 30: boolicious attacks!
+Round 31: thug 1 and thug 2 takes 10 damage.
+Round 31: From violence, familiars will rarely abstain, / Yours leaps into the fight, dealing 4 points of pain.
+Round 31: thug 1 and thug 2 takes 4 damage.
+Round 31: boolicious attacks!
+
+[14813] The Maelstrom of Lovers
+Encounter: Bettie Barulio
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bettie barulio takes 546 damage.
+Round 2: Like the Grumbery birds on the Isle of Berblatt, / Your familiar hits 51 times, just like that!
+Round 2: bettie barulio takes 51 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+You gain 20 Strongness
+You gain 11 Magicalness
+You gain 9 Roguishness
+
+[14814] The Maelstrom of Lovers
+Encounter: Marvin J. Sunny
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marvin j. sunny takes 546 damage.
+Round 2: Well wazzle-dee-hoo and hip-hip hooray! / Your familiar did 51 damage today!
+Round 2: marvin j. sunny takes 51 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+You gain 19 Strongness
+You gain 15 Magicalness
+You gain 5 Roguishness
+
+[14815] The Maelstrom of Lovers
+Encounter: Wonderful Winifred Wongle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wonderful winifred wongle takes 546 damage.
+Round 2: Your buddy beats on her 38 times, / This next part says nothing at all! It just rhymes!
+Round 2: wonderful winifred wongle takes 38 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+You gain 18 Strongness
+You gain 7 Magicalness
+You gain 14 Roguishness
+
+[14816] The Maelstrom of Lovers
+Encounter: Marcus Macurgeon
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marcus macurgeon takes 546 damage.
+Round 2: Your pet takes a bite that inflicts quite a mark, / and does 54 damage just like a big shark!
+Round 2: marcus macurgeon takes 54 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Gron, the 2 lb. Wereturtle
+You acquire an item: purple prose pen
+You acquire an item: jar full of wind
+You gain 18 Strongness
+You gain 12 Magicalness
+You gain 9 Roguishness
+
+[14817] The Maelstrom of Lovers
+Encounter: Mortimer Strauss
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: mortimer strauss takes 546 damage.
+Round 2: Your pet did a thing; I didn't see it, did you? / I guess it just did what they usually do.
+Round 2: boolicious wins the fight!
+You acquire an item: Mortimer's nostrum
+You acquire an item: jar full of wind
+You gain 22 Strongness
+You gain 11 Magicalness
+You gain 6 Roguishness
+
+[14818] The Maelstrom of Lovers
+Encounter: Marcus Macurgeon
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marcus macurgeon takes 546 damage.
+Round 2: Your buddy beats on him 45 times, / This next part says nothing at all! It just rhymes!
+Round 2: marcus macurgeon takes 45 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: purple prose pen
+You acquire an item: jar full of wind
+You gain 28 Strongness
+You gain 8 Magicalness
+You gain 5 Roguishness
+
+[14819] The Maelstrom of Lovers
+Encounter: Wonderful Winifred Wongle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wonderful winifred wongle takes 546 damage.
+Round 2: Well wazzle-dee-hoo and hip-hip hooray! / Your familiar did 46 damage today!
+Round 2: wonderful winifred wongle takes 46 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+You gain 27 Strongness
+You gain 5 Magicalness
+You gain 8 Roguishness
+
+[14820] The Maelstrom of Lovers
+Encounter: Thug 1 and Thug 2
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: thug 1 and thug 2 takes 10 damage.
+Round 2: Your little friend's limber and loose in the joints, / It leaps on your foe and hits them for 4 points!
+Round 2: thug 1 and thug 2 takes 4 damage.
+Round 2: boolicious attacks!
+Round 3: thug 1 and thug 2 takes 10 damage.
+Round 3: Your pet did a thing; I don't know what it did. / Perhaps it went skiing, or huggled a squid?
+Round 3: boolicious attacks!
+Round 4: thug 1 and thug 2 takes 10 damage.
+Round 4: Your little friend's limber and loose in the joints, / It leaps on your foe and hits them for 4 points!
+Round 4: thug 1 and thug 2 takes 4 damage.
+Round 4: boolicious attacks!
+Round 5: thug 1 and thug 2 takes 10 damage.
+Round 5: Your little friend's limber and loose in the joints, / It leaps on your foe and hits them for 5 points!
+Round 5: thug 1 and thug 2 takes 5 damage.
+Round 5: boolicious attacks!
+Round 6: thug 1 and thug 2 takes 10 damage.
+Round 6: From violence, familiars will rarely abstain, / Yours leaps into the fight, dealing 5 points of pain.
+Round 6: thug 1 and thug 2 takes 5 damage.
+Round 6: boolicious attacks!
+Round 7: thug 1 and thug 2 takes 10 damage.
+Round 7: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 4 damage, slickly.
+Round 7: thug 1 and thug 2 takes 4 damage.
+Round 7: boolicious attacks!
+Round 8: thug 1 and thug 2 takes 10 damage.
+Round 8: From violence, familiars will rarely abstain, / Yours leaps into the fight, dealing 4 points of pain.
+Round 8: thug 1 and thug 2 takes 4 damage.
+Round 8: boolicious attacks!
+Round 9: thug 1 and thug 2 takes 10 damage.
+Round 9: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 5 damage, slickly.
+Round 9: thug 1 and thug 2 takes 5 damage.
+Round 9: boolicious attacks!
+Round 10: thug 1 and thug 2 takes 10 damage.
+Round 10: Your friend shouts "Wahoo!" and leaps into the fight! / It does 5 points of damage, not great, but all right!
+Round 10: thug 1 and thug 2 takes 5 damage.
+Round 10: boolicious attacks!
+Round 11: thug 1 and thug 2 takes 10 damage.
+Round 11: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 5 damage, slickly.
+Round 11: thug 1 and thug 2 takes 5 damage.
+Round 11: boolicious attacks!
+Round 12: thug 1 and thug 2 takes 10 damage.
+Round 12: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 4 damage, slickly.
+Round 12: thug 1 and thug 2 takes 4 damage.
+Round 12: boolicious attacks!
+Round 13: thug 1 and thug 2 takes 10 damage.
+Round 13: From violence, familiars will rarely abstain, / Yours leaps into the fight, dealing 4 points of pain.
+Round 13: thug 1 and thug 2 takes 4 damage.
+Round 13: boolicious attacks!
+Round 14: thug 1 and thug 2 takes 10 damage.
+Round 14: From violence, familiars will rarely abstain, / Yours leaps into the fight, dealing 4 points of pain.
+Round 14: thug 1 and thug 2 takes 4 damage.
+Round 14: boolicious attacks!
+Round 15: thug 1 and thug 2 takes 10 damage.
+Round 15: Your little friend's limber and loose in the joints, / It leaps on your foe and hits them for 4 points!
+Round 15: thug 1 and thug 2 takes 4 damage.
+Round 15: boolicious attacks!
+Round 16: thug 1 and thug 2 takes 10 damage.
+Round 16: From violence, familiars will rarely abstain, / Yours leaps into the fight, dealing 4 points of pain.
+Round 16: thug 1 and thug 2 takes 4 damage.
+Round 16: boolicious attacks!
+Round 17: thug 1 and thug 2 takes 10 damage.
+Round 17: Your friend shouts "Wahoo!" and leaps into the fight! / It does 4 points of damage, not great, but all right!
+Round 17: thug 1 and thug 2 takes 4 damage.
+Round 17: boolicious attacks!
+Round 18: thug 1 and thug 2 takes 10 damage.
+Round 18: From violence, familiars will rarely abstain, / Yours leaps into the fight, dealing 4 points of pain.
+Round 18: thug 1 and thug 2 takes 4 damage.
+Round 18: boolicious attacks!
+Round 19: thug 1 and thug 2 takes 10 damage.
+Round 19: Your friend shouts "Wahoo!" and leaps into the fight! / It does 4 points of damage, not great, but all right!
+Round 19: thug 1 and thug 2 takes 4 damage.
+Round 19: boolicious attacks!
+Round 20: thug 1 and thug 2 takes 10 damage.
+Round 20: Your pet did a thing that might just save the day, / I'm afraid you were looking the opposite way.
+Round 20: boolicious attacks!
+Round 21: thug 1 and thug 2 takes 10 damage.
+Round 21: Your friend shouts "Wahoo!" and leaps into the fight! / It does 4 points of damage, not great, but all right!
+Round 21: thug 1 and thug 2 takes 4 damage.
+Round 21: boolicious attacks!
+Round 22: thug 1 and thug 2 takes 10 damage.
+Round 22: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 4 damage, slickly.
+Round 22: thug 1 and thug 2 takes 4 damage.
+Round 22: boolicious attacks!
+Round 23: thug 1 and thug 2 takes 10 damage.
+Round 23: Your little friend's limber and loose in the joints, / It leaps on your foe and hits them for 4 points!
+Round 23: thug 1 and thug 2 takes 4 damage.
+Round 23: boolicious attacks!
+Round 24: thug 1 and thug 2 takes 10 damage.
+Round 24: From violence, familiars will rarely abstain, / Yours leaps into the fight, dealing 4 points of pain.
+Round 24: thug 1 and thug 2 takes 4 damage.
+Round 24: boolicious attacks!
+Round 25: thug 1 and thug 2 takes 10 damage.
+Round 25: From violence, familiars will rarely abstain, / Yours leaps into the fight, dealing 5 points of pain.
+Round 25: thug 1 and thug 2 takes 5 damage.
+Round 25: boolicious attacks!
+Round 26: thug 1 and thug 2 takes 10 damage.
+Round 26: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 5 damage, slickly.
+Round 26: thug 1 and thug 2 takes 5 damage.
+Round 26: boolicious attacks!
+Round 27: thug 1 and thug 2 takes 10 damage.
+Round 27: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 4 damage, slickly.
+Round 27: thug 1 and thug 2 takes 4 damage.
+Round 27: boolicious attacks!
+Round 28: thug 1 and thug 2 takes 10 damage.
+Round 28: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 4 damage, slickly.
+Round 28: thug 1 and thug 2 takes 4 damage.
+Round 28: boolicious attacks!
+Round 29: thug 1 and thug 2 takes 10 damage.
+Round 29: From violence, familiars will rarely abstain, / Yours leaps into the fight, dealing 5 points of pain.
+Round 29: thug 1 and thug 2 takes 5 damage.
+Round 29: boolicious attacks!
+Round 30: thug 1 and thug 2 takes 10 damage.
+Round 30: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 5 damage, slickly.
+Round 30: thug 1 and thug 2 takes 5 damage.
+Round 30: boolicious attacks!
+You lose 1 hit points
+Round 31: Your friend shouts "Wahoo!" and leaps into the fight! / It does 4 points of damage, not great, but all right!
+Round 31: thug 1 and thug 2 takes 4 damage.
+Round 31: boolicious attacks!
+
+[14821] The Maelstrom of Lovers
+Encounter: Marvin J. Sunny
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marvin j. sunny takes 544 damage.
+Round 2: As your pet chews his leg, your foe looks distraught. / Perhaps you should feed it more often. ...Or not.
+Round 2: marvin j. sunny takes 57 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+You gain 20 Strongness
+You gain 10 Magicalness
+You gain 10 Roguishness
+
+[14822] The Maelstrom of Lovers
+Encounter: Wonderful Winifred Wongle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wonderful winifred wongle takes 546 damage.
+Round 2: Your familiar did something, just what I'm not sure. / Did it pick you a flower, or spit on the floor?
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Gron, the 3 lb. Wereturtle
+You acquire an item: jar full of wind
+You gain 22 Strongness
+You gain 7 Magicalness
+You gain 10 Roguishness
+
+[14823] The Maelstrom of Lovers
+Encounter: Mortimer Strauss
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: mortimer strauss takes 544 damage.
+Round 2: Like the Grumbery birds on the Isle of Berblatt, / Your familiar hits 58 times, just like that!
+Round 2: mortimer strauss takes 58 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: Mortimer's nostrum
+You acquire an item: jar full of wind
+You gain 26 Strongness
+You gain 9 Magicalness
+You gain 5 Roguishness
+
+use 1 Mortimer's nostrum
+You acquire an effect: Limber as Mortimer (duration: 10 Adventures)
+
+[14824] The Maelstrom of Lovers
+Encounter: Bettie Barulio
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: bettie barulio takes 544 damage.
+Round 2: Your familiar did something to help in your plight, / but you were distracted, with monsters to fight.
+Round 2: Well wazzle-dee-hoo and hip-hip hooray! / Your familiar did 38 damage today!
+Round 2: bettie barulio takes 38 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+You gain 19 Strongness
+You gain 9 Magicalness
+You gain 11 Roguishness
+
+[14825] The Maelstrom of Lovers
+Encounter: Marcus Macurgeon
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: marcus macurgeon takes 546 damage.
+Round 2: Well wazzle-dee-hoo and hip-hip hooray! / Your familiar did 61 damage today!
+Round 2: marcus macurgeon takes 61 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+You gain 22 Strongness
+You gain 9 Magicalness
+You gain 9 Roguishness
+
+[14826] The Maelstrom of Lovers
+Encounter: Marcus Macurgeon
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: marcus macurgeon takes 545 damage.
+Round 2: As your pet chews his leg, your foe looks distraught. / Perhaps you should feed it more often. ...Or not.
+Round 2: marcus macurgeon takes 37 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: purple prose pen
+You acquire an item: jar full of wind
+You gain 27 Strongness
+You gain 6 Magicalness
+You gain 8 Roguishness
+
+use 1 purple prose pen
+
+[14827] The Maelstrom of Lovers
+Encounter: Marvin J. Sunny
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: marvin j. sunny takes 545 damage.
+Round 2: Like the Boofers that live on the Isle of Buprate, / Your little friend does 40 damage! That's great!
+Round 2: marvin j. sunny takes 40 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+You gain 18 Strongness
+You gain 10 Magicalness
+You gain 11 Roguishness
+
+[14828] The Maelstrom of Lovers
+Encounter: Wonderful Winifred Wongle
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: wonderful winifred wongle takes 546 damage.
+Round 2: Like the Grumbery birds on the Isle of Berblatt, / Your familiar hits 52 times, just like that!
+Round 2: wonderful winifred wongle takes 52 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+You gain 18 Strongness
+You gain 11 Magicalness
+You gain 10 Roguishness
+
+[14829] The Maelstrom of Lovers
+Encounter: Thug 1 and Thug 2
+Round 0: boolicious loses initiative!
+Round 1: boolicious uses the jar full of wind!
+Round 2: Your familiar did something to help in your plight, / but you were distracted, with monsters to fight.
+Round 2: boolicious attacks!
+Round 3: thug 1 and thug 2 takes 10 damage.
+Round 3: Your friend shouts "Wahoo!" and leaps into the fight! / It does 4 points of damage, not great, but all right!
+Round 3: thug 1 and thug 2 takes 4 damage.
+Round 3: boolicious uses the paint bomb!
+Round 4: thug 1 and thug 2 takes 10 damage.
+Round 4: Your little friend's limber and loose in the joints, / It leaps on your foe and hits them for 5 points!
+Round 4: thug 1 and thug 2 takes 5 damage.
+Round 4: boolicious uses the 4-d camera!
+Round 5: boolicious attacks!
+Round 6: thug 1 and thug 2 takes 10 damage.
+Round 6: Your little friend's limber and loose in the joints, / It leaps on your foe and hits them for 4 points!
+Round 6: thug 1 and thug 2 takes 4 damage.
+Round 6: boolicious uses the big boom!
+Round 7: thug 1 and thug 2 takes 6 damage.
+Round 7: From violence, familiars will rarely abstain, / Yours leaps into the fight, dealing 4 points of pain.
+Round 7: thug 1 and thug 2 takes 4 damage.
+Round 7: boolicious uses the lewd playing card!
+Round 8: thug 1 and thug 2 takes 12 damage.
+Round 8: Your little friend's limber and loose in the joints, / It leaps on your foe and hits them for 4 points!
+Round 8: thug 1 and thug 2 takes 4 damage.
+You lose 5 hit points
+Round 8: boolicious attacks!
+Round 9: thug 1 and thug 2 takes 10 damage.
+Round 9: Your pet did a thing; I didn't see it, did you? / I guess it just did what they usually do.
+You lose 4 hit points
+Round 9: boolicious attacks!
+Round 10: thug 1 and thug 2 takes 10 damage.
+Round 10: From violence, familiars will rarely abstain, / Yours leaps into the fight, dealing 5 points of pain.
+Round 10: thug 1 and thug 2 takes 5 damage.
+Round 10: boolicious attacks!
+Round 11: thug 1 and thug 2 takes 10 damage.
+Round 11: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 5 damage, slickly.
+Round 11: thug 1 and thug 2 takes 5 damage.
+Round 11: boolicious uses the jar full of wind!
+Round 12: Your pet did a thing; I don't know what it did. / Perhaps it went skiing, or huggled a squid?
+Round 12: thug 1 and thug 2 takes 10 damage.
+Round 12: boolicious uses the jar full of wind!
+Round 13: Your familiar did something to help in your plight, / but you were distracted, with monsters to fight.
+Round 13: thug 1 and thug 2 takes 11 damage.
+Round 13: boolicious attacks!
+Round 14: thug 1 and thug 2 takes 10 damage.
+Round 14: Your little friend's limber and loose in the joints, / It leaps on your foe and hits them for 4 points!
+Round 14: thug 1 and thug 2 takes 4 damage.
+Round 14: boolicious attacks!
+Round 15: thug 1 and thug 2 takes 10 damage.
+Round 15: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 4 damage, slickly.
+Round 15: thug 1 and thug 2 takes 4 damage.
+Round 15: boolicious attacks!
+Round 16: thug 1 and thug 2 takes 10 damage.
+Round 16: Your little friend's limber and loose in the joints, / It leaps on your foe and hits them for 5 points!
+Round 16: thug 1 and thug 2 takes 5 damage.
+Round 16: boolicious attacks!
+Round 17: thug 1 and thug 2 takes 10 damage.
+Round 17: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 4 damage, slickly.
+Round 17: thug 1 and thug 2 takes 4 damage.
+Round 17: boolicious attacks!
+Round 18: thug 1 and thug 2 takes 10 damage.
+Round 18: Your pet did a thing; I didn't see it, did you? / I guess it just did what they usually do.
+Round 18: boolicious attacks!
+Round 19: thug 1 and thug 2 takes 10 damage.
+Round 19: Your pet did a thing; I don't know what it did. / Perhaps it went skiing, or huggled a squid?
+Round 19: boolicious attacks!
+Round 20: thug 1 and thug 2 takes 10 damage.
+Round 20: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 4 damage, slickly.
+Round 20: thug 1 and thug 2 takes 4 damage.
+Round 20: boolicious attacks!
+Round 21: thug 1 and thug 2 takes 10 damage.
+Round 21: Your familiar did something to help in your plight, / but you were distracted, with monsters to fight.
+Round 21: boolicious attacks!
+Round 22: thug 1 and thug 2 takes 10 damage.
+Round 22: Your friend shouts "Wahoo!" and leaps into the fight! / It does 4 points of damage, not great, but all right!
+Round 22: thug 1 and thug 2 takes 4 damage.
+You lose 4 hit points
+Round 22: boolicious attacks!
+Round 23: thug 1 and thug 2 takes 10 damage.
+Round 23: Your friend shouts "Wahoo!" and leaps into the fight! / It does 5 points of damage, not great, but all right!
+Round 23: thug 1 and thug 2 takes 5 damage.
+Round 23: boolicious attacks!
+Round 24: thug 1 and thug 2 takes 10 damage.
+Round 24: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 4 damage, slickly.
+Round 24: thug 1 and thug 2 takes 4 damage.
+Round 24: boolicious attacks!
+Round 25: thug 1 and thug 2 takes 10 damage.
+Round 25: Your friend shouts "Wahoo!" and leaps into the fight! / It does 4 points of damage, not great, but all right!
+Round 25: thug 1 and thug 2 takes 4 damage.
+Round 25: boolicious attacks!
+Round 26: thug 1 and thug 2 takes 10 damage.
+Round 26: Your friend shouts "Wahoo!" and leaps into the fight! / It does 4 points of damage, not great, but all right!
+Round 26: thug 1 and thug 2 takes 4 damage.
+Round 26: boolicious attacks!
+Round 27: thug 1 and thug 2 takes 10 damage.
+Round 27: Your friend shouts "Wahoo!" and leaps into the fight! / It does 4 points of damage, not great, but all right!
+Round 27: thug 1 and thug 2 takes 4 damage.
+Round 27: boolicious attacks!
+Round 28: thug 1 and thug 2 takes 10 damage.
+Round 28: "Go beat up our foes, little friend! Do it quickly!" / So your friend beats on them, doing 4 damage, slickly.
+Round 28: thug 1 and thug 2 takes 4 damage.
+Round 28: boolicious attacks!
+Round 29: thug 1 and thug 2 takes 10 damage.
+Round 29: Your friend shouts "Wahoo!" and leaps into the fight! / It does 4 points of damage, not great, but all right!
+Round 29: thug 1 and thug 2 takes 4 damage.
+Round 29: boolicious attacks!
+You lose 1 hit points
+Round 30: From violence, familiars will rarely abstain, / Yours leaps into the fight, dealing 4 points of pain.
+Round 30: thug 1 and thug 2 takes 4 damage.
+Round 30: boolicious attacks!
+Round 31: thug 1 and thug 2 takes 10 damage.
+Round 31: Your friend shouts "Wahoo!" and leaps into the fight! / It does 5 points of damage, not great, but all right!
+Round 31: thug 1 and thug 2 takes 5 damage.
+Round 31: boolicious attacks!
+Round 32: thug 1 and thug 2 takes 10 damage.
+Round 32: Your little friend's limber and loose in the joints, / It leaps on your foe and hits them for 4 points!
+Round 32: thug 1 and thug 2 takes 4 damage.
+Round 32: boolicious wins the fight!
+Your familiar gains a pound: Gron, the 4 lb. Wereturtle
+You acquire an item: jealousy stone
+You gain 24 Strongness
+You gain 10 Magicalness
+You gain 12 Roguishness
+
+[14830] The Maelstrom of Lovers
+Encounter: Bettie Barulio
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: bettie barulio takes 546 damage.
+Round 2: Well wazzle-dee-hoo and hip-hip hooray! / Your familiar did 39 damage today!
+Round 2: bettie barulio takes 39 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: Barulio's bottle
+You acquire an item: jar full of wind
+You gain 25 Strongness
+You gain 9 Magicalness
+You gain 7 Roguishness
+
+[14831] The Maelstrom of Lovers
+Encounter: A Choice to be Made
+Took choice 566/2: skip adventure
+choice.php?pwd&whichchoice=566&option=2
+
+[14831] The Maelstrom of Lovers
+Encounter: Marvin J. Sunny
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: marvin j. sunny takes 548 damage.
+Round 2: Your buddy beats on him 55 times, / This next part says nothing at all! It just rhymes!
+Round 2: marvin j. sunny takes 55 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+You gain 20 Strongness
+You gain 9 Magicalness
+You gain 11 Roguishness
+
+equip acc2 Pokëmann figurine: Frank
+unequip weapon
+unequip offhand
+
+equip hat hardened slime hat
+
+[14832] The Maelstrom of Lovers
+Encounter: Mortimer Strauss
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: mortimer strauss takes 79 damage.
+Round 2: Well wazzle-dee-hoo and hip-hip hooray! / Your familiar did 32 damage today!
+Round 2: mortimer strauss takes 32 damage.
+Round 2: boolicious casts FLYING FIRE FIST!
+Round 3: mortimer strauss takes 42 damage.
+Round 3: As your pet chews his leg, your foe looks distraught. / Perhaps you should feed it more often. ...Or not.
+Round 3: mortimer strauss takes 27 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: Mortimer's nostrum
+You acquire an item: jar full of wind
+You gain 21 Strongness
+You gain 8 Magicalness
+You gain 10 Roguishness
+
+cast 14 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 462 Adventures)
+
+use 4 Cherry Cloaca Cola
+You gain 33 Muscularity Points
+
+buy 25 Cherry Cloaca Cola for 80 each from White Citadel
+You acquire Cherry Cloaca Cola (25)
+You spent 2,000 Meat
+
+use 25 Cherry Cloaca Cola
+You gain 205 Muscularity Points
+
+cast 6 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 198 Adventures)
+
+[14833] The Maelstrom of Lovers
+Encounter: A Choice to be Made
+Took choice 566/1: Fight Boss
+choice.php?pwd&whichchoice=566&option=1
+
+[14833] The Maelstrom of Lovers
+Encounter: The Terrible Pinch
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the jar full of wind!
+Round 2: Your pet did a thing; I don't know what it did. / Perhaps it went skiing, or huggled a squid?
+You lose 65 hit points
+Round 2: boolicious uses the jar full of wind!
+Round 3: Your pet did a thing; I didn't see it, did you? / I guess it just did what they usually do.
+You lose 65 hit points
+Round 3: boolicious casts FLYING FIRE FIST!
+Round 4: Like the Grumbery birds on the Isle of Berblatt, / Your familiar hits 34 times, just like that!
+Round 4: the terrible pinch takes 34 damage.
+Round 4: the terrible pinch heals 10 hit points.
+Round 4: boolicious casts WAVE OF SAUCE!
+Round 5: the terrible pinch takes 50 damage.
+Round 5: Your pet did a thing; I don't know what it did. / Perhaps it went skiing, or huggled a squid?
+Round 5: the terrible pinch heals 25 hit points.
+Round 5: boolicious casts ZENDO KOBUSHI KANCHO!
+Round 6: the terrible pinch takes 51 damage.
+Round 6: Like the Grumbery birds on the Isle of Berblatt, / Your familiar hits 38 times, just like that!
+Round 6: the terrible pinch takes 38 damage.
+You lose 1 hit points
+
+uneffect Beaten Up
