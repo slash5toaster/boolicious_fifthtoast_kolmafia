@@ -1,6 +1,8 @@
 AdventureFrame=48,188,0
+CakeArenaFrame=424,348
 CouncilFrame=424,322,-1
 DescriptionFrame=424,322,-1
+FamiliarTrainingFrame=260,240
 KoLDesktop=188,141,-1
 LoginFrame=409,276,0
 MaximizerFrame=379,354
@@ -552,7 +554,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=14
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -832,7 +834,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=970\:Semirare window begin loc\=*\:lparen.gif\:982\:The Shore loc\=* shore.php\:dinghy.gif\:1010\:Semirare window end loc\=*\:rparen.gif
+relayCounters=982\:The Shore loc\=* shore.php\:dinghy.gif\:1010\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false

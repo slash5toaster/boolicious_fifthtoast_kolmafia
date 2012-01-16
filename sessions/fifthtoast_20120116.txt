@@ -2082,3 +2082,384 @@ Encounter: An Unladen Buzzard
 You acquire coconut shell (3)
 
 equip hat coconut shell
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 16, 2012 - Jarlsuary 8
+
+Ronald: waning crescent
+Grimace: waxing gibbous
+Mini-moon: behind Grimace
+
+Valentine's Day: 4 days
+St. Sneaky Pete's Day: 11 days
+Oyster Egg Day: 18 days
+El Dia De Los Muertos Borrachos: 26 days
+Generic Summer Holiday: 35 days
+Dependence Day: 44 days
+Arrrbor Day: 52 days
+Lab&oacute;r Day: 62 days
+Halloween: 72 days
+Feast of Boris: 79 days
+Yuletide: 84 days
+Festival of Jarlsberg: 89 days
+
+
+Muscle bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 8
+HP: 86 / 91
+MP: 52 / 58
+
+Mus: 55 (47), tnp = 7
+Mys: 55 (47), tnp = 84
+Mox: 87 (67), tnp = 111
+
+Advs: 51
+Meat: 11,776
+Drunk: 0
+
+
+ > equipment
+
+Hat: coconut shell
+Weapon: chrome crossbow
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin elite pants
+
+Acc. 1: badass belt
+Acc. 2: observational glasses
+Acc. 3: tiny plastic Big Candy
+
+Pet: Mosquito (13 lbs)
+Item: (none)
+
+ > skills
+
+Disco Bandit
+ - Disco Aerobics
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Nap
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+2 of 3 AT buffs active.
+Disco State of Mind (155)
+♫ Polka of Plenty (220)
+Jabañero Saucesphere (220)
+♫ Jackasses' Symphony of Destruction (220)
+Scarysauce (220)
+Jingle Jangle Jingle (220)
+Jalapeño Saucesphere (220)
+Elemental Saucesphere (220)
+Reptilian Fortitude (220)
+Empathy (220)
+Tenacity of the Snapper (220)
+Astral Shell (220)
+Ghostly Shell (220)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +0.00
+Meat: +50.00%
+Item: +5.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[952] Cook 1 Gnollish pie tin + 1 wad of dough
+You acquire an item: pie crust
+Crafting used 1 each of Gnollish pie tin and wad of dough
+
+[952] Cook 1 ghuol egg + 1 pie crust
+You acquire an item: ghuol egg quiche
+Crafting used 1 each of pie crust and ghuol egg
+outfit Bugbear Costume
+
+buy 10 Gnollish pie tin for 30 each from Bugbear Bakery
+You acquire Gnollish pie tin (10)
+You spent 300 Meat
+custom outfit Backup
+outfit Bugbear Costume
+
+buy 20 wad of dough for 50 each from Bugbear Bakery
+You acquire wad of dough (20)
+You spent 1,000 Meat
+custom outfit Backup
+
+[952] Cook 10 Gnollish pie tin + 10 wad of dough
+You acquire pie crust (10)
+Crafting used 10 each of Gnollish pie tin and wad of dough
+
+[952] Cook 2 lihc eye + 2 pie crust
+You acquire lihc eye pie (2)
+Crafting used 2 each of pie crust and lihc eye
+
+Create 1 meat paste
+You acquire an item: meat paste
+You lose 10 Meat
+
+Combine 1 evil golden arch + 1 evil golden arch
+You acquire an item: evil golden arches
+Crafting used 1 each of evil golden arch and evil golden arch
+
+Create 1 meat paste
+You acquire an item: meat paste
+You lose 10 Meat
+
+Combine 1 evil golden arch + 1 evil golden arch
+You acquire an item: evil golden arches
+Crafting used 1 each of evil golden arch and evil golden arch
+
+Trade 3 black pixel, 2 blue pixel
+You acquire an item: blue pixel potion
+
+Trade 20 red pixel, 15 white pixel
+You acquire an item: monster bait
+
+buy 1 white pixel for 325 each from 997161 on 20120116
+You acquire an item: white pixel
+
+buy 1 white pixel for 357 each from 870022 on 20120116
+You acquire an item: white pixel
+
+Trade 5 white pixel, 2 red pixel, 2 blue pixel
+You acquire an item: purple pixel pie
+
+eat 1 lihc eye pie
+You gain 6 Adventures
+You gain 12 Magicalness
+You acquire an effect: Eye of the Lihc (duration: 5 Adventures)
+
+eat 1 giant marshmallow
+You gain 9 Adventures
+You gain 19 Strengthliness
+You gain a Muscle point!
+
+eat 1 goat cheese pizza
+You gain 4 Adventures
+You gain 17 Roguishness
+
+eat 1 bowl of oriole's nest soup
+You gain 6 Adventures
+
+drink 1 Typical Tavern swill
+You gain 5 Adventures
+You gain 2 Muscleboundness
+You gain 2 Wizardliness
+You gain 1 Cheek
+You gain 3 Drunkenness
+
+drink 1 screwdriver
+You gain 6 Adventures
+You gain 9 Strengthliness
+You gain 3 Drunkenness
+
+drink 1 vodka and cranberry
+You gain 6 Adventures
+You gain 27 Magicalness
+You gain 3 Drunkenness
+
+buy 1 vodka and cranberry for 160 each from 1818003 on 20120116
+You acquire an item: vodka and cranberry
+
+drink 1 vodka and cranberry
+You gain 6 Adventures
+You gain 22 Mysteriousness
+You gain 3 Drunkenness
+
+drink 1 Mt. Noob Pale Ale
+You gain 5 Adventures
+You gain 2 Drunkenness
+
+[952] Mix 3 bottle of vodka + 3 cranberries
+You acquire vodka and cranberry (3)
+Crafting used 3 each of bottle of vodka and cranberries
+
+[952] Cook 1 Knob mushroom + 1 fairy gravy boat
+You acquire an item: pregnant mushroom
+Crafting used 1 each of fairy gravy boat and Knob mushroom
+
+use 1 pregnant mushroom
+
+familiarnames.php?action=Doodit&pwd&fam0=Tog&fam157=Emilio&fam142=bubbles&fam20=spelling&fam122=jill&fam15=Roux
+familiarnames.php?action=Doodit&pwd&fam0=spike&fam157=Emilio&fam142=bubbles&fam20=spelling&fam122=jill&fam15=Roux
+
+familiar Baby Gravy Fairy (6 lbs)
+
+[951] Cake-Shaped Arena
+Familiar: Roux, the 6 lb. Baby Gravy Fairy
+Opponent: Dirty Pair, the 26 lb. Fuzzy Dice
+Contest: Scavenger Hunt
+Roux lost.
+
+[952] Cake-Shaped Arena
+Familiar: Roux, the 6 lb. Baby Gravy Fairy
+Opponent: Nestor Necrophage, the 6 lb. Ghuol Whelp
+Contest: Scavenger Hunt
+Your familiar gains a pound: Roux, the 2 lb. Baby Gravy Fairy
+Roux gains 5 experience and a pound.
+
+[953] Cake-Shaped Arena
+Familiar: Roux, the 7 lb. Baby Gravy Fairy
+Opponent: Nestor Necrophage, the 6 lb. Ghuol Whelp
+Contest: Scavenger Hunt
+Your familiar gains a pound: Roux, the 3 lb. Baby Gravy Fairy
+Roux gains 5 experience and a pound.
+
+[954] Cake-Shaped Arena
+Familiar: Roux, the 8 lb. Baby Gravy Fairy
+Opponent: Deadbeard, the 5 lb. Spooky Pirate Skeleton
+Contest: Scavenger Hunt
+Roux gains 4 experience.
+
+[955] Cake-Shaped Arena
+Familiar: Roux, the 8 lb. Baby Gravy Fairy
+Opponent: Deadbeard, the 5 lb. Spooky Pirate Skeleton
+Contest: Scavenger Hunt
+Your familiar gains a pound: Roux, the 4 lb. Baby Gravy Fairy
+Roux gains 5 experience and a pound.
+
+[956] Cake-Shaped Arena
+Familiar: Roux, the 9 lb. Baby Gravy Fairy
+Opponent: Deadbeard, the 5 lb. Spooky Pirate Skeleton
+Contest: Scavenger Hunt
+You acquire an item: eye-pod
+Roux gains 5 experience.
+
+equip familiar eye-pod
+
+[957] Cake-Shaped Arena
+Familiar: Roux, the 14 lb. Baby Gravy Fairy
+Opponent: Naranjas en la Cabeza, the 8 lb. Killer Bee
+Contest: Obstacle Course
+Your familiar gains a pound: Roux, the 5 lb. Baby Gravy Fairy
+Roux gains 5 experience and a pound.
+
+[958] Cake-Shaped Arena
+Familiar: Roux, the 15 lb. Baby Gravy Fairy
+Opponent: Naranjas en la Cabeza, the 8 lb. Killer Bee
+Contest: Obstacle Course
+Roux gains 5 experience.
+
+[959] Cake-Shaped Arena
+Familiar: Roux, the 15 lb. Baby Gravy Fairy
+Opponent: Naranjas en la Cabeza, the 8 lb. Killer Bee
+Contest: Obstacle Course
+Your familiar gains a pound: Roux, the 6 lb. Baby Gravy Fairy
+Roux gains 5 experience and a pound.
+unequip familiarequip
+
+[960] Cake-Shaped Arena
+Familiar: Roux, the 11 lb. Baby Gravy Fairy
+Opponent: Nestor Necrophage, the 6 lb. Ghuol Whelp
+Contest: Hide and Seek
+Roux gains 5 experience.
+
+[961] Cake-Shaped Arena
+Familiar: Roux, the 11 lb. Baby Gravy Fairy
+Opponent: Nestor Necrophage, the 6 lb. Ghuol Whelp
+Contest: Hide and Seek
+Your familiar gains a pound: Roux, the 7 lb. Baby Gravy Fairy
+You acquire an item: eye-pod
+Roux gains 5 experience and a pound.
+
+[962] Cake-Shaped Arena
+Familiar: Roux, the 12 lb. Baby Gravy Fairy
+Opponent: Nestor Necrophage, the 6 lb. Ghuol Whelp
+Contest: Hide and Seek
+Roux gains 5 experience.
+
+[963] Cake-Shaped Arena
+Familiar: Roux, the 12 lb. Baby Gravy Fairy
+Opponent: Nestor Necrophage, the 6 lb. Ghuol Whelp
+Contest: Hide and Seek
+Roux gains 5 experience.
+
+[964] Cake-Shaped Arena
+Familiar: Roux, the 12 lb. Baby Gravy Fairy
+Opponent: Nestor Necrophage, the 6 lb. Ghuol Whelp
+Contest: Hide and Seek
+Your familiar gains a pound: Roux, the 8 lb. Baby Gravy Fairy
+Roux gains 5 experience and a pound.
+
+[965] Cake-Shaped Arena
+Familiar: Roux, the 13 lb. Baby Gravy Fairy
+Opponent: Nestor Necrophage, the 6 lb. Ghuol Whelp
+Contest: Hide and Seek
+Roux gains 5 experience.
+
+[966] Cake-Shaped Arena
+Familiar: Roux, the 13 lb. Baby Gravy Fairy
+Opponent: Nestor Necrophage, the 6 lb. Ghuol Whelp
+Contest: Hide and Seek
+You acquire an item: eye-pod
+Roux gains 5 experience.
+
+[967] Cake-Shaped Arena
+Familiar: Roux, the 13 lb. Baby Gravy Fairy
+Opponent: Nestor Necrophage, the 6 lb. Ghuol Whelp
+Contest: Hide and Seek
+Roux gains 5 experience.
+
+[968] Cake-Shaped Arena
+Familiar: Roux, the 13 lb. Baby Gravy Fairy
+Opponent: Nestor Necrophage, the 6 lb. Ghuol Whelp
+Contest: Hide and Seek
+Your familiar gains a pound: Roux, the 9 lb. Baby Gravy Fairy
+Roux gains 5 experience and a pound.
+
+[969] Cake-Shaped Arena
+Familiar: Roux, the 14 lb. Baby Gravy Fairy
+Opponent: Naranjas en la Cabeza, the 8 lb. Killer Bee
+Contest: Obstacle Course
+Roux gains 5 experience.
+
+[970] Cake-Shaped Arena
+Familiar: Roux, the 14 lb. Baby Gravy Fairy
+Opponent: Naranjas en la Cabeza, the 8 lb. Killer Bee
+Contest: Obstacle Course
+Roux gains 5 experience.
+
+[971] Cake-Shaped Arena
+Familiar: Roux, the 14 lb. Baby Gravy Fairy
+Opponent: Naranjas en la Cabeza, the 8 lb. Killer Bee
+Contest: Obstacle Course
+You acquire an item: eye-pod
+Roux gains 5 experience.
+
+[972] Cake-Shaped Arena
+Familiar: Roux, the 14 lb. Baby Gravy Fairy
+Opponent: Naranjas en la Cabeza, the 8 lb. Killer Bee
+Contest: Obstacle Course
+Your familiar gains a pound: Roux, the 10 lb. Baby Gravy Fairy
+Roux gains 5 experience and a pound.
+
+equip familiar eye-pod
+
+familiar Jack-in-the-Box (8 lbs)
