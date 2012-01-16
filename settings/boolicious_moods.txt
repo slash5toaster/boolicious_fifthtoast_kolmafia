@@ -1,6 +1,9 @@
 [ apathetic ]
 
 [ default ]
+lose_effect patience of the tortoise => cast 5 patience of the tortoise
+lose_effect retrograde relaxation => cast 3 miyagi massage
+lose_effect salamanderenity => cast 3 salamander kata
 
 [ fudgefinding ]
 lose_effect 20/20 vision => use 20 d20
