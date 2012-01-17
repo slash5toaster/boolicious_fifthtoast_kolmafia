@@ -501,6 +501,46 @@ You spent 17,520 Meat
 use 219 Cherry Cloaca Cola
 You gain 1,751 Muscularity Points
 
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+use 1 Manual of Labor
+
+use 1 Chester's bag of candy
+
+use 1 Trivial Avocations board game
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+equip hat hardened slime hat
+
+equip weapon brand new key
+
+equip off-hand snake shield
+
+equip pants cane-mail pants
+
+equip acc2 Pokëmann figurine: Frank
+
+equip acc3 Slow Talkin' Elliot's dogtags
+
+buy 5 philter of phorce for 445 each from 2015495 on 20120114
+You acquire philter of phorce (5)
+
+use 1 philter of phorce
+You acquire an effect: Phorcefullness (duration: 5 Adventures)
+
+buy 1 blood of the Wereseal for 500 each from Smacketeria
+You acquire an item: blood of the Wereseal
+You spent 500 Meat
+
+use 1 blood of the Wereseal
+You acquire an effect: Temporary Lycanthropy (duration: 10 Adventures)
+=======
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
                Player Snapshot
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -2136,3 +2176,4 @@ use 1 pack of pogs
 You acquire an item: pog #09 (pirate)
 You acquire an item: pog #01 (spider)
 You acquire an item: pog #11 (Naughty Sorceress)
+>>>>>>> .r294
