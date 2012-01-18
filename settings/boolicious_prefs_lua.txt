@@ -28,7 +28,7 @@ RequestFrame=-3,-3,-1
 RequestSynchFrame=3,3,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
-StoreManageFrame=-3,-3,3
+StoreManageFrame=293,225,0
 TabbedChatFrame=780,365,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
@@ -586,7 +586,7 @@ concertVisited=true
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=5
+currentFullness=15
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -670,7 +670,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Pirate Cove
+lastAdventure=A Maze of Sewer Tunnels
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -733,7 +733,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=smarmy pirate
+lastEncounter=At Last\!
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -805,7 +805,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=13
+libramSummons=18
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -870,7 +870,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=15276\:Semirare window begin loc\=*\:lparen.gif\:15316\:Semirare window end loc\=*\:rparen.gif
+relayCounters=15316\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -942,7 +942,7 @@ telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=2
+tomeSummons=3
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
