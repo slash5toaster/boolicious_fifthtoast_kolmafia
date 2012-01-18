@@ -1666,3 +1666,1123 @@ You acquire an item: vanity stone
 You gain 21 Strongness
 You gain 14 Magicalness
 You gain 8 Roguishness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 17, 2012 - Frankruary 1
+
+Ronald: new moon
+Grimace: full moon
+Mini-moon: in back, near Ronald
+
+Valentine's Day: 3 days
+St. Sneaky Pete's Day: 10 days
+Oyster Egg Day: 17 days
+El Dia De Los Muertos Borrachos: 25 days
+Generic Summer Holiday: 34 days
+Dependence Day: 43 days
+Arrrbor Day: 51 days
+Lab&oacute;r Day: 61 days
+Halloween: 71 days
+Feast of Boris: 78 days
+Yuletide: 83 days
+Festival of Jarlsberg: 88 days
+
+
+Muscle bonus today and tomorrow.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 25
+HP: 1563 / 1,563
+MP: 865 / 912
+
+Mus: 967 (606), tnp = 452
+Mys: 559 (440), tnp = 653
+Mox: 549 (440), tnp = 855
+
+Advs: 159
+Meat: 44,989
+Drunk: 19
+
+
+ > equipment
+
+Hat: hardened slime hat
+Weapon: brand new key
+Off-hand: snake shield
+Shirt: star shirt
+Pants: cane-mail pants
+
+Acc. 1: Pokëmann figurine: Frank
+Acc. 2: cursed scrunchie
+Acc. 3: Mr. Accessory
+
+Pet: Fancypants Scarecrow (14 lbs)
+Item: trousers of the white knight
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Dis Abled (9)
+Destructive Resolve (12)
+All Wound Up (72)
+20/20 Vision (72)
+Patience of the Tortoise (148)
+♫ The Magical Mojomuscular Melody (375)
+Astral Shell (375)
+♫ The Sonata of Sneakiness (375)
+Jalapeño Saucesphere (422)
+Tenacity of the Snapper (663)
+Jabañero Saucesphere (767)
+♫ Polka of Plenty (958)
+Reptilian Fortitude (982)
+Empathy (1,022)
+Jingle Jangle Jingle (1,054)
+Scarysauce (1,158)
+Elemental Saucesphere (1,172)
+Ghostly Shell (2,358)
+Retrograde Relaxation (3,097)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +208.49%
+Item: +25.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 6 Summon Resolutions
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be luckier
+You acquire an item: resolution: be more adventurous
+
+cast 3 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 99 Adventures)
+
+[15089] The Clumsiness Grove
+Encounter: the Woeful Magnolia
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: the woeful magnolia takes 1398 damage.
+Round 2: the woeful magnolia takes 24 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: magnolia blossom
+You acquire an item: clumsiness bark
+You gain 22 Strongness
+You gain 12 Magicalness
+You gain 10 Roguishness
+
+[15090] The Clumsiness Grove
+Encounter: A Test of Your Mettle
+Took choice 563/1: Fight Boss
+choice.php?whichchoice=563&option=1&pwd
+
+[15090] The Clumsiness Grove
+Encounter: The Thorax
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: the thorax takes 10 damage.
+Round 2: the thorax takes 16 damage.
+Round 2: boolicious attacks!
+Round 3: the thorax takes 10 damage.
+Round 3: the thorax takes 16 damage.
+Round 3: boolicious attacks!
+Round 4: the thorax takes 10 damage.
+Round 4: the thorax takes 16 damage.
+Round 4: Can the monster attack you this round? Nope, nope nope! / That's because of your buddy, that cute little dope.
+Round 4: boolicious attacks!
+Round 5: the thorax takes 10 damage.
+Round 5: the thorax takes 16 damage.
+Round 5: Your familiar grabs hold of the monster -- holds tight, / which keeps it from taking its turn in this fight.
+Round 5: boolicious attacks!
+Round 6: the thorax takes 10 damage.
+Round 6: the thorax takes 16 damage.
+Round 6: Your familiar entangles the monster with vines / (or tentacles, webbing, or noodles, or spines).
+Round 6: boolicious attacks!
+Round 7: the thorax takes 10 damage.
+Round 7: the thorax takes 16 damage.
+Round 7: Can the monster attack you this round? Nope, nope nope! / That's because of your buddy, that cute little dope.
+Round 7: boolicious attacks!
+Round 8: the thorax takes 10 damage.
+Round 8: the thorax takes 16 damage.
+Round 8: Can the monster attack you this round? Nope, nope nope! / That's because of your buddy, that cute little dope.
+Round 8: boolicious attacks!
+Round 9: the thorax takes 10 damage.
+Round 9: the thorax takes 16 damage.
+Round 9: Can the monster attack you this round? Nope, nope nope! / That's because of your buddy, that cute little dope.
+Round 9: boolicious attacks!
+Round 10: the thorax takes 10 damage.
+Round 10: the thorax takes 16 damage.
+Round 10: boolicious attacks!
+Round 11: the thorax takes 10 damage.
+Round 11: the thorax takes 16 damage.
+Round 11: Your familiar entangles the monster with vines / (or tentacles, webbing, or noodles, or spines).
+Round 11: boolicious attacks!
+Round 12: the thorax takes 10 damage.
+Round 12: the thorax takes 16 damage.
+Round 12: Your familiar entangles the monster with vines / (or tentacles, webbing, or noodles, or spines).
+Round 12: boolicious attacks!
+Round 13: the thorax takes 10 damage.
+Round 13: the thorax takes 16 damage.
+Round 13: boolicious attacks!
+Round 14: the thorax takes 10 damage.
+Round 14: the thorax takes 16 damage.
+Round 14: Your familiar grabs hold, restraining your foe, / and doesn't appear to want to let go.
+Round 14: boolicious attacks!
+Round 15: the thorax takes 10 damage.
+Round 15: the thorax takes 16 damage.
+Round 15: Your familiar entangles the monster with vines / (or tentacles, webbing, or noodles, or spines).
+Round 15: boolicious attacks!
+Round 16: the thorax takes 10 damage.
+Round 16: the thorax takes 16 damage.
+Round 16: boolicious attacks!
+Round 17: the thorax takes 10 damage.
+Round 17: the thorax takes 16 damage.
+Round 17: Your familiar grabs hold of the monster -- holds tight, / which keeps it from taking its turn in this fight.
+Round 17: boolicious attacks!
+Round 18: the thorax takes 10 damage.
+Round 18: the thorax takes 16 damage.
+Round 18: Your familiar grabs hold of the monster -- holds tight, / which keeps it from taking its turn in this fight.
+Round 18: boolicious attacks!
+Round 19: the thorax takes 10 damage.
+Round 19: the thorax takes 16 damage.
+Round 19: Your familiar grabs hold, restraining your foe, / and doesn't appear to want to let go.
+Round 19: boolicious attacks!
+Round 20: the thorax takes 10 damage.
+Round 20: the thorax takes 16 damage.
+Round 20: boolicious attacks!
+Round 21: the thorax takes 10 damage.
+Round 21: the thorax takes 16 damage.
+Round 21: boolicious attacks!
+Round 22: the thorax takes 10 damage.
+Round 22: the thorax takes 16 damage.
+Round 22: boolicious attacks!
+Round 23: the thorax takes 10 damage.
+Round 23: the thorax takes 16 damage.
+Round 23: Your familiar grabs hold of the monster -- holds tight, / which keeps it from taking its turn in this fight.
+Round 23: boolicious attacks!
+Round 24: the thorax takes 10 damage.
+Round 24: the thorax takes 16 damage.
+Round 24: boolicious attacks!
+Round 25: the thorax takes 10 damage.
+Round 25: the thorax takes 16 damage.
+Round 25: Your pet grabs a foe in a wrestling lock, / holding him still so you can clean his clock.
+Round 25: boolicious attacks!
+Round 26: the thorax takes 10 damage.
+Round 26: the thorax takes 16 damage.
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 1,073 hit points
+
+[15091] The Clumsiness Grove
+Encounter: the Whimpering Willow
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 3 hit points
+Round 2: the whimpering willow takes 23 damage.
+Round 2: Your familiar grabs hold, restraining your foe, / and doesn't appear to want to let go.
+Round 2: boolicious attacks!
+Round 3: the whimpering willow takes 970 damage.
+Round 3: the whimpering willow takes 29 damage.
+Round 3: boolicious wins the fight!
+Your familiar gains a pound: Heckel &amp; Jeckyl, the 5 lb. Fancypants Scarecrow
+You acquire an item: clumsiness bark
+You gain 27 Strongness
+You gain 8 Magicalness
+You gain 9 Roguishness
+
+[15092] The Clumsiness Grove
+Encounter: the Tormented Baobab
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: the tormented baobab takes 972 damage.
+Round 2: the tormented baobab takes 30 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: clumsiness bark
+You gain 22 Strongness
+You gain 5 Magicalness
+You gain 17 Roguishness
+
+[15093] The Clumsiness Grove
+Encounter: the Woeful Magnolia
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: the woeful magnolia takes 981 damage.
+Round 2: the woeful magnolia takes 21 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: clumsiness bark
+You gain 26 Strongness
+You gain 14 Magicalness
+You gain 4 Roguishness
+
+[15094] The Clumsiness Grove
+Encounter: the Suffering Juniper
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: the suffering juniper takes 1506 damage.
+Round 2: Your familiar did something, just what I'm not sure. / Did it pick you a flower, or spit on the floor?
+Round 2: the suffering juniper takes 28 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: clumsiness bark
+You gain 32 Strongness
+You gain 8 Magicalness
+You gain 7 Roguishness
+
+[15095] The Clumsiness Grove
+Encounter: the Sorrowful Hickory
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: the sorrowful hickory takes 1538 damage.
+Round 2: the sorrowful hickory takes 33 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: clumsiness bark
+You gain 32 Strongness
+You gain 6 Magicalness
+You gain 9 Roguishness
+
+[15096] The Clumsiness Grove
+Encounter: The Thorax
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: the thorax takes 10 damage.
+Round 2: the thorax takes 16 damage.
+Round 2: Can the monster attack you this round? Nope, nope nope! / That's because of your buddy, that cute little dope.
+Round 2: boolicious attacks!
+Round 3: the thorax takes 10 damage.
+Round 3: the thorax takes 16 damage.
+Round 3: Your pet grabs a foe in a wrestling lock, / holding him still so you can clean his clock.
+Round 3: boolicious attacks!
+Round 4: the thorax takes 10 damage.
+Round 4: the thorax takes 16 damage.
+Round 4: Your familiar entangles the monster with vines / (or tentacles, webbing, or noodles, or spines).
+Round 4: boolicious attacks!
+Round 5: the thorax takes 10 damage.
+Round 5: the thorax takes 16 damage.
+Round 5: Can the monster attack you this round? Nope, nope nope! / That's because of your buddy, that cute little dope.
+Round 5: boolicious attacks!
+Round 6: the thorax takes 10 damage.
+Round 6: the thorax takes 16 damage.
+Round 6: Your familiar entangles the monster with vines / (or tentacles, webbing, or noodles, or spines).
+Round 6: boolicious attacks!
+Round 7: the thorax takes 10 damage.
+Round 7: the thorax takes 16 damage.
+Round 7: Your familiar grabs hold of the monster -- holds tight, / which keeps it from taking its turn in this fight.
+Round 7: boolicious attacks!
+Round 8: the thorax takes 10 damage.
+Round 8: the thorax takes 16 damage.
+Round 8: boolicious attacks!
+Round 9: the thorax takes 10 damage.
+Round 9: the thorax takes 16 damage.
+Round 9: boolicious attacks!
+Round 10: the thorax takes 10 damage.
+Round 10: the thorax takes 16 damage.
+Round 10: boolicious attacks!
+Round 11: the thorax takes 10 damage.
+Round 11: the thorax takes 16 damage.
+Round 11: Your familiar grabs hold of the monster -- holds tight, / which keeps it from taking its turn in this fight.
+Round 11: boolicious attacks!
+Round 12: the thorax takes 10 damage.
+Round 12: the thorax takes 16 damage.
+Round 12: Can the monster attack you this round? Nope, nope nope! / That's because of your buddy, that cute little dope.
+Round 12: boolicious attacks!
+Round 13: the thorax takes 10 damage.
+Round 13: the thorax takes 16 damage.
+Round 13: boolicious attacks!
+Round 14: the thorax takes 10 damage.
+Round 14: the thorax takes 16 damage.
+Round 14: Can the monster attack you this round? Nope, nope nope! / That's because of your buddy, that cute little dope.
+Round 14: boolicious attacks!
+Round 15: the thorax takes 10 damage.
+Round 15: the thorax takes 16 damage.
+Round 15: boolicious attacks!
+Round 16: the thorax takes 10 damage.
+Round 16: the thorax takes 16 damage.
+Round 16: boolicious attacks!
+Round 17: the thorax takes 10 damage.
+Round 17: the thorax takes 16 damage.
+Round 17: Your familiar grabs hold, restraining your foe, / and doesn't appear to want to let go.
+Round 17: boolicious attacks!
+Round 18: the thorax takes 10 damage.
+Round 18: the thorax takes 16 damage.
+Round 18: boolicious attacks!
+Round 19: the thorax takes 10 damage.
+Round 19: the thorax takes 16 damage.
+Round 19: Can the monster attack you this round? Nope, nope nope! / That's because of your buddy, that cute little dope.
+Round 19: boolicious attacks!
+Round 20: the thorax takes 10 damage.
+Round 20: the thorax takes 16 damage.
+Round 20: Your familiar grabs hold of the monster -- holds tight, / which keeps it from taking its turn in this fight.
+Round 20: boolicious attacks!
+Round 21: the thorax takes 10 damage.
+Round 21: the thorax takes 16 damage.
+Round 21: Can the monster attack you this round? Nope, nope nope! / That's because of your buddy, that cute little dope.
+Round 21: boolicious attacks!
+Round 22: the thorax takes 10 damage.
+Round 22: the thorax takes 16 damage.
+Round 22: Can the monster attack you this round? Nope, nope nope! / That's because of your buddy, that cute little dope.
+Round 22: boolicious attacks!
+Round 23: the thorax takes 10 damage.
+Round 23: the thorax takes 16 damage.
+Round 23: Your familiar entangles the monster with vines / (or tentacles, webbing, or noodles, or spines).
+Round 23: boolicious attacks!
+You lose 18 hit points
+Round 24: the thorax takes 16 damage.
+Round 24: Your familiar entangles the monster with vines / (or tentacles, webbing, or noodles, or spines).
+Round 24: boolicious attacks!
+Round 25: the thorax takes 10 damage.
+Round 25: the thorax takes 16 damage.
+Round 25: Your pet grabs a foe in a wrestling lock, / holding him still so you can clean his clock.
+Round 25: boolicious attacks!
+Round 26: the thorax takes 10 damage.
+Round 26: the thorax takes 16 damage.
+
+use 1 Medicinal Herb's medicinal herbs
+
+use 1 scroll of drastic healing
+
+uneffect Beaten Up
+unequip weapon
+unequip offhand
+
+equip shirt General Sage's Lonely Diamonds Club Jacket
+
+equip acc1 fudgecycle
+
+equip acc2 time halo
+
+equip acc3 wristwatch of the white knight
+
+use 1 resolution: be more adventurous
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 5 sammich crusts
+
+equip hat miner's helmet
+
+equip shirt cane-mail shirt
+
+equip pants The Necbromancer's Shorts
+
+equip acc1 Baron von Ratsworth's monocle
+
+equip acc2 frosty halo
+
+equip acc3 Zinc Delta of Tranquility
+
+equip pants Knob Goblin Uberpants
+
+use 1 bottle of bubbles
+You acquire an effect: Bubble Vision (duration: 100 Adventures)
+
+use 1 resolution: be happier
+You acquire an effect: Joyful Resolve (duration: 20 Adventures)
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+friars blessing 3
+You acquire an effect: Brother Smothers's Blessing (duration: 20 Adventures)
+
+buy 1 Knob Goblin eyedrops for 200 each from 1945689 on 20120117
+You acquire an item: Knob Goblin eyedrops
+
+use 1 Knob Goblin eyedrops
+You acquire an effect: Peeled Eyeballs (duration: 10 Adventures)
+
+[15097] Orc Chasm
+Encounter: Anime Smiley
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: anime smiley takes 179 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: Tasty Fun Good rice candy
+You gain 13 Beefiness
+You gain 9 Mysteriousness
+You gain 6 Roguishness
+
+[15098] Orc Chasm
+Encounter: 1335 HaXx0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: 1335 haxx0r takes 174 damage.
+Round 2: boolicious wins the fight!
+You gain 57 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: 1337 7r0uZ0RZ
+You acquire an item: Dyspepsi-Cola
+You gain 15 Strengthliness
+You gain 9 Magicalness
+You gain 4 Smarm
+
+[15099] Orc Chasm
+Encounter: XXX pr0n
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles him, holding him down for a round.
+Round 2: boolicious attacks!
+Round 3: xxx pr0n takes 195 damage.
+Round 3: boolicious wins the fight!
+You gain 54 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: pr0n legs
+You acquire an item: f3d0r4
+You acquire an item: lowercase N
+You gain 17 Strengthliness
+You gain 4 Wizardliness
+You gain 6 Roguishness
+
+[15100] Orc Chasm
+Encounter: Lamz0r N00b
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lamz0r n00b takes 183 damage.
+Round 2: boolicious wins the fight!
+You gain 50 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 17 Fortitude
+You gain 9 Magicalness
+You gain 3 Sarcasm
+
+[15101] Orc Chasm
+Encounter: 1335 HaXx0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: 1335 haxx0r takes 143 damage.
+Round 2: boolicious wins the fight!
+You gain 50 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: Dyspepsi-Cola
+You acquire an item: 334 scroll
+You gain 21 Beefiness
+You gain 6 Wizardliness
+You gain 4 Smarm
+
+[15102] Orc Chasm
+Encounter: Flaming Troll
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: flaming troll takes 150 damage.
+Round 2: boolicious wins the fight!
+You gain 73 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: Trollhouse cookies
+You acquire an item: flaming talons
+You gain 22 Fortitude
+You gain 7 Wizardliness
+You gain 2 Roguishness
+
+[15103] Orc Chasm
+Encounter: me4t begZ0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: me4t begz0r takes 145 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Heckel &amp; Jeckyl, the 6 lb. Fancypants Scarecrow
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat vortex
+You gain 19 Fortitude
+You gain 4 Magicalness
+You gain 8 Chutzpah
+
+[15104] Orc Chasm
+Encounter: rampaging adding machine
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the 334 scroll!
+Round 2: boolicious uses the 334 scroll!
+You acquire an item: 668 scroll
+Round 3: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles it, holding it down for a round.
+Round 3: boolicious attacks!
+Round 4: rampaging adding machine takes 156 damage.
+Round 4: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 19 Beefiness
+You gain 3 Mysteriousness
+You gain 7 Chutzpah
+
+[15105] Orc Chasm
+Encounter: XXX pr0n
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: xxx pr0n takes 167 damage.
+Round 2: boolicious wins the fight!
+You gain 50 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: pr0n legs
+You acquire an item: f3d0r4
+You acquire an item: lowercase N
+You gain 14 Muscleboundness
+You gain 11 Wizardliness
+You gain 2 Chutzpah
+
+[15106] Orc Chasm
+Encounter: Lamz0r N00b
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lamz0r n00b takes 153 damage.
+Round 2: boolicious wins the fight!
+You gain 57 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: 33398 scroll
+You gain 17 Strongness
+You gain 3 Enchantedness
+You gain 8 Roguishness
+
+[15107] Orc Chasm
+Encounter: Flaming Troll
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: flaming troll takes 157 damage.
+Round 2: boolicious wins the fight!
+You gain 85 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: Trollhouse cookies
+You gain 21 Fortitude
+You gain 7 Mysteriousness
+You gain 4 Sarcasm
+
+[15108] Orc Chasm
+Encounter: 1335 HaXx0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: 1335 haxx0r takes 160 damage.
+Round 2: boolicious wins the fight!
+You gain 60 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: Dyspepsi-Cola
+You acquire an item: 334 scroll
+You gain 18 Muscleboundness
+You gain 9 Wizardliness
+You gain 3 Chutzpah
+
+[15109] Orc Chasm
+Encounter: me4t begZ0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: me4t begz0r takes 150 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat vortex
+You gain 18 Beefiness
+You gain 10 Magicalness
+You gain 4 Cheek
+
+[15110] Orc Chasm
+Encounter: 1335 HaXx0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: 1335 haxx0r takes 166 damage.
+Round 2: boolicious wins the fight!
+You gain 60 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: 1337 7r0uZ0RZ
+You acquire an item: Dyspepsi-Cola
+You acquire an item: 334 scroll
+You gain 15 Strengthliness
+You gain 9 Magicalness
+You gain 5 Sarcasm
+
+[15111] Orc Chasm
+Encounter: XXX pr0n
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: xxx pr0n takes 169 damage.
+Round 2: boolicious wins the fight!
+You gain 60 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: pr0n legs
+You acquire an item: f3d0r4
+You acquire an item: lowercase N
+You gain 14 Fortitude
+You gain 6 Wizardliness
+You gain 8 Smarm
+
+[15112] Orc Chasm
+Encounter: rampaging adding machine
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the 334 scroll!
+Round 2: boolicious uses the 334 scroll!
+You acquire an item: 668 scroll
+Round 3: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles it, holding it down for a round.
+Round 3: boolicious attacks!
+Round 4: rampaging adding machine takes 167 damage.
+Round 4: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 18 Muscleboundness
+You gain 3 Mysteriousness
+You gain 9 Chutzpah
+
+equip pants astral shorts
+
+equip hat sugar chapeau
+
+[15113] Orc Chasm
+Encounter: rampaging adding machine
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: rampaging adding machine takes 170 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 15 Fortitude
+You gain a Muscle point!
+You gain 6 Mysteriousness
+You gain 8 Chutzpah
+
+[15114] Orc Chasm
+Encounter: Spam Witch
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spam witch takes 166 damage.
+Round 2: boolicious wins the fight!
+You gain 54 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: Spam Witch sammich
+You acquire an item: sammich crust
+You gain 15 Muscleboundness
+You gain 8 Mysteriousness
+You gain 7 Roguishness
+
+[15115] Orc Chasm
+Encounter: me4t begZ0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles him, holding him down for a round.
+Round 2: boolicious attacks!
+Round 3: me4t begz0r takes 165 damage.
+Round 3: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat vortex
+You gain 18 Beefiness
+You gain 8 Magicalness
+You gain 5 Chutzpah
+
+[15116] Orc Chasm
+Encounter: Bad ASCII Art
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bad ascii art takes 165 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Heckel &amp; Jeckyl, the 7 lb. Fancypants Scarecrow
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: ASCII shirt
+You acquire an item: 30669 scroll
+You acquire an item: 33398 scroll
+You acquire an item: 334 scroll
+You acquire an item: 334 scroll
+You gain 18 Beefiness
+You gain 4 Wizardliness
+You gain 9 Roguishness
+
+[15117] Orc Chasm
+Encounter: XXX pr0n
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: xxx pr0n takes 179 damage.
+Round 2: boolicious wins the fight!
+You gain 58 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: pr0n legs
+You acquire an item: lowercase N
+You gain 14 Strengthliness
+You gain 9 Wizardliness
+You gain 5 Roguishness
+
+[15118] Orc Chasm
+Encounter: 1335 HaXx0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: 1335 haxx0r takes 174 damage.
+Round 2: boolicious wins the fight!
+You gain 64 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: Dyspepsi-Cola
+You acquire an item: 334 scroll
+You gain 22 Fortitude
+You gain 5 Magicalness
+You gain 4 Chutzpah
+
+[15119] Orc Chasm
+Encounter: Spam Witch
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spam witch takes 167 damage.
+Round 2: boolicious wins the fight!
+You gain 54 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: Spam Witch sammich
+You acquire an item: 30669 scroll
+You acquire an item: sammich crust
+You gain 17 Strengthliness
+You gain 5 Enchantedness
+You gain 9 Smarm
+
+[15120] Orc Chasm
+Encounter: Flaming Troll
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: flaming troll takes 173 damage.
+Round 2: boolicious wins the fight!
+You gain 87 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: Trollhouse cookies
+You acquire an item: flaming talons
+You gain 22 Muscleboundness
+You gain 5 Wizardliness
+You gain 6 Smarm
+
+[15121] Orc Chasm
+Encounter: Lamz0r N00b
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lamz0r n00b takes 190 damage.
+Round 2: boolicious wins the fight!
+You gain 48 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: draggin' ball hat
+You gain 19 Strengthliness
+You gain 3 Wizardliness
+You gain 7 Cheek
+
+[15122] Orc Chasm
+Encounter: XXX pr0n
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: xxx pr0n takes 194 damage.
+Round 2: boolicious wins the fight!
+You gain 60 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: pr0n legs
+You acquire an item: lowercase N
+You gain 18 Muscleboundness
+You gain 2 Mysteriousness
+You gain 8 Chutzpah
+
+[15123] Orc Chasm
+Encounter: me4t begZ0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: me4t begz0r takes 169 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat vortex
+You gain 22 Fortitude
+You gain 6 Magicalness
+You gain 5 Sarcasm
+You acquire an item: sugar shard (3)
+
+[15124] Orc Chasm
+Encounter: 1335 HaXx0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: 1335 haxx0r takes 189 damage.
+Round 2: boolicious wins the fight!
+You gain 62 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: Dyspepsi-Cola
+You acquire an item: 334 scroll
+You gain 13 Fortitude
+You gain 11 Magicalness
+You gain 5 Sarcasm
+
+equip hat miner's helmet
+
+use 1 resolution: be happier
+You acquire an effect: Joyful Resolve (duration: 20 Adventures)
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+[15125] Orc Chasm
+Encounter: Spam Witch
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spam witch takes 186 damage.
+Round 2: boolicious wins the fight!
+You gain 68 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: Spam Witch sammich
+You acquire an item: 30669 scroll
+You acquire an item: sammich crust
+You gain 17 Muscleboundness
+You gain 6 Enchantedness
+You gain 8 Roguishness
+
+[15126] Orc Chasm
+Encounter: rampaging adding machine
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the 334 scroll!
+Round 2: boolicious uses the 334 scroll!
+You acquire an item: 668 scroll
+Round 3: boolicious uses the 334 scroll!
+Round 4: boolicious uses the 334 scroll!
+You acquire an item: 668 scroll
+Round 5: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles it, holding it down for a round.
+Round 5: boolicious attacks!
+Round 6: rampaging adding machine takes 194 damage.
+Round 6: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 19 Beefiness
+You gain 6 Wizardliness
+You gain 5 Smarm
+
+[15127] Orc Chasm
+Encounter: Lamz0r N00b
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: lamz0r n00b takes 203 damage.
+Round 2: boolicious wins the fight!
+You gain 58 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: 33398 scroll
+You gain 21 Beefiness
+You gain 5 Mysteriousness
+You gain 6 Cheek
+
+[15128] Orc Chasm
+Encounter: Anime Smiley
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: anime smiley takes 205 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: Tasty Fun Good rice candy
+You acquire an item: 334 scroll
+You gain 17 Muscleboundness
+You gain 8 Enchantedness
+You gain 4 Cheek
+
+[15129] Orc Chasm
+Encounter: me4t begZ0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: me4t begz0r takes 183 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat vortex
+You gain 15 Muscleboundness
+You gain 10 Mysteriousness
+You gain 7 Sarcasm
+
+[15130] Orc Chasm
+Encounter: XXX pr0n
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: xxx pr0n takes 211 damage.
+Round 2: boolicious wins the fight!
+You gain 62 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: pr0n legs
+You acquire an item: f3d0r4
+You acquire an item: lowercase N
+You gain 15 Strengthliness
+You gain 7 Mysteriousness
+You gain 6 Chutzpah
+
+[15131] Orc Chasm
+Encounter: Spam Witch
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spam witch takes 196 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Heckel &amp; Jeckyl, the 8 lb. Fancypants Scarecrow
+You gain 48 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: Spam Witch sammich
+You acquire an item: 30669 scroll
+You acquire an item: sammich crust
+You gain 19 Strengthliness
+You gain 6 Magicalness
+You gain 6 Roguishness
+
+[15132] Orc Chasm
+Encounter: XXX pr0n
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: xxx pr0n takes 212 damage.
+Round 2: boolicious wins the fight!
+You gain 52 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: pr0n legs
+You acquire an item: lowercase N
+You gain 18 Strengthliness
+You gain 4 Mysteriousness
+You gain 6 Smarm
+
+[15133] Orc Chasm
+Encounter: rampaging adding machine
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: rampaging adding machine takes 204 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 21 Beefiness
+You gain 3 Enchantedness
+You gain 7 Cheek
+
+[15134] Orc Chasm
+Encounter: me4t begZ0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: me4t begz0r takes 188 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat vortex
+You gain 15 Strengthliness
+You gain 5 Enchantedness
+You gain 10 Cheek
+
+[15135] Orc Chasm
+Encounter: Anime Smiley
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: anime smiley takes 212 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: Tasty Fun Good rice candy
+You acquire an item: 334 scroll
+You gain 21 Fortitude
+You gain 2 Wizardliness
+You gain 7 Chutzpah
+
+[15136] Orc Chasm
+Encounter: Spam Witch
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spam witch takes 199 damage.
+Round 2: boolicious wins the fight!
+You gain 66 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: Spam Witch sammich
+You acquire an item: 30669 scroll
+You acquire an item: sammich crust
+You gain 18 Beefiness
+You gain 6 Enchantedness
+You gain 8 Chutzpah
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+equip shirt General Sage's Lonely Diamonds Club Jacket
+
+equip acc1 fudgecycle
+
+equip acc2 time halo
+
+equip acc3 wristwatch of the white knight
+
+equip pants trousers of the white knight
