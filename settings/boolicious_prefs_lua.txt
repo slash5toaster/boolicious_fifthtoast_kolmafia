@@ -18,7 +18,7 @@ ItemManageFrame=592,332,-1
 KoLDesktop=202,132,-1
 LoginFrame=409,276,0
 MailboxFrame=289,310,1
-MaximizerFrame=504,325
+MaximizerFrame=639,292
 MeatManageFrame=475,375
 MushroomFrame=305,324,1
 OptionsFrame=354,275,8
@@ -28,8 +28,8 @@ RequestFrame=-3,-3,-1
 RequestSynchFrame=3,3,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
-StoreManageFrame=293,225,0
-TabbedChatFrame=780,68,0
+StoreManageFrame=-3,-3,0
+TabbedChatFrame=780,68,3
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -39,7 +39,7 @@ _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
 _bagOfCandy=false
-_ballpit=false
+_ballpit=true
 _banderRunaways=0
 _benettonsCasts=0
 _bonersSummoned=false
@@ -582,11 +582,11 @@ choiceAdventure91=2
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=false
+concertVisited=true
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=9
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -594,7 +594,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=1
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -670,7 +670,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Cobb's Knob Treasury
+lastAdventure=The Maelstrom of Lovers
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -733,7 +733,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=Finally, the Payoff
+lastEncounter=The Thing with No Name
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -805,7 +805,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=16
+libramSummons=17
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -937,12 +937,12 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=false
+telescopeLookedHigh=true
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=0
+tomeSummons=2
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
