@@ -637,7 +637,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Hey Deze Arena
+lastAdventure=Cobb's Knob Treasury
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -699,7 +699,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=inkubus
+lastEncounter=Just Tryin' to Get Paid
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
