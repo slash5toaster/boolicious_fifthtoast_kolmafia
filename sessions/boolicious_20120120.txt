@@ -1318,3 +1318,1288 @@ send a kmail to wadbot: 4 cold powder, 1 hot nuggets, 12 magic whistle, 1 pat-a-
 send a kmail to wadbot: 1 sleaze nuggets, 2 sleaze powder, 1 spooky powder, 1 stench nuggets, 3 stuffed shoulder parrot, 3 swashbuckling pants, 1 twinkly nuggets, 8 twinkly powder, 1 viking helmet, 8 vorpal blade, 1 wolf mask
 
 send a kmail to wadbot: 1 wool hat
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 20, 2012 - Frankruary 4
+
+Ronald: waxing gibbous
+Grimace: waning gibbous
+Mini-moon: in front of Grimace, L side
+
+Valentine's Day: today
+St. Sneaky Pete's Day: 7 days
+Oyster Egg Day: 14 days
+El Dia De Los Muertos Borrachos: 22 days
+Generic Summer Holiday: 31 days
+Dependence Day: 40 days
+Arrrbor Day: 48 days
+Lab&oacute;r Day: 58 days
+Halloween: 68 days
+Feast of Boris: 75 days
+Yuletide: 80 days
+Festival of Jarlsberg: 85 days
+
+Valentine's Day
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 25
+HP: 1360 / 1,360
+MP: 310 / 1,066
+
+Mus: 772 (623), tnp = 475
+Mys: 557 (449), tnp = 701
+Mox: 547 (449), tnp = 537
+
+Advs: 153
+Meat: 99,630
+Drunk: 0
+
+
+ > equipment
+
+Hat: miner's helmet
+Weapon: Flail of the Seven Aspects
+Off-hand: stress ball
+Shirt: cane-mail shirt
+Pants: cane-mail pants
+
+Acc. 1: cursed scrunchie
+Acc. 2: Baron von Ratsworth's monocle
+Acc. 3: Zinc Delta of Tranquility
+
+Pet: Fancypants Scarecrow (11 lbs)
+Item: Knob Goblin Uberpants
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Object Detection (5)
+Salamanderenity (21)
+Patience of the Tortoise (66)
+Bubble Vision (74)
+20/20 Vision (181)
+♫ The Sonata of Sneakiness (311)
+♫ The Magical Mojomuscular Melody (311)
+Astral Shell (311)
+Jalapeño Saucesphere (358)
+Tenacity of the Snapper (599)
+Jabañero Saucesphere (703)
+♫ Polka of Plenty (894)
+Reptilian Fortitude (918)
+Empathy (958)
+Jingle Jangle Jingle (990)
+Scarysauce (1,094)
+Elemental Saucesphere (1,108)
+Ghostly Shell (2,294)
+Retrograde Relaxation (2,658)
+
+
+ > modifiers
+
+ML: +20
+Enc: -5.00%
+Init: +0.00%
+
+Exp: +2.50
+Meat: +95.00%
+Item: +152.60%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+game.php?mainpane=messages
+
+[15528] Summoning Chamber
+
+buy 1 disintegrating quill pen for 100 each from 1776531 on 20120120
+You acquire an item: disintegrating quill pen
+
+buy 1 inkwell for 250 each from 182644 on 20120120
+You acquire an item: inkwell
+
+Use 1 disintegrating quill pen + 1 inkwell + 1 tattered scrap of paper
+You acquire an item: scroll of ancient forbidden unspeakable evil
+summon Red'Nyakel
+You acquire an item: cherry pie
+You acquire an item: strawberry pie
+You acquire an item: lemon meringue pie
+
+drink 2 Barulio's bottle
+You gain 12 Adventures
+You gain 4 Muscleboundness
+You gain 17 Enchantedness
+You gain 10 Cheek
+You gain 4 Drunkenness
+You gain 12 Adventures
+You gain 2 Strengthliness
+You gain 16 Enchantedness
+You gain 10 Smarm
+You gain 4 Drunkenness
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[15529] Mix 2 bottle of whiskey + 2 peppermint twist
+You acquire Mint Yulep (2)
+Crafting used 2 each of bottle of whiskey and peppermint twist
+
+drink 2 Mint Yulep
+You gain 10 Adventures
+You gain 31 Muscleboundness
+You gain 10 Magicalness
+You gain 14 Cheek
+You gain 2 Drunkenness
+You gain 12 Adventures
+You gain 53 Muscleboundness
+You gain 18 Magicalness
+You gain 15 Cheek
+You gain 2 Drunkenness
+
+equip acc3 Lord Spookyraven's ear trumpet
+unequip weapon
+unequip offhand
+
+equip pants The Necbromancer's Shorts
+
+equip pants The Necbromancer's Shorts
+
+equip acc1 frosty halo
+
+use 1 resolution: be happier
+You acquire an effect: Joyful Resolve (duration: 20 Adventures)
+friars blessing 3
+
+cast 1 Summon Clip Art
+You acquire an item: cool jelly donut
+
+Use 1 bat guano
+You acquire an item: guano coffee cup
+
+Cook 1 guano coffee cup + 1 herbs
+You acquire an item: hippy herbal tea
+Crafting used 1 each of guano coffee cup and herbs
+
+Use 2 peppermint sprout
+You acquire an item: peppermint patty
+
+cast 1 Summon Clip Art
+You acquire an item: thyme jelly donut
+
+Use 1 bat guano
+You acquire an item: guano coffee cup
+
+Cook 1 guano coffee cup + 1 herbs
+You acquire an item: hippy herbal tea
+Crafting used 1 each of guano coffee cup and herbs
+
+eat 1 peppermint patty
+You gain 11 Adventures
+You gain 11 Muscleboundness
+You gain 18 Enchantedness
+You gain 14 Smarm
+You gain 2 Fullness
+
+eat 1 cherry pie
+You gain 7 Adventures
+You gain 8 Mysteriousness
+You gain 3 Fullness
+
+Cook 1 bird rib + 1 lion oil
+You acquire an item: wet stew
+Crafting used 1 each of bird rib and lion oil
+
+eat 1 wet stew
+You gain 12 Adventures
+You gain 22 Fortitude
+You gain 6 Fullness
+
+mallsell: 6 disassembled clover
+
+manageprices.php?action=update&price5254=6600&limit5254=0&price5252=6400&limit5252=0&price5253=3300&limit5253=0&price2981=2500&limit2981=0&price5259=2450&limit5259=0&price258=2000&limit258=1&price196=1450&limit196=1&price594=410&limit594=0&price2687=400&limit2687=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price703=250&limit703=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price5093=200&limit5093=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price1866=186&limit1866=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price240=160&limit240=0&price218=155&limit218=0&price2613=155&limit2613=0&price2055=150&limit2055=0&price352=150&limit352=0&price475=130&limit475=0&price432=120&limit432=0&price431=120&limit431=0&price1655=120&limit1655=0&price1160=110&limit1160=0&price120=100&limit120=0&price634=100&limit634=0&price166=100&limit166=0&price123=100&limit123=0&price1750=100&limit1750=0&price1751=100&limit1751=0&price3=100&limit3=0&price4719=100&limit4719=0&price38=100&limit38=0&price36=100&limit36=0&price4718=100&limit4718=0&price5=100&limit5=0&price6=100&limit6=0&price1=100&limit1=0&price77=100&limit77=0&price119=100&limit119=0&price21=100&limit21=0&price129=100&limit129=0&price136=100&limit136=0&price269=100&limit269=0
+
+use 1 deodorant
+You acquire an effect: Fresh Scent (duration: 10 Adventures)
+
+equip acc2 ring of conflict
+
+use 1 bottle of bubbles
+You acquire an effect: Bubble Vision (duration: 100 Adventures)
+
+use 1 bottle of bubbles
+You acquire an effect: Bubble Vision (duration: 100 Adventures)
+
+uneffect Bubble Vision
+
+use 1 bottle of bubbles
+You acquire an effect: Bubble Vision (duration: 100 Adventures)
+
+buy 1 Knob Goblin eyedrops for 200 each from 1945689 on 20120120
+You acquire an item: Knob Goblin eyedrops
+
+use 1 Knob Goblin eyedrops
+You acquire an effect: Peeled Eyeballs (duration: 10 Adventures)
+
+[15530] Spooky Forest
+Encounter: wolfman
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wolfman takes 155 damage.
+Round 2: boolicious wins the fight!
+You gain 17 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 4 Muscleboundness
+You gain 2 Sarcasm
+
+[15531] Spooky Forest
+Encounter: spooky vampire
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky vampire takes 153 damage.
+Round 2: boolicious wins the fight!
+You gain 8 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 3 Beefiness
+You gain 2 Magicalness
+You gain 1 Sarcasm
+
+[15532] Spooky Forest
+Encounter: bar
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bar takes 154 damage.
+Round 2: boolicious wins the fight!
+You gain 26 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: bar skin
+You gain 3 Strengthliness
+You gain 3 Magicalness
+
+[15533] Spooky Forest
+Encounter: spooky vampire
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles him, holding him down for a round.
+Round 2: boolicious attacks!
+Round 3: spooky vampire takes 153 damage.
+Round 3: boolicious wins the fight!
+You gain 10 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: vampire cape
+You gain 3 Magicalness
+You gain 2 Cheek
+
+[15534] Spooky Forest
+Encounter: warwelf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warwelf takes 154 damage.
+Round 2: boolicious wins the fight!
+You gain 19 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 4 Strongness
+You gain 1 Wizardliness
+You gain 1 Roguishness
+
+[15535] Spooky Forest
+Encounter: triffid
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: triffid takes 152 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: moxie weed
+You acquire an item: spooky stick
+You gain 3 Beefiness
+You gain 2 Magicalness
+You gain 1 Smarm
+
+[15536] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/2: gain mosquito larva or spooky mushrooms, skip adventure, get stats or fight a vampire
+choice.php?pwd&whichchoice=502&option=2&choiceform2=Explore+the+stream
+Encounter: Consciousness of a Stream
+Took choice 505/3: fight a spooky vampire
+choice.php?pwd&whichchoice=505&option=3&choiceform3=Go+further+upstream
+Encounter: An Interesting Choice
+Took choice 46/3: vampire heart
+choice.php?pwd&whichchoice=46&option=3&choiceform3=%E2%86%92+Inter+the+vampire
+Encounter: spooky vampire
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the whimpering willow bark!
+You gain 1 hit point
+Round 2: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles him, holding him down for a round.
+Round 2: boolicious attacks!
+Round 3: spooky vampire takes 153 damage.
+Round 3: boolicious wins the fight!
+You gain 10 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 4 Muscleboundness
+You gain 2 Sarcasm
+
+[15537] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and get wooden stakes, sell bar skins (1) or buy a spooky sapling (0)
+choice.php?pwd&whichchoice=502&option=1&choiceform1=Follow+the+old+road
+Encounter: The Road Less Traveled
+Took choice 503/2: gain stakes or trade vampire hearts
+choice.php?pwd&whichchoice=503&option=2&choiceform2=Knock+on+the+cottage+door
+
+[15537] Spooky Forest
+Encounter: spooky mummy
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spooky mummy takes 154 damage.
+Round 2: boolicious wins the fight!
+You gain 17 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 6 Fortitude
+
+[15538] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and get wooden stakes, sell bar skins (1) or buy a spooky sapling (0)
+choice.php?pwd&whichchoice=502&option=1&choiceform1=Follow+the+old+road
+Encounter: The Road Less Traveled
+Took choice 503/1: gain some meat
+choice.php?pwd&whichchoice=503&option=1&choiceform1=Follow+the+ruts
+You gain 46 Meat
+
+[15539] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and get wooden stakes, sell bar skins (1) or buy a spooky sapling (0)
+choice.php?pwd&whichchoice=502&option=1&choiceform1=Follow+the+old+road
+Encounter: The Road Less Traveled
+Took choice 503/3: gain spooky sapling or trade bar skins
+choice.php?pwd&whichchoice=503&option=3&choiceform3=Talk+to+the+hunter
+Encounter: Tree's Last Stand
+Took choice 504/1: bar skin
+choice.php?pwd&whichchoice=504&option=1&choiceform1=%E2%86%92+Sell+him+a+bar+skin+for+75+Meat
+Encounter: Tree's Last Stand
+You gain 75 Meat
+Took choice 504/4: skip adventure
+choice.php?pwd&whichchoice=504&option=4&choiceform4=%E2%86%92+Take+your+leave
+
+[15540] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and get wooden stakes, sell bar skins (0) or buy a spooky sapling (0)
+choice.php?pwd&whichchoice=502&option=1&choiceform1=Follow+the+old+road
+Encounter: The Road Less Traveled
+Took choice 503/2: gain stakes or trade vampire hearts
+choice.php?pwd&whichchoice=503&option=2&choiceform2=Knock+on+the+cottage+door
+
+[15540] Spooky Forest
+Encounter: spooky vampire
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky vampire takes 153 damage.
+Round 2: boolicious wins the fight!
+You gain 7 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 5 Strengthliness
+You gain 1 Mysteriousness
+You gain 1 Chutzpah
+
+[15541] Spooky Forest
+Encounter: warwelf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warwelf takes 154 damage.
+Round 2: boolicious wins the fight!
+You gain 19 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 3 Muscleboundness
+You gain 1 Mysteriousness
+You gain 3 Roguishness
+
+[15542] Spooky Forest
+Encounter: wolfman
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wolfman takes 154 damage.
+Round 2: boolicious wins the fight!
+You gain 17 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 4 Muscleboundness
+You gain 2 Roguishness
+
+[15543] Spooky Forest
+Encounter: spooky mummy
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky mummy takes 153 damage.
+Round 2: boolicious wins the fight!
+You gain 21 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 4 Muscleboundness
+You gain 1 Wizardliness
+You gain 2 Chutzpah
+
+[15544] Spooky Forest
+Encounter: bar
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bar takes 154 damage.
+Round 2: boolicious wins the fight!
+You gain 33 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: bar skin
+You gain 4 Strongness
+You gain 2 Roguishness
+
+[15545] Spooky Forest
+Encounter: spooky vampire
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky vampire takes 153 damage.
+Round 2: boolicious wins the fight!
+You gain 9 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: vampire cape
+You gain 2 Muscleboundness
+You gain 3 Mysteriousness
+You gain 2 Sarcasm
+
+[15546] Spooky Forest
+Encounter: triffid
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: triffid takes 152 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: moxie weed
+You acquire an item: spooky stick
+You gain 4 Strengthliness
+You gain 2 Mysteriousness
+You gain 2 Smarm
+
+[15547] Spooky Forest
+Encounter: warwelf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warwelf takes 154 damage.
+Round 2: boolicious wins the fight!
+You gain 19 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 3 Strongness
+You gain 2 Enchantedness
+You gain 2 Smarm
+
+[15548] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/2: gain mosquito larva or spooky mushrooms, skip adventure, get stats or fight a vampire
+choice.php?pwd&whichchoice=502&option=2&choiceform2=Explore+the+stream
+Encounter: Consciousness of a Stream
+Took choice 505/3: fight a spooky vampire
+choice.php?pwd&whichchoice=505&option=3&choiceform3=Go+further+upstream
+Encounter: An Interesting Choice
+Took choice 46/3: vampire heart
+choice.php?pwd&whichchoice=46&option=3&choiceform3=Inter+the+vampire
+Encounter: spooky vampire
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spooky vampire takes 153 damage.
+Round 2: boolicious wins the fight!
+You gain 11 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 5 Fortitude
+You gain 1 Mysteriousness
+You gain 1 Chutzpah
+
+equip weapon wooden stakes
+
+equip acc1 Baron von Ratsworth's monocle
+
+[15549] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/2: gain mosquito larva or spooky mushrooms, skip adventure, get stats or fight a vampire
+choice.php?pwd&whichchoice=502&option=2&choiceform2=Explore+the+stream
+Encounter: Consciousness of a Stream
+Took choice 505/3: fight a spooky vampire
+choice.php?pwd&whichchoice=505&option=3&choiceform3=Go+further+upstream
+Encounter: An Interesting Choice
+Took choice 46/3: vampire heart
+choice.php?pwd&whichchoice=46&option=3&choiceform3=Inter+the+vampire
+Encounter: spooky vampire
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles him, holding him down for a round.
+Round 2: boolicious attacks!
+Round 3: spooky vampire takes 616 damage.
+Round 3: boolicious wins the fight!
+You gain 7 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: vampire heart
+You gain 6 Muscleboundness
+You gain 1 Mysteriousness
+
+[15550] Wartime Sonofa Beach
+Encounter: Beach Blanket Yahtzee
+You gain 35 Roguishness
+
+[15551] Wartime Sonofa Beach
+Encounter: We Apologize To Our English Players For the Lameness of the Pun
+You acquire bottle of rum (3)
+You acquire lemon (3)
+You acquire lime (3)
+
+[15552] Wartime Sonofa Beach
+Encounter: One Man's Treasure
+You acquire valuable trinket (3)
+
+[15553] Wartime Sonofa Beach
+Encounter: Every Seashell Has a Story to Tell If You're Listening
+
+[15554] Wartime Sonofa Beach
+Encounter: Zerg Rush
+You lose 877 hit points
+
+[15555] Wartime Sonofa Beach
+Encounter: Mystical Crap
+You gain 30 Enchantedness
+
+[15556] Wartime Sonofa Beach
+Encounter: What a Maroon
+You acquire an item: goatskin umbrella
+
+[15557] Wartime Sonofa Beach
+Encounter: Forget It
+You gain 39 Muscleboundness
+
+[15558] Wartime Sonofa Beach
+Encounter: Save the Texas Prairie Chicken
+You acquire an item: wool hat
+
+[15559] Wartime Sonofa Beach
+Encounter: Anchors Weigh
+You gain 33 Fortitude
+
+[15560] Wartime Sonofa Beach
+Encounter: The Wake-Up Call of Kermithulhu
+You gain 35 Enchantedness
+
+[15561] Wartime Sonofa Beach
+Encounter: The Walking-Stick Rebellion
+You acquire strawberry (3)
+
+[15562] Wartime Sonofa Beach
+Encounter: One Man's Treasure
+You acquire valuable trinket (3)
+
+[15563] Wartime Sonofa Beach
+Encounter: Zerg Rush
+You lose 533 hit points
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 655 hit points
+
+[15564] Wartime Sonofa Beach
+Encounter: Beach Blanket Yahtzee
+You gain 35 Cheek
+
+[15565] Wartime Sonofa Beach
+Encounter: Forget It
+You gain 39 Strongness
+
+[15566] Wartime Sonofa Beach
+Encounter: A Latter-Day Litter Letter
+You acquire an item: scroll of pasta summoning
+You acquire an item: empty Cloaca-Cola bottle
+
+[15567] Wartime Sonofa Beach
+Encounter: We Apologize To Our English Players For the Lameness of the Pun
+You acquire bottle of rum (3)
+You acquire lemon (3)
+You acquire lime (3)
+
+[15568] Wartime Sonofa Beach
+Encounter: The Wake-Up Call of Kermithulhu
+You gain 35 Enchantedness
+
+[15569] Wartime Sonofa Beach
+Encounter: What a Maroon
+You acquire an item: goatskin umbrella
+
+[15570] Wartime Sonofa Beach
+Encounter: Beach Blanket Yahtzee
+You gain 35 Roguishness
+
+[15571] Wartime Sonofa Beach
+Encounter: Mystical Crap
+You gain 30 Mysteriousness
+
+[15572] Wartime Sonofa Beach
+Encounter: The Walking-Stick Rebellion
+You acquire strawberry (3)
+
+[15573] Wartime Sonofa Beach
+Encounter: Anchors Weigh
+You gain 33 Strengthliness
+
+[15574] Wartime Sonofa Beach
+Encounter: Forget It
+You gain 38 Strengthliness
+
+[15575] Wartime Sonofa Beach
+Encounter: Anchors Weigh
+You gain 33 Beefiness
+
+[15576] Wartime Sonofa Beach
+Encounter: Hippies Don't Surf
+You gain 30 Chutzpah
+
+[15577] Haunted Bathroom
+Encounter: toilet papergeist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: toilet papergeist takes 529 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: roll of toilet paper
+You gain 18 Beefiness
+You gain 7 Mysteriousness
+You gain 4 Smarm
+
+[15578] Haunted Bathroom
+Encounter: Having a Medicine Ball
+Took choice 105/3: guy made of bees
+choice.php?whichchoice=105&option=3&pwd
+
+[15579] Haunted Bathroom
+Encounter: Don't Hold a Grudge
+Took choice 402/2: mysticality substats
+choice.php?pwd&whichchoice=402&option=2&choiceform2=Declare+a+thumb+war
+You gain 252 Mysteriousness
+
+[15580] Haunted Bathroom
+Encounter: Off the Rack
+You acquire an item: towel
+
+[15581] Haunted Bathroom
+Encounter: toilet papergeist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: toilet papergeist takes 528 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: roll of toilet paper
+You gain 16 Strongness
+You gain 7 Enchantedness
+You gain 7 Roguishness
+
+[15582] Haunted Bathroom
+Encounter: Having a Medicine Ball
+Took choice 105/3: guy made of bees
+choice.php?whichchoice=105&option=3&pwd
+
+[15583] Haunted Bathroom
+Encounter: Don't Hold a Grudge
+Took choice 402/3: moxie substats
+choice.php?pwd&whichchoice=402&option=3&choiceform3=Shake+it
+You gain 128 Sarcasm
+
+[15584] Haunted Bathroom
+Encounter: toilet papergeist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: toilet papergeist takes 526 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: roll of toilet paper
+You gain 16 Beefiness
+You gain 6 Mysteriousness
+You gain 7 Chutzpah
+
+[15585] Haunted Bathroom
+Encounter: toilet papergeist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: toilet papergeist takes 528 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: roll of toilet paper
+You gain 20 Strengthliness
+You gain a Muscle point!
+You gain 8 Enchantedness
+
+[15586] Haunted Bathroom
+Encounter: malevolent hair clog
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: malevolent hair clog takes 540 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: gob of wet hair
+You gain 16 Beefiness
+You gain 8 Magicalness
+You gain 7 Sarcasm
+
+[15587] Haunted Bathroom
+Encounter: Having a Medicine Ball
+Took choice 105/3: guy made of bees
+choice.php?whichchoice=105&option=3&pwd
+
+[15588] Haunted Bathroom
+Encounter: Don't Hold a Grudge
+Took choice 402/1: muscle substats
+choice.php?pwd&whichchoice=402&option=1&choiceform1=Armwrestle+it
+You gain 141 Strengthliness
+
+[15589] Haunted Bathroom
+Encounter: These Pipes... Aren't Clean!
+Demon name: Otepfunden
+
+game.php?mainpane=messages
+
+[15590] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 1 hearts, sell bar skins (1) or buy a spooky sapling (0)
+choice.php?pwd&whichchoice=502&option=1&choiceform1=Follow+the+old+road
+Encounter: The Road Less Traveled
+Took choice 503/2: gain stakes or trade vampire hearts
+choice.php?pwd&whichchoice=503&option=2&choiceform2=Knock+on+the+cottage+door
+Encounter: Have a Heart
+Took choice 47/1: bottle of used blood
+choice.php?pwd&whichchoice=47&option=1&choiceform1=%E2%86%92+Give+him+all+your+hearts
+You acquire an item: bottle of used blood
+
+[15591] Spooky Forest
+Encounter: triffid
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: triffid takes 616 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: moxie weed
+You gain 5 Strengthliness
+You gain 3 Wizardliness
+
+[15592] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 0 hearts, sell bar skins (1) or buy a spooky sapling (0)
+choice.php?pwd&whichchoice=502&option=1&choiceform1=Follow+the+old+road
+Encounter: The Road Less Traveled
+Took choice 503/1: gain some meat
+choice.php?pwd&whichchoice=503&option=1&choiceform1=Follow+the+ruts
+You gain 52 Meat
+
+[15593] Spooky Forest
+Encounter: wolfman
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wolfman takes 618 damage.
+Round 2: boolicious wins the fight!
+You gain 21 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 3 Fortitude
+You gain 3 Magicalness
+You gain 1 Smarm
+
+[15594] Spooky Forest
+Encounter: warwelf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warwelf takes 616 damage.
+Round 2: boolicious wins the fight!
+You gain 25 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 4 Muscleboundness
+You gain 3 Wizardliness
+
+[15595] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/2: gain mosquito larva or spooky mushrooms, skip adventure, get stats or fight a vampire
+choice.php?pwd&whichchoice=502&option=2&choiceform2=Explore+the+stream
+Encounter: Consciousness of a Stream
+Took choice 505/1: gain mosquito larva then 3 spooky mushrooms
+choice.php?pwd&whichchoice=505&option=1&choiceform1=March+to+the+marsh
+You acquire spooky mushroom (3)
+
+[15596] Spooky Forest
+Encounter: spooky vampire
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky vampire takes 613 damage.
+Round 2: boolicious wins the fight!
+You gain 11 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: vampire heart
+You gain 4 Fortitude
+You gain 1 Mysteriousness
+You gain 2 Chutzpah
+
+[15597] Spooky Forest
+Encounter: spooky mummy
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky mummy takes 617 damage.
+Round 2: boolicious wins the fight!
+You gain 23 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: spooky shrunken head
+You gain 5 Strongness
+You gain 1 Wizardliness
+You gain 1 Sarcasm
+
+[15598] Spooky Forest
+Encounter: wolfman
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wolfman takes 614 damage.
+Round 2: boolicious wins the fight!
+You gain 17 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 5 Strongness
+You gain 1 Chutzpah
+
+[15599] Spooky Forest
+Encounter: triffid
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: triffid takes 618 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: spooky stick
+You gain 4 Strengthliness
+You gain 2 Magicalness
+You gain 2 Cheek
+
+[15600] Spooky Forest
+Encounter: spooky mummy
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky mummy takes 617 damage.
+Round 2: boolicious wins the fight!
+You gain 21 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: spooky shrunken head
+You gain 6 Fortitude
+You gain 1 Wizardliness
+
+[15601] Spooky Forest
+Encounter: wolfman
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wolfman takes 614 damage.
+Round 2: boolicious wins the fight!
+You gain 23 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 3 Beefiness
+You gain 2 Magicalness
+You gain 2 Roguishness
+
+[15602] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/2: gain mosquito larva or spooky mushrooms, skip adventure, get stats or fight a vampire
+choice.php?pwd&whichchoice=502&option=2&choiceform2=Explore+the+stream
+Encounter: Consciousness of a Stream
+Took choice 505/2: gain 300 meat & tree-holed coin then nothing
+choice.php?pwd&whichchoice=505&option=2&choiceform2=Squeeze+into+the+cave
+
+[15602] Spooky Forest
+Encounter: spooky vampire
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky vampire takes 614 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Heckel &amp; Jeckyl, the 18 lb. Fancypants Scarecrow
+You gain 9 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: vampire heart
+You gain 3 Fortitude
+You gain 2 Enchantedness
+You gain 1 Roguishness
+
+[15603] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 2 hearts, sell bar skins (1) or buy a spooky sapling (0)
+choice.php?pwd&whichchoice=502&option=1&choiceform1=Follow+the+old+road
+Encounter: The Road Less Traveled
+Took choice 503/2: gain stakes or trade vampire hearts
+choice.php?pwd&whichchoice=503&option=2&choiceform2=Knock+on+the+cottage+door
+Encounter: Have a Heart
+Took choice 47/1: bottle of used blood
+choice.php?pwd&whichchoice=47&option=1&choiceform1=%E2%86%92+Give+him+all+your+hearts
+You acquire bottle of used blood (2)
+
+[15604] Spooky Forest
+Encounter: triffid
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: triffid takes 614 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: moxie weed
+You acquire an item: spooky stick
+You gain 3 Muscleboundness
+You gain 4 Wizardliness
+
+[15605] Spooky Forest
+Encounter: warwelf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warwelf takes 614 damage.
+Round 2: boolicious wins the fight!
+You gain 23 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 4 Fortitude
+You gain 2 Enchantedness
+You gain 1 Cheek
+
+[15606] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 0 hearts, sell bar skins (1) or buy a spooky sapling (0)
+choice.php?pwd&whichchoice=502&option=1&choiceform1=Follow+the+old+road
+Encounter: The Road Less Traveled
+Took choice 503/1: gain some meat
+choice.php?pwd&whichchoice=503&option=1&choiceform1=Follow+the+ruts
+You gain 55 Meat
+
+[15607] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 0 hearts, sell bar skins (1) or buy a spooky sapling (0)
+choice.php?whichchoice=502&option=1&pwd
+Encounter: The Road Less Traveled
+Took choice 503/1: gain some meat
+choice.php?whichchoice=503&option=1&pwd
+You gain 45 Meat
+
+[15608] Spooky Forest
+Encounter: warwelf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warwelf takes 614 damage.
+Round 2: boolicious wins the fight!
+You gain 27 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 4 Fortitude
+You gain 2 Magicalness
+You gain 1 Cheek
+
+[15609] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 0 hearts, sell bar skins (1) or buy a spooky sapling (0)
+choice.php?whichchoice=502&option=1&pwd
+Encounter: The Road Less Traveled
+Took choice 503/1: gain some meat
+choice.php?whichchoice=503&option=1&pwd
+You gain 50 Meat
+
+[15610] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 0 hearts, sell bar skins (1) or buy a spooky sapling (0)
+choice.php?whichchoice=502&option=1&pwd
+Encounter: The Road Less Traveled
+Took choice 503/1: gain some meat
+choice.php?whichchoice=503&option=1&pwd
+You gain 57 Meat
+
+[15611] Spooky Forest
+Encounter: spooky vampire
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 2 hit points
+Round 2: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles him, holding him down for a round.
+Round 2: boolicious attacks!
+Round 3: spooky vampire takes 617 damage.
+Round 3: boolicious wins the fight!
+You gain 7 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: vampire heart
+You gain 4 Beefiness
+You gain 3 Cheek
+
+[15612] Spooky Forest
+Encounter: spooky mummy
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky mummy takes 613 damage.
+Round 2: boolicious wins the fight!
+You gain 23 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: spooky shrunken head
+You gain 5 Muscleboundness
+You gain 2 Sarcasm
+
+[15613] Spooky Forest
+Encounter: spooky mummy
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky mummy takes 616 damage.
+Round 2: boolicious wins the fight!
+You gain 19 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: spooky shrunken head
+You gain 4 Strongness
+You gain 3 Enchantedness
+
+[15614] Spooky Forest
+Encounter: bar
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bar takes 615 damage.
+Round 2: boolicious wins the fight!
+You gain 25 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: bar skin
+You gain 5 Strengthliness
+You gain 1 Magicalness
+You gain 1 Cheek
+
+[15615] Spooky Forest
+Encounter: wolfman
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wolfman takes 620 damage.
+Round 2: boolicious wins the fight!
+You gain 19 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 5 Fortitude
+You gain 1 Magicalness
+You gain 1 Roguishness
+
+[15616] Spooky Forest
+Encounter: triffid
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: triffid takes 615 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: moxie weed
+You acquire an item: spooky stick
+You gain 4 Strengthliness
+You gain 3 Smarm
+
+[15617] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 1 hearts, sell bar skins (2) or buy a spooky sapling (0)
+choice.php?whichchoice=502&option=1&pwd
+Encounter: The Road Less Traveled
+Took choice 503/1: gain some meat
+choice.php?whichchoice=503&option=1&pwd
+You gain 48 Meat
+
+[15618] Spooky Forest
+Encounter: warwelf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warwelf takes 618 damage.
+Round 2: boolicious wins the fight!
+You gain 21 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 2 Beefiness
+You gain 3 Mysteriousness
+You gain 2 Roguishness
+
+[15619] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 1 hearts, sell bar skins (2) or buy a spooky sapling (0)
+choice.php?whichchoice=502&option=1&pwd
+Encounter: The Road Less Traveled
+Took choice 503/1: gain some meat
+choice.php?whichchoice=503&option=1&pwd
+You gain 58 Meat
+
+[15620] Spooky Forest
+Encounter: spooky vampire
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky vampire takes 613 damage.
+Round 2: boolicious wins the fight!
+You gain 9 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: vampire heart
+You gain 6 Muscleboundness
+You gain 1 Cheek
+
+[15621] Spooky Forest
+Encounter: spooky mummy
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky mummy takes 615 damage.
+Round 2: boolicious wins the fight!
+You gain 19 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: spooky shrunken head
+You gain 5 Fortitude
+You gain 2 Enchantedness
+
+[15622] Spooky Forest
+Encounter: bar
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bar takes 615 damage.
+Round 2: boolicious wins the fight!
+You gain 31 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: bar skin
+You gain 5 Beefiness
+You gain 2 Chutzpah
+
+[15623] Spooky Forest
+Encounter: wolfman
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wolfman takes 618 damage.
+Round 2: boolicious wins the fight!
+You gain 23 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 5 Strengthliness
+You gain 1 Mysteriousness
+You gain 1 Sarcasm
+
+[15624] Spooky Forest
+Encounter: triffid
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: triffid takes 616 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: moxie weed
+You acquire an item: spooky stick
+You gain 6 Strongness
+You gain 1 Sarcasm
+
+[15625] Pandamonium Slums
+Encounter: Demoninja
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles him, holding him down for a round.
+Round 2: boolicious attacks!
+Round 3: demoninja takes 592 damage.
+Round 3: boolicious wins the fight!
+You gain 91 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hot katana blade
+You gain 9 Strongness
+You gain 3 Magicalness
+You gain 6 Smarm
+
+[15626] Orc Chasm
+Encounter: Flaming Troll
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: flaming troll takes 543 damage.
+Round 2: boolicious wins the fight!
+You gain 89 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: Trollhouse cookies
+You acquire an item: flaming talons
+You gain 17 Strongness
+You gain 7 Enchantedness
+You gain 3 Roguishness
