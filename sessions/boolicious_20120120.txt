@@ -2603,3 +2603,349 @@ You acquire an item: flaming talons
 You gain 17 Strongness
 You gain 7 Enchantedness
 You gain 3 Roguishness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 20, 2012 - Frankruary 4
+
+Ronald: waxing gibbous
+Grimace: waning gibbous
+Mini-moon: in front of Grimace, L side
+
+Valentine's Day: today
+St. Sneaky Pete's Day: 7 days
+Oyster Egg Day: 14 days
+El Dia De Los Muertos Borrachos: 22 days
+Generic Summer Holiday: 31 days
+Dependence Day: 40 days
+Arrrbor Day: 48 days
+Lab&oacute;r Day: 58 days
+Halloween: 68 days
+Feast of Boris: 75 days
+Yuletide: 80 days
+Festival of Jarlsberg: 85 days
+
+Valentine's Day
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 25
+HP: 1019 / 1,019
+MP: 383 / 754
+
+Mus: 624, tnp = 957
+Mys: 459 (449), tnp = 126
+Mox: 449, tnp = 122
+
+Advs: 130
+Meat: 100,392
+Drunk: 12
+
+
+ > equipment
+
+Hat: miner's helmet
+Weapon: wooden stakes
+Off-hand: (none)
+Shirt: cane-mail shirt
+Pants: The Necbromancer's Shorts
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: ring of conflict
+Acc. 3: Lord Spookyraven's ear trumpet
+
+Pet: Fancypants Scarecrow (11 lbs)
+Item: Knob Goblin Uberpants
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Bubble Vision (3)
+20/20 Vision (82)
+♫ The Sonata of Sneakiness (212)
+Astral Shell (212)
+♫ The Magical Mojomuscular Melody (212)
+Jalapeño Saucesphere (259)
+Tenacity of the Snapper (500)
+Jabañero Saucesphere (604)
+♫ Polka of Plenty (795)
+Reptilian Fortitude (819)
+Empathy (859)
+Jingle Jangle Jingle (891)
+Scarysauce (995)
+Elemental Saucesphere (1,009)
+Ghostly Shell (2,195)
+Retrograde Relaxation (2,559)
+
+
+ > modifiers
+
+ML: +20
+Enc: -10.00%
+Init: +25.00%
+
+Exp: +2.50
+Meat: +95.00%
+Item: +210.60%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[15627] The Slime Tube
+Encounter: pulsing Slime nodule
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 469 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 25 Strongness
+You gain 11 Enchantedness
+You gain 12 Roguishness
+
+[15628] The Slime Tube
+Encounter: pulsing Slime pseudopod
+Round 0: boolicious wins initiative!
+You lose 68 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 472 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 20 Strengthliness
+You gain 10 Mysteriousness
+You gain 16 Chutzpah
+
+clan_slimetube.php?action=chamois&ajax=1&pwd=c180aaa8c219a44300238702c2fb10be&_=1327103060315
+You lose an effect: Coated in Slime
+
+[15629] The Slime Tube
+Encounter: Engulfed!
+Took choice 337/1: +1 rusty -> slime-covered item conversion
+choice.php?pwd&whichchoice=337&option=1
+
+[15630] The Slime Tube
+Encounter: pulsating Slime polyp
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 468 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 24 Fortitude
+You gain 12 Mysteriousness
+You gain 13 Cheek
+
+[15631] The Slime Tube
+Encounter: glistening Slime polyp
+Round 0: boolicious wins initiative!
+You lose 68 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 468 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: slimy fermented bile bladder
+You gain 20 Beefiness
+You gain 16 Wizardliness
+You gain 12 Smarm
+
+clan_slimetube.php?action=chamois&ajax=1&pwd=c180aaa8c219a44300238702c2fb10be&_=1327103125298
+You lose an effect: Coated in Slime
+
+[15632] The Slime Tube
+Encounter: glistening Slime lump
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 467 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: tiny slimy cyst
+You gain 24 Strengthliness
+You gain 12 Magicalness
+You gain 12 Cheek
+
+telescope look 
+
+telescope look high
+You acquire an effect: Starry-Eyed (duration: 10 Adventures)
+
+clan_slimetube.php?action=chamois&ajax=1&pwd=c180aaa8c219a44300238702c2fb10be&_=1327103155245
+You lose an effect: Coated in Slime
+
+use 1 El Vibrato power sphere
+
+[15633] El Vibrato Island
+Encounter: bizarre construct
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: bizarre construct takes 381 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 38 Beefiness
+You gain 26 Mysteriousness
+You gain 21 Smarm
+
+[15634] El Vibrato Island
+Encounter: industrious construct
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: industrious construct takes 378 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: El Vibrato punchcard (BUFF)
+You acquire an item: El Vibrato punchcard (FLOOR)
+You gain 50 Beefiness
+You gain 26 Magicalness
+You gain 21 Cheek
+
+[15635] El Vibrato Island
+Encounter: industrious construct
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: industrious construct takes 379 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: El Vibrato punchcard (FLOOR)
+You gain 68 Strongness
+You gain 16 Mysteriousness
+You gain a Mysticality point!
+You gain 17 Smarm
+You gain a Moxie point!
+
+[15636] El Vibrato Island
+Encounter: hulking construct
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: hulking construct takes 1 damage.
+You lose 94,921 hit points
+
+uneffect Beaten Up
+unequip weapon
+
+equip hat hardened slime hat
+
+equip weapon brand new key
+
+equip off-hand snake shield
+
+equip shirt star shirt
+
+equip pants cane-mail pants
+
+equip acc1 cursed scrunchie
+
+equip pants trousers of the white knight
+Jumping into Awesome Ball Pit in clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+use 1 Mick's IcyVapoHotness Rub
+You acquire an effect: Extreme Muscle Relaxation (duration: 10 Adventures)
+
+use 1 murky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+buy 5 Ben-Gal™ Balm for 24 each from Market Demon
+You acquire Ben-Gal™ Balm (5)
+You spent 120 Meat
+
+use 5 Ben-Gal™ Balm
+You acquire an effect: Go Get 'Em, Tiger! (duration: 15 Adventures)
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 3,240 hit points
+
+[15637] El Vibrato Island
+Encounter: lonely construct
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lonely construct takes 1790 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 26 (+1) (+1) (+1) (+1) (+1) (+1) damage? It never saw it coming! How droll."
+Round 2: lonely construct takes 32 damage.
+Round 2: boolicious wins the fight!
+You gain 35 Strengthliness
+You gain 23 Mysteriousness
+You gain 20 Chutzpah
+
+[15638] El Vibrato Island
+Encounter: lonely construct
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the 4-d camera!
+You acquire an item: shaking 4-d camera
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 28 (+1) (+1) (+1) (+1) (+1) (+1) damage? It never saw it coming! How droll."
+Round 2: lonely construct takes 34 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: lonely construct takes 1783 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 27 (+1) (+1) (+1) (+1) (+1) (+1) damage? It never saw it coming! How droll."
+Round 3: lonely construct takes 33 damage.
+Round 3: boolicious wins the fight!
+You gain 40 Beefiness
+You gain 20 Wizardliness
+You gain 19 Roguishness
