@@ -4,7 +4,7 @@ CouncilFrame=424,322,-1
 DescriptionFrame=424,322,-1
 FamiliarTrainingFrame=260,240
 KoLDesktop=209,132,-1
-LoginFrame=409,276,0
+LoginFrame=391,276,0
 MaximizerFrame=379,354
 ProfileFrame=424,322,-1
 RequestSynchFrame=337,247,-1
@@ -199,8 +199,8 @@ choiceAdventure10=1
 choiceAdventure105=3
 choiceAdventure106=4
 choiceAdventure107=4
-choiceAdventure108=4
-choiceAdventure109=1
+choiceAdventure108=2
+choiceAdventure109=2
 choiceAdventure11=3
 choiceAdventure110=4
 choiceAdventure111=3
@@ -637,7 +637,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Cobb's Knob Treasury
+lastAdventure=Sleazy Back Alley
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -652,13 +652,13 @@ lastBangPotion827
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=11
+lastBreakfast=12
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=9
-lastCounterDay=11
+lastCounterDay=12
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -699,7 +699,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=Just Tryin' to Get Paid
+lastEncounter=drunken half-orc hobo
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
