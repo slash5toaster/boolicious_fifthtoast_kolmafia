@@ -8,7 +8,7 @@ LoginFrame=409,276,0
 MaximizerFrame=379,354
 ProfileFrame=424,322,-1
 RequestSynchFrame=337,247,-1
-TabbedChatFrame=715,353,0
+TabbedChatFrame=597,353,0
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -554,7 +554,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=3
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -652,13 +652,13 @@ lastBangPotion827
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=10
+lastBreakfast=11
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=9
-lastCounterDay=10
+lastCounterDay=11
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
