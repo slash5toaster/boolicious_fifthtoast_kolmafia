@@ -1,14 +1,14 @@
-AdventureFrame=48,188,1
+AdventureFrame=48,188,0
 CakeArenaFrame=424,348
 CouncilFrame=424,322,-1
 DescriptionFrame=424,322,-1
 FamiliarTrainingFrame=260,240
 KoLDesktop=209,132,-1
-LoginFrame=391,276,0
+LoginFrame=409,276,0
 MaximizerFrame=379,354
 ProfileFrame=424,322,-1
 RequestSynchFrame=337,247,-1
-TabbedChatFrame=597,353,0
+TabbedChatFrame=597,113,0
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -553,7 +553,7 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=0
+currentBountyItem=2408
 currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
@@ -637,7 +637,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Sleazy Back Alley
+lastAdventure=Greater-Than Sign
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -652,13 +652,13 @@ lastBangPotion827
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=12
+lastBreakfast=13
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=9
-lastCounterDay=12
+lastCounterDay=13
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -699,7 +699,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=drunken half-orc hobo
+lastEncounter=lowercase B
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
