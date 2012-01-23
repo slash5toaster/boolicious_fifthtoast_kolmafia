@@ -3,8 +3,8 @@ CakeArenaFrame=424,348
 CouncilFrame=424,322,-1
 DescriptionFrame=424,322,-1
 FamiliarTrainingFrame=260,240
-KoLDesktop=209,132,-1
-LoginFrame=409,276,0
+KoLDesktop=215,132,-1
+LoginFrame=406,278,0
 MaximizerFrame=379,354
 ProfileFrame=424,322,-1
 RequestSynchFrame=337,247,-1
@@ -553,7 +553,7 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=2408
+currentBountyItem=0
 currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
@@ -562,7 +562,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=1
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -614,7 +614,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 gongPath=0
 gourdItemCount=5
 grimoire1Summons=0
@@ -637,13 +637,13 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Greater-Than Sign
+lastAdventure=Dire Warren
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
 lastBangPotion820
 lastBangPotion821
-lastBangPotion822
+lastBangPotion822=teleportitis
 lastBangPotion823
 lastBangPotion824
 lastBangPotion825
@@ -652,13 +652,13 @@ lastBangPotion827
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=13
+lastBreakfast=14
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=9
-lastCounterDay=13
+lastCounterDay=14
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -699,7 +699,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=lowercase B
+lastEncounter=Weretaco
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -764,7 +764,7 @@ lastStoneSphereReset=0
 lastTavernAscension=0
 lastTavernSquare=0
 lastTelescopeReset=-1
-lastTempleUnlock=-1
+lastTempleUnlock=0
 lastTowerClimb=-1
 lastTr4pz0rQuest=-1
 lastVioletFogMap=0
@@ -835,7 +835,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=1342\:Semirare window begin loc\=*\:lparen.gif\:1382\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -844,8 +844,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=810
-semirareLocation=Cobb's Knob Harem
+semirareCounter=1182
+semirareLocation=Haunted Pantry
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
