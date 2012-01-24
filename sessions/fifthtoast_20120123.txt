@@ -1264,3 +1264,117 @@ equip hat Crown of the Goblin King
 equip hat cornuthaum
 
 mountains.php?orcs=1&pwd=499c03e3bc66397cfd6d171365148754
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 23, 2012 - Frankruary 7
+
+Ronald: third quarter
+Grimace: waning crescent
+Mini-moon: behind Ronald
+
+St. Sneaky Pete's Day: 4 days
+Oyster Egg Day: 11 days
+El Dia De Los Muertos Borrachos: 19 days
+Valentine's Day: 22 days
+Generic Summer Holiday: 28 days
+Dependence Day: 37 days
+Arrrbor Day: 45 days
+Lab&oacute;r Day: 55 days
+Halloween: 65 days
+Feast of Boris: 72 days
+Yuletide: 77 days
+Festival of Jarlsberg: 82 days
+
+
+Moxie bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 9
+HP: 101 / 101
+MP: 61 / 69
+
+Mus: 65 (54), tnp = 70
+Mys: 66 (52), tnp = 9
+Mox: 108 (74), tnp = 51
+
+Advs: 119
+Meat: 50,122
+Drunk: 0
+
+
+ > equipment
+
+Hat: cornuthaum
+Weapon: chrome crossbow
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin elite pants
+
+Acc. 1: badass belt
+Acc. 2: shiny ring
+Acc. 3: tiny plastic Big Candy
+
+Pet: Mosquito (19 lbs)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+
+Disco Bandit
+ - Disco Aerobics
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Nap
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+1 of 3 AT buffs active.
+Bubble Vision (59)
+♫ The Moxious Madrigal (104)
+Jalapeño Saucesphere (324)
+Jabañero Saucesphere (324)
+Ghostly Shell (324)
+Astral Shell (324)
+Jingle Jangle Jingle (324)
+Tenacity of the Snapper (324)
+Scarysauce (339)
+Elemental Saucesphere (339)
+Reptilian Fortitude (339)
+Empathy (339)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +42.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+equip acc2 dead guy's watch

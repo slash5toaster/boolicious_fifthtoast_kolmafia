@@ -29,7 +29,7 @@ RequestSynchFrame=3,3,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=286,93,0
-TabbedChatFrame=173,68,1
+TabbedChatFrame=173,68,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -90,7 +90,7 @@ _piePartsCount=0
 _poisonArrows=0
 _poolGames=0
 _precisionCasts=0
-_resolutionAdv=0
+_resolutionAdv=2
 _riftletAdv=0
 _romanticFightsLeft=0
 _sealFigurineUses=0
@@ -586,7 +586,7 @@ concertVisited=true
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=15
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -626,7 +626,7 @@ distentionPillActive=false
 dolphinItem=Mer-kin thingpouch
 doorCode
 expressCardUsed=false
-extraRolloverAdventures=0
+extraRolloverAdventures=2
 fistSkillsKnown=1
 fistTeachingsBarroomBrawl=false
 fistTeachingsBatHole=false
@@ -805,7 +805,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=14
+libramSummons=19
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
