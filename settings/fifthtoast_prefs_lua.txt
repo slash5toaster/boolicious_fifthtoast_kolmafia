@@ -4,7 +4,7 @@ CouncilFrame=424,322,-1
 DescriptionFrame=424,322,-1
 FamiliarTrainingFrame=260,240
 KoLDesktop=215,132,-1
-LoginFrame=404,276,0
+LoginFrame=407,276,0
 MaximizerFrame=379,354
 ProfileFrame=424,322,-1
 RequestSynchFrame=337,247,-1
@@ -562,7 +562,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=1
+currentSpleenUse=0
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -614,7 +614,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 gongPath=0
 gourdItemCount=5
 grimoire1Summons=0
@@ -637,28 +637,28 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Dire Warren
+lastAdventure=Degrassi Knoll
 lastArcadeAscension=-1
 lastBadMoonReset=-1
-lastBangPotion819
+lastBangPotion819=healing
 lastBangPotion820
 lastBangPotion821
 lastBangPotion822=teleportitis
 lastBangPotion823
-lastBangPotion824
+lastBangPotion824=ettin strength
 lastBangPotion825
 lastBangPotion826
 lastBangPotion827
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=14
+lastBreakfast=15
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=9
-lastCounterDay=14
+lastCounterDay=15
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -699,7 +699,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=Weretaco
+lastEncounter=Gnollish Gearhead
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
