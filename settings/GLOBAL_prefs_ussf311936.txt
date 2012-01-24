@@ -27,7 +27,7 @@ chatFontSize=small
 chatLinksUseRelay=false
 chatStyle=0
 cloverProtectActive=true
-coinMasterIndex=8
+coinMasterIndex=1
 combatHotkey0
 combatHotkey1
 combatHotkey2
@@ -84,7 +84,7 @@ innerChatColor=\#ffa98c
 innerTabColor=\#8ca9ff
 itemManagerIndex=6
 lastBuffRequestType=0
-lastRelayUpdate=KoLmafia v15.0 r10286
+lastRelayUpdate=KoLmafia v15.0 r10294
 lastRssUpdate=0
 lastRssVersion=KoLmafia v14.8
 lastUserAgent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv\:1.9.2.24) Gecko/20111104 Red Hat/3.6-3.el5_7 Firefox/3.6.24
@@ -121,7 +121,7 @@ pathedSummonsHardcore=true
 pathedSummonsSoftcore=true
 preferredWebBrowser=firefox
 previousNotifyList=<>
-previousUpdateRevision=10286
+previousUpdateRevision=10294
 previousUpdateVersion=KoLmafia v15.0
 protectAgainstOverdrink=true
 proxySet=false
