@@ -1,5 +1,5 @@
 =1
-AdventureFrame=2011,441,0
+AdventureFrame=2039,43,0
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=742,435
@@ -29,17 +29,17 @@ RequestSynchFrame=2317,338,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=1916,-4,0
-TabbedChatFrame=3056,156,0
+TabbedChatFrame=3037,22,1
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
-_allYearSucker=false
+_allYearSucker=true
 _aprilShower=false
 _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
 _bagOfCandy=false
-_ballpit=false
+_ballpit=true
 _banderRunaways=0
 _benettonsCasts=0
 _bonersSummoned=false
@@ -47,7 +47,7 @@ _bootStomps=0
 _borrowedTimeUsed=false
 _boxingGloveArrows=0
 _brickoFights=0
-_cameraUsed=false
+_cameraUsed=true
 _candySummons=0
 _carboLoaded=false
 _chipBags=0
@@ -82,7 +82,7 @@ _lookingGlass=false
 _lunchBreak=false
 _madTeaParty=false
 _mayflySummons=0
-_navelRunaways=0
+_navelRunaways=3
 _pasteDrops=0
 _photocopyUsed=false
 _pieDrops=0
@@ -90,7 +90,7 @@ _piePartsCount=0
 _poisonArrows=0
 _poolGames=0
 _precisionCasts=0
-_resolutionAdv=0
+_resolutionAdv=2
 _riftletAdv=0
 _romanticFightsLeft=0
 _sealFigurineUses=0
@@ -218,7 +218,7 @@ buffBotPhilanthropyType=1
 burrowgrubHiveUsed=false
 burrowgrubSummonsRemaining=0
 buyScript
-cameraMonster=lonely construct
+cameraMonster
 camerasUsed=1
 carboLoading=0
 cellarLayout=9192504
@@ -582,11 +582,11 @@ choiceAdventure91=2
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=false
+concertVisited=true
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=15
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -594,7 +594,7 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=10
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -626,7 +626,7 @@ distentionPillActive=false
 dolphinItem=flytrap pellet
 doorCode
 expressCardUsed=false
-extraRolloverAdventures=0
+extraRolloverAdventures=2
 fistSkillsKnown=1
 fistTeachingsBarroomBrawl=false
 fistTeachingsBatHole=false
@@ -647,7 +647,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=15
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 gongPath=10
 gourdItemCount=6
 grimoire1Summons=0
@@ -670,7 +670,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=The Slime Tube
+lastAdventure=Hobopolis Town Square
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -733,7 +733,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=dripping Slime nodule
+lastEncounter=Roadhouse Hondo &quot;Tarantula&quot; Dunn
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -805,7 +805,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=0
+libramSummons=16
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -839,7 +839,7 @@ oceanDestination=sphere
 olfactedMonster=wabbit
 oscusSodaUsed=false
 outrageousSombreroUsed=false
-parasolUsed=0
+parasolUsed=3
 pastamancerGhostExperience=0
 pastamancerGhostName
 pastamancerGhostSummons=0
@@ -870,7 +870,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=16195\:Semirare window begin loc\=*\:lparen.gif\:16235\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -937,12 +937,12 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=false
+telescopeLookedHigh=true
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=0
+tomeSummons=3
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
