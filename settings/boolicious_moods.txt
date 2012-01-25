@@ -1,8 +1,4 @@
 [ apathetic ]
 
 [ default ]
-lose_effect object detection => use 1 potion of detection
-lose_effect patience of the tortoise => cast 5 patience of the tortoise
-lose_effect retrograde relaxation => cast 3 miyagi massage
-lose_effect salamanderenity => cast 3 salamander kata
 
