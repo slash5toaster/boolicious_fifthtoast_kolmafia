@@ -806,6 +806,7 @@ lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
 libramSummons=10
+libramSummons=0
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
