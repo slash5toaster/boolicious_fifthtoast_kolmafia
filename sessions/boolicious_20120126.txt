@@ -359,3 +359,1738 @@ You acquire an item: El Vibrato punchcard (BUFF)
 elvmachine.php?action=slot&whichcard=3147
 You acquire an item: El Vibrato punchcard (SELF)
 elvmachine.php?action=button
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 26, 2012 - Starch 2
+
+Ronald: waxing crescent
+Grimace: new moon
+Mini-moon: in front of Grimace, R side
+
+St. Sneaky Pete's Day: tomorrow
+Oyster Egg Day: 8 days
+El Dia De Los Muertos Borrachos: 16 days
+Valentine's Day: 19 days
+Generic Summer Holiday: 25 days
+Dependence Day: 34 days
+Arrrbor Day: 42 days
+Lab&oacute;r Day: 52 days
+Halloween: 62 days
+Feast of Boris: 69 days
+Yuletide: 74 days
+Festival of Jarlsberg: 79 days
+
+
+3 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 26
+HP: 1073 / 1,109
+MP: 333 / 766
+
+Mus: 691 (639), tnp = 743
+Mys: 494 (462), tnp = 382
+Mox: 490 (459), tnp = 214
+
+Advs: 160
+Meat: 176,400
+Drunk: 0
+
+
+ > equipment
+
+Hat: straw hat
+Weapon: octopus's spade
+Off-hand: Hodgman's metal detector
+Shirt: cane-mail shirt
+Pants: Galapagosian Cuisses
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: Zinc Delta of Tranquility
+Acc. 3: Hodgman's lucky sock
+
+Pet: Fancypants Scarecrow (11 lbs)
+Item: Knob Goblin Uberpants
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Eggsplosion
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+2 of 3 AT buffs active.
+Object Detection
+Starry-Eyed (7)
+Joyful Resolve (11)
+Strong Resolve (11)
+Brilliant Resolve (11)
+Irresistible Resolve (11)
+Greedy Resolve (11)
+Brother Smothers's Blessing (17)
+Rootin' Around (17)
+Bubble Vision (58)
+Astral Shell (198)
+♫ The Sonata of Sneakiness (198)
+20/20 Vision (199)
+Jalapeño Saucesphere (245)
+♫ Polka of Plenty (406)
+Tenacity of the Snapper (486)
+Jabañero Saucesphere (590)
+Reptilian Fortitude (805)
+Empathy (845)
+Jingle Jangle Jingle (877)
+Scarysauce (981)
+Elemental Saucesphere (995)
+Salamanderenity (1,043)
+Patience of the Tortoise (1,087)
+Retrograde Relaxation (1,795)
+Ghostly Shell (2,181)
+
+
+ > modifiers
+
+ML: +20
+Enc: -5.00%
+Init: +10.00%
+
+Exp: +4.50
+Meat: +125.00%
+Item: +218.60%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 20 disintegrating corks
+
+[16391] A Barroom Brawl
+Encounter: drunken 7-foot dwarf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: drunken 7-foot dwarf takes 707 damage.
+Round 2: boolicious wins the fight!
+You gain 40 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: bottle of whiskey
+You gain 6 Muscleboundness
+You gain 3 Wizardliness
+You gain 5 Smarm
+
+[16392] A Barroom Brawl
+Encounter: werecougar
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: werecougar takes 719 damage.
+Round 2: boolicious wins the fight!
+You gain 31 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: margarita
+You gain 6 Fortitude
+You gain 5 Enchantedness
+You gain 3 Cheek
+
+[16393] A Barroom Brawl
+Encounter: plastered frat orc
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: plastered frat orc takes 758 damage.
+Round 2: boolicious wins the fight!
+You gain 58 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: ice-cold Sir Schlitz
+You acquire an item: ice-cold fotie
+You gain 7 Fortitude
+You gain 3 Enchantedness
+You gain 4 Roguishness
+
+[16394] A Barroom Brawl
+Encounter: werecougar
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: werecougar takes 720 damage.
+Round 2: boolicious wins the fight!
+You gain 31 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: sangria
+You acquire an item: tequila with training wheels
+You gain 8 Strongness
+You gain 3 Wizardliness
+You gain 3 Cheek
+
+[16395] A Barroom Brawl
+Encounter: skeleton with a mop
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeleton with a mop takes 723 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: ice-cold Willer
+You acquire an item: ice-cold Willer
+You gain 5 Beefiness
+You gain 5 Mysteriousness
+You gain 4 Chutzpah
+
+[16396] A Barroom Brawl
+Encounter: werecougar
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: werecougar takes 720 damage.
+Round 2: boolicious wins the fight!
+You gain 36 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 7 Strongness
+You gain 4 Mysteriousness
+You gain 3 Smarm
+
+use 1 resolution: be feistier
+You acquire an effect: Destructive Resolve (duration: 20 Adventures)
+
+use 1 resolution: be happier
+You acquire an effect: Joyful Resolve (duration: 20 Adventures)
+
+use 1 resolution: be luckier
+You acquire an effect: Fortunate Resolve (duration: 20 Adventures)
+
+use 1 resolution: be sexier
+You acquire an effect: Irresistible Resolve (duration: 20 Adventures)
+
+use 1 resolution: be smarter
+You acquire an effect: Brilliant Resolve (duration: 20 Adventures)
+
+use 1 resolution: be stronger
+You acquire an effect: Strong Resolve (duration: 20 Adventures)
+
+use 1 resolution: be wealthier
+You acquire an effect: Greedy Resolve (duration: 20 Adventures)
+
+buy 1 Knob Goblin eyedrops for 200 each from 1945689 on 20120126
+You acquire an item: Knob Goblin eyedrops
+
+use 1 Knob Goblin eyedrops
+You acquire an effect: Peeled Eyeballs (duration: 10 Adventures)
+friars blessing 1
+
+[16397] A Barroom Brawl
+Encounter: drunken 7-foot dwarf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: drunken 7-foot dwarf takes 732 damage.
+Round 2: boolicious wins the fight!
+You gain 42 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: bottle of whiskey
+You acquire an item: bottle of whiskey
+You gain 7 Muscleboundness
+You gain 2 Wizardliness
+You gain 4 Cheek
+
+[16398] A Barroom Brawl
+Encounter: werecougar
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: werecougar takes 700 damage.
+Round 2: boolicious wins the fight!
+You gain 29 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: strawberry daiquiri
+You acquire an item: margarita
+You gain 6 Fortitude
+You gain 3 Magicalness
+You gain 4 Roguishness
+
+[16399] A Barroom Brawl
+Encounter: unemployed knob goblin
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: unemployed knob goblin takes 704 damage.
+Round 2: boolicious wins the fight!
+You gain 27 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: beer lens
+You gain 7 Strengthliness
+You gain 3 Magicalness
+You gain 2 Cheek
+
+[16400] A Barroom Brawl
+Encounter: skeleton with a mop
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeleton with a mop takes 714 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: beer-soaked mop
+You acquire an item: ice-cold Willer
+You acquire an item: ice-cold Willer
+You gain 5 Muscleboundness
+You gain 4 Wizardliness
+You gain 4 Sarcasm
+
+[16401] A Barroom Brawl
+Encounter: unemployed knob goblin
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: unemployed knob goblin takes 704 damage.
+Round 2: boolicious wins the fight!
+You gain 29 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: beer lens
+You gain 7 Muscleboundness
+You gain 3 Magicalness
+You gain 2 Roguishness
+
+[16402] A Barroom Brawl
+Encounter: werecougar
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: werecougar takes 705 damage.
+Round 2: boolicious wins the fight!
+You gain 25 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: strawberry daiquiri
+You acquire an item: margarita
+You acquire an item: tequila with training wheels
+You gain 6 Muscleboundness
+You gain 4 Enchantedness
+You gain 3 Smarm
+
+[16403] A Barroom Brawl
+Encounter: drunken 7-foot dwarf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: drunken 7-foot dwarf takes 715 damage.
+Round 2: boolicious wins the fight!
+You gain 42 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: bottle of whiskey
+You gain 7 Fortitude
+You gain 3 Magicalness
+You gain 3 Roguishness
+
+[16404] A Barroom Brawl
+Encounter: plastered frat orc
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: plastered frat orc takes 701 damage.
+Round 2: boolicious wins the fight!
+You gain 48 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: ice-cold Sir Schlitz
+You acquire an item: ice-cold Willer
+You acquire an item: ice-cold fotie
+You gain 7 Beefiness
+You gain 5 Mysteriousness
+You gain 2 Sarcasm
+
+[16405] A Barroom Brawl
+Encounter: skeleton with a mop
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 11 hit points
+Round 2: boolicious attacks!
+Round 3: skeleton with a mop takes 705 damage.
+Round 3: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: beer-soaked mop
+You acquire an item: ice-cold Willer
+You acquire an item: ice-cold Willer
+You gain 6 Beefiness
+You gain 5 Mysteriousness
+You gain 2 Sarcasm
+
+[16406] A Barroom Brawl
+Encounter: drunken 7-foot dwarf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: drunken 7-foot dwarf takes 701 damage.
+Round 2: boolicious wins the fight!
+You gain 44 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: bottle of whiskey
+You acquire an item: bottle of whiskey
+You gain 7 Muscleboundness
+You gain 4 Wizardliness
+You gain 2 Cheek
+
+[16407] A Barroom Brawl
+Encounter: plastered frat orc
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: plastered frat orc takes 714 damage.
+Round 2: boolicious wins the fight!
+You gain 48 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: ice-cold Sir Schlitz
+You acquire an item: ice-cold Willer
+You acquire an item: ice-cold fotie
+You gain 8 Muscleboundness
+You gain 4 Wizardliness
+You gain 3 Smarm
+
+[16408] A Barroom Brawl
+Encounter: plastered frat orc
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: plastered frat orc takes 701 damage.
+Round 2: boolicious wins the fight!
+You gain 66 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: ice-cold Sir Schlitz
+You gain 7 Strengthliness
+You gain 4 Mysteriousness
+You gain 4 Smarm
+
+[16409] A Barroom Brawl
+Encounter: werecougar
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: werecougar takes 696 damage.
+Round 2: boolicious wins the fight!
+You gain 41 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: sangria
+You acquire an item: tequila with training wheels
+You gain 6 Muscleboundness
+You gain 3 Enchantedness
+You gain 5 Cheek
+
+[16410] A Barroom Brawl
+Encounter: unemployed knob goblin
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: unemployed knob goblin takes 701 damage.
+Round 2: boolicious wins the fight!
+You gain 32 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 8 Fortitude
+You gain 2 Magicalness
+You gain 3 Roguishness
+
+[16411] A Barroom Brawl
+Encounter: werecougar
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: werecougar takes 700 damage.
+Round 2: boolicious wins the fight!
+You gain 36 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: strawberry daiquiri
+You acquire an item: tequila with training wheels
+You gain 7 Strengthliness
+You gain 4 Mysteriousness
+You gain 3 Sarcasm
+
+[16412] A Barroom Brawl
+Encounter: unemployed knob goblin
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: unemployed knob goblin takes 709 damage.
+Round 2: boolicious wins the fight!
+You gain 32 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 7 Strongness
+You gain 4 Enchantedness
+You gain 3 Smarm
+
+[16413] A Barroom Brawl
+Encounter: unemployed knob goblin
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: unemployed knob goblin takes 716 damage.
+Round 2: boolicious wins the fight!
+You gain 41 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 5 Muscleboundness
+You gain 6 Wizardliness
+You gain 2 Sarcasm
+
+[16414] A Barroom Brawl
+Encounter: plastered frat orc
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: plastered frat orc takes 699 damage.
+Round 2: boolicious wins the fight!
+You gain 48 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: ice-cold Sir Schlitz
+You acquire an item: ice-cold Willer
+You gain 5 Fortitude
+You gain 6 Magicalness
+You gain 3 Chutzpah
+
+[16415] A Barroom Brawl
+Encounter: drunken 7-foot dwarf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: drunken 7-foot dwarf takes 731 damage.
+Round 2: boolicious wins the fight!
+You gain 43 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: bottle of whiskey
+You acquire an item: bottle of whiskey
+You gain 5 Fortitude
+You gain 2 Mysteriousness
+You gain 7 Roguishness
+
+[16416] A Barroom Brawl
+Encounter: plastered frat orc
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: plastered frat orc takes 709 damage.
+Round 2: boolicious wins the fight!
+You gain 62 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: ice-cold Sir Schlitz
+You acquire an item: ice-cold Willer
+You acquire an item: ice-cold fotie
+You gain 8 Fortitude
+You gain 3 Wizardliness
+You gain 3 Roguishness
+
+Combine 2 box + 2 spring
+You acquire nothing-in-the-box (2)
+Crafting used 2 each of spring and box
+
+Combine 2 nothing-in-the-box + 2 beer lens
+You acquire 4-d camera (2)
+Crafting used 2 each of nothing-in-the-box and beer lens
+
+buy 3 carbonated water lily for 259 each from 1234874 on 20120126
+You acquire carbonated water lily (3)
+
+tavern.php?place=pooltable
+tavern.php?action=pool&opponent=3&wager=500
+You lose 500 Meat
+tavern.php?action=pool&opponent=1&wager=50
+You lose 50 Meat
+
+[16419] Haunted Wine Cellar (Southeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 542 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Merlot
+You acquire an item: dusty bottle of Marsala
+You acquire an item: dusty bottle of Muscat
+You gain 22 Strongness
+You gain 13 Magicalness
+You gain 18 Roguishness
+
+[16420] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 550 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Port
+You acquire an item: dusty bottle of Pinot Noir
+You gain 25 Strongness
+You gain 12 Enchantedness
+You gain 16 Cheek
+
+[16421] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 542 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Port
+You acquire an item: dusty bottle of Pinot Noir
+You gain 24 Beefiness
+You gain 18 Mysteriousness
+You gain 12 Chutzpah
+
+[16422] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 545 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Port
+You acquire an item: dusty bottle of Pinot Noir
+You gain 26 Muscleboundness
+You gain 13 Magicalness
+You gain 9 Roguishness
+
+[16423] Haunted Wine Cellar (Southeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 552 damage.
+Round 2: boolicious wins the fight!
+You gain 196 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Merlot
+You acquire an item: dusty bottle of Marsala
+You acquire an item: disintegrating cork
+You gain 27 Fortitude
+You gain 11 Mysteriousness
+You gain 11 Smarm
+
+[16424] Haunted Wine Cellar (Northwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 550 damage.
+Round 2: boolicious wins the fight!
+You gain 208 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Port
+You acquire an item: dusty bottle of Pinot Noir
+You acquire an item: disintegrating cork
+You gain 25 Beefiness
+You gain 15 Enchantedness
+You gain 10 Cheek
+
+[16425] Haunted Wine Cellar (Southeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 552 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Merlot
+You acquire an item: dusty bottle of Marsala
+You acquire an item: dusty bottle of Muscat
+You gain 24 Muscleboundness
+You gain 14 Magicalness
+You gain 10 Chutzpah
+
+[16426] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 554 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Merlot
+You acquire an item: dusty bottle of Pinot Noir
+You gain 19 Beefiness
+You gain 12 Magicalness
+You gain 14 Smarm
+
+[16427] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 563 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Merlot
+You gain 25 Fortitude
+You gain 13 Wizardliness
+You gain 10 Cheek
+
+[16428] Haunted Wine Cellar (Northeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 544 damage.
+Round 2: boolicious wins the fight!
+You gain 179 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Port
+You acquire an item: dusty bottle of Zinfandel
+You acquire an item: dusty bottle of Muscat
+You acquire an item: disintegrating cork
+You gain 26 Beefiness
+You gain 12 Mysteriousness
+You gain 11 Smarm
+
+[16429] Haunted Wine Cellar (Northeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 537 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Port
+You acquire an item: dusty bottle of Zinfandel
+You gain 22 Beefiness
+You gain 18 Wizardliness
+You gain 8 Sarcasm
+You gain a Moxie point!
+
+[16430] Haunted Wine Cellar (Northeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 560 damage.
+Round 2: boolicious wins the fight!
+You gain 191 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Port
+You acquire an item: dusty bottle of Muscat
+You acquire an item: disintegrating cork
+You gain 24 Strengthliness
+You gain 12 Enchantedness
+You gain 14 Chutzpah
+
+[16431] Haunted Wine Cellar (Southwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 545 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Zinfandel
+You acquire an item: dusty bottle of Marsala
+You gain 28 Muscleboundness
+You gain 7 Wizardliness
+You gain 12 Cheek
+
+[16432] Haunted Wine Cellar (Southwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 547 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Pinot Noir
+You acquire an item: dusty bottle of Zinfandel
+You acquire an item: dusty bottle of Marsala
+You gain 20 Beefiness
+You gain 14 Enchantedness
+You gain 12 Chutzpah
+
+[16433] Haunted Wine Cellar (Southwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 551 damage.
+Round 2: boolicious wins the fight!
+You gain 210 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Pinot Noir
+You acquire an item: dusty bottle of Zinfandel
+You acquire an item: dusty bottle of Marsala
+You acquire an item: disintegrating cork
+You gain 21 Beefiness
+You gain 16 Enchantedness
+You gain 11 Chutzpah
+
+[16434] Haunted Wine Cellar (Southwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 546 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Zinfandel
+You acquire an item: dusty bottle of Marsala
+You gain 21 Muscleboundness
+You gain 13 Enchantedness
+You gain 13 Sarcasm
+
+[16435] Haunted Wine Cellar (Northeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 550 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Zinfandel
+You gain 26 Fortitude
+You gain 12 Magicalness
+You gain 9 Cheek
+
+[16436] Haunted Wine Cellar (Northeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 545 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Port
+You acquire an item: dusty bottle of Zinfandel
+You gain 21 Strongness
+You gain 12 Mysteriousness
+You gain 13 Sarcasm
+
+[16437] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 549 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Pinot Noir
+You gain 22 Strengthliness
+You gain 12 Magicalness
+You gain 12 Cheek
+
+[16438] Haunted Wine Cellar (Northwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 543 damage.
+Round 2: boolicious wins the fight!
+You gain 220 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Merlot
+You acquire an item: dusty bottle of Port
+You acquire an item: dusty bottle of Pinot Noir
+You acquire an item: disintegrating cork
+You gain 28 Muscleboundness
+You gain 10 Wizardliness
+You gain 12 Cheek
+
+[16439] Haunted Wine Cellar (Northeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 554 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Port
+You acquire an item: dusty bottle of Zinfandel
+You acquire an item: dusty bottle of Muscat
+You gain 17 Strengthliness
+You gain 15 Enchantedness
+You gain 15 Chutzpah
+
+[16440] Haunted Wine Cellar (Southwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 558 damage.
+Round 2: boolicious wins the fight!
+You gain 216 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Pinot Noir
+You acquire an item: dusty bottle of Zinfandel
+You acquire an item: dusty bottle of Marsala
+You acquire an item: disintegrating cork
+You gain 25 Strengthliness
+You gain 16 Enchantedness
+You gain a Mysticality point!
+You gain 9 Roguishness
+
+[16441] Haunted Wine Cellar (Northeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 560 damage.
+Round 2: boolicious wins the fight!
+You gain 169 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Port
+You acquire an item: dusty bottle of Muscat
+You acquire an item: disintegrating cork
+You gain 26 Strongness
+You gain 14 Wizardliness
+You gain 10 Sarcasm
+
+[16442] Haunted Wine Cellar (Northeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 541 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Port
+You acquire an item: dusty bottle of Zinfandel
+You acquire an item: dusty bottle of Muscat
+You gain 21 Beefiness
+You gain 12 Wizardliness
+You gain 14 Chutzpah
+
+[16443] Haunted Wine Cellar (Southeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 549 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Marsala
+You acquire an item: dusty bottle of Muscat
+You gain 15 Strengthliness
+You gain a Muscle point!
+You gain 18 Magicalness
+You gain 14 Roguishness
+
+[16444] Haunted Wine Cellar (Southwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 557 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Pinot Noir
+You acquire an item: dusty bottle of Zinfandel
+You acquire an item: dusty bottle of Marsala
+You gain 20 Beefiness
+You gain 13 Enchantedness
+You gain 13 Sarcasm
+
+[16445] Haunted Wine Cellar (Southwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 543 damage.
+Round 2: boolicious wins the fight!
+You gain 198 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Pinot Noir
+You acquire an item: dusty bottle of Zinfandel
+You acquire an item: dusty bottle of Marsala
+You acquire an item: disintegrating cork
+You gain 20 Beefiness
+You gain 11 Wizardliness
+You gain 17 Roguishness
+
+[16446] Haunted Wine Cellar (Northwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 551 damage.
+Round 2: boolicious wins the fight!
+You gain 210 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Merlot
+You acquire an item: dusty bottle of Pinot Noir
+You acquire an item: disintegrating cork
+You gain 24 Strengthliness
+You gain 12 Magicalness
+You gain 13 Cheek
+
+[16447] Haunted Wine Cellar (Southwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 543 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Pinot Noir
+You acquire an item: dusty bottle of Zinfandel
+You acquire an item: dusty bottle of Marsala
+You gain 28 Strongness
+You gain 10 Mysteriousness
+You gain 9 Sarcasm
+
+[16448] Haunted Wine Cellar (Southeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 561 damage.
+Round 2: boolicious wins the fight!
+You gain 202 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Merlot
+You acquire an item: dusty bottle of Muscat
+You acquire an item: disintegrating cork
+You gain 32 Fortitude
+You gain 7 Wizardliness
+You gain 12 Cheek
+
+[16449] Haunted Wine Cellar (Southwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 552 damage.
+Round 2: boolicious wins the fight!
+You gain 193 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Zinfandel
+You acquire an item: dusty bottle of Marsala
+You acquire an item: disintegrating cork
+You gain 28 Strengthliness
+You gain 13 Enchantedness
+You gain 10 Roguishness
+
+[16450] Haunted Wine Cellar (Southwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 545 damage.
+Round 2: boolicious wins the fight!
+You gain 185 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Zinfandel
+You acquire an item: disintegrating cork
+You gain 26 Muscleboundness
+You gain 10 Enchantedness
+You gain 14 Cheek
+
+[16451] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 9 hit points
+Round 2: boolicious attacks!
+Round 3: possessed wine rack takes 544 damage.
+Round 3: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Pinot Noir
+You gain 25 Strengthliness
+You gain 7 Mysteriousness
+You gain 15 Chutzpah
+
+[16452] Haunted Wine Cellar (Southwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 558 damage.
+Round 2: boolicious wins the fight!
+You gain 193 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Zinfandel
+You acquire an item: disintegrating cork
+You gain 33 Muscleboundness
+You gain 9 Magicalness
+You gain 8 Cheek
+
+[16453] Haunted Wine Cellar (Northwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 549 damage.
+Round 2: boolicious wins the fight!
+You gain 187 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Merlot
+You acquire an item: dusty bottle of Port
+You acquire an item: disintegrating cork
+You gain 29 Beefiness
+You gain 10 Wizardliness
+You gain 12 Smarm
+
+[16454] Haunted Wine Cellar (Southwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 553 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Pinot Noir
+You acquire an item: dusty bottle of Marsala
+You gain 21 Strengthliness
+You gain 10 Enchantedness
+You gain 16 Cheek
+
+[16455] Haunted Wine Cellar (Northwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 7 hit points
+Round 2: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles him, holding him down for a round.
+Round 2: boolicious attacks!
+Round 3: skeletal sommelier takes 552 damage.
+Round 3: boolicious wins the fight!
+You gain 187 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Merlot
+You acquire an item: dusty bottle of Port
+You acquire an item: disintegrating cork
+You gain 24 Strengthliness
+You gain 9 Magicalness
+You gain 17 Chutzpah
+
+[16456] Haunted Wine Cellar (Southeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 550 damage.
+Round 2: boolicious wins the fight!
+You gain 165 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Merlot
+You acquire an item: dusty bottle of Muscat
+You acquire an item: disintegrating cork
+You gain 37 Beefiness
+You gain 7 Enchantedness
+You gain 7 Smarm
+
+[16457] Haunted Wine Cellar (Southwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 548 damage.
+Round 2: boolicious wins the fight!
+You gain 185 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Pinot Noir
+You acquire an item: dusty bottle of Zinfandel
+You acquire an item: disintegrating cork
+You gain 22 Strengthliness
+You gain 12 Enchantedness
+You gain 16 Sarcasm
+
+[16458] Haunted Wine Cellar (Southwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 547 damage.
+Round 2: boolicious wins the fight!
+You gain 193 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Pinot Noir
+You acquire an item: dusty bottle of Zinfandel
+You acquire an item: disintegrating cork
+You gain 25 Beefiness
+You gain 15 Magicalness
+You gain 11 Sarcasm
+
+[16459] Haunted Wine Cellar (Southwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 552 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Pinot Noir
+You acquire an item: dusty bottle of Zinfandel
+You gain 22 Strongness
+You gain 8 Mysteriousness
+You gain 16 Smarm
+
+[16460] Haunted Wine Cellar (Southwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 539 damage.
+Round 2: boolicious wins the fight!
+You gain 187 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: dusty bottle of Zinfandel
+You acquire an item: dusty bottle of Marsala
+You acquire an item: disintegrating cork
+You gain 24 Muscleboundness
+You gain 12 Wizardliness
+You gain 14 Sarcasm
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+[16461] Summoning Chamber
+
+buy 1 disintegrating quill pen for 100 each from 1654200 on 20120126
+You acquire an item: disintegrating quill pen
+
+buy 1 inkwell for 299 each from 1168998 on 20120126
+You acquire an item: inkwell
+
+Use 1 disintegrating quill pen + 1 inkwell + 1 tattered scrap of paper
+You acquire an item: scroll of ancient forbidden unspeakable evil
+summon Otepfunden
+You acquire an effect: Demonic Taint (duration: 30 Adventures)
+outfit Swashbuckling Getup
+
+equip acc2 Hodgman's lucky sock
+
+[16461] Poop Deck
+Encounter: wealthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wealthy pirate takes 604 damage.
+Round 2: boolicious wins the fight!
+You gain 430 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 21 Beefiness
+You gain 9 Enchantedness
+You gain 8 Roguishness
+
+[16462] Poop Deck
+Encounter: witty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: witty pirate takes 599 damage.
+Round 2: boolicious wins the fight!
+You gain 185 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 16 Strongness
+You gain 11 Magicalness
+You gain 10 Chutzpah
+
+[16463] Poop Deck
+Encounter: wacky pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wacky pirate takes 602 damage.
+Round 2: boolicious wins the fight!
+You gain 132 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 21 Muscleboundness
+You gain 8 Wizardliness
+You gain 9 Sarcasm
+
+[16464] Poop Deck
+Encounter: whiny pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: whiny pirate takes 596 damage.
+Round 2: boolicious wins the fight!
+You gain 163 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 13 Muscleboundness
+You gain 8 Mysteriousness
+You gain 16 Smarm
+
+[16465] Poop Deck
+Encounter: wacky pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wacky pirate takes 600 damage.
+Round 2: boolicious wins the fight!
+You gain 152 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 22 Strongness
+You gain 9 Mysteriousness
+You gain 5 Roguishness
+
+[16466] Poop Deck
+Encounter: warty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warty pirate takes 598 damage.
+Round 2: boolicious wins the fight!
+You gain 163 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: fish-liver oil
+You gain 20 Strongness
+You gain 10 Mysteriousness
+You gain 6 Smarm
+
+[16467] Poop Deck
+Encounter: wealthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wealthy pirate takes 610 damage.
+Round 2: boolicious wins the fight!
+You gain 356 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: booty chest charrrm
+You gain 19 Fortitude
+You gain 10 Magicalness
+You gain 8 Smarm
+
+[16468] Poop Deck
+Encounter: witty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: witty pirate takes 617 damage.
+Round 2: boolicious wins the fight!
+You gain 171 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 17 Strengthliness
+You gain 11 Magicalness
+You gain 9 Roguishness
+
+[16469] Poop Deck
+Encounter: wacky pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wacky pirate takes 608 damage.
+Round 2: boolicious wins the fight!
+You gain 157 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 16 Muscleboundness
+You gain 13 Magicalness
+You gain 9 Chutzpah
+
+[16470] Poop Deck
+Encounter: warty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warty pirate takes 602 damage.
+Round 2: boolicious wins the fight!
+You gain 150 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: fish-liver oil
+You gain 20 Strongness
+You gain 7 Enchantedness
+You gain 11 Cheek
+
+[16471] Poop Deck
+Encounter: whiny pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: whiny pirate takes 607 damage.
+Round 2: boolicious wins the fight!
+You gain 150 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: bilge wine
+You gain 17 Fortitude
+You gain 7 Wizardliness
+You gain 12 Roguishness
+
+[16472] Poop Deck
+Encounter: witty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: witty pirate takes 592 damage.
+Round 2: boolicious wins the fight!
+You gain 179 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: witty rapier
+You acquire an item: silver tongue charrrm
+You gain 22 Strongness
+You gain 9 Mysteriousness
+You gain 7 Smarm
+
+[16473] Poop Deck
+Encounter: wealthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wealthy pirate takes 595 damage.
+Round 2: boolicious wins the fight!
+You gain 440 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 20 Strengthliness
+You gain 6 Wizardliness
+You gain 10 Sarcasm
+
+[16474] Poop Deck
+Encounter: wealthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wealthy pirate takes 642 damage.
+Round 2: boolicious wins the fight!
+You gain 395 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 20 Strengthliness
+You gain 7 Wizardliness
+You gain 9 Sarcasm
+
+[16475] Poop Deck
+Encounter: wacky pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wacky pirate takes 630 damage.
+Round 2: boolicious wins the fight!
+You gain 146 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 22 Strongness
+You gain 4 Magicalness
+You gain 10 Sarcasm
+
+[16476] Poop Deck
+Encounter: wacky pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wacky pirate takes 604 damage.
+Round 2: boolicious wins the fight!
+You gain 152 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: cannonball charrrm
+You gain 19 Fortitude
+You gain 7 Enchantedness
+You gain 10 Roguishness
+
+[16477] Poop Deck
+Encounter: warty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warty pirate takes 605 damage.
+Round 2: boolicious wins the fight!
+You gain 142 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: fish-liver oil
+You acquire an item: vinegar-soaked lemon slice
+You gain 22 Fortitude
+You gain 4 Enchantedness
+You gain 10 Smarm
+
+[16478] Poop Deck
+Encounter: whiny pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: whiny pirate takes 602 damage.
+Round 2: boolicious wins the fight!
+You gain 134 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: bilge wine
+You gain 15 Strengthliness
+You gain 7 Enchantedness
+You gain 14 Chutzpah
+
+[16479] Poop Deck
+Encounter: warty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warty pirate takes 592 damage.
+Round 2: boolicious wins the fight!
+You gain 144 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: fish-liver oil
+You acquire an item: vinegar-soaked lemon slice
+You gain 24 Muscleboundness
+You gain 5 Magicalness
+You gain 10 Smarm
+
+[16480] Poop Deck
+Encounter: witty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: witty pirate takes 599 damage.
+Round 2: boolicious wins the fight!
+You gain 152 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 17 Beefiness
+You gain 6 Mysteriousness
+You gain 14 Smarm
+
+[16481] Poop Deck
+Encounter: wealthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wealthy pirate takes 602 damage.
+Round 2: boolicious wins the fight!
+You gain 415 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: solid gold pegleg
+You gain 19 Muscleboundness
+You gain 8 Wizardliness
+You gain 10 Cheek
+
+[16482] Poop Deck
+Encounter: wacky pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wacky pirate takes 593 damage.
+Round 2: boolicious wins the fight!
+You gain 134 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 20 Muscleboundness
+You gain 9 Mysteriousness
+You gain 8 Cheek
+
+[16483] Poop Deck
+Encounter: wacky pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wacky pirate takes 599 damage.
+Round 2: boolicious wins the fight!
+You gain 142 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 24 Muscleboundness
+You gain 10 Mysteriousness
+You gain 4 Smarm
+
+[16484] Poop Deck
+Encounter: wealthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wealthy pirate takes 603 damage.
+Round 2: boolicious wins the fight!
+You gain 370 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: booty chest charrrm
+You gain 25 Fortitude
+You gain 10 Mysteriousness
+You gain 3 Smarm
+
+[16485] Poop Deck
+Encounter: whiny pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: whiny pirate takes 591 damage.
+Round 2: boolicious wins the fight!
+You gain 156 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: bilge wine
+You gain 21 Beefiness
+You gain 8 Magicalness
+You gain 8 Roguishness
+
+[16486] Poop Deck
+Encounter: warty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warty pirate takes 592 damage.
+Round 2: boolicious wins the fight!
+You gain 159 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: fish-liver oil
+You acquire an item: vinegar-soaked lemon slice
+You gain 18 Muscleboundness
+You gain 11 Magicalness
+You gain 9 Chutzpah
+
+[16487] Poop Deck
+Encounter: warty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warty pirate takes 600 damage.
+Round 2: boolicious wins the fight!
+You gain 146 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: vinegar-soaked lemon slice
+You gain 20 Fortitude
+You gain 9 Enchantedness
+You gain 9 Smarm
+
+[16488] Poop Deck
+Encounter: witty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: witty pirate takes 596 damage.
+Round 2: boolicious wins the fight!
+You gain 138 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: witty rapier
+You gain 18 Strongness
+You gain 12 Enchantedness
+You gain 8 Cheek
+
+[16489] Poop Deck
+Encounter: wacky pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wacky pirate takes 585 damage.
+Round 2: boolicious wins the fight!
+You gain 124 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 15 Muscleboundness
+You gain 8 Mysteriousness
+You gain 14 Roguishness
+
+[16490] Poop Deck
+Encounter: wealthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 20 hit points
+Round 2: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles him, holding him down for a round.
+Round 2: boolicious attacks!
+Round 3: wealthy pirate takes 597 damage.
+Round 3: boolicious wins the fight!
+You gain 345 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 22 Beefiness
+You gain 7 Enchantedness
+You gain 7 Cheek
+
+[16491] Poop Deck
+Encounter: whiny pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: whiny pirate takes 558 damage.
+Round 2: boolicious wins the fight!
+You gain 181 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: bilge wine
+You gain 21 Strongness
+You gain 8 Magicalness
+You gain 9 Cheek
+
+[16492] Poop Deck
+Encounter: warty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warty pirate takes 575 damage.
+Round 2: boolicious wins the fight!
+You gain 179 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: fish-liver oil
+You acquire an item: copper ha'penny charrrm
+You gain 20 Fortitude
+You gain 9 Wizardliness
+You gain 8 Sarcasm
+
+[16493] Poop Deck
+Encounter: O Cap'm, My Cap'm
+Took choice 189/1: unknown
+choice.php?whichchoice=189&option=1&pwd
+Coordinates: 59, 10
+
+ocean.php?lon=59&lat=10
+You acquire an item: El Vibrato power sphere
+
+equip pants The Necbromancer's Shorts
+
+equip acc1 hardened slime belt
+
+equip acc3 Baron von Ratsworth's monocle
+
+equip hat straw hat
+
+use 1 bitter pill
+You acquire an effect: Bitterskin (duration: 100 Adventures)
+
+drink 1 slimy fermented bile bladder
+You gain 3 Adventures
+You acquire an effect: Bilious (duration: 20 Adventures)
+You gain 1 Drunkenness
+
+eat 1 slimy sweetbreads
+You gain 2 Adventures
+You acquire an effect: Grimace (duration: 20 Adventures)
+You gain 1 Fullness
+
+use 1 resolution: be happier
+You acquire an effect: Joyful Resolve (duration: 20 Adventures)
+
+use 1 bottle of bubbles
+You acquire an effect: Bubble Vision (duration: 100 Adventures)
+
+clan_hobopolis.php?place=2
+
+clan_hobopolis.php?place=2
