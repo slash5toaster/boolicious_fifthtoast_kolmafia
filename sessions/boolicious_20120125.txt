@@ -942,3 +942,303 @@ Item: +209.60%
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 25, 2012 - Starch 1
+
+Ronald: new moon
+Grimace: new moon
+Mini-moon: front center
+
+St. Sneaky Pete's Day: 2 days
+Oyster Egg Day: 9 days
+El Dia De Los Muertos Borrachos: 17 days
+Valentine's Day: 20 days
+Generic Summer Holiday: 26 days
+Dependence Day: 35 days
+Arrrbor Day: 43 days
+Lab&oacute;r Day: 53 days
+Halloween: 63 days
+Feast of Boris: 70 days
+Yuletide: 75 days
+Festival of Jarlsberg: 80 days
+
+
+Moxie bonus today and yesterday.
+
+
+ > status
+
+Name: boolicious
+Class: 
+
+Lv: 1
+HP: 0 / 0
+MP: 0 / 0
+
+Mus: 0, tnp = 1
+Mys: 0, tnp = 1
+Mox: 0, tnp = 1
+
+Advs: 0
+Meat: 0
+Drunk: 0
+
+
+ > equipment
+
+Hat: (none)
+Weapon: (none)
+Off-hand: (none)
+Shirt: (none)
+Pants: (none)
+
+Acc. 1: (none)
+Acc. 2: (none)
+Acc. 3: (none)
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+
+
+ > effects
+
+0 of 3 AT buffs active.
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 25, 2012 - Starch 1
+
+Ronald: new moon
+Grimace: new moon
+Mini-moon: front center
+
+St. Sneaky Pete's Day: 2 days
+Oyster Egg Day: 9 days
+El Dia De Los Muertos Borrachos: 17 days
+Valentine's Day: 20 days
+Generic Summer Holiday: 26 days
+Dependence Day: 35 days
+Arrrbor Day: 43 days
+Lab&oacute;r Day: 53 days
+Halloween: 63 days
+Feast of Boris: 70 days
+Yuletide: 75 days
+Festival of Jarlsberg: 80 days
+
+
+Moxie bonus today and yesterday.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 26
+HP: 1043 / 1,043
+MP: 59 / 729
+
+Mus: 648 (639), tnp = 1,041
+Mys: 470 (462), tnp = 540
+Mox: 471 (459), tnp = 351
+
+Advs: 93
+Meat: 182,612
+Drunk: 0
+
+
+ > equipment
+
+Hat: straw hat
+Weapon: octopus's spade
+Off-hand: Hodgman's metal detector
+Shirt: cane-mail shirt
+Pants: swashbuckling pants
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: Zinc Delta of Tranquility
+Acc. 3: Hodgman's lucky sock
+
+Pet: Fancypants Scarecrow (11 lbs)
+Item: Knob Goblin Uberpants
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Eggsplosion
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+2 of 3 AT buffs active.
+Object Detection (10)
+Joyful Resolve (20)
+Greedy Resolve (20)
+Strong Resolve (20)
+Brilliant Resolve (20)
+Irresistible Resolve (20)
+Bubble Vision (67)
+♫ The Sonata of Sneakiness (207)
+Astral Shell (207)
+20/20 Vision (208)
+Jalapeño Saucesphere (254)
+♫ Polka of Plenty (415)
+Tenacity of the Snapper (495)
+Jabañero Saucesphere (599)
+Reptilian Fortitude (814)
+Empathy (854)
+Jingle Jangle Jingle (886)
+Scarysauce (990)
+Elemental Saucesphere (1,004)
+Salamanderenity (1,052)
+Patience of the Tortoise (1,096)
+Retrograde Relaxation (1,804)
+Ghostly Shell (2,190)
+
+
+ > modifiers
+
+ML: +20
+Enc: -5.00%
+Init: +10.00%
+
+Exp: +4.50
+Meat: +125.00%
+Item: +209.60%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Manual of Labor
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+Visiting Hermit
+
+[16382] Rest in your dwelling
+You gain 79 hit points
+You gain 82 Muscularity Points
+
+use 1 El Vibrato power sphere
+
+[16382] El Vibrato Island
+Encounter: towering construct
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: towering construct takes 315 damage.
+Round 2: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles it, holding it down for a round.
+Round 2: boolicious attacks!
+Round 3: towering construct takes 369 damage.
+Round 3: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 52 Strengthliness
+You gain 29 Enchantedness
+You gain 27 Smarm
+
+[16384] El Vibrato Island
+
+buy 1 4-d camera for 6900 each from 2261430 on 20120125
+You acquire an item: 4-d camera
+
+[16384] El Vibrato Island
+Encounter: menacing construct
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: menacing construct takes 367 damage.
+Round 2: boolicious attacks!
+Round 3: menacing construct takes 373 damage.
+Round 3: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: El Vibrato punchcard (ATTACK)
+You gain 64 Beefiness
+You gain 31 Wizardliness
+You gain 28 Sarcasm
+
+Visiting the Bounty Hunter Hunter
