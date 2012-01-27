@@ -261,3 +261,520 @@ You acquire an item: resolution: be stronger
 manageprices.php?action=update&price5406=30000&limit5406=0&price5252=6400&limit5252=0&price5251=5980&limit5251=1&price664=2180&limit664=0&price2981=2100&limit2981=0&price196=1470&limit196=1&price4212=800&limit4212=0&price594=410&limit594=0&price2687=400&limit2687=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price703=250&limit703=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price240=160&limit240=0&price218=155&limit218=0&price2055=150&limit2055=0&price352=150&limit352=0&price2613=150&limit2613=0&price475=130&limit475=0&price432=120&limit432=0&price431=120&limit431=0&price1655=120&limit1655=0&price1=100&limit1=0&price77=100&limit77=0&price119=100&limit119=0&price21=100&limit21=0&price129=100&limit129=0&price136=100&limit136=0&price269=100&limit269=0
 
 add to closet: 111199 Meat
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 27, 2012 - Starch 3
+
+Ronald: first quarter
+Grimace: waxing crescent
+Mini-moon: behind Grimace
+
+St. Sneaky Pete's Day: today
+Oyster Egg Day: 7 days
+El Dia De Los Muertos Borrachos: 15 days
+Valentine's Day: 18 days
+Generic Summer Holiday: 24 days
+Dependence Day: 33 days
+Arrrbor Day: 41 days
+Lab&oacute;r Day: 51 days
+Halloween: 61 days
+Feast of Boris: 68 days
+Yuletide: 73 days
+Festival of Jarlsberg: 78 days
+
+St. Sneaky Pete's Day
+2 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 26
+HP: 1044 / 2,050
+MP: 7 / 1,580
+
+Mus: 1,298 (641), tnp = 573
+Mys: 1,019 (463), tnp = 4
+Mox: 922 (461), tnp = 682
+
+Advs: 105
+Meat: 100,000
+Drunk: 0
+
+
+ > equipment
+
+Hat: straw hat
+Weapon: Flail of the Seven Aspects
+Off-hand: Hodgman's metal detector
+Shirt: cane-mail shirt
+Pants: The Necbromancer's Shorts
+
+Acc. 1: hardened slime belt
+Acc. 2: Hodgman's lucky sock
+Acc. 3: Baron von Ratsworth's monocle
+
+Pet: Fancypants Scarecrow (11 lbs)
+Item: Knob Goblin Uberpants
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Eggsplosion
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+2 of 3 AT buffs active.
+Trivia Master (2)
+Coated in Slime (8)
+Bilious (17)
+Astral Shell (67)
+♫ The Sonata of Sneakiness (67)
+20/20 Vision (68)
+Bubble Vision (72)
+Bitterskin (72)
+Jalapeño Saucesphere (114)
+♫ Polka of Plenty (275)
+Tenacity of the Snapper (355)
+Jabañero Saucesphere (459)
+Reptilian Fortitude (674)
+Empathy (714)
+Jingle Jangle Jingle (746)
+Scarysauce (850)
+Elemental Saucesphere (864)
+Salamanderenity (912)
+Patience of the Tortoise (956)
+Retrograde Relaxation (1,664)
+Ghostly Shell (2,050)
+
+
+ > modifiers
+
+ML: +45
+Enc: -5.00%
+Init: +0.00%
+
+Exp: +5.62
+Meat: +95.00%
+Item: +171.60%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+buy 6 black pudding for 310 each from 2149777 on 20120127
+You acquire black pudding (6)
+
+use 1 milk of magnesium
+You acquire an effect: Got Milk (duration: 10 Adventures)
+
+Cook 1 bird rib + 1 lion oil
+You acquire an item: wet stew
+Crafting used 1 each of bird rib and lion oil
+
+eat 1 wet stew
+You gain 18 Adventures
+You gain 19 Strengthliness
+You gain 6 Fullness
+You lose some of an effect: Got Milk
+
+eat 1 tofurkey leg
+You gain 15 Adventures
+You gain 79 Muscleboundness
+You gain 3 Fullness
+You lose some of an effect: Got Milk
+
+use 13 Marquis de Poivre soda
+You gain 475 Muscularity Points
+
+eat 1 black pudding
+You gain 7 Adventures
+You gain 12 Strongness
+You gain 10 Magicalness
+You gain a Mysticality point!
+You gain 11 Smarm
+You gain 3 Fullness
+You lose an effect: Got Milk
+
+eat 1 black pudding
+You gain 5 Adventures
+You gain 11 Fortitude
+You gain 11 Wizardliness
+You gain 12 Sarcasm
+You gain 3 Fullness
+
+drink 1 Barulio's bottle
+You gain 12 Adventures
+You gain 3 Muscleboundness
+You gain 18 Mysteriousness
+You gain 8 Cheek
+You gain 4 Drunkenness
+
+drink 1 ducha de oro
+You gain 10 Adventures
+You gain 9 Beefiness
+You gain 26 Wizardliness
+You gain 4 Drunkenness
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[16523] Mix 1 bottle of whiskey + 1 peppermint twist
+You acquire an item: Mint Yulep
+Crafting used 1 each of bottle of whiskey and peppermint twist
+
+drink 1 Mint Yulep
+You gain 12 Adventures
+You gain 29 Beefiness
+You gain 14 Wizardliness
+You gain 18 Sarcasm
+You gain 2 Drunkenness
+
+clan_slimetube.php?action=bucket
+clan_slimetube.php?action=chamois
+You lose an effect: Coated in Slime
+
+use 1 Nuclear Blastball
+You acquire an effect: Taste the Inferno (duration: 50 Adventures)
+
+autosell: 5 empty Cloaca-Cola bottle
+You gain 1,000 Meat
+
+use 1 scroll of pasta summoning
+You acquire an item: spicy noodles
+
+send a gift to fifthtoast
+
+use 1 sleeping snowy owl
+
+[16523] The Slime Tube
+Encounter: dripping Slime lump
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 1164 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 25 Muscleboundness
+You gain 11 Mysteriousness
+You gain 14 Cheek
+
+[16524] The Slime Tube
+Encounter: pulsating Slime lump
+Round 0: boolicious wins initiative!
+You lose 63 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 523 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: tiny slimy cyst
+You gain 26 Strengthliness
+You gain 16 Mysteriousness
+You gain 9 Smarm
+
+[16525] The Slime Tube
+Encounter: glistening Slime pseudopod
+Round 0: boolicious wins initiative!
+You lose 191 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 523 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: slimy fermented bile bladder
+You gain 33 Muscleboundness
+You gain 10 Magicalness
+You gain 8 Sarcasm
+
+clan_slimetube.php?action=chamois&ajax=1&pwd=33b6766d892aa16872138c1c3b436014&_=1327697352244
+You lose an effect: Coated in Slime
+
+[16526] The Slime Tube
+Encounter: dripping Slime pseudopod
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 569 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: slimy sweetbreads
+You gain 20 Fortitude
+You gain 13 Magicalness
+You gain 16 Chutzpah
+
+[16527] The Slime Tube
+Encounter: throbbing Slime pseudopod
+Round 0: boolicious wins initiative!
+You lose 63 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 533 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: wad of slimy rags
+You gain 28 Fortitude
+You gain 13 Magicalness
+You gain 9 Chutzpah
+
+use 1 wad of slimy rags
+You acquire an item: crown-shaped beanie
+
+equip hat crown-shaped beanie
+
+[16528] The Slime Tube
+Encounter: Engulfed!
+Took choice 337/1: +1 rusty -> slime-covered item conversion
+choice.php?pwd&whichchoice=337&option=1
+
+clan_slimetube.php?action=chamois&ajax=1&pwd=33b6766d892aa16872138c1c3b436014&_=1327697467241
+You lose an effect: Coated in Slime
+
+[16528] The Slime Tube
+Encounter: glistening Slime lump
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 517 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 22 Strongness
+You gain 18 Magicalness
+You gain 11 Sarcasm
+
+[16529] The Slime Tube
+Encounter: Engulfed!
+Took choice 337/2: raise area ML
+choice.php?pwd&whichchoice=337&option=2
+
+clan_slimetube.php?action=chamois&ajax=1&pwd=33b6766d892aa16872138c1c3b436014&_=1327697490933
+You lose an effect: Coated in Slime
+
+[16529] The Slime Tube
+Encounter: pulsating Slime pseudopod
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 522 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: tiny slimy cyst
+You gain 29 Muscleboundness
+You gain 8 Mysteriousness
+You gain 14 Cheek
+
+multiuse.php?passitem=4091&pwd=33b6766d892aa16872138c1c3b436014
+
+use 1 tiny slimy cyst
+You acquire an item: green peawee marble
+
+use 1 tiny slimy cyst
+You acquire an item: jet bennie marble
+
+buy 10 fortune cookie for 40 each from Market Demon
+You acquire fortune cookie (10)
+You spent 400 Meat
+
+Visiting Mr. Store
+
+mallsell: 10 decaying goldfish liver
+
+manageprices.php?action=update&price5406=29200&limit5406=0&price5252=6400&limit5252=0&price5251=5980&limit5251=1&price664=2180&limit664=0&price2981=2100&limit2981=0&price196=1470&limit196=1&price4212=800&limit4212=0&price3229=498&limit3229=0&price594=410&limit594=0&price2687=400&limit2687=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price703=250&limit703=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price240=160&limit240=0&price218=155&limit218=0&price2055=150&limit2055=0&price352=150&limit352=0&price2613=150&limit2613=0&price475=130&limit475=0&price432=120&limit432=0&price431=120&limit431=0&price1655=120&limit1655=0&price1=100&limit1=0&price77=100&limit77=0&price119=100&limit119=0&price21=100&limit21=0&price129=100&limit129=0&price136=100&limit136=0&price269=100&limit269=0
+
+mallsell: 2 mafia aria
+
+manageprices.php?action=update&price5406=29200&limit5406=0&price5252=6400&limit5252=0&price781=6400&limit781=0&price5251=5980&limit5251=1&price664=2180&limit664=0&price2981=2100&limit2981=0&price196=1470&limit196=1&price4212=800&limit4212=0&price3229=498&limit3229=0&price594=410&limit594=0&price2687=400&limit2687=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price703=250&limit703=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price240=160&limit240=0&price218=155&limit218=0&price2055=150&limit2055=0&price352=150&limit352=0&price2613=150&limit2613=0&price475=130&limit475=0&price432=120&limit432=0&price431=120&limit431=0&price1655=120&limit1655=0&price1=100&limit1=0&price77=100&limit77=0&price119=100&limit119=0&price21=100&limit21=0&price129=100&limit129=0&price136=100&limit136=0&price269=100&limit269=0
+
+[16530] The Slime Tube
+Encounter: throbbing Slime polyp
+Round 0: boolicious wins initiative!
+You lose 56 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 528 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 21 Strengthliness
+You gain 20 Mysteriousness
+You gain 9 Roguishness
+
+clan_slimetube.php?action=chamois&ajax=1&pwd=33b6766d892aa16872138c1c3b436014&_=1327699195050
+You lose an effect: Coated in Slime
+
+[16531] The Slime Tube
+Encounter: pulsing Slime nodule
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 523 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 27 Beefiness
+You gain 15 Enchantedness
+You gain 9 Smarm
+
+clan_slimetube.php?action=chamois&ajax=1&pwd=33b6766d892aa16872138c1c3b436014&_=1327699204506
+You lose an effect: Coated in Slime
+
+[16532] The Slime Tube
+Encounter: Engulfed!
+Took choice 337/3: skip adventure
+choice.php?pwd&whichchoice=337&option=3
+
+[16532] The Slime Tube
+Encounter: squirming Slime nodule
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 530 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 25 Strengthliness
+You gain 18 Wizardliness
+You gain 8 Roguishness
+
+[16533] The Slime Tube
+Encounter: pulsating Slime lump
+Round 0: boolicious wins initiative!
+You lose 56 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 533 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 25 Muscleboundness
+You gain 14 Mysteriousness
+You gain 12 Smarm
+
+[16534] The Slime Tube
+Encounter: Engulfed!
+Took choice 337/1: +1 rusty -> slime-covered item conversion
+choice.php?pwd&whichchoice=337&option=1
+
+[16534] The Slime Tube
+Encounter: pulsating Slime lump
+Round 0: boolicious wins initiative!
+You lose 169 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 528 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 24 Muscleboundness
+You gain 13 Enchantedness
+You gain 13 Roguishness
+
+clan_slimetube.php?action=chamois&ajax=1&pwd=33b6766d892aa16872138c1c3b436014&_=1327699280418
+You lose an effect: Coated in Slime
+
+[16535] The Slime Tube
+Encounter: dripping Slime pseudopod
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 524 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: slimy sweetbreads
+You gain 20 Strongness
+You gain 18 Enchantedness
+You gain 11 Sarcasm
+
+eat 0 slimy sweetbreads
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be happier
+
+use 1 resolution: be feistier
+You acquire an effect: Destructive Resolve (duration: 20 Adventures)
+
+use 1 resolution: be sexier
+You acquire an effect: Irresistible Resolve (duration: 20 Adventures)
+
+use 1 resolution: be smarter
+You acquire an effect: Brilliant Resolve (duration: 20 Adventures)
+
+use 1 resolution: be stronger
+You acquire an effect: Strong Resolve (duration: 20 Adventures)
+
+use 1 resolution: be wealthier
+You acquire an effect: Greedy Resolve (duration: 20 Adventures)
+
+Use 6 green peawee marble
+You acquire brown crock marble (3)
+
+Use 4 brown crock marble
+You acquire red China marble (2)
+
+Use 4 red China marble
+You acquire lemonade marble (2)
+
+Use 2 lemonade marble
+You acquire an item: bumblebee marble
+
+[16536] The Slime Tube
+Encounter: squirming Slime lump
+Round 0: boolicious wins initiative!
+You lose 56 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 535 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 30 Strengthliness
+You gain 11 Mysteriousness
+You gain 16 Smarm
+
+clan_slimetube.php?action=chamois
+You lose an effect: Coated in Slime
