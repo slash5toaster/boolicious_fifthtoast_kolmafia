@@ -549,7 +549,7 @@ choiceAdventure90=2
 choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
-cocktailSummons=0
+cocktailSummons=3
 concertVisited=false
 counterScript
 crimboTreeDays=7
@@ -562,7 +562,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=9
+currentSpleenUse=0
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -614,7 +614,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 gongPath=0
 gourdItemCount=5
 grimoire1Summons=0
@@ -652,13 +652,13 @@ lastBangPotion827
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=0
+lastBreakfast=3
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=9
-lastCounterDay=0
+lastCounterDay=3
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
