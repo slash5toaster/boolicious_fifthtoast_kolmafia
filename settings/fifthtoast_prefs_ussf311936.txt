@@ -5,7 +5,7 @@ KoLDesktop=473,108,-1
 LoginFrame=2649,365,0
 MaximizerFrame=326,275
 ProfileFrame=2662,409,-1
-TabbedChatFrame=2564,649,0
+TabbedChatFrame=2004,649,0
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -546,7 +546,7 @@ choiceAdventure90=2
 choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
-cocktailSummons=0
+cocktailSummons=3
 concertVisited=false
 counterScript
 crimboTreeDays=7
@@ -611,7 +611,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 gongPath=0
 gourdItemCount=5
 grimoire1Summons=0
@@ -632,8 +632,9 @@ hpAutoRecoveryItems=cannelloni cocoon;scroll of drastic healing;tongue of the wa
 hpAutoRecoveryTarget=1.0
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=false
+kingLiberatedScript
 knownAscensions=0
-lastAdventure=Spooky Forest
+lastAdventure=Hidden Temple
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -648,13 +649,13 @@ lastBangPotion827
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=4
+lastBreakfast=2
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=8
-lastCounterDay=4
+lastCounterDay=2
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -695,7 +696,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=spooky sapling
+lastEncounter=Poison Gas Trap
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -760,7 +761,7 @@ lastStoneSphereReset=0
 lastTavernAscension=0
 lastTavernSquare=0
 lastTelescopeReset=-1
-lastTempleUnlock=-1
+lastTempleUnlock=0
 lastTowerClimb=-1
 lastTr4pz0rQuest=0
 lastVioletFogMap=0
@@ -786,8 +787,8 @@ mineLayout2
 mineLayout3
 mineLayout4
 mmgAutoConfirmBets=false
-mmgSearchMaximum
-mmgSearchMinimum
+mmgSearchMaximum=10000
+mmgSearchMinimum=5000
 moleTunnelLevel=0
 mpAutoRecovery=-0.5
 mpAutoRecoveryItems=phonics down;knob goblin superseltzer;mountain stream soda;magical mystery juice;knob goblin seltzer;cherry cloaca cola;soda water
