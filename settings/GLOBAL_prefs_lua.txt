@@ -54,7 +54,7 @@ defaultBorderColor=blue
 defaultDropdown1=0
 defaultDropdown2=1
 defaultDropdownSplit=-1
-defaultLimit=5
+defaultLimit=4
 defaultLoginServer=1
 displayName
 displayName.boolicious=boolicious
