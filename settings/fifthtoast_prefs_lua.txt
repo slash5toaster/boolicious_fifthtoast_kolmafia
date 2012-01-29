@@ -1,4 +1,4 @@
-AdventureFrame=48,188,0
+AdventureFrame=48,194,0
 CakeArenaFrame=424,348
 CouncilFrame=424,322,-1
 DescriptionFrame=424,322,-1
@@ -554,7 +554,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=1
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -616,7 +616,7 @@ fossilW=0
 fratboysDefeated=0
 friarsBlessingReceived=false
 gongPath=0
-gourdItemCount=5
+gourdItemCount=7
 grimoire1Summons=0
 grimoire2Summons=0
 grimoire3Summons=0
@@ -637,7 +637,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Fernswarthy's Ruins
+lastAdventure=Haunted Billiards Room
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=healing
@@ -699,7 +699,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=Weretaco
+lastEncounter=chalkdust wraith
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -835,7 +835,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=1342\:Semirare window begin loc\=*\:lparen.gif\:1382\:Semirare window end loc\=*\:rparen.gif
+relayCounters=1492\:Fortune Cookie\:fortune.gif\:1559\:Fortune Cookie\:fortune.gif\:1587\:Fortune Cookie\:fortune.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
