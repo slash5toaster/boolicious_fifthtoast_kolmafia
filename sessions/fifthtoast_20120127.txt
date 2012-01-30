@@ -1,0 +1,997 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 27, 2012 - Starch 3
+
+Ronald: first quarter
+Grimace: waxing crescent
+Mini-moon: behind Grimace
+
+St. Sneaky Pete's Day: today
+Oyster Egg Day: 7 days
+El Dia De Los Muertos Borrachos: 15 days
+Valentine's Day: 18 days
+Generic Summer Holiday: 24 days
+Dependence Day: 33 days
+Arrrbor Day: 41 days
+Lab&oacute;r Day: 51 days
+Halloween: 61 days
+Feast of Boris: 68 days
+Yuletide: 73 days
+Festival of Jarlsberg: 78 days
+
+St. Sneaky Pete's Day
+2 days until Mysticism.
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 9
+HP: 113 / 113
+MP: 53 / 53
+
+Mus: 77 (55), tnp = 38
+Mys: 46 (53), tnp = 15
+Mox: 96 (76), tnp = 44
+
+Advs: 177
+Meat: 41,679
+Drunk: 0
+
+
+ > equipment
+
+Hat: miner's helmet
+Weapon: chrome crossbow
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin elite pants
+
+Acc. 1: badass belt
+Acc. 2: observational glasses
+Acc. 3: tiny plastic Big Candy
+
+Pet: Baby Gravy Fairy (23 lbs)
+Item: eye-pod
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+
+Disco Bandit
+ - Advanced Cocktailcrafting
+ - Disco Aerobics
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Nap
+ - Mad Looting Skillz
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Strength of Ten Ettins (10)
+Confused (20)
+Disco State of Mind (46)
+Jalapeño Saucesphere (201)
+Jabañero Saucesphere (201)
+Jingle Jangle Jingle (201)
+Astral Shell (201)
+Ghostly Shell (201)
+Tenacity of the Snapper (201)
+Scarysauce (216)
+Empathy (216)
+Elemental Saucesphere (216)
+Reptilian Fortitude (216)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +85.57%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Manual of Dexterity
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card:  Who?
+You acquire an item: Trivial Avocations Card:  What?
+You acquire an item: Trivial Avocations Card:  Who?
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+buy 1 hermit permit for 100 each from Market Demon
+You acquire an item: hermit permit
+You spent 100 Meat
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 4 chewing gum on a string for 50 each from Market Demon
+You acquire chewing gum on a string (4)
+You spent 200 Meat
+
+add to closet: 1 worthless gewgaw
+
+use 3 chewing gum on a string
+You acquire an item: worthless gewgaw
+You acquire an item: worthless trinket
+You acquire an item: worthless knick-knack
+
+add to closet: 1 worthless trinket
+
+add to closet: 1 worthless gewgaw
+
+add to closet: 1 worthless knick-knack
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+take from closet: 1 worthless trinket
+You acquire an item: worthless trinket
+
+take from closet: 2 worthless gewgaw
+You acquire worthless gewgaw (2)
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 5 worthless items for 5 ten-leaf clovers
+
+buy 4 hermit permit for 100 each from Market Demon
+You acquire hermit permit (4)
+You spent 400 Meat
+
+trading 5 worthless items for 5 ten-leaf clovers
+You acquire ten-leaf clover (5)
+
+Use 5 ten-leaf clover
+You acquire disassembled clover (5)
+
+cast 3 Advanced Cocktailcrafting
+You acquire an item: magical ice cubes
+You acquire an item: little paper umbrella
+You acquire an item: magical ice cubes
+
+cast 1 Disco Nap
+You gain 20 hit points
+You lose an effect: Confused
+
+cast 1 Disco Aerobics
+You acquire an effect: Disco State of Mind (duration: 5 Adventures)
+Betting 1,500 meat from inventory
+Betting 5,000 meat from inventory
+Taking bet 76897000 using 1,000 meat from inventory
+You lose 1,000 Meat
+Retracting bet 76896999
+Taking bet 76897001 using 5,000 meat from inventory
+You lose 5,000 Meat
+
+[1345] Roulette Tables
+Encounter: Getting up to Roulette Didos
+You gain 30 Meat
+
+[1346] Poker Room
+Encounter: Cards with Bards
+You gain 50 Meat
+
+[1347] Goat Party
+
+[1347] Noob Cave
+Encounter: crate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: crate takes 78 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bottle of vodka
+After Battle: Roux does a little fairy dance.
+You gain 1 Cheek
+
+tutorial.php?action=toot
+mountains.php?orcs=1&pwd=1ccdae1a199dcf175e9ef74bbac0d760
+
+[1348] Pirate Cove
+Encounter: Amatearrr Night
+Took choice 24/1: stuffed shoulder parrot
+choice.php?pwd&whichchoice=24&option=1
+You lose 3 hit points
+You acquire an item: stuffed shoulder parrot
+
+equip acc1 stuffed shoulder parrot
+friars blessing 3
+You acquire an effect: Brother Smothers's Blessing (duration: 20 Adventures)
+
+[1349] Pirate Cove
+Encounter: swarthy pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: swarthy pirate takes 23 damage.
+Round 2: fifthtoast attacks!
+Round 3: swarthy pirate takes 29 damage.
+Round 3: fifthtoast attacks!
+Round 4: swarthy pirate takes 21 damage.
+Round 4: fifthtoast wins the fight!
+You gain 23 Meat
+After Battle: Roux does a little fairy dance.
+You acquire an item: stuffed shoulder parrot
+You gain 4 Muscleboundness
+You gain 6 Mysteriousness
+You gain 6 Cheek
+
+[1350] Pirate Cove
+Encounter: shady pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast casts SUCKERPUNCH!
+Round 2: shady pirate takes 1 damage.
+Round 2: shady pirate drops 1 attack power.
+Round 2: shady pirate drops 1 defense.
+Round 2: fifthtoast attacks!
+Round 3: shady pirate takes 21 damage.
+Round 3: fifthtoast attacks!
+Round 4: shady pirate takes 32 damage.
+Round 4: fifthtoast attacks!
+Round 5: shady pirate takes 26 damage.
+Round 5: fifthtoast wins the fight!
+You gain 30 Meat
+After Battle: Roux does a little fairy dance.
+You gain 1 Strengthliness
+You gain 7 Enchantedness
+You gain 9 Sarcasm
+
+[1351] Pirate Cove
+Encounter: shifty pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: shifty pirate takes 32 damage.
+Round 2: fifthtoast attacks!
+Round 3: shifty pirate takes 22 damage.
+Round 3: fifthtoast attacks!
+Round 4: shifty pirate takes 30 damage.
+Round 4: fifthtoast wins the fight!
+You gain 44 Meat
+After Battle: Roux does a little fairy dance.
+You acquire an item: flaregun
+You gain 4 Strengthliness
+You gain 6 Wizardliness
+You gain a Mysticality point!
+You gain 7 Sarcasm
+
+[1352] Pirate Cove
+Encounter: shifty pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: shifty pirate takes 40 damage.
+Round 2: fifthtoast attacks!
+Round 3: shifty pirate takes 29 damage.
+Round 3: fifthtoast wins the fight!
+You gain 42 Meat
+After Battle: Roux does a little fairy dance.
+You acquire an item: sunken chest
+You acquire an item: flaregun
+You gain 4 Muscleboundness
+You gain 2 Enchantedness
+You gain 11 Chutzpah
+
+[1353] Pirate Cove
+Encounter: smarmy pirate
+Round 0: fifthtoast loses initiative!
+Round 1: smarmy pirate takes 3 damage.
+Round 1: smarmy pirate takes 20 damage.
+Round 1: smarmy pirate takes 3 damage.
+You lose 1 hit point
+Round 1: fifthtoast attacks!
+Round 2: smarmy pirate takes 20 damage.
+Round 2: fifthtoast attacks!
+Round 3: smarmy pirate takes 25 damage.
+Round 3: fifthtoast wins the fight!
+You gain 25 Meat
+After Battle: Roux does a little fairy dance.
+You acquire an item: bottle of rum
+You gain 2 Beefiness
+You gain 7 Enchantedness
+You gain 8 Cheek
+
+[1354] Pirate Cove
+Encounter: shifty pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: shifty pirate takes 30 damage.
+Round 2: fifthtoast attacks!
+Round 3: shifty pirate takes 31 damage.
+Round 3: fifthtoast wins the fight!
+You gain 39 Meat
+After Battle: Roux does a little fairy dance.
+You acquire an item: sunken chest
+You acquire an item: flaregun
+You gain 3 Muscleboundness
+You gain 3 Magicalness
+You gain 12 Cheek
+You gain a Moxie point!
+
+[1355] Pirate Cove
+Encounter: Amatearrr Night
+Took choice 24/2: small meat boost
+choice.php?pwd&whichchoice=24&option=2
+You gain 100 Meat
+
+[1356] Pirate Cove
+Encounter: sassy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: sassy pirate takes 21 damage.
+Round 2: sassy pirate takes 3 damage.
+Round 2: sassy pirate takes 4 damage.
+Round 2: sassy pirate takes 3 damage.
+You lose 3 hit points
+Round 2: fifthtoast attacks!
+Round 3: sassy pirate takes 24 damage.
+Round 3: fifthtoast wins the fight!
+Your familiar gains a pound: Roux, the 14 lb. Baby Gravy Fairy
+You gain 18 Meat
+After Battle: Roux does a little fairy dance.
+You acquire an item: swashbuckling pants
+You acquire an item: sunken chest
+You gain 4 Muscleboundness
+You gain 3 Mysteriousness
+You gain 7 Smarm
+outfit Swashbuckling Getup
+
+[1357] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: tetchy pirate takes 32 damage.
+Round 2: fifthtoast attacks!
+Round 3: tetchy pirate takes 22 damage.
+Round 3: fifthtoast attacks!
+You lose 5 hit points
+Round 4: fifthtoast attacks!
+Round 5: tetchy pirate takes 27 damage.
+Round 5: fifthtoast wins the fight!
+You gain 40 Meat
+After Battle: Roux does a little fairy dance.
+You acquire an item: bottle of rum
+You gain 9 Fortitude
+You gain 4 Magicalness
+You gain 8 Cheek
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 7 bits of wilted lettuce
+
+[1358] Fernswarthy's Ruins
+Encounter: Lesser Fruit Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: lesser fruit golem takes 56 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Roux does a little fairy dance.
+You gain 1 Fortitude
+You gain 1 Magicalness
+You gain 3 Sarcasm
+
+[1359] Fernswarthy's Ruins
+Encounter: Chowder Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: chowder golem takes 57 damage.
+Round 2: fifthtoast wins the fight!
+You gain 41 Meat
+After Battle: Roux does a little fairy dance.
+You gain 4 Chutzpah
+
+[1360] Fernswarthy's Ruins
+Encounter: Lesser Fruit Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+You acquire an item: strawberry
+Round 2: fifthtoast attacks!
+Round 3: lesser fruit golem takes 57 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Roux does a little fairy dance.
+You acquire an item: lemon
+You acquire an item: grapes
+You gain 1 Beefiness
+You gain 1 Enchantedness
+You gain 3 Sarcasm
+
+[1361] Fernswarthy's Ruins
+Encounter: Yeast Beast
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+You acquire an item: wad of dough
+Round 2: fifthtoast attacks!
+Round 3: yeast beast takes 53 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Roux does a little fairy dance.
+You acquire an item: wad of dough
+You gain 1 Strengthliness
+You gain 1 Mysteriousness
+You gain 2 Chutzpah
+
+[1362] Fernswarthy's Ruins
+Encounter: Bread Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: bread golem takes 56 damage.
+Round 3: fifthtoast wins the fight!
+You gain 31 Meat
+After Battle: Roux does a little fairy dance.
+You acquire an item: wad of dough
+You gain 2 Strongness
+You gain 2 Smarm
+
+[1363] Fernswarthy's Ruins
+Encounter: Weretaco
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: weretaco takes 51 damage.
+Round 3: fifthtoast wins the fight!
+You gain 38 Meat
+After Battle: Roux does a little fairy dance.
+You acquire an item: wilted lettuce
+You gain 1 Enchantedness
+You gain 3 Cheek
+
+[1364] Fernswarthy's Ruins
+Encounter: Chowder Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: chowder golem takes 46 damage.
+Round 2: fifthtoast wins the fight!
+You gain 39 Meat
+After Battle: Roux does a little fairy dance.
+You gain 5 Roguishness
+
+[1365] Fernswarthy's Ruins
+Encounter: Chowder Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: chowder golem takes 54 damage.
+Round 2: fifthtoast wins the fight!
+You gain 37 Meat
+After Battle: Roux does a little fairy dance.
+You gain 2 Muscleboundness
+You gain a Muscle point!
+You gain 1 Wizardliness
+You gain 2 Chutzpah
+
+[1366] Fernswarthy's Ruins
+Encounter: Bread Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: bread golem takes 59 damage.
+Round 3: fifthtoast wins the fight!
+You gain 29 Meat
+After Battle: Roux does a little fairy dance.
+You gain 2 Muscleboundness
+You gain 2 Sarcasm
+
+[1367] Fernswarthy's Ruins
+Encounter: Brainsweeper
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+You acquire an item: disembodied brain
+Round 2: fifthtoast attacks!
+Round 3: brainsweeper takes 52 damage.
+Round 3: fifthtoast wins the fight!
+You gain 40 Meat
+After Battle: Roux does a little fairy dance.
+You gain 3 Enchantedness
+You gain 1 Roguishness
+
+equip hat miner's helmet
+
+equip weapon magic whistle
+
+equip off-hand little round pebble
+
+equip acc1 badass belt
+
+buy 1 bottle of bubbles for 4990 each from 1649738 on 20120127
+You acquire an item: bottle of bubbles
+
+use 1 bottle of bubbles
+You acquire an effect: Bubble Vision (duration: 100 Adventures)
+
+buy 1 Knob Goblin eyedrops for 200 each from 1945689 on 20120127
+You acquire an item: Knob Goblin eyedrops
+
+use 1 Knob Goblin eyedrops
+You acquire an effect: Peeled Eyeballs (duration: 10 Adventures)
+
+[1368] Fernswarthy's Ruins
+Encounter: Yeast Beast
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: yeast beast takes 54 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: Roux does a little fairy dance.
+You acquire an item: wad of dough
+You acquire an item: wad of dough
+You gain 1 Beefiness
+You gain 2 Wizardliness
+You gain 1 Cheek
+
+[1369] Fernswarthy's Ruins
+Encounter: Bread Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: bread golem takes 47 damage.
+Round 3: fifthtoast wins the fight!
+You gain 29 Meat
+After Battle: Roux does a little fairy dance.
+You gain 1 Strongness
+You gain 3 Mysteriousness
+
+[1370] Fernswarthy's Ruins
+Encounter: Weretaco
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: weretaco takes 47 damage.
+Round 3: fifthtoast wins the fight!
+You gain 25 Meat
+After Battle: Roux does a little fairy dance.
+You acquire an item: uncooked chorizo
+You acquire an item: wilted lettuce
+You gain 4 Chutzpah
+
+[1371] Fernswarthy's Ruins
+Encounter: Lesser Fruit Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+You acquire an item: grapefruit
+Round 2: fifthtoast attacks!
+Round 3: lesser fruit golem takes 54 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Roux does a little fairy dance.
+You acquire an item: lemon
+You gain 1 Beefiness
+You gain 1 Magicalness
+You gain 2 Chutzpah
+
+[1372] Fernswarthy's Ruins
+Encounter: Brainsweeper
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: brainsweeper takes 51 damage.
+Round 3: fifthtoast wins the fight!
+You gain 26 Meat
+After Battle: Roux does a little fairy dance.
+You gain 1 Fortitude
+You gain 2 Wizardliness
+You gain 2 Roguishness
+
+[1373] Fernswarthy's Ruins
+Encounter: Chowder Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: chowder golem takes 64 damage.
+Round 2: fifthtoast wins the fight!
+You gain 24 Meat
+After Battle: Roux does a little fairy dance.
+You gain 2 Strongness
+You gain 1 Mysteriousness
+You gain 2 Chutzpah
+
+[1374] Fernswarthy's Ruins
+Encounter: Bread Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+You acquire an item: wad of dough
+Round 2: fifthtoast attacks!
+Round 3: bread golem takes 68 damage.
+Round 3: fifthtoast wins the fight!
+You gain 26 Meat
+After Battle: Roux does a little fairy dance.
+You gain 1 Enchantedness
+You gain 3 Chutzpah
+
+[1375] Fernswarthy's Ruins
+Encounter: Yeast Beast
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: yeast beast takes 55 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: Roux does a little fairy dance.
+You acquire an item: wad of dough
+You acquire an item: wad of dough
+You gain 2 Mysteriousness
+You gain 2 Roguishness
+
+[1376] Fernswarthy's Ruins
+Encounter: Weretaco
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: weretaco takes 51 damage.
+Round 3: fifthtoast wins the fight!
+You gain 24 Meat
+After Battle: Roux does a little fairy dance.
+You acquire an item: taco shell
+You acquire an item: uncooked chorizo
+You acquire an item: wilted lettuce
+You gain 1 Strengthliness
+You gain 1 Enchantedness
+You gain 2 Roguishness
+
+[1377] Fernswarthy's Ruins
+Encounter: Lesser Fruit Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: lesser fruit golem takes 48 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Roux does a little fairy dance.
+You acquire an item: orange
+You acquire an item: lemon
+You gain 1 Strongness
+You gain 3 Sarcasm
+
+[1378] Fernswarthy's Ruins
+Encounter: Brainsweeper
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+You acquire an item: disembodied brain
+Round 2: fifthtoast attacks!
+Round 3: brainsweeper takes 47 damage.
+Round 3: fifthtoast wins the fight!
+You gain 37 Meat
+After Battle: Roux does a little fairy dance.
+You gain 2 Fortitude
+You gain 1 Magicalness
+You gain 2 Smarm
+
+[1379] Fernswarthy's Ruins
+Encounter: Chowder Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: chowder golem takes 54 damage.
+Round 2: fifthtoast wins the fight!
+You gain 32 Meat
+After Battle: Roux does a little fairy dance.
+You gain 2 Enchantedness
+You gain 4 Cheek
+
+[1380] Fernswarthy's Ruins
+Encounter: Bread Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: bread golem takes 58 damage.
+Round 3: fifthtoast wins the fight!
+You gain 33 Meat
+After Battle: Roux does a little fairy dance.
+You acquire an item: wad of dough
+You gain 1 Strengthliness
+You gain 1 Enchantedness
+You gain 3 Roguishness
+
+[1381] Fernswarthy's Ruins
+Encounter: Lesser Fruit Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: lesser fruit golem takes 48 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Roux does a little fairy dance.
+You acquire an item: strawberry
+You gain 5 Chutzpah
+
+[1382] Fernswarthy's Ruins
+Encounter: Chowder Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: chowder golem takes 45 damage.
+Round 2: fifthtoast wins the fight!
+You gain 38 Meat
+After Battle: Roux does a little fairy dance.
+You gain 1 Fortitude
+You gain 2 Wizardliness
+You gain 3 Chutzpah
+
+[1383] Fernswarthy's Ruins
+Encounter: Weretaco
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: weretaco takes 47 damage.
+Round 3: fifthtoast wins the fight!
+You gain 36 Meat
+After Battle: Roux does a little fairy dance.
+You acquire an item: taco shell
+You acquire an item: wilted lettuce
+You gain 3 Mysteriousness
+You gain 2 Smarm
+
+[1384] Fernswarthy's Ruins
+Encounter: Chowder Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: chowder golem takes 50 damage.
+Round 2: fifthtoast wins the fight!
+You gain 42 Meat
+After Battle: Roux does a little fairy dance.
+You gain 2 Muscleboundness
+You gain 1 Magicalness
+You gain 2 Roguishness
+
+[1385] Fernswarthy's Ruins
+Encounter: Brainsweeper
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: brainsweeper takes 49 damage.
+Round 3: fifthtoast wins the fight!
+Your familiar gains a pound: Roux, the 15 lb. Baby Gravy Fairy
+You gain 35 Meat
+After Battle: Roux does a little fairy dance.
+You acquire an item: disembodied brain
+You gain 3 Fortitude
+You gain 2 Sarcasm
+
+[1386] Fernswarthy's Ruins
+Encounter: Weretaco
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: weretaco takes 52 damage.
+Round 3: fifthtoast wins the fight!
+You gain 29 Meat
+After Battle: Roux does a little fairy dance.
+You acquire an item: taco shell
+You acquire an item: uncooked chorizo
+You acquire an item: wilted lettuce
+You gain 1 Muscleboundness
+You gain 4 Sarcasm
+
+[1387] Fernswarthy's Ruins
+Encounter: Weretaco
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+You acquire an item: taco shell
+Round 2: fifthtoast attacks!
+You lose 3 hit points
+Round 3: fifthtoast attacks!
+Round 4: weretaco takes 46 damage.
+Round 4: fifthtoast wins the fight!
+You gain 28 Meat
+After Battle: Roux does a little fairy dance.
+You acquire an item: uncooked chorizo
+You acquire an item: wilted lettuce
+You gain 2 Magicalness
+You gain 3 Roguishness
+
+[1388] Fernswarthy's Ruins
+Encounter: Yeast Beast
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: yeast beast takes 50 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: Roux does a little fairy dance.
+You acquire an item: wad of dough
+You acquire an item: wad of dough
+You gain 2 Strengthliness
+You gain 1 Magicalness
+You gain 2 Chutzpah
+
+[1389] Fernswarthy's Ruins
+Encounter: Chowder Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: chowder golem takes 66 damage.
+Round 2: fifthtoast wins the fight!
+You gain 37 Meat
+After Battle: Roux does a little fairy dance.
+You gain 1 Fortitude
+You gain 2 Enchantedness
+You gain 2 Chutzpah
+
+[1390] Fernswarthy's Ruins
+Encounter: Yeast Beast
+Round 0: fifthtoast wins initiative!
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: yeast beast takes 45 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Roux does a little fairy dance.
+You acquire an item: wad of dough
+You acquire an item: wad of dough
+You gain 1 Strongness
+You gain 3 Enchantedness
+You gain 2 Chutzpah
+
+[1391] Fernswarthy's Ruins
+Encounter: Lesser Fruit Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: lesser fruit golem takes 48 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Roux does a little fairy dance.
+You acquire an item: orange
+You acquire an item: grapefruit
+You acquire an item: grapes
+You gain 1 Beefiness
+You gain 3 Enchantedness
+You gain 1 Roguishness
+
+[1392] Fernswarthy's Ruins
+Encounter: Yeast Beast
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: yeast beast takes 53 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: Roux does a little fairy dance.
+You acquire an item: wad of dough
+You acquire an item: wad of dough
+You gain 1 Strongness
+You gain 2 Mysteriousness
+You gain 2 Roguishness
+
+[1393] Fernswarthy's Ruins
+Encounter: Lesser Fruit Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+You acquire an item: lemon
+Round 2: fifthtoast attacks!
+Round 3: lesser fruit golem takes 47 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Roux does a little fairy dance.
+You acquire an item: grapefruit
+You acquire an item: strawberry
+You gain 1 Mysteriousness
+You gain 4 Cheek
+
+[1394] Fernswarthy's Ruins
+Encounter: Weretaco
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: weretaco takes 3 damage.
+Round 2: weretaco takes 4 damage.
+Round 2: weretaco takes 3 damage.
+You lose 1 hit point
+Round 2: fifthtoast attacks!
+Round 3: weretaco takes 55 damage.
+Round 3: fifthtoast wins the fight!
+You gain 29 Meat
+After Battle: Roux does a little fairy dance.
+You acquire an item: taco shell
+You acquire an item: uncooked chorizo
+You acquire an item: wilted lettuce
+You gain 1 Strongness
+You gain 4 Magicalness
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+cast 1 Disco Aerobics
+You acquire an effect: Disco State of Mind (duration: 5 Adventures)
+
+cast 1 Disco Aerobics
+You acquire an effect: Disco State of Mind (duration: 5 Adventures)
+
+cast 1 Disco Aerobics
+You acquire an effect: Disco State of Mind (duration: 5 Adventures)
+
+cast 1 Disco Aerobics
+You acquire an effect: Disco State of Mind (duration: 5 Adventures)
+
+cast 1 Disco Aerobics
+You acquire an effect: Disco State of Mind (duration: 5 Adventures)
+
+cast 1 Disco Aerobics
+You acquire an effect: Disco State of Mind (duration: 5 Adventures)
+
+Visiting the Bounty Hunter Hunter
+
+[1395] Hidden Temple
+Encounter: Lightning Trap
+You gain 50 Magicalness
+You gain a Mysticality point!
+
+[1396] Hidden Temple
+Encounter: Lightning Trap
+You gain 50 Magicalness
+
+[1397] Hidden Temple
+Encounter: Poison Gas Trap
+You gain 50 Mysteriousness
+You gain a Mysticality point!
+
+[1398] Hidden Temple
+Encounter: Lightning Trap
+You gain 50 Wizardliness
+
+[1399] Hidden Temple
+Encounter: Rolling Stone Trap
+You lose 31 hit points
+
+[1400] Hidden Temple
+Encounter: Lightning Trap
+You lose 22 Mojo Points
+
+[1401] Hidden Temple
+Encounter: Swinging Blade Trap
+You gain 50 Strengthliness
+
+[1402] Hidden Temple
+Encounter: Arrowed!
+You gain 50 Cheek
+You gain a Moxie point!
+
+[1403] Hidden Temple
+Encounter: Poison Gas Trap
+You gain 50 Magicalness
