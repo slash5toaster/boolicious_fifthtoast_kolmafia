@@ -176,7 +176,7 @@ blankOutUsed=0
 bootsCharged=false
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=true
+breakfastCompleted=false
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
@@ -546,7 +546,7 @@ choiceAdventure90=2
 choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
-cocktailSummons=3
+cocktailSummons=1
 concertVisited=false
 counterScript
 crimboTreeDays=7
@@ -611,7 +611,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 gongPath=0
 gourdItemCount=5
 grimoire1Summons=0
@@ -649,13 +649,13 @@ lastBangPotion827
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=2
+lastBreakfast=5
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=8
-lastCounterDay=2
+lastCounterDay=5
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -856,6 +856,7 @@ sidequestOrchardCompleted=none
 singleFamiliarRun=-1
 skateParkStatus=war
 skillBurn1019=-100
+skillBurn3=-100
 skillBurn5017=-100
 skillBurn6014=-100
 skillBurn6015=-100
