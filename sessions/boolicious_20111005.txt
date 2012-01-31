@@ -1095,3 +1095,3347 @@ Item: +0.00%
 eat 1 unidentified jerky
 
 eat 1 toast
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+October 5, 2011 - Jarlsuary 1
+
+Ronald: new moon
+Grimace: new moon
+Mini-moon: behind Ronald
+
+Festival of Jarlsberg: today
+Valentine's Day: 11 days
+St. Sneaky Pete's Day: 18 days
+Oyster Egg Day: 25 days
+Halloween: 26 days
+El Dia De Los Muertos Borrachos: 33 days
+Generic Summer Holiday: 42 days
+Feast of Boris: 50 days
+Dependence Day: 51 days
+Arrrbor Day: 59 days
+Lab&oacute;r Day: 69 days
+Yuletide: 91 days
+
+Festival of Jarlsberg
+Moxie bonus today and yesterday.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 15
+HP: 391 / 462
+MP: 270 / 316
+
+Mus: 285 (202), tnp = 202
+Mys: 186 (146), tnp = 277
+Mox: 212 (147), tnp = 66
+
+Advs: 195
+Meat: 14,402
+Drunk: 14
+
+
+ > equipment
+
+Hat: eyepatch
+Weapon: (none)
+Off-hand: (none)
+Shirt: Ultracolor™ shirt
+Pants: swashbuckling pants
+
+Acc. 1: Mr. Accessory
+Acc. 2: blackberry galoshes
+Acc. 3: stuffed shoulder parrot
+
+Pet: Cocoabo (35 lbs)
+Item: chocolate spurs
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+Gnome Trainer
+ - Gnefarious Pickpocketing
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Muscularrr (2)
+Super-Mega-Ultra-Charged (5)
+Hammered (12)
+Brother Flying Burrito's Blessing (12)
+Earthen Fist (21)
+Yes, Can Haz (42)
+Sugar Rush (92)
+♫ Jackasses' Symphony of Destruction (116)
+Jingle Jangle Jingle (116)
+Scarysauce (116)
+♫ Psalm of Pointiness (116)
+Empathy (116)
+Reptilian Fortitude (116)
+Ghostly Shell (116)
+Tenacity of the Snapper (116)
+Astral Shell (116)
+Jabañero Saucesphere (116)
+Jalapeño Saucesphere (116)
+Elemental Saucesphere (116)
+♫ The Magical Mojomuscular Melody (116)
+Retrograde Relaxation (626)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +0.00
+Meat: +30.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+postwarisland.php?place=lighthouse
+Visiting the lighthouse keeper with 1 barrel of gunpowder.
+You acquire an item: big boom
+
+[3457] Poop Deck
+Encounter: O Cap'm, My Cap'm
+choice.php?pwd&whichchoice=189&option=1
+
+ocean.php?intro=1
+ocean.php?lon=124&lat=31
+You acquire an item: shimmering rainbow sand
+
+[3458] Poop Deck
+Encounter: warty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: warty pirate takes 151 damage.
+Round 2: boolicious wins the fight!
+You gain 92 Meat.
+You acquire an item: fish-liver oil
+You acquire an item: vinegar-soaked lemon slice
+You gain 9 muskewlairtees
+You gain 15 mistikkaltees
+You gain 10 mawksees
+
+[3459] Poop Deck
+Encounter: witty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CHILLED MONKEY BRAIN TECHNIQUE!
+Round 2: witty pirate takes 61 damage.
+Round 2: boolicious attacks!
+Round 3: witty pirate takes 146 damage.
+Round 3: boolicious wins the fight!
+You gain 92 Meat.
+You acquire an item: witty rapier
+You gain 14 muskewlairtees
+You gain 12 mistikkaltees
+You gain 9 mawksees
+
+[3460] Poop Deck
+Encounter: wealthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: wealthy pirate takes 8 damage.
+Round 2: wealthy pirate takes 3 damage.
+Round 2: wealthy pirate takes 10 damage.
+Round 2: wealthy pirate takes 4 damage.
+You lose 1 hit point
+Round 2: boolicious casts CHILLED MONKEY BRAIN TECHNIQUE!
+Round 3: wealthy pirate takes 58 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 38 damage.
+Round 3: wealthy pirate takes 38 damage.
+Round 3: boolicious wins the fight!
+You gain 299 Meat.
+You gain 18 muskewlairtees
+You gain 9 mistikkaltees
+You gain 8 mawksees
+
+[3461] Poop Deck
+Encounter: wacky pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: wacky pirate takes 146 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: wacky pirate drops 12 attack power.
+Round 2: wacky pirate drops 12 defense.
+Round 2: boolicious wins the fight!
+You gain 96 Meat.
+You gain 15 muskewlairtees
+You gain 9 mistikkaltees
+You gain 9 mawksees
+
+[3462] Poop Deck
+Encounter: witty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: witty pirate takes 141 damage.
+Round 2: boolicious wins the fight!
+You gain 119 Meat.
+You acquire an item: silver tongue charrrm
+You gain 20 muskewlairtees
+You gain 1 mistikkaltees
+You gain 14 mawksees
+
+[3463] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+choice.php?pwd&whichchoice=197&option=3
+
+[3464] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a frog!
+Round 2: boolicious attacks!
+Round 3: frog takes 225 damage.
+Round 3: boolicious wins the fight!
+You gain 14 Meat.
+You acquire an item: squashed frog
+You gain 2 muskewlairtees
+
+[3465] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious loses initiative!
+Round 1: giant zombie goldfish takes 8 damage.
+Round 1: giant zombie goldfish takes 2 damage.
+Round 1: giant zombie goldfish takes 6 damage.
+Round 1: giant zombie goldfish takes 5 damage.
+You lose 47 hit points
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a salamander!
+Round 2: boolicious uses the Gnomitronic Hyperspatial Demodulizer!
+Round 3: salamander takes 12 damage.
+You acquire an effect: Super-Mega-Ultra-Hyper-Charged (duration: 5 Adventures)
+Round 3: boolicious wins the fight!
+You gain 14 Meat.
+You acquire an item: salamander spleen
+You gain 2 mawksees
+
+[3466] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a frog!
+Round 2: boolicious attacks!
+Round 3: frog takes 244 damage.
+Round 3: boolicious wins the fight!
+You gain 14 Meat.
+You acquire an item: squashed frog
+You gain 2 muskewlairtees
+
+[3467] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+choice.php?pwd&whichchoice=199&option=1
+
+[3468] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a newt!
+Round 2: boolicious attacks!
+Round 3: newt takes 244 damage.
+Round 3: boolicious wins the fight!
+You gain 14 Meat.
+You acquire an item: eye of newt
+You gain 1 mistikkaltees
+
+[3469] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious loses initiative!
+Round 1: sewer gator takes 5 damage.
+Round 1: sewer gator takes 3 damage.
+Round 1: sewer gator takes 6 damage.
+Round 1: sewer gator takes 5 damage.
+You lose 24 hit points
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a salamander!
+Round 2: boolicious attacks!
+Round 3: salamander takes 186 damage.
+Round 3: boolicious wins the fight!
+You gain 15 Meat.
+You acquire an item: salamander spleen
+You gain 1 mistikkaltees
+
+[3470] A Maze of Sewer Tunnels
+Encounter: Despite All Your Rage
+choice.php?pwd&whichchoice=211&option=2
+Encounter: Despite All Your Rage
+choice.php?pwd&whichchoice=212&option=2
+Encounter: Despite All Your Rage
+choice.php?pwd&whichchoice=212&option=2
+Encounter: Despite All Your Rage
+choice.php?pwd&whichchoice=212&option=2
+Encounter: Despite All Your Rage
+choice.php?pwd&whichchoice=212&option=2
+Encounter: Despite All Your Rage
+choice.php?pwd&whichchoice=212&option=2
+Encounter: Despite All Your Rage
+choice.php?pwd&whichchoice=212&option=2
+Encounter: Despite All Your Rage
+Encounter: Despite All Your Rage
+Encounter: Despite All Your Rage
+Encounter: Despite All Your Rage
+choice.php?pwd&whichchoice=212&option=2
+Encounter: Despite All Your Rage
+choice.php?pwd&whichchoice=212&option=2
+Encounter: Despite All Your Rage
+Encounter: Despite All Your Rage
+Encounter: Despite All Your Rage
+Encounter: Despite All Your Rage
+Encounter: Despite All Your Rage
+choice.php?pwd&whichchoice=212&option=1
+
+cast 20 Worldpunch
+You acquire an effect: Earthen Fist (duration: 220 Adventures)
+
+cast 20 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 660 Adventures)
+
+cast 16 Miyagi Massage
+You acquire an effect: Retrograde Relaxation (duration: 528 Adventures)
+
+[3480] Poop Deck
+Encounter: whiny pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious 
+Round 2: boolicious attacks!
+You lose 1 hit point
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused. LIMIT BREAK!
+Round 3: whiny pirate drops 25 attack power.
+Round 3: whiny pirate drops 25 defense.
+Round 3: boolicious attacks!
+Round 4: whiny pirate takes 121 damage.
+Round 4: boolicious wins the fight!
+You gain 105 Meat.
+You gain 17 muskewlairtees
+You gain 14 mistikkaltees
+
+use 1 phonics down
+You acquire an effect: Tingly Elbows (duration: 5 Adventures)
+You gain 49 hit points
+You gain 48 Muscularity Points
+
+[3481] Poop Deck
+Encounter: warty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: warty pirate takes 126 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 36 damage.
+Round 2: warty pirate takes 36 damage.
+Round 2: boolicious wins the fight!
+You gain 106 Meat.
+You gain 16 muskewlairtees
+You gain 5 mistikkaltees
+You gain 14 mawksees
+You gain a Moxie point!
+
+[3482] Belowdecks
+Encounter: groovy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: groovy pirate takes 126 damage.
+Round 2: boolicious wins the fight!
+You gain 128 Meat.
+You gain 21 muskewlairtees
+You gain 9 mistikkaltees
+You gain 9 mawksees
+
+[3483] Belowdecks
+Encounter: grungy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: grungy pirate takes 126 damage.
+Round 2: boolicious wins the fight!
+You gain 140 Meat.
+You acquire an item: acoustic guitarrr
+You gain 21 muskewlairtees
+You gain 10 mistikkaltees
+You gain 8 mawksees
+
+[3484] Belowdecks
+Encounter: grassy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: grassy pirate takes 126 damage.
+Round 2: boolicious wins the fight!
+You gain 136 Meat.
+You gain 20 muskewlairtees
+You gain 8 mistikkaltees
+You gain 12 mawksees
+
+[3485] Poop Deck
+Encounter: wealthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: wealthy pirate takes 127 damage.
+Round 2: boolicious wins the fight!
+You gain 274 Meat.
+You gain 20 muskewlairtees
+You gain 3 mistikkaltees
+You gain 12 mawksees
+
+[3486] Poop Deck
+Encounter: warty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: warty pirate takes 121 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 42 hit points
+You gain 42 Muscularity Points
+Round 2: boolicious wins the fight!
+You gain 97 Meat.
+You gain 19 muskewlairtees
+You gain a Muscle point!
+You gain 9 mistikkaltees
+You gain 5 mawksees
+
+[3487] Poop Deck
+Encounter: wacky pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: wacky pirate takes 121 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 38 damage.
+Round 2: wacky pirate takes 38 damage.
+Round 2: boolicious wins the fight!
+You gain 104 Meat.
+You gain 16 muskewlairtees
+You gain 6 mistikkaltees
+You gain 12 mawksees
+
+[3488] Orc Chasm
+Encounter: XXX pr0n
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: xxx pr0n takes 121 damage.
+Round 2: boolicious wins the fight!
+You gain 33 Meat.
+You gain 9 muskewlairtees
+You gain 7 mistikkaltees
+You gain 5 mawksees
+
+[3489] Dungeons of Doom
+Encounter: swarm of killer bees
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: swarm of killer bees takes 126 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: baby killer bee
+You gain 11 muskewlairtees
+You gain 1 mistikkaltees
+You gain 4 mawksees
+
+[3490] Dungeons of Doom
+Encounter: The Hunger
+You gain 27 Smarm
+
+[3491] Dungeons of Doom
+Encounter: The Return of the Dishwasher
+You gain 21 Mysteriousness
+
+[3492] Dungeons of Doom
+Encounter: acid blob
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: acid blob takes 126 damage.
+Round 2: boolicious wins the fight!
+You gain 8 muskewlairtees
+You gain 4 mistikkaltees
+You gain 4 mawksees
+
+[3493] Dungeons of Doom
+Encounter: acid blob
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: acid blob takes 127 damage.
+Round 2: boolicious wins the fight!
+You gain 4 muskewlairtees
+You gain 6 mistikkaltees
+You gain 7 mawksees
+
+[3494] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a newt!
+Round 2: boolicious attacks!
+You lose 1 hit point
+Round 3: boolicious casts CLEESH!
+Round 4: boolicious uses the Gnomitronic Hyperspatial Demodulizer!
+Round 5: newt takes 9 damage.
+You acquire an effect: Super-Mega-Ultra-Hyper-Charged (duration: 5 Adventures)
+Round 5: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 5: newt drops 12 attack power.
+Round 5: newt drops 12 defense.
+Round 5: boolicious wins the fight!
+You gain 13 Meat.
+You acquire an item: eye of newt
+You gain 2 mawksees
+
+[3495] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious loses initiative!
+Round 1: giant zombie goldfish takes 8 damage.
+Round 1: giant zombie goldfish takes 3 damage.
+Round 1: giant zombie goldfish takes 9 damage.
+Round 1: giant zombie goldfish takes 5 damage.
+You lose 18 hit points
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a salamander!
+Round 2: boolicious attacks!
+Round 3: salamander takes 192 damage.
+Round 3: boolicious wins the fight!
+You gain 15 Meat.
+You acquire an item: salamander spleen
+You gain 2 muskewlairtees
+
+[3496] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious loses initiative!
+Round 1: sewer gator takes 8 damage.
+Round 1: sewer gator takes 2 damage.
+Round 1: sewer gator takes 5 damage.
+Round 1: sewer gator takes 3 damage.
+You lose 24 hit points
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a frog!
+Round 2: boolicious attacks!
+Round 3: frog takes 192 damage.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 37 damage.
+Round 3: frog takes 37 damage.
+Round 3: boolicious wins the fight!
+You gain 11 Meat.
+You acquire an item: squashed frog
+You gain 2 mawksees
+
+[3497] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a salamander!
+Round 2: boolicious attacks!
+Round 3: salamander takes 192 damage.
+Round 3: boolicious wins the fight!
+You gain 15 Meat.
+You acquire an item: salamander spleen
+You gain 2 muskewlairtees
+
+[3498] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a salamander!
+Round 2: boolicious attacks!
+Round 3: salamander takes 192 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 151 Meat.
+Round 3: boolicious wins the fight!
+You gain 10 Meat.
+You acquire an item: salamander spleen
+You gain 2 muskewlairtees
+
+clan_hobopolis.php?place=1
+
+[3499] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+choice.php?pwd&whichchoice=199&option=1
+
+clan_hobopolis.php?place=1
+
+eat 1 Spooky Surprise Egg
+You gain 1 Adventure
+You acquire an item: tiny plastic Knob Goblin mad scientist
+
+eat 1 Spam Witch sammich
+
+eat 1 desiccated apricot
+You gain 2 Adventures
+You gain 16 Muscleboundness
+
+eat 0 peach
+
+[3501] Mix 1 peach + 1 bottle of rum
+
+[3501] Mix 1 peach + 1 bottle of rum
+
+[3501] Mix 1 peach + 1 bottle of tequila
+
+[3501] Mix 1 peach + 1 bottle of whiskey
+
+[3501] Mix 1 peach + 1 magical ice cubes
+
+[3501] Mix 1 peach + 1 pear
+
+[3500] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a newt!
+Round 2: boolicious attacks!
+Round 3: newt takes 172 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 76 damage. LIMIT BREAK!
+Round 3: newt takes 76 damage.
+Round 3: boolicious wins the fight!
+You gain 14 Meat
+You acquire an item: eye of newt
+You gain 2 Beefiness
+
+equip acc3 ring of conflict
+
+[3501] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+choice.php?pwd&whichchoice=197&option=3
+
+[3502] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+choice.php?pwd&whichchoice=199&option=1
+
+[3503] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a newt!
+Round 2: boolicious attacks!
+Round 3: newt takes 172 damage.
+Round 3: boolicious wins the fight!
+You gain 14 Meat
+You acquire an item: eye of newt
+You gain 2 Muscleboundness
+
+[3504] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a salamander!
+Round 2: boolicious attacks!
+Round 3: salamander takes 172 damage.
+Round 3: boolicious wins the fight!
+You gain 10 Meat
+You acquire an item: salamander spleen
+You gain 2 Strengthliness
+
+[3505] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious loses initiative!
+Round 1: giant zombie goldfish takes 8 damage.
+Round 1: giant zombie goldfish takes 3 damage.
+Round 1: giant zombie goldfish takes 3 damage.
+Round 1: giant zombie goldfish takes 4 damage.
+You lose 44 hit points
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a newt!
+Round 2: boolicious attacks!
+Round 3: newt takes 172 damage.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 79 hit points
+You gain 79 Muscularity Points
+Round 3: boolicious wins the fight!
+You gain 11 Meat
+You acquire an item: eye of newt
+You gain 2 Roguishness
+
+[3506] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+choice.php?pwd&whichchoice=197&option=1
+
+[3507] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+choice.php?pwd&whichchoice=197&option=3
+
+[3507] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a newt!
+Round 2: boolicious attacks!
+Round 3: newt takes 172 damage.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 3: newt drops 12 attack power.
+Round 3: newt drops 12 defense.
+Round 3: boolicious wins the fight!
+You gain 13 Meat
+You acquire an item: eye of newt
+You gain 2 Muscleboundness
+
+[3508] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious loses initiative!
+Round 1: giant zombie goldfish takes 4 damage.
+Round 1: giant zombie goldfish takes 1 damage.
+Round 1: giant zombie goldfish takes 8 damage.
+Round 1: giant zombie goldfish takes 5 damage.
+You lose 43 hit points
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a newt!
+Round 2: boolicious attacks!
+Round 3: newt takes 172 damage.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 36 damage.
+Round 3: newt takes 36 damage.
+Round 3: boolicious wins the fight!
+You gain 13 Meat
+You acquire an item: eye of newt
+You gain 2 Chutzpah
+
+[3509] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a frog!
+Round 2: boolicious attacks!
+Round 3: frog takes 172 damage.
+Round 3: boolicious wins the fight!
+You gain 13 Meat
+You acquire an item: squashed frog
+You gain 2 Sarcasm
+
+[3510] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a newt!
+Round 2: boolicious attacks!
+Round 3: newt takes 172 damage.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 3: newt drops 12 attack power.
+Round 3: newt drops 12 defense.
+Round 3: boolicious wins the fight!
+You gain 14 Meat
+You acquire an item: eye of newt
+You gain 2 Fortitude
+
+[3511] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a newt!
+Round 2: boolicious attacks!
+Round 3: newt takes 172 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 43 hit points
+You gain 43 Muscularity Points
+Round 3: boolicious wins the fight!
+You gain 13 Meat
+You acquire an item: eye of newt
+You gain 2 Strongness
+
+[3512] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a newt!
+Round 2: boolicious attacks!
+Round 3: newt takes 172 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 157 Meat.
+Round 3: boolicious wins the fight!
+You gain 10 Meat
+You acquire an item: eye of newt
+You gain 2 Strengthliness
+
+[3513] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a frog!
+Round 2: boolicious attacks!
+Round 3: frog takes 172 damage.
+Round 3: boolicious wins the fight!
+You gain 13 Meat
+You acquire an item: squashed frog
+You gain 1 Magicalness
+
+[3514] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a frog!
+Round 2: boolicious attacks!
+Round 3: frog takes 172 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 144 Meat.
+Round 3: boolicious wins the fight!
+You gain 13 Meat
+You acquire an item: squashed frog
+You gain 1 Enchantedness
+
+[3515] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a frog!
+Round 2: boolicious attacks!
+Round 3: frog takes 172 damage.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 37 damage.
+Round 3: frog takes 37 damage.
+Round 3: boolicious wins the fight!
+You gain 11 Meat
+You acquire an item: squashed frog
+You gain 1 Mysteriousness
+
+[3516] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+choice.php?pwd&whichchoice=199&option=1
+
+[3517] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious loses initiative!
+Round 1: giant zombie goldfish takes 4 damage.
+Round 1: giant zombie goldfish takes 3 damage.
+Round 1: giant zombie goldfish takes 6 damage.
+Round 1: giant zombie goldfish takes 5 damage.
+You lose 32 hit points
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a newt!
+Round 2: boolicious attacks!
+Round 3: newt takes 172 damage.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 3: newt drops 12 attack power.
+Round 3: newt drops 12 defense.
+Round 3: boolicious wins the fight!
+You gain 10 Meat
+You acquire an item: eye of newt
+You gain 2 Sarcasm
+
+clan_hobopolis.php?place=1
+
+[3518] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a salamander!
+Round 2: boolicious attacks!
+Round 3: salamander takes 172 damage.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 3: salamander drops 12 attack power.
+Round 3: salamander drops 12 defense.
+Round 3: boolicious wins the fight!
+You gain 10 Meat
+You acquire an item: salamander spleen
+You gain 2 Fortitude
+
+[3519] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious loses initiative!
+Round 1: sewer gator takes 4 damage.
+Round 1: sewer gator takes 2 damage.
+Round 1: sewer gator takes 3 damage.
+Round 1: sewer gator takes 5 damage.
+You lose 47 hit points
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a salamander!
+Round 2: boolicious attacks!
+Round 3: salamander takes 172 damage.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 41 hit points
+You gain 41 Muscularity Points
+Round 3: boolicious wins the fight!
+You gain 13 Meat
+You acquire an item: salamander spleen
+You gain 2 Chutzpah
+
+[3520] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a frog!
+Round 2: boolicious attacks!
+Round 3: frog takes 172 damage.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 43 hit points
+You gain 43 Muscularity Points
+Round 3: boolicious wins the fight!
+You gain 11 Meat
+You acquire an item: squashed frog
+You gain 2 Muscleboundness
+
+[3521] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+choice.php?pwd&whichchoice=197&option=1
+
+[3522] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a salamander!
+Round 2: boolicious attacks!
+You lose 1 hit point
+Round 3: boolicious uses the Gnomitronic Hyperspatial Demodulizer!
+Round 4: salamander takes 14 damage.
+You acquire an effect: Super-Mega-Ultra-Hyper-Charged (duration: 5 Adventures)
+Round 4: boolicious wins the fight!
+You gain 11 Meat
+You acquire an item: salamander spleen
+You gain 2 Cheek
+
+clan_hobopolis.php?place=1
+
+[3523] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a salamander!
+Round 2: boolicious attacks!
+Round 3: salamander takes 187 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 43 hit points
+You gain 43 Muscularity Points
+Round 3: boolicious wins the fight!
+You gain 10 Meat
+You acquire an item: salamander spleen
+You gain 2 Strengthliness
+
+[3524] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+choice.php?pwd&whichchoice=198&option=1
+
+clan_hobopolis.php?place=1
+
+[3525] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a newt!
+Round 2: boolicious attacks!
+Round 3: newt takes 188 damage.
+Round 3: boolicious wins the fight!
+You gain 11 Meat
+You acquire an item: eye of newt
+You gain 2 Strongness
+
+[3526] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious loses initiative!
+Round 1: sewer gator takes 5 damage.
+Round 1: sewer gator takes 2 damage.
+Round 1: sewer gator takes 4 damage.
+Round 1: sewer gator takes 4 damage.
+You lose 27 hit points
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a salamander!
+Round 2: boolicious attacks!
+Round 3: salamander takes 187 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 3: salamander drops 12 attack power.
+Round 3: salamander drops 12 defense.
+Round 3: boolicious wins the fight!
+You gain 14 Meat
+You acquire an item: salamander spleen
+You gain 2 Fortitude
+
+[3527] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a newt!
+Round 2: boolicious attacks!
+Round 3: newt takes 187 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 42 hit points
+You gain 42 Muscularity Points
+Round 3: boolicious wins the fight!
+You gain 14 Meat
+You acquire an item: eye of newt
+You gain 1 Mysteriousness
+
+[3528] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious loses initiative!
+Round 1: giant zombie goldfish takes 8 damage.
+Round 1: giant zombie goldfish takes 2 damage.
+Round 1: giant zombie goldfish takes 9 damage.
+Round 1: giant zombie goldfish takes 4 damage.
+You lose 46 hit points
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a salamander!
+Round 2: boolicious attacks!
+Round 3: salamander takes 172 damage.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 42 hit points
+You gain 42 Muscularity Points
+Round 3: boolicious wins the fight!
+You gain 13 Meat
+You acquire an item: salamander spleen
+You gain 2 Chutzpah
+
+[3529] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious loses initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a newt!
+Round 2: boolicious attacks!
+Round 3: newt takes 172 damage.
+Round 3: boolicious wins the fight!
+You gain 11 Meat
+You acquire an item: eye of newt
+You gain 2 Fortitude
+
+[3530] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a frog!
+Round 2: boolicious attacks!
+Round 3: frog takes 172 damage.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 3: frog drops 12 attack power.
+Round 3: frog drops 12 defense.
+Round 3: boolicious wins the fight!
+You gain 10 Meat
+You acquire an item: squashed frog
+You gain 2 Cheek
+
+[3531] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a frog!
+Round 2: boolicious attacks!
+Round 3: frog takes 172 damage.
+Round 3: boolicious wins the fight!
+You gain 14 Meat
+You acquire an item: squashed frog
+You gain 2 Fortitude
+
+[3532] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a salamander!
+Round 2: boolicious attacks!
+Round 3: salamander takes 173 damage.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 43 hit points
+You gain 43 Muscularity Points
+Round 3: boolicious wins the fight!
+You gain 11 Meat
+You acquire an item: salamander spleen
+You gain 1 Enchantedness
+
+[3533] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a newt!
+Round 2: boolicious attacks!
+Round 3: newt takes 172 damage.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 3: newt drops 12 attack power.
+Round 3: newt drops 12 defense.
+Round 3: boolicious wins the fight!
+You gain 10 Meat
+You acquire an item: eye of newt
+You gain 2 Cheek
+
+[3534] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a salamander!
+Round 2: boolicious attacks!
+Round 3: salamander takes 172 damage.
+Round 3: boolicious wins the fight!
+You gain 15 Meat
+You acquire an item: salamander spleen
+You gain 2 Cheek
+
+[3535] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+choice.php?pwd&whichchoice=199&option=1
+
+[3536] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a frog!
+Round 2: boolicious attacks!
+Round 3: frog takes 172 damage.
+Round 3: boolicious wins the fight!
+You gain 11 Meat
+You acquire an item: squashed frog
+You gain 1 Enchantedness
+
+[3537] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+choice.php?pwd&whichchoice=197&option=1
+
+[3538] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+choice.php?pwd&whichchoice=199&option=1
+
+[3539] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+choice.php?pwd&whichchoice=197&option=1
+
+[3540] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a salamander!
+Round 2: boolicious attacks!
+Round 3: salamander takes 172 damage.
+Round 3: boolicious wins the fight!
+You gain 13 Meat
+You acquire an item: salamander spleen
+You gain 2 Muscleboundness
+
+clan_hobopolis.php?place=1
+
+[3541] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious loses initiative!
+Round 1: giant zombie goldfish takes 5 damage.
+Round 1: giant zombie goldfish takes 2 damage.
+Round 1: giant zombie goldfish takes 4 damage.
+Round 1: giant zombie goldfish takes 5 damage.
+You lose 46 hit points
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a frog!
+Round 2: boolicious attacks!
+Round 3: frog takes 172 damage.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 37 damage.
+Round 3: frog takes 37 damage.
+Round 3: boolicious wins the fight!
+You gain 13 Meat
+You acquire an item: squashed frog
+You gain 1 Wizardliness
+
+[3542] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a frog!
+Round 2: boolicious attacks!
+Round 3: frog takes 172 damage.
+Round 3: boolicious wins the fight!
+You gain 14 Meat
+You acquire an item: squashed frog
+You gain 2 Beefiness
+
+[3543] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a newt!
+Round 2: boolicious attacks!
+Round 3: newt takes 173 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 122 Meat.
+Round 3: boolicious wins the fight!
+You gain 15 Meat
+You acquire an item: eye of newt
+You gain 1 Enchantedness
+
+[3544] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious loses initiative!
+Round 1: sewer gator takes 8 damage.
+Round 1: sewer gator takes 2 damage.
+Round 1: sewer gator takes 7 damage.
+Round 1: sewer gator takes 3 damage.
+You lose 42 hit points
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a salamander!
+Round 2: boolicious attacks!
+You lose 1 hit point
+Round 3: boolicious casts CLEESH!
+Round 4: boolicious uses the Gnomitronic Hyperspatial Demodulizer!
+Round 5: salamander takes 13 damage.
+You acquire an effect: Super-Mega-Ultra-Hyper-Charged (duration: 5 Adventures)
+Round 5: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 42 hit points
+You gain 42 Muscularity Points
+Round 5: boolicious wins the fight!
+You gain 11 Meat
+You acquire an item: salamander spleen
+You gain 2 Beefiness
+
+[3545] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a frog!
+Round 2: boolicious attacks!
+Round 3: frog takes 187 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 145 Meat.
+Round 3: boolicious wins the fight!
+You gain 11 Meat
+You acquire an item: squashed frog
+You gain 2 Smarm
+
+[3546] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a frog!
+Round 2: boolicious attacks!
+Round 3: frog takes 187 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 74 damage. LIMIT BREAK!
+Round 3: frog takes 74 damage.
+Round 3: boolicious wins the fight!
+You gain 13 Meat
+You acquire an item: squashed frog
+You gain 2 Roguishness
+
+[3547] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+choice.php?pwd&whichchoice=197&option=1
+
+[3548] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious loses initiative!
+Round 1: sewer gator takes 4 damage.
+Round 1: sewer gator takes 2 damage.
+Round 1: sewer gator takes 3 damage.
+Round 1: sewer gator takes 5 damage.
+You lose 32 hit points
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a frog!
+Round 2: boolicious attacks!
+Round 3: frog takes 188 damage.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused. LIMIT BREAK!
+Round 3: frog drops 24 attack power.
+Round 3: frog drops 24 defense.
+Round 3: boolicious wins the fight!
+You gain 11 Meat
+You acquire an item: squashed frog
+You gain 2 Fortitude
+
+clan_hobopolis.php?place=1
+
+[3549] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious loses initiative!
+Round 1: giant zombie goldfish takes 5 damage.
+Round 1: giant zombie goldfish takes 1 damage.
+Round 1: giant zombie goldfish takes 7 damage.
+Round 1: giant zombie goldfish takes 3 damage.
+You lose 27 hit points
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a salamander!
+Round 2: boolicious attacks!
+Round 3: salamander takes 179 damage.
+Round 3: boolicious wins the fight!
+You gain 10 Meat
+You acquire an item: salamander spleen
+You gain 1 Mysteriousness
+
+[3550] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious loses initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a newt!
+Round 2: boolicious attacks!
+Round 3: newt takes 164 damage.
+Round 3: boolicious wins the fight!
+You gain 10 Meat
+You acquire an item: eye of newt
+You gain 2 Strongness
+
+[3551] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+choice.php?pwd&whichchoice=199&option=1
+
+[3552] A Maze of Sewer Tunnels
+Encounter: At Last!
+
+clan_hobopolis.php?place=1
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=3
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=1
+
+use 2 chunk of rock salt
+You acquire an effect: Fresh Scent (duration: 20 Adventures)
+
+use 1 chunk of rock salt
+You acquire an effect: Fresh Scent (duration: 10 Adventures)
+
+clan_hobopolis.php?place=2
+
+[3553] Hobopolis Town Square
+Encounter: Randy Davis, the Man with the Handlebar Eyebrows
+Round 0: boolicious loses initiative!
+Round 1: normal hobo takes 7 damage.
+Round 1: normal hobo takes 1 damage.
+Round 1: normal hobo takes 3 damage.
+Round 1: normal hobo takes 5 damage.
+You lose 80 hit points
+Round 1: boolicious uses the big boom!
+Round 2: normal hobo takes 116 damage.
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 6 damage.
+Round 3: normal hobo takes 1 damage.
+Round 3: normal hobo takes 3 damage.
+Round 3: normal hobo takes 5 damage.
+You lose 76 hit points
+Round 3: boolicious casts CLEESH!
+Round 4: your opponent becomes a salamander!
+Round 4: boolicious attacks!
+Round 5: salamander takes 169 damage.
+Round 5: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 41 hit points
+You gain 41 Muscularity Points
+Round 5: boolicious wins the fight!
+You gain 13 Meat
+You acquire an item: salamander spleen
+You gain 1 Wizardliness
+
+[3554] Hobopolis Town Square
+Encounter: Three-Bean Cletus, the Strong
+Round 0: boolicious loses initiative!
+Round 1: normal hobo takes 5 damage.
+Round 1: normal hobo takes 1 damage.
+Round 1: normal hobo takes 8 damage.
+Round 1: normal hobo takes 5 damage.
+You lose 84 hit points
+Round 1: boolicious casts ASK RICHARD FOR A GRENADE!
+Round 2: boolicious casts CHILLED MONKEY BRAIN TECHNIQUE!
+Round 3: normal hobo takes 60 damage.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 36 damage.
+Round 3: normal hobo takes 36 damage.
+Round 3: boolicious casts DRUNKEN BABY STYLE!
+Round 4: normal hobo takes 152 damage.
+Round 4: boolicious casts DRUNKEN BABY STYLE!
+Round 5: normal hobo takes 151 damage.
+Round 5: boolicious wins the fight!
+You acquire an item: hobo nickel
+You gain 50 Fortitude
+You gain 12 Wizardliness
+You gain 23 Smarm
+
+[3555] Hobopolis Town Square
+Encounter: Mind Yer Binder
+choice.php?pwd&whichchoice=230&option=2
+
+equip hat wool hat
+
+equip pants sugar shorts
+
+equip off-hand stress ball
+
+[3555] Hobopolis Town Square
+Encounter: Mind Yer Binder
+choice.php?pwd&whichchoice=230&option=2
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=6
+
+[3555] The Heap
+Encounter: Deep Enough to Dive
+choice.php?pwd&whichchoice=203&option=2
+
+clan_hobopolis.php?place=6
+
+[3555] Hobopolis Town Square
+Encounter: Crispy Freddy Belvedere, the Boxcar Beekeeper
+Round 0: boolicious loses initiative!
+You lose 103 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 106 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 74 damage. LIMIT BREAK!
+Round 2: normal hobo takes 74 damage.
+You lose 105 hit points
+
+uneffect Beaten Up
+
+use 1 scroll of drastic healing
+
+clan_hobopolis.php?place=2
+
+[3556] Hobopolis Town Square
+Encounter: Brendan &quot;Melvin&quot; Rutgers, the Boneyard Concierge
+Round 0: boolicious loses initiative!
+You lose 98 hit points
+Round 1: boolicious uses the big boom!
+Round 2: normal hobo takes 110 damage.
+Round 2: boolicious casts CHILLED MONKEY BRAIN TECHNIQUE!
+Round 3: boolicious casts ASK RICHARD FOR A GRENADE!
+Round 4: boolicious uses the water pipe bomb!
+Round 5: normal hobo takes 58 damage.
+Round 5: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused. LIMIT BREAK!
+Round 5: normal hobo drops 25 attack power.
+Round 5: normal hobo drops 25 defense.
+Round 5: boolicious uses the water pipe bomb!
+Round 6: normal hobo takes 55 damage.
+Round 6: boolicious attacks!
+Round 7: normal hobo takes 106 damage.
+Round 7: normal hobo takes 7 damage.
+Round 7: normal hobo takes 2 damage.
+Round 7: normal hobo takes 5 damage.
+Round 7: normal hobo takes 3 damage.
+You lose 37 hit points
+Round 7: boolicious attacks!
+You lose 1 hit point
+Round 8: Cocopuff's bells jingle merrily.
+Round 8: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 8: normal hobo drops 12 attack power.
+Round 8: normal hobo drops 12 defense.
+You lose 92 hit points
+Round 8: boolicious casts HEAD + KNEE COMBO!
+Round 9: normal hobo takes 106 damage.
+Round 9: normal hobo takes 30 damage.
+Round 9: normal hobo takes 17 damage.
+Round 9: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 43 hit points
+You gain 43 Muscularity Points
+Round 9: boolicious wins the fight!
+You gain 41 Strongness
+You gain 16 Enchantedness
+You gain 27 Smarm
+
+equip weapon armgun
+
+[3557] Hobopolis Town Square
+Encounter: Crop-Dustin' Leonard, the Man of the Hour
+Round 0: boolicious loses initiative!
+Round 1: normal hobo takes 6 damage.
+Round 1: normal hobo takes 2 damage.
+Round 1: normal hobo takes 10 damage.
+Round 1: normal hobo takes 4 damage.
+You lose 52 hit points
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 5 damage.
+Round 3: normal hobo takes 2 damage.
+Round 3: normal hobo takes 9 damage.
+Round 3: normal hobo takes 5 damage.
+You lose 53 hit points
+Round 3: boolicious casts ASK RICHARD FOR A GRENADE!
+Round 4: boolicious uses the water pipe bomb!
+Round 5: normal hobo takes 75 damage.
+Round 5: boolicious uses the water pipe bomb!
+Round 6: normal hobo takes 72 damage.
+Round 6: boolicious uses the water pipe bomb!
+Round 7: normal hobo takes 61 damage.
+Round 7: boolicious uses the water pipe bomb!
+Round 8: normal hobo takes 57 damage.
+Round 8: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 8: normal hobo drops 12 attack power.
+Round 8: normal hobo drops 12 defense.
+You lose 108 hit points
+Round 8: boolicious uses the water pipe bomb!
+Round 9: normal hobo takes 71 damage.
+You lose 105 hit points
+Round 9: boolicious uses the The Bomb!
+Round 10: boolicious wins the fight!
+You gain 38 Muscleboundness
+You gain 23 Enchantedness
+You gain 24 Smarm
+Richard takes a hobo skin
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+October 5, 2011 - Jarlsuary 1
+
+Ronald: new moon
+Grimace: new moon
+Mini-moon: behind Ronald
+
+Festival of Jarlsberg: today
+Valentine's Day: 11 days
+St. Sneaky Pete's Day: 18 days
+Oyster Egg Day: 25 days
+Halloween: 26 days
+El Dia De Los Muertos Borrachos: 33 days
+Generic Summer Holiday: 42 days
+Feast of Boris: 50 days
+Dependence Day: 51 days
+Arrrbor Day: 59 days
+Lab&oacute;r Day: 69 days
+Yuletide: 91 days
+
+Festival of Jarlsberg
+Moxie bonus today and yesterday.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 15
+HP: 64 / 448
+MP: 344 / 352
+
+Mus: 276 (203), tnp = 158
+Mys: 215 (146), tnp = 65
+Mox: 207 (148), tnp = 90
+
+Advs: 97
+Meat: 16,595
+Drunk: 14
+
+
+ > equipment
+
+Hat: wool hat
+Weapon: armgun
+Off-hand: (none)
+Shirt: Ultracolor™ shirt
+Pants: sugar shorts
+
+Acc. 1: Mr. Accessory
+Acc. 2: blackberry galoshes
+Acc. 3: ring of conflict
+
+Pet: Cocoabo (35 lbs)
+Item: chocolate spurs
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+Gnome Trainer
+ - Gnefarious Pickpocketing
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+♫ Psalm of Pointiness (15)
+Ghostly Shell (15)
+♫ Jackasses' Symphony of Destruction (15)
+Scarysauce (15)
+Jingle Jangle Jingle (15)
+Jabañero Saucesphere (15)
+♫ The Magical Mojomuscular Melody (15)
+Jalapeño Saucesphere (15)
+Empathy (15)
+Tenacity of the Snapper (15)
+Astral Shell (15)
+Elemental Saucesphere (15)
+Reptilian Fortitude (15)
+Fresh Scent (25)
+Earthen Fist (142)
+Salamanderenity (582)
+Retrograde Relaxation (1,053)
+
+
+ > modifiers
+
+ML: +0
+Enc: -10.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +30.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[3558] Hobopolis Town Square
+Encounter: Zaxxon &quot;Castanets&quot; Waldorf
+Round 0: boolicious loses initiative!
+You lose 101 hit points
+
+uneffect Beaten Up
+
+use 1 scroll of drastic healing
+
+[3559] Hobopolis Town Square
+Encounter: Stupefying Walter &quot;Taco&quot; Hernandez, the Merovingian
+Round 0: boolicious loses initiative!
+Round 1: normal hobo takes 6 damage.
+Round 1: normal hobo takes 2 damage.
+Round 1: normal hobo takes 6 damage.
+Round 1: normal hobo takes 3 damage.
+You lose 52 hit points
+Round 1: boolicious casts ASK RICHARD TO ROUGH THE HOBO UP A BIT!
+Round 2: normal hobo takes 100 damage.
+Round 2: normal hobo takes 4 damage.
+Round 2: normal hobo takes 3 damage.
+Round 2: normal hobo takes 8 damage.
+Round 2: normal hobo takes 3 damage.
+You lose 49 hit points
+Round 2: boolicious casts ASK RICHARD TO ROUGH THE HOBO UP A BIT!
+Round 3: normal hobo takes 141 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 41 hit points
+You gain 41 Muscularity Points
+You lose 102 hit points
+Round 4: boolicious attacks!
+Round 5: normal hobo takes 147 damage.
+Round 5: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 41 hit points
+You gain 41 Muscularity Points
+Round 5: boolicious wins the fight!
+You gain 38 Beefiness
+You gain 20 Enchantedness
+You gain 25 Chutzpah
+
+equip weapon dreadlock whip
+unequip weapon
+
+[3560] Hobopolis Town Square
+Encounter: Questionable-Judgement Stitch Sullivan
+Round 0: boolicious loses initiative!
+You lose 107 hit points
+Round 1: boolicious casts HEAD + KNEE COMBO!
+Round 2: normal hobo takes 116 damage.
+Round 2: normal hobo takes 20 damage.
+Round 2: normal hobo takes 16 damage.
+Round 2: normal hobo takes 4 damage.
+Round 2: normal hobo takes 1 damage.
+Round 2: normal hobo takes 7 damage.
+Round 2: normal hobo takes 3 damage.
+You lose 48 hit points
+Round 2: boolicious plays Garin's Harp!
+Round 3: boolicious casts ASK RICHARD FOR A GRENADE!
+Round 4: boolicious casts DRUNKEN BABY STYLE!
+Round 5: normal hobo takes 150 damage.
+Round 5: boolicious attacks!
+You lose 1 hit point
+Round 6: Cocopuff's bells jingle merrily.
+Round 6: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 37 damage.
+Round 6: normal hobo takes 37 damage.
+Round 6: boolicious casts DRUNKEN BABY STYLE!
+Round 7: normal hobo takes 154 damage.
+Round 7: boolicious wins the fight!
+You gain 40 Beefiness
+You gain 20 Wizardliness
+You gain 24 Roguishness
+
+[3561] Hobopolis Town Square
+Encounter: Ponytail Joey Hernandez, the Walking Disagreement
+Round 0: boolicious loses initiative!
+Round 1: normal hobo takes 8 damage.
+Round 1: normal hobo takes 3 damage.
+Round 1: normal hobo takes 4 damage.
+Round 1: normal hobo takes 4 damage.
+You lose 48 hit points
+Round 1: boolicious casts CHILLED MONKEY BRAIN TECHNIQUE!
+Round 2: normal hobo takes 59 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: normal hobo drops 12 attack power.
+Round 2: normal hobo drops 12 defense.
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 116 damage.
+You lose 101 hit points
+Round 3: boolicious casts CHILLED MONKEY BRAIN TECHNIQUE!
+Round 4: normal hobo takes 58 damage.
+You lose 104 hit points
+
+uneffect Beaten Up
+
+use 1 scroll of drastic healing
+
+use 1 beastly paste
+You gain 8 Adventures
+You gain 23 Strengthliness
+You gain 19 Enchantedness
+You gain 24 Roguishness
+You acquire an effect: Beastly Flavor (duration: 10 Adventures)
+
+use 1 slimy paste
+You gain 6 Adventures
+You gain 22 Fortitude
+You gain 22 Wizardliness
+You gain a Mysticality point!
+You gain 28 Sarcasm
+You gain a Moxie point!
+You acquire an effect: Slimy Flavor (duration: 10 Adventures)
+
+buy 2 beastly paste for 3145 each from 2157692 on 20111005
+You acquire beastly paste (2)
+
+use 1 beastly paste
+You gain 7 Adventures
+You gain 21 Strongness
+You gain 22 Magicalness
+You gain 26 Roguishness
+You acquire an effect: Beastly Flavor (duration: 10 Adventures)
+
+clan_hobopolis.php?place=2
+
+[3562] Hobopolis Town Square
+Encounter: Ghostly Meriadoc &quot;Gopher&quot; Mott
+Round 0: boolicious loses initiative!
+You lose 103 hit points
+Round 1: boolicious casts ASK RICHARD FOR A GRENADE!
+Round 2: boolicious casts DRUNKEN BABY STYLE!
+Round 3: normal hobo takes 154 damage.
+Round 3: boolicious casts DRUNKEN BABY STYLE!
+Round 4: normal hobo takes 152 damage.
+Round 4: boolicious casts DRUNKEN BABY STYLE!
+Round 5: normal hobo takes 150 damage.
+Round 5: boolicious wins the fight!
+You gain 47 Strengthliness
+You gain a Muscle point!
+You gain 17 Wizardliness
+You gain 20 Cheek
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=7
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=4
+
+[3563] Hobopolis Town Square
+Encounter: Cube Root Achilles McCartney
+Round 0: boolicious loses initiative!
+Round 1: normal hobo takes 5 damage.
+Round 1: normal hobo takes 1 damage.
+Round 1: normal hobo takes 6 damage.
+Round 1: normal hobo takes 4 damage.
+You lose 48 hit points
+Round 1: boolicious casts ASK RICHARD FOR A GRENADE!
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 136 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 141 Meat.
+Round 3: boolicious casts CHILLED MONKEY BRAIN TECHNIQUE!
+Round 4: normal hobo takes 61 damage.
+Round 4: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 87 hit points
+You gain 87 Muscularity Points
+Round 4: boolicious casts DRUNKEN BABY STYLE!
+Round 5: normal hobo takes 154 damage.
+Round 5: boolicious casts DRUNKEN BABY STYLE!
+Round 6: normal hobo takes 150 damage.
+Round 6: boolicious wins the fight!
+You gain 42 Strengthliness
+You gain 18 Mysteriousness
+You gain 23 Roguishness
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=5
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=4
+
+[3564] Burnbarrel Blvd.
+Encounter: Getting Tired
+choice.php?pwd&whichchoice=206&option=2
+
+clan_hobopolis.php?place=4
+clan_hobopolis.php?place=4
+
+[3565] Hobopolis Town Square
+Encounter: Nicky &quot;Two-Teeth&quot; Pennington
+Round 0: boolicious loses initiative!
+You lose 102 hit points
+Round 1: boolicious casts CHILLED MONKEY BRAIN TECHNIQUE!
+Round 2: normal hobo takes 61 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: normal hobo drops 13 attack power.
+Round 2: normal hobo drops 13 defense.
+Round 2: boolicious casts DRUNKEN BABY STYLE!
+Round 3: normal hobo takes 150 damage.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 3: normal hobo drops 13 attack power.
+Round 3: normal hobo drops 13 defense.
+You lose 92 hit points
+Round 3: boolicious casts ASK RICHARD FOR A GRENADE!
+Round 4: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 46 hit points
+You gain 46 Muscularity Points
+Round 4: boolicious casts DRUNKEN BABY STYLE!
+Round 5: normal hobo takes 152 damage.
+Round 5: boolicious casts DRUNKEN BABY STYLE!
+Round 6: normal hobo takes 153 damage.
+Round 6: Cocopuff's bells jingle merrily.
+Round 6: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 6: normal hobo drops 13 attack power.
+Round 6: normal hobo drops 13 defense.
+Round 6: boolicious wins the fight!
+You acquire an item: hobo nickel
+You gain 38 Strongness
+You gain 20 Wizardliness
+You gain 27 Roguishness
+
+[3566] Hobopolis Town Square
+Encounter: Ambidextrous Stanley, Head Brain of the Hobosphere
+Round 0: boolicious loses initiative!
+Round 1: normal hobo takes 4 damage.
+Round 1: normal hobo takes 3 damage.
+Round 1: normal hobo takes 2 damage.
+Round 1: normal hobo takes 5 damage.
+You lose 49 hit points
+Round 1: boolicious casts ASK RICHARD FOR A GRENADE!
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 39 damage.
+Round 2: normal hobo takes 39 damage.
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 136 damage.
+Round 3: boolicious casts DRUNKEN BABY STYLE!
+Round 4: normal hobo takes 155 damage.
+Round 4: boolicious casts DRUNKEN BABY STYLE!
+Round 5: normal hobo takes 150 damage.
+Round 5: Cocopuff's bells jingle merrily.
+Round 5: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 5: normal hobo drops 13 attack power.
+Round 5: normal hobo drops 13 defense.
+Round 5: boolicious wins the fight!
+You gain 46 Fortitude
+You gain 16 Mysteriousness
+You gain 23 Cheek
+
+[3567] Hobopolis Town Square
+Encounter: Raised-by-Trains Simon Stipe
+Round 0: boolicious loses initiative!
+Round 1: normal hobo takes 7 damage.
+Round 1: normal hobo takes 1 damage.
+Round 1: normal hobo takes 8 damage.
+Round 1: normal hobo takes 3 damage.
+You lose 47 hit points
+Round 1: boolicious casts ASK RICHARD FOR A GRENADE!
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: normal hobo drops 13 attack power.
+Round 2: normal hobo drops 13 defense.
+Round 2: boolicious casts DRUNKEN BABY STYLE!
+Round 3: normal hobo takes 155 damage.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 3: normal hobo drops 13 attack power.
+Round 3: normal hobo drops 13 defense.
+Round 3: boolicious casts DRUNKEN BABY STYLE!
+Round 4: normal hobo takes 151 damage.
+Round 4: Cocopuff's bells jingle merrily.
+Round 4: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 39 damage.
+Round 4: normal hobo takes 39 damage.
+Round 4: boolicious casts DRUNKEN BABY STYLE!
+Round 5: normal hobo takes 152 damage.
+Round 5: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 321 Meat.
+Round 5: boolicious wins the fight!
+You gain 43 Muscleboundness
+You gain 16 Mysteriousness
+You gain 25 Roguishness
+Richard takes a hobo skin
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=3
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+[3568] Help Richard make grenades (Moxie) (4 turns)
+You gain 108 Roguishness
+
+clan_hobopolis.php?preaction=spendturns&whichservice=1&place=3&numturns=
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+[3572] Help Richard make bandages (Mysticality) (5 turns)
+You gain 132 Enchantedness
+
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+[3577] Help Richard make grenades (Moxie) (5 turns)
+You gain 147 Roguishness
+You gain a Moxie point!
+
+[3582] Hobopolis Town Square
+Encounter: Sweetback Joe Shafer
+Round 0: boolicious loses initiative!
+You lose 68 hit points
+Round 1: boolicious casts ASK RICHARD FOR A BANDAGE!
+You gain 571 hit points
+You lose 70 hit points
+Round 2: boolicious casts ASK RICHARD FOR A GRENADE!
+Round 3: boolicious attacks!
+Round 4: normal hobo takes 31 damage.
+Round 4: boolicious casts DRUNKEN BABY STYLE!
+Round 5: normal hobo takes 150 damage.
+Round 5: boolicious casts DRUNKEN BABY STYLE!
+Round 6: normal hobo takes 153 damage.
+You lose 141 hit points
+Round 6: boolicious casts DRUNKEN BABY STYLE!
+Round 6: boolicious casts DRUNKEN BABY STYLE!
+Round 7: normal hobo takes 152 damage.
+Round 7: boolicious wins the fight!
+You gain 39 Muscleboundness
+You gain 22 Enchantedness
+You gain 23 Cheek
+
+[3583] Hobopolis Town Square
+Encounter: Perry &quot;Champagne Cork&quot; King
+Round 0: boolicious loses initiative!
+You lose 133 hit points
+Round 1: boolicious casts ASK RICHARD FOR A GRENADE!
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 102 Meat.
+Round 2: boolicious casts DRUNKEN BABY STYLE!
+Round 3: normal hobo takes 154 damage.
+Round 3: boolicious casts DRUNKEN BABY STYLE!
+Round 4: normal hobo takes 155 damage.
+Round 4: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 67 hit points
+You gain 67 Muscularity Points
+Round 4: boolicious casts DRUNKEN BABY STYLE!
+Round 5: normal hobo takes 155 damage.
+Round 5: boolicious wins the fight!
+You gain 41 Strengthliness
+You gain 19 Wizardliness
+You gain a Mysticality point!
+You gain 25 Smarm
+
+clan_hobopolis.php?place=2
+
+[3584] Hobopolis Town Square
+Encounter: Pantless Enid, the Well Prepared
+Round 0: boolicious loses initiative!
+You lose 144 hit points
+Round 1: boolicious casts DRUNKEN BABY STYLE!
+Round 2: normal hobo takes 154 damage.
+You lose 70 hit points
+
+clan_hobopolis.php?place=2
+
+uneffect Beaten Up
+
+use 1 scroll of drastic healing
+
+equip weapon cool whip
+
+equip off-hand stress ball
+
+use 1 Dr. Hobo's map
+
+[3585] Haunted Pantry
+Encounter: Cut Down in His Prime
+You acquire an item: razor-sharp can lid
+You gain 50 Meat
+
+[3586] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: undead elbow macaroni takes 296 damage.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 204 Meat.
+Round 2: boolicious wins the fight!
+You gain 6 Meat
+You gain 2 Strongness
+
+[3587] Haunted Pantry
+Encounter: Oh No, Hobo
+choice.php?pwd&whichchoice=115&option=3
+You gain 5 Meat
+You gain 3 Enchantedness
+You gain 4 Cheek
+
+[3588] Haunted Pantry
+Encounter: Spirit of the Dolphin King
+You acquire an item: Dolphin King's map
+
+use 1 Dolphin King's map
+
+[3589] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the Gnomitronic Hyperspatial Demodulizer!
+Round 2: undead elbow macaroni takes 11 damage.
+Round 2: boolicious wins the fight!
+You gain 5 Meat
+You gain 2 Roguishness
+
+[3590] Haunted Pantry
+Encounter: Oh No, Hobo
+choice.php?pwd&whichchoice=115&option=2
+You acquire an effect: Good Karma (duration: 10 Adventures)
+
+[3591] Haunted Pantry
+Encounter: overdone flame-broiled meat blob
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: overdone flame-broiled meat blob takes 304 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 64 damage. LIMIT BREAK!
+Round 2: overdone flame-broiled meat blob takes 64 damage.
+Round 2: boolicious wins the fight!
+You gain 27 Meat
+You acquire an item: meat paste
+You acquire an item: meat paste
+You gain 2 Roguishness
+
+[3592] Haunted Pantry
+Encounter: possessed can of tomatoes
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: possessed can of tomatoes takes 298 damage.
+Round 2: boolicious wins the fight!
+You gain 2 Meat
+You gain 2 Sarcasm
+
+[3593] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: undead elbow macaroni takes 303 damage.
+Round 2: boolicious wins the fight!
+You gain 6 Meat
+You gain 2 Beefiness
+
+buy 1 asparagus knife for 100 each from 414840 on 20111005
+You acquire an item: asparagus knife
+
+use 1 Dr. Hobo's map
+You acquire an item: Dr. Hobo's scalpel
+
+equip acc3 makeshift SCUBA gear
+
+use 1 Dolphin King's map
+You gain 150 Meat
+You acquire an item: Dolphin King's crown
+
+[3594] Hobopolis Town Square
+Encounter: Gravybelly Duncan Romero
+Round 0: boolicious loses initiative!
+You lose 68 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 31 damage.
+You lose 144 hit points
+Round 2: boolicious casts ASK RICHARD FOR A GRENADE!
+Round 3: boolicious uses the sausage bomb!
+Round 4: normal hobo takes 98 damage.
+Round 4: normal hobo drops 18 attack power.
+Round 4: normal hobo drops 16 defense.
+Round 4: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 130 Meat.
+Round 4: boolicious uses the sausage bomb!
+Round 5: normal hobo takes 81 damage.
+Round 5: normal hobo drops 19 attack power.
+Round 5: normal hobo drops 20 defense.
+Round 5: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 37 hit points
+You gain 37 Muscularity Points
+Round 5: boolicious uses the sausage bomb!
+Round 6: normal hobo takes 95 damage.
+Round 6: normal hobo drops 19 attack power.
+Round 6: normal hobo drops 20 defense.
+Round 6: boolicious uses the sausage bomb!
+Round 7: normal hobo takes 80 damage.
+Round 7: normal hobo drops 20 attack power.
+Round 7: normal hobo drops 17 defense.
+Round 7: boolicious attacks!
+Round 8: normal hobo takes 102 damage.
+Round 8: boolicious wins the fight!
+You gain 37 Beefiness
+You gain 21 Magicalness
+You gain 25 Smarm
+
+equip weapon Chelonian Morningstar
+
+[3595] Nemesis Cave: Inner Sanctum
+Encounter: Stella, the Turtle Poacher
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: stella, the turtle poacher takes 293 damage.
+Round 2: boolicious wins the fight!
+You gain 42 Meat
+You acquire an item: Elder Turtle Shell
+You gain 3 Beefiness
+You gain 4 Mysteriousness
+You gain 2 Chutzpah
+
+[3596] Nemesis Cave
+Encounter: haunted soup tureen
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: haunted soup tureen takes 299 damage.
+Round 2: boolicious wins the fight!
+You gain 4 Beefiness
+You gain 4 Sarcasm
+
+Visiting Terry, the Turtle Tamer
+
+postwarisland.php?place=concert
+
+[3597] Hole in the Sky
+Encounter: The Box
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: the box takes 192 damage.
+Round 2: boolicious wins the fight!
+You gain 25 Strengthliness
+You gain 10 Magicalness
+You gain 7 Sarcasm
+
+[3598] Fantasy Airship
+Encounter: MagiMechTech MechaMech
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: magimechtech mechamech takes 229 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused. LIMIT BREAK!
+Round 2: magimechtech mechamech drops 21 attack power.
+Round 2: magimechtech mechamech drops 21 defense.
+Round 2: boolicious wins the fight!
+You acquire an item: burned-out arcanodiode
+You gain 16 Strongness
+You gain 10 Magicalness
+You gain 8 Chutzpah
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+accept bounty assignment to collect 5 sammich crusts
+outfit Mining Gear
+
+[3599] Orc Chasm
+Encounter: 1335 HaXx0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: 1335 haxx0r takes 184 damage.
+Round 2: 1335 haxx0r drops 1 attack power.
+Round 2: 1335 haxx0r drops 3 defense.
+Round 2: boolicious wins the fight!
+You gain 41 Meat
+You gain 8 Strongness
+You gain 3 Wizardliness
+You gain 13 Cheek
+
+[3600] Mine Foremens' Office
+Encounter: Well, That Was Easy
+You acquire an item: thick padded envelope
+
+Visiting Olaf the Janitor
+You gain 1,000 Meat
+
+[3601] Nemesis Cave
+Encounter: vengeful turtle spectre
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: vengeful turtle spectre takes 235 damage.
+Round 2: vengeful turtle spectre drops 1 attack power.
+Round 2: vengeful turtle spectre drops 3 defense.
+Round 2: boolicious wins the fight!
+You gain 4 Strongness
+You gain 2 Wizardliness
+You gain 2 Chutzpah
+outfit Hot and Cold Running Ninja Suit
+
+Visiting the pretentious artist
+You have unlocked a new tattoo.
+outfit eXtreme Cold-Weather Gear
+
+Visiting the pretentious artist
+
+equip hat Elder Turtle Shell
+
+equip weapon Chelonian Morningstar
+
+[3602] Fantasy Airship
+Encounter: Spunky Princess
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts DRUNKEN BABY STYLE!
+Round 2: boolicious attacks!
+Round 3: spunky princess takes 198 damage.
+Round 3: boolicious wins the fight!
+You gain 148 Meat
+You gain 17 Beefiness
+You gain 3 Magicalness
+You gain 5 Roguishness
+
+[3603] Orc Chasm
+Encounter: me4t begZ0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: me4t begz0r takes 201 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: me4t begz0r drops 11 attack power.
+Round 2: me4t begz0r drops 11 defense.
+Round 2: boolicious wins the fight!
+You acquire an item: meat vortex
+You gain 11 Strengthliness
+You gain a Muscle point!
+You gain 4 Wizardliness
+You gain 9 Roguishness
+
+[3604] Orc Chasm
+Encounter: Flaming Troll
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: flaming troll takes 207 damage.
+Round 2: boolicious wins the fight!
+You gain 52 Meat
+You acquire an item: Trollhouse cookies
+You gain 11 Strengthliness
+You gain 5 Magicalness
+You gain 7 Sarcasm
+
+[3605] Orc Chasm
+Encounter: menacing thug
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: menacing thug takes 231 damage.
+Round 2: boolicious wins the fight!
+You gain 197 Meat
+You gain 7 Strengthliness
+You gain 4 Magicalness
+You gain 5 Chutzpah
+
+[3606] Orc Chasm
+Encounter: Spam Witch
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spam witch takes 209 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  She looks a little bit confused.
+Round 2: spam witch drops 11 attack power.
+Round 2: spam witch drops 11 defense.
+Round 2: boolicious wins the fight!
+You gain 33 Meat
+You acquire an item: Spam Witch sammich
+You acquire an item: sammich crust
+You gain 11 Beefiness
+You gain 7 Wizardliness
+You gain 5 Cheek
+
+[3607] Orc Chasm
+Encounter: Lamz0r N00b
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lamz0r n00b takes 208 damage.
+Round 2: boolicious wins the fight!
+You gain 45 Meat
+You gain 11 Fortitude
+You gain 6 Mysteriousness
+You gain 5 Roguishness
+
+[3608] Orc Chasm
+Encounter: rampaging adding machine
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: rampaging adding machine takes 212 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 34 damage.
+Round 2: rampaging adding machine takes 34 damage.
+Round 2: boolicious wins the fight!
+You gain 11 Strengthliness
+You gain 6 Wizardliness
+You gain 5 Smarm
+
+[3609] Orc Chasm
+Encounter: XXX pr0n
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: xxx pr0n takes 218 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 34 damage.
+Round 2: xxx pr0n takes 34 damage.
+Round 2: boolicious wins the fight!
+You gain 35 Meat
+You acquire an item: f3d0r4
+You gain 9 Muscleboundness
+You gain 6 Wizardliness
+You gain 7 Sarcasm
+
+[3610] Orc Chasm
+Encounter: 1335 HaXx0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: 1335 haxx0r takes 209 damage.
+Round 2: boolicious wins the fight!
+You gain 35 Meat
+You gain 13 Beefiness
+You gain 7 Mysteriousness
+You gain 4 Chutzpah
+
+[3611] Orc Chasm
+Encounter: me4t begZ0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: me4t begz0r takes 205 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: meat vortex
+You gain 13 Strengthliness
+You gain 8 Mysteriousness
+You gain 5 Smarm
+
+[3612] Orc Chasm
+Encounter: Spam Witch
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spam witch takes 208 damage.
+Round 2: boolicious wins the fight!
+You gain 35 Meat
+You acquire an item: 30669 scroll
+You acquire an item: sammich crust
+You gain 16 Fortitude
+You gain 5 Magicalness
+You gain 4 Roguishness
+
+[3613] Orc Chasm
+Encounter: Anime Smiley
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: anime smiley takes 212 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: Tasty Fun Good rice candy
+You gain 5 Fortitude
+You gain 11 Enchantedness
+You gain 5 Roguishness
+
+[3614] Orc Chasm
+Encounter: Anime Smiley
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: anime smiley takes 215 damage.
+Round 2: boolicious wins the fight!
+You gain 16 Muscleboundness
+You gain 4 Mysteriousness
+You gain 3 Sarcasm
+
+[3615] Orc Chasm
+Encounter: rampaging adding machine
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: rampaging adding machine takes 310 damage.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 189 Meat.
+Round 2: boolicious wins the fight!
+You gain 8 Fortitude
+You gain 9 Magicalness
+You gain 5 Cheek
+You gain a Moxie point!
+
+[3616] Orc Chasm
+Encounter: Lamz0r N00b
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lamz0r n00b takes 326 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: lamz0r n00b drops 13 attack power.
+Round 2: lamz0r n00b drops 13 defense.
+Round 2: boolicious wins the fight!
+You gain 50 Meat
+You acquire an item: plastic guitar
+You gain 9 Fortitude
+You gain 4 Magicalness
+You gain 10 Sarcasm
+
+[3617] Orc Chasm
+Encounter: 1335 HaXx0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: 1335 haxx0r takes 313 damage.
+Round 2: boolicious wins the fight!
+You gain 50 Meat
+You acquire an item: Dyspepsi-Cola
+You gain 13 Muscleboundness
+You gain 7 Magicalness
+You gain 3 Roguishness
+
+[3618] Orc Chasm
+Encounter: Anime Smiley
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: anime smiley takes 308 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 2: anime smiley drops 13 attack power.
+Round 2: anime smiley drops 13 defense.
+Round 2: boolicious wins the fight!
+You acquire an item: Tasty Fun Good rice candy
+You acquire an item: 334 scroll
+You gain 10 Beefiness
+You gain 7 Mysteriousness
+You gain 4 Chutzpah
+
+[3619] Orc Chasm
+Encounter: Anime Smiley
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: anime smiley takes 308 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 201 Meat.
+Round 2: boolicious wins the fight!
+You acquire an item: Tasty Fun Good rice candy
+You gain 9 Strongness
+You gain 5 Magicalness
+You gain 9 Sarcasm
+
+[3620] Barrel full of Barrels
+
+[3620] Barrel Full of Barrels
+Encounter: Barrel Smash
+You lose 84 hit points
+
+[3621] Barrel Full of Barrels
+Encounter: Barrel Smash
+You acquire an item: tequila sunrise
+
+[3622] Barrel Full of Barrels
+Encounter: Mimic (Top 2 Rows)
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: mimic (top 2 rows) takes 351 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 39 damage.
+Round 2: mimic (top 2 rows) takes 39 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: suntan lotion of moxiousness
+You gain 7 Fortitude
+You gain 3 Enchantedness
+
+use 1 turtle pheromones
+You acquire an effect: Eau de Tortue (duration: 10 Adventures)
+
+[3623] Orc Chasm
+Encounter: me4t begZ0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: me4t begz0r takes 306 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: meat vortex
+You gain 11 Muscleboundness
+You gain 5 Mysteriousness
+You gain 9 Roguishness
+
+[3624] Orc Chasm
+Encounter: me4t begZ0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: me4t begz0r takes 308 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 39 damage.
+Round 2: me4t begz0r takes 39 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: meat vortex
+You gain 13 Muscleboundness
+You gain 5 Wizardliness
+You gain 5 Sarcasm
+
+[3625] Orc Chasm
+Encounter: Flaming Troll
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the meat vortex!
+You gain 5 Meat.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 39 damage.
+Round 2: flaming troll takes 39 damage.
+Round 2: boolicious attacks!
+Round 3: flaming troll takes 311 damage.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 45 hit points
+You gain 45 Muscularity Points
+Round 3: boolicious wins the fight!
+You gain 75 Meat
+You acquire an item: Trollhouse cookies
+You gain 17 Muscleboundness
+You gain 1 Magicalness
+You gain 7 Sarcasm
+
+[3626] Orc Chasm
+Encounter: 1335 HaXx0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: 1335 haxx0r takes 315 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 39 damage.
+Round 2: 1335 haxx0r takes 39 damage.
+Round 2: boolicious wins the fight!
+You gain 52 Meat
+You acquire an item: Dyspepsi-Cola
+You gain 10 Muscleboundness
+You gain 5 Wizardliness
+You gain 8 Sarcasm
+
+[3627] Orc Chasm
+Encounter: Never Break the Chain
+choice.php?pwd&whichchoice=328&option=1
+You lose 16 hit points
+
+[3627] Orc Chasm
+Encounter: Lamz0r N00b
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lamz0r n00b takes 309 damage.
+Round 2: boolicious wins the fight!
+You gain 45 Meat
+You acquire an item: 33398 scroll
+You gain 6 Muscleboundness
+You gain 8 Mysteriousness
+You gain 8 Chutzpah
+
+[3628] Orc Chasm
+Encounter: Anime Smiley
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: anime smiley takes 311 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 46 hit points
+You gain 46 Muscularity Points
+Round 2: boolicious wins the fight!
+You acquire an item: 334 scroll
+You gain 10 Strongness
+You gain 5 Enchantedness
+You gain 7 Smarm
+
+[3629] Orc Chasm
+Encounter: Spam Witch
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spam witch takes 304 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  She looks a little bit confused.
+Round 2: spam witch drops 13 attack power.
+Round 2: spam witch drops 13 defense.
+Round 2: boolicious wins the fight!
+You gain 57 Meat
+You acquire an item: Spam Witch sammich
+You acquire an item: sammich crust
+You gain 9 Fortitude
+You gain 8 Wizardliness
+You gain 7 Chutzpah
+
+[3630] Orc Chasm
+Encounter: me4t begZ0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: me4t begz0r takes 304 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 130 Meat.
+Round 2: boolicious wins the fight!
+You acquire an item: meat vortex
+You gain 14 Strengthliness
+You gain 4 Mysteriousness
+You gain 7 Sarcasm
+
+[3631] Orc Chasm
+Encounter: rampaging adding machine
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: rampaging adding machine takes 310 damage.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 45 hit points
+You gain 45 Muscularity Points
+Round 2: boolicious wins the fight!
+You gain 13 Strengthliness
+You gain 5 Magicalness
+You gain 5 Roguishness
+
+[3632] Orc Chasm
+Encounter: 1335 HaXx0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: 1335 haxx0r takes 305 damage.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 167 Meat.
+Round 2: boolicious wins the fight!
+You gain 43 Meat
+You gain 9 Strengthliness
+You gain 5 Wizardliness
+You gain 8 Chutzpah
+
+[3633] Orc Chasm
+Encounter: 1335 HaXx0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: 1335 haxx0r takes 306 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused. LIMIT BREAK!
+Round 2: 1335 haxx0r drops 26 attack power.
+Round 2: 1335 haxx0r drops 26 defense.
+Round 2: boolicious wins the fight!
+You gain 52 Meat
+You acquire an item: Dyspepsi-Cola
+You gain 15 Muscleboundness
+You gain 5 Wizardliness
+You gain 3 Roguishness
+
+[3634] Orc Chasm
+Encounter: XXX pr0n
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: xxx pr0n takes 305 damage.
+Round 2: boolicious wins the fight!
+You gain 59 Meat
+You gain 14 Strengthliness
+You gain 3 Mysteriousness
+You gain 5 Smarm
+
+[3635] Orc Chasm
+Encounter: Spam Witch
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spam witch takes 298 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  She looks a little bit confused.
+Round 2: spam witch drops 13 attack power.
+Round 2: spam witch drops 13 defense.
+Round 2: boolicious wins the fight!
+You gain 57 Meat
+You acquire an item: sammich crust
+You gain 18 Beefiness
+You gain 4 Wizardliness
+You gain 3 Chutzpah
+
+[3636] Orc Chasm
+Encounter: XXX pr0n
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: xxx pr0n takes 312 damage.
+Round 2: boolicious wins the fight!
+You gain 55 Meat
+You gain 13 Fortitude
+You gain 4 Magicalness
+You gain 5 Smarm
+
+[3637] Orc Chasm
+Encounter: Lamz0r N00b
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: lamz0r n00b takes 308 damage.
+Round 2: boolicious wins the fight!
+You gain 59 Meat
+You acquire an item: plastic guitar
+You gain 14 Muscleboundness
+You gain 2 Wizardliness
+You gain 7 Cheek
+
+[3638] Orc Chasm
+Encounter: me4t begZ0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: me4t begz0r takes 308 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: meat vortex
+You gain 13 Strengthliness
+You gain 5 Enchantedness
+You gain 9 Cheek
+
+[3639] McMillicancuddy's Farm
+Encounter: mean drunk duck
+Round 0: boolicious loses initiative!
+Round 1: mean drunk duck takes 2 damage.
+Round 1: mean drunk duck takes 7 damage.
+Round 1: mean drunk duck takes 5 damage.
+You lose 12 hit points
+Round 1: boolicious attacks!
+Round 2: mean drunk duck takes 245 damage.
+Round 2: boolicious wins the fight!
+You gain 349 Meat
+You gain 26 Strengthliness
+You gain 13 Magicalness
+You gain 12 Cheek
+Jumping into Awesome Ball Pit in clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+clan_hobopolis.php?place=2
+
+[3640] Hobopolis Town Square
+Encounter: Top-Hat Moe &quot;The Elbow&quot; North, the Devil
+Round 0: boolicious loses initiative!
+You lose 125 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 325 damage.
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 316 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 40 damage.
+Round 3: normal hobo takes 40 damage.
+Round 3: boolicious wins the fight!
+You gain 40 Fortitude
+You gain a Muscle point!
+You gain 21 Enchantedness
+You gain 23 Sarcasm
+Richard takes a hobo skin
+
+[3641] Hobopolis Town Square
+Encounter: Mob Penguin hitman
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: mob penguin hitman takes 525 damage.
+Round 2: boolicious wins the fight!
+You gain 388 Meat
+You acquire an item: kneecapping stick
+You gain 9 Fortitude
+You gain 4 Magicalness
+You gain 8 Sarcasm
+
+[3642] Hobopolis Town Square
+Encounter: Vince White, His Own Twin
+Round 0: boolicious loses initiative!
+You lose 120 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 319 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 40 damage.
+Round 2: normal hobo takes 40 damage.
+You lose 119 hit points
+Round 2: boolicious casts ASK RICHARD FOR A BANDAGE!
+You gain 523 hit points
+You lose 114 hit points
+Round 3: boolicious attacks!
+Round 4: normal hobo takes 337 damage.
+Round 4: Cocopuff's bells jingle merrily.
+Round 4: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused. LIMIT BREAK!
+Round 4: normal hobo drops 26 attack power.
+Round 4: normal hobo drops 26 defense.
+Round 4: boolicious wins the fight!
+You gain 39 Strengthliness
+You gain 19 Mysteriousness
+You gain a Mysticality point!
+You gain 25 Chutzpah
+Richard takes a hobo skin
+
+[3643] Hobopolis Town Square
+Encounter: Simon Buck, the Duck Throttler
+Round 0: boolicious loses initiative!
+You lose 119 hit points
+Round 1: boolicious casts ASK RICHARD FOR A GRENADE!
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: normal hobo drops 13 attack power.
+Round 2: normal hobo drops 13 defense.
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 324 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 122 Meat.
+Round 3: boolicious attacks!
+Round 4: normal hobo takes 327 damage.
+Round 4: boolicious wins the fight!
+You acquire an item: hobo nickel
+You gain 38 Strongness
+You gain 12 Magicalness
+You gain 37 Sarcasm
+
+[3644] Hobopolis Town Square
+Encounter: Crumbjacket Alex Peterson, the Jackanapes
+Round 0: boolicious loses initiative!
+You lose 127 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 327 damage.
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 325 damage.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 3: normal hobo drops 13 attack power.
+Round 3: normal hobo drops 13 defense.
+Round 3: boolicious wins the fight!
+You gain 32 Beefiness
+You gain 21 Mysteriousness
+You gain 32 Chutzpah
+
+[3645] Hobopolis Town Square
+Encounter: Philatelist Byron &quot;High School Sweetheart&quot; Taylor, Esq.
+Round 0: boolicious loses initiative!
+Round 1: normal hobo takes 2 damage.
+Round 1: normal hobo takes 3 damage.
+Round 1: normal hobo takes 4 damage.
+You lose 25 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 319 damage.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 150 Meat.
+You lose 118 hit points
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 321 damage.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 82 damage. LIMIT BREAK!
+Round 3: normal hobo takes 82 damage.
+Round 3: boolicious wins the fight!
+You gain 43 Beefiness
+You gain 18 Magicalness
+You gain 23 Sarcasm
+Richard takes a hobo skin
+
+use 1 turtle pheromones
+You acquire an effect: Eau de Tortue (duration: 10 Adventures)
+
+use 1 scroll of drastic healing
+
+[3646] Hobopolis Town Square
+Encounter: Ambidextrous Floyd Stemple
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 330 damage.
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 325 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 39 damage.
+Round 3: normal hobo takes 39 damage.
+Round 3: boolicious wins the fight!
+You gain 38 Fortitude
+You gain 16 Wizardliness
+You gain 33 Roguishness
+You gain a Moxie point!
+Richard takes a hobo skin
+
+equip off-hand stress ball
+
+[3647] Hobopolis Town Square
+Encounter: Romeo Steadwick, the Southern Officer and the Southern Gentleman
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 327 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: normal hobo drops 13 attack power.
+Round 2: normal hobo drops 13 defense.
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 361 damage.
+Round 3: boolicious wins the fight!
+You gain 44 Beefiness
+You gain 19 Enchantedness
+You gain 22 Chutzpah
+Richard takes a hobo skin
+
+clan_hobopolis.php?place=2
+
+[3648] Hobopolis Town Square
+Encounter: Double Stuff Wilbur, the Man with the Handlebar Eyebrows
+Round 0: boolicious loses initiative!
+You lose 120 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 324 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 40 damage.
+Round 2: normal hobo takes 40 damage.
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 318 damage.
+Round 3: boolicious wins the fight!
+You gain 43 Strongness
+You gain 16 Magicalness
+You gain 27 Smarm
+Richard takes a hobo skin
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=3
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=2
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+[3649] Help Richard make bandages (Mysticality) (3 turns)
+You gain 71 Wizardliness
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=5
+
+[3652] Exposure Esplanade
+Encounter: Fresh-From-The-Refrigerator Charlie Walker
+Round 0: boolicious loses initiative!
+You lose 183 hit points
+Round 1: boolicious attacks!
+Round 2: cold hobo takes 298 damage.
+You lose 267 hit points
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 78 damage. LIMIT BREAK!
+Round 2: cold hobo takes 78 damage.
+You lose 294 hit points
+
+uneffect Beaten Up
+
+use 1 scroll of drastic healing
+
+clan_hobopolis.php?place=5
+clan_hobopolis.php?place=2
+
+[3653] Hobopolis Town Square
+Encounter: Training Day
+choice.php?pwd&whichchoice=345&option=1
+
+[3653] Hobopolis Town Square
+Encounter: Unnervingly Candid Clyde McMahon
+Round 0: boolicious loses initiative!
+You lose 117 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 325 damage.
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 326 damage.
+Round 3: boolicious wins the fight!
+You gain 46 Strongness
+You gain 23 Mysteriousness
+You gain 14 Roguishness
+
+[3654] Hobopolis Town Square
+Encounter: Finnish Abe, the Hobo in the Iron Mask
+Round 0: boolicious loses initiative!
+You lose 119 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 329 damage.
+You lose 126 hit points
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 327 damage.
+Round 3: boolicious wins the fight!
+You gain 39 Strengthliness
+You gain 17 Mysteriousness
+You gain 28 Sarcasm
+
+[3655] Hobopolis Town Square
+Encounter: Elephantine Dwight &quot;Laser Beams&quot; Wilson
+Round 0: boolicious loses initiative!
+You lose 123 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 323 damage.
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 343 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 128 Meat.
+Round 3: boolicious wins the fight!
+You gain 42 Strengthliness
+You gain a Muscle point!
+You gain 21 Magicalness
+You gain 20 Smarm
+
+[3656] Hobopolis Town Square
+Encounter: Senator Uther, the Viscount of Everywhere
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 324 damage.
+You lose 124 hit points
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 339 damage.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 85 hit points
+You gain 85 Muscularity Points
+Round 3: boolicious wins the fight!
+You gain 51 Muscleboundness
+You gain 19 Mysteriousness
+You gain 14 Cheek
+
+[3657] Hobopolis Town Square
+Encounter: Half-Dollar Walter Cartwright
+Round 0: boolicious loses initiative!
+You lose 123 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 319 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 41 damage.
+Round 2: normal hobo takes 41 damage.
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 321 damage.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 78 damage. LIMIT BREAK!
+Round 3: normal hobo takes 78 damage.
+Round 3: boolicious wins the fight!
+You gain 42 Strongness
+You gain 18 Enchantedness
+You gain 24 Smarm
+Richard takes a hobo skin
+
+use 1 scroll of drastic healing
+
+[3658] Hobopolis Town Square
+Encounter: Mind Yer Binder
+choice.php?pwd&whichchoice=230&option=2
+
+[3658] Hobopolis Town Square
+Encounter: R. J. &quot;Sunken Treasure&quot; Stipe, the High-Ranking Mason
+Round 0: boolicious loses initiative!
+You lose 117 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 326 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: normal hobo drops 13 attack power.
+Round 2: normal hobo drops 13 defense.
+You lose 116 hit points
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 330 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 194 Meat.
+Round 3: boolicious wins the fight!
+You gain 35 Fortitude
+You gain 25 Wizardliness
+You gain 24 Smarm
+
+[3659] Hobopolis Town Square
+Encounter: Persuasive Aldous Huxtable
+Round 0: boolicious loses initiative!
+You lose 124 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 325 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 39 damage.
+Round 2: normal hobo takes 39 damage.
+You lose 116 hit points
+Round 2: boolicious casts ASK RICHARD FOR A BANDAGE!
+You gain 555 hit points
+You lose 130 hit points
+Round 3: boolicious casts ASK RICHARD FOR A GRENADE!
+Round 4: boolicious attacks!
+Round 5: normal hobo takes 324 damage.
+Round 5: boolicious wins the fight!
+You gain 41 Beefiness
+You gain 21 Enchantedness
+You gain a Mysticality point!
+You gain 22 Sarcasm
+Richard takes a hobo skin
+
+[3660] Hobopolis Town Square
+Encounter: Ambassador Yuri, the Gentleman
+Round 0: boolicious loses initiative!
+You lose 124 hit points
+Round 1: boolicious attacks!
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 127 Meat.
+You lose 126 hit points
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 132 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 163 Meat.
+Round 3: normal hobo takes 2 damage.
+Round 3: normal hobo takes 2 damage.
+Round 3: normal hobo takes 5 damage.
+You lose 72 hit points
+Round 3: boolicious casts ASK RICHARD FOR A GRENADE!
+Round 4: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 46 hit points
+You gain 46 Muscularity Points
+Round 4: boolicious attacks!
+Round 5: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 39 damage.
+Round 5: normal hobo takes 39 damage.
+Round 5: boolicious uses the paint bomb!
+Round 6: normal hobo takes 35 damage.
+Round 6: normal hobo takes 37 damage.
+Round 6: boolicious uses the Mob Penguin cellular phone!
+Round 7: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 7: normal hobo drops 13 attack power.
+Round 7: normal hobo drops 13 defense.
+Round 7: normal hobo takes 42 damage.
+Round 7: boolicious casts ASK RICHARD TO ROUGH THE HOBO UP A BIT!
+Round 8: normal hobo takes 127 damage.
+Round 8: normal hobo takes 36 damage.
+Round 8: boolicious wins the fight!
+You gain 41 Strongness
+You gain 22 Mysteriousness
+You gain 20 Smarm
+
+use 1 Nuclear Blastball
+You acquire an effect: Taste the Inferno (duration: 50 Adventures)
+
+[3661] Orc Chasm
+Encounter: Flaming Troll
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: flaming troll takes 309 damage.
+Round 2: boolicious wins the fight!
+You gain 64 Meat
+You gain 11 Strongness
+You gain 8 Magicalness
+You gain 4 Smarm
+
+[3662] Orc Chasm
+Encounter: Anime Smiley
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: anime smiley takes 320 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 2: anime smiley drops 13 attack power.
+Round 2: anime smiley drops 13 defense.
+Round 2: boolicious wins the fight!
+You acquire an item: Tasty Fun Good rice candy
+You gain 13 Strongness
+You gain 6 Magicalness
+You gain 4 Chutzpah
+
+[3663] Orc Chasm
+Encounter: 1335 HaXx0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: 1335 haxx0r takes 314 damage.
+Round 2: boolicious wins the fight!
+You gain 54 Meat
+You acquire an item: Dyspepsi-Cola
+You gain 11 Muscleboundness
+You gain 5 Wizardliness
+You gain 8 Chutzpah
+
+[3664] Orc Chasm
+Encounter: XXX pr0n
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: xxx pr0n takes 318 damage.
+Round 2: boolicious wins the fight!
+You gain 57 Meat
+You acquire an item: f3d0r4
+You gain 8 Strengthliness
+You gain 6 Magicalness
+You gain 7 Smarm
+
+[3665] Hobopolis Town Square
+Encounter: Exoskeleton Alex, the Prosthetic Hobo
+Round 0: boolicious loses initiative!
+You lose 117 hit points
+Round 1: boolicious attacks!
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 78 damage. LIMIT BREAK!
+Round 2: normal hobo takes 78 damage.
+Round 2: boolicious casts ASK RICHARD FOR A GRENADE!
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 145 Meat.
+Round 3: boolicious attacks!
+Round 4: boolicious uses the gas balloon!
+Round 5: boolicious uses the gauze garter!
+You gain 94 hit points
+Round 6: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 45 hit points
+You gain 45 Muscularity Points
+Round 6: boolicious attacks!
+Round 7: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 45 hit points
+You gain 45 Muscularity Points
+Round 7: boolicious casts HEAD + KNEE COMBO!
+Round 8: normal hobo takes 124 damage.
+Round 8: normal hobo takes 32 damage.
+Round 8: normal hobo takes 10 damage.
+Round 8: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 193 Meat.
+Round 8: boolicious casts HEAD + KNEE COMBO!
+Round 9: normal hobo takes 126 damage.
+Round 9: normal hobo takes 33 damage.
+Round 9: normal hobo takes 13 damage.
+Round 9: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 44 hit points
+You gain 44 Muscularity Points
+Round 9: boolicious wins the fight!
+You gain 42 Strongness
+You gain 17 Magicalness
+You gain 25 Roguishness
+
+equip acc2 blackberry combat boots
+
+equip acc3 heart of the volcano
+
+clan_hobopolis.php?place=2
+
+[3666] Orc Chasm
+Encounter: 1335 HaXx0r
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: 1335 haxx0r takes 340 damage.
+Round 2: boolicious wins the fight!
+You gain 55 Meat
+You acquire an item: Dyspepsi-Cola
+You acquire an item: 334 scroll
+You gain 13 Fortitude
+You gain 5 Wizardliness
+You gain 7 Smarm
+
+[3667] Orc Chasm
+Encounter: rampaging adding machine
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: rampaging adding machine takes 313 damage.
+Round 2: boolicious wins the fight!
+You gain 10 Fortitude
+You gain 3 Wizardliness
+You gain 12 Sarcasm
+
+[3668] Orc Chasm
+Encounter: Spam Witch
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spam witch takes 311 damage.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 44 hit points
+You gain 44 Muscularity Points
+Round 2: boolicious wins the fight!
+You gain 57 Meat
+You acquire an item: Spam Witch sammich
+You acquire an item: sammich crust
+You gain 11 Muscleboundness
+You gain 7 Enchantedness
+You gain 7 Smarm
+You gain a Moxie point!
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+Visiting the Bounty Hunter Hunter
+
+[3669] Hobopolis Town Square
+Encounter: Brendan &quot;Smooth Operator&quot; Harrison
+Round 0: boolicious loses initiative!
+Round 1: normal hobo takes 3 damage.
+Round 1: normal hobo takes 8 damage.
+Round 1: normal hobo takes 4 damage.
+You lose 79 hit points
+Round 1: boolicious casts ASK RICHARD FOR A GRENADE!
+Round 2: boolicious uses the flaregun!
+Round 3: normal hobo takes 15 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 44 hit points
+You gain 44 Muscularity Points
+Round 3: boolicious casts ASK RICHARD FOR A GRENADE!
+Round 4: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 286 Meat.
+Round 4: boolicious attacks!
+Round 5: normal hobo takes 132 damage.
+Round 5: boolicious attacks!
+Round 6: boolicious attacks!
+Round 7: boolicious uses the photoprotoneutron torpedo!
+Round 8: normal hobo takes 30 damage.
+Round 8: normal hobo takes 2 damage.
+Round 8: normal hobo takes 7 damage.
+Round 8: normal hobo takes 3 damage.
+You lose 78 hit points
+Round 8: boolicious uses the unbearable light!
+You acquire an effect: Everything Looks Yellow (duration: 149 Adventures)
+Round 9: boolicious wins the fight!
+You gain 43 Muscleboundness
+You gain 21 Magicalness
+You gain 19 Cheek
+
+clan_hobopolis.php?place=2
+
+[3671] The Middle Chamber
+Encounter: tomb bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: tomb bat takes 234 damage.
+Round 2: boolicious wins the fight!
+You gain 88 Meat
+You gain 30 Fortitude
+You gain a Muscle point!
+You gain 5 Mysteriousness
+You gain 14 Roguishness
+
+[3671] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: iiti kitty takes 240 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing her for 41 damage.
+Round 2: iiti kitty takes 41 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: ancient Magi-Wipes
+You acquire an item: mummy wrapping
+You gain 22 Strongness
+You gain 14 Magicalness
+You gain 9 Chutzpah
+
+[3672] The Lower Chambers (Rats/Token)
+You lose 32 hit points
+
+[3673] The Upper Chamber
+Encounter: tomb rat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: tomb rat takes 245 damage.
+Round 2: boolicious wins the fight!
+You gain 156 Meat
+You gain 25 Muscleboundness
+You gain 11 Magicalness
+You gain 10 Roguishness
+
+[3674] The Upper Chamber
+Encounter: tomb rat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: tomb rat takes 240 damage.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 151 Meat.
+Round 2: boolicious wins the fight!
+You gain 129 Meat
+You gain 20 Beefiness
+You gain 12 Magicalness
+You gain 13 Roguishness
+
+[3675] Thugnderdome
+Encounter: gnasty gnome
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: gnasty gnome takes 358 damage.
+Round 2: boolicious wins the fight!
+You gain 4 Fortitude
+You gain 2 Magicalness
+You gain 4 Cheek
+
+drink 1 margarita
+You gain 5 Adventures
+You gain 11 Muscleboundness
+You gain 3 Drunkenness
+
+cast 1 Summon Clip Art
+
+drink 1 rum and cola
+You gain 5 Adventures
+You gain 13 Roguishness
+You gain 15 Muscularity Points
+You gain 3 Drunkenness

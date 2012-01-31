@@ -427,3 +427,946 @@ Item: +5.00%
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+October 9, 2011 - Jarlsuary 5
+
+Ronald: full moon
+Grimace: first quarter
+Mini-moon: behind Grimace
+
+Valentine's Day: 7 days
+St. Sneaky Pete's Day: 14 days
+Oyster Egg Day: 21 days
+Halloween: 22 days
+El Dia De Los Muertos Borrachos: 29 days
+Generic Summer Holiday: 38 days
+Feast of Boris: 46 days
+Dependence Day: 47 days
+Arrrbor Day: 55 days
+Lab&oacute;r Day: 65 days
+Festival of Jarlsberg: 84 days
+Yuletide: 87 days
+
+
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 15
+HP: 204 / 639
+MP: 208 / 328
+
+Mus: 388 (227), tnp = 371
+Mys: 219 (163), tnp = 105
+Mox: 217 (165), tnp = 29
+
+Advs: 71
+Meat: 33,711
+Drunk: 0
+
+
+ > equipment
+
+Hat: mesh cap
+Weapon: Flail of the Seven Aspects
+Off-hand: black shield
+Shirt: Ultracolor™ shirt
+Pants: sugar shorts
+
+Acc. 1: Slow Talkin' Elliot's dogtags
+Acc. 2: Pokëmann figurine: Frank
+Acc. 3: Mr. Accessory
+
+Pet: Cocoabo (30 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+
+Gnome Trainer
+ - Gnefarious Pickpocketing
+ - Torso Awaregness
+
+
+ > effects
+
+1 of 3 AT buffs active.
+Earthen Fist (194)
+Jabañero Saucesphere (287)
+♫ Jackasses' Symphony of Destruction (287)
+Jingle Jangle Jingle (287)
+Ghostly Shell (287)
+Scarysauce (287)
+Jalapeño Saucesphere (287)
+Elemental Saucesphere (287)
+Tenacity of the Snapper (287)
+Astral Shell (287)
+Reptilian Fortitude (287)
+Empathy (292)
+Patience of the Tortoise (321)
+Salamanderenity (809)
+Retrograde Relaxation (1,853)
+Red Neck (∞)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: -30.00%
+
+Exp: +0.00
+Meat: +35.00%
+Item: +5.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+clan_hobopolis.php?place=2
+
+buy 1 milk of magnesium for 970 each from 1742135 on 20111009
+You acquire an item: milk of magnesium
+
+use 1 milk of magnesium
+You acquire an effect: Got Milk (duration: 10 Adventures)
+
+cast 1 Summon Clip Art
+You acquire an item: cheezburger
+
+eat 1 cheezburger
+You gain 16 Adventures
+You gain 12 Strongness
+You gain 3 Enchantedness
+You gain 3 Cheek
+You acquire an effect: Yes, Can Haz (duration: 50 Adventures)
+You gain 3 Fullness
+You lose some of an effect: Got Milk
+
+eat 1 black forest ham
+You gain 11 Adventures
+You gain 30 Strengthliness
+You gain 3 Fullness
+You lose some of an effect: Got Milk
+
+eat 1 black forest cake
+You gain 10 Adventures
+You gain 57 Mysteriousness
+You acquire an effect: Sugar Rush (duration: 5 Adventures)
+You gain 3 Fullness
+You lose some of an effect: Got Milk
+
+cast 1 Summon Clip Art
+You acquire an item: blunt cat claw
+
+eat 1 blunt cat claw
+You gain 4 Adventures
+You gain 56 Fortitude
+You acquire an effect: Feline Ferocity (duration: 30 Adventures)
+You gain 1 Fullness
+You lose an effect: Got Milk
+
+Cook 1 spooky mushroom + 1 skewer
+You acquire an item: spooky shroomkabob
+Crafting used 1 each of skewer and spooky mushroom
+
+eat 1 spooky shroomkabob
+You gain 4 Adventures
+You gain 6 Roguishness
+You gain 2 Fullness
+
+drink 1 calle de miel
+You gain 14 Adventures
+You gain 11 Strongness
+You gain 27 Smarm
+You gain a Moxie point!
+You gain 4 Drunkenness
+
+drink 1 roll in the hay
+You gain 11 Adventures
+You gain 45 Mysteriousness
+You gain a Mysticality point!
+You gain 4 Drunkenness
+
+drink 2 elven squeeze
+You gain 8 Adventures
+You gain 29 Fortitude
+You gain 36 Mysteriousness
+You gain 23 Roguishness
+You gain 3 Drunkenness
+You gain 8 Adventures
+You gain 26 Strongness
+You gain 28 Mysteriousness
+You gain 27 Roguishness
+You gain 3 Drunkenness
+
+[4079] Mix 1 papaya + 1 bottle of gin
+You acquire an item: papaya sling
+Crafting used 1 each of bottle of gin and papaya
+
+drink 1 papaya sling
+You gain 6 Adventures
+You gain 31 Strengthliness
+You gain 3 Drunkenness
+
+cast 1 Summon Clip Art
+You acquire an item: Bordeaux Marteaux
+
+drink 1 Bordeaux Marteaux
+You gain 5 Adventures
+You gain 86 Strongness
+You acquire an effect: Hammered (duration: 20 Adventures)
+You gain 1 Drunkenness
+
+use 1 lavender striped oyster egg
+You gain 14 Cheek
+You gain 15 Muscleboundness
+
+use 1 ancient Magi-Wipes
+You gain 55 hit points
+You gain 54 Muscularity Points
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+You gain 1,081 Meat
+Jumping into Awesome Ball Pit in clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+You gain 4,236 Meat
+
+postwarisland.php?place=concert
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+
+use 1 Angry Farmer candy
+You acquire an effect: Sugar Rush (duration: 10 Adventures)
+
+use 2 pile of candy
+You acquire marzipan skull (2)
+You acquire an item: Angry Farmer candy
+You acquire an item: Tasty Fun Good rice candy
+You acquire Yummy Tummy bean (3)
+
+use 2 Tasty Fun Good rice candy
+You acquire an effect: Sugar Rush (duration: 10 Adventures)
+
+use 1 Yummy Tummy bean
+You acquire an effect: Uncertain (duration: 5 Adventures)
+You acquire an effect: Sugar Rush (duration: 3 Adventures)
+
+clan_hobopolis.php?place=2
+
+buy 1 scroll of drastic healing for 215 each from 845708 on 20111009
+You acquire an item: scroll of drastic healing
+
+use 1 scroll of drastic healing
+
+[4078] Hobopolis Town Square
+Encounter: Unidentifiable Del Woodward, the Infirm
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1197 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 69 hit points
+You gain 69 Muscularity Points
+Round 2: boolicious wins the fight!
+You gain 43 muskewlairtees
+You gain 22 mistikkaltees
+You gain 19 mawksees
+Richard takes a hobo skin
+
+[4079] Hobopolis Town Square
+Encounter: Walter Dunn, and His Inner Ear Infection
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1320 damage.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 125 Meat.
+Round 2: boolicious wins the fight!
+You gain 36 muskewlairtees
+You gain a Muscle point!
+You gain 23 mistikkaltees
+You gain 24 mawksees
+Richard takes a hobo skin
+
+[4080] Hobopolis Town Square
+Encounter: Marketplace Entrance
+choice.php?pwd&whichchoice=272&option=1
+Encounter: The Hobo Marketplace
+
+equip off-hand hobo code binder
+choice.php?pwd&whichchoice=232&option=2
+Encounter: Salud
+choice.php?pwd&whichchoice=263&option=1
+You acquire an effect: Trepandation (duration: 20 Adventures)
+
+uneffect Uncertain
+
+uneffect Trepandation
+
+[4081] Hobopolis Town Square
+Encounter: Moe Des Moines, the Child-Size
+Round 0: boolicious loses initiative!
+You lose 118 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1172 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: normal hobo drops 10 attack power.
+Round 2: normal hobo drops 10 defense.
+Round 2: boolicious wins the fight!
+You gain 39 muskewlairtees
+You gain 24 mistikkaltees
+You gain 20 mawksees
+Richard takes a hobo skin
+
+[4082] Hobopolis Town Square
+Encounter: Fourteen-Bindlestick Dunstan &quot;Champagne Cork&quot; Wilson, the San Francisco Treat
+Round 0: boolicious loses initiative!
+You lose 121 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1195 damage.
+Round 2: boolicious wins the fight!
+You gain 42 muskewlairtees
+You gain 20 mistikkaltees
+You gain 22 mawksees
+Richard takes a hobo skin
+
+clan_hobopolis.php?place=2
+
+[4083] Hobopolis Town Square
+Encounter: No-ATM-Card Louis McDonald
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1207 damage.
+Round 2: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 29 muskewlairtees
+You gain 32 mistikkaltees
+You gain 24 mawksees
+Richard takes a hobo skin
+
+[4084] Hobopolis Town Square
+Encounter: Vincent &quot;Mac&quot; Goodman
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1197 damage.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 38 hit points
+You gain 38 Muscularity Points
+Round 2: boolicious wins the fight!
+You gain 35 muskewlairtees
+You gain 25 mistikkaltees
+You gain 24 mawksees
+Richard takes a hobo skin
+
+[4085] Hobopolis Town Square
+Encounter: Staggering Barney, the Assistant Manager
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1162 damage.
+Round 2: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 42 muskewlairtees
+You gain 22 mistikkaltees
+You gain 19 mawksees
+Richard takes a hobo skin
+
+[4086] Hobopolis Town Square
+Encounter: Slim &quot;The Repeat Offender&quot; Belvedere, the Gentleman
+Round 0: boolicious loses initiative!
+You lose 110 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1197 damage.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 130 Meat.
+Round 2: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 37 muskewlairtees
+You gain 33 mistikkaltees
+You gain 16 mawksees
+Richard takes a hobo skin
+
+equip acc2 ring of conflict
+
+[4087] Hobopolis Town Square
+Encounter: Newton &quot;Dive Bar&quot; Cooper
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1112 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 31 damage.
+Round 2: normal hobo takes 31 damage.
+Round 2: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 37 muskewlairtees
+You gain 24 mistikkaltees
+You gain 23 mawksees
+Richard takes a hobo skin
+
+[4088] Hobopolis Town Square
+Encounter: Big-Tipper Updike Nichols
+Round 0: boolicious loses initiative!
+You lose 112 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1145 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 66 damage. LIMIT BREAK!
+Round 2: normal hobo takes 66 damage.
+Round 2: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 47 muskewlairtees
+You gain 20 mistikkaltees
+You gain 17 mawksees
+Richard takes a hobo skin
+
+[4089] Hobopolis Town Square
+Encounter: Sterno-Drinkin' Dookie &quot;Powderpuff&quot; Waldorf, the San Francisco Treat
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1117 damage.
+Round 2: boolicious wins the fight!
+You gain 39 muskewlairtees
+You gain 25 mistikkaltees
+You gain a Mysticality point!
+You gain 19 mawksees
+Richard takes a hobo skin
+
+[4090] Hobopolis Town Square
+Encounter: Edgar &quot;Palm Trees&quot; McCartney, the High-Ranking Mason
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1137 damage.
+Round 2: boolicious wins the fight!
+You gain 40 muskewlairtees
+You gain 24 mistikkaltees
+You gain 20 mawksees
+Richard takes a hobo skin
+
+[4091] Hobopolis Town Square
+Encounter: Newton &quot;Teen Heartthrob&quot; Dunn, the Hobo On Stilts
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1100 damage.
+Round 2: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 40 muskewlairtees
+You gain 22 mistikkaltees
+You gain 21 mawksees
+You gain a Moxie point!
+Richard takes a hobo skin
+
+[4092] Hobopolis Town Square
+Encounter: Impulse-Buy Nicky North
+Round 0: boolicious loses initiative!
+You lose 118 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1107 damage.
+Round 2: boolicious wins the fight!
+You gain 36 muskewlairtees
+You gain a Muscle point!
+You gain a Level!
+You gain 24 mistikkaltees
+You gain 24 mawksees
+Richard takes a hobo skin
+
+[4093] Hobopolis Town Square
+Encounter: Three-Bean Gunther &quot;Salami Hog&quot; Dunn, the Land Pirate
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1252 damage.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 37 hit points
+You gain 37 Muscularity Points
+Round 2: boolicious wins the fight!
+You gain 48 muskewlairtees
+You gain 14 mistikkaltees
+You gain 20 mawksees
+Richard takes a hobo skin
+
+[4094] Hobopolis Town Square
+Encounter: Mountain-Humper Cholly, the Human Toothpick
+Round 0: boolicious loses initiative!
+You lose 123 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1130 damage.
+Round 2: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 29 muskewlairtees
+You gain 27 mistikkaltees
+You gain 28 mawksees
+Richard takes a hobo skin
+
+[4095] Hobopolis Town Square
+Encounter: Rubbery John, Hobo of the Mountains
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1135 damage.
+Round 2: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 41 muskewlairtees
+You gain 25 mistikkaltees
+You gain 19 mawksees
+You acquire an item: sugar shard (3)
+Richard takes a hobo skin
+
+Fold sugar sheet
+You acquire an item: sugar shorts
+
+equip pants sugar shorts
+
+[4096] Hobopolis Town Square
+Encounter: Tennessee Bix Disraeli, Hobo of the Mountains
+Round 0: boolicious loses initiative!
+Round 1: boolicious casts ASK RICHARD FOR A BANDAGE!
+You gain 571 hit points
+Round 2: normal hobo takes 3 damage.
+Round 2: normal hobo takes 6 damage.
+Round 2: normal hobo takes 4 damage.
+You lose 17 hit points
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 1150 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 107 Meat.
+Round 3: boolicious wins the fight!
+You gain 46 muskewlairtees
+You gain 20 mistikkaltees
+You gain 19 mawksees
+Richard takes a hobo skin
+
+[4097] Hobopolis Town Square
+Encounter: Polished Elmer &quot;The Sloth&quot; Haskell
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1122 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 32 damage.
+Round 2: normal hobo takes 32 damage.
+Round 2: boolicious wins the fight!
+You gain 37 muskewlairtees
+You gain 30 mistikkaltees
+You gain 17 mawksees
+Richard takes a hobo skin
+
+[4098] Hobopolis Town Square
+Encounter: Huge-Calves Newton, the Freakster
+Round 0: boolicious loses initiative!
+You lose 117 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 416 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused. LIMIT BREAK!
+Round 2: normal hobo drops 20 attack power.
+Round 2: normal hobo drops 20 defense.
+Round 2: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 41 muskewlairtees
+You gain 18 mistikkaltees
+You gain 24 mawksees
+
+[4099] Hobopolis Town Square
+Encounter: Half-Albino Wemberly White
+Round 0: boolicious loses initiative!
+Round 1: normal hobo takes 3 damage.
+Round 1: normal hobo takes 10 damage.
+Round 1: normal hobo takes 4 damage.
+You lose 17 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 396 damage.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 36 hit points
+You gain 36 Muscularity Points
+Round 2: boolicious wins the fight!
+You gain 30 muskewlairtees
+You gain 25 mistikkaltees
+You gain 28 mawksees
+
+[4100] Hobopolis Town Square
+Encounter: Pete Jones, Esq.
+Round 0: boolicious loses initiative!
+You lose 113 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 416 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused. LIMIT BREAK!
+Round 2: normal hobo drops 22 attack power.
+Round 2: normal hobo drops 22 defense.
+Round 2: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 47 muskewlairtees
+You gain 19 mistikkaltees
+You gain 19 mawksees
+
+[4101] Hobopolis Town Square
+Encounter: Walter &quot;Submarine&quot; Lennon, the Expert Dreamweaver
+Round 0: boolicious loses initiative!
+You lose 108 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 444 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 33 damage.
+Round 2: normal hobo takes 33 damage.
+Round 2: boolicious wins the fight!
+You gain 41 muskewlairtees
+You gain 23 mistikkaltees
+You gain 20 mawksees
+
+[4102] Hobopolis Town Square
+Encounter: Elmer &quot;Chicken Sandwich&quot; Young
+Round 0: boolicious loses initiative!
+You lose 109 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 402 damage.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 294 Meat.
+Round 2: boolicious wins the fight!
+You gain 35 muskewlairtees
+You gain 28 mistikkaltees
+You gain 21 mawksees
+
+[4103] Hobopolis Town Square
+Encounter: Elmer &quot;Tarantula&quot; Westinghouse
+Round 0: boolicious loses initiative!
+Round 1: normal hobo takes 3 damage.
+Round 1: normal hobo takes 4 damage.
+Round 1: normal hobo takes 4 damage.
+You lose 17 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 402 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 31 damage.
+Round 2: normal hobo takes 31 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: hobo nickel
+You gain 48 muskewlairtees
+You gain 18 mistikkaltees
+You gain 18 mawksees
+
+[4104] Hobopolis Town Square
+Encounter: Marketplace Entrance
+
+equip off-hand hobo code binder
+choice.php?pwd&whichchoice=272&option=1
+Encounter: The Hobo Marketplace
+choice.php?pwd&whichchoice=232&option=3
+Encounter: Salud
+choice.php?pwd&whichchoice=263&option=2
+Encounter: Another Part of the Market
+choice.php?pwd&whichchoice=266&option=1
+Encounter: It's Fun To Stay There
+choice.php?pwd&whichchoice=268&option=2
+You acquire an effect: It Didn't Kill You (duration: 20 Adventures)
+
+[4105] Hobopolis Town Square
+Encounter: Ambassador Boris, the Hobo With Good Credit
+Round 0: boolicious loses initiative!
+You lose 117 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 615 damage.
+Round 2: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 38 muskewlairtees
+You gain a Muscle point!
+You gain 30 mistikkaltees
+You gain a Mysticality point!
+You gain 17 mawksees
+Richard takes a hobo skin
+
+[4106] Hobopolis Town Square
+Encounter: His Majesty Timmy, Master of the Metal Trapeze
+Round 0: boolicious loses initiative!
+Round 1: normal hobo takes 2 damage.
+Round 1: normal hobo takes 3 damage.
+Round 1: normal hobo takes 5 damage.
+You lose 17 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 706 damage.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 106 Meat.
+Round 2: boolicious wins the fight!
+You gain 47 muskewlairtees
+You gain 22 mistikkaltees
+You gain 16 mawksees
+Richard takes a hobo skin
+
+[4107] Hobopolis Town Square
+Encounter: Marketplace Entrance
+choice.php?pwd&whichchoice=272&option=1
+Encounter: The Hobo Marketplace
+choice.php?pwd&whichchoice=232&option=1
+Encounter: Food Went A-Courtin'
+choice.php?pwd&whichchoice=234&option=2
+Encounter: Food, Glorious Food
+choice.php?pwd&whichchoice=236&option=1
+Encounter: Suddenly Salad!
+choice.php?pwd&whichchoice=238&option=1
+
+[4108] Hobopolis Town Square
+Encounter: Doc Martin, the Hobo Einstein
+Round 0: boolicious loses initiative!
+You lose 114 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 344 damage.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 111 Meat.
+Round 2: normal hobo takes 3 damage.
+Round 2: normal hobo takes 8 damage.
+Round 2: normal hobo takes 5 damage.
+You lose 18 hit points
+Round 2: boolicious casts ASK RICHARD FOR A BANDAGE!
+You gain 557 hit points
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 38 hit points
+You gain 38 Muscularity Points
+Round 3: normal hobo takes 1 damage.
+Round 3: normal hobo takes 2 damage.
+Round 3: normal hobo takes 3 damage.
+You lose 17 hit points
+Round 3: boolicious attacks!
+Round 4: normal hobo takes 387 damage.
+Round 4: boolicious wins the fight!
+You gain 40 muskewlairtees
+You gain 15 mistikkaltees
+You gain 26 mawksees
+Richard takes a hobo skin
+
+[4109] Hobopolis Town Square
+Encounter: Big-Tipper Dave, the President's Long-Lost Brother
+Round 0: boolicious loses initiative!
+Round 1: normal hobo takes 1 damage.
+Round 1: normal hobo takes 8 damage.
+Round 1: normal hobo takes 5 damage.
+You lose 19 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 354 damage.
+Round 2: normal hobo takes 3 damage.
+Round 2: normal hobo takes 2 damage.
+Round 2: normal hobo takes 4 damage.
+You lose 15 hit points
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 357 damage.
+Round 3: boolicious wins the fight!
+You gain 43 muskewlairtees
+You gain 19 mistikkaltees
+You gain 21 mawksees
+You gain a Moxie point!
+Richard takes a hobo skin
+
+[4110] Hobopolis Town Square
+Encounter: Canadian Duncan Garcia
+Round 0: boolicious loses initiative!
+You lose 118 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 355 damage.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 38 hit points
+You gain 38 Muscularity Points
+Round 2: normal hobo takes 1 damage.
+Round 2: normal hobo takes 10 damage.
+Round 2: normal hobo takes 5 damage.
+You lose 16 hit points
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 358 damage.
+Round 3: boolicious wins the fight!
+You gain 28 muskewlairtees
+You gain 32 mistikkaltees
+You gain 25 mawksees
+Richard takes a hobo skin
+
+[4111] Hobopolis Town Square
+Encounter: Dandy Easthouse, the Tapdancing Trombo
+Round 0: boolicious loses initiative!
+Round 1: normal hobo takes 3 damage.
+Round 1: normal hobo takes 7 damage.
+Round 1: normal hobo takes 5 damage.
+You lose 15 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 352 damage.
+You lose 106 hit points
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 379 damage.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 3: normal hobo drops 10 attack power.
+Round 3: normal hobo drops 10 defense.
+Round 3: boolicious wins the fight!
+You gain 40 muskewlairtees
+You gain 27 mistikkaltees
+You gain 17 mawksees
+Richard takes a hobo skin
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=3
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+
+[4112] Hobopolis Town Square
+Encounter: Monkey's-Paw Leroy, the Child with Haunting Eyes
+Round 0: boolicious loses initiative!
+You lose 120 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 358 damage.
+You lose 114 hit points
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 345 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 110 Meat.
+Round 3: boolicious wins the fight!
+You gain 41 muskewlairtees
+You gain 23 mistikkaltees
+You gain 20 mawksees
+Richard takes a hobo skin
+
+[4113] Hobopolis Town Square
+Encounter: Marketplace Entrance
+choice.php?pwd&whichchoice=272&option=1
+Encounter: The Hobo Marketplace
+choice.php?pwd&whichchoice=232&option=2
+Encounter: Salud
+choice.php?pwd&whichchoice=263&option=2
+Encounter: Another Part of the Market
+choice.php?pwd&whichchoice=266&option=2
+Encounter: Let's All Go To The Movies
+choice.php?pwd&whichchoice=267&option=2
+You acquire an effect: Educated (Sorta) (duration: 20 Adventures)
+
+[4114] Hobopolis Town Square
+Encounter: Forgot-His-PIN Emil Jackson
+Round 0: boolicious loses initiative!
+You lose 110 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 361 damage.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 37 hit points
+You gain 37 Muscularity Points
+You lose 107 hit points
+
+uneffect Beaten Up
+
+use 1 scroll of drastic healing
+
+[4115] Hobopolis Town Square
+Encounter: Fermat's Last Jonsey, the Secret Collector of Decorative China
+Round 0: boolicious loses initiative!
+You lose 107 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 363 damage.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 112 Meat.
+Round 2: normal hobo takes 3 damage.
+Round 2: normal hobo takes 10 damage.
+Round 2: normal hobo takes 3 damage.
+You lose 18 hit points
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 347 damage.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 32 damage.
+Round 3: normal hobo takes 32 damage.
+Round 3: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 44 muskewlairtees
+You gain 19 mistikkaltees
+You gain 20 mawksees
+Richard takes a hobo skin
+
+[4116] Hobopolis Town Square
+Encounter: Indiana Isaiah, the Child-Size
+Round 0: boolicious loses initiative!
+Round 1: normal hobo takes 1 damage.
+Round 1: normal hobo takes 6 damage.
+Round 1: normal hobo takes 4 damage.
+You lose 17 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 358 damage.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 145 Meat.
+Round 2: normal hobo takes 1 damage.
+Round 2: normal hobo takes 10 damage.
+Round 2: normal hobo takes 3 damage.
+You lose 14 hit points
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 352 damage.
+Round 3: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 44 muskewlairtees
+You gain 22 mistikkaltees
+You gain 17 mawksees
+Richard takes a hobo skin
+
+[4117] Hobopolis Town Square
+Encounter: Hydrocephalic Jocko, the Dumpster Archaeologist
+Round 0: boolicious loses initiative!
+Round 1: normal hobo takes 1 damage.
+Round 1: normal hobo takes 3 damage.
+Round 1: normal hobo takes 3 damage.
+You lose 18 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 378 damage.
+You lose 121 hit points
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 364 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 99 Meat.
+Round 3: boolicious wins the fight!
+You gain 48 muskewlairtees
+You gain 27 mistikkaltees
+You gain 11 mawksees
+Richard takes a hobo skin
