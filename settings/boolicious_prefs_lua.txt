@@ -18,11 +18,11 @@ ItemManageFrame=592,332,-1
 KoLDesktop=393,205,-1
 LoginFrame=409,276,0
 MailboxFrame=289,310,1
-MaximizerFrame=192,231
+MaximizerFrame=652,0
 MeatManageFrame=475,375
 MushroomFrame=305,324,1
 OptionsFrame=354,275,8
-ProfileFrame=470,207,-1
+ProfileFrame=42,207,-1
 RecentEventsFrame=474,284
 RequestFrame=337,247,-1
 RequestSynchFrame=3,3,-1
@@ -97,7 +97,7 @@ _sealFigurineUses=0
 _sealsSummoned=0
 _sexChanged=false
 _skateBuff1=false
-_skateBuff2=false
+_skateBuff2=true
 _skateBuff3=false
 _skateBuff4=false
 _skateBuff5=false
@@ -112,7 +112,7 @@ _transponderDrops=0
 _trivialAvocationsGame=true
 _userMods
 _vmaskAdv=0
-_zapCount=1
+_zapCount=0
 addingScrolls=2
 arcadeGameHints=true
 autoAbortThreshold=0.2
@@ -586,7 +586,7 @@ concertVisited=true
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=15
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -594,7 +594,7 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=15
+currentSpleenUse=5
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -618,12 +618,12 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8=Kelderred
 demonName9
-demonSummoned=true
+demonSummoned=false
 desktopHeight=600
 desktopWidth=800
 discardedKarma=0
 distentionPillActive=false
-dolphinItem=Mer-kin thingpouch
+dolphinItem=high-pressure seltzer bottle
 doorCode
 expressCardUsed=false
 extraRolloverAdventures=0
@@ -647,7 +647,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=15
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 gongPath=10
 gourdItemCount=6
 grimoire1Summons=0
@@ -670,7 +670,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Cobb's Knob Treasury
+lastAdventure=The Mer-Kin Outpost
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -686,13 +686,13 @@ lastBangPotion827=ettin strength
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=5
+lastBreakfast=6
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=25
-lastCounterDay=5
+lastCounterDay=6
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=1
@@ -733,7 +733,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=Finally, the Payoff
+lastEncounter=Mer-kin raider
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -805,7 +805,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=17
+libramSummons=10
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -917,11 +917,11 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=73
-stationaryButton2=15
-stationaryButton3=70
-stationaryButton4=68
-stationaryButton5=71
+stationaryButton1=70
+stationaryButton2=68
+stationaryButton3=71
+stationaryButton4=2024
+stationaryButton5=4009
 styxPixieVisited=false
 sugarCounter4178=1
 sugarCounter4179=0
@@ -938,12 +938,12 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=true
+telescopeLookedHigh=false
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=3
+tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
