@@ -2493,3 +2493,301 @@ You acquire an item: hobo nickel
 You gain 64 Strongness
 You gain 17 Magicalness
 You gain 23 Roguishness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 30, 2012 - Starch 6
+
+Ronald: waning gibbous
+Grimace: first quarter
+Mini-moon: in front of Ronald, R side
+
+Oyster Egg Day: 4 days
+El Dia De Los Muertos Borrachos: 12 days
+Valentine's Day: 15 days
+Generic Summer Holiday: 21 days
+Dependence Day: 30 days
+Arrrbor Day: 38 days
+St. Sneaky Pete's Day: 47 days
+Lab&oacute;r Day: 48 days
+Halloween: 58 days
+Feast of Boris: 65 days
+Yuletide: 70 days
+Festival of Jarlsberg: 75 days
+
+
+3 days until Muscle.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 26
+HP: 54 / 1,184
+MP: 536 / 810
+
+Mus: 739 (657), tnp = 1,004
+Mys: 522 (474), tnp = 498
+Mox: 520 (472), tnp = 902
+
+Advs: 34
+Meat: 188,494
+Drunk: 0
+
+
+ > equipment
+
+Hat: straw hat
+Weapon: Flail of the Seven Aspects
+Off-hand: Hodgman's metal detector
+Shirt: cane-mail shirt
+Pants: The Necbromancer's Shorts
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: ring of conflict
+Acc. 3: Hodgman's lucky sock
+
+Pet: Fancypants Scarecrow (11 lbs)
+Item: Knob Goblin Uberpants
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Eggsplosion
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Strong Resolve (21)
+Greedy Resolve (21)
+Brilliant Resolve (21)
+Irresistible Resolve (21)
+Destructive Resolve (21)
+Buy! Sell! Buy! Sell! (40)
+Bubble Vision (57)
+Tenacity of the Snapper (445)
+♫ Fat Leon's Phat Loot Lyric (529)
+Astral Shell (532)
+Jalapeño Saucesphere (579)
+♫ Stevedave's Shanty of Superiority (600)
+♫ Polka of Plenty (740)
+Empathy (804)
+Jabañero Saucesphere (924)
+Scarysauce (940)
+Patience of the Tortoise (1,016)
+Retrograde Relaxation (1,037)
+Reptilian Fortitude (1,139)
+Jingle Jangle Jingle (1,211)
+Salamanderenity (1,308)
+Elemental Saucesphere (1,329)
+Ghostly Shell (2,140)
+
+
+ > modifiers
+
+ML: +20
+Enc: -5.00%
+Init: +0.00%
+
+Exp: +4.50
+Meat: +247.00%
+Item: +196.60%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 5 Summon Resolutions
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be more adventurous
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be smarter
+
+game.php?mainpane=messages
+
+[17182] Rest in Clan Sofa (1 turns)
+You gain 130 hit points
+You gain 129 Muscularity Points
+
+cast 1 Summon Clip Art
+You acquire an item: 4:20 bomb
+
+cast 1 Summon Clip Art
+You acquire an item: cheezburger
+unequip weapon
+unequip offhand
+
+equip shirt General Sage's Lonely Diamonds Club Jacket
+
+equip acc1 fudgecycle
+
+equip acc2 time halo
+
+equip acc3 wristwatch of the white knight
+
+cast 1 Summon Clip Art
+You acquire an item: cold-filtered water
+Jumping into Awesome Ball Pit in clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+buy 5 Ben-Gal™ Balm for 24 each from Market Demon
+You acquire Ben-Gal™ Balm (5)
+You spent 120 Meat
+
+use 5 Ben-Gal™ Balm
+You acquire an effect: Go Get 'Em, Tiger! (duration: 15 Adventures)
+
+telescope look high
+You acquire an effect: Starry-Eyed (duration: 10 Adventures)
+
+use 1 all-year sucker
+You acquire an effect: Gonna Get You, Sucker (duration: 10 Adventures)
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 2,198 hit points
+
+Visiting the Bounty Hunter Hunter
+
+[17183] Summoning Chamber
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[17184] Mix 2 bottle of whiskey + 2 peppermint twist
+You acquire Mint Yulep (2)
+Crafting used 2 each of bottle of whiskey and peppermint twist
+
+drink 2 Mint Yulep
+You gain 10 Adventures
+You gain 35 Beefiness
+You gain 19 Magicalness
+You gain 18 Chutzpah
+You gain 2 Drunkenness
+You gain 11 Adventures
+You gain 44 Beefiness
+You gain 17 Enchantedness
+You gain 13 Sarcasm
+You gain 2 Drunkenness
+
+drink 1 slap and tickle
+You gain 11 Adventures
+You gain 10 Enchantedness
+You gain 25 Smarm
+You gain 4 Drunkenness
+
+[17186] Mix 3 bottle of rum + 3 lime
+You acquire grog (3)
+Crafting used 3 each of lime and bottle of rum
+
+drink 3 grog
+You gain 8 Adventures
+You gain 8 Fortitude
+You gain 3 Drunkenness
+You gain 8 Adventures
+You gain 9 Fortitude
+You gain 3 Drunkenness
+You gain 5 Adventures
+You gain 11 Fortitude
+You gain 3 Drunkenness
+
+drink 1 Fromage Pinotage
+You gain 4 Adventures
+You gain 45 Mysteriousness
+You acquire an effect: Some Cheese with Your Wine (duration: 20 Adventures)
+You gain 1 Drunkenness
+
+drink 1 shot of tomato schnapps
+You gain 2 Adventures
+You gain 2 Fortitude
+You gain 2 Enchantedness
+You gain 2 Sarcasm
+You gain 1 Drunkenness
+
+eat 1 unidentified jerky
+You gain 4 Adventures
+You gain 12 Fortitude
+You gain 12 Enchantedness
+You gain 10 Cheek
+You gain 2 Fullness
+
+use 1 fishy paste
+You gain 7 Adventures
+You gain 24 Strongness
+You gain 22 Wizardliness
+You gain 20 Roguishness
+You acquire an effect: Fishy (duration: 10 Adventures)
+
+use 2 Mer-kin paste
+You gain 15 Adventures
+You gain 44 Beefiness
+You gain 40 Mysteriousness
+You gain 43 Smarm
+You acquire an effect: Mer-kinny Flavor (duration: 20 Adventures)
+
+zap aluminum wand
+
+equip hat hardened slime hat
+
+zap hardened slime hat
+You acquire an item: hardened slime pants

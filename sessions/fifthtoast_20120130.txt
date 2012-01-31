@@ -1167,3 +1167,120 @@ You acquire an item: hermit permit
 You spent 100 Meat
 
 cast 3 Advanced Cocktailcrafting
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 30, 2012 - Starch 6
+
+Ronald: waning gibbous
+Grimace: first quarter
+Mini-moon: in front of Ronald, R side
+
+Oyster Egg Day: 4 days
+El Dia De Los Muertos Borrachos: 12 days
+Valentine's Day: 15 days
+Generic Summer Holiday: 21 days
+Dependence Day: 30 days
+Arrrbor Day: 38 days
+St. Sneaky Pete's Day: 47 days
+Lab&oacute;r Day: 48 days
+Halloween: 58 days
+Feast of Boris: 65 days
+Yuletide: 70 days
+Festival of Jarlsberg: 75 days
+
+
+3 days until Muscle.
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 9
+HP: 78 / 110
+MP: 67 / 77
+
+Mus: 74 (57), tnp = 2
+Mys: 74 (57), tnp = 22
+Mox: 125 (79), tnp = 63
+
+Advs: 86
+Meat: 27,082
+Drunk: 0
+
+
+ > equipment
+
+Hat: f3d0r4
+Weapon: chrome crossbow
+Off-hand: (none)
+Shirt: (none)
+Pants: swashbuckling pants
+
+Acc. 1: badass belt
+Acc. 2: tiny plastic Big Candy
+Acc. 3: shiny ring
+
+Pet: Baby Gravy Fairy (29 lbs)
+Item: eye-pod
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+
+Disco Bandit
+ - Advanced Cocktailcrafting
+ - Disco Aerobics
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Nap
+ - Mad Looting Skillz
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+♫ Aloysius' Antiphon of Aptitude (360)
+Jabañero Saucesphere (360)
+♫ The Moxious Madrigal (360)
+♫ Stevedave's Shanty of Superiority (360)
+Jingle Jangle Jingle (360)
+Ghostly Shell (360)
+Jalapeño Saucesphere (360)
+Astral Shell (360)
+Tenacity of the Snapper (360)
+Reptilian Fortitude (372)
+Scarysauce (372)
+Empathy (372)
+Elemental Saucesphere (372)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +1.00
+Meat: +0.00%
+Item: +85.94%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+equip acc3 dead guy's watch

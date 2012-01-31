@@ -859,6 +859,7 @@ sidequestOrchardCompleted=none
 singleFamiliarRun=-1
 skateParkStatus=war
 skillBurn1019=-100
+skillBurn3=-100
 skillBurn5017=-100
 skillBurn6014=-100
 skillBurn6015=-100

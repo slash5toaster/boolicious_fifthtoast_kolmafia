@@ -24,7 +24,7 @@ MushroomFrame=305,324,1
 OptionsFrame=354,275,8
 ProfileFrame=470,207,-1
 RecentEventsFrame=474,284
-RequestFrame=-3,-3,-1
+RequestFrame=337,247,-1
 RequestSynchFrame=3,3,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
@@ -33,13 +33,13 @@ TabbedChatFrame=24,52,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
-_allYearSucker=false
+_allYearSucker=true
 _aprilShower=false
 _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
 _bagOfCandy=false
-_ballpit=false
+_ballpit=true
 _banderRunaways=0
 _benettonsCasts=0
 _bonersSummoned=false
@@ -112,7 +112,7 @@ _transponderDrops=0
 _trivialAvocationsGame=true
 _userMods
 _vmaskAdv=0
-_zapCount=0
+_zapCount=1
 addingScrolls=2
 arcadeGameHints=true
 autoAbortThreshold=0.2
@@ -586,7 +586,7 @@ concertVisited=true
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=13
+currentFullness=15
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -594,7 +594,7 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=2
+currentSpleenUse=15
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -805,7 +805,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=12
+libramSummons=17
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -894,6 +894,7 @@ sidequestOrchardCompleted=hippy
 singleFamiliarRun=-1
 skateParkStatus=roller
 skillBurn1019=-100
+skillBurn3=-100
 skillBurn5017=-100
 skillBurn6014=-100
 skillBurn6015=-100
@@ -937,12 +938,12 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=false
+telescopeLookedHigh=true
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=0
+tomeSummons=3
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
