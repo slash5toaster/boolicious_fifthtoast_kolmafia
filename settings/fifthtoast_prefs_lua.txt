@@ -3,7 +3,7 @@ CakeArenaFrame=424,348
 CouncilFrame=424,322,-1
 DescriptionFrame=424,322,-1
 FamiliarTrainingFrame=260,240
-KoLDesktop=415,236,-1
+KoLDesktop=56,163,-1
 LoginFrame=409,276,0
 MaximizerFrame=379,354
 ProfileFrame=424,322,-1
@@ -554,7 +554,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=15
+currentFullness=3
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -562,7 +562,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=1
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -614,7 +614,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 gongPath=0
 gourdItemCount=7
 grimoire1Summons=0
@@ -637,7 +637,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Orc Chasm
+lastAdventure=South of the Border
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=healing
@@ -652,13 +652,13 @@ lastBangPotion827
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=6
+lastBreakfast=7
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=9
-lastCounterDay=6
+lastCouncilVisit=10
+lastCounterDay=7
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -699,7 +699,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=rampaging adding machine
+lastEncounter=mariachi calavera
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -835,7 +835,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=1771\:Fortune Cookie\:fortune.gif\:1784\:Fortune Cookie\:fortune.gif\:1736\:Fortune Cookie\:fortune.gif
+relayCounters=1736\:Fortune Cookie\:fortune.gif\:1771\:Fortune Cookie\:fortune.gif\:1784\:Fortune Cookie\:fortune.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
