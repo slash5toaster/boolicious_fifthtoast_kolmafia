@@ -15,7 +15,7 @@ FamiliarTrainingFrame=161,307
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=393,205,-1
+KoLDesktop=393,236,-1
 LoginFrame=409,276,0
 MailboxFrame=289,310,1
 MaximizerFrame=326,275
@@ -29,7 +29,7 @@ RequestSynchFrame=3,3,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=185,99,0
-TabbedChatFrame=24,52,0
+TabbedChatFrame=24,52,1
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -586,7 +586,7 @@ concertVisited=true
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=15
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -805,7 +805,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=16
+libramSummons=20
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
