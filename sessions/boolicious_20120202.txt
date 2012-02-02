@@ -249,3 +249,1340 @@ You gain 500 Meat
 equip hat straw hat
 
 equip pants The Necbromancer's Shorts
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+February 2, 2012 - April 1
+
+Ronald: new moon
+Grimace: full moon
+Mini-moon: in back, near Grimace
+
+Groundhog Day: today
+Oyster Egg Day: tomorrow
+El Dia De Los Muertos Borrachos: 9 days
+Valentine's Day: 12 days
+Generic Summer Holiday: 18 days
+Dependence Day: 27 days
+Arrrbor Day: 35 days
+St. Sneaky Pete's Day: 44 days
+Lab&oacute;r Day: 45 days
+Halloween: 55 days
+Feast of Boris: 62 days
+Yuletide: 67 days
+Festival of Jarlsberg: 72 days
+
+Groundhog Day
+Muscle bonus today and tomorrow.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 26
+HP: 1173 / 1,173
+MP: 174 / 817
+
+Mus: 732 (664), tnp = 58
+Mys: 527 (479), tnp = 500
+Mox: 525 (477), tnp = 760
+
+Advs: 136
+Meat: 216,861
+Drunk: 0
+
+
+ > equipment
+
+Hat: straw hat
+Weapon: octopus's spade
+Off-hand: hobo code binder
+Shirt: cane-mail shirt
+Pants: The Necbromancer's Shorts
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: ring of conflict
+Acc. 3: Hodgman's lucky sock
+
+Pet: Fancypants Scarecrow (11 lbs)
+Item: Knob Goblin Uberpants
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Eggsplosion
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Down the Rabbit Hole (8)
+Bubble Vision (19)
+Tenacity of the Snapper (138)
+♫ Fat Leon's Phat Loot Lyric (222)
+Astral Shell (225)
+Jalapeño Saucesphere (272)
+♫ Stevedave's Shanty of Superiority (293)
+♫ Polka of Plenty (433)
+Empathy (497)
+Jabañero Saucesphere (617)
+Scarysauce (633)
+Reptilian Fortitude (832)
+Jingle Jangle Jingle (904)
+Elemental Saucesphere (1,022)
+Patience of the Tortoise (1,069)
+Retrograde Relaxation (1,093)
+Salamanderenity (1,133)
+Ghostly Shell (1,833)
+
+
+ > modifiers
+
+ML: +20
+Enc: -5.00%
+Init: +10.00%
+
+Exp: +2.50
+Meat: +95.00%
+Item: +214.60%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+game.php?mainpane=messages
+
+equip pants Hodgman's lobsterskin pants
+
+equip hat crown-shaped beanie
+
+[17489] The Red Queen's Garden
+Encounter: snapdragon
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: snapdragon takes 720 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 37 Beefiness
+You gain 13 Enchantedness
+You gain 15 Cheek
+
+[17490] The Red Queen's Garden
+Encounter: Tiger-lily
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: tiger-lily takes 713 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: Tiger-lily's milk
+You gain 33 Beefiness
+You gain a Muscle point!
+You gain 16 Magicalness
+You gain 15 Sarcasm
+
+equip shirt star shirt
+
+equip acc1 cursed scrunchie
+
+equip acc2 Pokëmann figurine: Frank
+
+equip pants trousers of the white knight
+
+buy 5 Ben-Gal™ Balm for 24 each from Market Demon
+You acquire Ben-Gal™ Balm (5)
+You spent 120 Meat
+
+use 5 Ben-Gal™ Balm
+You acquire an effect: Go Get 'Em, Tiger! (duration: 15 Adventures)
+
+use 1 fish-liver oil
+You acquire an effect: Fishy Fortification (duration: 5 Adventures)
+
+equip hat straw hat
+
+equip off-hand Hodgman's metal detector
+
+equip shirt cane-mail shirt
+
+equip acc1 Baron von Ratsworth's monocle
+
+equip acc2 Zinc Delta of Tranquility
+
+equip pants Knob Goblin Uberpants
+
+use 1 resolution: be happier
+You acquire an effect: Joyful Resolve (duration: 20 Adventures)
+
+buy 1 Knob Goblin eyedrops for 200 each from 1945689 on 20120202
+You acquire an item: Knob Goblin eyedrops
+
+use 1 Knob Goblin eyedrops
+You acquire an effect: Peeled Eyeballs (duration: 10 Adventures)
+friars blessing 1
+You acquire an effect: Brother Flying Burrito's Blessing (duration: 20 Adventures)
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 5 vials of pirate sweat
+
+[17491] Pirate Cove
+Encounter: swarthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: swarthy pirate takes 1020 damage.
+Round 2: boolicious wins the fight!
+You gain 45 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: stuffed shoulder parrot
+You acquire an item: pirate pelvis
+You acquire an item: leotarrrd
+You gain 10 Muscleboundness
+You gain 7 Wizardliness
+You gain 5 Smarm
+
+[17492] Pirate Cove
+Encounter: shifty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shifty pirate takes 1003 damage.
+Round 2: boolicious wins the fight!
+You gain 91 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: arrrgyle socks
+You acquire an item: sunken chest
+You acquire an item: flaregun
+You gain 19 Strongness
+You gain 3 Mysteriousness
+You gain 4 Sarcasm
+
+[17493] Pirate Cove
+Encounter: sassy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sassy pirate takes 1025 damage.
+Round 2: boolicious wins the fight!
+You gain 38 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: flaregun
+You gain 18 Strengthliness
+You gain 4 Magicalness
+You gain 3 Chutzpah
+
+[17494] Pirate Cove
+Encounter: Amatearrr Night
+Took choice 24/2: small meat boost
+choice.php?whichchoice=24&option=2&pwd
+You gain 100 Meat
+
+[17495] Pirate Cove
+Encounter: shifty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shifty pirate takes 1009 damage.
+Round 2: boolicious wins the fight!
+You gain 85 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: arrrgyle socks
+You acquire an item: sunken chest
+You acquire an item: flaregun
+You gain 17 Strongness
+You gain 4 Magicalness
+You gain 6 Chutzpah
+
+[17496] Pirate Cove
+Encounter: Barrie Me at Sea
+Took choice 23/3: small meat boost
+choice.php?whichchoice=23&option=3&pwd
+You gain 100 Meat
+
+[17497] Pirate Cove
+Encounter: A Dreadful Curse
+You gain 15 Magicalness
+
+[17498] Pirate Cove
+Encounter: Filching the Undarrwear
+You gain 15 Chutzpah
+
+[17499] Pirate Cove
+Encounter: sassy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sassy pirate takes 951 damage.
+Round 2: boolicious wins the fight!
+You gain 33 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: sunken chest
+You acquire an item: flaregun
+You gain 10 Beefiness
+You gain 10 Wizardliness
+You gain 1 Chutzpah
+
+[17500] Pirate Cove
+Encounter: The Beached Boys
+You gain 21 Strongness
+
+[17501] Pirate Cove
+Encounter: shady pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shady pirate takes 939 damage.
+Round 2: boolicious wins the fight!
+You gain 58 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 10 Strongness
+You gain 5 Enchantedness
+You gain 10 Smarm
+
+[17502] Pirate Cove
+Encounter: A Dreadful Curse
+You gain 15 Wizardliness
+
+[17503] Pirate Cove
+Encounter: Amatearrr Night
+Took choice 24/2: small meat boost
+choice.php?whichchoice=24&option=2&pwd
+You gain 100 Meat
+
+[17504] Pirate Cove
+Encounter: swarthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: swarthy pirate takes 947 damage.
+Round 2: boolicious wins the fight!
+You gain 39 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: stuffed shoulder parrot
+You acquire an item: pirate pelvis
+You acquire an item: leotarrrd
+You gain 7 Muscleboundness
+You gain 6 Magicalness
+You gain 9 Smarm
+
+[17505] Pirate Cove
+Encounter: smarmy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: smarmy pirate takes 943 damage.
+Round 2: boolicious wins the fight!
+You gain 58 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: eyepatch
+You acquire an item: bottle of rum
+You acquire an item: flaregun
+You acquire an item: vial of pirate sweat
+You gain 21 Strengthliness
+You gain 2 Wizardliness
+You gain 5 Sarcasm
+
+[17506] Pirate Cove
+Encounter: shifty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shifty pirate takes 841 damage.
+Round 2: boolicious wins the fight!
+You gain 91 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: sunken chest
+You acquire an item: flaregun
+You gain 21 Fortitude
+You gain 3 Magicalness
+You gain 5 Roguishness
+
+[17507] Pirate Cove
+Encounter: swarthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: swarthy pirate takes 850 damage.
+Round 2: boolicious wins the fight!
+You gain 44 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: pirate pelvis
+You acquire an item: leotarrrd
+You gain 15 Beefiness
+You gain 5 Wizardliness
+You gain 5 Cheek
+
+[17508] Pirate Cove
+Encounter: The Arrrbitrator
+Took choice 22/3: small meat boost
+choice.php?whichchoice=22&option=3&pwd
+You gain 100 Meat
+
+[17509] Pirate Cove
+Encounter: sassy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sassy pirate takes 847 damage.
+Round 2: boolicious wins the fight!
+You gain 42 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: sunken chest
+You acquire an item: flaregun
+You gain 14 Fortitude
+You gain 6 Mysteriousness
+You gain 4 Chutzpah
+
+[17510] Pirate Cove
+Encounter: sassy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sassy pirate takes 850 damage.
+Round 2: boolicious wins the fight!
+You gain 40 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: flaregun
+You gain 14 Beefiness
+You gain 5 Wizardliness
+You gain 6 Sarcasm
+
+[17511] Pirate Cove
+Encounter: Barrie Me at Sea
+Took choice 23/3: small meat boost
+choice.php?whichchoice=23&option=3&pwd
+You gain 100 Meat
+
+use 2 resolution: be sexier
+You acquire an effect: Irresistible Resolve (duration: 40 Adventures)
+
+use 2 resolution: be smarter
+You acquire an effect: Brilliant Resolve (duration: 40 Adventures)
+
+use 2 resolution: be stronger
+You acquire an effect: Strong Resolve (duration: 40 Adventures)
+
+use 2 resolution: be wealthier
+You acquire an effect: Greedy Resolve (duration: 40 Adventures)
+
+send a kmail to wadbot: 1 bone flute, 1 boxing glove, 1 clown shoes, 3 cold nuggets, 3 cold powder, 2 cornuthaum, 1 draggin' ball hat, 1 eXtreme mittens, 4 eyepatch, 1 finger cymbals, 1 flaming talons
+
+send a kmail to wadbot: 4 giant needle, 1 goth kid t-shirt, 1 helmet turtle, 3 hot nuggets, 2 hot powder, 1 irate sombrero, 1 Knob Goblin visor, 7 leotarrrd, 2 magic whistle, 2 powdered wig, 5 sleaze powder
+
+send a kmail to wadbot: 2 snapdragon pistil, 1 spooky nuggets, 2 spooky powder, 1 spork, 4 stench nuggets, 3 stench powder, 2 stuffed shoulder parrot, 2 third-hand nunchaku, 5 twinkly nuggets, 8 twinkly powder
+
+[17512] Pirate Cove
+Encounter: shady pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shady pirate takes 856 damage.
+Round 2: boolicious wins the fight!
+You gain 63 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: safarrri hat
+You gain 21 Strongness
+You gain 5 Magicalness
+You gain 7 Roguishness
+
+[17513] Pirate Cove
+Encounter: A Dreadful Curse
+You gain 15 Mysteriousness
+
+[17514] Pirate Cove
+Encounter: Barrie Me at Sea
+Took choice 23/3: small meat boost
+choice.php?whichchoice=23&option=3&pwd
+You gain 100 Meat
+
+[17515] Pirate Cove
+Encounter: smarmy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: smarmy pirate takes 849 damage.
+Round 2: boolicious wins the fight!
+You gain 58 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: Jolly Roger charrrm bracelet
+You acquire an item: bottle of rum
+You acquire an item: flaregun
+You acquire an item: vial of pirate sweat
+You gain 19 Fortitude
+You gain 7 Wizardliness
+You gain 6 Smarm
+
+[17516] Pirate Cove
+Encounter: shady pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shady pirate takes 837 damage.
+Round 2: boolicious wins the fight!
+You gain 74 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 14 Strengthliness
+You gain 10 Mysteriousness
+You gain 8 Sarcasm
+
+[17517] Pirate Cove
+Encounter: shifty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shifty pirate takes 844 damage.
+Round 2: boolicious wins the fight!
+You gain 114 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: sunken chest
+You acquire an item: flaregun
+You gain 23 Strengthliness
+You gain 5 Wizardliness
+You gain 6 Chutzpah
+
+[17518] Pirate Cove
+Encounter: smarmy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: smarmy pirate takes 859 damage.
+Round 2: boolicious wins the fight!
+You gain 63 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: bottle of rum
+You acquire an item: flaregun
+You acquire an item: vial of pirate sweat
+You gain 18 Fortitude
+You gain 8 Wizardliness
+You gain 6 Smarm
+
+[17519] Pirate Cove
+Encounter: sassy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sassy pirate takes 856 damage.
+Round 2: boolicious wins the fight!
+You gain 42 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: flaregun
+You gain 17 Fortitude
+You gain 12 Enchantedness
+You gain 3 Roguishness
+
+[17520] Pirate Cove
+Encounter: Filching the Undarrwear
+You gain 15 Sarcasm
+
+[17521] Pirate Cove
+Encounter: Amatearrr Night
+Took choice 24/2: small meat boost
+choice.php?whichchoice=24&option=2&pwd
+You gain 100 Meat
+
+[17522] Pirate Cove
+Encounter: The Beached Boys
+You gain 21 Beefiness
+
+[17523] Pirate Cove
+Encounter: shady pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shady pirate takes 855 damage.
+Round 2: Heckel &amp; Jeckyl's bells jingle merrily.
+Round 2: boolicious wins the fight!
+You gain 65 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: safarrri hat
+You gain 17 Strengthliness
+You gain 6 Wizardliness
+You gain 9 Smarm
+
+[17524] Pirate Cove
+Encounter: Amatearrr Night
+Took choice 24/2: small meat boost
+choice.php?whichchoice=24&option=2&pwd
+You gain 100 Meat
+
+[17525] Pirate Cove
+Encounter: swarthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: swarthy pirate takes 861 damage.
+Round 2: boolicious wins the fight!
+You gain 54 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: pirate pelvis
+You gain 18 Beefiness
+You gain 3 Mysteriousness
+You gain 11 Smarm
+
+[17526] Pirate Cove
+Encounter: shady pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shady pirate takes 847 damage.
+Round 2: boolicious wins the fight!
+You gain 67 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 15 Strengthliness
+You gain 11 Mysteriousness
+You gain 5 Roguishness
+
+[17527] Pirate Cove
+Encounter: swarthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: swarthy pirate takes 855 damage.
+Round 2: boolicious wins the fight!
+You gain 56 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 19 Muscleboundness
+You gain 7 Mysteriousness
+You gain 6 Chutzpah
+
+[17528] Pirate Cove
+Encounter: The Arrrbitrator
+Took choice 22/3: small meat boost
+choice.php?whichchoice=22&option=3&pwd
+You gain 100 Meat
+
+[17529] Pirate Cove
+Encounter: Amatearrr Night
+Took choice 24/2: small meat boost
+choice.php?whichchoice=24&option=2&pwd
+You gain 100 Meat
+
+[17530] Pirate Cove
+Encounter: swarthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: swarthy pirate takes 848 damage.
+Round 2: boolicious wins the fight!
+You gain 49 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 21 Fortitude
+You gain 8 Mysteriousness
+You gain 5 Smarm
+
+[17531] Pirate Cove
+Encounter: smarmy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: smarmy pirate takes 856 damage.
+Round 2: boolicious wins the fight!
+You gain 54 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: eyepatch
+You acquire an item: Jolly Roger charrrm bracelet
+You acquire an item: bottle of rum
+You acquire an item: flaregun
+You acquire an item: vial of pirate sweat
+You gain 15 Beefiness
+You gain 10 Magicalness
+You gain 6 Smarm
+
+[17532] Pirate Cove
+Encounter: sassy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sassy pirate takes 851 damage.
+Round 2: boolicious wins the fight!
+You gain 47 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: sunken chest
+You acquire an item: crowbarrr
+You acquire an item: flaregun
+You gain 15 Strengthliness
+You gain 8 Magicalness
+You gain 7 Sarcasm
+
+[17533] Pirate Cove
+Encounter: shifty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shifty pirate takes 856 damage.
+Round 2: boolicious wins the fight!
+You gain 87 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: sunken chest
+You acquire an item: flaregun
+You gain 17 Muscleboundness
+You gain 7 Enchantedness
+You gain 10 Roguishness
+
+[17534] Pirate Cove
+Encounter: shady pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shady pirate takes 878 damage.
+Round 2: boolicious wins the fight!
+You gain 67 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: safarrri hat
+You gain 22 Fortitude
+You gain 4 Wizardliness
+You gain 8 Roguishness
+
+[17535] Pirate Cove
+Encounter: A Dreadful Curse
+You gain 15 Magicalness
+
+[17536] Pirate Cove
+Encounter: shady pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shady pirate takes 842 damage.
+Round 2: boolicious wins the fight!
+You gain 65 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 14 Beefiness
+You gain 10 Wizardliness
+You gain 8 Cheek
+
+[17537] Pirate Cove
+Encounter: sassy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sassy pirate takes 863 damage.
+Round 2: boolicious wins the fight!
+You gain 49 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: flaregun
+You gain 22 Strongness
+You gain 5 Wizardliness
+You gain 5 Roguishness
+
+[17538] Pirate Cove
+Encounter: sassy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sassy pirate takes 850 damage.
+Round 2: boolicious wins the fight!
+You gain 42 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: flaregun
+You gain 13 Strengthliness
+You gain 8 Enchantedness
+You gain 10 Cheek
+
+[17539] Pirate Cove
+Encounter: Filching the Undarrwear
+You gain 15 Roguishness
+
+[17540] Pirate Cove
+Encounter: The Beached Boys
+You gain 20 Beefiness
+
+[17541] Pirate Cove
+Encounter: Barrie Me at Sea
+Took choice 23/3: small meat boost
+choice.php?whichchoice=23&option=3&pwd
+You gain 100 Meat
+
+[17542] Pirate Cove
+Encounter: shifty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: shifty pirate takes 842 damage.
+Round 2: boolicious wins the fight!
+You gain 103 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: sunken chest
+You acquire an item: flaregun
+You gain 15 Fortitude
+You gain 6 Mysteriousness
+You gain 11 Roguishness
+
+[17543] Pirate Cove
+Encounter: swarthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: swarthy pirate takes 874 damage.
+Round 2: boolicious wins the fight!
+You gain 58 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 22 Strongness
+You gain 4 Mysteriousness
+You gain 7 Cheek
+
+[17544] Pirate Cove
+Encounter: Filching the Undarrwear
+You gain 15 Sarcasm
+
+[17545] Pirate Cove
+Encounter: smarmy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: smarmy pirate takes 849 damage.
+Round 2: boolicious wins the fight!
+You gain 65 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: bottle of rum
+You acquire an item: flaregun
+You acquire an item: vial of pirate sweat
+You gain 17 Beefiness
+You gain 11 Magicalness
+You gain 4 Sarcasm
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+Cook 1 bird rib + 1 lion oil
+You acquire an item: wet stew
+Crafting used 1 each of bird rib and lion oil
+
+eat 1 wet stew
+You gain 12 Adventures
+You gain 27 Fortitude
+You gain 6 Fullness
+
+eat 1 cheezburger
+You gain 12 Adventures
+You gain 13 Fortitude
+You gain 10 Enchantedness
+You gain 6 Roguishness
+You acquire an effect: Yes, Can Haz (duration: 50 Adventures)
+You gain 3 Fullness
+
+eat 1 spicy noodles
+You gain 11 Adventures
+You gain 3 Fullness
+
+eat 2 fortune cookie
+You gain 1 Adventure
+You gain 1 Fullness
+You gain 1 Adventure
+You gain 1 Fullness
+Lucky numbers: 3, 103, 154
+Lucky numbers: 66, 103, 244
+
+drink 1 Barulio's bottle
+You gain 13 Adventures
+You gain 5 Muscleboundness
+You gain 16 Magicalness
+You gain 8 Roguishness
+You gain 4 Drunkenness
+
+drink 1 roll in the hay
+You gain 12 Adventures
+You gain 35 Magicalness
+You gain 4 Drunkenness
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[17547] Mix 1 bottle of whiskey + 1 peppermint twist
+You acquire an item: Mint Yulep
+Crafting used 1 each of bottle of whiskey and peppermint twist
+
+drink 1 Mint Yulep
+You gain 10 Adventures
+You gain 67 Strongness
+You gain 15 Magicalness
+You gain 15 Cheek
+You gain 2 Drunkenness
+
+Buy and drink 1 whiskey bittersweet for 390 Meat
+You gain 5 Adventures
+You gain 24 Strengthliness
+You gain 3 Drunkenness
+You spent 390 Meat
+
+drink 1 black & tan
+You gain 6 Adventures
+You gain 17 Beefiness
+You gain 10 Mysteriousness
+You gain 10 Chutzpah
+You gain 18 Muscularity Points
+You gain 2 Drunkenness
+
+cast 1 Summon Clip Art
+You acquire an item: chocolate frosted sugar bomb
+
+cast 1 Summon Clip Art
+You acquire an item: holy bomb, batman
+
+cast 1 Summon Clip Art
+You acquire an item: cold-filtered water
+
+mallsell: 2 chocolate frosted sugar bomb
+
+mallsell: 1 paint bomb, 1 The Bomb
+
+mallsell: 1 holy bomb, batman
+
+manageprices.php?action=update&price5270=7200&limit5270=0&price5251=5980&limit5251=1&price5225=5300&limit5225=0&price5268=3800&limit5268=0&price196=1400&limit196=2&price5105=1000&limit5105=0&price549=990&limit549=0&price4212=800&limit4212=0&price594=410&limit594=0&price2687=400&limit2687=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price240=160&limit240=0&price218=155&limit218=0&price2055=150&limit2055=0&price352=150&limit352=0&price2613=150&limit2613=0&price475=130&limit475=0&price432=120&limit432=0&price431=120&limit431=0&price1655=120&limit1655=0&price550=114&limit550=0&price1=100&limit1=0&price119=100&limit119=0&price21=100&limit21=0&price129=100&limit129=0&price269=100&limit269=0
+manageprices.php?action=update&price5270=7200&limit5270=1&price5251=5980&limit5251=1&price5225=5300&limit5225=0&price5268=3800&limit5268=0&price196=1400&limit196=2&price5105=1000&limit5105=0&price549=990&limit549=0&price4212=800&limit4212=0&price594=410&limit594=0&price2687=400&limit2687=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price240=160&limit240=0&price218=155&limit218=0&price2055=150&limit2055=0&price352=150&limit352=0&price2613=150&limit2613=0&price475=130&limit475=0&price432=120&limit432=0&price431=120&limit431=0&price1655=120&limit1655=0&price550=114&limit550=0&price1=100&limit1=0&price119=100&limit119=0&price21=100&limit21=0&price129=100&limit129=0&price269=100&limit269=0
+
+send a kmail to smashbot: 18 sewer nuggets
+
+use 1 devilish folio
+You acquire an effect: Dis Abled (duration: 30 Adventures)
+
+use 1 bottle of bubbles
+You acquire an effect: Bubble Vision (duration: 100 Adventures)
+
+use 1 resolution: be happier
+You acquire an effect: Joyful Resolve (duration: 20 Adventures)
+
+buy 1 milky potion for 120 each from 196620 on 20120202
+You acquire an item: milky potion of detection
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+[17547] The Maelstrom of Lovers
+Encounter: Mortimer Strauss
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: mortimer strauss takes 778 damage.
+Round 2: boolicious wins the fight!
+After Battle: With a twist and a twirl, a flitter and flutter, / your pet dances brightly, a fly made of butter.
+You acquire an item: Mortimer's nostrum
+You acquire an item: jar full of wind
+You gain 30 Strongness
+You gain 11 Magicalness
+You gain 10 Roguishness
+
+use 1 Mortimer's nostrum
+You acquire an effect: Limber as Mortimer (duration: 10 Adventures)
+
+use 1 Mortimer's nostrum
+You acquire an effect: Limber as Mortimer (duration: 10 Adventures)
+
+[17548] The Maelstrom of Lovers
+Encounter: Wonderful Winifred Wongle
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: wonderful winifred wongle takes 778 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your familiar spins 'round and it cuts up the rug, / doing a quick miniature jitterbug.
+You acquire an item: jar full of wind
+You gain 29 Strongness
+You gain 13 Magicalness
+You gain 10 Roguishness
+
+[17549] The Glacier of Jerks
+Encounter: Vivian Vibrian Vumian Varr
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: vivian vibrian vumian varr takes 787 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your pet does a tango, a jig, and a waltz, / to help you get profit from recent assaults.
+You acquire an item: dangerous jerkcicle
+You gain 36 Strongness
+You gain 6 Magicalness
+You gain 11 Roguishness
+
+[17550] The Glacier of Jerks
+Encounter: Some Sounds Most Unnerving
+Took choice 568/2: The Large-Bellied Snitch
+choice.php?pwd&whichchoice=568&option=2
+
+[17550] The Glacier of Jerks
+Encounter: The Large-Bellied Snitch
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the dangerous jerkcicle!
+Round 2: Your familiar grabs hold of the monster -- holds tight, / which keeps it from taking its turn in this fight.
+Round 2: boolicious uses the dangerous jerkcicle!
+Round 3: the large-bellied snitch takes 1000 damage.
+Round 3: boolicious uses the dangerous jerkcicle!
+Round 4: boolicious uses the dangerous jerkcicle!
+Round 5: boolicious uses the dangerous jerkcicle!
+Round 6: Can the monster attack you this round? Nope, nope nope! / That's because of your buddy, that cute little dope.
+Round 6: boolicious uses the dangerous jerkcicle!
+Round 7: Your familiar entangles the monster with vines / (or tentacles, webbing, or noodles, or spines).
+Round 7: boolicious uses the dangerous jerkcicle!
+Round 8: boolicious uses the dangerous jerkcicle!
+Round 9: the large-bellied snitch takes 4000 damage.
+Round 9: boolicious uses the dangerous jerkcicle!
+Round 10: Your pet did a thing; I don't know what it did. / Perhaps it went skiing, or huggled a squid?
+Round 10: Your pet grabs a foe in a wrestling lock, / holding him still so you can clean his clock.
+Round 10: boolicious uses the dangerous jerkcicle!
+Round 11: boolicious uses the clumsiness bark!
+Round 12: boolicious uses the whimpering willow bark!
+Round 13: boolicious attacks!
+Round 14: the large-bellied snitch takes 20 damage.
+Round 14: boolicious attacks!
+Round 15: the large-bellied snitch takes 20 damage.
+Round 15: Can the monster attack you this round? Nope, nope nope! / That's because of your buddy, that cute little dope.
+Round 15: boolicious attacks!
+Round 16: the large-bellied snitch takes 20 damage.
+Round 16: Can the monster attack you this round? Nope, nope nope! / That's because of your buddy, that cute little dope.
+Round 16: boolicious attacks!
+Round 17: the large-bellied snitch takes 20 damage.
+You lose 1 hit points
+Round 17: boolicious attacks!
+You lose 19 hit points
+Round 18: the large-bellied snitch takes 5000 damage.
+Round 18: boolicious wins the fight!
+After Battle: Your buddy does dances, it spins and it twirls! / It finds extra riches for good boys and girls!
+You acquire an item: gluttonous stone
+You gain 25 Strongness
+You gain 17 Magicalness
+You gain 13 Roguishness
+
+[17551] The Clumsiness Grove
+Encounter: the Tormented Baobab
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: the tormented baobab takes 782 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your familiar spins 'round and it cuts up the rug, / doing a quick miniature jitterbug.
+You acquire an item: clumsiness bark
+You gain 23 Strongness
+You gain 9 Magicalness
+You gain 18 Roguishness
+
+[17552] The Clumsiness Grove
+Encounter: the Woeful Magnolia
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: the woeful magnolia takes 787 damage.
+Round 2: boolicious wins the fight!
+After Battle: A shimmy, a swirl, a twist, and a hop, / your familiar does dances to make items drop.
+You acquire an item: magnolia blossom
+You acquire an item: clumsiness bark
+You gain 22 Strongness
+You gain 11 Magicalness
+You gain 11 Roguishness
+
+[17553] The Clumsiness Grove
+Encounter: the Whimpering Willow
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: the whimpering willow takes 767 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your familiar spins 'round and it cuts up the rug, / doing a quick miniature jitterbug.
+You acquire an item: whimpering willow bark
+You acquire an item: clumsiness bark
+You gain 27 Strongness
+You gain 11 Magicalness
+You gain 7 Roguishness
+
+[17554] The Clumsiness Grove
+Encounter: the Woeful Magnolia
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the whimpering willow bark!
+Round 2: boolicious attacks!
+Round 3: the woeful magnolia takes 771 damage.
+Round 3: boolicious wins the fight!
+After Battle: Your familiar spins 'round and it cuts up the rug, / doing a quick miniature jitterbug.
+You acquire an item: magnolia blossom
+You acquire an item: clumsiness bark
+You gain 25 Strongness
+You gain 16 Magicalness
+You gain 3 Roguishness
+
+multiuse.php?passitem=5532&pwd=2ed02ffcd1d7a84da3470b0bce9c0d1f
+
+use 1 magnolia blossom
+You gain 25 Muscularity Points
+You gain 20 hit points
+
+use 1 magnolia blossom
+You gain 25 Muscularity Points
+You gain 29 hit points
+
+[17555] The Clumsiness Grove
+Encounter: The Bat in the Spats
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the clumsiness bark!
+Round 2: Your pet did a thing that might just save the day, / I'm afraid you were looking the opposite way.
+You lose 3 hit points
+Round 2: boolicious uses the clumsiness bark!
+Round 3: Your familiar did something to help in your plight, / but you were distracted, with monsters to fight.
+Round 3: boolicious uses the paint bomb!
+Round 4: Your pet did a thing; I didn't see it, did you? / I guess it just did what they usually do.
+Round 4: boolicious uses the clumsiness bark!
+Round 5: Your pet did a thing; I didn't see it, did you? / I guess it just did what they usually do.
+Round 5: boolicious uses the clumsiness bark!
+Round 6: Your pet did a thing; I didn't see it, did you? / I guess it just did what they usually do.
+You lose 2 hit points
+Round 6: boolicious uses the clumsiness bark!
+Round 7: Your pet did a thing that might just save the day, / I'm afraid you were looking the opposite way.
+Round 7: boolicious uses the clumsiness bark!
+Round 8: Your pet did a thing; I didn't see it, did you? / I guess it just did what they usually do.
+Round 8: boolicious uses the clumsiness bark!
+Round 9: Your pet did a thing; I don't know what it did. / Perhaps it went skiing, or huggled a squid?
+Round 9: boolicious uses the clumsiness bark!
+Round 10: Your familiar did something to help in your plight, / but you were distracted, with monsters to fight.
+Round 10: boolicious uses the clumsiness bark!
+Round 11: Your pet did a thing that might just save the day, / I'm afraid you were looking the opposite way.
+Round 11: boolicious uses the clumsiness bark!
+Round 12: Your familiar did something, just what I'm not sure. / Did it pick you a flower, or spit on the floor?
+Round 12: boolicious wins the fight!
+After Battle: A shimmy, a swirl, a twist, and a hop, / your familiar does dances to make items drop.
+You acquire an item: vanity stone
+You gain 36 Strongness
+You gain 8 Magicalness
+You gain 9 Roguishness
+
+[17556] The Clumsiness Grove
+Encounter: A Test of Your Mettle
+Took choice 563/2: skip adventure
+choice.php?pwd&whichchoice=563&option=2
+
+[17556] The Maelstrom of Lovers
+Encounter: Wonderful Winifred Wongle
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: wonderful winifred wongle takes 780 damage.
+Round 2: boolicious wins the fight!
+After Battle: With a twist and a twirl, a flitter and flutter, / your pet dances brightly, a fly made of butter.
+You acquire an item: jar full of wind
+You gain 26 Strongness
+You gain 13 Magicalness
+You gain a Mysticality point!
+You gain 6 Roguishness
+
+[17557] The Maelstrom of Lovers
+Encounter: Marvin J. Sunny
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: marvin j. sunny takes 767 damage.
+Round 2: boolicious wins the fight!
+After Battle: With a twist and a twirl, a flitter and flutter, / your pet dances brightly, a fly made of butter.
+You acquire an item: jar full of wind
+You gain 27 Strongness
+You gain 8 Magicalness
+You gain 10 Roguishness
+
+use 2 resolution: be feistier
+You acquire an effect: Destructive Resolve (duration: 40 Adventures)
+
+use 2 resolution: be sexier
+You acquire an effect: Irresistible Resolve (duration: 40 Adventures)
+
+use 2 resolution: be smarter
+You acquire an effect: Brilliant Resolve (duration: 40 Adventures)
+
+use 2 resolution: be stronger
+You acquire an effect: Strong Resolve (duration: 40 Adventures)
+
+use 2 resolution: be wealthier
+You acquire an effect: Greedy Resolve (duration: 40 Adventures)
+
+[17558] The Maelstrom of Lovers
+Encounter: Marcus Macurgeon
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: marcus macurgeon takes 799 damage.
+Round 2: boolicious wins the fight!
+After Battle: A shimmy, a swirl, a twist, and a hop, / your familiar does dances to make items drop.
+You acquire an item: jar full of wind
+You gain 27 Strongness
+You gain 8 Magicalness
+You gain 15 Roguishness
+
+[17559] The Maelstrom of Lovers
+Encounter: The Terrible Pinch
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the pog #04 (skleleton)!
+You lose 69 hit points
+Round 2: boolicious uses the jar full of wind!
+Round 3: the terrible pinch takes 8 damage.
+You lose 69 hit points
+Round 3: boolicious uses the jar full of wind!
+Round 4: the terrible pinch drops 3 attack power.
+Round 4: the terrible pinch drops 1 defense.
+You lose 69 hit points
+Round 4: boolicious uses the pog #01 (spider)!
+Round 5: Your pet grabs a foe in a wrestling lock, / holding him still so you can clean his clock.
+Round 5: boolicious uses the jar full of wind!
+Round 6: the terrible pinch takes 16 damage.
+Round 6: the terrible pinch drops 5 attack power.
+Round 6: the terrible pinch drops 6 defense.
+You lose 69 hit points
+Round 6: boolicious attacks!
+Round 7: the terrible pinch takes 291 damage.
+Round 7: Your familiar entangles the monster with vines / (or tentacles, webbing, or noodles, or spines).
+Round 7: boolicious attacks!
+Round 8: the terrible pinch takes 288 damage.
+Round 8: Can the monster attack you this round? Nope, nope nope! / That's because of your buddy, that cute little dope.
+Round 8: boolicious attacks!
+Round 9: the terrible pinch takes 288 damage.
+Round 9: Your familiar entangles the monster with vines / (or tentacles, webbing, or noodles, or spines).
+Round 9: boolicious attacks!
+Round 10: the terrible pinch takes 289 damage.
+Round 10: boolicious wins the fight!
+After Battle: Your pet does a tango, a jig, and a waltz, / to help you get profit from recent assaults.
+You acquire an item: lecherous stone
+You gain 26 Strongness
+You gain 13 Magicalness
+You gain 17 Roguishness
+
+[17560] The Maelstrom of Lovers
+Encounter: Wonderful Winifred Wongle
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: wonderful winifred wongle takes 796 damage.
+Round 2: boolicious wins the fight!
+After Battle: A shimmy, a swirl, a twist, and a hop, / your familiar does dances to make items drop.
+You acquire an item: jar full of wind
+You gain 26 Strongness
+You gain 12 Magicalness
+You gain 12 Roguishness
+
+[17561] The Maelstrom of Lovers
+Encounter: Marvin J. Sunny
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: marvin j. sunny takes 825 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your pet does a tango, a jig, and a waltz, / to help you get profit from recent assaults.
+You acquire an item: jar full of wind
+You gain 30 Strongness
+You gain 13 Magicalness
+You gain 9 Roguishness
+
+[17562] The Glacier of Jerks
+Encounter: Wacky Zack Flacky
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: wacky zack flacky takes 787 damage.
+Round 2: boolicious wins the fight!
+After Battle: A shimmy, a swirl, a twist, and a hop, / your familiar does dances to make items drop.
+You acquire an item: dangerous jerkcicle
+You gain 30 Strongness
+You gain 13 Magicalness
+You gain 9 Roguishness
+
+[17563] The Glacier of Jerks
+Encounter: One More Demon to Slay
+Took choice 569/2: skip adventure
+choice.php?pwd&whichchoice=569&option=2
+Jumping into Awesome Ball Pit in clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+[17563] The Slime Tube
+Encounter: squirming Slime lump
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+You lose 13 hit points
+Round 2: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles it, holding it down for a round.
+Round 2: boolicious attacks!
+Round 3: slime1 takes 1465 damage.
+Round 3: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 36 muskewlairtees
+You gain 9 mistikkaltees
+You gain 12 mawksees
+
+clan_slimetube.php?action=chamois&ajax=1&pwd=2ed02ffcd1d7a84da3470b0bce9c0d1f&_=1328213347751
+You lose an effect: Coated in Slime
+
+[17564] The Slime Tube
+Encounter: pulsing Slime polyp
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 1453 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: slimy fermented bile bladder
+You gain 21 muskewlairtees
+You gain 16 mistikkaltees
+You gain 15 mawksees
+
+[17565] The Slime Tube
+Encounter: glistening Slime lump
+Round 0: boolicious wins initiative!
+You lose 161 hit points
+Round 1: boolicious attacks!
+Round 2: slime1 takes 1470 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 26 muskewlairtees
+You gain 16 mistikkaltees
+You gain 10 mawksees
+
+clan_slimetube.php?action=chamois&ajax=1&pwd=2ed02ffcd1d7a84da3470b0bce9c0d1f&_=1328213365948
+You lose an effect: Coated in Slime
+
+[17566] The Slime Tube
+Encounter: dripping Slime nodule
+Round 0: boolicious wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: slime1 takes 1456 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: slimy fermented bile bladder
+You gain 29 muskewlairtees
+You gain a Muscle point!
+You gain 12 mistikkaltees
+You gain 12 mawksees
