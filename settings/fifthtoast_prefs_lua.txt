@@ -1,4 +1,4 @@
-AdventureFrame=-3,-3,0
+AdventureFrame=253,213,0
 CakeArenaFrame=424,348
 CouncilFrame=424,322,-1
 DescriptionFrame=424,322,-1
@@ -562,7 +562,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=1
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -614,7 +614,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 gongPath=0
 gourdItemCount=7
 grimoire1Summons=0
@@ -637,28 +637,28 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=South of the Border
+lastAdventure=Orc Chasm
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=healing
-lastBangPotion820
-lastBangPotion821
+lastBangPotion820=confusion
+lastBangPotion821=inebriety
 lastBangPotion822=teleportitis
-lastBangPotion823
+lastBangPotion823=sleepiness
 lastBangPotion824=ettin strength
-lastBangPotion825
-lastBangPotion826
-lastBangPotion827
+lastBangPotion825=mental acuity
+lastBangPotion826=blessing
+lastBangPotion827=detection
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=8
+lastBreakfast=9
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=10
-lastCounterDay=8
+lastCounterDay=9
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -699,7 +699,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=mariachi calavera
+lastEncounter=Anime Smiley
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -835,7 +835,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=1736\:Fortune Cookie\:fortune.gif\:1771\:Fortune Cookie\:fortune.gif\:1784\:Fortune Cookie\:fortune.gif
+relayCounters=1897\:Semirare window begin loc\=*\:lparen.gif\:1937\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -844,8 +844,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=1182
-semirareLocation=Haunted Pantry
+semirareCounter=1737
+semirareLocation=Cobb's Knob Treasury
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
