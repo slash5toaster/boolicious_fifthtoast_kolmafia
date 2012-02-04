@@ -1,11 +1,11 @@
-AdventureFrame=1960,236,0
+AdventureFrame=1967,252,0
 CouncilFrame=424,322,-1
-DescriptionFrame=2662,409,-1
-KoLDesktop=473,108,-1
+DescriptionFrame=1916,-4,-1
+KoLDesktop=2743,125,-1
 LoginFrame=2649,365,0
-MaximizerFrame=326,275
+MaximizerFrame=2699,311
 ProfileFrame=2662,409,-1
-TabbedChatFrame=2004,649,0
+TabbedChatFrame=2947,41,0
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -551,7 +551,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=14
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -559,7 +559,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=1
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -611,7 +611,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 gongPath=0
 gourdItemCount=5
 grimoire1Summons=0
@@ -634,12 +634,12 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Hidden Temple
+lastAdventure=Orc Chasm
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
 lastBangPotion820
-lastBangPotion821
+lastBangPotion821=inebriety
 lastBangPotion822
 lastBangPotion823
 lastBangPotion824
@@ -649,13 +649,13 @@ lastBangPotion827
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=5
+lastBreakfast=9
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=8
-lastCounterDay=5
+lastCounterDay=9
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -696,7 +696,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=Poison Gas Trap
+lastEncounter=1335 HaXx0r
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -711,15 +711,15 @@ lastLouvreMap=0
 lastMessageId
 lastMiningReset=-1
 lastNemesisReset=0
-lastPaperStrip3144
-lastPaperStrip4138
-lastPaperStrip4139
-lastPaperStrip4140
-lastPaperStrip4141
-lastPaperStrip4142
-lastPaperStrip4143
-lastPaperStrip4144
-lastPaperStripReset=-1
+lastPaperStrip3144=rough\:BLAG\:careful
+lastPaperStrip4138=curved\:GUG\:dangly
+lastPaperStrip4139=wibbly\:FNORD\:curved
+lastPaperStrip4140=zig-zaggy\:GOLD\:jagged
+lastPaperStrip4141=funny\:KOF\:zig-zaggy
+lastPaperStrip4142=sinusoidal\:MOO\:rough
+lastPaperStrip4143=dangly\:CAD\:sinusoidal
+lastPaperStrip4144=careful\:CTHON\:funny
+lastPaperStripReset=0
 lastPastamancerGhostReset=0
 lastPirateEphemera
 lastPirateEphemeraReset=-1
@@ -832,7 +832,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=1881\:The Shore loc\=* shore.php\:dinghy.gif\:1930\:Fortune Cookie\:fortune.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -846,6 +846,7 @@ semirareLocation=Batrat and Ratbat Burrow
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
+showTurnFreeOnly=false
 sideDefeated=neither
 sidequestArenaCompleted=none
 sidequestFarmCompleted=none

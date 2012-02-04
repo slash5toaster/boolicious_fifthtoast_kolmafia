@@ -28,8 +28,8 @@ RequestFrame=-3,-3,-1
 RequestSynchFrame=2317,338,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
-StoreManageFrame=2012,311,0
-TabbedChatFrame=3027,185,1
+StoreManageFrame=1916,-4,0
+TabbedChatFrame=3027,185,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -90,7 +90,7 @@ _piePartsCount=0
 _poisonArrows=0
 _poolGames=0
 _precisionCasts=0
-_resolutionAdv=4
+_resolutionAdv=0
 _riftletAdv=0
 _romanticFightsLeft=0
 _sealFigurineUses=0
@@ -582,11 +582,11 @@ choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=false
+concertVisited=true
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=14
+currentFullness=13
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -594,7 +594,7 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=15
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -618,7 +618,7 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8=Kelderred
 demonName9
-demonSummoned=false
+demonSummoned=true
 desktopHeight=600
 desktopWidth=800
 discardedKarma=0
@@ -626,7 +626,7 @@ distentionPillActive=false
 dolphinItem=flytrap pellet
 doorCode
 expressCardUsed=false
-extraRolloverAdventures=4
+extraRolloverAdventures=0
 fistSkillsKnown=1
 fistTeachingsBarroomBrawl=false
 fistTeachingsBatHole=false
@@ -647,7 +647,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=15
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 gongPath=10
 gourdItemCount=6
 grimoire1Summons=0
@@ -692,7 +692,7 @@ lastChanceBurn
 lastChanceThreshold=100
 lastChessboard=BQc2,BRg2,BKh2,BNe3,BNb4,BRe4,BBc5,BRf5,BBa6,WRe6,BBc8
 lastCouncilVisit=26
-lastCounterDay=8
+lastCounterDay=9
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=1
@@ -805,7 +805,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=14
+libramSummons=22
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=0
@@ -884,6 +884,7 @@ semirareLocation=Pirate Cove
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
+showTurnFreeOnly=false
 sideDefeated=hippies
 sidequestArenaCompleted=fratboy
 sidequestFarmCompleted=hippy
@@ -938,7 +939,7 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=false
+telescopeLookedHigh=true
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
