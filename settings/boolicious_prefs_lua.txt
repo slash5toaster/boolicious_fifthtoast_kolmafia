@@ -29,7 +29,7 @@ RequestSynchFrame=3,3,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=-3,-3,2
-TabbedChatFrame=24,52,0
+TabbedChatFrame=553,356,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -805,7 +805,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=8
+libramSummons=17
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -858,9 +858,11 @@ postAscensionScript
 preAscensionScript
 preBlackbirdFamiliar
 prismaticSummons=0
+promptAboutCrafting=1
 pyramidBombUsed=true
 pyramidPosition=2
 rageGlandVented=false
+rainDohMonster
 raveCombo1
 raveCombo2
 raveCombo3
