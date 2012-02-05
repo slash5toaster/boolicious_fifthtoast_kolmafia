@@ -1,10 +1,10 @@
-AdventureFrame=253,213,0
+AdventureFrame=133,229,0
 CakeArenaFrame=424,348
 CouncilFrame=424,322,-1
 DescriptionFrame=424,322,-1
 FamiliarTrainingFrame=260,240
 KoLDesktop=56,163,-1
-LoginFrame=409,276,0
+LoginFrame=406,276,0
 MaximizerFrame=379,354
 ProfileFrame=424,322,-1
 RequestSynchFrame=337,247,-1
@@ -562,7 +562,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=1
+currentSpleenUse=0
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -637,7 +637,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Orc Chasm
+lastAdventure=Pirate Cove
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=healing
@@ -652,13 +652,13 @@ lastBangPotion827=detection
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=9
+lastBreakfast=10
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=10
-lastCounterDay=9
+lastCounterDay=10
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -699,7 +699,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=Anime Smiley
+lastEncounter=smarmy pirate
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -714,15 +714,15 @@ lastLouvreMap=0
 lastMessageId
 lastMiningReset=0
 lastNemesisReset=0
-lastPaperStrip3144
-lastPaperStrip4138
-lastPaperStrip4139
-lastPaperStrip4140
-lastPaperStrip4141
-lastPaperStrip4142
-lastPaperStrip4143
-lastPaperStrip4144
-lastPaperStripReset=-1
+lastPaperStrip3144=rough\:BLAG\:careful
+lastPaperStrip4138=curved\:GUG\:dangly
+lastPaperStrip4139=wibbly\:FNORD\:curved
+lastPaperStrip4140=zig-zaggy\:GOLD\:jagged
+lastPaperStrip4141=funny\:KOF\:zig-zaggy
+lastPaperStrip4142=sinusoidal\:MOO\:rough
+lastPaperStrip4143=dangly\:CAD\:sinusoidal
+lastPaperStrip4144=careful\:CTHON\:funny
+lastPaperStripReset=0
 lastPastamancerGhostReset=0
 lastPirateEphemera=pirate pamphlet
 lastPirateEphemeraReset=0
@@ -835,7 +835,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=1897\:Semirare window begin loc\=*\:lparen.gif\:1937\:Semirare window end loc\=*\:rparen.gif
+relayCounters=1937\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -849,6 +849,7 @@ semirareLocation=Cobb's Knob Treasury
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
+showTurnFreeOnly=false
 sideDefeated=neither
 sidequestArenaCompleted=none
 sidequestFarmCompleted=none
