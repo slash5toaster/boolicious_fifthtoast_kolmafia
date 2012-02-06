@@ -1,11 +1,11 @@
-AdventureFrame=1967,252,0
+AdventureFrame=1997,276,0
 CouncilFrame=424,322,-1
 DescriptionFrame=1916,-4,-1
-KoLDesktop=2743,125,-1
-LoginFrame=2649,365,0
+KoLDesktop=2481,0,-1
+LoginFrame=2595,365,0
 MaximizerFrame=2699,311
 ProfileFrame=2662,409,-1
-TabbedChatFrame=2947,41,0
+TabbedChatFrame=1981,15,0
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -21,6 +21,7 @@ _bonersSummoned=false
 _bootStomps=0
 _borrowedTimeUsed=false
 _boxingGloveArrows=0
+_brickoEyeSummons=0
 _brickoFights=0
 _cameraUsed=false
 _candySummons=0
@@ -176,7 +177,7 @@ blankOutUsed=0
 bootsCharged=false
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=false
+breakfastCompleted=true
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
@@ -546,12 +547,12 @@ choiceAdventure90=2
 choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
-cocktailSummons=1
+cocktailSummons=3
 concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=14
+currentFullness=1
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -559,7 +560,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=1
+currentSpleenUse=3
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -611,7 +612,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 gongPath=0
 gourdItemCount=5
 grimoire1Summons=0
@@ -634,7 +635,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Orc Chasm
+lastAdventure=Giant's Castle
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -645,17 +646,17 @@ lastBangPotion823
 lastBangPotion824
 lastBangPotion825
 lastBangPotion826
-lastBangPotion827
+lastBangPotion827=detection
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=9
+lastBreakfast=12
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=8
-lastCounterDay=9
+lastCounterDay=12
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -696,7 +697,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=1335 HaXx0r
+lastEncounter=Goth Giant
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -820,9 +821,11 @@ postAscensionScript
 preAscensionScript
 preBlackbirdFamiliar
 prismaticSummons=0
+promptAboutCrafting=1
 pyramidBombUsed=false
 pyramidPosition=0
 rageGlandVented=false
+rainDohMonster
 raveCombo1
 raveCombo2
 raveCombo3
@@ -832,7 +835,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=1881\:The Shore loc\=* shore.php\:dinghy.gif\:1930\:Fortune Cookie\:fortune.gif
+relayCounters=2006\:Fortune Cookie\:fortune.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -881,8 +884,8 @@ spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
 stationaryButton1=5021
-stationaryButton2
-stationaryButton3
+stationaryButton2=5008
+stationaryButton3=5005
 stationaryButton4
 stationaryButton5
 styxPixieVisited=false
