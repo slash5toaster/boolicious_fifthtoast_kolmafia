@@ -2381,3 +2381,673 @@ You acquire an item: elven medi-pack
 You gain 105 muskewlairtees
 You gain 58 mistikkaltees
 You gain 35 mawksees
+
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+use 1 Manual of Labor
+
+use 1 Chester's bag of candy
+
+use 1 Trivial Avocations board game
+
+use 1 creepy voodoo doll
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+cast 13 Summon Resolutions
+You acquire an item: resolution: be feistier
+
+game.php?mainpane=messages
+sendmessage.php?toid=2303242
+
+send a kmail to fifthtoast: 21000 Meat
+
+mallsell: 22 disassembled clover
+
+Visiting the Bounty Hunter Hunter
+unequip weapon
+unequip offhand
+
+equip shirt General Sage's Lonely Diamonds Club Jacket
+
+equip acc1 fudgecycle
+
+equip acc2 time halo
+
+equip acc3 wristwatch of the white knight
+
+manageprices.php?action=update&price5251=5980&limit5251=0&price5471=3600&limit5471=0&price5225=3500&limit5225=0&price196=1400&limit196=0&price4212=800&limit4212=0&price594=410&limit594=0&price2687=400&limit2687=0&price1930=320&limit1930=0&price1932=320&limit1932=0&price1931=320&limit1931=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price240=160&limit240=0&price218=155&limit218=0&price352=150&limit352=0&price2613=150&limit2613=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price550=114&limit550=0&price1=100&limit1=0&price119=100&limit119=0&price21=100&limit21=0&price129=100&limit129=0&price269=100&limit269=0
+
+mallsell: 56 twinkly wad
+
+familiar Pair of Stomping Boots (11 lbs)
+outfit Knob Goblin Harem Girl Disguise
+
+[18393] Cobb's Knob Treasury
+Encounter: Finally, the Payoff
+You gain 500 Meat
+
+equip hat hardened slime hat
+
+equip pants Hodgman's lobsterskin pants
+
+equip weapon fouet de tortue-dressage
+
+equip off-hand Hodgman's metal detector
+
+equip shirt cane-mail shirt
+
+equip acc1 Baron von Ratsworth's monocle
+
+equip acc2 Zinc Delta of Tranquility
+
+equip acc3 Hodgman's lucky sock
+
+equip familiar little bitty bathysphere
+
+use 1 Mer-kin paste
+You gain 10 Adventures
+You gain 24 Strengthliness
+You gain a Muscle point!
+You gain 20 Wizardliness
+You gain 20 Cheek
+You acquire an effect: Mer-kinny Flavor (duration: 10 Adventures)
+
+equip hat Zombo's skullcap
+
+equip familiar stomp box
+friars blessing 3
+
+equip familiar little bitty bathysphere
+
+use 1 fishy paste
+You gain 9 Adventures
+You gain 24 Strengthliness
+You gain 18 Enchantedness
+You gain 20 Sarcasm
+You acquire an effect: Fishy (duration: 10 Adventures)
+
+Visiting Comet, the Roller Skate
+You acquire an effect: Finstrong (duration: 30 Adventures)
+
+[18394] The Wreck of the Edgar Fitzsimmons
+Encounter: drowned sailor
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious attacks!
+Round 2: drowned sailor takes 1061 damage.
+Round 2: boolicious wins the fight!
+You gain 208 Meat.
+After Battle: Dr Marten tries to start a mosh pit, but ends up slam-dancing with itself.
+You gain 54 muskewlairtees
+You gain 27 mistikkaltees
+You gain 29 mawksees
+
+equip weapon Flail of the Seven Aspects
+unequip offhand
+
+equip hat straw hat
+
+equip off-hand eye of the Tiger-lily
+
+equip off-hand Hodgman's metal detector
+unequip shirt
+
+equip weapon fouet de tortue-dressage
+
+equip shirt cane-mail shirt
+
+equip acc2 diving muff
+
+equip acc2 cursed scrunchie
+
+equip acc2 diving muff
+
+[18395] The Wreck of the Edgar Fitzsimmons
+Encounter: cargo crab
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious casts RELEASE THE BOOTS!
+Round 2: Dr Marten leaps up, feet flying, heels stomping, buckles jangling, and stomps your opponent into paste. Thank goodness there wasn't a mudhole nearby.
+You acquire an item: fishy paste
+Round 2: boolicious wins the fight!
+
+[18396] Anemone Mine
+Encounter: Anemone combatant
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: anemone combatant takes 725 damage.
+Round 2: boolicious wins the fight!
+You gain 39 Meat.
+After Battle: Dr Marten leaps up and clicks its heels together in midair.
+You gain 59 muskewlairtees
+You gain 28 mistikkaltees
+You gain 23 mawksees
+
+use 1 dolphin whistle
+
+[18397] Dolphin Whistle
+Encounter: rotten dolphin thief
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: rotten dolphin thief takes 879 damage.
+Round 2: Dr Marten makes sure kicks aren't getting harder to find by kicking him for 33 damage.
+Round 2: rotten dolphin thief takes 33 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten assumes the pli&eacute; position and bends its calf-parts in and out a few times.
+You acquire an item: anemone nematocyst
+You gain 62 muskewlairtees
+You gain 24 mistikkaltees
+You gain 25 mawksees
+
+[18398] Anemone Mine
+Encounter: Mer-kin miner
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: mer-kin miner takes 835 damage.
+Round 2: boolicious wins the fight!
+You gain 69 Meat.
+After Battle: Dr Marten does a few high kicks. When you're a pair of boots with no legs, the sky's the limit for how high you can kick.
+You gain 62 muskewlairtees
+You gain 30 mistikkaltees
+You gain 32 mawksees
+
+[18399] Anemone Mine
+Encounter: Anemone combatant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious attacks!
+Round 2: anemone combatant takes 654 damage.
+Round 2: Dr Marten makes sure kicks aren't getting harder to find by kicking it for 42 damage.
+Round 2: anemone combatant takes 42 damage.
+Round 2: boolicious wins the fight!
+You gain 37 Meat.
+After Battle: Dr Marten does the bottom part of an Irish jig.
+You acquire an item: anemone nematocyst
+You gain 53 muskewlairtees
+You gain 27 mistikkaltees
+You gain 31 mawksees
+
+[18400] Anemone Mine
+Encounter: Mer-kin miner
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious casts RELEASE THE BOOTS!
+Round 2: Dr Marten leaps up, feet flying, heels stomping, buckles jangling, and stomps your opponent into paste. Thank goodness there wasn't a mudhole nearby.
+You acquire an item: Mer-kin paste
+Round 2: boolicious wins the fight!
+
+[18401] Anemone Mine
+Encounter: Killer clownfish
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: killer clownfish takes 546 damage.
+Round 2: boolicious attacks!
+Round 3: killer clownfish takes 547 damage.
+Round 3: Dr Marten kicks it into next week, for a time-traveling 32 damage.
+Round 3: killer clownfish takes 32 damage.
+Round 3: boolicious wins the fight!
+You gain 107 Meat.
+After Battle: Dr Marten does a little boot-scootin' boogie.
+You acquire an item: midget clownfish
+You gain 74 muskewlairtees
+You gain 28 mistikkaltees
+You gain 35 mawksees
+
+[18402] Anemone Mine
+Encounter: Anemone combatant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: anemone combatant takes 409 damage.
+Round 2: Dr Marten gives it the boot for 35 damage.
+Round 2: anemone combatant takes 35 damage.
+Round 2: boolicious attacks!
+Round 3: anemone combatant takes 407 damage.
+Round 3: boolicious wins the fight!
+You gain 31 Meat.
+After Battle: Dr Marten proves that it's made for dancing, not walking, with a little impromptu line dancing.
+You gain 61 muskewlairtees
+You gain 20 mistikkaltees
+You gain 30 mawksees
+
+[18403] Anemone Mine
+Encounter: Mer-kin miner
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: mer-kin miner takes 592 damage.
+Round 2: boolicious attacks!
+Round 3: mer-kin miner takes 592 damage.
+Round 3: Dr Marten leaps up and high-kicks  him for 25 damage.
+Round 3: mer-kin miner takes 25 damage.
+Round 3: boolicious wins the fight!
+You gain 70 Meat.
+After Battle: Dr Marten assumes the pli&eacute; position and bends its calf-parts in and out a few times.
+You acquire an item: Mer-kin thingpouch
+You gain 66 muskewlairtees
+You gain 22 mistikkaltees
+You gain 35 mawksees
+
+use 1 fish juice box
+You acquire an effect: Really Deep Breath (duration: 30 Adventures)
+You acquire an effect: Fishy (duration: 20 Adventures)
+
+[18404] Anemone Mine
+Encounter: Anemone combatant
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 2 hit points
+Round 2: Dr Marten's bells jingle merrily.
+Round 2: Dr Marten leaps up and high-kicks  it for 30 damage.
+Round 2: anemone combatant takes 30 damage.
+Round 2: boolicious attacks!
+Round 3: anemone combatant takes 406 damage.
+Round 3: boolicious attacks!
+Round 4: anemone combatant takes 405 damage.
+Round 4: boolicious wins the fight!
+You gain 36 Meat.
+After Battle: Dr Marten tries to start a mosh pit, but ends up slam-dancing with itself.
+You gain 54 muskewlairtees
+You gain 24 mistikkaltees
+You gain 32 mawksees
+
+[18405] Anemone Mine
+Encounter: Anemone combatant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious casts RELEASE THE BOOTS!
+Round 2: Dr Marten leaps up, feet flying, heels stomping, buckles jangling, and stomps your opponent into paste. Thank goodness there wasn't a mudhole nearby.
+You acquire an item: fishy paste
+Round 2: boolicious wins the fight!
+
+[18406] Anemone Mine
+Encounter: Anemone combatant
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: anemone combatant takes 305 damage.
+Round 2: boolicious attacks!
+Round 3: anemone combatant takes 306 damage.
+Round 3: boolicious attacks!
+Round 4: anemone combatant takes 307 damage.
+Round 4: Dr Marten does a little dance on top of it, to the tune of 25 damage.
+Round 4: anemone combatant takes 25 damage.
+Round 4: boolicious wins the fight!
+You gain 34 Meat.
+After Battle: Dr Marten does a little of the ol' soft shoe, except it's more of a hard boot.
+You gain 59 muskewlairtees
+You gain 30 mistikkaltees
+You gain 21 mawksees
+
+[18407] Anemone Mine
+Encounter: Mer-kin miner
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: mer-kin miner takes 485 damage.
+Round 2: boolicious attacks!
+Round 3: mer-kin miner takes 485 damage.
+Round 3: boolicious wins the fight!
+You gain 66 Meat.
+After Battle: Dr Marten stomps around in a circle, its buckles jingling.
+You acquire an item: Mer-kin thingpouch
+You gain 61 muskewlairtees
+You gain 32 mistikkaltees
+You gain 30 mawksees
+You gain a Moxie point!
+
+[18408] Anemone Mine
+Encounter: Killer clownfish
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: killer clownfish takes 442 damage.
+Round 2: Dr Marten makes sure kicks aren't getting harder to find by kicking it for 26 damage.
+Round 2: killer clownfish takes 26 damage.
+Round 2: boolicious attacks!
+Round 3: killer clownfish takes 442 damage.
+Round 3: boolicious wins the fight!
+You gain 93 Meat.
+After Battle: Dr Marten does a little of the ol' soft shoe, except it's more of a hard boot.
+You acquire an item: rough fish scale
+You gain 66 muskewlairtees
+You gain 30 mistikkaltees
+You gain 40 mawksees
+
+[18409] Anemone Mine
+Encounter: Killer clownfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: killer clownfish takes 439 damage.
+Round 2: Dr Marten pulls it into an impromptu mosh pit, stomping it for 31 damage.
+Round 2: killer clownfish takes 31 damage.
+Round 2: boolicious attacks!
+Round 3: killer clownfish takes 440 damage.
+Round 3: boolicious wins the fight!
+You gain 98 Meat.
+After Battle: Dr Marten proves that it's made for dancing, not walking, with a little impromptu line dancing.
+You gain 79 muskewlairtees
+You gain 33 mistikkaltees
+You gain 27 mawksees
+
+[18410] Anemone Mine
+Encounter: Anemone combatant
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: anemone combatant takes 307 damage.
+Round 2: boolicious attacks!
+You lose 1 hit point
+Round 3: boolicious attacks!
+Round 4: anemone combatant takes 309 damage.
+Round 4: boolicious attacks!
+Round 5: anemone combatant takes 309 damage.
+Round 5: boolicious wins the fight!
+You gain 32 Meat.
+After Battle: Dr Marten does a little boot-scootin' boogie.
+You gain 58 muskewlairtees
+You gain 29 mistikkaltees
+You gain 23 mawksees
+
+[18411] Anemone Mine
+Encounter: Mer-kin miner
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious casts RELEASE THE BOOTS!
+Round 2: Dr Marten leaps up, feet flying, heels stomping, buckles jangling, and stomps your opponent into paste. Thank goodness there wasn't a mudhole nearby.
+You acquire an item: Mer-kin paste
+Round 2: boolicious wins the fight!
+
+[18412] Anemone Mine
+Encounter: Anemone combatant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: anemone combatant takes 307 damage.
+Round 2: boolicious attacks!
+Round 3: anemone combatant takes 308 damage.
+Round 3: Dr Marten leaps up and high-kicks  it for 32 damage.
+Round 3: anemone combatant takes 32 damage.
+Round 3: boolicious wins the fight!
+You gain 36 Meat.
+After Battle: Dr Marten leaps up and clicks its heels together in midair.
+You acquire an item: anemone nematocyst
+You gain 65 muskewlairtees
+You gain 22 mistikkaltees
+You gain 25 mawksees
+
+[18413] Anemone Mine
+Encounter: Anemone combatant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: anemone combatant takes 305 damage.
+Round 2: Dr Marten gives it some pumped-up kicks for 35 damage. Looks like it didn't run fast enough.
+Round 2: anemone combatant takes 35 damage.
+Round 2: boolicious attacks!
+Round 3: anemone combatant takes 307 damage.
+Round 3: Dr Marten's bells jingle merrily.
+Round 3: Dr Marten leaps up and high-kicks  it for 29 damage.
+Round 3: anemone combatant takes 29 damage.
+Round 3: boolicious wins the fight!
+You gain 32 Meat.
+After Battle: Dr Marten does a little boot-scootin' boogie.
+You acquire an item: anemone nematocyst
+You gain 57 muskewlairtees
+You gain 30 mistikkaltees
+You gain 26 mawksees
+
+[18414] Anemone Mine
+Encounter: Anemone combatant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: boolicious attacks!
+You lose 1 hit point
+Round 3: boolicious attacks!
+Round 4: anemone combatant takes 306 damage.
+Round 4: boolicious attacks!
+Round 5: anemone combatant takes 307 damage.
+Round 5: boolicious attacks!
+Round 6: anemone combatant takes 309 damage.
+Round 6: Dr Marten kicks out the jams, and by that I mean kicks it for 31 damage.
+Round 6: anemone combatant takes 31 damage.
+Round 6: boolicious wins the fight!
+You gain 36 Meat.
+After Battle: Dr Marten does the bottom part of an Irish jig.
+You acquire an item: anemone nematocyst
+You gain 56 muskewlairtees
+You gain 26 mistikkaltees
+You gain 30 mawksees
+
+[18415] Anemone Mine
+Encounter: Killer clownfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: killer clownfish takes 444 damage.
+Round 2: boolicious attacks!
+Round 3: killer clownfish takes 445 damage.
+Round 3: boolicious wins the fight!
+You gain 114 Meat, but the rest sinks into the murky depths.
+After Battle: Dr Marten does a little boot-scootin' boogie.
+You gain 85 Strongness
+You gain 32 Wizardliness
+You gain a Mysticality point!
+You gain 22 Sarcasm
+
+[18416] Anemone Mine
+Encounter: Anemone combatant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: anemone combatant takes 306 damage.
+Round 2: boolicious attacks!
+You lose 1 hit point
+Round 3: boolicious attacks!
+Round 4: anemone combatant takes 306 damage.
+Round 4: Dr Marten boots it, then re-boots it again, for a total of 27 damage.
+Round 4: anemone combatant takes 27 damage.
+Round 4: boolicious wins the fight!
+You gain 36 Meat, but the rest sinks into the murky depths.
+After Battle: Dr Marten does a little boot-scootin' boogie.
+You gain 63 Beefiness
+You gain 33 Wizardliness
+You gain 15 Chutzpah
+
+[18417] Anemone Mine
+Encounter: Mer-kin miner
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: mer-kin miner takes 488 damage.
+Round 2: boolicious attacks!
+Round 3: mer-kin miner takes 489 damage.
+Round 3: Dr Marten's bells jingle merrily.
+Round 3: Dr Marten leaps up and high-kicks  him for 35 damage.
+Round 3: mer-kin miner takes 35 damage.
+Round 3: boolicious wins the fight!
+You gain 66 Meat, but the rest sinks into the murky depths.
+After Battle: Dr Marten tries to start a mosh pit, but ends up slam-dancing with itself.
+You acquire an item: Mer-kin thingpouch
+You gain 65 Beefiness
+You gain 24 Enchantedness
+You gain 35 Sarcasm
+
+[18418] Anemone Mine
+Encounter: Killer clownfish
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious casts RELEASE THE BOOTS!
+Round 2: Dr Marten leaps up, feet flying, heels stomping, buckles jangling, and stomps your opponent into paste. Thank goodness there wasn't a mudhole nearby.
+You acquire an item: indescribably horrible paste
+Round 2: boolicious wins the fight!
+
+[18418] Anemone Mine
+Encounter: Killer clownfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: killer clownfish takes 442 damage.
+Round 2: Dr Marten attempts to kickstart it. It doesn't get fully funded, but does do 32 damage.
+Round 2: killer clownfish takes 32 damage.
+Round 2: boolicious attacks!
+Round 3: killer clownfish takes 443 damage.
+Round 3: Dr Marten's bells jingle merrily.
+Round 3: Dr Marten kicks it into next week, for a time-traveling 31 damage.
+Round 3: killer clownfish takes 31 damage.
+Round 3: boolicious wins the fight!
+You gain 112 Meat, but the rest sinks into the murky depths.
+After Battle: Dr Marten forms a one-pair-of-boots chorus line.
+You gain 60 Strengthliness
+You gain 39 Mysteriousness
+You gain 37 Smarm
+
+[18420] Anemone Mine
+Encounter: Anemone combatant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: anemone combatant takes 312 damage.
+Round 2: Dr Marten leaps up and high-kicks  it for 23 damage.
+Round 2: anemone combatant takes 23 damage.
+Round 2: boolicious attacks!
+Round 3: anemone combatant takes 308 damage.
+Round 3: boolicious wins the fight!
+You gain 29 Meat, but the rest sinks into the murky depths.
+After Battle: Dr Marten proves that it's made for dancing, not walking, with a little impromptu line dancing.
+You gain 54 Fortitude
+You gain a Muscle point!
+You gain 29 Enchantedness
+You gain 27 Smarm
+
+[18421] Anemone Mine
+Encounter: Killer clownfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: killer clownfish takes 446 damage.
+Round 2: boolicious attacks!
+Round 3: killer clownfish takes 443 damage.
+Round 3: boolicious wins the fight!
+You gain 111 Meat, but the rest sinks into the murky depths.
+After Battle: Dr Marten leaps up and clicks its heels together in midair.
+You gain 71 Muscleboundness
+You gain 32 Magicalness
+You gain 35 Sarcasm
+
+[18422] Anemone Mine
+Encounter: Killer clownfish
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: killer clownfish takes 441 damage.
+Round 2: boolicious attacks!
+Round 3: killer clownfish takes 441 damage.
+Round 3: Dr Marten gives it the boot for 30 damage.
+Round 3: killer clownfish takes 30 damage.
+Round 3: boolicious wins the fight!
+You gain 92 Meat, but the rest sinks into the murky depths.
+After Battle: Dr Marten proves that it's made for dancing, not walking, with a little impromptu line dancing.
+You acquire an item: high-pressure seltzer bottle
+You gain 70 Beefiness
+You gain 41 Magicalness
+You gain 27 Cheek
+
+[18423] Anemone Mine
+Encounter: Mer-kin miner
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: mer-kin miner takes 484 damage.
+Round 2: boolicious attacks!
+Round 3: mer-kin miner takes 490 damage.
+Round 3: Dr Marten does a little dance on top of him, to the tune of 29 damage.
+Round 3: mer-kin miner takes 29 damage.
+Round 3: boolicious wins the fight!
+You gain 71 Meat, but the rest sinks into the murky depths.
+After Battle: Dr Marten proves that it's made for dancing, not walking, with a little impromptu line dancing.
+You gain 61 Beefiness
+You gain 36 Magicalness
+You gain 28 Chutzpah
+
+[18424] Anemone Mine
+Encounter: Mer-kin miner
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: mer-kin miner takes 493 damage.
+Round 2: boolicious attacks!
+Round 3: mer-kin miner takes 492 damage.
+Round 3: boolicious wins the fight!
+You gain 10 Meat, but the rest sinks into the murky depths.
+After Battle: Dr Marten does the bottom part of an Irish jig.
+You gain 64 Strengthliness
+You gain 22 Magicalness
+You gain 38 Roguishness
+
+[18426] Anemone Mine
+Encounter: Anemone combatant
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: anemone combatant takes 307 damage.
+Round 2: boolicious attacks!
+Round 3: anemone combatant takes 305 damage.
+Round 3: Dr Marten does a little dance on top of it, to the tune of 25 damage.
+Round 3: anemone combatant takes 25 damage.
+Round 3: boolicious wins the fight!
+You gain 4 Meat, but the rest sinks into the murky depths.
+After Battle: Dr Marten does a little boot-scootin' boogie.
+You gain 50 Beefiness
+You gain 30 Enchantedness
+You gain 29 Smarm
+
+[18428] Anemone Mine
+Encounter: Anemone combatant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious casts RELEASE THE BOOTS!
+Round 2: Dr Marten leaps up, feet flying, heels stomping, buckles jangling, and stomps your opponent into paste. Thank goodness there wasn't a mudhole nearby.
+You acquire an item: fishy paste
+Round 2: boolicious wins the fight!
+
+[18430] Anemone Mine
+Encounter: Mer-kin miner
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: mer-kin miner takes 489 damage.
+Round 2: boolicious attacks!
+Round 3: mer-kin miner takes 493 damage.
+Round 3: Dr Marten does a little dance on top of him, to the tune of 32 damage.
+Round 3: mer-kin miner takes 32 damage.
+Round 3: boolicious wins the fight!
+You gain 8 Meat, but the rest sinks into the murky depths.
+After Battle: Dr Marten forms a one-pair-of-boots chorus line.
+You gain 64 Beefiness
+You gain 26 Wizardliness
+You gain 34 Roguishness
+
+[18432] Anemone Mine
+Encounter: Killer clownfish
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: killer clownfish takes 440 damage.
+Round 2: Dr Marten kicks it into next week, for a time-traveling 24 damage.
+Round 2: killer clownfish takes 24 damage.
+Round 2: boolicious attacks!
+Round 3: killer clownfish takes 440 damage.
+Round 3: boolicious wins the fight!
+You gain 15 Meat, but the rest sinks into the murky depths.
+After Battle: Dr Marten does a few high kicks. When you're a pair of boots with no legs, the sky's the limit for how high you can kick.
+You gain 64 Muscleboundness
+You gain 40 Wizardliness
+You gain 31 Smarm
+
+[18434] Hidden Temple
+Encounter: Rolling Stone Trap
+You lose 487 hit points
