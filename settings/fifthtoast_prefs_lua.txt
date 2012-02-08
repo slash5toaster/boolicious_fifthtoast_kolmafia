@@ -4,7 +4,7 @@ CouncilFrame=424,322,-1
 DescriptionFrame=424,322,-1
 FamiliarTrainingFrame=260,240
 KoLDesktop=56,163,-1
-LoginFrame=406,276,0
+LoginFrame=409,276,0
 MaximizerFrame=379,354
 ProfileFrame=424,322,-1
 RequestSynchFrame=337,247,-1
@@ -24,6 +24,7 @@ _bonersSummoned=false
 _bootStomps=0
 _borrowedTimeUsed=false
 _boxingGloveArrows=0
+_brickoEyeSummons=0
 _brickoFights=0
 _cameraUsed=false
 _candySummons=0
@@ -614,7 +615,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 gongPath=0
 gourdItemCount=7
 grimoire1Summons=0
@@ -637,7 +638,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Pirate Cove
+lastAdventure=Cobb's Knob Treasury
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=healing
@@ -652,13 +653,13 @@ lastBangPotion827=detection
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=10
+lastBreakfast=13
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=10
-lastCounterDay=10
+lastCounterDay=13
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -699,7 +700,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=smarmy pirate
+lastEncounter=Finally, the Payoff
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -823,9 +824,11 @@ postAscensionScript
 preAscensionScript
 preBlackbirdFamiliar
 prismaticSummons=0
+promptAboutCrafting=1
 pyramidBombUsed=false
 pyramidPosition=0
 rageGlandVented=false
+rainDohMonster
 raveCombo1
 raveCombo2
 raveCombo3
@@ -835,7 +838,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=1937\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
