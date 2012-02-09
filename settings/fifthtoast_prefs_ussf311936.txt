@@ -2,9 +2,9 @@ AdventureFrame=1997,276,0
 CouncilFrame=424,322,-1
 DescriptionFrame=1916,-4,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=3002,0,-1
-LoginFrame=2595,365,0
-MaximizerFrame=2699,311
+KoLDesktop=2458,219,-1
+LoginFrame=2608,365,0
+MaximizerFrame=2333,376
 ProfileFrame=2662,409,-1
 TabbedChatFrame=1981,15,0
 _absintheDrops=0
@@ -553,7 +553,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=1
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -561,7 +561,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=3
+currentSpleenUse=0
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -613,7 +613,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 gongPath=0
 gourdItemCount=5
 grimoire1Summons=0
@@ -651,13 +651,13 @@ lastBangPotion827=detection
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=12
+lastBreakfast=14
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=8
-lastCounterDay=12
+lastCounterDay=14
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0

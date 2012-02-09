@@ -29,7 +29,7 @@ RequestSynchFrame=2317,338,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=1916,-4,0
-TabbedChatFrame=3027,185,3
+TabbedChatFrame=3027,185,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -587,7 +587,7 @@ concertVisited=true
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=2
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -806,7 +806,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=15
+libramSummons=22
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=0
