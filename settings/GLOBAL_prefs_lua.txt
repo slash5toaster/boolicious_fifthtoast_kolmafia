@@ -70,7 +70,7 @@ greenScreenProtection=false
 grimoireSkillsHardcore=Summon Hilarious Objects
 grimoireSkillsSoftcore=Summon Hilarious Objects
 guiUsesOneWindow=false
-harvestGardenHardcore=huge pumpkin
+harvestGardenHardcore=peppermint sprout
 harvestGardenSoftcore=peppermint sprout
 hideServerDebugText=false
 highlightList

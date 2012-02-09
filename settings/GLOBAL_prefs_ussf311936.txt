@@ -70,8 +70,8 @@ greenScreenProtection=false
 grimoireSkillsHardcore=Summon Hilarious Objects
 grimoireSkillsSoftcore=Summon Hilarious Objects
 guiUsesOneWindow=false
-harvestGardenHardcore=none
-harvestGardenSoftcore=none
+harvestGardenHardcore=peppermint sprout
+harvestGardenSoftcore=peppermint sprout
 hideServerDebugText=false
 highlightList
 http.proxyHost
@@ -135,7 +135,7 @@ relayAddsQuickScripts=false
 relayAddsRestoreLinks=true
 relayAddsUpArrowLinks=true
 relayAddsUseLinks=true
-relayAddsWikiLinks=false
+relayAddsWikiLinks=true
 relayAllowsOverrides=false
 relayBrowserOnly=false
 relayFormatsChatText=true

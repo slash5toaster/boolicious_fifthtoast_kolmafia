@@ -1361,3 +1361,253 @@ You gain 18 Fortitude
 Encounter: Beeeeeeeer!
 You acquire an item: ice-cold six-pack
 custom outfit Backup
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+February 9, 2012 - April 8
+
+Ronald: waning crescent
+Grimace: waning crescent
+Mini-moon: far left
+
+El Dia De Los Muertos Borrachos: 2 days
+Valentine's Day: 5 days
+Generic Summer Holiday: 11 days
+Dependence Day: 20 days
+Arrrbor Day: 28 days
+St. Sneaky Pete's Day: 37 days
+Lab&oacute;r Day: 38 days
+Halloween: 48 days
+Feast of Boris: 55 days
+Oyster Egg Day: 59 days
+Yuletide: 60 days
+Festival of Jarlsberg: 65 days
+
+
+Moxie bonus today and tomorrow.
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 10
+HP: 25 / 123
+MP: 56 / 88
+
+Mus: 90 (77), tnp = 95
+Mys: 88 (75), tnp = 133
+Mox: 137 (99), tnp = 63
+
+Advs: 81
+Meat: 60,745
+Drunk: 3
+
+
+ > equipment
+
+Hat: eyepatch
+Weapon: chrome crossbow
+Off-hand: (none)
+Shirt: (none)
+Pants: swashbuckling pants
+
+Acc. 1: badass belt
+Acc. 2: tiny plastic Crimbo reindeer
+Acc. 3: dead guy's watch
+
+Pet: Grue (12 lbs)
+Item: moonglasses
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chronic Indigestion
+ - Liver of Steel
+
+Disco Bandit
+ - Advanced Cocktailcrafting
+ - Disco Aerobics
+ - Disco Dance II: Electric Boogaloo
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Nap
+ - Disco Power Nap
+ - Mad Looting Skillz
+ - Nimble Fingers
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+♫ The Moxious Madrigal (191)
+♫ Aloysius' Antiphon of Aptitude (191)
+♫ Stevedave's Shanty of Superiority (191)
+Scarysauce (191)
+Jingle Jangle Jingle (191)
+Jabañero Saucesphere (191)
+Jalapeño Saucesphere (191)
+Empathy (191)
+Reptilian Fortitude (191)
+Tenacity of the Snapper (191)
+Astral Shell (191)
+Elemental Saucesphere (191)
+Ghostly Shell (191)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +1.00
+Meat: +20.00%
+Item: +20.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Manual of Dexterity
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card:  Where?
+You acquire an item: Trivial Avocations Card:  When?
+You acquire an item: Trivial Avocations Card:  What?
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+cast 3 Advanced Cocktailcrafting
+
+buy 1 creepy voodoo doll for 100 each from 126184 on 20120209
+You acquire an item: creepy voodoo doll
+
+use 1 creepy voodoo doll
+
+[2136] Giant's Castle
+Encounter: Wheel in the Clouds in the Sky, Keep On Turning
+Took choice 9/1: Turn to mysticality
+choice.php?pwd&whichchoice=9&option=1
+
+[2137] Giant's Castle
+Encounter: Raver Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: raver giant takes 1 damage.
+Round 2: raver giant drops 1 attack power.
+Round 2: raver giant drops 1 defense.
+Round 2: Got bites him for 21 damage.
+Round 2: raver giant takes 21 damage.
+Round 2: fifthtoast attacks!
+Round 3: raver giant takes 23 damage.
+Round 3: Got bites him for 26 damage.
+Round 3: raver giant takes 26 damage.
+Round 3: fifthtoast attacks!
+Round 4: raver giant takes 22 damage.
+Round 4: Got bites him for 26 damage.
+Round 4: raver giant takes 26 damage.
+Round 4: raver giant takes 2 damage.
+Round 4: raver giant takes 3 damage.
+Round 4: raver giant takes 3 damage.
+You lose 13 hit points
+Round 4: fifthtoast attacks!
+Round 5: raver giant takes 26 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast wins the fight!
+You gain 186 Meat
+You acquire an item: Angry Farmer candy
+You gain 6 Strongness
+You gain 9 Magicalness
+You gain 27 Roguishness
+
+[2138] Giant's Castle
+Encounter: Procrastination Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: procrastination giant takes 1 damage.
+Round 2: procrastination giant drops 1 attack power.
+Round 2: procrastination giant drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast casts MOXIOUS MANEUVER!
+Round 3: procrastination giant takes 63 damage.
+Round 3: Got tries to bite him, but misses.
+Round 3: fifthtoast casts MOXIOUS MANEUVER!
+Round 4: procrastination giant takes 49 damage.
+Round 4: Got bites him for 18 damage.
+Round 4: procrastination giant takes 18 damage.
+Round 4: procrastination giant takes 3 damage.
+Round 4: procrastination giant takes 10 damage.
+Round 4: procrastination giant takes 4 damage.
+You lose 11 hit points
+Round 4: fifthtoast wins the fight!
+Your familiar gains a pound: Got, the 8 lb. Grue
+You gain 193 Meat
+You gain 7 Muscleboundness
+You gain 8 Magicalness
+You gain 23 Chutzpah
+
+use 1 scroll of drastic healing
+
+[2139] Giant's Castle
+Encounter: Alphabet Giant
+Round 0: fifthtoast loses initiative!
+Round 1: alphabet giant takes 2 damage.
+Round 1: alphabet giant takes 3 damage.
+Round 1: alphabet giant takes 5 damage.
+You lose 20 hit points
+Round 1: fifthtoast attacks!
+Round 2: alphabet giant takes 22 damage.
+Round 2: Got tries to bite him, but misses.
+Round 2: alphabet giant takes 2 damage.
+Round 2: alphabet giant takes 8 damage.
+Round 2: alphabet giant takes 4 damage.
+You lose 22 hit points
+Round 2: fifthtoast casts MOXIOUS MANEUVER!
+Round 3: alphabet giant takes 17 damage.
+Round 3: Got tries to bite him, but misses.
+Round 3: alphabet giant takes 2 damage.
+Round 3: alphabet giant takes 8 damage.
+Round 3: alphabet giant takes 4 damage.
+You lose 20 hit points
+Round 3: fifthtoast attacks!
+Round 4: alphabet giant takes 30 damage.
+Round 4: Got bites him for 26 damage.
+Round 4: alphabet giant takes 26 damage.
+Round 4: alphabet giant takes 3 damage.
+Round 4: alphabet giant takes 2 damage.
+Round 4: alphabet giant takes 5 damage.
+You lose 21 hit points
+Round 4: fifthtoast attacks!
+Round 5: alphabet giant takes 24 damage.
+Round 5: Got bites him for 18 damage.
+Round 5: alphabet giant takes 18 damage.
+Round 5: fifthtoast wins the fight!
+You gain 181 Meat
+You acquire an item: original G
+You gain 15 Beefiness
+You gain 11 Wizardliness
+You gain 18 Roguishness
+You gain a Moxie point!
+
+Combine 1 original G + 1 ruby W
+
+Combine 1 original G + 1 lowercase N
+You acquire an item: NG
+Crafting used 1 each of lowercase N and original G
+
+Combine 1 original G + 1 WA + 1 NG
+You acquire an item: wang
+Crafting used 1 each of WA and NG
