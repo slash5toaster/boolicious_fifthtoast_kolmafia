@@ -180,7 +180,7 @@ blankOutUsed=0
 bootsCharged=false
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=true
+breakfastCompleted=false
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
