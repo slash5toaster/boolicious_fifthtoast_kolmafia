@@ -1385,3 +1385,469 @@ You acquire an item: resolution: be stronger
 You acquire an item: resolution: be luckier
 You acquire an item: resolution: be sexier
 You acquire an item: resolution: be kinder
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+February 9, 2012 - April 8
+
+Ronald: waning crescent
+Grimace: waning crescent
+Mini-moon: far left
+
+El Dia De Los Muertos Borrachos: 2 days
+Valentine's Day: 5 days
+Generic Summer Holiday: 11 days
+Dependence Day: 20 days
+Arrrbor Day: 28 days
+St. Sneaky Pete's Day: 37 days
+Lab&oacute;r Day: 38 days
+Halloween: 48 days
+Feast of Boris: 55 days
+Oyster Egg Day: 59 days
+Yuletide: 60 days
+Festival of Jarlsberg: 65 days
+
+
+Moxie bonus today and tomorrow.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 27
+HP: 1247 / 1,247
+MP: 35 / 853
+
+Mus: 780 (694), tnp = 1,330
+Mys: 550 (500), tnp = 287
+Mox: 545 (495), tnp = 299
+
+Advs: 40
+Meat: 93,262
+Drunk: 0
+
+
+ > equipment
+
+Hat: straw hat
+Weapon: Flail of the Seven Aspects
+Off-hand: hobo code binder
+Shirt: cane-mail shirt
+Pants: The Necbromancer's Shorts
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: ring of conflict
+Acc. 3: Hodgman's lucky sock
+
+Pet: Fancypants Scarecrow (11 lbs)
+Item: Knob Goblin Uberpants
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Eggsplosion
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Astral Shell (181)
+♫ The Sonata of Sneakiness (181)
+Tenacity of the Snapper (181)
+Jalapeño Saucesphere (228)
+♫ Stevedave's Shanty of Superiority (249)
+♫ Polka of Plenty (389)
+Empathy (453)
+Jabañero Saucesphere (573)
+Scarysauce (589)
+Reptilian Fortitude (788)
+Jingle Jangle Jingle (860)
+Elemental Saucesphere (978)
+Patience of the Tortoise (1,040)
+Retrograde Relaxation (1,277)
+Salamanderenity (1,350)
+Ghostly Shell (1,789)
+
+
+ > modifiers
+
+ML: +20
+Enc: -10.00%
+Init: +0.00%
+
+Exp: +2.50
+Meat: +95.00%
+Item: +107.60%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[18658] Rest in Clan Sofa (1 turns)
+You gain 135 Muscularity Points
+
+[18658] Rest in Clan Sofa (1 turns)
+You gain 136 Muscularity Points
+
+Use 4 long skinny balloon
+You acquire an item: balloon shield
+outfit Terrycloth Tackle
+
+Visiting the pretentious artist
+> *** Check your Display Case and / or your Colossal Closet for possible missing outfit pieces. ***
+> __________________________________________________________________________
+> Filthy Hippy Disguise is incomplete.
+> eXtreme-Cold Weather gear is incomplete.
+> Terrifying Clown Suit is incomplete.
+> Crimbo Duds is incomplete.
+> #13 is a placeholder in the table. is incomplete.
+> Furry Suit is incomplete.
+> 8-Bit Finery is incomplete.
+> OK Lumberjack Outfit is incomplete.
+> Radio Free Regalia is incomplete.
+> Bow Tux is incomplete.
+> Clockwork Apparatus is incomplete.
+> Gnauga Hides is incomplete.
+> Time Trappings is incomplete.
+> Cloaca-Cola Uniform is incomplete.
+> Dyspepsi-Cola Uniform is incomplete.
+> Arboreal Raiment is incomplete.
+> Grass Guise is incomplete.
+> Encephalic Ensemble is incomplete.
+> Glad Bag Glad Rags is incomplete.
+> Tropical Crimbo Duds is incomplete.
+> Bounty-Hunting Rig is incomplete.
+> Palmist Paraphernalia is incomplete.
+> Tapered Threads is incomplete.
+> Roy Orbison Disguise is incomplete.
+> Cursed Zombie Pirate Costume is incomplete.
+> Crimborg Assault Armor is incomplete.
+> El Vibrato Relics is incomplete.
+> Pyretic Panhandler Paraphernalia is incomplete.
+> Hyperborean Hobo Habiliments is incomplete.
+> Vile Vagrant Vestments is incomplete.
+> Dire Drifter Duds is incomplete.
+unequip weapon
+outfit Tawdry Tramp Togs
+
+Visiting the pretentious artist
+> Hodgman's Regal Frippery is incomplete.
+> Arrrbor Day Apparrrrrel is incomplete.
+
+Visiting the pretentious artist
+
+equip hat hardened slime hat
+
+equip weapon brand new key
+
+equip off-hand snake shield
+
+equip shirt star shirt
+
+equip pants Hodgman's lobsterskin pants
+
+equip acc1 cursed scrunchie
+
+equip acc2 Pokëmann figurine: Frank
+
+equip acc3 Slow Talkin' Elliot's dogtags
+
+Visiting the Bounty Hunter Hunter
+
+[18660] Hobopolis Town Square
+Encounter: Cube Root Claudius Miller
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1038 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 42 Muscleboundness
+You gain 19 Mysteriousness
+You gain 23 Roguishness
+Richard takes a hobo skin
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=3
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+
+drink 1 Fromage Pinotage
+You gain 5 Adventures
+You gain 37 Wizardliness
+You acquire an effect: Some Cheese with Your Wine (duration: 20 Adventures)
+You gain 1 Drunkenness
+
+use 1 hobo paste
+You gain 6 Adventures
+You gain 23 Strongness
+You gain 20 Wizardliness
+You gain 23 Chutzpah
+You acquire an effect: Hobo Flavor (duration: 10 Adventures)
+
+equip hat moist sailor's cap
+
+equip weapon Ol' Scratch's infernal pitchfork
+
+equip shirt Ultracolor™ shirt
+
+equip acc1 amber aviator shades
+
+equip acc2 dethklok
+
+equip acc3 Iiti Kitty phone charm
+
+buy 1 Piddles for 100 each from 1165313 on 20120209
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+buy 1 lesser grodulated violet for 200 each from 1219905 on 20120209
+You acquire an item: lesser grodulated violet
+
+use 1 lesser grodulated violet
+You acquire an effect: Fustulent (duration: 10 Adventures)
+
+buy 1 roofie for 100 each from 1053259 on 20120209
+You acquire an item: roofie
+
+use 1 roofie
+You acquire an effect: Confused (duration: 10 Adventures)
+You acquire an effect: Amorous (duration: 10 Adventures)
+
+buy 1 Elvish delight for 100 each from 630592 on 20120209
+You acquire an item: Elvish delight
+
+use 1 Elvish delight
+You acquire an effect: Cuts Like a Lightly-Buttered Knife (duration: 3 Adventures)
+
+use 1 sleaze nuggets
+You acquire an effect: Sleazy Weapon (duration: 5 Adventures)
+
+[18661] Hobopolis Town Square
+Encounter: Beef-or-Chicken Moe Thomas, the Strong
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1106 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 42 Strongness
+You gain 15 Wizardliness
+You gain 28 Smarm
+Richard takes a hobo skin
+
+[18662] Hobopolis Town Square
+Encounter: Lewis Walker, the Prodigal Halfwit
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1117 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 41 Strongness
+You gain 21 Enchantedness
+You gain 23 Roguishness
+Richard takes a hobo skin
+
+equip pants BRAINS shorts
+
+[18663] Hobopolis Town Square
+Encounter: Carl &quot;Palm Trees&quot; Westinghouse
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1017 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 39 Muscleboundness
+You gain 17 Wizardliness
+You gain 29 Roguishness
+Richard takes a hobo skin
+
+[18664] Hobopolis Town Square
+Encounter: Fake Cockney Accent Stanley Belvedere
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 999 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 50 Muscleboundness
+You gain 14 Magicalness
+You gain 20 Cheek
+Richard takes a hobo skin
+
+[18665] Hobopolis Town Square
+Encounter: Manuel Rutgers, the Lumberjack Mormon
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 995 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 39 Muscleboundness
+You gain 20 Wizardliness
+You gain 24 Roguishness
+Richard takes a hobo skin
+
+cast 3 Patience of the Tortoise
+You acquire an effect: Patience of the Tortoise (duration: 15 Adventures)
+
+[18666] Hobopolis Town Square
+Encounter: Twistback Cthulhu, the Freakster
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 987 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 42 Muscleboundness
+You gain 20 Enchantedness
+You gain 22 Roguishness
+Richard takes a hobo skin
+
+[18667] Hobopolis Town Square
+Encounter: Feminine R. J. McMahon, He Who Rings Every Bell He Sees
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 974 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 48 Beefiness
+You gain 16 Mysteriousness
+You gain 20 Cheek
+Richard takes a hobo skin
+
+[18668] Hobopolis Town Square
+Encounter: Sterno-Drinkin' Zachary &quot;Winky&quot; Jackson, the Colchester Kid
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 996 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 53 Strengthliness
+You gain 14 Enchantedness
+You gain 17 Chutzpah
+Richard takes a hobo skin
+
+[18669] Hobopolis Town Square
+Encounter: Count Sting, the Secret Collector of Decorative China
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 975 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 42 Strengthliness
+You gain 17 Enchantedness
+You gain 24 Chutzpah
+Richard takes a hobo skin
+
+[18670] Hobopolis Town Square
+Encounter: Meriadoc &quot;Dive Bar&quot; Cooper
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 985 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 59 Beefiness
+You gain 11 Wizardliness
+You gain 14 Roguishness
+Richard takes a hobo skin
+
+[18671] Hobopolis Town Square
+Encounter: Square Root Morris, the Personal Trainer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 868 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 50 Muscleboundness
+You gain 14 Magicalness
+You gain 20 Roguishness
+Richard takes a hobo skin
+
+[18672] Hobopolis Town Square
+Encounter: Shemp Nicholson, Esq.
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 863 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 43 Strengthliness
+You gain 22 Enchantedness
+You gain 19 Sarcasm
+You gain a Moxie point!
+Richard takes a hobo skin
+
+[18673] Hobopolis Town Square
+Encounter: Señor Woody &quot;The Knickerbocker&quot; Shannahan
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 876 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 42 Strongness
+You gain 23 Magicalness
+You gain a Mysticality point!
+You gain 19 Sarcasm
+Richard takes a hobo skin

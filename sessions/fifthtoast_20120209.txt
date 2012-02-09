@@ -1611,3 +1611,1482 @@ Crafting used 1 each of lowercase N and original G
 Combine 1 original G + 1 WA + 1 NG
 You acquire an item: wang
 Crafting used 1 each of WA and NG
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+February 9, 2012 - April 8
+
+Ronald: waning crescent
+Grimace: waning crescent
+Mini-moon: far left
+
+El Dia De Los Muertos Borrachos: 2 days
+Valentine's Day: 5 days
+Generic Summer Holiday: 11 days
+Dependence Day: 20 days
+Arrrbor Day: 28 days
+St. Sneaky Pete's Day: 37 days
+Lab&oacute;r Day: 38 days
+Halloween: 48 days
+Feast of Boris: 55 days
+Oyster Egg Day: 59 days
+Yuletide: 60 days
+Festival of Jarlsberg: 65 days
+
+
+Moxie bonus today and tomorrow.
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 10
+HP: 40 / 123
+MP: 26 / 88
+
+Mus: 90 (77), tnp = 67
+Mys: 88 (75), tnp = 105
+Mox: 138 (100), tnp = 196
+
+Advs: 77
+Meat: 61,205
+Drunk: 3
+
+
+ > equipment
+
+Hat: eyepatch
+Weapon: chrome crossbow
+Off-hand: (none)
+Shirt: (none)
+Pants: swashbuckling pants
+
+Acc. 1: badass belt
+Acc. 2: tiny plastic Crimbo reindeer
+Acc. 3: dead guy's watch
+
+Pet: Grue (13 lbs)
+Item: moonglasses
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chronic Indigestion
+ - Liver of Steel
+
+Disco Bandit
+ - Advanced Cocktailcrafting
+ - Disco Aerobics
+ - Disco Dance II: Electric Boogaloo
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Nap
+ - Disco Power Nap
+ - Mad Looting Skillz
+ - Nimble Fingers
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+♫ The Moxious Madrigal (187)
+♫ Aloysius' Antiphon of Aptitude (187)
+♫ Stevedave's Shanty of Superiority (187)
+Scarysauce (187)
+Jingle Jangle Jingle (187)
+Jabañero Saucesphere (187)
+Jalapeño Saucesphere (187)
+Empathy (187)
+Reptilian Fortitude (187)
+Tenacity of the Snapper (187)
+Astral Shell (187)
+Elemental Saucesphere (187)
+Ghostly Shell (187)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +1.00
+Meat: +20.00%
+Item: +20.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[2140] Giant's Castle
+Encounter: Furry Giant
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: furry giant takes 29 damage.
+Round 3: Got bites him for 20 damage.
+Round 3: furry giant takes 20 damage.
+Round 3: fifthtoast attacks!
+Round 4: furry giant takes 29 damage.
+Round 4: Got bites him for 27 damage.
+Round 4: furry giant takes 27 damage.
+Round 4: fifthtoast attacks!
+Round 5: furry giant takes 22 damage.
+Round 5: Got bites him for 20 damage.
+Round 5: furry giant takes 20 damage.
+Round 5: fifthtoast wins the fight!
+You gain 166 Meat
+You gain 6 Beefiness
+You gain 11 Mysteriousness
+You gain 25 Smarm
+
+[2141] Giant's Castle
+Encounter: Goth Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: goth giant takes 1 damage.
+Round 2: goth giant drops 1 attack power.
+Round 2: goth giant drops 1 defense.
+Round 2: Got bites him for 20 damage.
+Round 2: goth giant takes 20 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: goth giant takes 31 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: goth giant takes 32 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: goth giant takes 1 damage.
+Round 5: goth giant takes 5 damage.
+Round 5: goth giant takes 5 damage.
+You lose 13 hit points
+Round 5: fifthtoast attacks!
+Round 6: goth giant takes 24 damage.
+Round 6: Got's bells jingle merrily.
+Round 6: Got bites him for 23 damage.
+Round 6: goth giant takes 23 damage.
+Round 6: fifthtoast attacks!
+Round 7: goth giant takes 25 damage.
+Round 7: Got tries to bite him, but misses.
+Round 7: fifthtoast wins the fight!
+You gain 156 Meat
+You acquire an item: Warm Subject gift certificate
+You gain 10 Fortitude
+You gain 9 Enchantedness
+You gain 19 Cheek
+
+[2142] Giant's Castle
+Encounter: Outage, Brief Candle
+You gain 221 Magicalness
+You gain a Mysticality point!
+
+[2143] Giant's Castle
+Encounter: Procrastination Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: procrastination giant takes 1 damage.
+Round 2: procrastination giant drops 1 attack power.
+Round 2: procrastination giant drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: procrastination giant takes 27 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: procrastination giant takes 32 damage.
+Round 5: Got bites him for 28 damage.
+Round 5: procrastination giant takes 28 damage.
+Round 5: fifthtoast attacks!
+Round 6: procrastination giant takes 22 damage.
+Round 6: Got tries to bite him, but misses.
+Round 6: fifthtoast attacks!
+Round 7: procrastination giant takes 20 damage.
+Round 7: Got tries to bite him, but misses.
+Round 7: fifthtoast attacks!
+Round 8: procrastination giant takes 27 damage.
+Round 8: Got bites him for 23 damage.
+Round 8: procrastination giant takes 23 damage.
+Round 8: fifthtoast wins the fight!
+You gain 162 Meat
+You gain 8 Strongness
+You gain 8 Wizardliness
+You gain 23 Roguishness
+
+[2144] Giant's Castle
+Encounter: Raver Giant
+Round 0: fifthtoast loses initiative!
+Round 1: raver giant takes 1 damage.
+Round 1: raver giant takes 3 damage.
+Round 1: raver giant takes 3 damage.
+You lose 20 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: raver giant takes 22 damage.
+Round 2: Got bites him for 25 damage.
+Round 2: raver giant takes 25 damage.
+Round 2: fifthtoast attacks!
+Round 3: raver giant takes 26 damage.
+Round 3: Got tries to bite him, but misses.
+Round 3: raver giant takes 3 damage.
+Round 3: raver giant takes 9 damage.
+Round 3: raver giant takes 3 damage.
+You lose 18 hit points
+
+equip hat Disco 'Fro Pick
+
+equip weapon Shagadelic Disco Banjo
+
+equip acc2 Jolly Roger charrrm bracelet
+
+equip acc3 Jolly Roger charrrm bracelet
+
+buy 1 serum of sarcasm for 459 each from 1877436 on 20120209
+You acquire an item: serum of sarcasm
+
+use 1 serum of sarcasm
+You acquire an effect: Superhuman Sarcasm (duration: 5 Adventures)
+
+use 1 bottle of pirate juice
+You acquire an effect: Piratastic (duration: 10 Adventures)
+
+use 1 tiny house
+You gain 24 hit points
+You gain 20 Mojo Points
+
+buy 1 tomato juice of powerful power for 101 each from 845708 on 20120209
+You acquire an item: tomato juice of powerful power
+
+use 1 tomato juice of powerful power
+You acquire an effect: Tomato Power (duration: 5 Adventures)
+
+use 1 dark potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+buy 1 spooky wad for 448 each from 1307470 on 20120209
+You acquire an item: spooky wad
+
+use 1 spooky wad
+You gain 1 Adventure
+You gain 9 Strengthliness
+You gain 26 Magicalness
+You gain a Mysticality point!
+You gain 25 Cheek
+You acquire an effect: Spooky Demeanor (duration: 10 Adventures)
+
+buy 5 hair spray for 24 each from Market Demon
+You acquire hair spray (5)
+You spent 120 Meat
+
+use 5 hair spray
+You acquire an effect: Butt-Rock Hair (duration: 15 Adventures)
+
+buy 1 Black No. 2 for 100 each from 2255527 on 20120209
+You acquire an item: Black No. 2
+
+use 1 Black No. 2
+You acquire an effect: Locks Like the Raven (duration: 10 Adventures)
+
+buy 1 Black Body™ spray for 300 each from 608418 on 20120209
+You acquire an item: Black Body™ spray
+
+use 1 Black Body™ spray
+You acquire an effect: Radiating Black Body&trade; (duration: 10 Adventures)
+
+use 1 pirate pamphlet
+You acquire an effect: Charrrming (duration: 10 Adventures)
+
+use 1 roofie
+You acquire an effect: Confused (duration: 10 Adventures)
+You acquire an effect: Amorous (duration: 10 Adventures)
+
+use 1 Angry Farmer candy
+You acquire an effect: Sugar Rush (duration: 10 Adventures)
+
+cast 1 Disco Aerobics
+You acquire an effect: Disco State of Mind (duration: 5 Adventures)
+
+cast 10 Disco Aerobics
+You acquire an effect: Disco State of Mind (duration: 50 Adventures)
+
+use 7 cast
+You gain 126 hit points
+
+use 2 Dyspepsi-Cola
+You gain 22 Mojo Points
+
+use 1 Dyspepsi-Cola
+You gain 12 Mojo Points
+
+use 1 Knob Goblin seltzer
+You gain 8 Mojo Points
+
+use 2 phonics down
+You acquire an effect: Tingly Elbows (duration: 7 Adventures)
+You gain 98 hit points
+You gain 95 Mojo Points
+
+[2145] Giant's Castle
+Encounter: Wheel in the Clouds in the Sky, Keep On Turning
+Took choice 10/1: Turn to Map Quest
+choice.php?whichchoice=10&option=1&pwd
+
+[2146] Giant's Castle
+Encounter: Alphabet Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: alphabet giant takes 1 damage.
+Round 2: alphabet giant drops 1 attack power.
+Round 2: alphabet giant drops 1 defense.
+Round 2: Got bites him for 23 damage.
+Round 2: alphabet giant takes 23 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+You lose 1 hit point
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: alphabet giant takes 39 damage.
+Round 5: Got bites him for 26 damage.
+Round 5: alphabet giant takes 26 damage.
+Round 5: fifthtoast attacks!
+Round 6: alphabet giant takes 42 damage.
+Round 6: Got tries to bite him, but misses.
+Round 6: fifthtoast attacks!
+Round 7: alphabet giant takes 36 damage.
+Round 7: Got tries to bite him, but misses.
+Round 7: fifthtoast wins the fight!
+You gain 175 Meat
+You gain 7 Beefiness
+You gain 9 Magicalness
+You gain 28 Cheek
+
+[2147] Giant's Castle
+Encounter: Furry Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: furry giant takes 1 damage.
+Round 2: furry giant drops 1 attack power.
+Round 2: furry giant drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: furry giant takes 42 damage.
+Round 4: Got bites him for 21 damage.
+Round 4: furry giant takes 21 damage.
+Round 4: fifthtoast attacks!
+Round 5: furry giant takes 47 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast attacks!
+Round 6: furry giant takes 37 damage.
+Round 6: Got bites him for 28 damage.
+Round 6: furry giant takes 28 damage.
+Round 6: fifthtoast wins the fight!
+You gain 185 Meat
+You acquire an item: furry fur
+You gain 13 Strongness
+You gain 9 Magicalness
+You gain 19 Cheek
+
+[2148] Giant's Castle
+Encounter: Furry Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: furry giant takes 1 damage.
+Round 2: furry giant drops 1 attack power.
+Round 2: furry giant drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: furry giant takes 37 damage.
+Round 4: Got bites him for 26 damage.
+Round 4: furry giant takes 26 damage.
+Round 4: fifthtoast attacks!
+Round 5: furry giant takes 59 damage.
+Round 5: Got bites him for 16 damage.
+Round 5: furry giant takes 16 damage.
+Round 5: fifthtoast attacks!
+Round 6: furry giant takes 39 damage.
+Round 6: Got bites him for 29 damage.
+Round 6: furry giant takes 29 damage.
+Round 6: fifthtoast wins the fight!
+You gain 217 Meat
+You acquire an item: furry fur
+You gain 6 Strongness
+You gain 10 Wizardliness
+You gain 24 Chutzpah
+
+[2149] Giant's Castle
+Encounter: Possibility Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: possibility giant takes 1 damage.
+Round 2: possibility giant drops 1 attack power.
+Round 2: possibility giant drops 1 defense.
+Round 2: Got bites him for 25 damage.
+Round 2: possibility giant takes 25 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: possibility giant takes 32 damage.
+Round 4: Got bites him for 23 damage.
+Round 4: possibility giant takes 23 damage.
+Round 4: fifthtoast attacks!
+Round 5: possibility giant takes 42 damage.
+Round 5: Got bites him for 20 damage.
+Round 5: possibility giant takes 20 damage.
+Round 5: fifthtoast attacks!
+Round 6: possibility giant takes 41 damage.
+Round 6: Got tries to bite him, but misses.
+Round 6: fifthtoast wins the fight!
+You gain 178 Meat
+You acquire an item: probability potion
+You gain 10 Strongness
+You gain a Muscle point!
+You gain 8 Magicalness
+You gain 23 Sarcasm
+
+[2150] Giant's Castle
+Encounter: Procrastination Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: procrastination giant takes 1 damage.
+Round 2: procrastination giant drops 1 attack power.
+Round 2: procrastination giant drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: procrastination giant takes 3 damage.
+Round 2: procrastination giant takes 3 damage.
+Round 2: procrastination giant takes 3 damage.
+You lose 12 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: procrastination giant takes 57 damage.
+Round 4: Got bites him for 25 damage.
+Round 4: procrastination giant takes 25 damage.
+Round 4: fifthtoast attacks!
+Round 5: procrastination giant takes 47 damage.
+Round 5: Got bites him for 19 damage.
+Round 5: procrastination giant takes 19 damage.
+Round 5: fifthtoast wins the fight!
+You gain 196 Meat
+You gain 7 Strongness
+You gain 6 Mysteriousness
+You gain 27 Sarcasm
+You gain a Moxie point!
+
+[2151] Giant's Castle
+Encounter: Alphabet Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: alphabet giant takes 1 damage.
+Round 2: alphabet giant drops 1 attack power.
+Round 2: alphabet giant drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: alphabet giant takes 41 damage.
+Round 4: Got bites him for 23 damage.
+Round 4: alphabet giant takes 23 damage.
+Round 4: fifthtoast attacks!
+You lose 1 hit point
+Round 5: Got bites him for 17 damage.
+Round 5: alphabet giant takes 17 damage.
+Round 5: fifthtoast attacks!
+Round 6: alphabet giant takes 39 damage.
+Round 6: Got bites him for 20 damage.
+Round 6: alphabet giant takes 20 damage.
+Round 6: fifthtoast attacks!
+Round 7: alphabet giant takes 37 damage.
+Round 7: Got bites him for 16 damage.
+Round 7: alphabet giant takes 16 damage.
+Round 7: fifthtoast wins the fight!
+You gain 197 Meat
+You acquire an item: original G
+You gain 10 Beefiness
+You gain 10 Mysteriousness
+You gain 24 Roguishness
+
+[2152] Giant's Castle
+Encounter: Furry Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: furry giant takes 1 damage.
+Round 2: furry giant drops 1 attack power.
+Round 2: furry giant drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: furry giant takes 40 damage.
+Round 4: Got bites him for 29 damage.
+Round 4: furry giant takes 29 damage.
+Round 4: fifthtoast attacks!
+Round 5: furry giant takes 33 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast attacks!
+Round 6: furry giant takes 33 damage.
+Round 6: Got tries to bite him, but misses.
+Round 6: furry giant takes 2 damage.
+Round 6: furry giant takes 9 damage.
+Round 6: furry giant takes 5 damage.
+You lose 11 hit points
+Round 6: fifthtoast attacks!
+Round 7: furry giant takes 42 damage.
+Round 7: Got bites him for 18 damage.
+Round 7: furry giant takes 18 damage.
+Round 7: fifthtoast wins the fight!
+You gain 197 Meat
+You gain 7 Fortitude
+You gain 8 Enchantedness
+You gain 27 Chutzpah
+
+[2153] Giant's Castle
+Encounter: Procrastination Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: procrastination giant takes 1 damage.
+Round 2: procrastination giant drops 1 attack power.
+Round 2: procrastination giant drops 1 defense.
+Round 2: Got bites him for 29 damage.
+Round 2: procrastination giant takes 29 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: procrastination giant takes 39 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: procrastination giant takes 55 damage.
+Round 5: Got bites him for 16 damage.
+Round 5: procrastination giant takes 16 damage.
+Round 5: fifthtoast attacks!
+Round 6: procrastination giant takes 37 damage.
+Round 6: Got tries to bite him, but misses.
+Round 6: fifthtoast wins the fight!
+You gain 175 Meat
+You gain 9 Beefiness
+You gain 9 Mysteriousness
+You gain 19 Sarcasm
+
+[2154] Giant's Castle
+Encounter: Goth Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: goth giant takes 1 damage.
+Round 2: goth giant drops 1 attack power.
+Round 2: goth giant drops 1 defense.
+Round 2: Got bites him for 24 damage.
+Round 2: goth giant takes 24 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: goth giant takes 39 damage.
+Round 4: Got bites him for 28 damage.
+Round 4: goth giant takes 28 damage.
+Round 4: fifthtoast attacks!
+Round 5: goth giant takes 41 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: goth giant takes 1 damage.
+Round 5: goth giant takes 3 damage.
+Round 5: goth giant takes 5 damage.
+You lose 11 hit points
+Round 5: fifthtoast attacks!
+Round 6: goth giant takes 57 damage.
+Round 6: Got's bells jingle merrily.
+Round 6: Got bites him for 21 damage.
+Round 6: goth giant takes 21 damage.
+Round 6: fifthtoast wins the fight!
+You gain 211 Meat
+You gain 10 Beefiness
+You gain 13 Mysteriousness
+You gain 15 Chutzpah
+
+[2155] Giant's Castle
+Encounter: Raver Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: raver giant takes 1 damage.
+Round 2: raver giant drops 1 attack power.
+Round 2: raver giant drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: raver giant takes 21 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: raver giant takes 18 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast attacks!
+Round 6: raver giant takes 38 damage.
+Round 6: Got bites him for 19 damage.
+Round 6: raver giant takes 19 damage.
+Round 6: fifthtoast attacks!
+Round 7: raver giant takes 27 damage.
+Round 7: Got bites him for 20 damage.
+Round 7: raver giant takes 20 damage.
+Round 7: fifthtoast attacks!
+Round 8: raver giant takes 24 damage.
+Round 8: Got bites him for 23 damage.
+Round 8: raver giant takes 23 damage.
+Round 8: fifthtoast wins the fight!
+You gain 185 Meat
+You acquire an item: Mick's IcyVapoHotness Rub
+You gain 8 Fortitude
+You gain 11 Mysteriousness
+You gain 23 Roguishness
+
+[2156] Giant's Castle
+Encounter: Goth Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: goth giant takes 1 damage.
+Round 2: goth giant drops 1 attack power.
+Round 2: goth giant drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: goth giant takes 2 damage.
+Round 2: goth giant takes 5 damage.
+Round 2: goth giant takes 3 damage.
+You lose 10 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: goth giant takes 25 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: goth giant takes 17 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast attacks!
+Round 6: goth giant takes 20 damage.
+Round 6: Got tries to bite him, but misses.
+Round 6: fifthtoast attacks!
+Round 7: goth giant takes 22 damage.
+Round 7: Got bites him for 24 damage.
+Round 7: goth giant takes 24 damage.
+Round 7: fifthtoast attacks!
+Round 8: goth giant takes 27 damage.
+Round 8: Got bites him for 24 damage.
+Round 8: goth giant takes 24 damage.
+Round 8: fifthtoast wins the fight!
+You gain 202 Meat
+You gain 8 Strongness
+You gain 8 Enchantedness
+You gain 25 Sarcasm
+
+[2157] Giant's Castle
+Encounter: Raver Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: raver giant takes 1 damage.
+Round 2: raver giant drops 1 attack power.
+Round 2: raver giant drops 1 defense.
+Round 2: Got bites him for 24 damage.
+Round 2: raver giant takes 24 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+You lose 9 hit points
+Round 4: Got bites him for 21 damage.
+Round 4: raver giant takes 21 damage.
+Round 4: fifthtoast attacks!
+Round 5: raver giant takes 22 damage.
+Round 5: Got bites him for 29 damage.
+Round 5: raver giant takes 29 damage.
+Round 5: fifthtoast attacks!
+Round 6: raver giant takes 23 damage.
+Round 6: Got bites him for 16 damage.
+Round 6: raver giant takes 16 damage.
+Round 6: fifthtoast attacks!
+Round 7: raver giant takes 23 damage.
+Round 7: Got tries to bite him, but misses.
+Round 7: fifthtoast wins the fight!
+You gain 192 Meat
+You gain 7 Fortitude
+You gain 11 Wizardliness
+You gain 25 Smarm
+
+[2158] Giant's Castle
+Encounter: Wheel in the Clouds in the Sky, Keep On Turning
+Took choice 11/3: Leave at map quest
+choice.php?whichchoice=11&option=3&pwd
+
+buy 1 milk of magnesium for 1480 each from 600329 on 20120209
+You acquire an item: milk of magnesium
+
+use 1 milk of magnesium
+You acquire an effect: Got Milk (duration: 10 Adventures)
+
+eat 1 sausage pizza
+You gain 8 Adventures
+You gain 17 Muscleboundness
+You gain 3 Fullness
+You lose some of an effect: Got Milk
+
+eat 2 strawberry pie
+You gain 9 Adventures
+You gain 12 Smarm
+You gain 3 Fullness
+You lose some of an effect: Got Milk
+You gain 7 Adventures
+You gain 12 Cheek
+You gain 3 Fullness
+You lose some of an effect: Got Milk
+
+eat 1 enchanted bean burrito
+You gain 8 Adventures
+You gain 14 Magicalness
+You gain 3 Fullness
+You lose an effect: Got Milk
+
+eat 1 abominable snowcone
+You gain 4 Adventures
+You gain 11 Strengthliness
+You gain 5 Magicalness
+You gain 8 Smarm
+You gain a Moxie point!
+You gain 2 Fullness
+
+eat 1 fortune cookie
+You gain 1 Adventure
+You gain 1 Fullness
+Lucky numbers: 281, 141, 15
+
+drink 2 calle de miel
+You gain 10 Adventures
+You gain 10 Muscleboundness
+You gain 33 Smarm
+You gain 4 Drunkenness
+You gain 11 Adventures
+You gain 9 Muscleboundness
+You gain 32 Chutzpah
+You gain 4 Drunkenness
+
+drink 2 slap and tickle
+You gain 11 Adventures
+You gain 8 Enchantedness
+You gain a Mysticality point!
+You gain 34 Smarm
+You gain 4 Drunkenness
+You gain 10 Adventures
+You gain 10 Mysteriousness
+You gain 33 Smarm
+You gain 4 Drunkenness
+
+[2158] Giant's Castle
+Encounter: What are the Odds?
+You acquire an item: plot hole
+You acquire an item: chaos butterfly
+
+[2159] Giant's Castle
+Encounter: In a Black Room, with Black Curtains
+You acquire an item: thin black candle
+You acquire an item: Warm Subject gift certificate
+
+[2160] Giant's Castle
+Encounter: Goth Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: goth giant takes 1 damage.
+Round 2: goth giant drops 1 attack power.
+Round 2: goth giant drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: goth giant takes 26 damage.
+Round 4: Got bites him for 30 damage.
+Round 4: goth giant takes 30 damage.
+Round 4: fifthtoast attacks!
+Round 5: goth giant takes 25 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast attacks!
+Round 6: goth giant takes 19 damage.
+Round 6: Got bites him for 16 damage.
+Round 6: goth giant takes 16 damage.
+Round 6: fifthtoast attacks!
+Round 7: goth giant takes 26 damage.
+Round 7: Got tries to bite him, but misses.
+Round 7: fifthtoast attacks!
+Round 8: goth giant takes 18 damage.
+Round 8: Got tries to bite him, but misses.
+Round 8: fifthtoast wins the fight!
+Your familiar gains a pound: Got, the 9 lb. Grue
+You gain 200 Meat
+You acquire an item: Warm Subject gift certificate
+You gain 11 Strongness
+You gain 14 Mysteriousness
+You gain 14 Sarcasm
+
+[2161] Giant's Castle
+Encounter: Procrastination Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: procrastination giant takes 1 damage.
+Round 2: procrastination giant drops 1 attack power.
+Round 2: procrastination giant drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: procrastination giant takes 24 damage.
+Round 4: Got bites him for 18 damage.
+Round 4: procrastination giant takes 18 damage.
+Round 4: fifthtoast attacks!
+Round 5: procrastination giant takes 17 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: procrastination giant takes 3 damage.
+Round 5: procrastination giant takes 8 damage.
+Round 5: procrastination giant takes 3 damage.
+You lose 9 hit points
+Round 5: fifthtoast attacks!
+Round 6: procrastination giant takes 17 damage.
+Round 6: Got bites him for 27 damage.
+Round 6: procrastination giant takes 27 damage.
+Round 6: fifthtoast attacks!
+Round 7: procrastination giant takes 22 damage.
+Round 7: Got's bells jingle merrily.
+Round 7: Got bites him for 19 damage.
+Round 7: procrastination giant takes 19 damage.
+Round 7: fifthtoast wins the fight!
+You gain 176 Meat
+You gain 8 Strengthliness
+You gain 10 Magicalness
+You gain 19 Chutzpah
+
+[2162] Giant's Castle
+Encounter: Raver Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: raver giant takes 1 damage.
+Round 2: raver giant drops 1 attack power.
+Round 2: raver giant drops 1 defense.
+Round 2: Got bites him for 31 damage.
+Round 2: raver giant takes 31 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: raver giant takes 20 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: raver giant takes 3 damage.
+Round 4: raver giant takes 10 damage.
+Round 4: raver giant takes 5 damage.
+You lose 12 hit points
+Round 4: fifthtoast attacks!
+Round 5: raver giant takes 24 damage.
+Round 5: Got bites him for 16 damage.
+Round 5: raver giant takes 16 damage.
+Round 5: fifthtoast attacks!
+Round 6: raver giant takes 20 damage.
+Round 6: Got bites him for 18 damage.
+Round 6: raver giant takes 18 damage.
+Round 6: fifthtoast attacks!
+Round 7: raver giant takes 17 damage.
+Round 7: Got tries to bite him, but misses.
+Round 7: fifthtoast wins the fight!
+You gain 202 Meat
+You acquire an item: Mick's IcyVapoHotness Rub
+You acquire an item: giant needle
+You acquire an item: rave whistle
+You gain 7 Beefiness
+You gain 10 Wizardliness
+You gain 27 Chutzpah
+
+[2163] Giant's Castle
+Encounter: Alphabet Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: alphabet giant takes 1 damage.
+Round 2: alphabet giant drops 1 attack power.
+Round 2: alphabet giant drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: alphabet giant takes 40 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: alphabet giant takes 24 damage.
+Round 5: Got bites him for 16 damage.
+Round 5: alphabet giant takes 16 damage.
+Round 5: alphabet giant takes 2 damage.
+Round 5: alphabet giant takes 2 damage.
+Round 5: alphabet giant takes 3 damage.
+You lose 14 hit points
+Round 5: fifthtoast attacks!
+Round 6: alphabet giant takes 18 damage.
+Round 6: Got bites him for 20 damage.
+Round 6: alphabet giant takes 20 damage.
+Round 6: fifthtoast attacks!
+Round 7: alphabet giant takes 21 damage.
+Round 7: Got tries to bite him, but misses.
+Round 7: fifthtoast attacks!
+Round 8: alphabet giant takes 21 damage.
+Round 8: Got tries to bite him, but misses.
+Round 8: fifthtoast wins the fight!
+You gain 206 Meat
+You acquire an item: heavy D
+You acquire an item: original G
+You gain 8 Strongness
+You gain 18 Magicalness
+You gain 17 Chutzpah
+You gain a Moxie point!
+
+[2164] Giant's Castle
+Encounter: Furry Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: furry giant takes 1 damage.
+Round 2: furry giant drops 1 attack power.
+Round 2: furry giant drops 1 defense.
+Round 2: Got bites him for 19 damage.
+Round 2: furry giant takes 19 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: furry giant takes 21 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: furry giant takes 20 damage.
+Round 5: Got bites him for 18 damage.
+Round 5: furry giant takes 18 damage.
+Round 5: fifthtoast attacks!
+Round 6: furry giant takes 26 damage.
+Round 6: Got bites him for 19 damage.
+Round 6: furry giant takes 19 damage.
+Round 6: furry giant takes 1 damage.
+Round 6: furry giant takes 3 damage.
+Round 6: furry giant takes 3 damage.
+You lose 12 hit points
+Round 6: fifthtoast attacks!
+Round 7: furry giant takes 17 damage.
+Round 7: Got tries to bite him, but misses.
+Round 7: fifthtoast wins the fight!
+You gain 201 Meat
+You acquire an item: furry fur
+You gain 9 Muscleboundness
+You gain a Muscle point!
+You gain 6 Wizardliness
+You gain 28 Roguishness
+
+[2165] Giant's Castle
+Encounter: Possibility Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: possibility giant takes 1 damage.
+Round 2: possibility giant drops 1 attack power.
+Round 2: possibility giant drops 1 defense.
+Round 2: Got bites him for 25 damage.
+Round 2: possibility giant takes 25 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: possibility giant takes 21 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: possibility giant takes 27 damage.
+Round 5: Got bites him for 19 damage.
+Round 5: possibility giant takes 19 damage.
+Round 5: fifthtoast attacks!
+Round 6: possibility giant takes 24 damage.
+Round 6: Got tries to bite him, but misses.
+Round 6: fifthtoast attacks!
+Round 7: possibility giant takes 21 damage.
+Round 7: Got tries to bite him, but misses.
+Round 7: fifthtoast attacks!
+You lose 2 hit points
+Round 8: Got bites him for 31 damage.
+Round 8: possibility giant takes 31 damage.
+Round 8: fifthtoast wins the fight!
+You gain 176 Meat
+You acquire an item: plot hole
+You gain 8 Fortitude
+You gain 7 Enchantedness
+You gain 25 Smarm
+
+[2166] Giant's Castle
+Encounter: Goth Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: goth giant takes 1 damage.
+Round 2: goth giant drops 1 attack power.
+Round 2: goth giant drops 1 defense.
+Round 2: Got bites him for 29 damage.
+Round 2: goth giant takes 29 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: goth giant takes 17 damage.
+Round 4: Got bites him for 22 damage.
+Round 4: goth giant takes 22 damage.
+Round 4: fifthtoast attacks!
+You lose 3 hit points
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast attacks!
+Round 6: goth giant takes 23 damage.
+Round 6: Got bites him for 17 damage.
+Round 6: goth giant takes 17 damage.
+Round 6: fifthtoast attacks!
+Round 7: goth giant takes 42 damage.
+Round 7: Got tries to bite him, but misses.
+Round 7: fifthtoast wins the fight!
+You gain 205 Meat
+You acquire an item: thin black candle
+You acquire an item: Warm Subject gift certificate
+You gain 7 Fortitude
+You gain 6 Wizardliness
+You gain 29 Smarm
+
+[2167] Giant's Castle
+Encounter: In a Black Room, with Black Curtains
+You acquire an item: thin black candle
+You acquire an item: Warm Subject gift certificate
+
+[2168] Giant's Castle
+Encounter: Procrastination Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: procrastination giant takes 1 damage.
+Round 2: procrastination giant drops 1 attack power.
+Round 2: procrastination giant drops 1 defense.
+Round 2: Got bites him for 27 damage.
+Round 2: procrastination giant takes 27 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: procrastination giant takes 25 damage.
+Round 4: Got bites him for 18 damage.
+Round 4: procrastination giant takes 18 damage.
+Round 4: fifthtoast attacks!
+Round 5: procrastination giant takes 27 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast attacks!
+Round 6: procrastination giant takes 23 damage.
+Round 6: Got tries to bite him, but misses.
+Round 6: fifthtoast attacks!
+Round 7: procrastination giant takes 21 damage.
+Round 7: Got bites him for 31 damage.
+Round 7: procrastination giant takes 31 damage.
+Round 7: fifthtoast wins the fight!
+You gain 179 Meat
+You gain 5 Strongness
+You gain 8 Wizardliness
+You gain 28 Roguishness
+
+[2169] Giant's Castle
+Encounter: Procrastination Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: procrastination giant takes 1 damage.
+Round 2: procrastination giant drops 1 attack power.
+Round 2: procrastination giant drops 1 defense.
+Round 2: Got bites him for 23 damage.
+Round 2: procrastination giant takes 23 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: procrastination giant takes 21 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: procrastination giant takes 18 damage.
+Round 5: Got bites him for 29 damage.
+Round 5: procrastination giant takes 29 damage.
+Round 5: fifthtoast attacks!
+Round 6: procrastination giant takes 17 damage.
+Round 6: Got bites him for 29 damage.
+Round 6: procrastination giant takes 29 damage.
+Round 6: fifthtoast attacks!
+Round 7: procrastination giant takes 21 damage.
+Round 7: Got tries to bite him, but misses.
+Round 7: fifthtoast wins the fight!
+You gain 218 Meat
+You gain 11 Muscleboundness
+You gain 8 Enchantedness
+You gain 20 Chutzpah
+
+[2170] Giant's Castle
+Encounter: Procrastination Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: procrastination giant takes 1 damage.
+Round 2: procrastination giant drops 1 attack power.
+Round 2: procrastination giant drops 1 defense.
+Round 2: Got bites him for 22 damage.
+Round 2: procrastination giant takes 22 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: procrastination giant takes 24 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: procrastination giant takes 22 damage.
+Round 5: Got bites him for 21 damage.
+Round 5: procrastination giant takes 21 damage.
+Round 5: fifthtoast attacks!
+Round 6: procrastination giant takes 44 damage.
+Round 6: Got tries to bite him, but misses.
+Round 6: fifthtoast attacks!
+Round 7: procrastination giant takes 22 damage.
+Round 7: Got bites him for 17 damage.
+Round 7: procrastination giant takes 17 damage.
+Round 7: fifthtoast wins the fight!
+You gain 187 Meat
+You gain 11 Beefiness
+You gain 7 Magicalness
+You gain 20 Smarm
+
+[2171] Giant's Castle
+Encounter: Raver Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: raver giant takes 1 damage.
+Round 2: raver giant drops 1 attack power.
+Round 2: raver giant drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: raver giant takes 25 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: raver giant takes 24 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast attacks!
+Round 6: raver giant takes 22 damage.
+Round 6: Got bites him for 27 damage.
+Round 6: raver giant takes 27 damage.
+Round 6: fifthtoast attacks!
+Round 7: raver giant takes 26 damage.
+Round 7: Got bites him for 24 damage.
+Round 7: raver giant takes 24 damage.
+Round 7: fifthtoast attacks!
+Round 8: raver giant takes 20 damage.
+Round 8: Got bites him for 24 damage.
+Round 8: raver giant takes 24 damage.
+Round 8: fifthtoast wins the fight!
+You gain 178 Meat
+You acquire an item: Mick's IcyVapoHotness Rub
+You gain 11 Strengthliness
+You gain 6 Magicalness
+You gain 27 Smarm
+
+[2172] Giant's Castle
+Encounter: Raver Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: raver giant takes 1 damage.
+Round 2: raver giant drops 1 attack power.
+Round 2: raver giant drops 1 defense.
+Round 2: Got bites him for 19 damage.
+Round 2: raver giant takes 19 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: raver giant takes 19 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: raver giant takes 36 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast attacks!
+Round 6: raver giant takes 25 damage.
+Round 6: Got bites him for 25 damage.
+Round 6: raver giant takes 25 damage.
+Round 6: fifthtoast attacks!
+You lose 8 hit points
+Round 7: Got tries to bite him, but misses.
+Round 7: fifthtoast attacks!
+Round 8: raver giant takes 18 damage.
+Round 8: Got bites him for 30 damage.
+Round 8: raver giant takes 30 damage.
+Round 8: fifthtoast wins the fight!
+You gain 195 Meat
+You acquire an item: Angry Farmer candy
+You acquire an item: giant needle
+You gain 11 Strongness
+You gain 5 Wizardliness
+You gain 29 Sarcasm
+You gain a Moxie point!
+You gain a Level!
+
+[2173] Giant's Castle
+Encounter: Alphabet Giant
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: alphabet giant takes 18 damage.
+Round 3: Got tries to bite him, but misses.
+Round 3: fifthtoast attacks!
+Round 4: alphabet giant takes 23 damage.
+Round 4: Got bites him for 24 damage.
+Round 4: alphabet giant takes 24 damage.
+Round 4: fifthtoast attacks!
+Round 5: alphabet giant takes 24 damage.
+Round 5: Got bites him for 31 damage.
+Round 5: alphabet giant takes 31 damage.
+Round 5: fifthtoast attacks!
+Round 6: alphabet giant takes 17 damage.
+Round 6: Got bites him for 29 damage.
+Round 6: alphabet giant takes 29 damage.
+Round 6: fifthtoast wins the fight!
+You gain 208 Meat
+You gain 6 Muscleboundness
+You gain 12 Wizardliness
+You gain 25 Cheek
+
+[2174] Giant's Castle
+Encounter: Alphabet Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: alphabet giant takes 1 damage.
+Round 2: alphabet giant drops 1 attack power.
+Round 2: alphabet giant drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: alphabet giant takes 23 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: alphabet giant takes 21 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast attacks!
+Round 6: alphabet giant takes 22 damage.
+Round 6: Got bites him for 21 damage.
+Round 6: alphabet giant takes 21 damage.
+Round 6: alphabet giant takes 3 damage.
+Round 6: alphabet giant takes 7 damage.
+Round 6: alphabet giant takes 3 damage.
+You lose 12 hit points
+Round 6: fifthtoast attacks!
+Round 7: alphabet giant takes 20 damage.
+Round 7: Got bites him for 18 damage.
+Round 7: alphabet giant takes 18 damage.
+Round 7: fifthtoast attacks!
+Round 8: alphabet giant takes 21 damage.
+Round 8: Got bites him for 18 damage.
+Round 8: alphabet giant takes 18 damage.
+Round 8: fifthtoast wins the fight!
+You gain 210 Meat
+You acquire an item: original G
+You gain 8 Fortitude
+You gain 10 Mysteriousness
+You gain 25 Roguishness
+
+[2175] Giant's Castle
+Encounter: Furry Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: furry giant takes 1 damage.
+Round 2: furry giant drops 1 attack power.
+Round 2: furry giant drops 1 defense.
+Round 2: Got bites him for 23 damage.
+Round 2: furry giant takes 23 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: furry giant takes 18 damage.
+Round 4: Got bites him for 16 damage.
+Round 4: furry giant takes 16 damage.
+Round 4: fifthtoast attacks!
+Round 5: furry giant takes 19 damage.
+Round 5: Got bites him for 30 damage.
+Round 5: furry giant takes 30 damage.
+Round 5: fifthtoast attacks!
+Round 6: furry giant takes 19 damage.
+Round 6: Got bites him for 18 damage.
+Round 6: furry giant takes 18 damage.
+Round 6: fifthtoast attacks!
+Round 7: furry giant takes 24 damage.
+Round 7: Got tries to bite him, but misses.
+Round 7: fifthtoast wins the fight!
+You gain 215 Meat
+You gain 12 Strengthliness
+You gain 11 Wizardliness
+You gain 17 Chutzpah
+
+[2176] Giant's Castle
+Encounter: Goth Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: goth giant takes 1 damage.
+Round 2: goth giant drops 1 attack power.
+Round 2: goth giant drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: goth giant takes 24 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: goth giant takes 22 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast attacks!
+Round 6: goth giant takes 26 damage.
+Round 6: Got tries to bite him, but misses.
+Round 6: fifthtoast attacks!
+Round 7: goth giant takes 22 damage.
+Round 7: Got tries to bite him, but misses.
+Round 7: fifthtoast attacks!
+Round 8: goth giant takes 26 damage.
+Round 8: Got bites him for 30 damage.
+Round 8: goth giant takes 30 damage.
+Round 8: fifthtoast wins the fight!
+You gain 167 Meat
+You acquire an item: thin black candle
+You acquire an item: Warm Subject gift certificate
+You gain 11 Strongness
+You gain 11 Enchantedness
+You gain a Mysticality point!
+You gain 18 Chutzpah
+
+[2177] Giant's Castle
+Encounter: Goth Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: goth giant takes 1 damage.
+Round 2: goth giant drops 1 attack power.
+Round 2: goth giant drops 1 defense.
+Round 2: Got bites him for 22 damage.
+Round 2: goth giant takes 22 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: goth giant takes 23 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: goth giant takes 28 damage.
+Round 5: Got bites him for 29 damage.
+Round 5: goth giant takes 29 damage.
+Round 5: fifthtoast attacks!
+Round 6: goth giant takes 19 damage.
+Round 6: Got tries to bite him, but misses.
+Round 6: fifthtoast attacks!
+Round 7: goth giant takes 20 damage.
+Round 7: Got bites him for 26 damage.
+Round 7: goth giant takes 26 damage.
+Round 7: fifthtoast wins the fight!
+You gain 187 Meat
+You gain 8 Beefiness
+You gain 9 Enchantedness
+You gain 24 Chutzpah
+
+[2178] Giant's Castle
+Encounter: Possibility Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: possibility giant takes 1 damage.
+Round 2: possibility giant drops 1 attack power.
+Round 2: possibility giant drops 1 defense.
+Round 2: Got's bells jingle merrily.
+Round 2: Got bites him for 29 damage.
+Round 2: possibility giant takes 29 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: possibility giant takes 26 damage.
+Round 4: Got bites him for 16 damage.
+Round 4: possibility giant takes 16 damage.
+Round 4: fifthtoast attacks!
+Round 5: possibility giant takes 21 damage.
+Round 5: Got bites him for 19 damage.
+Round 5: possibility giant takes 19 damage.
+Round 5: fifthtoast attacks!
+Round 6: possibility giant takes 26 damage.
+Round 6: Got tries to bite him, but misses.
+Round 6: fifthtoast attacks!
+Round 7: possibility giant takes 18 damage.
+Round 7: Got bites him for 18 damage.
+Round 7: possibility giant takes 18 damage.
+Round 7: fifthtoast wins the fight!
+You gain 214 Meat
+You acquire an item: probability potion
+You gain 11 Muscleboundness
+You gain 10 Enchantedness
+You gain 18 Sarcasm
+
+[2179] Giant's Castle
+Encounter: Procrastination Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: procrastination giant takes 1 damage.
+Round 2: procrastination giant drops 1 attack power.
+Round 2: procrastination giant drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: procrastination giant takes 18 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: procrastination giant takes 24 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: procrastination giant takes 1 damage.
+Round 5: procrastination giant takes 6 damage.
+Round 5: procrastination giant takes 5 damage.
+You lose 11 hit points
+
+use 1 tiny house
+You gain 23 hit points
+You gain 23 Mojo Points
+
+use 1 scroll of drastic healing
+
+cast 1 Disco Aerobics
+You acquire an effect: Disco State of Mind (duration: 5 Adventures)
+
+[2180] Giant's Castle
+Encounter: What are the Odds?
+You acquire an item: plot hole
+You acquire an item: chaos butterfly
+
+[2181] Giant's Castle
+Encounter: Wheel in the Clouds in the Sky, Keep On Turning
+Took choice 11/3: Leave at map quest
+choice.php?pwd&whichchoice=11&option=3
+
+[2181] Giant's Castle
+Encounter: Alphabet Giant
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: alphabet giant takes 32 damage.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast attacks!
+Round 3: alphabet giant takes 38 damage.
+Round 3: Got's bells jingle merrily.
+Round 3: Got tries to bite him, but misses.
+Round 3: fifthtoast attacks!
+Round 4: alphabet giant takes 20 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: alphabet giant takes 26 damage.
+Round 5: Got bites him for 22 damage.
+Round 5: alphabet giant takes 22 damage.
+Round 5: fifthtoast attacks!
+Round 6: alphabet giant takes 27 damage.
+Round 6: Got bites him for 24 damage.
+Round 6: alphabet giant takes 24 damage.
+Round 6: fifthtoast wins the fight!
+You gain 197 Meat
+You acquire an item: heavy D
+You gain 13 Strengthliness
+You gain 10 Wizardliness
+You gain 22 Chutzpah
+You acquire an item: giant discarded torn-up glove

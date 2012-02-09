@@ -1,4 +1,4 @@
-AdventureFrame=-3,-3,0
+AdventureFrame=255,213,2
 CakeArenaFrame=424,348
 CouncilFrame=424,322,-1
 DescriptionFrame=424,322,-1
@@ -555,7 +555,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=15
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -563,8 +563,8 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
-currentWheelPosition=muscle
+currentSpleenUse=1
+currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
 cyrptCrannyEvilness=0
@@ -631,14 +631,14 @@ heroDonationSneakyPete=0
 hiddenCityLayout=0000000000000000000000000
 hiddenCitySquare=0
 hippiesDefeated=0
-hpAutoRecovery=-0.05
-hpAutoRecoveryItems=cannelloni cocoon;scroll of drastic healing;tongue of the walrus;lasagna bandages;doc galaktik's ailment ointment
+hpAutoRecovery=0.1
+hpAutoRecoveryItems=scroll of drastic healing;cannelloni cocoon;tongue of the walrus;lasagna bandages;doc galaktik's ailment ointment
 hpAutoRecoveryTarget=1.0
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Frat House In Disguise
+lastAdventure=Giant's Castle
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=healing
@@ -658,7 +658,7 @@ lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=10
+lastCouncilVisit=11
 lastCounterDay=15
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
@@ -700,7 +700,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=Beeeeeeeer\!
+lastEncounter=Alphabet Giant
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -794,7 +794,7 @@ mmgAutoConfirmBets=false
 mmgSearchMaximum
 mmgSearchMinimum
 moleTunnelLevel=0
-mpAutoRecovery=-0.5
+mpAutoRecovery=-0.05
 mpAutoRecoveryItems=phonics down;knob goblin superseltzer;mountain stream soda;magical mystery juice;knob goblin seltzer;cherry cloaca cola;soda water
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
@@ -838,7 +838,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=2270\:Semirare window begin loc\=*\:lparen.gif\:2310\:Semirare window end loc\=*\:rparen.gif
+relayCounters=2298\:Fortune Cookie\:fortune.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
