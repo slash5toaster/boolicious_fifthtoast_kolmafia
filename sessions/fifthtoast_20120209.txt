@@ -405,3 +405,959 @@ Item: +20.00%
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+February 9, 2012 - April 8
+
+Ronald: waning crescent
+Grimace: waning crescent
+Mini-moon: far left
+
+El Dia De Los Muertos Borrachos: 2 days
+Valentine's Day: 5 days
+Generic Summer Holiday: 11 days
+Dependence Day: 20 days
+Arrrbor Day: 28 days
+St. Sneaky Pete's Day: 37 days
+Lab&oacute;r Day: 38 days
+Halloween: 48 days
+Feast of Boris: 55 days
+Oyster Egg Day: 59 days
+Yuletide: 60 days
+Festival of Jarlsberg: 65 days
+
+
+Moxie bonus today and tomorrow.
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 10
+HP: 116 / 120
+MP: 56 / 86
+
+Mus: 87 (74), tnp = 106
+Mys: 86 (73), tnp = 45
+Mox: 137 (97), tnp = 49
+
+Advs: 158
+Meat: 57,745
+Drunk: 0
+
+
+ > equipment
+
+Hat: eyepatch
+Weapon: chrome crossbow
+Off-hand: (none)
+Shirt: (none)
+Pants: swashbuckling pants
+
+Acc. 1: badass belt
+Acc. 2: tiny plastic Crimbo reindeer
+Acc. 3: dead guy's watch
+
+Pet: Grue (10 lbs)
+Item: moonglasses
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chronic Indigestion
+ - Liver of Steel
+
+Disco Bandit
+ - Advanced Cocktailcrafting
+ - Disco Aerobics
+ - Disco Dance II: Electric Boogaloo
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Nap
+ - Disco Power Nap
+ - Mad Looting Skillz
+ - Nimble Fingers
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Disco State of Mind (18)
+♫ The Moxious Madrigal (268)
+♫ Aloysius' Antiphon of Aptitude (268)
+♫ Stevedave's Shanty of Superiority (268)
+Scarysauce (268)
+Jingle Jangle Jingle (268)
+Jabañero Saucesphere (268)
+Elemental Saucesphere (268)
+Empathy (268)
+Reptilian Fortitude (268)
+Tenacity of the Snapper (268)
+Astral Shell (268)
+Ghostly Shell (268)
+Jalapeño Saucesphere (268)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +1.00
+Meat: +20.00%
+Item: +20.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+outfit Knob Goblin Harem Girl Disguise
+
+[2059] Cobb's Knob Treasury
+Encounter: Finally, the Payoff
+You gain 500 Meat
+
+equip hat eyepatch
+
+equip pants swashbuckling pants
+
+[2060] Pirate Cove
+Encounter: smarmy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: smarmy pirate takes 1 damage.
+Round 2: smarmy pirate drops 1 attack power.
+Round 2: smarmy pirate drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: smarmy pirate takes 28 damage.
+Round 4: Got bites him for 38 damage.
+Round 4: smarmy pirate takes 38 damage.
+Round 4: fifthtoast wins the fight!
+Your familiar gains a pound: Got, the 6 lb. Grue
+You gain 28 Meat
+You acquire an item: Jolly Roger charrrm bracelet
+You acquire an item: bottle of rum
+You gain 5 Strongness
+You gain 8 Enchantedness
+You gain 9 Smarm
+
+[2061] Pirate Cove
+Encounter: Filching the Undarrwear
+You gain 18 Sarcasm
+
+[2062] Pirate Cove
+Encounter: The Arrrbitrator
+Took choice 22/3: small meat boost
+choice.php?whichchoice=22&option=3&pwd
+You gain 100 Meat
+
+[2063] Pirate Cove
+Encounter: shady pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: shady pirate takes 36 damage.
+Round 3: Got bites him for 27 damage.
+Round 3: shady pirate takes 27 damage.
+Round 3: fifthtoast wins the fight!
+You gain 31 Meat
+You gain 6 Beefiness
+You gain 6 Enchantedness
+You gain 9 Smarm
+
+[2064] Pirate Cove
+Encounter: shifty pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: shifty pirate takes 1 damage.
+Round 2: shifty pirate drops 1 attack power.
+Round 2: shifty pirate drops 1 defense.
+Round 2: Got bites him for 18 damage.
+Round 2: shifty pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: shifty pirate takes 32 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: shifty pirate takes 24 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast wins the fight!
+You gain 61 Meat
+You acquire an item: sunken chest
+You acquire an item: flaregun
+You gain 9 Muscleboundness
+You gain 4 Magicalness
+You gain 10 Sarcasm
+
+[2065] Pirate Cove
+Encounter: sassy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: sassy pirate takes 1 damage.
+Round 2: sassy pirate drops 1 attack power.
+Round 2: sassy pirate drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: sassy pirate takes 42 damage.
+Round 4: Got bites him for 24 damage.
+Round 4: sassy pirate takes 24 damage.
+Round 4: fifthtoast wins the fight!
+You gain 21 Meat
+You gain 1 Strengthliness
+You gain 5 Wizardliness
+You gain 17 Sarcasm
+You gain a Moxie point!
+
+[2066] Pirate Cove
+Encounter: smarmy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: smarmy pirate takes 1 damage.
+Round 2: smarmy pirate drops 1 attack power.
+Round 2: smarmy pirate drops 1 defense.
+Round 2: Got bites him for 56 damage.
+Round 2: smarmy pirate takes 56 damage.
+Round 2: fifthtoast wins the fight!
+You gain 33 Meat
+You acquire an item: bottle of rum
+You gain 7 Muscleboundness
+You gain 3 Enchantedness
+You gain 12 Cheek
+
+[2067] Pirate Cove
+Encounter: shady pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: shady pirate takes 1 damage.
+Round 2: shady pirate drops 1 attack power.
+Round 2: shady pirate drops 1 defense.
+Round 2: Got bites him for 17 damage.
+Round 2: shady pirate takes 17 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: shady pirate takes 32 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: shady pirate takes 31 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast wins the fight!
+You gain 33 Meat
+You gain 6 Strengthliness
+You gain 6 Wizardliness
+You gain 10 Cheek
+
+[2068] Pirate Cove
+Encounter: A Dreadful Curse
+You gain 15 Magicalness
+You gain a Mysticality point!
+
+[2069] Pirate Cove
+Encounter: swarthy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: swarthy pirate takes 1 damage.
+Round 2: swarthy pirate drops 1 attack power.
+Round 2: swarthy pirate drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: swarthy pirate takes 37 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: swarthy pirate takes 28 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast wins the fight!
+You gain 34 Meat
+You gain 7 Beefiness
+You gain 3 Wizardliness
+You gain 13 Sarcasm
+
+[2070] Pirate Cove
+Encounter: shifty pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: shifty pirate takes 1 damage.
+Round 2: shifty pirate drops 1 attack power.
+Round 2: shifty pirate drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: shifty pirate takes 25 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: shifty pirate takes 32 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast wins the fight!
+You gain 52 Meat
+You acquire an item: arrrgyle socks
+You acquire an item: sunken chest
+You acquire an item: flaregun
+You gain 7 Beefiness
+You gain 4 Mysteriousness
+You gain 13 Sarcasm
+
+[2071] Pirate Cove
+Encounter: A Dreadful Curse
+You gain 15 Magicalness
+
+[2072] Pirate Cove
+Encounter: The Beached Boys
+You gain 15 Muscleboundness
+
+[2073] Pirate Cove
+Encounter: Barrie Me at Sea
+Took choice 23/3: small meat boost
+choice.php?whichchoice=23&option=3&pwd
+You gain 100 Meat
+
+[2074] Pirate Cove
+Encounter: Filching the Undarrwear
+You gain 18 Smarm
+
+[2075] Pirate Cove
+Encounter: smarmy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: smarmy pirate takes 1 damage.
+Round 2: smarmy pirate drops 1 attack power.
+Round 2: smarmy pirate drops 1 defense.
+Round 2: Got bites him for 50 damage.
+Round 2: smarmy pirate takes 50 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+You lose 8 hit points
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: smarmy pirate takes 27 damage.
+Round 5: Got bites him for 54 damage.
+Round 5: smarmy pirate takes 54 damage.
+Round 5: fifthtoast wins the fight!
+You gain 36 Meat
+You acquire an item: flaregun
+You gain 4 Fortitude
+You gain 7 Mysteriousness
+You gain 12 Sarcasm
+
+[2076] Pirate Cove
+Encounter: Filching the Undarrwear
+You gain 18 Cheek
+
+[2077] Pirate Cove
+Encounter: smarmy pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+You lose 8 hit points
+Round 3: Got tries to bite him, but misses.
+Round 3: fifthtoast attacks!
+Round 4: smarmy pirate takes 33 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: smarmy pirate takes 27 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast wins the fight!
+You gain 31 Meat
+You acquire an item: bottle of rum
+You acquire an item: flaregun
+You gain 11 Beefiness
+You gain 2 Enchantedness
+You gain 8 Chutzpah
+
+[2078] Pirate Cove
+Encounter: Barrie Me at Sea
+Took choice 23/3: small meat boost
+choice.php?whichchoice=23&option=3&pwd
+You gain 100 Meat
+
+[2079] Pirate Cove
+Encounter: Amatearrr Night
+Took choice 24/2: small meat boost
+choice.php?whichchoice=24&option=2&pwd
+You gain 100 Meat
+
+[2080] Pirate Cove
+Encounter: The Arrrbitrator
+Took choice 22/3: small meat boost
+choice.php?whichchoice=22&option=3&pwd
+You gain 100 Meat
+
+[2081] Pirate Cove
+Encounter: A Dreadful Curse
+You gain 15 Mysteriousness
+
+[2082] Pirate Cove
+Encounter: smarmy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: smarmy pirate takes 1 damage.
+Round 2: smarmy pirate drops 1 attack power.
+Round 2: smarmy pirate drops 1 defense.
+Round 2: Got bites him for 56 damage.
+Round 2: smarmy pirate takes 56 damage.
+Round 2: fifthtoast wins the fight!
+You gain 36 Meat
+You acquire an item: bottle of rum
+You gain 4 Muscleboundness
+You gain 7 Mysteriousness
+You gain 10 Chutzpah
+
+[2083] Pirate Cove
+Encounter: The Beached Boys
+You gain 15 Muscleboundness
+
+[2084] Pirate Cove
+Encounter: Barrie Me at Sea
+Took choice 23/3: small meat boost
+choice.php?whichchoice=23&option=3&pwd
+You gain 100 Meat
+
+[2085] Pirate Cove
+Encounter: smarmy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: smarmy pirate takes 1 damage.
+Round 2: smarmy pirate drops 1 attack power.
+Round 2: smarmy pirate drops 1 defense.
+Round 2: Got's bells jingle merrily.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: smarmy pirate takes 30 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: smarmy pirate takes 36 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast wins the fight!
+You gain 30 Meat
+You acquire an item: bottle of rum
+You gain 4 Strengthliness
+You gain 5 Magicalness
+You gain 13 Smarm
+
+[2086] Pirate Cove
+Encounter: Filching the Undarrwear
+You gain 18 Cheek
+
+[2087] Pirate Cove
+Encounter: smarmy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: smarmy pirate takes 1 damage.
+Round 2: smarmy pirate drops 1 attack power.
+Round 2: smarmy pirate drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: smarmy pirate takes 2 damage.
+Round 2: smarmy pirate takes 18 damage.
+Round 2: smarmy pirate takes 5 damage.
+You lose 1 hit point
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+You lose 2 hit points
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: smarmy pirate takes 36 damage.
+Round 5: Got bites him for 38 damage.
+Round 5: smarmy pirate takes 38 damage.
+Round 5: fifthtoast wins the fight!
+You gain 34 Meat
+You acquire an item: bottle of rum
+You gain 3 Fortitude
+You gain 4 Enchantedness
+You gain 17 Roguishness
+
+[2088] Pirate Cove
+Encounter: The Beached Boys
+You gain 15 Muscleboundness
+You gain a Muscle point!
+
+[2089] Pirate Cove
+Encounter: A Dreadful Curse
+You gain 15 Magicalness
+
+[2090] Pirate Cove
+Encounter: swarthy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: swarthy pirate takes 1 damage.
+Round 2: swarthy pirate drops 1 attack power.
+Round 2: swarthy pirate drops 1 defense.
+Round 2: Got bites him for 20 damage.
+Round 2: swarthy pirate takes 20 damage.
+Round 2: swarthy pirate takes 2 damage.
+Round 2: swarthy pirate takes 9 damage.
+Round 2: swarthy pirate takes 3 damage.
+You lose 3 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: swarthy pirate takes 35 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast wins the fight!
+Your familiar gains a pound: Got, the 7 lb. Grue
+You gain 34 Meat
+You gain 6 Beefiness
+You gain 4 Wizardliness
+You gain 12 Roguishness
+
+[2091] Pirate Cove
+Encounter: shady pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: shady pirate takes 1 damage.
+Round 2: shady pirate drops 1 attack power.
+Round 2: shady pirate drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: shady pirate takes 35 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: shady pirate takes 47 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast wins the fight!
+You gain 36 Meat
+You gain 9 Beefiness
+You gain 5 Enchantedness
+You gain 9 Chutzpah
+You gain a Moxie point!
+
+[2092] Pirate Cove
+Encounter: Amatearrr Night
+Took choice 24/2: small meat boost
+choice.php?whichchoice=24&option=2&pwd
+You gain 100 Meat
+
+[2093] Pirate Cove
+Encounter: Barrie Me at Sea
+Took choice 23/3: small meat boost
+choice.php?whichchoice=23&option=3&pwd
+You gain 100 Meat
+
+[2094] Pirate Cove
+Encounter: A Dreadful Curse
+You gain 15 Wizardliness
+
+[2095] Pirate Cove
+Encounter: shifty pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: shifty pirate takes 1 damage.
+Round 2: shifty pirate drops 1 attack power.
+Round 2: shifty pirate drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: shifty pirate takes 30 damage.
+Round 4: Got bites him for 26 damage.
+Round 4: shifty pirate takes 26 damage.
+Round 4: fifthtoast attacks!
+Round 5: shifty pirate takes 26 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast wins the fight!
+You gain 51 Meat
+You gain 10 Fortitude
+You gain 3 Enchantedness
+You gain 10 Chutzpah
+
+[2096] Pirate Cove
+Encounter: sassy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: sassy pirate takes 1 damage.
+Round 2: sassy pirate drops 1 attack power.
+Round 2: sassy pirate drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: sassy pirate takes 41 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: sassy pirate takes 2 damage.
+Round 4: sassy pirate takes 10 damage.
+Round 4: sassy pirate takes 3 damage.
+You lose 4 hit points
+Round 4: fifthtoast wins the fight!
+You gain 28 Meat
+You gain 5 Muscleboundness
+You gain 8 Wizardliness
+You gain 8 Smarm
+
+[2097] Pirate Cove
+Encounter: smarmy pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: smarmy pirate takes 39 damage.
+Round 3: Got tries to bite him, but misses.
+Round 3: fifthtoast attacks!
+Round 4: smarmy pirate takes 39 damage.
+Round 4: Got bites him for 36 damage.
+Round 4: smarmy pirate takes 36 damage.
+Round 4: fifthtoast wins the fight!
+You gain 28 Meat
+You acquire an item: bottle of rum
+You gain 4 Strengthliness
+You gain 7 Wizardliness
+You gain 12 Sarcasm
+
+[2098] Pirate Cove
+Encounter: shady pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: shady pirate takes 1 damage.
+Round 2: shady pirate drops 1 attack power.
+Round 2: shady pirate drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: shady pirate takes 37 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: shady pirate takes 27 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast wins the fight!
+You gain 31 Meat
+You gain 6 Strengthliness
+You gain 4 Magicalness
+You gain 12 Chutzpah
+
+[2099] Pirate Cove
+Encounter: Filching the Undarrwear
+You gain 19 Roguishness
+
+[2100] Pirate Cove
+Encounter: swarthy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: swarthy pirate takes 1 damage.
+Round 2: swarthy pirate drops 1 attack power.
+Round 2: swarthy pirate drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: swarthy pirate takes 35 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: swarthy pirate takes 40 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast wins the fight!
+You gain 25 Meat
+You acquire an item: pirate pelvis
+You acquire an item: leotarrrd
+You gain 7 Beefiness
+You gain 4 Magicalness
+You gain 12 Chutzpah
+
+[2101] Pirate Cove
+Encounter: smarmy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: smarmy pirate takes 1 damage.
+Round 2: smarmy pirate drops 1 attack power.
+Round 2: smarmy pirate drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: smarmy pirate takes 33 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: smarmy pirate takes 39 damage.
+Round 5: Got bites him for 50 damage.
+Round 5: smarmy pirate takes 50 damage.
+Round 5: fifthtoast wins the fight!
+You gain 31 Meat
+You acquire an item: bottle of rum
+You acquire an item: flaregun
+You gain 4 Beefiness
+You gain 6 Wizardliness
+You gain 10 Cheek
+
+[2102] Pirate Cove
+Encounter: The Arrrbitrator
+Took choice 22/3: small meat boost
+choice.php?whichchoice=22&option=3&pwd
+You gain 100 Meat
+
+[2103] Pirate Cove
+Encounter: Barrie Me at Sea
+Took choice 23/3: small meat boost
+choice.php?whichchoice=23&option=3&pwd
+You gain 100 Meat
+
+[2104] Pirate Cove
+Encounter: The Beached Boys
+You gain 15 Beefiness
+
+[2105] Pirate Cove
+Encounter: shifty pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: shifty pirate takes 1 damage.
+Round 2: shifty pirate drops 1 attack power.
+Round 2: shifty pirate drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: shifty pirate takes 35 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: shifty pirate takes 37 damage.
+Round 5: Got tries to bite him, but misses.
+Round 5: fifthtoast wins the fight!
+You gain 60 Meat
+You gain 7 Fortitude
+You gain 5 Enchantedness
+You gain 12 Cheek
+
+[2106] Pirate Cove
+Encounter: sassy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: sassy pirate takes 1 damage.
+Round 2: sassy pirate drops 1 attack power.
+Round 2: sassy pirate drops 1 defense.
+Round 2: Got bites him for 17 damage.
+Round 2: sassy pirate takes 17 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: sassy pirate takes 40 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast wins the fight!
+You gain 27 Meat
+You gain 5 Strengthliness
+You gain 6 Enchantedness
+You gain 9 Chutzpah
+
+[2107] Pirate Cove
+Encounter: shady pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast tries to steal an item!
+Round 2: fifthtoast attacks!
+Round 3: shady pirate takes 40 damage.
+Round 3: Got tries to bite him, but misses.
+Round 3: fifthtoast attacks!
+Round 4: shady pirate takes 31 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast wins the fight!
+You gain 38 Meat
+You gain 5 Fortitude
+You gain 8 Magicalness
+You gain a Mysticality point!
+You gain 9 Roguishness
+
+[2108] Pirate Cove
+Encounter: sassy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: sassy pirate takes 1 damage.
+Round 2: sassy pirate drops 1 attack power.
+Round 2: sassy pirate drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: sassy pirate takes 36 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast attacks!
+Round 5: sassy pirate takes 31 damage.
+Round 5: Got bites him for 24 damage.
+Round 5: sassy pirate takes 24 damage.
+Round 5: fifthtoast wins the fight!
+You gain 28 Meat
+You acquire an item: flaregun
+You gain 7 Strongness
+You gain 6 Enchantedness
+You gain 8 Sarcasm
+
+[2109] Pirate Cove
+Encounter: Amatearrr Night
+Took choice 24/2: small meat boost
+choice.php?whichchoice=24&option=2&pwd
+You gain 100 Meat
+
+[2110] Pirate Cove
+Encounter: Yo Ho Ho and a Bottle of Whatever This Is
+You acquire an item: bottle of pirate juice
+
+[2111] Frat House
+Encounter: Orcish Frat Boy
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: orcish frat boy (pledge) takes 1 damage.
+Round 2: orcish frat boy (pledge) drops 1 attack power.
+Round 2: orcish frat boy (pledge) drops 1 defense.
+Round 2: Got tries to bite him, but misses.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast tries to steal an item!
+Round 3: fifthtoast attacks!
+Round 4: orcish frat boy (pledge) takes 59 damage.
+Round 4: Got tries to bite him, but misses.
+Round 4: fifthtoast wins the fight!
+You gain 37 Meat
+You acquire an item: ice-cold Sir Schlitz
+You gain 4 Strengthliness
+You gain 3 Wizardliness
+You gain 8 Roguishness
+
+[2112] Frat House
+Encounter: Orcish Frat Boy
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: orcish frat boy (paddler) takes 1 damage.
+Round 2: orcish frat boy (paddler) drops 1 attack power.
+Round 2: orcish frat boy (paddler) drops 1 defense.
+Round 2: Got bites him for 36 damage.
+Round 2: orcish frat boy (paddler) takes 36 damage.
+Round 2: fifthtoast wins the fight!
+You gain 36 Meat
+You gain 3 Beefiness
+You gain 4 Mysteriousness
+You gain 7 Sarcasm
+
+[2113] Frat House
+Encounter: Purple Hazers
+Took choice 138/1: orcish cargo shorts
+choice.php?whichchoice=138&option=1&pwd
+You acquire an item: Orcish cargo shorts
+outfit Frat Boy Ensemble
+
+[2114] Frat House In Disguise
+Encounter: Bench Warmer
+You gain 16 Muscleboundness
+
+[2115] Frat House In Disguise
+Encounter: The Hazer Becomes the Hazed
+You gain 15 Strengthliness
+You acquire an item: bottle of whiskey
+
+[2116] Frat House In Disguise
+Encounter: Naughty Pledge
+You lose 10 hit points
+You gain 18 Beefiness
+You gain a Muscle point!
+
+[2117] Frat House In Disguise
+Encounter: It's Not Really Stealing
+You gain 100 Meat
+
+[2118] Frat House In Disguise
+Encounter: Naughty Pledge
+You lose 10 hit points
+You gain 18 Strengthliness
+
+[2119] Frat House In Disguise
+Encounter: The Big Frat House in the Sky
+You gain 50 Meat
+
+[2120] Frat House In Disguise
+Encounter: Fratlifting
+You gain 16 Strengthliness
+
+[2121] Frat House In Disguise
+Encounter: Frat-Gang Warfare
+You lose 5 hit points
+You gain 17 Beefiness
+
+[2122] Frat House In Disguise
+Encounter: And Justice for All
+You gain 15 Strongness
+
+[2123] Frat House In Disguise
+Encounter: It's Not Really Stealing
+You gain 100 Meat
+
+[2124] Frat House In Disguise
+Encounter: It's Not Really Stealing
+You gain 100 Meat
+
+[2125] Frat House In Disguise
+Encounter: Naughty Pledge
+You lose 10 hit points
+You gain 18 Beefiness
+custom outfit Backup
+outfit Frat Boy Ensemble
+
+[2126] Frat House In Disguise
+Encounter: The Big Frat House in the Sky
+You gain 50 Meat
+
+[2127] Frat House In Disguise
+Encounter: Frat-Gang Warfare
+You lose 5 hit points
+You gain 17 Muscleboundness
+
+[2128] Frat House In Disguise
+Encounter: The Hazer Becomes the Hazed
+You gain 15 Muscleboundness
+You acquire an item: bottle of whiskey
+
+[2129] Frat House In Disguise
+Encounter: Fratlifting
+You gain 16 Beefiness
+
+[2130] Frat House In Disguise
+Encounter: Kegstand!  Kegstand!  Kegstand!
+You gain 3 Drunkenness
+You gain 20 Fortitude
+You gain a Muscle point!
+
+[2131] Frat House In Disguise
+Encounter: Naughty Pledge
+You lose 10 hit points
+You gain 18 Strengthliness
+
+[2132] Frat House In Disguise
+Encounter: The Big Frat House in the Sky
+You gain 50 Meat
+
+[2133] Frat House In Disguise
+Encounter: Frat-Gang Warfare
+You lose 5 hit points
+You gain 17 Fortitude
+
+[2134] Frat House In Disguise
+Encounter: Naughty Pledge
+You lose 10 hit points
+You gain 18 Fortitude
+
+[2135] Frat House In Disguise
+Encounter: Beeeeeeeer!
+You acquire an item: ice-cold six-pack
+custom outfit Backup
