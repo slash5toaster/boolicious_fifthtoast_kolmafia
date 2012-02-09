@@ -28,12 +28,14 @@ svn commit -m $(date +%F-%H%M)  --password 1aK8U30UMO
 $JAVABIN -jar ~/.kolmafia/KoLmafia-14.8.jar 
 
 pushd sessions
-svn add *$(date -u +%y%m%d)*
+svn add *$(date -u +%Y%m%d)*
+svn add *$(date +%Y%m%d)*
 popd
 
 # add sessions
 pushd chats
-svn add *$(date -u +%y%m%d)*
+svn add *$(date -u +%Y%m%d)*
+svn add *$(date +%Y%m%d)*
 popd
 
 svn up --password 1aK8U30UMO 
