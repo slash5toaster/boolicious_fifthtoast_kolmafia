@@ -15,8 +15,8 @@ FamiliarTrainingFrame=161,307
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=242,33,-1
-LoginFrame=367,276,0
+KoLDesktop=124,59,-1
+LoginFrame=370,276,0
 MailboxFrame=289,310,1
 MaximizerFrame=561,318
 MeatManageFrame=475,375
@@ -29,7 +29,7 @@ RequestSynchFrame=0,0,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=-3,-3,0
-TabbedChatFrame=596,69,1
+TabbedChatFrame=596,69,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -81,7 +81,7 @@ _leafblowerML=1
 _legendaryBeat=false
 _lookingGlass=false
 _lunchBreak=false
-_madTeaParty=true
+_madTeaParty=false
 _mayflySummons=0
 _navelRunaways=0
 _pasteDrops=0
@@ -91,7 +91,7 @@ _piePartsCount=0
 _poisonArrows=0
 _poolGames=0
 _precisionCasts=0
-_resolutionAdv=0
+_resolutionAdv=2
 _riftletAdv=0
 _romanticFightsLeft=0
 _sealFigurineUses=0
@@ -209,7 +209,7 @@ birdformSpooky=0
 birdformStench=0
 blackPuddingsDefeated=7
 blankOutUsed=0
-bootsCharged=true
+bootsCharged=false
 breakableHandling=1
 breakableHandling1964=2
 breakfastCompleted=true
@@ -587,7 +587,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=2
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -627,7 +627,7 @@ distentionPillActive=false
 dolphinItem=slug of rum
 doorCode
 expressCardUsed=false
-extraRolloverAdventures=0
+extraRolloverAdventures=2
 fistSkillsKnown=1
 fistTeachingsBarroomBrawl=false
 fistTeachingsBatHole=false
@@ -671,7 +671,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=A Barroom Brawl
+lastAdventure=Hobopolis Town Square
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -687,13 +687,13 @@ lastBangPotion827=ettin strength
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=14
+lastBreakfast=15
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=25
-lastCounterDay=14
+lastCounterDay=15
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=1
@@ -734,7 +734,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=unemployed knob goblin
+lastEncounter=Ed &quot;Slow Dance&quot; Shafer
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -873,7 +873,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=18756\:Semirare window begin loc\=*\:lparen.gif\:18796\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -882,8 +882,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=17097
-semirareLocation=Pirate Cove
+semirareCounter=18596
+semirareLocation=South of the Border
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
@@ -947,7 +947,7 @@ telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=0
+tomeSummons=3
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true

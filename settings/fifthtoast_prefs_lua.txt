@@ -4,7 +4,7 @@ CouncilFrame=424,322,-1
 DescriptionFrame=424,322,-1
 FamiliarTrainingFrame=260,240
 KoLDesktop=56,163,-1
-LoginFrame=409,276,0
+LoginFrame=370,276,0
 MaximizerFrame=379,354
 ProfileFrame=424,322,-1
 RequestSynchFrame=337,247,-1
@@ -88,7 +88,7 @@ _timeHelmetAdv=0
 _toastSummons=0
 _tokenDrops=0
 _transponderDrops=0
-_trivialAvocationsGame=true
+_trivialAvocationsGame=false
 _userMods
 _vmaskAdv=0
 _zapCount=0
@@ -653,13 +653,13 @@ lastBangPotion827=detection
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=13
+lastBreakfast=15
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=10
-lastCounterDay=13
+lastCounterDay=15
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -700,7 +700,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=Finally, the Payoff
+lastEncounter=Orcish Frat Boy
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -886,8 +886,8 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=5003
-stationaryButton2=5021
+stationaryButton1
+stationaryButton2
 stationaryButton3
 stationaryButton4
 stationaryButton5
