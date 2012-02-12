@@ -1739,3 +1739,131 @@ use 1 scroll of drastic healing
 use 1 tiny house
 You gain 24 hit points
 You gain 20 Mojo Points
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+February 11, 2012 - Martinus 2
+
+Ronald: waxing crescent
+Grimace: new moon
+Mini-moon: in front of Grimace, L side
+
+El Dia De Los Muertos Borrachos: today
+Valentine's Day: 3 days
+Generic Summer Holiday: 9 days
+Dependence Day: 18 days
+Arrrbor Day: 26 days
+St. Sneaky Pete's Day: 35 days
+Lab&oacute;r Day: 36 days
+Halloween: 46 days
+Feast of Boris: 53 days
+Oyster Egg Day: 57 days
+Yuletide: 58 days
+Festival of Jarlsberg: 63 days
+
+El Dia De Los Muertos Borrachos
+3 days until Mysticism.
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 11
+HP: 113 / 136
+MP: 101 / 101
+
+Mus: 103 (89), tnp = 113
+Mys: 101 (87), tnp = 57
+Mox: 168 (118), tnp = 32
+
+Advs: 53
+Meat: 65,630
+Drunk: 0
+
+
+ > equipment
+
+Hat: Disco 'Fro Pick
+Weapon: Shagadelic Disco Banjo
+Off-hand: (none)
+Shirt: (none)
+Pants: swashbuckling pants
+
+Acc. 1: badass belt
+Acc. 2: Jolly Roger charrrm bracelet
+Acc. 3: lucky rabbit's foot
+
+Pet: Autonomous Disco Ball (17 lbs)
+Item: stick-on mini solar panels
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chronic Indigestion
+ - Gothy Handwave
+ - Liver of Steel
+
+Disco Bandit
+ - Advanced Cocktailcrafting
+ - Disco Aerobics
+ - Disco Dance II: Electric Boogaloo
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Nap
+ - Disco Power Nap
+ - Mad Looting Skillz
+ - Nimble Fingers
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Disco State of Mind (86)
+20/20 Vision (209)
+♫ Polka of Plenty (375)
+♫ Stevedave's Shanty of Superiority (375)
+♫ Aloysius' Antiphon of Aptitude (375)
+Jingle Jangle Jingle (375)
+Jabañero Saucesphere (375)
+Scarysauce (375)
+Jalapeño Saucesphere (375)
+Empathy (375)
+Reptilian Fortitude (375)
+Tenacity of the Snapper (375)
+Astral Shell (375)
+Elemental Saucesphere (375)
+Ghostly Shell (375)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +31.00%
+
+Exp: +1.00
+Meat: +87.00%
+Item: +37.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+equip weapon chrome crossbow
+
+equip acc2 tiny plastic Crimbo reindeer
+
+equip acc3 dead guy's watch
