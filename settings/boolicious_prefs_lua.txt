@@ -33,13 +33,13 @@ TabbedChatFrame=197,69,1
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
-_allYearSucker=true
+_allYearSucker=false
 _aprilShower=false
 _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
 _bagOfCandy=false
-_ballpit=true
+_ballpit=false
 _banderRunaways=0
 _benettonsCasts=0
 _bonersSummoned=false
@@ -196,7 +196,7 @@ ballpitBonus=100
 bankedKarma=11
 barrelGoal=1
 barrelLayout=?????????
-bartenderTurnsUsed=2
+bartenderTurnsUsed=3
 basementMallPrices=1
 battleAction=attack with weapon
 beeCounter=0
@@ -583,11 +583,11 @@ choiceAdventure91=2
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=true
+concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=2106
-currentFullness=15
+currentBountyItem=0
+currentFullness=14
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -595,7 +595,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=15
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -671,7 +671,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=The Ancient Hobo Burial Ground
+lastAdventure=The Upper Chamber
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -687,13 +687,13 @@ lastBangPotion827=ettin strength
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=1
+lastBreakfast=2
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=25
-lastCounterDay=1
+lastCounterDay=2
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=1
@@ -734,7 +734,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=Coffin-Breath Davenport Davis, the Hobo Who Wants Your Delicious Brains
+lastEncounter=tomb rat
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -806,7 +806,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=22
+libramSummons=21
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -987,12 +987,12 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=true
+telescopeLookedHigh=false
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
-timesRested=1
-tomeSummons=3
+timesRested=0
+tomeSummons=1
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
