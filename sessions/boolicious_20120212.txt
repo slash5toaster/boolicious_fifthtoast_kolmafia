@@ -2043,3 +2043,183 @@ eat 1 fortune cookie
 You gain 1 Adventure
 You gain 1 Fullness
 Lucky numbers: 52, 125, 238
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+February 12, 2012 - Martinus 3
+
+Ronald: first quarter
+Grimace: waxing crescent
+Mini-moon: far right
+
+Valentine's Day: 2 days
+Generic Summer Holiday: 8 days
+Dependence Day: 17 days
+Arrrbor Day: 25 days
+St. Sneaky Pete's Day: 34 days
+Lab&oacute;r Day: 35 days
+Halloween: 45 days
+Feast of Boris: 52 days
+Oyster Egg Day: 56 days
+Yuletide: 57 days
+Festival of Jarlsberg: 62 days
+El Dia De Los Muertos Borrachos: 95 days
+
+
+2 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 27
+HP: 1487 / 1,487
+MP: 698 / 1,045
+
+Mus: 935 (712), tnp = 912
+Mys: 674 (512), tnp = 685
+Mox: 669 (508), tnp = 509
+
+Advs: 90
+Meat: 183,523
+Drunk: 18
+
+
+ > equipment
+
+Hat: straw hat
+Weapon: octopus's spade
+Off-hand: Hodgman's metal detector
+Shirt: cane-mail shirt
+Pants: Hodgman's lobsterskin pants
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: Zinc Delta of Tranquility
+Acc. 3: Hodgman's lucky sock
+
+Pet: Fancypants Scarecrow (11 lbs)
+Item: Knob Goblin Uberpants
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Drunken Baby Style
+ - Eggsplosion
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+2 of 3 AT buffs active.
+Greedy Resolve (15)
+♫ Stevedave's Shanty of Superiority (17)
+Bubble Vision (24)
+♫ Polka of Plenty (157)
+Empathy (221)
+Jabañero Saucesphere (341)
+Scarysauce (357)
+Reptilian Fortitude (556)
+Jingle Jangle Jingle (628)
+Elemental Saucesphere (746)
+Patience of the Tortoise (1,093)
+Salamanderenity (1,294)
+Ghostly Shell (1,557)
+Retrograde Relaxation (1,825)
+
+
+ > modifiers
+
+ML: +20
+Enc: +0.00%
+Init: +10.00%
+
+Exp: +2.50
+Meat: +125.00%
+Item: +235.10%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 2 Summon Resolutions
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be sexier
+
+use 1 Oscus's neverending soda
+unequip weapon
+unequip offhand
+
+equip shirt General Sage's Lonely Diamonds Club Jacket
+
+equip acc1 fudgecycle
+
+equip acc2 time halo
+
+equip acc3 wristwatch of the white knight
+
+mallsell: 4 thyme jelly donut
+
+manageprices.php?action=update&price5401=15500&limit5401=1&price5270=7577&limit5270=0&price5248=7000&limit5248=1&price5251=5980&limit5251=1&price5268=3450&limit5268=0&price5537=2750&limit5537=0&price5090=2000&limit5090=0&price4212=800&limit4212=0&price594=410&limit594=0&price2687=400&limit2687=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price218=155&limit218=0&price352=150&limit352=0&price2613=150&limit2613=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price550=114&limit550=0&price1=100&limit1=0
+
+use 1 Oscus's neverending soda
+
+mallsell: 4 can of Red Minotaur
+
+use 1 moxie weed
+You gain 1 Smarm
+
+mallsell: 6 bucket of honey
