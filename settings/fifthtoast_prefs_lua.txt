@@ -1,4 +1,4 @@
-AdventureFrame=255,213,2
+AdventureFrame=255,213,0
 CakeArenaFrame=424,348
 CouncilFrame=424,322,-1
 DescriptionFrame=424,322,-1
@@ -555,7 +555,7 @@ cocktailSummons=3
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=2407
+currentBountyItem=0
 currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
@@ -640,7 +640,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Bat Hole Entryway
+lastAdventure=Whitey's Grove
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=healing
@@ -702,7 +702,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=albino bat
+lastEncounter=Knight in White Satin
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
