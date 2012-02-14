@@ -1039,3 +1039,1496 @@ send a kmail to wadbot: 4 spooky powder, 5 stench nuggets, 3 stench powder, 7 tw
 manageprices.php?action=update&price5401=15500&limit5401=1&price5265=8780&limit5265=0&price5270=7577&limit5270=0&price5248=7000&limit5248=1&price5251=5980&limit5251=1&price5268=3450&limit5268=0&price5537=2750&limit5537=0&price5090=2000&limit5090=0&price196=1350&limit196=1&price24=1345&limit24=1&price4212=800&limit4212=0&price226=674&limit226=0&price594=410&limit594=0&price2687=400&limit2687=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price414=190&limit414=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price218=155&limit218=0&price352=150&limit352=0&price2613=150&limit2613=0&price4526=140&limit4526=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price550=114&limit550=0&price1=100&limit1=0
 manageprices.php?action=update&price196=1350&limit196=1&price5537=500&limit5537=0&price24=1345&limit24=1&price613=256&limit613=0&price4526=140&limit4526=0&price497=236&limit497=0&price2598=300&limit2598=0&price3844=184&limit3844=0&price226=674&limit226=0&price834=190&limit834=0&price632=264&limit632=0&price395=196&limit395=0&price2613=150&limit2613=0&price5248=7000&limit5248=1&price550=114&limit550=0&price2984=220&limit2984=0&price541=240&limit541=0&price399=230&limit399=0&price5251=5980&limit5251=1&price393=196&limit393=0&price630=288&limit630=1&price2680=300&limit2680=0&price5270=7577&limit5270=0&price544=200&limit544=0&price616=258&limit616=0&price218=155&limit218=0&price312=160&limit312=0&price239=160&limit239=0&price1297=200&limit1297=0&price1=100&limit1=0&price2687=400&limit2687=0&price1655=120&limit1655=0&price542=260&limit542=0&price594=410&limit594=0&price622=272&limit622=0&price432=120&limit432=0&price3858=250&limit3858=0&price414=190&limit414=0&price472=190&limit472=0&price538=260&limit538=0&price3864=164&limit3864=0&price611=270&limit611=0&price5268=3450&limit5268=0&price2093=230&limit2093=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price776=190&limit776=0&price475=130&limit475=0&price352=150&limit352=0&price5401=15500&limit5401=1&price5090=2000&limit5090=0&price5265=8780&limit5265=0&price614=256&limit614=0&price1294=180&limit1294=0&price356=220&limit356=0&price4212=800&limit4212=0
 manageprices.php?action=update&price196=1350&limit196=1&price5537=500&limit5537=0&price24=1345&limit24=1&price613=256&limit613=0&price4526=140&limit4526=0&price497=236&limit497=0&price2598=300&limit2598=0&price3844=184&limit3844=0&price226=674&limit226=0&price834=190&limit834=0&price632=264&limit632=0&price395=196&limit395=0&price2613=150&limit2613=0&price5248=7000&limit5248=1&price550=114&limit550=0&price2984=220&limit2984=0&price541=240&limit541=0&price399=230&limit399=0&price5251=5980&limit5251=1&price393=196&limit393=0&price630=288&limit630=1&price2680=300&limit2680=0&price5270=7577&limit5270=0&price544=200&limit544=0&price616=258&limit616=0&price218=155&limit218=0&price312=160&limit312=0&price239=160&limit239=0&price1297=200&limit1297=0&price1=100&limit1=0&price2687=400&limit2687=0&price1655=120&limit1655=0&price542=260&limit542=0&price594=410&limit594=0&price622=272&limit622=0&price432=120&limit432=0&price3858=250&limit3858=0&price414=190&limit414=0&price472=190&limit472=0&price538=260&limit538=0&price3864=164&limit3864=0&price611=270&limit611=0&price5268=3450&limit5268=0&price2093=230&limit2093=0&price4665=170&limit4665=0&price3859=170&limit3859=0&price776=190&limit776=0&price475=130&limit475=0&price352=150&limit352=0&price5401=15500&limit5401=1&price5090=2000&limit5090=0&price5265=8780&limit5265=0&price614=256&limit614=0&price1294=180&limit1294=0&price356=220&limit356=0&price4212=800&limit4212=0
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+February 13, 2012 - Martinus 4
+
+Ronald: waxing gibbous
+Grimace: waxing crescent
+Mini-moon: in back, near Grimace
+
+Valentine's Day: tomorrow
+Generic Summer Holiday: 7 days
+Dependence Day: 16 days
+Arrrbor Day: 24 days
+St. Sneaky Pete's Day: 33 days
+Lab&oacute;r Day: 34 days
+Halloween: 44 days
+Feast of Boris: 51 days
+Oyster Egg Day: 55 days
+Yuletide: 56 days
+Festival of Jarlsberg: 61 days
+El Dia De Los Muertos Borrachos: 94 days
+
+
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 27
+HP: 1166 / 1,593
+MP: 161 / 882
+
+Mus: 1,003 (712), tnp = 569
+Mys: 569 (512), tnp = 503
+Mox: 564 (508), tnp = 306
+
+Advs: 148
+Meat: 215,937
+Drunk: 0
+
+
+ > equipment
+
+Hat: hardened slime hat
+Weapon: goatskin umbrella
+Off-hand: hobo code binder
+Shirt: star shirt
+Pants: The Necbromancer's Shorts
+
+Acc. 1: cursed scrunchie
+Acc. 2: Pokëmann figurine: Frank
+Acc. 3: Baron von Ratsworth's monocle
+
+Pet: Fancypants Scarecrow (15 lbs)
+Item: trousers of the white knight
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Creepy Lullaby
+ - Drunken Baby Style
+ - Eggsplosion
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Brilliant Resolve (4)
+Strong Resolve (4)
+Destructive Resolve (4)
+Brother Smothers's Blessing (4)
+Kindly Resolve (4)
+Bubble Vision (8)
+Dis Abled (14)
+Irresistible Resolve (24)
+Joyful Resolve (24)
+Fortunate Resolve (24)
+Greedy Resolve (39)
+Timer 1 (47)
+20/20 Vision (188)
+♫ The Sonata of Sneakiness (359)
+Tenacity of the Snapper (359)
+Astral Shell (359)
+Jalapeño Saucesphere (359)
+♫ Fat Leon's Phat Loot Lyric (359)
+♫ Polka of Plenty (516)
+Empathy (580)
+Jabañero Saucesphere (700)
+Scarysauce (716)
+Reptilian Fortitude (915)
+Jingle Jangle Jingle (987)
+Patience of the Tortoise (1,077)
+Elemental Saucesphere (1,105)
+Salamanderenity (1,278)
+Retrograde Relaxation (1,809)
+Ghostly Shell (1,916)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: +0.00%
+
+Exp: +2.00
+Meat: +245.24%
+Item: +163.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+use 1 Manual of Labor
+
+use 1 Chester's bag of candy
+
+use 1 Trivial Avocations board game
+
+use 1 creepy voodoo doll
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+cast 9 Summon Resolutions
+You acquire an item: resolution: be feistier
+
+[19281] The Glacier of Jerks
+Encounter: Wacky Zack Flacky
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: wacky zack flacky takes 923 damage.
+Round 2: wacky zack flacky takes 33 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+You gain 25 Strongness
+You gain 14 Magicalness
+You gain 8 Roguishness
+
+Visiting the Bounty Hunter Hunter
+
+equip hat straw hat
+
+equip weapon octopus's spade
+
+equip off-hand Hodgman's metal detector
+
+equip shirt cane-mail shirt
+
+equip pants Hodgman's lobsterskin pants
+
+equip acc1 Hodgman's lucky sock
+
+equip acc2 Zinc Delta of Tranquility
+
+equip pants flowing hippy skirt
+
+buy 1 Knob Goblin eyedrops for 200 each from 1945689 on 20120213
+You acquire an item: Knob Goblin eyedrops
+
+use 1 Knob Goblin eyedrops
+You acquire an effect: Peeled Eyeballs (duration: 10 Adventures)
+
+buy 1 milky potion for 120 each from 1801777 on 20120213
+You acquire an item: milky potion of detection
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+friars blessing 1
+
+abandon bounty assignment
+
+accept bounty assignment to collect 14 pink bat eyes
+
+[19282] Bat Hole Entryway
+Encounter: regular old bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: regular old bat takes 900 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+63) (+1) (+1) damage.
+Round 2: regular old bat takes 69 damage.
+Round 2: boolicious wins the fight!
+You gain 48 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You gain 8 Strengthliness
+You gain 4 Mysteriousness
+You gain 3 Sarcasm
+
+[19283] Beanbat Chamber
+Encounter: screambat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: screambat takes 895 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+65) (+1) (+1) damage.
+Round 2: screambat takes 71 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You gain 6 Beefiness
+You gain 4 Wizardliness
+You gain 6 Smarm
+
+[19284] Batrat and Ratbat Burrow
+Encounter: ratbat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: ratbat takes 891 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+57) (+1) (+1) damage.
+Round 2: ratbat takes 63 damage.
+Round 2: boolicious wins the fight!
+You gain 39 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: rat appendix
+You acquire an item: sonar-in-a-biscuit
+You gain 9 Fortitude
+You gain 5 Wizardliness
+You gain 3 Roguishness
+
+[19285] Batrat and Ratbat Burrow
+Encounter: ratbat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: ratbat takes 874 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+47) (+1) (+1) damage.
+Round 2: ratbat takes 53 damage.
+Round 2: boolicious wins the fight!
+You gain 42 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: ratgut
+You gain 8 Fortitude
+You gain 5 Chutzpah
+
+[19286] Bat Hole Entryway
+Encounter: albino bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: albino bat takes 887 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+48) (+1) (+1) damage.
+Round 2: albino bat takes 54 damage.
+Round 2: boolicious wins the fight!
+You gain 44 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: bat guano
+You acquire an item: pink bat eye
+You gain 4 Fortitude
+You gain 4 Mysteriousness
+You gain 2 Smarm
+
+[19287] Bat Hole Entryway
+Encounter: albino bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: albino bat takes 884 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+55) (+1) (+1) damage.
+Round 2: albino bat takes 61 damage.
+Round 2: boolicious wins the fight!
+You gain 44 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You acquire an item: bat guano
+You acquire an item: pink bat eye
+You gain 4 Muscleboundness
+You gain 2 Magicalness
+You gain 4 Roguishness
+
+[19288] Bat Hole Entryway
+Encounter: pine bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: pine bat takes 898 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+50) (+1) (+1) damage.
+Round 2: pine bat takes 56 damage.
+Round 2: boolicious wins the fight!
+You gain 46 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You acquire an item: bat wing
+You acquire an item: Pine-Fresh air freshener
+You gain 7 Fortitude
+You gain 4 Smarm
+
+[19289] Bat Hole Entryway
+Encounter: pine bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: pine bat takes 884 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+46) (+1) (+1) damage.
+Round 2: pine bat takes 52 damage.
+Round 2: boolicious wins the fight!
+You gain 46 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You gain 5 Strengthliness
+You gain 2 Magicalness
+You gain 3 Smarm
+
+[19290] Bat Hole Entryway
+Encounter: regular old bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: regular old bat takes 892 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+49) (+1) (+1) damage.
+Round 2: regular old bat takes 55 damage.
+Round 2: boolicious wins the fight!
+You gain 46 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You gain 5 Muscleboundness
+You gain 5 Smarm
+
+[19291] Bat Hole Entryway
+Encounter: pine bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: pine bat takes 897 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+59) (+1) (+1) damage.
+Round 2: pine bat takes 65 damage.
+Round 2: boolicious wins the fight!
+You gain 46 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You gain 6 Beefiness
+You gain 3 Wizardliness
+You gain 2 Chutzpah
+
+[19292] Bat Hole Entryway
+Encounter: pine bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: pine bat takes 892 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+57) (+1) (+1) damage.
+Round 2: pine bat takes 63 damage.
+Round 2: boolicious wins the fight!
+You gain 55 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You gain 7 Strengthliness
+You gain 1 Magicalness
+You gain 3 Sarcasm
+
+use 1 bottle of bubbles
+You acquire an effect: Bubble Vision (duration: 100 Adventures)
+
+[19293] Bat Hole Entryway
+Encounter: regular old bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: regular old bat takes 880 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+46) (+1) (+1) damage.
+Round 2: regular old bat takes 52 damage.
+Round 2: boolicious wins the fight!
+You gain 43 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: bat guano
+You gain 6 Muscleboundness
+You gain 1 Enchantedness
+You gain 4 Cheek
+
+[19294] Bat Hole Entryway
+Encounter: regular old bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: regular old bat takes 925 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+52) (+1) (+1) damage.
+Round 2: regular old bat takes 58 damage.
+Round 2: boolicious wins the fight!
+You gain 48 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You gain 5 Fortitude
+You gain 3 Mysteriousness
+You gain 3 Smarm
+
+[19295] Bat Hole Entryway
+Encounter: albino bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: albino bat takes 881 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+52) (+1) (+1) damage.
+Round 2: albino bat takes 58 damage.
+Round 2: boolicious wins the fight!
+You gain 43 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: bat guano
+You acquire an item: pink bat eye
+You gain 3 Fortitude
+You gain 2 Magicalness
+You gain 6 Sarcasm
+
+[19296] Bat Hole Entryway
+Encounter: albino bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: albino bat takes 879 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+53) (+1) (+1) damage.
+Round 2: albino bat takes 59 damage.
+Round 2: boolicious wins the fight!
+You gain 43 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You acquire an item: pink bat eye
+You gain 3 Fortitude
+You gain 3 Enchantedness
+You gain 5 Smarm
+
+[19297] Bat Hole Entryway
+Encounter: pine bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: pine bat takes 902 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+52) (+1) (+1) damage.
+Round 2: pine bat takes 58 damage.
+Round 2: boolicious wins the fight!
+You gain 48 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: bat wing
+You gain 7 Muscleboundness
+You gain 1 Wizardliness
+You gain 3 Smarm
+
+[19298] Bat Hole Entryway
+Encounter: pine bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: pine bat takes 884 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+53) (+1) (+1) damage.
+Round 2: pine bat takes 59 damage.
+Round 2: boolicious wins the fight!
+You gain 50 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: Pine-Fresh air freshener
+You gain 5 Strengthliness
+You gain 3 Wizardliness
+You gain 4 Chutzpah
+
+[19299] Bat Hole Entryway
+Encounter: regular old bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: regular old bat takes 881 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+49) (+1) (+1) damage.
+Round 2: regular old bat takes 55 damage.
+Round 2: boolicious wins the fight!
+You gain 46 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You acquire an item: bat guano
+You gain 5 Fortitude
+You gain 4 Enchantedness
+You gain 2 Chutzpah
+
+[19300] Bat Hole Entryway
+Encounter: regular old bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: regular old bat takes 884 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+53) (+1) (+1) damage.
+Round 2: regular old bat takes 59 damage.
+Round 2: boolicious wins the fight!
+You gain 48 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You acquire an item: bat guano
+You gain 6 Fortitude
+You gain 5 Sarcasm
+
+[19301] Bat Hole Entryway
+Encounter: pine bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: pine bat takes 938 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+59) (+1) (+1) damage.
+Round 2: pine bat takes 65 damage.
+Round 2: boolicious wins the fight!
+You gain 50 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You acquire an item: bat wing
+You gain 5 Fortitude
+You gain 4 Mysteriousness
+You gain 3 Chutzpah
+
+[19302] Bat Hole Entryway
+Encounter: regular old bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: regular old bat takes 891 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+46) (+1) (+1) damage.
+Round 2: regular old bat takes 52 damage.
+Round 2: boolicious wins the fight!
+You gain 50 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: bat wing
+You gain 3 Strongness
+You gain 3 Wizardliness
+You gain 5 Roguishness
+
+[19303] Bat Hole Entryway
+Encounter: albino bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: albino bat takes 894 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+53) (+1) (+1) damage.
+Round 2: albino bat takes 59 damage.
+Round 2: boolicious wins the fight!
+You gain 43 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You acquire an item: pink bat eye
+You gain 4 Fortitude
+You gain 3 Enchantedness
+You gain 4 Chutzpah
+
+[19304] Bat Hole Entryway
+Encounter: albino bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: albino bat takes 896 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+58) (+1) (+1) damage.
+Round 2: albino bat takes 64 damage.
+Round 2: boolicious wins the fight!
+You gain 41 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: pink bat eye
+You gain 5 Strongness
+You gain 2 Magicalness
+You gain 4 Sarcasm
+
+[19305] Bat Hole Entryway
+Encounter: regular old bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: regular old bat takes 893 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+53) (+1) (+1) damage.
+Round 2: regular old bat takes 59 damage.
+Round 2: boolicious wins the fight!
+You gain 40 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You acquire an item: bat wing
+You gain 6 Strengthliness
+You gain 2 Magicalness
+You gain 1 Sarcasm
+
+[19306] Bat Hole Entryway
+Encounter: albino bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: albino bat takes 878 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+54) (+1) (+1) damage.
+Round 2: albino bat takes 60 damage.
+Round 2: boolicious wins the fight!
+You gain 49 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: pink bat eye
+You gain 2 Fortitude
+You gain 1 Wizardliness
+You gain 6 Chutzpah
+
+[19307] Bat Hole Entryway
+Encounter: albino bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: albino bat takes 881 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+52) (+1) (+1) damage.
+Round 2: albino bat takes 58 damage.
+Round 2: boolicious wins the fight!
+You gain 40 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You acquire an item: pink bat eye
+You gain 6 Beefiness
+You gain 2 Wizardliness
+You gain 1 Cheek
+
+[19308] Bat Hole Entryway
+Encounter: albino bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: albino bat takes 902 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+51) (+1) (+1) damage.
+Round 2: albino bat takes 57 damage.
+Round 2: boolicious wins the fight!
+You gain 40 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You acquire an item: pink bat eye
+You gain 5 Muscleboundness
+You gain 3 Magicalness
+You gain 1 Sarcasm
+
+[19309] Bat Hole Entryway
+Encounter: regular old bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: regular old bat takes 897 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+58) (+1) (+1) damage.
+Round 2: regular old bat takes 64 damage.
+Round 2: boolicious wins the fight!
+You gain 58 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: bat guano
+You gain 5 Beefiness
+You gain 4 Smarm
+
+[19310] Bat Hole Entryway
+Encounter: pine bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: pine bat takes 882 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+50) (+1) (+1) damage.
+Round 2: pine bat takes 56 damage.
+Round 2: boolicious wins the fight!
+You gain 49 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: bat wing
+You gain 4 Strengthliness
+You gain 2 Enchantedness
+You gain 3 Sarcasm
+
+[19311] Bat Hole Entryway
+Encounter: albino bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: albino bat takes 893 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+50) (+1) (+1) damage.
+Round 2: albino bat takes 56 damage.
+Round 2: boolicious wins the fight!
+You gain 51 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: pink bat eye
+You gain 6 Beefiness
+You gain 2 Magicalness
+You gain 1 Sarcasm
+
+[19312] Bat Hole Entryway
+Encounter: pine bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: pine bat takes 895 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+55) (+1) (+1) damage.
+Round 2: pine bat takes 61 damage.
+Round 2: boolicious wins the fight!
+You gain 47 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You acquire an item: Pine-Fresh air freshener
+You gain 3 Strengthliness
+You gain 7 Smarm
+
+[19313] Bat Hole Entryway
+Encounter: regular old bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: regular old bat takes 878 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+53) (+1) (+1) damage.
+Round 2: regular old bat takes 59 damage.
+Round 2: boolicious wins the fight!
+You gain 49 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You gain 8 Beefiness
+You gain 1 Magicalness
+You gain 1 Smarm
+
+[19314] Bat Hole Entryway
+Encounter: regular old bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: regular old bat takes 891 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+60) (+1) (+1) damage.
+Round 2: regular old bat takes 66 damage.
+Round 2: boolicious wins the fight!
+You gain 49 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You gain 3 Strongness
+You gain 4 Enchantedness
+You gain 2 Smarm
+
+[19315] Bat Hole Entryway
+Encounter: regular old bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: regular old bat takes 929 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+56) (+1) (+1) damage.
+Round 2: regular old bat takes 62 damage.
+Round 2: boolicious wins the fight!
+You gain 56 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: bat wing
+You gain 4 Fortitude
+You gain 3 Enchantedness
+You gain 2 Smarm
+
+[19316] Bat Hole Entryway
+Encounter: pine bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: pine bat takes 891 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+58) (+1) (+1) damage.
+Round 2: pine bat takes 64 damage.
+Round 2: boolicious wins the fight!
+You gain 45 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You gain 6 Strongness
+You gain 4 Magicalness
+
+[19317] Bat Hole Entryway
+Encounter: regular old bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: regular old bat takes 893 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+48) (+1) (+1) damage.
+Round 2: regular old bat takes 54 damage.
+Round 2: boolicious wins the fight!
+You gain 49 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You gain 5 Strengthliness
+You gain 2 Mysteriousness
+You gain 2 Chutzpah
+
+[19318] Bat Hole Entryway
+Encounter: albino bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: albino bat takes 888 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+59) (+1) (+1) damage.
+Round 2: albino bat takes 65 damage.
+Round 2: boolicious wins the fight!
+You gain 40 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: pink bat eye
+You gain 5 Strongness
+You gain 2 Enchantedness
+You gain 2 Cheek
+
+[19319] Bat Hole Entryway
+Encounter: pine bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: pine bat takes 890 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+49) (+1) (+1) damage.
+Round 2: pine bat takes 55 damage.
+Round 2: boolicious wins the fight!
+You gain 45 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: Pine-Fresh air freshener
+You gain 8 Muscleboundness
+You gain 2 Roguishness
+
+[19320] Bat Hole Entryway
+Encounter: regular old bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 2 hit points
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+54) (+1) (+1) damage.
+Round 2: regular old bat takes 60 damage.
+Round 2: boolicious wins the fight!
+You gain 39 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You acquire an item: bat guano
+You gain 3 Beefiness
+You gain 1 Mysteriousness
+You gain 5 Cheek
+
+[19321] Bat Hole Entryway
+Encounter: albino bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: albino bat takes 890 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+51) (+1) (+1) damage.
+Round 2: albino bat takes 57 damage.
+Round 2: boolicious wins the fight!
+You gain 33 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You acquire an item: pink bat eye
+You gain 7 Strongness
+You gain 2 Smarm
+
+[19322] Bat Hole Entryway
+Encounter: regular old bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: regular old bat takes 894 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+52) (+1) (+1) damage.
+Round 2: regular old bat takes 58 damage.
+Round 2: boolicious wins the fight!
+You gain 46 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You gain 7 Strongness
+You gain 3 Smarm
+
+[19323] Bat Hole Entryway
+Encounter: albino bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: albino bat takes 876 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+54) (+1) (+1) damage.
+Round 2: albino bat takes 60 damage.
+Round 2: boolicious wins the fight!
+You gain 35 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: bat guano
+You acquire an item: pink bat eye
+You gain 5 Strengthliness
+You gain 3 Magicalness
+You gain 1 Roguishness
+
+[19324] Bat Hole Entryway
+Encounter: pine bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: pine bat takes 886 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+54) (+1) (+1) damage.
+Round 2: pine bat takes 60 damage.
+Round 2: boolicious wins the fight!
+You gain 44 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: bat wing
+You gain 8 Beefiness
+You gain 2 Mysteriousness
+
+[19325] Bat Hole Entryway
+Encounter: albino bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: albino bat takes 887 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+49) (+1) (+1) damage.
+Round 2: albino bat takes 55 damage.
+Round 2: boolicious wins the fight!
+You gain 35 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: batgut
+You acquire an item: pink bat eye
+You gain 5 Strengthliness
+You gain 2 Mysteriousness
+You gain 2 Chutzpah
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+Cook 1 bird rib + 1 lion oil
+You acquire an item: wet stew
+Crafting used 1 each of bird rib and lion oil
+
+Use 2 peppermint sprout
+You acquire an item: peppermint patty
+
+buy 1 milk of magnesium for 1154 each from 185003 on 20120213
+You acquire an item: milk of magnesium
+
+use 1 milk of magnesium
+You acquire an effect: Got Milk (duration: 10 Adventures)
+
+eat 2 elven hardtack
+You gain 8 Adventures
+You gain 31 Strengthliness
+You gain 24 Enchantedness
+You gain 27 Sarcasm
+You gain 3 Fullness
+You lose some of an effect: Got Milk
+You gain 9 Adventures
+You gain 28 Beefiness
+You gain 22 Enchantedness
+You gain 20 Chutzpah
+You gain 3 Fullness
+You lose some of an effect: Got Milk
+
+eat 1 peppermint patty
+You gain 14 Adventures
+You gain 19 Muscleboundness
+You gain 15 Wizardliness
+You gain 12 Smarm
+You gain 2 Fullness
+You lose some of an effect: Got Milk
+
+eat 1 wet stew
+You gain 17 Adventures
+You gain 21 Fortitude
+You gain 6 Fullness
+You lose an effect: Got Milk
+
+drink 1 Barulio's bottle
+You gain 13 Adventures
+You gain 5 Fortitude
+You gain 20 Magicalness
+You gain 8 Roguishness
+You gain 4 Drunkenness
+
+drink 1 perpendicular hula
+You gain 12 Adventures
+You gain 36 Smarm
+You gain 4 Drunkenness
+
+drink 2 margarita
+You gain 6 Adventures
+You gain 9 Beefiness
+You gain 3 Drunkenness
+You gain 5 Adventures
+You gain 11 Muscleboundness
+You gain 3 Drunkenness
+custom outfit Sewer Togs
+
+equip acc2 ring of conflict
+
+equip weapon goatskin umbrella
+
+equip off-hand hobo code binder
+
+equip off-hand hobo code binder
+
+[19326] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 508 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+58) (+1) (+1) damage.
+Round 2: giant zombie goldfish takes 64 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: decaying goldfish liver
+You acquire an item: sewer nuggets
+You gain 32 Strengthliness
+You gain 22 Mysteriousness
+You gain 17 Sarcasm
+
+[19327] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 536 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at him to prove his point, and to do 1 (+1) (+1) (+1) (+53) (+1) (+1) damage.
+Round 2: c. h. u. m. takes 59 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: sewer nuggets
+You gain 41 Strongness
+You gain 19 Enchantedness
+You gain 15 Sarcasm
+
+[19328] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?pwd&whichchoice=199&option=1
+
+[19329] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 519 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at him to prove his point, and to do 1 (+1) (+1) (+1) (+47) (+1) (+1) damage.
+Round 2: c. h. u. m. takes 53 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: sewer nuggets
+You gain 35 Strengthliness
+You gain 20 Enchantedness
+You gain 19 Sarcasm
+
+[19330] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 511 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+57) (+1) (+1) damage.
+Round 2: sewer gator takes 63 damage.
+Round 2: boolicious wins the fight!
+You gain 142 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: gator skin
+You gain 33 Strengthliness
+You gain 20 Wizardliness
+You gain 16 Cheek
+You gain a Moxie point!
+
+[19331] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a salamander!
+Round 2: boolicious uses the Gnomitronic Hyperspatial Demodulizer!
+Round 3: salamander takes 9 damage.
+You acquire an effect: Super-Mega-Ultra-Hyper-Charged (duration: 5 Adventures)
+Round 3: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+54) (+1) (+1) damage.
+Round 3: salamander takes 60 damage.
+Round 3: boolicious wins the fight!
+You gain 21 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: salamander spleen
+You gain 2 Fortitude
+
+[19332] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 654 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+53) (+1) (+1) damage.
+Round 2: giant zombie goldfish takes 59 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: decaying goldfish liver
+You gain 41 Fortitude
+You gain a Muscle point!
+You gain 13 Magicalness
+You gain 18 Smarm
+
+[19333] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 650 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at him to prove his point, and to do 1 (+1) (+1) (+1) (+56) (+1) (+1) damage.
+Round 2: c. h. u. m. takes 62 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You gain 42 Strongness
+You gain 15 Magicalness
+You gain 18 Sarcasm
+
+[19334] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 655 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+50) (+1) (+1) damage.
+Round 2: sewer gator takes 56 damage.
+Round 2: boolicious wins the fight!
+You gain 152 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You gain 41 Fortitude
+You gain 21 Magicalness
+You gain 9 Chutzpah
+
+[19335] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 664 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+50) (+1) (+1) damage.
+Round 2: giant zombie goldfish takes 56 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: sewer nuggets
+You gain 29 Strongness
+You gain 25 Magicalness
+You gain 16 Smarm
+
+[19336] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?pwd&whichchoice=199&option=1
+
+[19337] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 515 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+51) (+1) (+1) damage.
+Round 2: giant zombie goldfish takes 57 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: decaying goldfish liver
+You acquire an item: sewer nuggets
+You acquire an item: sewer nuggets
+You gain 42 Strongness
+You gain 18 Wizardliness
+You gain 12 Sarcasm
+
+[19338] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 516 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at him to prove his point, and to do 1 (+1) (+1) (+1) (+57) (+1) (+1) damage.
+Round 2: c. h. u. m. takes 63 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: sewer nuggets
+You gain 41 Strengthliness
+You gain 18 Wizardliness
+You gain 15 Smarm
+
+[19339] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 525 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+45) (+1) (+1) damage.
+Round 2: sewer gator takes 51 damage.
+Round 2: boolicious wins the fight!
+You gain 142 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: gator skin
+You gain 38 Beefiness
+You gain 15 Enchantedness
+You gain 18 Roguishness
+
+[19340] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/1: take the tunnel
+choice.php?pwd&whichchoice=198&option=1
+
+[19341] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 523 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+57) (+1) (+1) damage.
+Round 2: sewer gator takes 63 damage.
+Round 2: boolicious wins the fight!
+You gain 152 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: sewer nuggets
+You acquire an item: sewer nuggets
+You gain 32 Strongness
+You gain 17 Wizardliness
+You gain 20 Roguishness
+
+[19342] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 522 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+52) (+1) (+1) damage.
+Round 2: sewer gator takes 58 damage.
+Round 2: boolicious wins the fight!
+You gain 161 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: sewer nuggets
+You gain 33 Muscleboundness
+You gain 20 Wizardliness
+You gain 17 Cheek
+
+[19343] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/1: take the tunnel
+choice.php?pwd&whichchoice=197&option=1
+
+[19344] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 520 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+54) (+1) (+1) damage.
+Round 2: sewer gator takes 60 damage.
+Round 2: boolicious wins the fight!
+You gain 152 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: gator skin
+You acquire an item: sewer nuggets
+You acquire an item: sewer nuggets
+You gain 36 Muscleboundness
+You gain 20 Mysteriousness
+You gain 14 Chutzpah
+
+[19345] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/3: turn the valve
+choice.php?pwd&whichchoice=197&option=3
+
+[19346] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 558 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+60) (+1) (+1) damage.
+Round 2: giant zombie goldfish takes 66 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: sewer nuggets
+You gain 40 Fortitude
+You gain 16 Magicalness
+You gain 15 Cheek
+
+[19347] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/3: open the grate
+choice.php?pwd&whichchoice=198&option=3
+
+[19348] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/3: turn the valve
+choice.php?pwd&whichchoice=197&option=3
+
+[19349] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 514 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+53) (+1) (+1) damage.
+Round 2: sewer gator takes 59 damage.
+Round 2: boolicious wins the fight!
+You gain 167 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: gator skin
+You acquire an item: sewer nuggets
+You gain 35 Fortitude
+You gain 21 Enchantedness
+You gain 14 Cheek
+
+[19350] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/3: turn the valve
+choice.php?pwd&whichchoice=197&option=3
+
+[19351] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/3: open the grate
+choice.php?pwd&whichchoice=198&option=3
+
+[19352] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 521 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at him to prove his point, and to do 1 (+1) (+1) (+1) (+46) (+1) (+1) damage.
+Round 2: c. h. u. m. takes 52 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: bottle of sewage schnapps
+You acquire an item: sewer nuggets
+You gain 37 Strongness
+You gain 13 Magicalness
+You gain 24 Smarm
+
+[19353] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 522 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at him to prove his point, and to do 1 (+1) (+1) (+1) (+53) (+1) (+1) damage.
+Round 2: c. h. u. m. takes 59 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: bottle of sewage schnapps
+You acquire an item: sewer nuggets
+You gain 37 Muscleboundness
+You gain 22 Magicalness
+You gain a Mysticality point!
+You gain 15 Sarcasm
+
+[19354] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/3: turn the valve
+choice.php?pwd&whichchoice=197&option=3
+
+[19355] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 10 hit points
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at him to prove his point, and to do 1 (+1) (+1) (+1) (+48) (+1) (+1) damage.
+Round 2: c. h. u. m. takes 54 damage.
+Round 2: boolicious attacks!
+Round 3: c. h. u. m. takes 528 damage.
+Round 3: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at him to prove his point, and to do 1 (+1) (+1) (+1) (+46) (+1) (+1) damage.
+Round 3: c. h. u. m. takes 52 damage.
+Round 3: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You gain 46 Muscleboundness
+You gain 15 Enchantedness
+You gain 14 Cheek
+
+[19356] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 521 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at him to prove his point, and to do 1 (+1) (+1) (+1) (+51) (+1) (+1) damage.
+Round 2: c. h. u. m. takes 57 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: bottle of sewage schnapps
+You gain 46 Strongness
+You gain 11 Mysteriousness
+You gain 18 Smarm
+
+[19357] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 525 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+54) (+1) (+1) damage.
+Round 2: giant zombie goldfish takes 60 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: sewer nuggets
+You acquire an item: sewer nuggets
+You gain 39 Strengthliness
+You gain 19 Mysteriousness
+You gain 14 Roguishness
+
+[19358] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 511 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+60) (+1) (+1) damage.
+Round 2: sewer gator takes 66 damage.
+Round 2: boolicious wins the fight!
+You gain 150 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: sewer nuggets
+You acquire an item: sewer nuggets
+You gain 36 Strengthliness
+You gain 21 Mysteriousness
+You gain 13 Chutzpah
+
+[19359] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/3: open the grate
+choice.php?pwd&whichchoice=198&option=3
+
+[19360] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 524 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at him to prove his point, and to do 1 (+1) (+1) (+1) (+47) (+1) (+1) damage.
+Round 2: c. h. u. m. takes 53 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: bottle of sewage schnapps
+You gain 42 Muscleboundness
+You gain 18 Wizardliness
+You gain 14 Chutzpah
+
+[19361] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 530 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+54) (+1) (+1) damage.
+Round 2: giant zombie goldfish takes 60 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: decaying goldfish liver
+You acquire an item: sewer nuggets
+You gain 41 Fortitude
+You gain 13 Enchantedness
+You gain 17 Roguishness
+
+[19362] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 514 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+51) (+1) (+1) damage.
+Round 2: giant zombie goldfish takes 57 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: sewer nuggets
+You gain 42 Muscleboundness
+You gain 11 Magicalness
+You gain 18 Smarm
+
+[19363] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 516 damage.
+Round 2: "I declare," Heckel &amp; Jeckyl says, "this skirt positively reeks of patchouli oil and excessive body hair! It is most unbecoming!" He wafts the skirt at it to prove his point, and to do 1 (+1) (+1) (+1) (+60) (+1) (+1) damage.
+Round 2: sewer gator takes 66 damage.
+Round 2: boolicious wins the fight!
+You gain 148 Meat
+After Battle: Heckel &amp; Jeckyl says, "although this skirt reeks of communism, it does waft about most enchantingly when I cut a rug, don't you agree?" You nod while he pirouettes.
+You acquire an item: gator skin
+You acquire an item: sewer nuggets
+You gain 32 Strengthliness
+You gain 16 Magicalness
+You gain 21 Sarcasm
+
+mall.php?didadv=0&pudnuggler=clover&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+
+buy 1 disassembled clover for 200 each from 984038 on 20120213
+You acquire an item: disassembled clover
+unequip weapon
+unequip offhand
+
+equip shirt General Sage's Lonely Diamonds Club Jacket
+
+equip acc1 fudgecycle
+
+equip acc2 time halo
+
+equip acc3 wristwatch of the white knight
