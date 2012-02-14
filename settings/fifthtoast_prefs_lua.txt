@@ -4,7 +4,7 @@ CouncilFrame=424,322,-1
 DescriptionFrame=424,322,-1
 FamiliarTrainingFrame=260,240
 KoLDesktop=56,163,-1
-LoginFrame=380,276,0
+LoginFrame=409,276,0
 MaximizerFrame=379,354
 ProfileFrame=424,322,-1
 RequestSynchFrame=337,247,-1
@@ -655,13 +655,13 @@ lastBangPotion827=detection
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=3
+lastBreakfast=4
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=11
-lastCounterDay=3
+lastCounterDay=4
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
