@@ -904,3 +904,159 @@ equip acc2 badass belt
 equip acc3 Jolly Roger charrrm bracelet
 
 familiar Cocoabo (16 lbs)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+February 14, 2012 - Martinus 5
+
+Ronald: full moon
+Grimace: first quarter
+Mini-moon: behind Ronald
+
+Valentine's Day: today
+Generic Summer Holiday: 6 days
+Dependence Day: 15 days
+Arrrbor Day: 23 days
+St. Sneaky Pete's Day: 32 days
+Lab&oacute;r Day: 33 days
+Halloween: 43 days
+Feast of Boris: 50 days
+Oyster Egg Day: 54 days
+Yuletide: 55 days
+Festival of Jarlsberg: 60 days
+El Dia De Los Muertos Borrachos: 93 days
+
+Valentine's Day
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 11
+HP: 112 / 145
+MP: 64 / 109
+
+Mus: 112 (90), tnp = 94
+Mys: 109 (88), tnp = 17
+Mox: 177 (120), tnp = 191
+
+Advs: 100
+Meat: 66,312
+Drunk: 0
+
+
+ > equipment
+
+Hat: Disco 'Fro Pick
+Weapon: Shagadelic Disco Banjo
+Off-hand: (none)
+Shirt: (none)
+Pants: swashbuckling pants
+
+Acc. 1: pirate fledges
+Acc. 2: badass belt
+Acc. 3: Jolly Roger charrrm bracelet
+
+Pet: Cocoabo (16 lbs)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chronic Indigestion
+ - Gothy Handwave
+ - Liver of Steel
+
+Disco Bandit
+ - Advanced Cocktailcrafting
+ - Disco Aerobics
+ - Disco Dance II: Electric Boogaloo
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Nap
+ - Disco Power Nap
+ - Mad Looting Skillz
+ - Nimble Fingers
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Disco State of Mind (6)
+20/20 Vision (114)
+♫ Polka of Plenty (280)
+♫ Stevedave's Shanty of Superiority (280)
+♫ Aloysius' Antiphon of Aptitude (280)
+Jingle Jangle Jingle (280)
+Jabañero Saucesphere (280)
+Scarysauce (280)
+Jalapeño Saucesphere (280)
+Empathy (280)
+Reptilian Fortitude (280)
+Tenacity of the Snapper (280)
+Astral Shell (280)
+Elemental Saucesphere (280)
+Ghostly Shell (280)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +31.00%
+
+Exp: +1.00
+Meat: +80.00%
+Item: +30.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Manual of Dexterity
+
+use 1 Trivial Avocations board game
+
+use 1 creepy voodoo doll
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+buy 1 hermit permit for 100 each from Market Demon
+You acquire an item: hermit permit
+You spent 100 Meat
+
+cast 3 Advanced Cocktailcrafting
+outfit Knob Goblin Harem Girl Disguise
+
+[2429] Cobb's Knob Treasury
+Encounter: Finally, the Payoff
+You gain 500 Meat
+
+equip hat Disco 'Fro Pick
+
+equip pants swashbuckling pants
+
+equip hat disco mask
+
+equip hat Disco 'Fro Pick
