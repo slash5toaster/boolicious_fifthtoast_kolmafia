@@ -1,5 +1,5 @@
 =4
-AdventureFrame=73,299,0
+AdventureFrame=247,134,0
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=742,435
@@ -591,7 +591,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2470
-currentFullness=0
+currentFullness=15
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -676,7 +676,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Haunted Wine Cellar (Southeast)
+lastAdventure=Hobopolis Town Square
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -739,7 +739,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=possessed wine rack
+lastEncounter=Tearbaby Louis Stipe, the Secret Collector of Decorative China
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -811,7 +811,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=12
+libramSummons=16
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -923,7 +923,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=19864\:Fortune Cookie\:fortune.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -997,7 +997,7 @@ telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=0
+tomeSummons=2
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
