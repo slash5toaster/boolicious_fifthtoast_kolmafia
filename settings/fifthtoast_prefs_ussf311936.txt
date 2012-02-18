@@ -2,8 +2,8 @@ AdventureFrame=591,183,0
 CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=2458,219,-1
-LoginFrame=2649,363,0
+KoLDesktop=2481,0,-1
+LoginFrame=2631,365,0
 MaximizerFrame=2333,376
 ProfileFrame=1916,-4,-1
 RequestSynchFrame=1916,-4,-1
@@ -165,7 +165,7 @@ ballpitBonus=1
 bankedKarma=0
 barrelGoal=1
 barrelLayout=?????????
-bartenderTurnsUsed=0
+bartenderTurnsUsed=2
 basementMallPrices=1
 battleAction=attack with weapon
 beeCounter=0
@@ -525,6 +525,8 @@ choiceAdventure567=1
 choiceAdventure568=0
 choiceAdventure569=1
 choiceAdventure571=1
+choiceAdventure572=1
+choiceAdventure573=1
 choiceAdventure574=1
 choiceAdventure6=1
 choiceAdventure7=1
@@ -558,7 +560,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=13
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -566,7 +568,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=1
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -575,9 +577,9 @@ cyrptNicheEvilness=0
 cyrptNookEvilness=44
 cyrptTotalEvilness=44
 dailyDungeonDone=false
-dbNemesisSkill1=3
-dbNemesisSkill2=4
-dbNemesisSkill3=2
+dbNemesisSkill1=6
+dbNemesisSkill2=7
+dbNemesisSkill3=3
 defaultFlowerLossMessage
 defaultFlowerWinMessage
 demonName1
@@ -657,13 +659,13 @@ lastBangPotion827=detection
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=6
+lastBreakfast=7
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=8
-lastCounterDay=6
+lastCounterDay=7
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -704,7 +706,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=breakdancing raver
+lastEncounter=pop-and-lock raver
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -880,14 +882,14 @@ rageGlandVented=false
 rainDohMonster
 raveCombo1
 raveCombo2
-raveCombo3
-raveCombo4
+raveCombo3=Pop and Lock It,Break It On Down,Run Like the Wind
+raveCombo4=Break It On Down,Pop and Lock It,Run Like the Wind
 raveCombo5
-raveCombo6
+raveCombo6=Pop and Lock It,Run Like the Wind,Break It On Down
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=2619\:Fortune Cookie\:fortune.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -935,11 +937,11 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=2
-stationaryButton2=5021
-stationaryButton3=5008
-stationaryButton4=5005
-stationaryButton5=49
+stationaryButton1=5005
+stationaryButton2=51
+stationaryButton3=50
+stationaryButton4=52
+stationaryButton5=5008
 styxPixieVisited=false
 sugarCounter4178=0
 sugarCounter4179=0
