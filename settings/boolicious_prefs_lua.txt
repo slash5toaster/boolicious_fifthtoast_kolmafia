@@ -1,5 +1,5 @@
 =4
-AdventureFrame=247,134,1
+AdventureFrame=247,134,0
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=742,435
@@ -29,7 +29,7 @@ RequestSynchFrame=338,248,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=86,126,0
-TabbedChatFrame=656,118,0
+TabbedChatFrame=656,118,1
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -198,7 +198,7 @@ ballpitBonus=100
 bankedKarma=11
 barrelGoal=1
 barrelLayout=?????????
-bartenderTurnsUsed=3
+bartenderTurnsUsed=7
 basementMallPrices=1
 battleAction=attack with weapon
 beeCounter=0
@@ -594,7 +594,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=15
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -602,7 +602,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=8
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -679,7 +679,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=A Maze of Sewer Tunnels
+lastAdventure=Burnbarrel Blvd.
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -742,7 +742,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=giant zombie goldfish
+lastEncounter=Furnace-Face Enid Goodman
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -926,7 +926,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=20135\:Fortune Cookie\:fortune.gif\:20238\:Fortune Cookie\:fortune.gif\:20298\:Fortune Cookie\:fortune.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1000,7 +1000,7 @@ telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=0
+tomeSummons=1
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true

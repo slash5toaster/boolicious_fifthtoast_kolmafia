@@ -1,14 +1,14 @@
-AdventureFrame=-102,220,0
+AdventureFrame=539,50,0
 CakeArenaFrame=424,348
 CouncilFrame=424,322,-1
 DescriptionFrame=424,322,-1
 FamiliarTrainingFrame=260,240
-KoLDesktop=515,173,-1
+KoLDesktop=-3,-3,-1
 LoginFrame=400,276,0
 MaximizerFrame=379,354
 ProfileFrame=424,322,-1
 RequestSynchFrame=337,247,-1
-TabbedChatFrame=597,113,0
+TabbedChatFrame=780,695,0
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -93,7 +93,7 @@ _transponderDrops=0
 _trivialAvocationsGame=true
 _userMods
 _vmaskAdv=0
-_zapCount=0
+_zapCount=1
 addingScrolls=2
 arcadeGameHints=false
 autoAbortThreshold=-0.05
@@ -562,7 +562,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=13
+currentFullness=14
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -570,7 +570,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=3
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -646,7 +646,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Outside the Club
+lastAdventure=Barrrney's Barrr
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=healing
@@ -677,19 +677,19 @@ lastDustyBottle2274=0
 lastDustyBottle2275=0
 lastDustyBottle2276=0
 lastDustyBottleReset=-1
-lastDwarfDiceRolls
-lastDwarfDigitRunes=-------
+lastDwarfDiceRolls=DD-JD\=20\:GA-BD\=62\:AE-DD\=21\:AD-AJ\=02\:AD-EE\=06\:BB-GE\=03\:CE-BA\=16\:
+lastDwarfDigitRunes=BJCDEAG
 lastDwarfEquipmentRunes
 lastDwarfFactoryItem118
 lastDwarfFactoryItem119
-lastDwarfFactoryItem120
-lastDwarfFactoryItem3199
-lastDwarfFactoryItem360
-lastDwarfFactoryItem361
+lastDwarfFactoryItem120=FBA
+lastDwarfFactoryItem3199=J
+lastDwarfFactoryItem360=CAN
+lastDwarfFactoryItem361=CKI
 lastDwarfFactoryItem362
-lastDwarfFactoryItem363
+lastDwarfFactoryItem363=D
 lastDwarfFactoryItem364
-lastDwarfFactoryItem365
+lastDwarfFactoryItem365=RNB
 lastDwarfFactoryItem910
 lastDwarfFactoryReset=0
 lastDwarfHopper1
@@ -708,7 +708,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=pop-and-lock raver
+lastEncounter=toothy pirate
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -857,11 +857,11 @@ questL07Cyrptic=finished
 questL08Trapper=finished
 questL09Lol=finished
 questL10Garbage=finished
-questL11MacGuffin=started
-questL11Manor=unstarted
-questL11Palindome=unstarted
-questL11Pyramid=unstarted
-questL11Worship=unstarted
+questL11MacGuffin=step2
+questL11Manor=started
+questL11Palindome=started
+questL11Pyramid=started
+questL11Worship=started
 questL12War=unstarted
 questL13Final=unstarted
 questM01Untinker=finished
@@ -886,12 +886,12 @@ raveCombo1
 raveCombo2=Run Like the Wind,Break It On Down,Pop and Lock It
 raveCombo3=Pop and Lock It,Break It On Down,Run Like the Wind
 raveCombo4=Break It On Down,Pop and Lock It,Run Like the Wind
-raveCombo5
+raveCombo5=Break It On Down,Run Like the Wind,Pop and Lock It
 raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=2678\:Fortune Cookie\:fortune.gif
+relayCounters=2724\:The Shore loc\=* shore.php\:dinghy.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -939,11 +939,11 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=5008
-stationaryButton2=50
-stationaryButton3=51
-stationaryButton4=49
-stationaryButton5=52
+stationaryButton1=5005
+stationaryButton2=5008
+stationaryButton3=5021
+stationaryButton4=2
+stationaryButton5=5012
 styxPixieVisited=false
 sugarCounter4178=0
 sugarCounter4179=0
@@ -1007,10 +1007,10 @@ valueOfStill=0
 valueOfTome=0
 violetFogGoal=0
 violetFogLayout
-volcanoMaze1
-volcanoMaze2
-volcanoMaze3
-volcanoMaze4
-volcanoMaze5
+volcanoMaze1=0,3,17,19,21,24,26,28,31,33,37,48,54,63,66,68,70,74,82,85,89,93,109,111,116,118,123,126,127,134,143,149,155,157,163,166
+volcanoMaze2=1,4,14,16,20,22,25,38,43,47,52,57,59,67,71,75,77,80,86,87,88,103,107,119,122,131,138,141,146,148,151,154
+volcanoMaze3=2,8,12,18,23,29,36,39,40,46,55,56,58,65,73,76,83,90,94,96,99,101,105,106,113,117,121,124,129,132,140,147,152,158,168
+volcanoMaze4=6,9,11,27,32,35,42,44,50,53,61,64,69,79,91,95,98,100,104,115,120,125,133,136,142,144,153,159,161,164
+volcanoMaze5=5,7,10,13,15,30,34,41,45,49,51,60,62,72,78,81,92,97,102,108,110,112,114,128,130,135,137,139,145,150,156,160,162,165,167
 warProgress=unstarted
 welcomeBackAdv=0
