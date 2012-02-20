@@ -4682,3 +4682,172 @@ You gain 98 Meat
 You gain 4 Strengthliness
 You gain 10 Magicalness
 You gain 12 Roguishness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+February 19, 2012 - Bill 2
+
+Ronald: waxing crescent
+Grimace: full moon
+Mini-moon: in back, near Ronald
+
+Generic Summer Holiday: tomorrow
+Dependence Day: 10 days
+Arrrbor Day: 18 days
+St. Sneaky Pete's Day: 27 days
+Lab&oacute;r Day: 28 days
+Halloween: 38 days
+Feast of Boris: 45 days
+Oyster Egg Day: 49 days
+Yuletide: 50 days
+Festival of Jarlsberg: 55 days
+Valentine's Day: 66 days
+El Dia De Los Muertos Borrachos: 88 days
+
+
+Muscle bonus today and yesterday.
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 12
+HP: 253 / 253
+MP: 213 / 213
+
+Mus: 220 (101), tnp = 54
+Mys: 213 (98), tnp = 84
+Mox: 333 (131), tnp = 66
+
+Advs: 99
+Meat: 44,188
+Drunk: 16
+
+
+ > equipment
+
+Hat: Disco 'Fro Pick
+Weapon: Seeger's Unstoppable Banjo
+Off-hand: (none)
+Shirt: (none)
+Pants: Volartta's bellbottoms
+
+Acc. 1: lucky rabbit's foot
+Acc. 2: pirate fledges
+Acc. 3: Bling of the New Wave
+
+Pet: Cocoabo (23 lbs)
+Item: annoying pitchfork
+
+ > skills
+
+Uncategorized
+ - Break It On Down
+ - CLEESH
+ - Chronic Indigestion
+ - Gothy Handwave
+ - Liver of Steel
+ - Pop and Lock It
+ - Run Like the Wind
+
+Disco Bandit
+ - Advanced Cocktailcrafting
+ - Ambidextrous Funkslinging
+ - Disco Aerobics
+ - Disco Dance II: Electric Boogaloo
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Face Stab
+ - Disco Fever
+ - Disco Nap
+ - Disco Power Nap
+ - Mad Looting Skillz
+ - Nimble Fingers
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Trivia Master (4)
+Disco State of Mind (6)
+♫ Polka of Plenty (380)
+♫ Aloysius' Antiphon of Aptitude (380)
+♫ Stevedave's Shanty of Superiority (380)
+Jingle Jangle Jingle (380)
+Jabañero Saucesphere (380)
+Scarysauce (380)
+Jalapeño Saucesphere (380)
+Empathy (380)
+Reptilian Fortitude (380)
+Tenacity of the Snapper (380)
+Astral Shell (380)
+Elemental Saucesphere (380)
+Ghostly Shell (380)
+
+
+ > modifiers
+
+ML: +5
+Enc: +0.00%
+Init: +81.00%
+
+Exp: +1.62
+Meat: +100.00%
+Item: +27.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Manual of Dexterity
+
+use 1 creepy voodoo doll
+outfit Knob Goblin Harem Girl Disguise
+
+[2704] Cobb's Knob Treasury
+Encounter: Finally, the Payoff
+You gain 500 Meat
+
+equip hat Disco 'Fro Pick
+
+equip pants Volartta's bellbottoms
+
+buy 1 black sheepskin diploma for 300 each from Black Market
+You acquire an item: black sheepskin diploma
+You spent 300 Meat
+
+Visiting the Bounty Hunter Hunter
+
+cast 1 Disco Aerobics
+You acquire an effect: Disco State of Mind (duration: 5 Adventures)
+
+[2705] Mysticality Vacation
+Encounter: A Fateful Trip 
+You gain 61 Magicalness
+
+[2708] Moxie Vacation
+Encounter: A Sappy Vacation
+You acquire magical ice cubes (3)
+
+[2711] Moxie Vacation
+Encounter: This mountain is pure snow!
+You gain 77 Chutzpah
+You gain a Moxie point!
+
+equip weapon chrome crossbow
+
+equip acc2 tiny plastic Crimbo reindeer
+
+equip acc3 dead guy's watch
