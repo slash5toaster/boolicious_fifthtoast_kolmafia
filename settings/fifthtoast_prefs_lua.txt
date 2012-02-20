@@ -1,10 +1,10 @@
-AdventureFrame=539,50,0
+AdventureFrame=506,50,0
 CakeArenaFrame=424,348
 CouncilFrame=424,322,-1
 DescriptionFrame=424,322,-1
 FamiliarTrainingFrame=260,240
 KoLDesktop=214,132,-1
-LoginFrame=400,276,0
+LoginFrame=409,276,0
 MaximizerFrame=379,354
 ProfileFrame=424,322,-1
 RequestSynchFrame=337,247,-1
@@ -93,7 +93,7 @@ _transponderDrops=0
 _trivialAvocationsGame=true
 _userMods
 _vmaskAdv=0
-_zapCount=1
+_zapCount=0
 addingScrolls=2
 arcadeGameHints=false
 autoAbortThreshold=-0.05
@@ -180,6 +180,7 @@ birdformStench=0
 blackPuddingsDefeated=0
 blankOutUsed=0
 bootsCharged=false
+borisPoints=0
 breakableHandling=1
 breakableHandling1964=2
 breakfastCompleted=true
@@ -562,7 +563,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=14
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -570,7 +571,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=3
+currentSpleenUse=1
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -622,7 +623,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=7
@@ -636,7 +637,7 @@ hermitHax0red=false
 heroDonationBoris=0
 heroDonationJarlsberg=0
 heroDonationSneakyPete=0
-hiddenCityLayout=0000000000000000000000000
+hiddenCityLayout=ADEFDN0000000000000000EEE
 hiddenCitySquare=0
 hippiesDefeated=0
 hpAutoRecovery=0.1
@@ -646,7 +647,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Moxie Vacation
+lastAdventure=Oasis in the Desert
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=healing
@@ -661,13 +662,13 @@ lastBangPotion827=detection
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=9
+lastBreakfast=10
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=11
-lastCounterDay=9
+lastCounterDay=10
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -708,7 +709,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=This mountain is pure snow\!
+lastEncounter=swarm of scarab beatles
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -844,7 +845,7 @@ questG02Whitecastle=finished
 questG03Ego=finished
 questG04Nemesis=finished
 questG05Dark=finished
-questG06Delivery=unstarted
+questG06Delivery=finished
 questI01Scapegoat=unstarted
 questI02Beat=unstarted
 questI02Beat =unstarted
@@ -891,7 +892,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=2724\:The Shore loc\=* shore.php\:dinghy.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
