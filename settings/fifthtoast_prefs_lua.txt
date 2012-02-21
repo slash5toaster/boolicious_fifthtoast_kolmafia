@@ -1,10 +1,10 @@
-AdventureFrame=506,50,0
+AdventureFrame=158,97,0
 CakeArenaFrame=424,348
 CouncilFrame=424,322,-1
 DescriptionFrame=424,322,-1
 FamiliarTrainingFrame=260,240
 KoLDesktop=214,132,-1
-LoginFrame=409,276,0
+LoginFrame=404,276,0
 MaximizerFrame=379,354
 ProfileFrame=424,322,-1
 RequestSynchFrame=337,247,-1
@@ -563,7 +563,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=2
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -571,7 +571,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=1
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -647,7 +647,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Oasis in the Desert
+lastAdventure=Desert (Ultrahydrated)
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=healing
@@ -662,13 +662,13 @@ lastBangPotion827=detection
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=10
+lastBreakfast=11
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=11
-lastCounterDay=10
+lastCouncilVisit=12
+lastCounterDay=11
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -709,7 +709,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=swarm of scarab beatles
+lastEncounter=cactuary
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -861,8 +861,8 @@ questL10Garbage=finished
 questL11MacGuffin=step2
 questL11Manor=started
 questL11Palindome=started
-questL11Pyramid=started
-questL11Worship=started
+questL11Pyramid=step2
+questL11Worship=step3
 questL12War=unstarted
 questL13Final=unstarted
 questM01Untinker=finished
