@@ -235,3 +235,1509 @@ You acquire an item: disassembled clover
 
 manageprices.php?action=update&price5265=8000&limit5265=0&price5254=7895&limit5254=0&price5280=7800&limit5280=0&price5539=7800&limit5539=1&price5270=7300&limit5270=0&price196=1495&limit196=1&price4212=800&limit4212=0&price226=674&limit226=0&price594=410&limit594=0&price2687=400&limit2687=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price2275=285&limit2275=0&price2274=280&limit2274=0&price2272=276&limit2272=0&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price828=200&limit828=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price297=150&limit297=0&price4526=140&limit4526=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price550=114&limit550=0&price1=100&limit1=0
 manageprices.php?action=update&price5265=8000&limit5265=0&price5254=7895&limit5254=0&price5280=7800&limit5280=0&price5539=7800&limit5539=1&price5270=7300&limit5270=0&price196=1495&limit196=1&price4212=800&limit4212=0&price226=674&limit226=0&price594=410&limit594=0&price2687=400&limit2687=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price2275=276&limit2275=0&price2272=276&limit2272=0&price2274=275&limit2274=0&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price828=200&limit828=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price297=150&limit297=0&price4526=140&limit4526=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price550=114&limit550=0&price1=100&limit1=0
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+February 22, 2012 - Bill 5
+
+Ronald: full moon
+Grimace: third quarter
+Mini-moon: in front of Grimace, L side
+
+Dependence Day: 7 days
+Arrrbor Day: 15 days
+St. Sneaky Pete's Day: 24 days
+Lab&oacute;r Day: 25 days
+Halloween: 35 days
+Feast of Boris: 42 days
+Oyster Egg Day: 46 days
+Yuletide: 47 days
+Festival of Jarlsberg: 52 days
+Valentine's Day: 63 days
+El Dia De Los Muertos Borrachos: 85 days
+Generic Summer Holiday: 94 days
+
+
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 28
+HP: 1424 / 1,424
+MP: 78 / 999
+
+Mus: 894 (744), tnp = 532
+Mys: 644 (536), tnp = 215
+Mox: 638 (531), tnp = 785
+
+Advs: 200
+Meat: 175,945
+Drunk: 0
+
+
+ > equipment
+
+Hat: straw hat
+Weapon: (none)
+Off-hand: (none)
+Shirt: General Sage's Lonely Diamonds Club Jacket
+Pants: Hodgman's lobsterskin pants
+
+Acc. 1: fudgecycle
+Acc. 2: time halo
+Acc. 3: wristwatch of the white knight
+
+Pet: Fancypants Scarecrow (11 lbs)
+Item: Knob Goblin Uberpants
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Creepy Lullaby
+ - Drunken Baby Style
+ - Eggsplosion
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Empathy (336)
+♫ Polka of Plenty (336)
+Jabañero Saucesphere (386)
+Scarysauce (402)
+♫ Fat Leon's Phat Loot Lyric (420)
+Jalapeño Saucesphere (420)
+Astral Shell (420)
+Tenacity of the Snapper (420)
+♫ The Sonata of Sneakiness (545)
+Reptilian Fortitude (601)
+Jingle Jangle Jingle (673)
+Salamanderenity (744)
+Retrograde Relaxation (766)
+Elemental Saucesphere (791)
+Patience of the Tortoise (908)
+Ghostly Shell (1,602)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: +10.00%
+
+Exp: +0.00
+Meat: +80.00%
+Item: +117.60%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+use 1 Manual of Labor
+
+use 1 Chester's bag of candy
+
+use 1 Trivial Avocations board game
+
+use 1 creepy voodoo doll
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+cast 7 Summon Resolutions
+
+use 1 Oscus's neverending soda
+You gain 274 Muscularity Points
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 12 bundles of receipts
+
+[20720] Cobb's Knob Treasury
+Encounter: Treasury Chest
+You gain 300 Meat
+
+[20721] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mba takes 218 damage.
+Round 2: boolicious wins the fight!
+You gain 115 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 5 Fortitude
+You gain 3 Wizardliness
+
+[20722] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mba takes 219 damage.
+Round 2: boolicious wins the fight!
+You gain 136 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat stack
+You acquire an item: meat stack
+You acquire an item: baggie of powdered sugar
+You gain 5 Fortitude
+You gain 2 Magicalness
+You gain 2 Smarm
+
+[20723] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin accountant takes 222 damage.
+Round 2: boolicious wins the fight!
+You gain 81 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat stack
+You gain 4 Strengthliness
+You gain 3 Wizardliness
+
+equip weapon octopus's spade
+
+equip off-hand Hodgman's metal detector
+
+equip shirt cane-mail shirt
+
+equip acc1 Baron von Ratsworth's monocle
+
+equip acc2 Zinc Delta of Tranquility
+
+equip acc3 Hodgman's lucky sock
+
+buy 1 Knob Goblin eyedrops for 200 each from 1945689 on 20120222
+You acquire an item: Knob Goblin eyedrops
+
+use 1 Knob Goblin eyedrops
+You acquire an effect: Peeled Eyeballs (duration: 10 Adventures)
+
+buy 1 eyedrops of the ermine for 440 each from 1117265 on 20120222
+You acquire an item: eyedrops of the ermine
+
+use 1 eyedrops of the ermine
+You acquire an effect: Ermine Eyes (duration: 5 Adventures)
+
+buy 1 milky potion for 120 each from 196620 on 20120222
+You acquire an item: milky potion of detection
+
+use 1 milky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+buy 1 love song of disturbing obsession for 480 each from 598713 on 20120222
+You acquire an item: love song of disturbing obsession
+
+use 1 love song of disturbing obsession
+You acquire an effect: Withered Heart (duration: 5 Adventures)
+friars blessing 3
+You acquire an effect: Brother Smothers's Blessing (duration: 20 Adventures)
+
+use 1 bottle of bubbles
+You acquire an effect: Bubble Vision (duration: 100 Adventures)
+
+[20724] Hobopolis Town Square
+Encounter: Marketplace Entrance
+Took choice 272/1: 342 nickels, NO  hobo code binder equipped
+choice.php?pwd&whichchoice=272&option=1
+Encounter: The Hobo Marketplace
+Took choice 232/2: unknown
+choice.php?pwd&whichchoice=232&option=2
+Encounter: Food Went A-Courtin'
+Took choice 234/1: unknown
+choice.php?pwd&whichchoice=234&option=1
+Encounter: Food, Glorious Food
+Took choice 236/2: unknown
+choice.php?pwd&whichchoice=236&option=2
+
+[20725] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin accountant takes 918 damage.
+Round 2: boolicious wins the fight!
+You gain 80 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: flimsy clipboard
+You acquire an item: meat stack
+You gain 5 Strongness
+You gain 5 Magicalness
+You gain 2 Roguishness
+
+[20726] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin accountant takes 918 damage.
+Round 2: boolicious wins the fight!
+You gain 82 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: flimsy clipboard
+You acquire an item: meat stack
+You gain 5 Muscleboundness
+You gain 7 Magicalness
+You gain 1 Roguishness
+
+[20727] Cobb's Knob Treasury
+Encounter: Treasury Chest
+You gain 300 Meat
+
+[20728] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 906 damage.
+Round 2: boolicious wins the fight!
+You gain 103 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hill of beans
+You acquire an item: Knob Goblin visor
+You acquire an item: bundle of receipts
+You gain 6 Beefiness
+You gain 4 Enchantedness
+You gain 2 Chutzpah
+
+[20729] Cobb's Knob Treasury
+Encounter: Treasury Chest
+You gain 300 Meat
+
+[20730] Cobb's Knob Treasury
+Encounter: Meat Score!
+You gain 500 Meat
+
+[20731] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 909 damage.
+Round 2: boolicious wins the fight!
+You gain 108 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hill of beans
+You acquire an item: bundle of receipts
+You gain 5 Fortitude
+You gain 4 Mysteriousness
+You gain 3 Chutzpah
+
+[20732] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mba takes 923 damage.
+Round 2: boolicious wins the fight!
+You gain 127 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat stack
+You acquire an item: meat stack
+You gain 2 Strongness
+You gain 9 Mysteriousness
+You gain 3 Roguishness
+
+[20733] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 915 damage.
+Round 2: boolicious wins the fight!
+You gain 112 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hill of beans
+You acquire an item: bundle of receipts
+You acquire an item: stolen office supplies
+You gain 4 Muscleboundness
+You gain 3 Wizardliness
+You gain 4 Roguishness
+
+[20734] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mba takes 908 damage.
+Round 2: boolicious wins the fight!
+You gain 136 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat stack
+You acquire an item: baggie of powdered sugar
+You gain 9 Fortitude
+You gain 2 Mysteriousness
+You gain 2 Smarm
+
+[20735] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin accountant takes 917 damage.
+Round 2: boolicious wins the fight!
+You gain 111 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 6 Muscleboundness
+You gain 5 Magicalness
+You gain 2 Chutzpah
+
+[20736] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 924 damage.
+Round 2: boolicious wins the fight!
+You gain 128 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hill of beans
+You acquire an item: bundle of receipts
+You gain 3 Strengthliness
+You gain 9 Enchantedness
+You gain 2 Chutzpah
+
+[20737] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mba takes 905 damage.
+Round 2: boolicious wins the fight!
+You gain 134 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: baggie of powdered sugar
+You gain 6 Strongness
+You gain 4 Mysteriousness
+You gain 3 Cheek
+
+[20738] Cobb's Knob Treasury
+Encounter: Treasury Chest
+You gain 300 Meat
+
+[20739] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mba takes 908 damage.
+Round 2: boolicious wins the fight!
+You gain 161 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat stack
+You gain 8 Fortitude
+You gain 3 Wizardliness
+You gain 2 Smarm
+
+[20740] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mba takes 917 damage.
+Round 2: boolicious wins the fight!
+You gain 156 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 5 Fortitude
+You gain 3 Wizardliness
+You gain 5 Cheek
+
+[20741] Cobb's Knob Treasury
+Encounter: Meat Score!
+You gain 500 Meat
+
+[20742] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mba takes 911 damage.
+Round 2: boolicious wins the fight!
+You gain 136 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat stack
+You gain 9 Strengthliness
+You gain 3 Mysteriousness
+You gain 1 Cheek
+
+[20743] Cobb's Knob Treasury
+Encounter: Meat Score!
+You gain 500 Meat
+
+[20744] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 7 hit points
+Round 2: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles him, holding him down for a round.
+Round 2: boolicious attacks!
+You lose 14 hit points
+Round 3: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles him, holding him down for a round.
+Round 3: boolicious attacks!
+Round 4: knob goblin mba takes 923 damage.
+Round 4: boolicious wins the fight!
+You gain 154 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat stack
+You acquire an item: meat stack
+You gain 7 Fortitude
+You gain 3 Magicalness
+You gain 3 Roguishness
+
+[20745] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 913 damage.
+Round 2: boolicious wins the fight!
+You gain 122 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hill of beans
+You acquire an item: bundle of receipts
+You acquire an item: stolen office supplies
+You gain 5 Beefiness
+You gain 2 Magicalness
+You gain 6 Chutzpah
+
+[20746] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin accountant takes 917 damage.
+Round 2: boolicious wins the fight!
+You gain 93 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat stack
+You gain 4 Muscleboundness
+You gain 5 Wizardliness
+You gain 4 Chutzpah
+
+[20747] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mba takes 915 damage.
+Round 2: boolicious wins the fight!
+You gain 128 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 6 Fortitude
+You gain 5 Mysteriousness
+You gain 2 Roguishness
+
+[20748] Cobb's Knob Treasury
+Encounter: Treasury Chest
+You gain 300 Meat
+
+[20749] Cobb's Knob Treasury
+Encounter: Treasury Chest
+You gain 300 Meat
+
+[20750] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mba takes 911 damage.
+Round 2: boolicious wins the fight!
+You gain 134 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat stack
+You acquire an item: meat stack
+You acquire an item: baggie of powdered sugar
+You gain 5 Strengthliness
+You gain 5 Magicalness
+You gain 3 Smarm
+
+[20751] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 916 damage.
+Round 2: boolicious wins the fight!
+You gain 118 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hill of beans
+You acquire an item: bundle of receipts
+You gain 6 Beefiness
+You gain 8 Mysteriousness
+
+[20752] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mba takes 907 damage.
+Round 2: boolicious wins the fight!
+You gain 144 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat stack
+You gain 8 Strengthliness
+You gain 3 Enchantedness
+You gain 2 Smarm
+
+[20753] Cobb's Knob Treasury
+Encounter: Meat Score!
+You gain 500 Meat
+
+[20754] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 917 damage.
+Round 2: boolicious wins the fight!
+You gain 126 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hill of beans
+You acquire an item: bundle of receipts
+You gain 9 Strengthliness
+You gain 3 Mysteriousness
+You gain 1 Chutzpah
+
+[20755] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin accountant takes 936 damage.
+Round 2: boolicious wins the fight!
+You gain 101 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat stack
+You gain 6 Fortitude
+You gain 5 Magicalness
+You gain 1 Roguishness
+
+[20756] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 944 damage.
+Round 2: boolicious wins the fight!
+You gain 117 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hill of beans
+You acquire an item: bundle of receipts
+You acquire an item: stolen office supplies
+You gain 7 Beefiness
+You gain 3 Enchantedness
+You gain 3 Roguishness
+
+[20757] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin accountant takes 916 damage.
+Round 2: boolicious wins the fight!
+You gain 79 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 7 Strongness
+You gain 5 Roguishness
+
+[20758] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin accountant takes 915 damage.
+Round 2: boolicious wins the fight!
+You gain 109 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat stack
+You gain 6 Strengthliness
+You gain 7 Wizardliness
+
+[20759] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mba takes 914 damage.
+Round 2: boolicious wins the fight!
+You gain 132 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat stack
+You acquire an item: meat stack
+You acquire an item: baggie of powdered sugar
+You gain 3 Strongness
+You gain 5 Mysteriousness
+You gain 6 Smarm
+
+[20760] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin accountant takes 915 damage.
+Round 2: boolicious wins the fight!
+You gain 103 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat stack
+You gain 8 Fortitude
+You gain 2 Enchantedness
+You gain 3 Sarcasm
+
+[20761] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 924 damage.
+Round 2: boolicious wins the fight!
+You gain 101 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hill of beans
+You acquire an item: bundle of receipts
+You gain 7 Beefiness
+You gain 3 Enchantedness
+You gain 3 Roguishness
+
+[20762] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 914 damage.
+Round 2: boolicious wins the fight!
+You gain 101 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hill of beans
+You acquire an item: bundle of receipts
+You gain 8 Beefiness
+You gain 2 Wizardliness
+You gain 3 Chutzpah
+
+[20763] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mba takes 905 damage.
+Round 2: boolicious wins the fight!
+You gain 126 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat stack
+You acquire an item: meat stack
+You gain 8 Muscleboundness
+You gain 5 Magicalness
+
+[20764] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mba takes 921 damage.
+Round 2: boolicious wins the fight!
+You gain 130 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat stack
+You gain 5 Strengthliness
+You gain 4 Wizardliness
+You gain 4 Chutzpah
+
+[20765] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin accountant takes 966 damage.
+Round 2: boolicious wins the fight!
+You gain 87 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 7 Strongness
+You gain 5 Chutzpah
+
+[20766] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 8 hit points
+Round 2: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles him, holding him down for a round.
+Round 2: boolicious attacks!
+Round 3: knob goblin mba takes 919 damage.
+Round 3: boolicious wins the fight!
+You gain 140 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat stack
+You acquire an item: baggie of powdered sugar
+You gain 6 Muscleboundness
+You gain 2 Magicalness
+You gain 5 Sarcasm
+
+[20767] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 909 damage.
+Round 2: boolicious wins the fight!
+You gain 107 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hill of beans
+You acquire an item: bundle of receipts
+You gain 6 Fortitude
+You gain 7 Wizardliness
+You gain 1 Roguishness
+
+[20768] Cobb's Knob Treasury
+Encounter: Treasury Chest
+You gain 300 Meat
+
+[20769] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin accountant takes 957 damage.
+Round 2: boolicious wins the fight!
+You gain 99 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: flimsy clipboard
+You acquire an item: meat stack
+You gain 7 Fortitude
+You gain 2 Enchantedness
+You gain 4 Smarm
+
+[20770] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mba takes 905 damage.
+Round 2: boolicious wins the fight!
+You gain 148 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat stack
+You gain 7 Strengthliness
+You gain 4 Magicalness
+You gain 2 Roguishness
+
+[20771] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin accountant takes 908 damage.
+Round 2: boolicious wins the fight!
+You gain 111 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: meat stack
+You gain 6 Strongness
+You gain 5 Magicalness
+You gain 1 Chutzpah
+
+[20772] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin accountant takes 923 damage.
+Round 2: boolicious wins the fight!
+You gain 103 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: flimsy clipboard
+You acquire an item: meat stack
+You gain 8 Muscleboundness
+You gain 2 Mysteriousness
+You gain 2 Chutzpah
+
+[20773] Cobb's Knob Treasury
+Encounter: Treasury Chest
+You gain 300 Meat
+
+[20774] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin accountant takes 927 damage.
+Round 2: boolicious wins the fight!
+You gain 95 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 8 Strongness
+You gain 3 Enchantedness
+You gain 2 Chutzpah
+
+[20775] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 921 damage.
+Round 2: boolicious wins the fight!
+You gain 118 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hill of beans
+You acquire an item: bundle of receipts
+You gain 5 Muscleboundness
+You gain 4 Wizardliness
+You gain 4 Chutzpah
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+[20776] Haiku Dungeon
+Encounter: gelatinous cube
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: gelatinous cube takes 943 damage.
+Round 2: boolicious wins the fight!
+You gain 40 Meat
+After Battle: After the battle, / your familiar dances 'round, / helping you find stuff.
+You acquire an item: rusty metal ring
+You acquire an item: rusty metal shaft
+You gain 3 Magicalness
+You gain 3 Roguishness
+
+[20777] Haiku Dungeon
+Encounter: Gravy Fairy Ring
+Took choice 297/2: fairy gravy boat
+choice.php?whichchoice=297&option=2&pwd
+
+[20778] Haiku Dungeon
+Encounter: amateur ninja
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: amateur ninja takes 941 damage.
+Round 2: boolicious wins the fight!
+You gain 39 Meat
+After Battle: Like a bumblebee / your familiar does a dance / pointing out more loot.
+You acquire an item: bargain flash powder
+You gain 4 Strongness
+You gain 4 Magicalness
+
+[20779] Haiku Dungeon
+Encounter: ancient insane monk
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: ancient insane monk takes 969 damage.
+Round 2: boolicious wins the fight!
+After Battle: Like a bumblebee / your familiar does a dance / pointing out more loot.
+You acquire an item: Bash-Ōs cereal
+You gain 3 Strongness
+You gain 2 Magicalness
+You gain 3 Roguishness
+
+[20780] Hobopolis Town Square
+Encounter: Daddy &quot;Calamity&quot; Reagan, the President's Long-Lost Brother
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 664 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 50 Strongness
+You gain 22 Magicalness
+You gain 19 Smarm
+Richard takes a hobo skin
+
+manageprices.php?action=update&price5265=8000&limit5265=0&price5254=7895&limit5254=0&price5280=7800&limit5280=0&price5539=7800&limit5539=1&price5270=7300&limit5270=0&price196=1500&limit196=1&price4212=800&limit4212=0&price226=674&limit226=0&price594=410&limit594=0&price2687=400&limit2687=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price2275=276&limit2275=0&price2272=276&limit2272=0&price2274=275&limit2274=0&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price828=200&limit828=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price297=150&limit297=0&price4526=140&limit4526=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price550=114&limit550=0&price1=100&limit1=0
+
+[20781] Hobopolis Town Square
+Encounter: Hard-Flossing Peter, the Child-Size
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 664 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 58 Strengthliness
+You gain 13 Mysteriousness
+You gain 19 Chutzpah
+Richard takes a hobo skin
+
+manageprices.php?action=update&price5265=8000&limit5265=0&price5254=7895&limit5254=0&price5280=7800&limit5280=0&price5539=7800&limit5539=1&price5270=7300&limit5270=0&price196=1500&limit196=1&price4212=800&limit4212=0&price226=674&limit226=0&price594=410&limit594=0&price2687=400&limit2687=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price2275=276&limit2275=0&price2272=276&limit2272=0&price2274=275&limit2274=0&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price828=200&limit828=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price297=150&limit297=0&price4526=140&limit4526=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price550=114&limit550=0&price1=100&limit1=0
+manageprices.php?action=update&price5265=8000&limit5265=0&price5254=7895&limit5254=0&price5280=7800&limit5280=0&price5539=7800&limit5539=1&price5270=7300&limit5270=0&price196=1500&limit196=1&price4212=800&limit4212=0&price226=674&limit226=0&price594=410&limit594=0&price2687=400&limit2687=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price2275=276&limit2275=0&price2272=276&limit2272=0&price2274=275&limit2274=0&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price828=200&limit828=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price297=150&limit297=0&price4526=140&limit4526=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price550=114&limit550=0&price1=100&limit1=0
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=8
+
+[20782] The Purple Light District
+Encounter: Dirty Jokin' Thad, the Uncle Who's Not Really Your Uncle
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sleaze hobo takes 669 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 43 Muscleboundness
+You gain 32 Mysteriousness
+You gain a Mysticality point!
+You gain 28 Smarm
+
+[20783] The Purple Light District
+Encounter: Peepin' Travis, the Balding Guy with a Greasy Ponytail
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sleaze hobo takes 612 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 51 Strengthliness
+You gain 29 Wizardliness
+You gain 24 Roguishness
+
+[20784] The Purple Light District
+Encounter: Poultry-Chokin' Charlie &quot;Pinky Ring&quot; Miller
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sleaze hobo takes 629 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 58 Beefiness
+You gain 27 Enchantedness
+You gain 18 Cheek
+
+[20785] The Purple Light District
+Encounter: Perry &quot;Kid Greasy&quot; Berry, the Cameraphone Panty-shot Taker
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sleaze hobo takes 627 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 46 Strongness
+You gain a Muscle point!
+You gain 39 Wizardliness
+You gain 20 Sarcasm
+
+[20786] The Purple Light District
+Encounter: Lubed-Up Hondo Thompson, the Ogler
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sleaze hobo takes 634 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 50 Strongness
+You gain 33 Magicalness
+You gain 22 Cheek
+
+clan_hobopolis.php?place=8
+clan_hobopolis.php?place=8
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=6
+
+[20787] The Heap
+Encounter: Deep Enough to Dive
+Took choice 203/2: skip adventure
+choice.php?pwd&whichchoice=203&option=2
+
+clan_hobopolis.php?place=6
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=4
+
+[20787] Burnbarrel Blvd.
+Encounter: Steven &quot;Acetylene Jim&quot; Robinson, the Flame Belcher
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: hot hobo takes 622 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 52 Beefiness
+You gain 29 Mysteriousness
+You gain 23 Sarcasm
+
+[20788] Burnbarrel Blvd.
+Encounter: Getting Tired
+Took choice 206/2: add tire to stack
+choice.php?pwd&whichchoice=206&option=2&choiceform2=Toss+the+tire+on+the+fire+gently
+
+[20789] Burnbarrel Blvd.
+Encounter: Glenn Rudd, the Kid Whose Hair Is On Fire
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hot hobo takes 628 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 54 Strengthliness
+You gain 32 Enchantedness
+You gain 19 Roguishness
+
+[20790] Burnbarrel Blvd.
+Encounter: Louis &quot;The Back Burner&quot; Tyler
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hot hobo takes 615 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 42 Beefiness
+You gain 28 Wizardliness
+You gain 33 Roguishness
+
+[20791] Burnbarrel Blvd.
+Encounter: Vince Shafer, the Heatstroke Kid
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hot hobo takes 664 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 56 Strengthliness
+You gain 28 Enchantedness
+You gain 20 Chutzpah
+
+[20792] Burnbarrel Blvd.
+Encounter: Mick &quot;Fireworks&quot; Rutgers, the Devil's Pitchfork
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hot hobo takes 626 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 60 Fortitude
+You gain 27 Enchantedness
+You gain 18 Smarm
+
+[20793] Burnbarrel Blvd.
+Encounter: Scorching Wallace &quot;Briquette&quot; Dunn
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hot hobo takes 628 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 48 Beefiness
+You gain 32 Wizardliness
+You gain 24 Chutzpah
+
+[20794] Burnbarrel Blvd.
+Encounter: Napalm Ralph Clark
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hot hobo takes 628 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 62 Beefiness
+You gain 18 Wizardliness
+You gain 23 Roguishness
+
+[20795] Burnbarrel Blvd.
+Encounter: Douglas &quot;Burn Ward&quot; White, the Molten Man
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hot hobo takes 633 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 60 Fortitude
+You gain 22 Mysteriousness
+You gain 23 Chutzpah
+
+[20796] Burnbarrel Blvd.
+Encounter: Shorty Montague, the Human Tiki-Torch
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hot hobo takes 628 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 42 Strongness
+You gain 35 Mysteriousness
+You gain 27 Smarm
+
+[20797] Burnbarrel Blvd.
+Encounter: Charbroiled Moe, Who Burns at Both Ends
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hot hobo takes 648 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 54 Fortitude
+You gain 27 Enchantedness
+You gain 24 Smarm
+
+[20798] Burnbarrel Blvd.
+Encounter: Fire-Breathin' Victor, the Tabasco Man
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hot hobo takes 630 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 58 Fortitude
+You gain 27 Wizardliness
+You gain 20 Cheek
+
+[20799] Burnbarrel Blvd.
+Encounter: Stan McNichols, the Free-Range Oven
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hot hobo takes 661 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 58 Fortitude
+You gain 28 Enchantedness
+You gain 19 Cheek
+
+[20800] Burnbarrel Blvd.
+Encounter: Pan-Fried Sting, the Red-Hot Poker
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 13 hit points
+Round 2: boolicious attacks!
+You lose 18 hit points
+You lose 123 hit points
+Round 3: boolicious attacks!
+You lose 5 hit points
+Round 4: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles him, holding him down for a round.
+Round 4: boolicious attacks!
+Round 5: hot hobo takes 627 damage.
+Round 5: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 53 Fortitude
+You gain 19 Mysteriousness
+You gain 29 Chutzpah
+
+[20801] The Ancient Hobo Burial Ground
+Encounter: Rigor Mortis Wilbur Jones
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 533 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 64 Strongness
+You gain 28 Magicalness
+You gain 37 Sarcasm
+
+[20802] The Ancient Hobo Burial Ground
+Encounter: Skeletal Curly Symington
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 531 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 60 Muscleboundness
+You gain 37 Enchantedness
+You gain 34 Sarcasm
+
+[20803] The Ancient Hobo Burial Ground
+Encounter: Dead Guy Gunther, the Corpse Groom
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 534 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 61 Beefiness
+You gain 34 Wizardliness
+You gain 36 Roguishness
+
+[20804] The Ancient Hobo Burial Ground
+Encounter: Walter North, the Dancin' Corpse
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 553 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 70 Muscleboundness
+You gain 34 Wizardliness
+You gain 29 Chutzpah
+
+[20805] The Ancient Hobo Burial Ground
+Encounter: Uncanny Agamemnon Isaacson, the Galloping Ghoul
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 532 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 60 Strongness
+You gain 38 Enchantedness
+You gain 33 Sarcasm
+
+[20806] The Ancient Hobo Burial Ground
+Encounter: Ferris Lennon, the Bony-Fingered Creep
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 539 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 63 Beefiness
+You gain 33 Enchantedness
+You gain 35 Smarm
+
+[20807] The Ancient Hobo Burial Ground
+Encounter: Dreadful Patrick &quot;Chain-Rattlin'&quot; North
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 528 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 60 Strengthliness
+You gain 37 Mysteriousness
+You gain 35 Chutzpah
+You gain a Moxie point!
+
+[20808] The Ancient Hobo Burial Ground
+Encounter: Two-Feet-in-the-Grave Dennis Wilson
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 530 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 68 Strengthliness
+You gain 30 Wizardliness
+You gain 33 Smarm
+
+[20809] The Ancient Hobo Burial Ground
+Encounter: Ghostly Monk Lennon
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 533 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 63 Muscleboundness
+You gain 39 Wizardliness
+You gain 30 Sarcasm
+
+[20810] The Ancient Hobo Burial Ground
+Encounter: Gothic Horror Achilles Walker
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 537 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 70 Strengthliness
+You gain 25 Wizardliness
+You gain 33 Roguishness
+
+[20811] The Ancient Hobo Burial Ground
+Encounter: Six-Feet-Under Ogilvy Miller
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 526 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 64 Muscleboundness
+You gain a Muscle point!
+You gain 29 Magicalness
+You gain 37 Chutzpah
+
+[20812] The Ancient Hobo Burial Ground
+Encounter: Ah, So That's Where They've All Gone
+Took choice 208/2: skip adventure
+choice.php?whichchoice=208&option=2&pwd
+
+[20812] The Ancient Hobo Burial Ground
+Encounter: Unearthly Nicky Stemple
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 3 hit points
+You lose 182 hit points
+Round 2: boolicious attacks!
+Round 3: spooky hobo takes 523 damage.
+Round 3: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 66 Beefiness
+You gain 38 Magicalness
+You gain 28 Smarm
+
+[20813] The Ancient Hobo Burial Ground
+Encounter: Soulless Yuri Berry, the Maniacal Laugher
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 531 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 66 Strengthliness
+You gain 32 Wizardliness
+You gain 33 Roguishness
+
+[20814] The Ancient Hobo Burial Ground
+Encounter: Dreadful Oliver, the Long, Red-Legged Scissor Man
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 543 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 65 Strengthliness
+You gain 38 Mysteriousness
+You gain 29 Smarm
+
+[20815] The Ancient Hobo Burial Ground
+Encounter: Curly Capulet, the Sauntering Corpse
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 542 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 70 Fortitude
+You gain 38 Magicalness
+You gain 26 Sarcasm
+
+[20816] The Ancient Hobo Burial Ground
+Encounter: Frederick &quot;Screaming Meemie&quot; Haskell, the Fingerbone Collector
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 541 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 62 Strongness
+You gain 43 Enchantedness
+You gain 27 Sarcasm
+
+[20817] The Ancient Hobo Burial Ground
+Encounter: Red &quot;Mass Grave&quot; DuPree
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 529 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: hobo nickel
+You gain 62 Fortitude
+You gain 39 Wizardliness
+You gain a Mysticality point!
+You gain 30 Sarcasm
+
+[20818] The Ancient Hobo Burial Ground
+Encounter: Coffin-Breath Wallace, the Dancin' Corpse
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 536 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 69 Muscleboundness
+You gain 40 Wizardliness
+You gain 24 Smarm
+
+[20819] The Ancient Hobo Burial Ground
+Encounter: Simon Smith, the Dancin' Corpse
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 531 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 69 Strongness
+You gain 39 Enchantedness
+You gain 24 Chutzpah
+
+[20820] The Ancient Hobo Burial Ground
+Encounter: Quite Disturbing Oliver Capulet
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky hobo takes 548 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 69 Strengthliness
+You gain 28 Mysteriousness
+You gain 33 Smarm
+
+[20821] Summoning Chamber
