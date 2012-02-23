@@ -25,7 +25,7 @@ esac
 pushd ~/.kolmafia/
 svn up  --password 1aK8U30UMO
 svn commit -m $(date +%F-%H%M)  --password 1aK8U30UMO
-$JAVABIN -jar ~/.kolmafia/KoLmafia-14.8.jar 
+$JAVABIN -jar ~/.kolmafia/KoLmafia-latest.jar 
 
 pushd sessions
 svn add *$(date -u +%Y%m%d)*
