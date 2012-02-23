@@ -1334,3 +1334,151 @@ You acquire an item: inkwell
 You gain 5 Fortitude
 You gain 6 Magicalness
 You gain 7 Smarm
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+February 23, 2012 - Bill 6
+
+Ronald: waning gibbous
+Grimace: third quarter
+Mini-moon: far right
+
+Dependence Day: 6 days
+Arrrbor Day: 14 days
+St. Sneaky Pete's Day: 23 days
+Lab&oacute;r Day: 24 days
+Halloween: 34 days
+Feast of Boris: 41 days
+Oyster Egg Day: 45 days
+Yuletide: 46 days
+Festival of Jarlsberg: 51 days
+Valentine's Day: 62 days
+El Dia De Los Muertos Borrachos: 84 days
+Generic Summer Holiday: 93 days
+
+
+2 days until Moxie.
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 12
+HP: 147 / 150
+MP: 114 / 114
+
+Mus: 117 (106), tnp = 47
+Mys: 114 (103), tnp = 32
+Mox: 162 (137), tnp = 130
+
+Advs: 123
+Meat: 52,334
+Drunk: 0
+
+
+ > equipment
+
+Hat: miner's helmet
+Weapon: happiness
+Off-hand: Tuesday's ruby
+Shirt: (none)
+Pants: Volartta's bellbottoms
+
+Acc. 1: lucky rabbit's foot
+Acc. 2: observational glasses
+Acc. 3: candy necklace
+
+Pet: Cocoabo (25 lbs)
+Item: annoying pitchfork
+
+ > skills
+
+Uncategorized
+ - Break It On Down
+ - CLEESH
+ - Chronic Indigestion
+ - Gothy Handwave
+ - Liver of Steel
+ - Pop and Lock It
+ - Run Like the Wind
+
+Disco Bandit
+ - Advanced Cocktailcrafting
+ - Ambidextrous Funkslinging
+ - Disco Aerobics
+ - Disco Dance II: Electric Boogaloo
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Face Stab
+ - Disco Fever
+ - Disco Nap
+ - Disco Power Nap
+ - Mad Looting Skillz
+ - Nimble Fingers
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Bubble Vision (40)
+♫ Polka of Plenty (138)
+♫ Aloysius' Antiphon of Aptitude (138)
+♫ Stevedave's Shanty of Superiority (138)
+Scarysauce (138)
+Jingle Jangle Jingle (138)
+Jabañero Saucesphere (138)
+Jalapeño Saucesphere (138)
+Empathy (138)
+Reptilian Fortitude (138)
+Tenacity of the Snapper (138)
+Astral Shell (138)
+Elemental Saucesphere (138)
+Ghostly Shell (138)
+
+
+ > modifiers
+
+ML: +5
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +1.62
+Meat: +77.00%
+Item: +103.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Manual of Dexterity
+
+use 1 Trivial Avocations board game
+
+use 1 creepy voodoo doll
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless trinket
+
+buy 1 hermit permit for 100 each from Market Demon
+You acquire an item: hermit permit
+You spent 100 Meat
+
+cast 3 Advanced Cocktailcrafting
