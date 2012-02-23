@@ -1,5 +1,5 @@
 =4
-AdventureFrame=247,134,0
+AdventureFrame=247,134,3
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=742,435
@@ -16,7 +16,7 @@ FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
 KoLDesktop=122,124,-1
-LoginFrame=404,276,0
+LoginFrame=409,276,0
 MailboxFrame=289,310,1
 MaximizerFrame=387,322
 MeatManageFrame=475,375
@@ -25,10 +25,10 @@ OptionsFrame=354,275,5
 ProfileFrame=42,207,-1
 RecentEventsFrame=474,284
 RequestFrame=-3,-3,-1
-RequestSynchFrame=338,248,-1
+RequestSynchFrame=0,0,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
-StoreManageFrame=293,225,0
+StoreManageFrame=293,225,3
 TabbedChatFrame=656,118,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
@@ -92,7 +92,7 @@ _piePartsCount=0
 _poisonArrows=0
 _poolGames=0
 _precisionCasts=0
-_resolutionAdv=0
+_resolutionAdv=4
 _riftletAdv=0
 _romanticFightsLeft=0
 _sealFigurineUses=0
@@ -593,11 +593,11 @@ choiceAdventure91=2
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=false
+concertVisited=true
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=15
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -637,7 +637,7 @@ distentionPillActive=false
 dolphinItem
 doorCode
 expressCardUsed=false
-extraRolloverAdventures=0
+extraRolloverAdventures=4
 fistSkillsKnown=1
 fistTeachingsBarroomBrawl=false
 fistTeachingsBatHole=false
@@ -658,7 +658,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=15
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 goldenMrAccessories=0
 gongPath=10
 gourdItemCount=6
@@ -682,7 +682,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Cobb's Knob Treasury
+lastAdventure=The Ancient Hobo Burial Ground
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -698,13 +698,13 @@ lastBangPotion827=ettin strength
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=12
+lastBreakfast=13
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=27
-lastCounterDay=12
+lastCounterDay=13
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=1
@@ -745,7 +745,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=Finally, the Payoff
+lastEncounter=Two-Feet-in-the-Grave Jocko &quot;Spooky Eyes&quot; Stemple
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -817,7 +817,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=21
+libramSummons=11
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -849,7 +849,7 @@ nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=sphere
 olfactedMonster=wabbit
-oscusSodaUsed=false
+oscusSodaUsed=true
 outrageousSombreroUsed=false
 parasolUsed=6
 pastamancerGhostExperience=0
@@ -929,7 +929,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=20964\:Fortune Cookie\:fortune.gif\:20994\:Fortune Cookie\:fortune.gif\:20975\:Fortune Cookie\:fortune.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
