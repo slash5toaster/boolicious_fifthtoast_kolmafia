@@ -575,7 +575,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=100000
 currentPvpVictories
-currentSpleenUse=2
+currentSpleenUse=10
 currentWheelPosition=map quest
 customCombatScript=rockband
 cyrptAlcoveEvilness=0
