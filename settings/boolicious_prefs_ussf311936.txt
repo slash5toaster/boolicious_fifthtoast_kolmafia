@@ -1,5 +1,5 @@
 =1
-AdventureFrame=2480,300,1
+AdventureFrame=2480,300,0
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=742,435
@@ -116,7 +116,7 @@ _transponderDrops=0
 _trivialAvocationsGame=true
 _userMods
 _vmaskAdv=0
-_zapCount=0
+_zapCount=1
 addingScrolls=2
 arcadeGameHints=true
 autoAbortThreshold=-0.05
@@ -598,7 +598,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=14
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -606,7 +606,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=1
 currentWheelPosition=mysticality
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -683,7 +683,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=A Maze of Sewer Tunnels
+lastAdventure=The Heap
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -746,7 +746,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=C. H. U. M.
+lastEncounter=Unwashed Tomas Young
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -818,7 +818,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=15
+libramSummons=17
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=0
@@ -1004,7 +1004,7 @@ telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=0
+tomeSummons=1
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
