@@ -940,3 +940,269 @@ You acquire an item: sewer nuggets
 You gain 37 Fortitude
 You gain 19 Magicalness
 You gain 18 Sarcasm
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+February 27, 2012 - Bor 2
+
+Ronald: waxing crescent
+Grimace: new moon
+Mini-moon: front center
+
+Dependence Day: 2 days
+Arrrbor Day: 10 days
+St. Sneaky Pete's Day: 19 days
+Lab&oacute;r Day: 20 days
+Halloween: 30 days
+Feast of Boris: 37 days
+Oyster Egg Day: 41 days
+Yuletide: 42 days
+Festival of Jarlsberg: 47 days
+Valentine's Day: 58 days
+El Dia De Los Muertos Borrachos: 80 days
+Generic Summer Holiday: 89 days
+
+
+3 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 28
+HP: 1698 / 1,698
+MP: 585 / 1,031
+
+Mus: 1,071 (758), tnp = 27
+Mys: 665 (547), tnp = 674
+Mox: 658 (541), tnp = 168
+
+Advs: 96
+Meat: 171,847
+Drunk: 0
+
+
+ > equipment
+
+Hat: Zombo's skullcap
+Weapon: fouet de tortue-dressage
+Off-hand: Hodgman's metal detector
+Shirt: cane-mail shirt
+Pants: Hodgman's lobsterskin pants
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: Zinc Delta of Tranquility
+Acc. 3: Hodgman's lucky sock
+
+Pet: Piano Cat (51 lbs)
+Item: kitty sheet music
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Creepy Lullaby
+ - Drunken Baby Style
+ - Eggsplosion
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Bubble Vision (13)
+♫ Fat Leon's Phat Loot Lyric (46)
+Reptilian Fortitude (80)
+♫ Polka of Plenty (269)
+Scarysauce (269)
+Jabañero Saucesphere (269)
+Empathy (269)
+Tenacity of the Snapper (274)
+Astral Shell (274)
+Jalapeño Saucesphere (278)
+♫ The Sonata of Sneakiness (404)
+Jingle Jangle Jingle (527)
+Elemental Saucesphere (650)
+Patience of the Tortoise (1,097)
+Ghostly Shell (1,101)
+Salamanderenity (1,102)
+Retrograde Relaxation (1,355)
+
+
+ > modifiers
+
+ML: +20
+Enc: -5.00%
+Init: +0.00%
+
+Exp: +2.50
+Meat: +296.92%
+Item: +279.46%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+use 1 Manual of Labor
+
+use 1 Chester's bag of candy
+
+use 1 Trivial Avocations board game
+
+use 1 creepy voodoo doll
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+cast 15 Summon Resolutions
+You acquire an item: resolution: be more adventurous
+You acquire an item: resolution: be kinder
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be stronger
+
+mallsell: 15 disassembled clover
+
+mallsell: 5 disembodied brain
+
+mallsell: 8 disturbing fanfic
+
+manageprices.php?action=update&price5246=9000&limit5246=0&price5265=8000&limit5265=0&price5254=7775&limit5254=0&price5270=7175&limit5270=0&price5243=3300&limit5243=0&price176=1800&limit176=0&price196=1400&limit196=0&price4212=800&limit4212=0&price594=410&limit594=0&price2687=400&limit2687=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price2272=276&limit2272=0&price2274=275&limit2274=0&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price297=150&limit297=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price1=100&limit1=0
+manageprices.php?action=update&price5246=8750&limit5246=0&price5265=7999&limit5265=0&price5254=7775&limit5254=0&price5270=7077&limit5270=0&price5243=3300&limit5243=0&price176=1800&limit176=0&price196=1400&limit196=0&price4212=800&limit4212=0&price594=410&limit594=0&price2687=400&limit2687=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price2272=276&limit2272=0&price2274=275&limit2274=0&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price297=150&limit297=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price1=100&limit1=0
+
+mallsell: 10 bucket of honey
+
+manageprices.php?action=update&price5246=8750&limit5246=0&price5265=7999&limit5265=0&price5254=7775&limit5254=0&price5270=7077&limit5270=0&price5243=3300&limit5243=0&price176=1800&limit176=0&price196=1400&limit196=0&price4212=800&limit4212=0&price594=410&limit594=0&price2687=400&limit2687=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price2272=276&limit2272=0&price2274=275&limit2274=0&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price297=150&limit297=0&price4526=140&limit4526=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price1=100&limit1=0
+manageprices.php?action=update&price5246=8750&limit5246=0&price5265=7999&limit5265=0&price5254=7775&limit5254=0&price5270=7077&limit5270=0&price5243=3300&limit5243=0&price176=1800&limit176=0&price196=1400&limit196=0&price4212=800&limit4212=0&price594=410&limit594=0&price2687=400&limit2687=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price2272=276&limit2272=0&price2274=275&limit2274=0&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price297=150&limit297=0&price4526=145&limit4526=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price1=100&limit1=0
+
+Visiting the Bounty Hunter Hunter
+
+[21616] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 833 damage.
+Round 2: boolicious wins the fight!
+After Battle: RumTum squints his eyes, sways back and forth, and sings the following verse: / Now Boris the Bold was a friend of mine, / He'd lift my piano for me / And he loved to tell jokes while he beat up on folks / In the dungeon where he'd hide his key. / 
+You acquire an item: bottle of sewage schnapps
+You acquire an item: sewer nuggets
+You gain 39 Fortitude
+You gain a Muscle point!
+You gain 15 Mysteriousness
+You gain 20 Sarcasm
+
+mallsell: 1 sea radish
+
+manageprices.php?action=update&price5246=8750&limit5246=0&price5265=7999&limit5265=0&price5254=7775&limit5254=0&price3817=7100&limit3817=0&price5270=7077&limit5270=0&price5243=3300&limit5243=0&price176=1800&limit176=0&price196=1400&limit196=0&price4212=800&limit4212=0&price594=410&limit594=0&price2687=400&limit2687=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price2272=276&limit2272=0&price2274=275&limit2274=0&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price297=150&limit297=0&price4526=145&limit4526=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price1=100&limit1=0
+manageprices.php?action=update&price5246=8800&limit5246=0&price5265=7999&limit5265=0&price5254=7775&limit5254=0&price3817=7100&limit3817=0&price5270=7077&limit5270=0&price5243=3300&limit5243=0&price176=1800&limit176=0&price196=1400&limit196=0&price4212=800&limit4212=0&price594=410&limit594=0&price2687=400&limit2687=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price2272=276&limit2272=0&price2274=275&limit2274=0&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price297=150&limit297=0&price4526=145&limit4526=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price1=100&limit1=0
+manageprices.php?action=update&price5246=8900&limit5246=0&price5265=7999&limit5265=0&price5254=7775&limit5254=0&price3817=7100&limit3817=0&price5270=7077&limit5270=0&price5243=3300&limit5243=0&price176=1800&limit176=0&price196=1400&limit196=0&price4212=800&limit4212=0&price594=410&limit594=0&price2687=400&limit2687=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price2272=276&limit2272=0&price2274=275&limit2274=0&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price297=150&limit297=0&price4526=145&limit4526=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price1=100&limit1=0
+
+[21617] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 836 damage.
+Round 2: boolicious wins the fight!
+After Battle: RumTum squints his eyes, sways back and forth, and sings the following verse: / And my piano, it sounds like a carnivore / And my paws reek of catnip and mice / And they tip me some meat, and they tell me I'm sweet, / But they wish I would be more concise.
+You acquire an item: sewer nuggets
+You acquire an item: sewer nuggets
+You gain 36 Fortitude
+You gain 14 Mysteriousness
+You gain 20 Sarcasm
+
+[21618] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/3: turn the valve
+choice.php?pwd&whichchoice=197&option=3
+
+[21619] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 836 damage.
+Round 2: boolicious wins the fight!
+After Battle: RumTum squints his eyes, sways back and forth, and sings the following verse: / Now Pete was as sneaky as he could be / He reveled in foul crudity / For he thought it was moxious to make odors noxious / And then cast the blame upon me!
+You acquire an item: sewer nuggets
+You gain 32 Strengthliness
+You gain 22 Wizardliness
+You gain 20 Chutzpah
+
+[21620] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 2 hit points
+Round 2: boolicious attacks!
+Round 3: c. h. u. m. takes 831 damage.
+Round 3: boolicious wins the fight!
+After Battle: RumTum squints his eyes, sways back and forth, and sings the following verse: / And my piano, it sounds like a carnivore / And my paws reek of catnip and mice / And they tip me some meat, and they tell me I'm sweet, / But they wish I would be more concise.
+You acquire an item: sewer nuggets
+You gain 38 Strongness
+You gain 18 Magicalness
+You gain 18 Smarm
+
+equip acc2 ring of conflict
