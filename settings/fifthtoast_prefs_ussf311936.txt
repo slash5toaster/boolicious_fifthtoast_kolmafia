@@ -565,7 +565,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=7
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
