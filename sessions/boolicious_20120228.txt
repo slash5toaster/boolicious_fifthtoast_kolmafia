@@ -4262,3 +4262,215 @@ equip acc1 fudgecycle
 equip acc2 time halo
 
 equip acc3 wristwatch of the white knight
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+February 28, 2012 - Bor 3
+
+Ronald: first quarter
+Grimace: waxing crescent
+Mini-moon: in front of Grimace, R side
+
+Dependence Day: tomorrow
+Arrrbor Day: 9 days
+St. Sneaky Pete's Day: 18 days
+Lab&oacute;r Day: 19 days
+Halloween: 29 days
+Feast of Boris: 36 days
+Oyster Egg Day: 40 days
+Yuletide: 41 days
+Festival of Jarlsberg: 46 days
+Valentine's Day: 57 days
+El Dia De Los Muertos Borrachos: 79 days
+Generic Summer Holiday: 88 days
+
+
+2 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 28
+HP: 1244 / 1,470
+MP: 95 / 1,030
+
+Mus: 924 (769), tnp = 764
+Mys: 664 (553), tnp = 546
+Mox: 659 (549), tnp = 396
+
+Advs: 50
+Meat: 238,276
+Drunk: 18
+
+
+ > equipment
+
+Hat: straw hat
+Weapon: (none)
+Off-hand: (none)
+Shirt: General Sage's Lonely Diamonds Club Jacket
+Pants: Hodgman's lobsterskin pants
+
+Acc. 1: fudgecycle
+Acc. 2: time halo
+Acc. 3: wristwatch of the white knight
+
+Pet: Fancypants Scarecrow (11 lbs)
+Item: Knob Goblin Uberpants
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Creepy Lullaby
+ - Drunken Baby Style
+ - Eggsplosion
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+♫ Fat Leon's Phat Loot Lyric (47)
+Bubble Vision (74)
+Reptilian Fortitude (81)
+Scarysauce (270)
+♫ Polka of Plenty (270)
+Jabañero Saucesphere (270)
+Empathy (270)
+Tenacity of the Snapper (275)
+Astral Shell (275)
+Jalapeño Saucesphere (279)
+Jingle Jangle Jingle (528)
+♫ The Sonata of Sneakiness (530)
+Elemental Saucesphere (651)
+Patience of the Tortoise (723)
+Salamanderenity (728)
+Retrograde Relaxation (981)
+Ghostly Shell (1,102)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: +10.00%
+
+Exp: +0.00
+Meat: +80.00%
+Item: +144.60%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+add to closet: 138276 Meat
+
+cast 1 Summon Clip Art
+You acquire an item: potion of punctual companionship
+
+cast 1 Summon Clip Art
+You acquire an item: potion of the litterbox
+
+mallsell: 1 potion of punctual companionship, 1 potion of the litterbox
+
+mallsell: 1 shrapnel jelly donut, 1 Ur-Donut
+
+mallsell: 10 dusty bottle of spooky Marsala
+
+mallsell: 12 dusty bottle of vinegar Pinot Noir
+
+manageprices.php?action=update&price5267=9000&limit5267=0&price5246=8900&limit5246=0&price5265=7999&limit5265=0&price5224=7500&limit5224=0&price5243=3300&limit5243=0&price4212=800&limit4212=0&price594=410&limit594=0&price2687=400&limit2687=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price2273=300&limit2273=0&price630=288&limit630=1&price2272=276&limit2272=0&price2274=275&limit2274=0&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price2275=200&limit2275=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price297=150&limit297=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price1=100&limit1=0
+managestore.php?howmuch=1000&action=addad&pwd
+
+Cook 2 cocoa eggshell fragment + 2 cocoa eggshell fragment
+You acquire large cocoa eggshell fragment (2)
+Crafting used 2 each of cocoa eggshell fragment and cocoa eggshell fragment
+
+Cook 1 large cocoa eggshell fragment + 1 large cocoa eggshell fragment
+You acquire an item: cocoa egg
+Crafting used 1 each of large cocoa eggshell fragment and large cocoa eggshell fragment
+
+Use 1 disassembled clover
+You acquire an item: ten-leaf clover
+
+Cook 1 ten-leaf clover + 1 cocoa egg
+You acquire an item: Lucky Surprise Egg
+Crafting used 1 each of ten-leaf clover and cocoa egg
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Mix 5 bottle of rum + 5 peppermint twist
+You acquire Crimbojito (5)
+Crafting used 5 each of bottle of rum and peppermint twist
+
+mallsell: 5 Crimbojito
+
+manageprices.php?action=update&price5267=9000&limit5267=0&price5246=8900&limit5246=0&price5265=7999&limit5265=0&price5224=7500&limit5224=0&price5411=5399&limit5411=0&price5243=3300&limit5243=0&price4212=800&limit4212=0&price594=410&limit594=0&price2687=400&limit2687=0&price2273=300&limit2273=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price2272=276&limit2272=0&price2274=275&limit2274=0&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price2275=200&limit2275=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price297=150&limit297=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price1=100&limit1=0
