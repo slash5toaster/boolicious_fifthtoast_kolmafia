@@ -1,13 +1,14 @@
-AdventureFrame=1916,248,0
+AdventureFrame=1916,248,1
 CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=2481,0,-1
-LoginFrame=1988,0,0
+KoLDesktop=2506,231,-1
+LoginFrame=2645,337,0
 MaximizerFrame=2333,376
 ProfileFrame=2662,409,-1
-RequestSynchFrame=1916,-4,-1
-TabbedChatFrame=1981,0,1
+RequestFrame=2575,334,-1
+RequestSynchFrame=2575,334,-1
+TabbedChatFrame=2630,450,0
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -183,7 +184,7 @@ bootsCharged=false
 borisPoints=0
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=true
+breakfastCompleted=false
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
@@ -560,12 +561,12 @@ choiceAdventure90=2
 choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
-cocktailSummons=3
+cocktailSummons=1
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=0
-currentFullness=0
+currentBountyItem=2413
+currentFullness=10
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -573,7 +574,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=2
+currentSpleenUse=0
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -625,7 +626,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=10
@@ -649,7 +650,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Haunted Billiards Room
+lastAdventure=Spooky Forest
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=healing
@@ -664,13 +665,13 @@ lastBangPotion827=detection
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=14
+lastBreakfast=2
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=12
-lastCounterDay=14
+lastCounterDay=2
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -711,7 +712,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=pooltergeist
+lastEncounter=The Road Less Traveled
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
