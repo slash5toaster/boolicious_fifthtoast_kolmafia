@@ -78,13 +78,17 @@ http.proxyHost
 http.proxyPassword
 http.proxyPort
 http.proxyUser
+https.proxyHost
+https.proxyPassword
+https.proxyPort
+https.proxyUser
 initialDesktop=CommandDisplayFrame,ItemManageFrame,GearChangeFrame,MallSearchFrame,CharSheetFrame,SkillBuffFrame
 initialFrames=ChatManager
 innerChatColor=\#ffa98c
 innerTabColor=\#8ca9ff
 itemManagerIndex=14
 lastBuffRequestType=0
-lastRelayUpdate=KoLmafia v15.1 r10654
+lastRelayUpdate=KoLmafia v15.1 r10670
 lastRssUpdate=0
 lastRssVersion=KoLmafia v15.1
 lastUserAgent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.39 Safari/535.19
@@ -121,7 +125,7 @@ pathedSummonsHardcore=true
 pathedSummonsSoftcore=true
 preferredWebBrowser=/usr/bin/google-chrome
 previousNotifyList=<>
-previousUpdateRevision=10654
+previousUpdateRevision=10670
 previousUpdateVersion=KoLmafia v15.1
 protectAgainstOverdrink=true
 proxySet=false
@@ -178,6 +182,7 @@ useCrimboToysSoftcore=true
 useDecoratedTabs=true
 useDockIconBadge=false
 useLastUserAgent=false
+useNaiveSecureLogin=false
 useSecureLogin=false
 useShinyTabbedChat=true
 useSystemTrayIcon=false
