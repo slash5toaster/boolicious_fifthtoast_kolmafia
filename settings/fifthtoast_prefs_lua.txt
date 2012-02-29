@@ -563,11 +563,11 @@ choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=3
-concertVisited=true
+concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2413
-currentFullness=10
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -575,7 +575,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=100000
 currentPvpVictories
-currentSpleenUse=2
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=Nirvana
 cyrptAlcoveEvilness=0
@@ -667,13 +667,13 @@ lastBangPotion827=detection
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=2
+lastBreakfast=3
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=2
+lastCounterDay=3
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -813,7 +813,7 @@ mpAutoRecoveryItems=phonics down;knob goblin superseltzer;mountain stream soda;m
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
 noodleSummons=0
-nunsVisits=2
+nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=plinth
 olfactedMonster=wabbit
