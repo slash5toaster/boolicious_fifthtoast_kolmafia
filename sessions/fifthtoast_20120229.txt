@@ -1989,3 +1989,136 @@ You acquire an item: grouchy restless spirit
 You gain 7 Fortitude
 You gain 15 Magicalness
 You gain 17 Smarm
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+February 29, 2012 - Bor 4
+
+Ronald: waxing gibbous
+Grimace: waxing crescent
+Mini-moon: behind Grimace
+
+Dependence Day: today
+Arrrbor Day: 8 days
+St. Sneaky Pete's Day: 17 days
+Lab&oacute;r Day: 18 days
+Halloween: 28 days
+Feast of Boris: 35 days
+Oyster Egg Day: 39 days
+Yuletide: 40 days
+Festival of Jarlsberg: 45 days
+Valentine's Day: 56 days
+El Dia De Los Muertos Borrachos: 78 days
+Generic Summer Holiday: 87 days
+
+Dependence Day
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 14
+HP: 264 / 299
+MP: 290 / 305
+
+Mus: 166 (138), tnp = 132
+Mys: 165 (137), tnp = 54
+Mox: 212 (185), tnp = 316
+
+Advs: 6
+Meat: 89,112
+Drunk: 0
+
+
+ > equipment
+
+Hat: miner's helmet
+Weapon: lead pipe
+Off-hand: stress ball
+Shirt: (none)
+Pants: bullet-proof corduroys
+
+Acc. 1: Green Clover of Justice
+Acc. 2: lucky rabbit's foot
+Acc. 3: Lord Spookyraven's spectacles
+
+Pet: Whirling Maple Leaf (16 lbs)
+Item: tiny Mountie hat
+
+ > skills
+
+Uncategorized
+ - Break It On Down
+ - CLEESH
+ - Chronic Indigestion
+ - Gothy Handwave
+ - Liver of Steel
+ - Pop and Lock It
+ - Run Like the Wind
+
+Disco Bandit
+ - Advanced Cocktailcrafting
+ - Ambidextrous Funkslinging
+ - Disco Aerobics
+ - Disco Dance II: Electric Boogaloo
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Face Stab
+ - Disco Fever
+ - Disco Nap
+ - Disco Power Nap
+ - Heart of Polyester
+ - Mad Looting Skillz
+ - Nimble Fingers
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Ghostly Shell (76)
+Reptilian Fortitude (76)
+Scarysauce (76)
+Jingle Jangle Jingle (76)
+Tenacity of the Snapper (76)
+Astral Shell (76)
+Jalapeño Saucesphere (76)
+Empathy (76)
+Jabañero Saucesphere (76)
+♫ The Sonata of Sneakiness (76)
+♫ Fat Leon's Phat Loot Lyric (76)
+♫ Stevedave's Shanty of Superiority (76)
+Elemental Saucesphere (76)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: +20.00%
+
+Exp: +0.00
+Meat: +27.00%
+Item: +60.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+equip weapon chrome crossbow
+
+equip acc2 tiny plastic Crimbo reindeer
+
+equip acc3 dead guy's watch

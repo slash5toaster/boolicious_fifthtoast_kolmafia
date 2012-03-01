@@ -1957,3 +1957,1031 @@ You acquire an item: cannonball charrrm bracelet
 mallsell: 4 booty chest charrrm bracelet, 4 cannonball charrrm bracelet, 1 copper ha'penny charrrm bracelet, 1 silver tongue charrrm bracelet
 
 manageprices.php?action=update&price5246=8200&limit5246=0&price5238=7550&limit5238=0&price5243=3275&limit5243=0&price2983=2900&limit2983=0&price2981=2376&limit2981=0&price2987=2000&limit2987=0&price2985=1970&limit2985=0&price5513=670&limit5513=0&price594=410&limit594=0&price2687=400&limit2687=0&price4212=380&limit4212=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price620=288&limit620=0&price2272=276&limit2272=0&price2274=275&limit2274=0&price617=274&limit617=0&price622=272&limit622=0&price611=270&limit611=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price1294=180&limit1294=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price297=150&limit297=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price540=108&limit540=0&price1=100&limit1=0
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+February 29, 2012 - Bor 4
+
+Ronald: waxing gibbous
+Grimace: waxing crescent
+Mini-moon: behind Grimace
+
+Dependence Day: today
+Arrrbor Day: 8 days
+St. Sneaky Pete's Day: 17 days
+Lab&oacute;r Day: 18 days
+Halloween: 28 days
+Feast of Boris: 35 days
+Oyster Egg Day: 39 days
+Yuletide: 40 days
+Festival of Jarlsberg: 45 days
+Valentine's Day: 56 days
+El Dia De Los Muertos Borrachos: 78 days
+Generic Summer Holiday: 87 days
+
+Dependence Day
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 28
+HP: 1490 / 2,689
+MP: 664 / 1,910
+
+Mus: 1,710 (773), tnp = 777
+Mys: 1,232 (556), tnp = 413
+Mox: 1,221 (551), tnp = 106
+
+Advs: 47
+Meat: 157,685
+Drunk: 0
+
+
+ > equipment
+
+Hat: straw hat
+Weapon: octopus's spade
+Off-hand: hobo code binder
+Shirt: cane-mail shirt
+Pants: Hodgman's lobsterskin pants
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: Zinc Delta of Tranquility
+Acc. 3: Hodgman's lucky sock
+
+Pet: Fancypants Scarecrow (11 lbs)
+Item: Knob Goblin Uberpants
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Creepy Lullaby
+ - Drunken Baby Style
+ - Eggsplosion
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Having a Ball! (20)
+Bubble Vision (23)
+♫ Fat Leon's Phat Loot Lyric (292)
+♫ The Sonata of Sneakiness (379)
+Reptilian Fortitude (440)
+Scarysauce (494)
+Empathy (494)
+Jabañero Saucesphere (494)
+♫ Polka of Plenty (494)
+Tenacity of the Snapper (499)
+Astral Shell (499)
+Jalapeño Saucesphere (503)
+Patience of the Tortoise (572)
+Salamanderenity (577)
+Jingle Jangle Jingle (752)
+Retrograde Relaxation (830)
+Elemental Saucesphere (875)
+Ghostly Shell (951)
+
+
+ > modifiers
+
+ML: +20
+Enc: -5.00%
+Init: +10.00%
+
+Exp: +2.50
+Meat: +95.00%
+Item: +218.60%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 1 Summon Clip Art
+
+Use 2 peppermint sprout
+You acquire an item: peppermint patty
+
+eat 1 peppermint patty
+You gain 11 Adventures
+You gain 14 Muscleboundness
+You gain 12 Enchantedness
+You gain 17 Smarm
+You gain 2 Fullness
+
+eat 4 elven hardtack
+You gain 8 Adventures
+You gain 32 Strengthliness
+You gain 22 Magicalness
+You gain 25 Chutzpah
+You gain 3 Fullness
+You gain 6 Adventures
+You gain 25 Strongness
+You gain 23 Mysteriousness
+You gain 23 Smarm
+You gain 3 Fullness
+
+eat 1 brown sugar cane
+You gain 7 Adventures
+You gain 3 Fortitude
+You gain 1 Magicalness
+You gain 17 Smarm
+You acquire an effect: Sugar Rush (duration: 3 Adventures)
+You gain 2 Fullness
+
+drink 1 Barulio's bottle
+You gain 13 Adventures
+You gain 2 Strongness
+You gain 16 Mysteriousness
+You gain 9 Smarm
+You gain 4 Drunkenness
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Mix 1 bottle of whiskey + 1 peppermint twist
+You acquire an item: Mint Yulep
+Crafting used 1 each of bottle of whiskey and peppermint twist
+
+drink 1 Mint Yulep
+You gain 10 Adventures
+You gain 47 Fortitude
+You gain 10 Enchantedness
+You gain 20 Cheek
+You gain a Moxie point!
+You gain 2 Drunkenness
+
+drink 2 sangria
+You gain 6 Adventures
+You gain 8 Wizardliness
+You gain 3 Drunkenness
+You gain 8 Adventures
+You gain 9 Mysteriousness
+You gain 3 Drunkenness
+
+drink 2 elven squeeze
+You gain 7 Adventures
+You gain 30 Beefiness
+You gain 24 Magicalness
+You gain 22 Chutzpah
+You gain 3 Drunkenness
+You gain 5 Adventures
+You gain 28 Strengthliness
+You gain 23 Mysteriousness
+You gain 28 Cheek
+You gain 3 Drunkenness
+
+[22141] Hobopolis Town Square
+Encounter: Woody &quot;The Kitten&quot; Hernandez
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1513 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 41 Strengthliness
+You gain 27 Enchantedness
+You gain 17 Roguishness
+Richard takes a hobo skin
+
+[22142] Hobopolis Town Square
+Encounter: Attention -- A Tent!
+Took choice 225/3: skip adventure
+choice.php?whichchoice=225&option=3&pwd
+
+[22142] Hobopolis Town Square
+Encounter: Crispy Carl, the Buddha
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1517 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 42 Muscleboundness
+You gain 18 Magicalness
+You gain 24 Cheek
+Richard takes a hobo skin
+
+[22143] Hobopolis Town Square
+Encounter: Attention -- A Tent!
+Took choice 225/3: skip adventure
+choice.php?whichchoice=225&option=3&pwd
+
+[22143] Hobopolis Town Square
+Encounter: Attention -- A Tent!
+Took choice 225/3: skip adventure
+choice.php?whichchoice=225&option=3&pwd
+
+[22143] Hobopolis Town Square
+Encounter: Fourteen-Bindlestick Ted Durden, the Explorer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1514 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 43 Fortitude
+You gain 23 Mysteriousness
+You gain 18 Smarm
+Richard takes a hobo skin
+
+[22144] Hobopolis Town Square
+Encounter: Zaxxon &quot;Fancypants&quot; Pennington
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1483 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 36 Strengthliness
+You gain 32 Mysteriousness
+You gain 16 Smarm
+Richard takes a hobo skin
+
+[22145] Hobopolis Town Square
+Encounter: Marketplace Entrance
+Took choice 272/1: 216 nickels,  hobo code binder equipped
+choice.php?whichchoice=272&option=1&pwd
+Encounter: The Hobo Marketplace
+Took choice 231/3: unknown
+choice.php?pwd&whichchoice=231&option=3&choiceform3=Health
+Encounter: Salud
+Took choice 262/2: unknown
+choice.php?pwd&whichchoice=262&option=2&choiceform2=Tanning+Salon
+Encounter: Tanning Salon
+Took choice 264/1: 20 adv of +50% moxie
+choice.php?pwd&whichchoice=264&option=1&choiceform1=Get+a+Deep+Tan+for+5+hobo+nickels
+You acquire an effect: Healthy Bronze Glow (duration: 20 Adventures)
+
+[22146] Hobopolis Town Square
+Encounter: Attention -- A Tent!
+Took choice 225/3: skip adventure
+choice.php?whichchoice=225&option=3&pwd
+
+[22146] Hobopolis Town Square
+Encounter: Illinois R. J. &quot;Fast Fingers&quot; Belvedere
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1480 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 46 Fortitude
+You gain 18 Wizardliness
+You gain 21 Roguishness
+Richard takes a hobo skin
+
+[22147] Hobopolis Town Square
+Encounter: Staggering Andre Shatner
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1487 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 47 Beefiness
+You gain 18 Mysteriousness
+You gain 20 Smarm
+Richard takes a hobo skin
+
+[22148] Hobopolis Town Square
+Encounter: Attention -- A Tent!
+Took choice 225/3: skip adventure
+choice.php?whichchoice=225&option=3&pwd
+
+[22148] Hobopolis Town Square
+Encounter: Pickled-Noggin Harold Thompson
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1478 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 40 Muscleboundness
+You gain 24 Mysteriousness
+You gain 21 Roguishness
+Richard takes a hobo skin
+
+[22149] Hobopolis Town Square
+Encounter: Attention -- A Tent!
+Took choice 225/3: skip adventure
+choice.php?whichchoice=225&option=3&pwd
+
+[22149] Hobopolis Town Square
+Encounter: Oft-Quoted Stevie &quot;Powderpuff&quot; Thompson
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1465 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 49 Beefiness
+You gain 17 Mysteriousness
+You gain 19 Smarm
+Richard takes a hobo skin
+
+[22150] Hobopolis Town Square
+Encounter: Balloonpopper Aldous O'Kelly, the Ombudsman
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1469 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 38 Strongness
+You gain 23 Wizardliness
+You gain 23 Chutzpah
+Richard takes a hobo skin
+
+[22151] Hobopolis Town Square
+Encounter: Jack &quot;Dart-Hurling&quot; Goodman, Head Brain of the Hobosphere
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1473 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 44 Strongness
+You gain 18 Magicalness
+You gain 23 Chutzpah
+Richard takes a hobo skin
+
+[22152] Hobopolis Town Square
+Encounter: Alan &quot;Winky&quot; Isaacson
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1469 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 53 Beefiness
+You gain 16 Enchantedness
+You gain 17 Cheek
+Richard takes a hobo skin
+
+[22153] Hobopolis Town Square
+Encounter: Giles Goodman, the Personal Trainer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1473 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 41 Muscleboundness
+You gain 27 Magicalness
+You gain 16 Chutzpah
+Richard takes a hobo skin
+
+[22154] Hobopolis Town Square
+Encounter: Mssr. Ralph Sullivan, the Drunk
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1479 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 42 Fortitude
+You gain 23 Wizardliness
+You gain a Mysticality point!
+You gain 19 Chutzpah
+Richard takes a hobo skin
+
+[22155] Hobopolis Town Square
+Encounter: T. J. &quot;Marginal&quot; McMahon
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1474 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 46 Strongness
+You gain a Muscle point!
+You gain 17 Wizardliness
+You gain 22 Roguishness
+Richard takes a hobo skin
+
+[22156] Hobopolis Town Square
+Encounter: Marketplace Entrance
+Took choice 272/1: 211 nickels,  hobo code binder equipped
+choice.php?whichchoice=272&option=1&pwd
+Encounter: The Hobo Marketplace
+Took choice 231/2: unknown
+choice.php?pwd&whichchoice=231&option=2&choiceform2=Shopping
+Encounter: Math Is Hard
+Took choice 246/3: unknown
+choice.php?pwd&whichchoice=246&option=3&choiceform3=Look+over+in+this+other+other+direction
+Encounter: Garment District
+Took choice 249/3: unknown
+choice.php?pwd&whichchoice=249&option=3&choiceform3=Between+here+and+there
+Encounter: A Hattery
+Took choice 250/4: unknown
+choice.php?pwd&whichchoice=250&option=4&choiceform4=Leave
+
+[22157] Hobopolis Town Square
+Encounter: Half-Albino Vincent &quot;Winky&quot; Martinez
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1475 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 47 Strongness
+You gain 15 Magicalness
+You gain 23 Smarm
+Richard takes a hobo skin
+
+[22158] Hobopolis Town Square
+Encounter: Bruised-Rib Horus Benedict, the Freightyard Satan
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1475 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 43 Strengthliness
+You gain 21 Enchantedness
+You gain 20 Smarm
+Richard takes a hobo skin
+
+[22159] Hobopolis Town Square
+Encounter: Thanatos &quot;Laser Beams&quot; Shannahan
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1509 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 50 Muscleboundness
+You gain 21 Mysteriousness
+You gain 14 Sarcasm
+Richard takes a hobo skin
+
+[22160] Hobopolis Town Square
+Encounter: Finnish Moe Salisbury
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1468 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 44 Muscleboundness
+You gain 20 Wizardliness
+You gain 20 Smarm
+Richard takes a hobo skin
+
+cast 10 Summon Resolutions
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be feistier
+
+[22161] Rest in Clan Sofa (2 turns)
+You gain 280 Muscularity Points
+
+[22163] Hobopolis Town Square
+Encounter: Exoskeleton Wemberly Goodman
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 701 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 42 Strongness
+You gain 24 Enchantedness
+You gain 17 Smarm
+Richard takes a hobo skin
+
+[22164] Hobopolis Town Square
+Encounter: Jim &quot;Melvin&quot; Lennon, the Dilettante
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 714 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 44 Muscleboundness
+You gain 17 Enchantedness
+You gain 23 Cheek
+Richard takes a hobo skin
+
+[22165] Hobopolis Town Square
+Encounter: Cal &quot;Hamburger&quot; Cartwright, He Who Rings Every Bell He Sees
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 707 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 54 Strengthliness
+You gain 17 Magicalness
+You gain 14 Roguishness
+Richard takes a hobo skin
+
+[22166] Hobopolis Town Square
+Encounter: Many-Eyed Sam, the President's Long-Lost Brother
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 694 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 43 Strongness
+You gain 16 Wizardliness
+You gain 25 Smarm
+Richard takes a hobo skin
+
+[22167] Hobopolis Town Square
+Encounter: Zachary &quot;The Slug&quot; Berry, the Giant Rabbit
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 700 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 51 Strengthliness
+You gain 19 Enchantedness
+You gain 15 Cheek
+Richard takes a hobo skin
+
+use 1 devilish folio
+You acquire an effect: Dis Abled (duration: 30 Adventures)
+
+use 1 Mortimer's nostrum
+You acquire an effect: Limber as Mortimer (duration: 10 Adventures)
+
+[22168] The Maelstrom of Lovers
+Encounter: Marvin J. Sunny
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marvin j. sunny takes 835 damage.
+Round 2: boolicious wins the fight!
+After Battle: A shimmy, a swirl, a twist, and a hop, / your familiar does dances to make items drop.
+You acquire an item: jar full of wind
+You gain 16 Strongness
+You gain 13 Magicalness
+You gain 10 Roguishness
+
+[22169] The Maelstrom of Lovers
+Encounter: Marcus Macurgeon
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marcus macurgeon takes 841 damage.
+Round 2: boolicious wins the fight!
+After Battle: With a twist and a twirl, a flitter and flutter, / your pet dances brightly, a fly made of butter.
+You acquire an item: purple prose pen
+You acquire an item: jar full of wind
+You gain 20 Strongness
+You gain 14 Magicalness
+You gain 6 Roguishness
+
+[22170] The Maelstrom of Lovers
+Encounter: Marvin J. Sunny
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marvin j. sunny takes 843 damage.
+Round 2: Your pet did a thing; I don't know what it did. / Perhaps it went skiing, or huggled a squid?
+Round 2: boolicious wins the fight!
+After Battle: A shimmy, a swirl, a twist, and a hop, / your familiar does dances to make items drop.
+You acquire an item: jar full of wind
+You gain 21 Strongness
+You gain 13 Magicalness
+You gain 5 Roguishness
+
+[22171] The Maelstrom of Lovers
+Encounter: Wonderful Winifred Wongle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wonderful winifred wongle takes 846 damage.
+Round 2: boolicious wins the fight!
+After Battle: With a twist and a twirl, a flitter and flutter, / your pet dances brightly, a fly made of butter.
+You acquire an item: jar full of wind
+You gain 24 Strongness
+You gain 12 Magicalness
+You gain 4 Roguishness
+
+[22172] The Maelstrom of Lovers
+Encounter: Mortimer Strauss
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: mortimer strauss takes 861 damage.
+Round 2: boolicious wins the fight!
+After Battle: With a twist and a twirl, a flitter and flutter, / your pet dances brightly, a fly made of butter.
+You acquire an item: Mortimer's nostrum
+You acquire an item: jar full of wind
+You gain 17 Strongness
+You gain 10 Magicalness
+You gain 12 Roguishness
+
+[22173] The Maelstrom of Lovers
+Encounter: Mortimer Strauss
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: mortimer strauss takes 851 damage.
+Round 2: boolicious wins the fight!
+After Battle: A shimmy, a swirl, a twist, and a hop, / your familiar does dances to make items drop.
+You acquire an item: Mortimer's nostrum
+You acquire an item: jar full of wind
+You gain 20 Strongness
+You gain 10 Magicalness
+You gain 10 Roguishness
+
+[22174] The Maelstrom of Lovers
+Encounter: Marcus Macurgeon
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marcus macurgeon takes 837 damage.
+Round 2: boolicious wins the fight!
+After Battle: With a twist and a twirl, a flitter and flutter, / your pet dances brightly, a fly made of butter.
+You acquire an item: jar full of wind
+You gain 19 Strongness
+You gain 10 Magicalness
+You gain 10 Roguishness
+
+[22175] The Maelstrom of Lovers
+Encounter: Wonderful Winifred Wongle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wonderful winifred wongle takes 848 damage.
+Round 2: boolicious wins the fight!
+After Battle: With a twist and a twirl, a flitter and flutter, / your pet dances brightly, a fly made of butter.
+You acquire an item: jar full of wind
+You gain 22 Strongness
+You gain 8 Magicalness
+You gain 9 Roguishness
+
+[22176] The Maelstrom of Lovers
+Encounter: Bettie Barulio
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 5 hit points
+Round 2: boolicious attacks!
+Round 3: bettie barulio takes 846 damage.
+Round 3: boolicious wins the fight!
+After Battle: Your pet does a tango, a jig, and a waltz, / to help you get profit from recent assaults.
+You acquire an item: jar full of wind
+You gain 20 Strongness
+You gain 9 Magicalness
+You gain 11 Roguishness
+
+[22177] The Maelstrom of Lovers
+Encounter: Bettie Barulio
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bettie barulio takes 845 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your familiar spins 'round and it cuts up the rug, / doing a quick miniature jitterbug.
+You acquire an item: Barulio's bottle
+You acquire an item: jar full of wind
+You gain 22 Strongness
+You gain 12 Magicalness
+You gain 6 Roguishness
+
+[22178] The Maelstrom of Lovers
+Encounter: Wonderful Winifred Wongle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wonderful winifred wongle takes 851 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your pet does a tango, a jig, and a waltz, / to help you get profit from recent assaults.
+You acquire an item: jar full of wind
+You gain 19 Strongness
+You gain 15 Magicalness
+You gain 6 Roguishness
+
+[22179] The Maelstrom of Lovers
+Encounter: Marcus Macurgeon
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marcus macurgeon takes 831 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your buddy does dances, it spins and it twirls! / It finds extra riches for good boys and girls!
+You acquire an item: purple prose pen
+You acquire an item: jar full of wind
+You acquire an item: jar full of wind
+You gain 19 Strongness
+You gain 10 Magicalness
+You gain 11 Roguishness
+
+[22180] The Maelstrom of Lovers
+Encounter: Marvin J. Sunny
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marvin j. sunny takes 846 damage.
+Round 2: boolicious wins the fight!
+After Battle: With a twist and a twirl, a flitter and flutter, / your pet dances brightly, a fly made of butter.
+You acquire an item: jar full of wind
+You gain 17 Strongness
+You gain 16 Magicalness
+You gain 6 Roguishness
+
+[22181] The Maelstrom of Lovers
+Encounter: Marcus Macurgeon
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marcus macurgeon takes 844 damage.
+Round 2: boolicious wins the fight!
+After Battle: A shimmy, a swirl, a twist, and a hop, / your familiar does dances to make items drop.
+You acquire an item: purple prose pen
+You acquire an item: jar full of wind
+You gain 29 Strongness
+You gain 4 Magicalness
+You gain 7 Roguishness
+
+[22182] The Maelstrom of Lovers
+Encounter: Mortimer Strauss
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 3 hit points
+Round 2: Your pet grabs a foe in a wrestling lock, / holding him still so you can clean his clock.
+Round 2: boolicious attacks!
+Round 3: mortimer strauss takes 839 damage.
+Round 3: boolicious wins the fight!
+After Battle: Your buddy does dances, it spins and it twirls! / It finds extra riches for good boys and girls!
+You acquire an item: jar full of wind
+You gain 21 Strongness
+You gain 11 Magicalness
+You gain 8 Roguishness
+
+[22183] The Maelstrom of Lovers
+Encounter: Bettie Barulio
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bettie barulio takes 847 damage.
+Round 2: boolicious wins the fight!
+After Battle: A shimmy, a swirl, a twist, and a hop, / your familiar does dances to make items drop.
+You acquire an item: Barulio's bottle
+You acquire an item: jar full of wind
+You gain 26 Strongness
+You gain 5 Magicalness
+You gain 9 Roguishness
+
+[22184] The Maelstrom of Lovers
+Encounter: Bettie Barulio
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bettie barulio takes 875 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your pet does a tango, a jig, and a waltz, / to help you get profit from recent assaults.
+You acquire an item: jar full of wind
+You gain 24 Strongness
+You gain 10 Magicalness
+You gain 7 Roguishness
+
+[22185] The Maelstrom of Lovers
+Encounter: Wonderful Winifred Wongle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wonderful winifred wongle takes 837 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your pet does a tango, a jig, and a waltz, / to help you get profit from recent assaults.
+You acquire an item: jar full of wind
+You gain 18 Strongness
+You gain 10 Magicalness
+You gain 12 Roguishness
+
+[22186] The Maelstrom of Lovers
+Encounter: Wonderful Winifred Wongle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wonderful winifred wongle takes 877 damage.
+Round 2: boolicious wins the fight!
+After Battle: A shimmy, a swirl, a twist, and a hop, / your familiar does dances to make items drop.
+You acquire an item: jar full of wind
+You gain 19 Strongness
+You gain 9 Magicalness
+You gain 11 Roguishness
+
+[22187] The Maelstrom of Lovers
+Encounter: Mortimer Strauss
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: mortimer strauss takes 848 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your buddy does dances, it spins and it twirls! / It finds extra riches for good boys and girls!
+You acquire an item: Mortimer's nostrum
+You acquire an item: jar full of wind
+You gain 17 Strongness
+You gain 12 Magicalness
+You gain 11 Roguishness
+
+[22188] The Maelstrom of Lovers
+Encounter: Marcus Macurgeon
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marcus macurgeon takes 850 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your pet does a tango, a jig, and a waltz, / to help you get profit from recent assaults.
+You acquire an item: purple prose pen
+You acquire an item: jar full of wind
+You gain 17 Strongness
+You gain 7 Magicalness
+You gain 16 Roguishness
+
+[22189] The Maelstrom of Lovers
+Encounter: Wonderful Winifred Wongle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wonderful winifred wongle takes 840 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your familiar spins 'round and it cuts up the rug, / doing a quick miniature jitterbug.
+You acquire an item: jar full of wind
+You gain 17 Strongness
+You gain 11 Magicalness
+You gain 12 Roguishness
+
+[22190] The Maelstrom of Lovers
+Encounter: Marcus Macurgeon
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marcus macurgeon takes 840 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your familiar spins 'round and it cuts up the rug, / doing a quick miniature jitterbug.
+You acquire an item: jar full of wind
+You gain 20 Strongness
+You gain 6 Magicalness
+You gain 13 Roguishness
+
+[22191] The Maelstrom of Lovers
+Encounter: Bettie Barulio
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bettie barulio takes 848 damage.
+Round 2: boolicious wins the fight!
+After Battle: A shimmy, a swirl, a twist, and a hop, / your familiar does dances to make items drop.
+You acquire an item: Barulio's bottle
+You acquire an item: jar full of wind
+You gain 25 Strongness
+You gain 13 Magicalness
+You gain 2 Roguishness
+
+[22192] The Maelstrom of Lovers
+Encounter: Marvin J. Sunny
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marvin j. sunny takes 832 damage.
+Round 2: boolicious wins the fight!
+After Battle: A shimmy, a swirl, a twist, and a hop, / your familiar does dances to make items drop.
+You acquire an item: jar full of wind
+You gain 22 Strongness
+You gain 12 Magicalness
+You gain 6 Roguishness
+
+[22193] The Maelstrom of Lovers
+Encounter: Mortimer Strauss
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: mortimer strauss takes 833 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your pet does a tango, a jig, and a waltz, / to help you get profit from recent assaults.
+You acquire an item: Mortimer's nostrum
+You acquire an item: jar full of wind
+You gain 21 Strongness
+You gain 10 Magicalness
+You gain 9 Roguishness
+
+[22194] The Maelstrom of Lovers
+Encounter: Bettie Barulio
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bettie barulio takes 832 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your familiar spins 'round and it cuts up the rug, / doing a quick miniature jitterbug.
+You acquire an item: Barulio's bottle
+You acquire an item: jar full of wind
+You acquire an item: jar full of wind
+You gain 25 Strongness
+You gain 9 Magicalness
+You gain 6 Roguishness
+
+[22195] The Maelstrom of Lovers
+Encounter: Wonderful Winifred Wongle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wonderful winifred wongle takes 883 damage.
+Round 2: boolicious wins the fight!
+After Battle: A shimmy, a swirl, a twist, and a hop, / your familiar does dances to make items drop.
+You acquire an item: jar full of wind
+You gain 26 Strongness
+You gain 6 Magicalness
+You gain 8 Roguishness
+
+[22196] The Maelstrom of Lovers
+Encounter: Marcus Macurgeon
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marcus macurgeon takes 834 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your buddy does dances, it spins and it twirls! / It finds extra riches for good boys and girls!
+You acquire an item: jar full of wind
+You gain 18 Strongness
+You gain 12 Magicalness
+You gain 9 Roguishness
+
+[22197] The Maelstrom of Lovers
+Encounter: Wonderful Winifred Wongle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wonderful winifred wongle takes 839 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your pet does a tango, a jig, and a waltz, / to help you get profit from recent assaults.
+You acquire an item: jar full of wind
+You gain 19 Strongness
+You gain 13 Magicalness
+You gain 7 Roguishness
+unequip weapon
+unequip offhand
+
+equip shirt General Sage's Lonely Diamonds Club Jacket
+
+equip acc1 fudgecycle
+
+equip acc2 time halo
+
+equip acc3 wristwatch of the white knight
