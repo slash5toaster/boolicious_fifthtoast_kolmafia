@@ -1,14 +1,14 @@
-AdventureFrame=1916,248,1
+AdventureFrame=465,470,1
 CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=674,0,-1
-LoginFrame=674,0,0
+KoLDesktop=185,49,-1
+LoginFrame=395,326,0
 MaximizerFrame=2333,376
 ProfileFrame=2662,409,-1
 RequestFrame=2575,334,-1
 RequestSynchFrame=2575,334,-1
-TabbedChatFrame=2630,450,0
+TabbedChatFrame=1317,409,0
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -444,7 +444,7 @@ choiceAdventure455=0
 choiceAdventure456=0
 choiceAdventure457=2
 choiceAdventure458=1
-choiceAdventure46=3
+choiceAdventure46=1
 choiceAdventure460=0
 choiceAdventure461=0
 choiceAdventure462=0
@@ -475,10 +475,10 @@ choiceAdventure491=0
 choiceAdventure496=1
 choiceAdventure497=0
 choiceAdventure5=2
-choiceAdventure502=0
-choiceAdventure503=0
+choiceAdventure502=1
+choiceAdventure503=1
 choiceAdventure504=0
-choiceAdventure505=0
+choiceAdventure505=3
 choiceAdventure506=0
 choiceAdventure507=0
 choiceAdventure509=1
@@ -565,8 +565,8 @@ cocktailSummons=1
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=2413
-currentFullness=10
+currentBountyItem=0
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -650,7 +650,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Spooky Forest
+lastAdventure=Haunted Bedroom
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=healing
@@ -671,7 +671,7 @@ lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=12
-lastCounterDay=2
+lastCounterDay=3
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -712,7 +712,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=The Road Less Traveled
+lastEncounter=animated nightstand
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -754,7 +754,7 @@ lastPorkoPayouts
 lastPyramidReset=-1
 lastQuartetAscension=-1
 lastQuartetRequest=0
-lastSecondFloorUnlock=-1
+lastSecondFloorUnlock=0
 lastSemirareReset=0
 lastSkateParkReset=0
 lastSlimeVial3885
@@ -866,7 +866,7 @@ questL11Manor=started
 questL11Palindome=finished
 questL11Pyramid=step11
 questL11Worship=finished
-questL12War=unstarted
+questL12War=finished
 questL13Final=unstarted
 questM01Untinker=finished
 questM02Artist=finished
@@ -886,7 +886,7 @@ questS01OldGuy=unstarted
 questS02Monkees=unstarted
 rageGlandVented=false
 rainDohMonster
-raveCombo1
+raveCombo1=Run Like the Wind,Pop and Lock It,Break It On Down
 raveCombo2
 raveCombo3=Pop and Lock It,Break It On Down,Run Like the Wind
 raveCombo4=Break It On Down,Pop and Lock It,Run Like the Wind
@@ -910,7 +910,7 @@ serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
 showTurnFreeOnly=false
-sideDefeated=neither
+sideDefeated=fratboys
 sidequestArenaCompleted=none
 sidequestFarmCompleted=none
 sidequestJunkyardCompleted=none
@@ -1016,5 +1016,5 @@ volcanoMaze2
 volcanoMaze3
 volcanoMaze4
 volcanoMaze5
-warProgress=unstarted
+warProgress=finished
 welcomeBackAdv=0
