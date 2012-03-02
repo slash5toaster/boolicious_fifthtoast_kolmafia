@@ -598,7 +598,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=15
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -705,7 +705,7 @@ lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=27
-lastCounterDay=3
+lastCounterDay=4
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=1
@@ -818,7 +818,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=10
+libramSummons=0
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
