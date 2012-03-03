@@ -203,8 +203,8 @@ chefTurnsUsed=0
 chessboardsCleared=0
 choiceAdventure10=1
 choiceAdventure105=3
-choiceAdventure106=4
-choiceAdventure107=4
+choiceAdventure106=3
+choiceAdventure107=3
 choiceAdventure108=2
 choiceAdventure109=2
 choiceAdventure11=3
@@ -549,8 +549,8 @@ choiceAdventure79=1
 choiceAdventure8=3
 choiceAdventure80=99
 choiceAdventure81=1
-choiceAdventure82=1
-choiceAdventure83=1
+choiceAdventure82=2
+choiceAdventure83=3
 choiceAdventure84=1
 choiceAdventure85=1
 choiceAdventure86=2
@@ -651,7 +651,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Cobb's Knob Treasury
+lastAdventure=Haunted Bedroom
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion-1=confusion
@@ -714,7 +714,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=Finally, the Payoff
+lastEncounter=One Nightstand
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -754,8 +754,8 @@ lastPorkoBoard
 lastPorkoExpected
 lastPorkoPayouts
 lastPyramidReset=-1
-lastQuartetAscension=-1
-lastQuartetRequest=0
+lastQuartetAscension=0
+lastQuartetRequest=4
 lastSecondFloorUnlock=-1
 lastSemirareReset=0
 lastSkateParkReset=0
@@ -836,7 +836,7 @@ plantingScript
 poolSharkCount=0
 postAscensionScript
 preAscensionScript
-preBlackbirdFamiliar
+preBlackbirdFamiliar=Cocoabo
 prismaticSummons=0
 promptAboutCrafting=1
 pyramidBombUsed=false
@@ -864,7 +864,7 @@ questL08Trapper=finished
 questL09Lol=finished
 questL10Garbage=finished
 questL11MacGuffin=step2
-questL11Manor=started
+questL11Manor=step1
 questL11Palindome=finished
 questL11Pyramid=step11
 questL11Worship=finished
@@ -945,11 +945,11 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=5005
-stationaryButton2=5008
-stationaryButton3=5021
-stationaryButton4=2
-stationaryButton5=5012
+stationaryButton1=5008
+stationaryButton2=5021
+stationaryButton3=2
+stationaryButton4=5012
+stationaryButton5=5019
 styxPixieVisited=false
 sugarCounter4178=0
 sugarCounter4179=0

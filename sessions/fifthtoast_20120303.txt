@@ -189,3 +189,1333 @@ You gain 500 Meat
 equip hat Disco 'Fro Pick
 
 equip pants Volartta's bellbottoms
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 3, 2012 - Bor 7
+
+Ronald: third quarter
+Grimace: waxing gibbous
+Mini-moon: in front of Ronald, R side
+
+Arrrbor Day: 5 days
+St. Sneaky Pete's Day: 14 days
+Lab&oacute;r Day: 15 days
+Halloween: 25 days
+Feast of Boris: 32 days
+Oyster Egg Day: 36 days
+Yuletide: 37 days
+Festival of Jarlsberg: 42 days
+Valentine's Day: 53 days
+El Dia De Los Muertos Borrachos: 75 days
+Generic Summer Holiday: 84 days
+Dependence Day: 93 days
+
+
+2 days until Muscle.
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 14
+HP: 194 / 194
+MP: 141 / 164
+
+Mus: 161 (139), tnp = 195
+Mys: 164 (141), tnp = 237
+Mox: 251 (186), tnp = 325
+
+Advs: 80
+Meat: 109,053
+Drunk: 0
+
+
+ > equipment
+
+Hat: Disco 'Fro Pick
+Weapon: diamond-studded cane
+Off-hand: Tuesday's ruby
+Shirt: (none)
+Pants: Volartta's bellbottoms
+
+Acc. 1: Green Clover of Justice
+Acc. 2: Lord Spookyraven's spectacles
+Acc. 3: Bling of the New Wave
+
+Pet: Whirling Maple Leaf (18 lbs)
+Item: tiny Mountie hat
+
+ > skills
+
+Uncategorized
+ - Break It On Down
+ - CLEESH
+ - Chronic Indigestion
+ - Gothy Handwave
+ - Liver of Steel
+ - Pop and Lock It
+ - Run Like the Wind
+
+Disco Bandit
+ - Advanced Cocktailcrafting
+ - Ambidextrous Funkslinging
+ - Disco Aerobics
+ - Disco Dance II: Electric Boogaloo
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Face Stab
+ - Disco Fever
+ - Disco Nap
+ - Disco Power Nap
+ - Heart of Polyester
+ - Mad Looting Skillz
+ - Nimble Fingers
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Ghostly Shell (381)
+Reptilian Fortitude (381)
+Scarysauce (381)
+Jingle Jangle Jingle (381)
+Tenacity of the Snapper (381)
+Astral Shell (381)
+Jalapeño Saucesphere (381)
+Empathy (381)
+Jabañero Saucesphere (381)
+♫ The Sonata of Sneakiness (381)
+♫ Fat Leon's Phat Loot Lyric (381)
+♫ Stevedave's Shanty of Superiority (381)
+Elemental Saucesphere (381)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: +31.00%
+
+Exp: +0.00
+Meat: +20.00%
+Item: +48.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+Use 3 disassembled clover
+You acquire ten-leaf clover (3)
+
+[3832] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/3: quest item
+choice.php?pwd&whichchoice=83&option=3
+
+[3833] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/1: old coin purse
+choice.php?pwd&whichchoice=83&option=1
+You acquire an item: old coin purse
+
+[3834] Icy Peak
+Encounter: Encino Penguin
+You acquire an item: frozen Mob Penguin
+
+[3835] Icy Peak
+Encounter: Encino Penguin
+You acquire an item: frozen Mob Penguin
+
+multiuse.php?passitem=1789&pwd=e7b06fc0faf92e3fe8f437d8da3d24ea
+
+use 2 frozen Mob Penguin
+You acquire penguin skin (2)
+You acquire an item: kneecapping stick
+You acquire an item: Mob Penguin cellular phone
+You acquire an item: iron pasta spoon
+You acquire scroll of pasta summoning (2)
+
+[3836] Icy Peak
+Encounter: Encino Penguin
+You acquire an item: frozen Mob Penguin
+
+use 1 frozen Mob Penguin
+You acquire an item: penguin skin
+You acquire an item: kneecapping stick
+You acquire an item: Mob Penguin cellular phone
+
+[3837] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 82/3: enter combat
+choice.php?pwd&whichchoice=82&option=3
+Encounter: animated nightstand
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: animated nightstand (white) takes 1 damage.
+Round 2: animated nightstand (white) drops 1 attack power.
+Round 2: animated nightstand (white) drops 1 defense.
+Round 2: fifthtoast attacks!
+Round 3: animated nightstand (white) takes 29 damage.
+Round 3: fifthtoast executes a macro!
+Round 3: fifthtoast casts DISCO DANCE OF DOOM!
+Round 4: animated nightstand (white) takes 7 damage.
+Round 4: animated nightstand (white) drops 5 attack power.
+Round 4: animated nightstand (white) drops 5 defense.
+Round 4: Tofflesby whirls up to your opponent and slices into it for 13 damage.
+Round 4: animated nightstand (white) takes 13 damage.
+Round 4: fifthtoast casts DISCO FACE STAB!
+Round 5: animated nightstand (white) takes 18 damage.
+Round 5: animated nightstand (white) drops 9 attack power.
+Round 5: animated nightstand (white) drops 9 defense.
+Round 5: fifthtoast attacks!
+Round 6: animated nightstand (white) takes 42 damage.
+Round 6: animated nightstand (white) takes 17 damage.
+Round 6: fifthtoast attacks!
+Round 7: animated nightstand (white) takes 42 damage.
+Round 7: fifthtoast attacks!
+Round 8: animated nightstand (white) takes 40 damage.
+Round 8: fifthtoast wins the fight!
+After Battle: Tofflesby flutters above you, sprinkling you with maple syrup.
+You gain 19 Mojo Points
+You acquire an item: grouchy restless spirit
+You gain 11 Muscleboundness
+You gain 12 Wizardliness
+You gain 17 Roguishness
+
+[3838] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 84/1: small meat boost
+choice.php?pwd&whichchoice=84&option=1
+You gain 451 Meat
+
+[3839] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 82/1: old leather wallet
+choice.php?pwd&whichchoice=82&option=1
+You acquire an item: old leather wallet
+
+multiuse.php?passitem=1917&pwd=e7b06fc0faf92e3fe8f437d8da3d24ea
+
+use 15 old leather wallet
+You gain 6,928 Meat
+
+[3840] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 82/1: old leather wallet
+choice.php?pwd&whichchoice=82&option=1
+You acquire an item: old leather wallet
+
+[3841] Haunted Bedroom
+Encounter: animated nightstand
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: animated nightstand (white) takes 1 damage.
+Round 2: animated nightstand (white) drops 1 attack power.
+Round 2: animated nightstand (white) drops 1 defense.
+Round 2: fifthtoast attacks!
+Round 3: animated nightstand (white) takes 26 damage.
+Round 3: animated nightstand (white) takes 1 damage.
+Round 3: animated nightstand (white) takes 8 damage.
+Round 3: animated nightstand (white) takes 3 damage.
+You lose 12 hit points
+Round 3: fifthtoast attacks!
+Round 4: animated nightstand (white) takes 25 damage.
+Round 4: Tofflesby whirls up to your opponent and slices into it for 12 damage.
+Round 4: animated nightstand (white) takes 12 damage.
+Round 4: fifthtoast attacks!
+Round 5: animated nightstand (white) takes 32 damage.
+Round 5: Tofflesby whirls up to your opponent and slices into it for 14 damage.
+Round 5: animated nightstand (white) takes 14 damage.
+Round 5: fifthtoast attacks!
+Round 6: animated nightstand (white) takes 26 damage.
+Round 6: fifthtoast attacks!
+Round 7: animated nightstand (white) takes 27 damage.
+Round 7: fifthtoast attacks!
+Round 8: animated nightstand (white) takes 25 damage.
+Round 8: fifthtoast wins the fight!
+After Battle: Tofflesby flutters above you, sprinkling you with maple syrup.
+You gain 14 Mojo Points
+You acquire an item: grouchy restless spirit
+You gain 13 Beefiness
+You gain 10 Wizardliness
+You gain 16 Cheek
+
+manor2.php?place=ballroom
+
+[3842] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/3: quest item
+choice.php?pwd&whichchoice=83&option=3
+
+[3843] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 85/1: moxie
+choice.php?pwd&whichchoice=85&option=1
+You gain 183 Roguishness
+
+[3844] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 82/2: muscle substats
+choice.php?pwd&whichchoice=82&option=2
+You gain 187 Fortitude
+You gain a Muscle point!
+
+[3845] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 84/2: mysticality substats
+choice.php?pwd&whichchoice=84&option=2
+You gain 186 Enchantedness
+
+[3846] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/3: quest item
+choice.php?pwd&whichchoice=83&option=3
+
+[3847] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 85/2: ballroom key step 2
+choice.php?pwd&whichchoice=85&option=2
+You acquire an item: Spookyraven ballroom key
+
+[3848] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 1 damage.
+Round 2: floating platter of hors d'oeuvres drops 1 attack power.
+Round 2: floating platter of hors d'oeuvres drops 1 defense.
+Round 2: fifthtoast attacks!
+Round 3: floating platter of hors d'oeuvres takes 78 damage.
+Round 3: Tofflesby whirls up to your opponent and slices into it for 17 damage.
+Round 3: floating platter of hors d'oeuvres takes 17 damage.
+Round 3: fifthtoast attacks!
+Round 4: floating platter of hors d'oeuvres takes 80 damage.
+Round 4: Tofflesby whirls up to your opponent and slices into it for 18 damage.
+Round 4: floating platter of hors d'oeuvres takes 18 damage.
+Round 4: fifthtoast wins the fight!
+After Battle: Tofflesby flutters above you, sprinkling you with maple syrup.
+You gain 13 Mojo Points
+You acquire an item: desiccated apricot
+You gain 5 Beefiness
+You gain 4 Enchantedness
+You gain 19 Sarcasm
+
+familiar Baby Gravy Fairy (30 lbs)
+
+familiar Cocoabo (25 lbs)
+
+familiar Reassembled Blackbird (6 lbs)
+
+[3849] Haunted Ballroom
+Encounter: Strung-Up Quartet
+Took choice 106/3: increase item drops
+choice.php?pwd&whichchoice=106&option=3
+
+[3850] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: tapdancing skeleton takes 1 damage.
+Round 2: tapdancing skeleton drops 1 attack power.
+Round 2: tapdancing skeleton drops 1 defense.
+Round 2: fifthtoast attacks!
+You lose 6 hit points
+Round 3: fifthtoast attacks!
+Round 4: tapdancing skeleton takes 81 damage.
+Round 4: tapdancing skeleton takes 2 damage.
+Round 4: tapdancing skeleton takes 1 damage.
+Round 4: tapdancing skeleton takes 4 damage.
+You lose 9 hit points
+Round 4: fifthtoast executes a macro!
+Round 4: fifthtoast casts DISCO EYE-POKE!
+Round 5: tapdancing skeleton takes 2 damage.
+Round 5: tapdancing skeleton drops 3 attack power.
+Round 5: tapdancing skeleton drops 3 defense.
+Round 5: fifthtoast casts DISCO DANCE OF DOOM!
+Round 6: tapdancing skeleton takes 6 damage.
+Round 6: tapdancing skeleton drops 5 attack power.
+Round 6: tapdancing skeleton drops 5 defense.
+Round 6: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 7: tapdancing skeleton takes 10 damage.
+You acquire an effect: Disco Concentration (duration: 1 Adventure)
+Round 7: tapdancing skeleton drops 7 attack power.
+Round 7: tapdancing skeleton drops 7 defense.
+Round 7: fifthtoast attacks!
+Round 8: tapdancing skeleton takes 93 damage.
+Round 8: fifthtoast wins the fight!
+You gain 9 Beefiness
+You gain 5 Magicalness
+You gain 15 Roguishness
+
+[3851] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 1 damage.
+Round 2: floating platter of hors d'oeuvres drops 1 attack power.
+Round 2: floating platter of hors d'oeuvres drops 1 defense.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO EYE-POKE!
+Round 3: floating platter of hors d'oeuvres takes 1 damage.
+Round 3: floating platter of hors d'oeuvres drops 3 attack power.
+Round 3: floating platter of hors d'oeuvres drops 3 defense.
+Round 3: fifthtoast casts DISCO DANCE OF DOOM!
+Round 4: floating platter of hors d'oeuvres takes 7 damage.
+Round 4: floating platter of hors d'oeuvres drops 5 attack power.
+Round 4: floating platter of hors d'oeuvres drops 5 defense.
+Round 4: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 5: floating platter of hors d'oeuvres takes 9 damage.
+You acquire an effect: Disco Concentration (duration: 1 Adventure)
+Round 5: floating platter of hors d'oeuvres drops 7 attack power.
+Round 5: floating platter of hors d'oeuvres drops 7 defense.
+Round 5: fifthtoast attacks!
+Round 6: floating platter of hors d'oeuvres takes 95 damage.
+Round 6: fifthtoast attacks!
+Round 7: floating platter of hors d'oeuvres takes 92 damage.
+Round 7: fifthtoast wins the fight!
+You acquire an item: desiccated apricot
+You acquire an item: flute of flat champagne
+You acquire an item: hors d'oeuvre tray
+You gain 7 Strongness
+You gain 7 Wizardliness
+You gain 14 Chutzpah
+
+[3852] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 1 damage.
+Round 2: floating platter of hors d'oeuvres drops 1 attack power.
+Round 2: floating platter of hors d'oeuvres drops 1 defense.
+Round 2: fifthtoast attacks!
+Round 3: floating platter of hors d'oeuvres takes 83 damage.
+Round 3: fifthtoast executes a macro!
+Round 3: fifthtoast casts DISCO EYE-POKE!
+Round 4: floating platter of hors d'oeuvres takes 1 damage.
+Round 4: floating platter of hors d'oeuvres drops 3 attack power.
+Round 4: floating platter of hors d'oeuvres drops 3 defense.
+Round 4: fifthtoast casts DISCO DANCE OF DOOM!
+Round 5: floating platter of hors d'oeuvres takes 7 damage.
+Round 5: floating platter of hors d'oeuvres drops 5 attack power.
+Round 5: floating platter of hors d'oeuvres drops 5 defense.
+Round 5: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 6: floating platter of hors d'oeuvres takes 10 damage.
+You acquire an effect: Disco Concentration (duration: 1 Adventure)
+Round 6: floating platter of hors d'oeuvres drops 7 attack power.
+Round 6: floating platter of hors d'oeuvres drops 7 defense.
+Round 6: fifthtoast attacks!
+Round 7: floating platter of hors d'oeuvres takes 98 damage.
+Round 7: fifthtoast wins the fight!
+Your familiar gains a pound: beatles, the 2 lb. Reassembled Blackbird
+You acquire an item: desiccated apricot
+You gain 5 Strongness
+You gain 10 Magicalness
+You gain 11 Chutzpah
+
+familiar Cocoabo (25 lbs)
+
+[3853] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: zombie waltzers takes 1 damage.
+Round 2: zombie waltzers drops 1 attack power.
+Round 2: zombie waltzers drops 1 defense.
+Round 2: fifthtoast attacks!
+Round 3: zombie waltzers takes 71 damage.
+Round 3: fifthtoast executes a macro!
+Round 3: fifthtoast casts DISCO EYE-POKE!
+Round 4: zombie waltzers takes 1 damage.
+Round 4: zombie waltzers drops 3 attack power.
+Round 4: zombie waltzers drops 3 defense.
+Round 4: Gorg's bells jingle merrily.
+Round 4: Gorg roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 123 Meat.
+Round 4: fifthtoast casts DISCO DANCE OF DOOM!
+Round 5: zombie waltzers takes 16 damage.
+Round 5: zombie waltzers drops 10 attack power.
+Round 5: zombie waltzers drops 10 defense.
+Round 5: Gorg's bells jingle merrily.
+Round 5: Gorg roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 90 Meat.
+Round 5: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 6: zombie waltzers takes 16 damage.
+You acquire an effect: Disco Concentration (duration: 1 Adventure)
+Round 6: zombie waltzers drops 14 attack power.
+Round 6: zombie waltzers drops 14 defense.
+Round 6: zombie waltzers takes 2 damage.
+Round 6: zombie waltzers takes 1 damage.
+Round 6: zombie waltzers takes 4 damage.
+You lose 9 hit points
+Round 6: fifthtoast attacks!
+Round 7: zombie waltzers takes 99 damage.
+Round 7: Gorg's bells jingle merrily.
+Round 7: Gorg paws at the ground for a second, and then charges your opponent, bashing them for 26 damage.
+Round 7: zombie waltzers takes 26 damage.
+Round 7: fifthtoast wins the fight!
+You gain 117 Meat
+You gain 7 Fortitude
+You gain 6 Magicalness
+You gain a Mysticality point!
+You gain 16 Roguishness
+
+[3854] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: tapdancing skeleton takes 1 damage.
+Round 2: tapdancing skeleton drops 1 attack power.
+Round 2: tapdancing skeleton drops 1 defense.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO EYE-POKE!
+Round 3: tapdancing skeleton takes 2 damage.
+Round 3: tapdancing skeleton drops 3 attack power.
+Round 3: tapdancing skeleton drops 3 defense.
+Round 3: fifthtoast casts DISCO DANCE OF DOOM!
+Round 4: tapdancing skeleton takes 7 damage.
+Round 4: tapdancing skeleton drops 5 attack power.
+Round 4: tapdancing skeleton drops 5 defense.
+Round 4: Gorg roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 79 Meat.
+Round 4: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 5: tapdancing skeleton takes 9 damage.
+You acquire an effect: Disco Concentration (duration: 1 Adventure)
+Round 5: tapdancing skeleton drops 7 attack power.
+Round 5: tapdancing skeleton drops 7 defense.
+Round 5: Gorg's bells jingle merrily.
+Round 5: Gorg coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mojo Points
+Round 5: fifthtoast attacks!
+Round 6: tapdancing skeleton takes 93 damage.
+Round 6: fifthtoast attacks!
+Round 7: tapdancing skeleton takes 92 damage.
+Round 7: fifthtoast wins the fight!
+You acquire an item: tap shoes
+You gain 8 Fortitude
+You gain 9 Magicalness
+You gain 11 Cheek
+
+[3855] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?pwd&whichchoice=90&option=2
+You gain 150 Roguishness
+You gain a Moxie point!
+
+[3856] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 1 damage.
+Round 2: floating platter of hors d'oeuvres drops 1 attack power.
+Round 2: floating platter of hors d'oeuvres drops 1 defense.
+Round 2: Gorg's bells jingle merrily.
+Round 2: Gorg coos softly, and nuzzles you with his beak.
+You gain 31 hit points
+You gain 31 Mojo Points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO EYE-POKE!
+Round 3: floating platter of hors d'oeuvres takes 3 damage.
+Round 3: floating platter of hors d'oeuvres drops 3 attack power.
+Round 3: floating platter of hors d'oeuvres drops 3 defense.
+Round 3: fifthtoast casts DISCO DANCE OF DOOM!
+Round 4: floating platter of hors d'oeuvres takes 7 damage.
+Round 4: floating platter of hors d'oeuvres drops 5 attack power.
+Round 4: floating platter of hors d'oeuvres drops 5 defense.
+Round 4: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 5: floating platter of hors d'oeuvres takes 9 damage.
+You acquire an effect: Disco Concentration (duration: 1 Adventure)
+Round 5: floating platter of hors d'oeuvres drops 7 attack power.
+Round 5: floating platter of hors d'oeuvres drops 7 defense.
+Round 5: Gorg coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mojo Points
+Round 5: fifthtoast attacks!
+Round 6: floating platter of hors d'oeuvres takes 87 damage.
+Round 6: Gorg coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 57 hit points
+You gain 57 Mojo Points
+Round 6: fifthtoast attacks!
+Round 7: floating platter of hors d'oeuvres takes 84 damage.
+Round 7: fifthtoast wins the fight!
+You acquire an item: flute of flat champagne
+You gain 7 Strongness
+You gain 5 Magicalness
+You gain 18 Roguishness
+
+[3857] Haunted Ballroom
+Encounter: We'll All Be Flat
+
+[3858] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?whichchoice=90&option=2&pwd
+You gain 150 Chutzpah
+
+[3859] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?whichchoice=90&option=2&pwd
+You gain 150 Cheek
+You gain a Moxie point!
+
+[3860] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 1 damage.
+Round 2: floating platter of hors d'oeuvres drops 1 attack power.
+Round 2: floating platter of hors d'oeuvres drops 1 defense.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO DANCE OF DOOM!
+Round 3: floating platter of hors d'oeuvres takes 7 damage.
+Round 3: floating platter of hors d'oeuvres drops 5 attack power.
+Round 3: floating platter of hors d'oeuvres drops 5 defense.
+Round 3: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 4: floating platter of hors d'oeuvres takes 9 damage.
+You acquire an effect: Disco Nirvana (duration: 1 Adventure)
+Round 4: floating platter of hors d'oeuvres drops 7 attack power.
+Round 4: floating platter of hors d'oeuvres drops 7 defense.
+Round 4: Gorg's bells jingle merrily.
+Round 4: Gorg roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 207 Meat.
+Round 4: fifthtoast attacks!
+Round 5: floating platter of hors d'oeuvres takes 90 damage.
+Round 5: fifthtoast attacks!
+Round 6: floating platter of hors d'oeuvres takes 86 damage.
+Round 6: fifthtoast wins the fight!
+You gain 6 Strongness
+You gain 12 Wizardliness
+You gain 11 Chutzpah
+
+[3861] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: tapdancing skeleton takes 1 damage.
+Round 2: tapdancing skeleton drops 1 attack power.
+Round 2: tapdancing skeleton drops 1 defense.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO DANCE OF DOOM!
+Round 3: tapdancing skeleton takes 7 damage.
+Round 3: tapdancing skeleton drops 5 attack power.
+Round 3: tapdancing skeleton drops 5 defense.
+Round 3: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 4: tapdancing skeleton takes 10 damage.
+You acquire an effect: Disco Nirvana (duration: 1 Adventure)
+Round 4: tapdancing skeleton drops 7 attack power.
+Round 4: tapdancing skeleton drops 7 defense.
+Round 4: Gorg's bells jingle merrily.
+Round 4: Gorg squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 4: tapdancing skeleton drops 8 attack power.
+Round 4: tapdancing skeleton drops 8 defense.
+Round 4: fifthtoast attacks!
+Round 5: tapdancing skeleton takes 99 damage.
+Round 5: fifthtoast attacks!
+Round 6: tapdancing skeleton takes 98 damage.
+Round 6: fifthtoast wins the fight!
+You gain 4 Strongness
+You gain 5 Wizardliness
+You gain 20 Cheek
+
+[3862] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 1 damage.
+Round 2: floating platter of hors d'oeuvres drops 1 attack power.
+Round 2: floating platter of hors d'oeuvres drops 1 defense.
+Round 2: Gorg squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 2: floating platter of hors d'oeuvres drops 9 attack power.
+Round 2: floating platter of hors d'oeuvres drops 9 defense.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO DANCE OF DOOM!
+Round 3: floating platter of hors d'oeuvres takes 6 damage.
+Round 3: floating platter of hors d'oeuvres drops 5 attack power.
+Round 3: floating platter of hors d'oeuvres drops 5 defense.
+Round 3: Gorg's bells jingle merrily.
+Round 3: Gorg coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mojo Points
+Round 3: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 4: floating platter of hors d'oeuvres takes 8 damage.
+You acquire an effect: Disco Nirvana (duration: 1 Adventure)
+Round 4: floating platter of hors d'oeuvres drops 7 attack power.
+Round 4: floating platter of hors d'oeuvres drops 7 defense.
+Round 4: fifthtoast attacks!
+Round 5: floating platter of hors d'oeuvres takes 97 damage.
+Round 5: floating platter of hors d'oeuvres takes 3 damage.
+Round 5: floating platter of hors d'oeuvres takes 1 damage.
+Round 5: floating platter of hors d'oeuvres takes 5 damage.
+You lose 9 hit points
+Round 5: fifthtoast attacks!
+Round 6: floating platter of hors d'oeuvres takes 96 damage.
+Round 6: fifthtoast wins the fight!
+You acquire an item: desiccated apricot
+You gain 4 Strengthliness
+You gain 7 Magicalness
+You gain 18 Chutzpah
+
+[3863] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: zombie waltzers takes 1 damage.
+Round 2: zombie waltzers drops 1 attack power.
+Round 2: zombie waltzers drops 1 defense.
+Round 2: Gorg's bells jingle merrily.
+Round 2: Gorg roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 128 Meat.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO DANCE OF DOOM!
+Round 3: zombie waltzers takes 16 damage.
+Round 3: zombie waltzers drops 10 attack power.
+Round 3: zombie waltzers drops 10 defense.
+Round 3: Gorg's bells jingle merrily.
+Round 3: Gorg roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 103 Meat.
+Round 3: zombie waltzers takes 1 damage.
+Round 3: zombie waltzers takes 1 damage.
+Round 3: zombie waltzers takes 3 damage.
+You lose 9 hit points
+Round 3: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 4: zombie waltzers takes 20 damage.
+You acquire an effect: Disco Nirvana (duration: 1 Adventure)
+Round 4: zombie waltzers drops 14 attack power.
+Round 4: zombie waltzers drops 14 defense.
+Round 4: fifthtoast attacks!
+Round 5: zombie waltzers takes 94 damage.
+Round 5: fifthtoast wins the fight!
+You gain 171 Meat
+You gain 9 Fortitude
+You gain 3 Mysteriousness
+You gain 17 Sarcasm
+
+[3864] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: tapdancing skeleton takes 1 damage.
+Round 2: tapdancing skeleton drops 1 attack power.
+Round 2: tapdancing skeleton drops 1 defense.
+Round 2: Gorg paws at the ground for a second, and then charges your opponent, bashing him for 28 damage.
+Round 2: tapdancing skeleton takes 28 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO DANCE OF DOOM!
+Round 3: tapdancing skeleton takes 7 damage.
+Round 3: tapdancing skeleton drops 5 attack power.
+Round 3: tapdancing skeleton drops 5 defense.
+Round 3: Gorg paws at the ground for a second, and then charges your opponent, bashing him for 27 damage.
+Round 3: tapdancing skeleton takes 27 damage.
+Round 3: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 4: tapdancing skeleton takes 9 damage.
+You acquire an effect: Disco Nirvana (duration: 1 Adventure)
+Round 4: tapdancing skeleton drops 7 attack power.
+Round 4: tapdancing skeleton drops 7 defense.
+Round 4: Gorg paws at the ground for a second, and then charges your opponent, bashing him for 28 damage.
+Round 4: tapdancing skeleton takes 28 damage.
+Round 4: fifthtoast attacks!
+Round 5: tapdancing skeleton takes 89 damage.
+Round 5: fifthtoast wins the fight!
+You gain 8 Muscleboundness
+You gain 9 Mysteriousness
+You gain 11 Chutzpah
+
+[3865] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?whichchoice=90&option=2&pwd
+You gain 150 Roguishness
+
+[3866] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 1 damage.
+Round 2: floating platter of hors d'oeuvres drops 1 attack power.
+Round 2: floating platter of hors d'oeuvres drops 1 defense.
+Round 2: Gorg roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 89 Meat.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO DANCE OF DOOM!
+Round 3: floating platter of hors d'oeuvres takes 6 damage.
+Round 3: floating platter of hors d'oeuvres drops 5 attack power.
+Round 3: floating platter of hors d'oeuvres drops 5 defense.
+Round 3: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 4: floating platter of hors d'oeuvres takes 9 damage.
+You acquire an effect: Disco Nirvana (duration: 1 Adventure)
+Round 4: floating platter of hors d'oeuvres drops 7 attack power.
+Round 4: floating platter of hors d'oeuvres drops 7 defense.
+Round 4: Gorg squawks loudly and runs in a circle around your opponent.  It looks a little bit confused. LIMIT BREAK!
+Round 4: floating platter of hors d'oeuvres drops 18 attack power.
+Round 4: floating platter of hors d'oeuvres drops 18 defense.
+Round 4: fifthtoast attacks!
+You lose 3 hit points
+Round 5: fifthtoast attacks!
+Round 6: floating platter of hors d'oeuvres takes 115 damage.
+Round 6: Gorg roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 184 Meat.
+Round 6: fifthtoast wins the fight!
+You gain 6 Strongness
+You gain 8 Mysteriousness
+You gain 16 Sarcasm
+
+[3867] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?whichchoice=90&option=2&pwd
+You gain 150 Smarm
+You gain a Moxie point!
+
+[3868] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: tapdancing skeleton takes 1 damage.
+Round 2: tapdancing skeleton drops 1 attack power.
+Round 2: tapdancing skeleton drops 1 defense.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO DANCE OF DOOM!
+Round 3: tapdancing skeleton takes 6 damage.
+Round 3: tapdancing skeleton drops 5 attack power.
+Round 3: tapdancing skeleton drops 5 defense.
+Round 3: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 4: tapdancing skeleton takes 10 damage.
+You acquire an effect: Disco Nirvana (duration: 1 Adventure)
+Round 4: tapdancing skeleton drops 7 attack power.
+Round 4: tapdancing skeleton drops 7 defense.
+Round 4: Gorg roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 237 Meat.
+Round 4: fifthtoast attacks!
+Round 5: tapdancing skeleton takes 87 damage.
+Round 5: fifthtoast attacks!
+Round 6: tapdancing skeleton takes 85 damage.
+Round 6: fifthtoast wins the fight!
+You gain 9 Strongness
+You gain 6 Enchantedness
+You gain 14 Chutzpah
+
+[3869] Haunted Ballroom
+Encounter: Strung-Up Quartet
+Took choice 106/4: disable song
+choice.php?whichchoice=106&option=4&pwd
+
+[3869] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: zombie waltzers takes 1 damage.
+Round 2: zombie waltzers drops 1 attack power.
+Round 2: zombie waltzers drops 1 defense.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO DANCE OF DOOM!
+Round 3: zombie waltzers takes 12 damage.
+Round 3: zombie waltzers drops 10 attack power.
+Round 3: zombie waltzers drops 10 defense.
+Round 3: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 4: zombie waltzers takes 20 damage.
+You acquire an effect: Disco Nirvana (duration: 1 Adventure)
+Round 4: zombie waltzers drops 14 attack power.
+Round 4: zombie waltzers drops 14 defense.
+Round 4: fifthtoast attacks!
+Round 5: zombie waltzers takes 105 damage.
+Round 5: Gorg squawks loudly and runs in a circle around your opponent.  They look a little bit confused.
+Round 5: zombie waltzers drops 9 attack power.
+Round 5: zombie waltzers drops 9 defense.
+Round 5: fifthtoast wins the fight!
+You gain 129 Meat
+You acquire an item: ballroom blintz
+You gain 6 Strengthliness
+You gain 5 Mysteriousness
+You gain 18 Cheek
+
+[3870] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 1 damage.
+Round 2: floating platter of hors d'oeuvres drops 1 attack power.
+Round 2: floating platter of hors d'oeuvres drops 1 defense.
+Round 2: Gorg squawks loudly and runs in a circle around your opponent.  It looks a little bit confused. LIMIT BREAK!
+Round 2: floating platter of hors d'oeuvres drops 18 attack power.
+Round 2: floating platter of hors d'oeuvres drops 18 defense.
+Round 2: floating platter of hors d'oeuvres takes 3 damage.
+Round 2: floating platter of hors d'oeuvres takes 1 damage.
+Round 2: floating platter of hors d'oeuvres takes 3 damage.
+You lose 7 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO DANCE OF DOOM!
+Round 3: floating platter of hors d'oeuvres takes 7 damage.
+Round 3: floating platter of hors d'oeuvres drops 5 attack power.
+Round 3: floating platter of hors d'oeuvres drops 5 defense.
+Round 3: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 4: floating platter of hors d'oeuvres takes 10 damage.
+You acquire an effect: Disco Nirvana (duration: 1 Adventure)
+Round 4: floating platter of hors d'oeuvres drops 7 attack power.
+Round 4: floating platter of hors d'oeuvres drops 7 defense.
+Round 4: Gorg paws at the ground for a second, and then charges your opponent, bashing it for 28 damage.
+Round 4: floating platter of hors d'oeuvres takes 28 damage.
+Round 4: fifthtoast attacks!
+Round 5: floating platter of hors d'oeuvres takes 106 damage.
+Round 5: fifthtoast wins the fight!
+You acquire an item: dehydrated caviar
+You acquire an item: flute of flat champagne
+You gain 10 Strengthliness
+You gain 3 Magicalness
+You gain 15 Roguishness
+
+[3871] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: tapdancing skeleton takes 1 damage.
+Round 2: tapdancing skeleton drops 1 attack power.
+Round 2: tapdancing skeleton drops 1 defense.
+Round 2: Gorg paws at the ground for a second, and then charges your opponent, bashing him for 27 damage.
+Round 2: tapdancing skeleton takes 27 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO DANCE OF DOOM!
+Round 3: tapdancing skeleton takes 6 damage.
+Round 3: tapdancing skeleton drops 5 attack power.
+Round 3: tapdancing skeleton drops 5 defense.
+Round 3: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 4: tapdancing skeleton takes 9 damage.
+You acquire an effect: Disco Nirvana (duration: 1 Adventure)
+Round 4: tapdancing skeleton drops 7 attack power.
+Round 4: tapdancing skeleton drops 7 defense.
+Round 4: fifthtoast attacks!
+You lose 2 hit points
+Round 5: fifthtoast attacks!
+Round 6: tapdancing skeleton takes 82 damage.
+Round 6: fifthtoast attacks!
+Round 7: tapdancing skeleton takes 87 damage.
+Round 7: fifthtoast wins the fight!
+You gain 13 Fortitude
+You gain 5 Magicalness
+You gain 10 Cheek
+
+[3872] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: zombie waltzers takes 1 damage.
+Round 2: zombie waltzers drops 1 attack power.
+Round 2: zombie waltzers drops 1 defense.
+Round 2: Gorg's bells jingle merrily.
+Round 2: Gorg coos softly, and nuzzles you with his beak.
+You gain 31 hit points
+You gain 31 Mojo Points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO DANCE OF DOOM!
+Round 3: zombie waltzers takes 12 damage.
+Round 3: zombie waltzers drops 10 attack power.
+Round 3: zombie waltzers drops 10 defense.
+Round 3: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 4: zombie waltzers takes 16 damage.
+You acquire an effect: Disco Nirvana (duration: 1 Adventure)
+Round 4: zombie waltzers drops 14 attack power.
+Round 4: zombie waltzers drops 14 defense.
+Round 4: Gorg coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 57 hit points
+You gain 57 Mojo Points
+Round 4: fifthtoast attacks!
+Round 5: zombie waltzers takes 100 damage.
+Round 5: fifthtoast wins the fight!
+You gain 171 Meat
+You acquire an item: ballroom blintz
+You gain 8 Muscleboundness
+You gain 12 Enchantedness
+You gain 8 Cheek
+
+[3873] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?whichchoice=90&option=2&pwd
+You gain 150 Smarm
+
+[3874] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 1 damage.
+Round 2: floating platter of hors d'oeuvres drops 1 attack power.
+Round 2: floating platter of hors d'oeuvres drops 1 defense.
+Round 2: Gorg roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 98 Meat.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO DANCE OF DOOM!
+Round 3: floating platter of hors d'oeuvres takes 8 damage.
+Round 3: floating platter of hors d'oeuvres drops 5 attack power.
+Round 3: floating platter of hors d'oeuvres drops 5 defense.
+Round 3: Gorg squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 3: floating platter of hors d'oeuvres drops 9 attack power.
+Round 3: floating platter of hors d'oeuvres drops 9 defense.
+Round 3: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 4: floating platter of hors d'oeuvres takes 10 damage.
+You acquire an effect: Disco Nirvana (duration: 1 Adventure)
+Round 4: floating platter of hors d'oeuvres drops 7 attack power.
+Round 4: floating platter of hors d'oeuvres drops 7 defense.
+Round 4: Gorg squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 4: floating platter of hors d'oeuvres drops 9 attack power.
+Round 4: floating platter of hors d'oeuvres drops 9 defense.
+Round 4: fifthtoast attacks!
+Round 5: floating platter of hors d'oeuvres takes 103 damage.
+Round 5: Gorg squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 5: floating platter of hors d'oeuvres drops 9 attack power.
+Round 5: floating platter of hors d'oeuvres drops 9 defense.
+Round 5: fifthtoast attacks!
+Round 6: floating platter of hors d'oeuvres takes 118 damage.
+Round 6: Gorg coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mojo Points
+Round 6: fifthtoast wins the fight!
+You gain 13 Strongness
+You gain 5 Enchantedness
+You gain 10 Sarcasm
+
+[3875] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: zombie waltzers takes 1 damage.
+Round 2: zombie waltzers drops 1 attack power.
+Round 2: zombie waltzers drops 1 defense.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO DANCE OF DOOM!
+Round 3: zombie waltzers takes 16 damage.
+Round 3: zombie waltzers drops 10 attack power.
+Round 3: zombie waltzers drops 10 defense.
+Round 3: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 4: zombie waltzers takes 16 damage.
+You acquire an effect: Disco Nirvana (duration: 1 Adventure)
+Round 4: zombie waltzers drops 14 attack power.
+Round 4: zombie waltzers drops 14 defense.
+Round 4: Gorg's bells jingle merrily.
+Round 4: Gorg coos softly, and nuzzles you with his beak.
+You gain 31 hit points
+You gain 31 Mojo Points
+Round 4: zombie waltzers takes 2 damage.
+Round 4: zombie waltzers takes 1 damage.
+Round 4: zombie waltzers takes 4 damage.
+You lose 9 hit points
+Round 4: fifthtoast attacks!
+Round 5: zombie waltzers takes 98 damage.
+Round 5: Gorg paws at the ground for a second, and then charges your opponent, bashing them for 26 damage.
+Round 5: zombie waltzers takes 26 damage.
+Round 5: fifthtoast wins the fight!
+You gain 157 Meat
+You acquire an item: dance card
+You acquire an item: ballroom blintz
+You gain 5 Beefiness
+You gain 9 Magicalness
+You gain 15 Roguishness
+
+[3876] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: zombie waltzers takes 1 damage.
+Round 2: zombie waltzers drops 1 attack power.
+Round 2: zombie waltzers drops 1 defense.
+Round 2: Gorg coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mojo Points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO EYE-POKE!
+Round 3: zombie waltzers takes 1 damage.
+Round 3: zombie waltzers drops 3 attack power.
+Round 3: zombie waltzers drops 3 defense.
+Round 3: Gorg coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mojo Points
+Round 3: zombie waltzers takes 3 damage.
+Round 3: zombie waltzers takes 1 damage.
+Round 3: zombie waltzers takes 4 damage.
+You lose 8 hit points
+Round 3: fifthtoast casts DISCO DANCE OF DOOM!
+Round 4: zombie waltzers takes 12 damage.
+Round 4: zombie waltzers drops 10 attack power.
+Round 4: zombie waltzers drops 10 defense.
+Round 4: Gorg roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 81 Meat.
+Round 4: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 5: zombie waltzers takes 16 damage.
+You acquire an effect: Disco Concentration (duration: 1 Adventure)
+Round 5: zombie waltzers drops 14 attack power.
+Round 5: zombie waltzers drops 14 defense.
+Round 5: Gorg paws at the ground for a second, and then charges your opponent, bashing them for 28 damage.
+Round 5: zombie waltzers takes 28 damage.
+Round 5: fifthtoast attacks!
+Round 6: zombie waltzers takes 103 damage.
+Round 6: fifthtoast wins the fight!
+You gain 126 Meat
+You acquire an item: dance card
+You gain 6 Muscleboundness
+You gain 6 Wizardliness
+You gain 16 Roguishness
+
+[3877] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/1: enter combat
+choice.php?pwd&whichchoice=90&option=1
+You learned a new skill: Tango of Terror
+
+[3878] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 1 damage.
+Round 2: floating platter of hors d'oeuvres drops 1 attack power.
+Round 2: floating platter of hors d'oeuvres drops 1 defense.
+Round 2: floating platter of hors d'oeuvres takes 1 damage.
+Round 2: floating platter of hors d'oeuvres takes 1 damage.
+Round 2: floating platter of hors d'oeuvres takes 4 damage.
+You lose 9 hit points
+Round 2: fifthtoast casts TANGO OF TERROR!
+Round 3: floating platter of hors d'oeuvres takes 1 damage.
+Round 3: floating platter of hors d'oeuvres drops 8 attack power.
+Round 3: floating platter of hors d'oeuvres drops 8 defense.
+Round 3: floating platter of hors d'oeuvres takes 3 damage.
+Round 3: floating platter of hors d'oeuvres takes 1 damage.
+Round 3: floating platter of hors d'oeuvres takes 4 damage.
+You lose 9 hit points
+Round 3: fifthtoast executes a macro!
+Round 3: fifthtoast casts DISCO EYE-POKE!
+Round 4: floating platter of hors d'oeuvres takes 3 damage.
+Round 4: floating platter of hors d'oeuvres drops 3 attack power.
+Round 4: floating platter of hors d'oeuvres drops 3 defense.
+Round 4: fifthtoast casts DISCO DANCE OF DOOM!
+Round 5: floating platter of hors d'oeuvres takes 7 damage.
+Round 5: floating platter of hors d'oeuvres drops 5 attack power.
+Round 5: floating platter of hors d'oeuvres drops 5 defense.
+Round 5: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 6: floating platter of hors d'oeuvres takes 8 damage.
+You acquire an effect: Disco Concentration (duration: 1 Adventure)
+Round 6: floating platter of hors d'oeuvres drops 7 attack power.
+Round 6: floating platter of hors d'oeuvres drops 7 defense.
+Round 6: fifthtoast attacks!
+Round 7: floating platter of hors d'oeuvres takes 97 damage.
+Round 7: Gorg squawks loudly and runs in a circle around your opponent.  It looks a little bit confused. LIMIT BREAK!
+Round 7: floating platter of hors d'oeuvres drops 18 attack power.
+Round 7: floating platter of hors d'oeuvres drops 18 defense.
+Round 7: fifthtoast wins the fight!
+You gain 2 Fortitude
+You gain 8 Magicalness
+You gain 18 Roguishness
+
+[3879] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: tapdancing skeleton takes 1 damage.
+Round 2: tapdancing skeleton drops 1 attack power.
+Round 2: tapdancing skeleton drops 1 defense.
+Round 2: Gorg squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: tapdancing skeleton drops 9 attack power.
+Round 2: tapdancing skeleton drops 9 defense.
+Round 2: fifthtoast attacks!
+Round 3: tapdancing skeleton takes 84 damage.
+Round 3: Gorg squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 3: tapdancing skeleton drops 8 attack power.
+Round 3: tapdancing skeleton drops 8 defense.
+Round 3: fifthtoast attacks!
+Round 4: tapdancing skeleton takes 96 damage.
+Round 4: fifthtoast wins the fight!
+You gain 9 Beefiness
+You gain 8 Enchantedness
+You gain 13 Cheek
+
+[3880] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/1: enter combat
+choice.php?pwd&whichchoice=90&option=1
+Encounter: ghastly organist
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: ghastly organist takes 1 damage.
+Round 2: ghastly organist drops 1 attack power.
+Round 2: ghastly organist drops 1 defense.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO EYE-POKE!
+Round 3: ghastly organist takes 3 damage.
+Round 3: ghastly organist drops 3 attack power.
+Round 3: ghastly organist drops 3 defense.
+Round 3: fifthtoast casts DISCO DANCE OF DOOM!
+Round 4: ghastly organist takes 7 damage.
+Round 4: ghastly organist drops 5 attack power.
+Round 4: ghastly organist drops 5 defense.
+Round 4: Gorg paws at the ground for a second, and then charges your opponent, bashing him for 28 damage.
+Round 4: ghastly organist takes 28 damage.
+Round 4: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 5: ghastly organist takes 10 damage.
+You acquire an effect: Disco Concentration (duration: 1 Adventure)
+Round 5: ghastly organist drops 7 attack power.
+Round 5: ghastly organist drops 7 defense.
+Round 5: fifthtoast attacks!
+Round 6: ghastly organist takes 90 damage.
+Round 6: fifthtoast wins the fight!
+You gain 120 Meat
+You gain 6 Beefiness
+You gain 7 Mysteriousness
+You gain 16 Roguishness
+You gain a Moxie point!
+
+[3881] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: tapdancing skeleton takes 1 damage.
+Round 2: tapdancing skeleton drops 1 attack power.
+Round 2: tapdancing skeleton drops 1 defense.
+Round 2: Gorg's bells jingle merrily.
+Round 2: Gorg roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 111 Meat.
+Round 2: fifthtoast attacks!
+Round 3: tapdancing skeleton takes 74 damage.
+Round 3: Gorg squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 3: tapdancing skeleton drops 8 attack power.
+Round 3: tapdancing skeleton drops 8 defense.
+Round 3: fifthtoast attacks!
+Round 4: tapdancing skeleton takes 83 damage.
+Round 4: Gorg coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mojo Points
+Round 4: fifthtoast wins the fight!
+You gain 7 Strongness
+You gain 12 Enchantedness
+You gain 11 Cheek
+
+[3882] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 1 damage.
+Round 2: floating platter of hors d'oeuvres drops 1 attack power.
+Round 2: floating platter of hors d'oeuvres drops 1 defense.
+Round 2: fifthtoast attacks!
+Round 3: floating platter of hors d'oeuvres takes 75 damage.
+Round 3: Gorg's bells jingle merrily.
+Round 3: Gorg roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 135 Meat.
+Round 3: fifthtoast attacks!
+Round 4: floating platter of hors d'oeuvres takes 72 damage.
+Round 4: Gorg's bells jingle merrily.
+Round 4: Gorg coos softly, and nuzzles you with his beak.
+You gain 31 hit points
+You gain 31 Mojo Points
+Round 4: fifthtoast wins the fight!
+You acquire an item: dehydrated caviar
+You acquire an item: desiccated apricot
+You gain 8 Strongness
+You gain 6 Mysteriousness
+You gain 15 Chutzpah
+
+[3883] Haunted Bathroom
+Encounter: Off the Rack
+You acquire an item: towel
+
+[3884] Haunted Bathroom
+Encounter: malevolent hair clog
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: malevolent hair clog takes 1 damage.
+Round 2: malevolent hair clog drops 1 attack power.
+Round 2: malevolent hair clog drops 1 defense.
+Round 2: fifthtoast attacks!
+Round 3: malevolent hair clog takes 94 damage.
+Round 3: Gorg coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 59 hit points
+You gain 59 Mojo Points
+Round 3: fifthtoast wins the fight!
+You gain 9 Fortitude
+You gain 6 Wizardliness
+You gain 11 Chutzpah
+
+[3885] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/1: old coin purse
+choice.php?pwd&whichchoice=83&option=1
+You acquire an item: old coin purse
+
+[3886] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 85/3: enter combat
+choice.php?pwd&whichchoice=85&option=3
+Encounter: the remains of a jilted mistress
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: the remains of a jilted mistress takes 1 damage.
+Round 2: the remains of a jilted mistress drops 1 attack power.
+Round 2: the remains of a jilted mistress drops 1 defense.
+Round 2: Gorg's bells jingle merrily.
+Round 2: Gorg squawks loudly and runs in a circle around your opponent.  She looks a little bit confused.
+Round 2: the remains of a jilted mistress drops 8 attack power.
+Round 2: the remains of a jilted mistress drops 8 defense.
+Round 2: fifthtoast attacks!
+Round 3: the remains of a jilted mistress takes 39 damage.
+Round 3: fifthtoast attacks!
+Round 4: the remains of a jilted mistress takes 41 damage.
+Round 4: Gorg coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mojo Points
+Round 4: fifthtoast attacks!
+Round 5: the remains of a jilted mistress takes 36 damage.
+Round 5: fifthtoast executes a macro!
+Round 5: fifthtoast casts DISCO EYE-POKE!
+Round 6: the remains of a jilted mistress takes 2 damage.
+Round 6: the remains of a jilted mistress drops 3 attack power.
+Round 6: the remains of a jilted mistress drops 3 defense.
+Round 6: fifthtoast casts DISCO DANCE OF DOOM!
+Round 7: the remains of a jilted mistress takes 8 damage.
+Round 7: the remains of a jilted mistress drops 5 attack power.
+Round 7: the remains of a jilted mistress drops 5 defense.
+Round 7: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 8: the remains of a jilted mistress takes 8 damage.
+You acquire an effect: Disco Concentration (duration: 1 Adventure)
+Round 8: the remains of a jilted mistress drops 7 attack power.
+Round 8: the remains of a jilted mistress drops 7 defense.
+Round 8: Gorg's bells jingle merrily.
+Round 8: Gorg squawks loudly and runs in a circle around your opponent.  She looks a little bit confused.
+Round 8: the remains of a jilted mistress drops 9 attack power.
+Round 8: the remains of a jilted mistress drops 9 defense.
+Round 8: fifthtoast attacks!
+Round 9: the remains of a jilted mistress takes 66 damage.
+Round 9: Gorg paws at the ground for a second, and then charges your opponent, bashing her for 28 damage.
+Round 9: the remains of a jilted mistress takes 28 damage.
+Round 9: fifthtoast wins the fight!
+You gain 10 Beefiness
+You gain 18 Mysteriousness
+You gain 15 Chutzpah
+
+[3887] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 82/2: muscle substats
+choice.php?pwd&whichchoice=82&option=2
+You gain 190 Beefiness
+You gain a Muscle point!
+
+[3888] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 84/2: mysticality substats
+choice.php?pwd&whichchoice=84&option=2
+You gain 189 Mysteriousness
+You gain a Mysticality point!
+
+[3889] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/3: quest item
+choice.php?pwd&whichchoice=83&option=3
