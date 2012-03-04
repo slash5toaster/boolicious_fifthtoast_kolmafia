@@ -191,3 +191,286 @@ You gain 500 Meat
 equip hat Disco 'Fro Pick
 
 equip pants Volartta's bellbottoms
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 4, 2012 - Bor 8
+
+Ronald: waning crescent
+Grimace: waxing gibbous
+Mini-moon: in front of Grimace, L side
+
+Arrrbor Day: 4 days
+St. Sneaky Pete's Day: 13 days
+Lab&oacute;r Day: 14 days
+Halloween: 24 days
+Feast of Boris: 31 days
+Oyster Egg Day: 35 days
+Yuletide: 36 days
+Festival of Jarlsberg: 41 days
+Valentine's Day: 52 days
+El Dia De Los Muertos Borrachos: 74 days
+Generic Summer Holiday: 83 days
+Dependence Day: 92 days
+
+
+Muscle bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 14
+HP: 197 / 197
+MP: 143 / 166
+
+Mus: 164 (141), tnp = 152
+Mys: 166 (143), tnp = 206
+Mox: 256 (190), tnp = 319
+
+Advs: 65
+Meat: 123,731
+Drunk: 0
+
+
+ > equipment
+
+Hat: Disco 'Fro Pick
+Weapon: diamond-studded cane
+Off-hand: Tuesday's ruby
+Shirt: (none)
+Pants: Volartta's bellbottoms
+
+Acc. 1: Green Clover of Justice
+Acc. 2: Lord Spookyraven's spectacles
+Acc. 3: Bling of the New Wave
+
+Pet: Cocoabo (25 lbs)
+Item: annoying pitchfork
+
+ > skills
+
+Uncategorized
+ - Break It On Down
+ - CLEESH
+ - Chronic Indigestion
+ - Gothy Handwave
+ - Liver of Steel
+ - Pop and Lock It
+ - Run Like the Wind
+
+Disco Bandit
+ - Advanced Cocktailcrafting
+ - Ambidextrous Funkslinging
+ - Disco Aerobics
+ - Disco Dance II: Electric Boogaloo
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Face Stab
+ - Disco Fever
+ - Disco Nap
+ - Disco Power Nap
+ - Heart of Polyester
+ - Mad Looting Skillz
+ - Nimble Fingers
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+ - Tango of Terror
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Ghostly Shell (322)
+Reptilian Fortitude (322)
+Scarysauce (322)
+Jingle Jangle Jingle (322)
+Tenacity of the Snapper (322)
+Astral Shell (322)
+Jalapeño Saucesphere (322)
+Empathy (322)
+Jabañero Saucesphere (322)
+♫ The Sonata of Sneakiness (322)
+♫ Fat Leon's Phat Loot Lyric (322)
+♫ Stevedave's Shanty of Superiority (322)
+Elemental Saucesphere (322)
+
+
+ > modifiers
+
+ML: +5
+Enc: -5.00%
+Init: +31.00%
+
+Exp: +0.62
+Meat: +25.00%
+Item: +48.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Manual of Dexterity
+
+use 1 creepy voodoo doll
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+buy 1 hermit permit for 100 each from Market Demon
+You acquire an item: hermit permit
+You spent 100 Meat
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 4, 2012 - Bor 8
+
+Ronald: waning crescent
+Grimace: waxing gibbous
+Mini-moon: in front of Grimace, L side
+
+Arrrbor Day: 4 days
+St. Sneaky Pete's Day: 13 days
+Lab&oacute;r Day: 14 days
+Halloween: 24 days
+Feast of Boris: 31 days
+Oyster Egg Day: 35 days
+Yuletide: 36 days
+Festival of Jarlsberg: 41 days
+Valentine's Day: 52 days
+El Dia De Los Muertos Borrachos: 74 days
+Generic Summer Holiday: 83 days
+Dependence Day: 92 days
+
+
+Muscle bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 14
+HP: 197 / 197
+MP: 143 / 166
+
+Mus: 164 (141), tnp = 152
+Mys: 166 (143), tnp = 206
+Mox: 256 (190), tnp = 319
+
+Advs: 65
+Meat: 123,581
+Drunk: 0
+
+
+ > equipment
+
+Hat: Disco 'Fro Pick
+Weapon: diamond-studded cane
+Off-hand: Tuesday's ruby
+Shirt: (none)
+Pants: Volartta's bellbottoms
+
+Acc. 1: Green Clover of Justice
+Acc. 2: Lord Spookyraven's spectacles
+Acc. 3: Bling of the New Wave
+
+Pet: Cocoabo (25 lbs)
+Item: annoying pitchfork
+
+ > skills
+
+Uncategorized
+ - Break It On Down
+ - CLEESH
+ - Chronic Indigestion
+ - Gothy Handwave
+ - Liver of Steel
+ - Pop and Lock It
+ - Run Like the Wind
+
+Disco Bandit
+ - Advanced Cocktailcrafting
+ - Ambidextrous Funkslinging
+ - Disco Aerobics
+ - Disco Dance II: Electric Boogaloo
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Face Stab
+ - Disco Fever
+ - Disco Nap
+ - Disco Power Nap
+ - Heart of Polyester
+ - Mad Looting Skillz
+ - Nimble Fingers
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+ - Tango of Terror
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Ghostly Shell (322)
+Reptilian Fortitude (322)
+Scarysauce (322)
+Jingle Jangle Jingle (322)
+Tenacity of the Snapper (322)
+Astral Shell (322)
+Jalapeño Saucesphere (322)
+Empathy (322)
+Jabañero Saucesphere (322)
+♫ The Sonata of Sneakiness (322)
+♫ Fat Leon's Phat Loot Lyric (322)
+♫ Stevedave's Shanty of Superiority (322)
+Elemental Saucesphere (322)
+
+
+ > modifiers
+
+ML: +5
+Enc: -5.00%
+Init: +31.00%
+
+Exp: +0.62
+Meat: +25.00%
+Item: +48.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Manual of Dexterity
+
+use 1 creepy voodoo doll
+
+equip weapon chrome crossbow
+
+equip acc2 tiny plastic Crimbo reindeer
+
+equip acc3 dead guy's watch
