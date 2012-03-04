@@ -655,7 +655,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Haunted Bedroom
+lastAdventure=Cobb's Knob Treasury
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion-1=confusion
@@ -677,7 +677,7 @@ lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=6
+lastCounterDay=7
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=2
@@ -718,7 +718,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=One Nightstand
+lastEncounter=Finally, the Payoff
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0

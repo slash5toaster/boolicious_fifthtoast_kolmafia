@@ -15,21 +15,21 @@ FamiliarTrainingFrame=274,152
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=182,58,-1
+KoLDesktop=126,118,-1
 LoginFrame=404,249,0
 MailboxFrame=289,310,1
 MaximizerFrame=387,322
 MeatManageFrame=475,375
 MushroomFrame=305,324,1
 OptionsFrame=354,275,5
-ProfileFrame=42,207,-1
+ProfileFrame=0,0,-1
 RecentEventsFrame=474,284
 RequestFrame=-3,-3,-1
 RequestSynchFrame=337,247,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
-StoreManageFrame=293,225,0
-TabbedChatFrame=540,118,1
+StoreManageFrame=-3,-3,3
+TabbedChatFrame=540,118,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -39,7 +39,7 @@ _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
 _bagOfCandy=false
-_ballpit=false
+_ballpit=true
 _banderRunaways=0
 _benettonsCasts=0
 _bonersSummoned=false
@@ -86,7 +86,7 @@ _leafblowerML=1
 _legendaryBeat=false
 _lookingGlass=false
 _lunchBreak=false
-_madTeaParty=false
+_madTeaParty=true
 _mayflySummons=0
 _navelRunaways=0
 _pasteDrops=0
@@ -113,10 +113,10 @@ _stressBallSqueezes=0
 _syntheticDogHairPillUsed=false
 _thingfinderCasts=0
 _timeHelmetAdv=0
-_toastSummons=3
+_toastSummons=0
 _tokenDrops=0
 _transponderDrops=0
-_trivialAvocationsGame=true
+_trivialAvocationsGame=false
 _userMods
 _vmaskAdv=0
 _zapCount=0
@@ -202,7 +202,7 @@ ballpitBonus=100
 bankedKarma=11
 barrelGoal=1
 barrelLayout=?????????
-bartenderTurnsUsed=12
+bartenderTurnsUsed=17
 basementMallPrices=1
 battleAction=attack with weapon
 beeCounter=0
@@ -219,7 +219,7 @@ bootsCharged=false
 borisPoints=0
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=true
+breakfastCompleted=false
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
@@ -602,7 +602,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=15
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -610,7 +610,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=8
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -634,7 +634,7 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8=Kelderred
 demonName9
-demonSummoned=false
+demonSummoned=true
 desktopHeight=600
 desktopWidth=800
 discardedKarma=0
@@ -663,7 +663,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=15
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 goldenMrAccessories=0
 gongPath=10
 gourdItemCount=6
@@ -687,7 +687,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=The Clumsiness Grove
+lastAdventure=The Purple Light District
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -709,7 +709,7 @@ lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=27
-lastCounterDay=6
+lastCounterDay=7
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=1
@@ -750,7 +750,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=the Woeful Magnolia
+lastEncounter=Joe &quot;Close-Talking&quot; DuPree, the Guy Who Does Not Have a Pencil in His Pocket
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -822,7 +822,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=20
+libramSummons=17
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -842,7 +842,7 @@ mineLayout2=\#43<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gi
 mineLayout3
 mineLayout4=\#52<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#53<img src\="http\://images.kingdomofloathing.com/itemimages/kumquartz.gif" alt\="kumquartz" title\="kumquartz" class\=hand onClick\='descitem(419192304)'>\#44<img src\="http\://images.kingdomofloathing.com/itemimages/foss_amm.gif" alt\="ammonite fossil" title\="ammonite fossil" class\=hand onClick\='descitem(428851368)'>\#36<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="green gummi ingot" title\="green gummi ingot" class\=hand onClick\='descitem(578465854)'>\#28<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="green gummi ingot" title\="green gummi ingot" class\=hand onClick\='descitem(578465854)'>\#37<img src\="http\://images.kingdomofloathing.com/itemimages/kumquartz.gif" alt\="kumquartz" title\="kumquartz" class\=hand onClick\='descitem(419192304)'>\#29<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="green gummi ingot" title\="green gummi ingot" class\=hand onClick\='descitem(578465854)'>\#27<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#20<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="red gummi ingot" title\="red gummi ingot" class\=hand onClick\='descitem(992812754)'>\#21<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="green gummi ingot" title\="green gummi ingot" class\=hand onClick\='descitem(578465854)'>\#12<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="red gummi ingot" title\="red gummi ingot" class\=hand onClick\='descitem(992812754)'>\#13<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="red gummi ingot" title\="red gummi ingot" class\=hand onClick\='descitem(992812754)'>\#11<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="red gummi ingot" title\="red gummi ingot" class\=hand onClick\='descitem(992812754)'>\#30<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#10<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="yellow gummi ingot" title\="yellow gummi ingot" class\=hand onClick\='descitem(743292189)'>\#9<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="yellow gummi ingot" title\="yellow gummi ingot" class\=hand onClick\='descitem(743292189)'>\#18<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="yellow gummi ingot" title\="yellow gummi ingot" class\=hand onClick\='descitem(743292189)'>\#17<img src\="http\://images.kingdomofloathing.com/itemimages/gummiingotsmall.gif" alt\="yellow gummi ingot" title\="yellow gummi ingot" class\=hand onClick\='descitem(743292189)'>\#33<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#41<img src\="http\://images.kingdomofloathing.com/itemimages/kumquartz.gif" alt\="kumquartz" title\="kumquartz" class\=hand onClick\='descitem(419192304)'>
 mmgAutoConfirmBets=true
-mmgSearchMaximum=100000
+mmgSearchMaximum=10000
 mmgSearchMinimum=1000
 moleTunnelLevel=0
 mpAutoRecovery=0.05
@@ -854,7 +854,7 @@ nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=sphere
 olfactedMonster=wabbit
-oscusSodaUsed=true
+oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=6
 pastamancerGhostExperience=0
@@ -934,7 +934,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=22886\:Semirare window begin loc\=*\:lparen.gif\:22926\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -943,8 +943,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=21591
-semirareLocation=Pirate Cove
+semirareCounter=22726
+semirareLocation=The Ancient Hobo Burial Ground
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
