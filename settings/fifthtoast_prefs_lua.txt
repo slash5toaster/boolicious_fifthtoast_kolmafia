@@ -52,6 +52,9 @@ _hipsterAdv=0
 _hotTubSoaks=0
 _iceballUses=0
 _inigosCasts=0
+_interviewIsabella=false
+_interviewMasquerade=false
+_interviewVlad=false
 _ironicMoustache=false
 _jackassPlumberGame=false
 _jackassePlumberGame
@@ -508,6 +511,7 @@ choiceAdventure539=1
 choiceAdventure542=1
 choiceAdventure543=1
 choiceAdventure544=1
+choiceAdventure546=0
 choiceAdventure548=0
 choiceAdventure549=0
 choiceAdventure550=0
