@@ -1,8 +1,8 @@
-AdventureFrame=158,97,1
+AdventureFrame=158,97,0
 CakeArenaFrame=424,348
 CoinmastersFrame=-3,-3,-1
 CouncilFrame=424,322,-1
-DescriptionFrame=424,322,-1
+DescriptionFrame=731,201,-1
 FamiliarTrainingFrame=260,240
 KoLDesktop=257,114,-1
 LoginFrame=404,249,0
@@ -67,6 +67,7 @@ _lookingGlass=false
 _lunchBreak=false
 _madTeaParty=false
 _mayflySummons=0
+_mediumSiphons=0
 _navelRunaways=0
 _pasteDrops=0
 _photocopyUsed=false
@@ -198,7 +199,7 @@ buyScript
 cameraMonster
 camerasUsed=0
 carboLoading=0
-cellarLayout=0
+cellarLayout=13263705
 charitableDonations=0
 chatbotScript
 chatbotScriptExecuted=false
@@ -215,7 +216,7 @@ choiceAdventure110=4
 choiceAdventure111=3
 choiceAdventure112=1
 choiceAdventure113=2
-choiceAdventure114=2
+choiceAdventure114=3
 choiceAdventure115=1
 choiceAdventure116=4
 choiceAdventure117=1
@@ -570,8 +571,8 @@ cocktailSummons=3
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=2413
-currentFullness=15
+currentBountyItem=0
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -579,7 +580,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=100000
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=2
 currentWheelPosition=map quest
 customCombatScript=Nirvana
 cyrptAlcoveEvilness=0
@@ -603,7 +604,7 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8
 demonName9
-demonSummoned=false
+demonSummoned=true
 desktopHeight=600
 desktopWidth=800
 distentionPillActive=false
@@ -631,7 +632,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=1000
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=7
@@ -655,7 +656,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Cobb's Knob Treasury
+lastAdventure=The Middle Chamber
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion-1=confusion
@@ -671,13 +672,13 @@ lastBangPotion827=detection
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=7
+lastBreakfast=8
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=7
+lastCounterDay=8
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=2
@@ -718,7 +719,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=Finally, the Payoff
+lastEncounter=tomb servant
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -757,9 +758,9 @@ lastPirateInsultReset=0
 lastPorkoBoard
 lastPorkoExpected
 lastPorkoPayouts
-lastPyramidReset=-1
+lastPyramidReset=0
 lastQuartetAscension=0
-lastQuartetRequest=4
+lastQuartetRequest=3
 lastSecondFloorUnlock=-1
 lastSemirareReset=0
 lastSkateParkReset=0
@@ -792,8 +793,8 @@ lastZapperWand=0
 libramSummons=0
 libraryCardUsed=false
 louvreDesiredGoal=7
-louvreGoal=0
-louvreLayout
+louvreGoal=6
+louvreLayout=0,0,96,0,0,96,0,0,0,0,0,97,95,100,99,0,0,101,0,0,0,0,0,0,0,6,0,0,0,93,0,0,0,0,0,0,0,0,0
 louvreOverride
 manaBurnSummonThreshold=10
 manaBurningThreshold=-0.05
@@ -844,7 +845,7 @@ preBlackbirdFamiliar=Cocoabo
 prismaticSummons=0
 promptAboutCrafting=1
 pyramidBombUsed=false
-pyramidPosition=0
+pyramidPosition=2
 questF01Primordial=unstarted
 questF02Hyboria=unstarted
 questF03Future=unstarted
@@ -868,9 +869,9 @@ questL08Trapper=finished
 questL09Lol=finished
 questL10Garbage=finished
 questL11MacGuffin=step2
-questL11Manor=step1
+questL11Manor=finished
 questL11Palindome=finished
-questL11Pyramid=step11
+questL11Pyramid=step12
 questL11Worship=finished
 questL12War=finished
 questL13Final=unstarted
