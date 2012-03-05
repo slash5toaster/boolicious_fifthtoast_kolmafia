@@ -474,3 +474,173 @@ equip weapon chrome crossbow
 equip acc2 tiny plastic Crimbo reindeer
 
 equip acc3 dead guy's watch
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 4, 2012 - Bor 8
+
+Ronald: waning crescent
+Grimace: waxing gibbous
+Mini-moon: in front of Grimace, L side
+
+Arrrbor Day: 4 days
+St. Sneaky Pete's Day: 13 days
+Lab&oacute;r Day: 14 days
+Halloween: 24 days
+Feast of Boris: 31 days
+Oyster Egg Day: 35 days
+Yuletide: 36 days
+Festival of Jarlsberg: 41 days
+Valentine's Day: 52 days
+El Dia De Los Muertos Borrachos: 74 days
+Generic Summer Holiday: 83 days
+Dependence Day: 92 days
+
+
+Muscle bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 14
+HP: 197 / 197
+MP: 143 / 166
+
+Mus: 164 (141), tnp = 152
+Mys: 166 (143), tnp = 206
+Mox: 247 (190), tnp = 319
+
+Advs: 65
+Meat: 123,581
+Drunk: 0
+
+
+ > equipment
+
+Hat: Disco 'Fro Pick
+Weapon: chrome crossbow
+Off-hand: (none)
+Shirt: (none)
+Pants: Volartta's bellbottoms
+
+Acc. 1: Green Clover of Justice
+Acc. 2: tiny plastic Crimbo reindeer
+Acc. 3: dead guy's watch
+
+Pet: Cocoabo (25 lbs)
+Item: annoying pitchfork
+
+ > skills
+
+Uncategorized
+ - Break It On Down
+ - CLEESH
+ - Chronic Indigestion
+ - Gothy Handwave
+ - Liver of Steel
+ - Pop and Lock It
+ - Run Like the Wind
+
+Disco Bandit
+ - Advanced Cocktailcrafting
+ - Ambidextrous Funkslinging
+ - Disco Aerobics
+ - Disco Dance II: Electric Boogaloo
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Face Stab
+ - Disco Fever
+ - Disco Nap
+ - Disco Power Nap
+ - Heart of Polyester
+ - Mad Looting Skillz
+ - Nimble Fingers
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+ - Tango of Terror
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Ghostly Shell (322)
+Reptilian Fortitude (322)
+Scarysauce (322)
+Jingle Jangle Jingle (322)
+Tenacity of the Snapper (322)
+Astral Shell (322)
+Jalapeño Saucesphere (322)
+Empathy (322)
+Jabañero Saucesphere (322)
+♫ The Sonata of Sneakiness (322)
+♫ Fat Leon's Phat Loot Lyric (322)
+♫ Stevedave's Shanty of Superiority (322)
+Elemental Saucesphere (322)
+
+
+ > modifiers
+
+ML: +5
+Enc: -5.00%
+Init: +31.00%
+
+Exp: +0.62
+Meat: +20.00%
+Item: +48.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+buy 1 milk of magnesium for 1050 each from 2309821 on 20120304
+You acquire an item: milk of magnesium
+
+use 1 milk of magnesium
+You acquire an effect: Got Milk (duration: 10 Adventures)
+
+eat 2 ancient frozen dinner
+You gain 9 Adventures
+You gain 9 Mysteriousness
+You gain 4 Fullness
+You lose some of an effect: Got Milk
+You gain 10 Adventures
+You gain 10 Magicalness
+You gain 4 Fullness
+You lose some of an effect: Got Milk
+
+eat 2 strawberry pie
+You gain 6 Adventures
+You gain 9 Roguishness
+You gain 3 Fullness
+You lose an effect: Got Milk
+You gain 4 Adventures
+You gain 9 Chutzpah
+You gain 3 Fullness
+
+eat 1 brain-meltingly-hot chicken wings
+You gain 3 Adventures
+You gain 30 Strengthliness
+You gain 21 Magicalness
+You lose 8 hit points
+You gain 1 Fullness
+
+buy 1 margarita for 150 each from 2144660 on 20120304
+You acquire an item: margarita
+
+buy 4 margarita for 200 each from 1771665 on 20120304
+You acquire margarita (4)
+
+Mix 5 margarita + 5 magical ice cubes
+You acquire calle de miel (5)
+Crafting used 5 each of magical ice cubes and margarita
