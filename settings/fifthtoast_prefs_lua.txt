@@ -572,7 +572,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=15
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -580,7 +580,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=100000
 currentPvpVictories
-currentSpleenUse=2
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=Nirvana
 cyrptAlcoveEvilness=0
@@ -604,7 +604,7 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8
 demonName9
-demonSummoned=true
+demonSummoned=false
 desktopHeight=600
 desktopWidth=800
 distentionPillActive=false
@@ -632,7 +632,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=1000
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=7
@@ -678,7 +678,7 @@ lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=8
+lastCounterDay=9
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=2
@@ -719,7 +719,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=tomb servant
+lastEncounter=tomb bat
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -845,7 +845,7 @@ preBlackbirdFamiliar=Cocoabo
 prismaticSummons=0
 promptAboutCrafting=1
 pyramidBombUsed=false
-pyramidPosition=1
+pyramidPosition=5
 questF01Primordial=unstarted
 questF02Hyboria=unstarted
 questF03Future=unstarted
