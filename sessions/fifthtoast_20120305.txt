@@ -2672,3 +2672,468 @@ You acquire an item: ancient protein powder
 You gain 10 Strengthliness
 You gain 10 Mysteriousness
 You gain 23 Smarm
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 5, 2012 - Petember 1
+
+Ronald: new moon
+Grimace: full moon
+Mini-moon: far right
+
+Arrrbor Day: 3 days
+St. Sneaky Pete's Day: 12 days
+Lab&oacute;r Day: 13 days
+Halloween: 23 days
+Feast of Boris: 30 days
+Oyster Egg Day: 34 days
+Yuletide: 35 days
+Festival of Jarlsberg: 40 days
+Valentine's Day: 51 days
+El Dia De Los Muertos Borrachos: 73 days
+Generic Summer Holiday: 82 days
+Dependence Day: 91 days
+
+
+Muscle bonus today and tomorrow.
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 14
+HP: 344 / 344
+MP: 271 / 313
+
+Mus: 311 (144), tnp = 142
+Mys: 313 (145), tnp = 106
+Mox: 450 (198), tnp = 62
+
+Advs: 68
+Meat: 135,272
+Drunk: 2
+
+
+ > equipment
+
+Hat: miner's helmet
+Weapon: Seeger's Unstoppable Banjo
+Off-hand: (none)
+Shirt: (none)
+Pants: Volartta's bellbottoms
+
+Acc. 1: Green Clover of Justice
+Acc. 2: Lord Spookyraven's spectacles
+Acc. 3: Lord Spookyraven's ear trumpet
+
+Pet: Cocoabo (25 lbs)
+Item: annoying pitchfork
+
+ > skills
+
+Uncategorized
+ - Break It On Down
+ - CLEESH
+ - Chronic Indigestion
+ - Gothy Handwave
+ - Liver of Steel
+ - Pop and Lock It
+ - Run Like the Wind
+
+Disco Bandit
+ - Advanced Cocktailcrafting
+ - Ambidextrous Funkslinging
+ - Disco Aerobics
+ - Disco Dance II: Electric Boogaloo
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Face Stab
+ - Disco Fever
+ - Disco Nap
+ - Disco Power Nap
+ - Heart of Polyester
+ - Mad Looting Skillz
+ - Nimble Fingers
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+ - Tango of Terror
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Trivia Master (12)
+♫ Fat Leon's Phat Loot Lyric (238)
+Ghostly Shell (613)
+Reptilian Fortitude (613)
+Scarysauce (613)
+Jingle Jangle Jingle (613)
+Tenacity of the Snapper (613)
+Astral Shell (613)
+Jalapeño Saucesphere (613)
+Empathy (613)
+Jabañero Saucesphere (613)
+♫ The Sonata of Sneakiness (613)
+♫ Stevedave's Shanty of Superiority (613)
+Elemental Saucesphere (613)
+
+
+ > modifiers
+
+ML: +5
+Enc: -5.00%
+Init: +45.00%
+
+Exp: +0.62
+Meat: +43.00%
+Item: +58.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+buy 1 milk of magnesium for 1035 each from 1699424 on 20120305
+You acquire an item: milk of magnesium
+
+use 1 milk of magnesium
+You acquire an effect: Got Milk (duration: 10 Adventures)
+
+eat 2 lemon meringue pie
+You gain 9 Adventures
+You gain 12 Muscleboundness
+You gain 3 Fullness
+You lose some of an effect: Got Milk
+You gain 8 Adventures
+You gain 12 Strongness
+You gain 3 Fullness
+You lose some of an effect: Got Milk
+
+eat 1 centipede eggs
+You gain 8 Adventures
+You gain 13 Fortitude
+You gain 9 Enchantedness
+You gain 10 Smarm
+You acquire an effect: Somewhat Poisoned (duration: 10 Adventures)
+You gain 2 Fullness
+You lose some of an effect: Got Milk
+
+eat 2 ballroom blintz
+You gain 8 Adventures
+You gain 10 Sarcasm
+You gain 3 Fullness
+You lose an effect: Got Milk
+You gain 5 Adventures
+You gain 10 Chutzpah
+You gain 3 Fullness
+
+eat 1 fortune cookie
+You gain 1 Adventure
+You gain 1 Fullness
+Lucky numbers: 134, 2, 118
+
+use 1 anti-anti-antidote
+
+Visiting the Bounty Hunter Hunter
+
+[3975] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[3976] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[3977] The Lower Chambers (Token/Empty)
+You acquire an item: ancient bronze token
+
+[3978] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[3979] The Lower Chambers (Bomb/Rats)
+You lose 33 hit points
+
+[3980] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[3981] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: tomb bat takes 1 damage.
+Round 2: tomb bat drops 1 attack power.
+Round 2: tomb bat drops 1 defense.
+Round 2: Gorg squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 2: tomb bat drops 9 attack power.
+Round 2: tomb bat drops 9 defense.
+Round 2: tomb bat takes 2 damage.
+Round 2: tomb bat takes 3 damage.
+Round 2: tomb bat takes 4 damage.
+You lose 14 hit points
+Round 2: fifthtoast attacks!
+Round 3: tomb bat takes 146 damage.
+Round 3: fifthtoast attacks!
+Round 4: tomb bat takes 153 damage.
+Round 4: fifthtoast wins the fight!
+You gain 67 Meat
+You gain 13 Muscleboundness
+You gain 14 Mysteriousness
+You gain 21 Roguishness
+
+[3982] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[3983] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[3984] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: iiti kitty takes 1 damage.
+Round 2: iiti kitty drops 1 attack power.
+Round 2: iiti kitty drops 1 defense.
+Round 2: fifthtoast attacks!
+Round 3: iiti kitty takes 150 damage.
+Round 3: Gorg's bells jingle merrily.
+Round 3: Gorg roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 118 Meat.
+Round 3: fifthtoast attacks!
+Round 4: iiti kitty takes 142 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: ancient vinyl coin purse
+You gain 12 Muscleboundness
+You gain 13 Mysteriousness
+You gain 21 Cheek
+You gain a Moxie point!
+
+[3985] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: tomb servant takes 1 damage.
+Round 2: tomb servant drops 1 attack power.
+Round 2: tomb servant drops 1 defense.
+Round 2: fifthtoast attacks!
+Round 3: tomb servant takes 131 damage.
+Round 3: Gorg's bells jingle merrily.
+Round 3: Gorg coos softly, and nuzzles you with his beak.
+You gain 31 hit points
+You gain 31 Mojo Points
+Round 3: fifthtoast attacks!
+Round 4: tomb servant takes 140 damage.
+Round 4: fifthtoast wins the fight!
+You gain 65 Meat
+You acquire an item: canopic jar
+You gain 14 Strongness
+You gain 10 Mysteriousness
+You gain 20 Cheek
+
+[3986] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: iiti kitty takes 1 damage.
+Round 2: iiti kitty drops 1 attack power.
+Round 2: iiti kitty drops 1 defense.
+Round 2: fifthtoast attacks!
+Round 3: iiti kitty takes 135 damage.
+Round 3: Gorg's bells jingle merrily.
+Round 3: Gorg coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 57 hit points
+You gain 57 Mojo Points
+Round 3: fifthtoast executes a macro!
+Round 3: fifthtoast casts DISCO EYE-POKE!
+Round 4: iiti kitty takes 18 damage.
+Round 4: iiti kitty drops 3 attack power.
+Round 4: iiti kitty drops 3 defense.
+Round 4: fifthtoast wins the fight!
+You acquire an item: leathery cat skin
+You acquire an item: unidentified jerky
+You acquire an item: ancient Magi-Wipes
+You gain 15 Fortitude
+You gain 16 Mysteriousness
+You gain 13 Roguishness
+
+[3987] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: tomb servant takes 1 damage.
+Round 2: tomb servant drops 1 attack power.
+Round 2: tomb servant drops 1 defense.
+Round 2: Gorg coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 57 hit points
+You gain 57 Mojo Points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO EYE-POKE!
+Round 3: tomb servant takes 16 damage.
+Round 3: tomb servant drops 3 attack power.
+Round 3: tomb servant drops 3 defense.
+Round 3: Gorg squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 3: tomb servant drops 9 attack power.
+Round 3: tomb servant drops 9 defense.
+Round 3: fifthtoast casts DISCO DANCE OF DOOM!
+Round 4: tomb servant takes 22 damage.
+Round 4: tomb servant drops 5 attack power.
+Round 4: tomb servant drops 5 defense.
+Round 4: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 5: tomb servant takes 25 damage.
+You acquire an effect: Disco Concentration (duration: 1 Adventure)
+Round 5: tomb servant drops 7 attack power.
+Round 5: tomb servant drops 7 defense.
+Round 5: fifthtoast attacks!
+Round 6: tomb servant takes 57 damage.
+Round 6: Gorg coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mojo Points
+Round 6: fifthtoast attacks!
+Round 7: tomb servant takes 73 damage.
+Round 7: fifthtoast wins the fight!
+You gain 61 Meat
+You acquire an item: canopic jar
+You acquire an item: unidentified jerky
+You acquire an item: ancient protein powder
+You gain 13 Muscleboundness
+You gain 12 Magicalness
+You gain 19 Smarm
+
+familiar Autonomous Disco Ball (18 lbs)
+
+[3988] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: tomb bat takes 1 damage.
+Round 2: tomb bat drops 1 attack power.
+Round 2: tomb bat drops 1 defense.
+Round 2: &quot;Situation deemed insufficiently copacetic,&quot; says shelly in its weird tinny voice. &quot;Increasing local funk parameters.&quot; It begins to spin and emit bright flashes of multicolored light, dazzling your opponent.
+Round 2: fifthtoast attacks!
+Round 3: tomb bat takes 66 damage.
+Round 3: &quot;Evaluating target... Target judged: ungroovy&quot; shelly intones solemnly, then blasts your opponent with a laser beam for 25 damage.
+Round 3: tomb bat takes 25 damage.
+Round 3: tomb bat takes 3 damage.
+Round 3: tomb bat takes 6 damage.
+Round 3: tomb bat takes 4 damage.
+You lose 15 hit points
+Round 3: fifthtoast attacks!
+Round 4: tomb bat takes 72 damage.
+Round 4: &quot;Evaluating target... Target judged: ungroovy&quot; shelly intones solemnly, then blasts your opponent with a laser beam for 23 damage.
+Round 4: tomb bat takes 23 damage.
+Round 4: fifthtoast wins the fight!
+Your familiar gains a pound: shelly, the 14 lb. Autonomous Disco Ball
+You gain 68 Meat
+You acquire an item: leathery bat skin
+You gain 13 Beefiness
+You gain 13 Wizardliness
+You gain 20 Roguishness
+
+[3989] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[3990] The Lower Chambers (Token/Empty)
+You acquire an item: ancient bronze token
+
+[3991] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: tomb servant takes 1 damage.
+Round 2: tomb servant drops 1 attack power.
+Round 2: tomb servant drops 1 defense.
+Round 2: &quot;Evaluating target... Target judged: ungroovy&quot; shelly intones solemnly, then blasts your opponent with a laser beam for 28 damage.
+Round 2: tomb servant takes 28 damage.
+Round 2: fifthtoast attacks!
+Round 3: tomb servant takes 53 damage.
+Round 3: &quot;Evaluating target... Target judged: ungroovy&quot; shelly intones solemnly, then blasts your opponent with a laser beam for 34 damage.
+Round 3: tomb servant takes 34 damage.
+Round 3: fifthtoast attacks!
+Round 4: tomb servant takes 69 damage.
+Round 4: &quot;Evaluating target... Target judged: ungroovy&quot; shelly intones solemnly, then blasts your opponent with a laser beam for 31 damage.
+Round 4: tomb servant takes 31 damage.
+Round 4: fifthtoast wins the fight!
+You gain 75 Meat
+You acquire an item: mummy wrapping
+You gain 13 Beefiness
+You gain 9 Mysteriousness
+You gain 22 Smarm
+
+[3992] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: tomb servant takes 1 damage.
+Round 2: tomb servant drops 1 attack power.
+Round 2: tomb servant drops 1 defense.
+Round 2: &quot;Situation deemed insufficiently copacetic,&quot; says shelly in its weird tinny voice. &quot;Increasing local funk parameters.&quot; It begins to spin and emit bright flashes of multicolored light, dazzling your opponent.
+Round 2: Charging funkadelic beam array,&quot; says shelly as its solar panels begin to glow. &quot;Targeting jive turkey. Firing.&quot; It launches a blinding burst of light at your opponent, burning them for 9 damage, and thoroughly impressing you with the far-out light show.
+Round 2: tomb servant takes 9 damage.
+You gain 9 Mojo Points
+Round 2: fifthtoast attacks!
+Round 3: tomb servant takes 53 damage.
+Round 3: &quot;Laser batteries recharging,&quot; shelly says, hovering near your shoulder. &quot;Can you dig it?&quot;
+Round 3: fifthtoast attacks!
+Round 4: tomb servant takes 59 damage.
+Round 4: &quot;Evaluating target... Target judged: ungroovy&quot; shelly intones solemnly, then blasts your opponent with a laser beam for 34 damage.
+Round 4: tomb servant takes 34 damage.
+Round 4: fifthtoast attacks!
+Round 5: tomb servant takes 56 damage.
+Round 5: &quot;Evaluating target... Target judged: ungroovy&quot; shelly intones solemnly, then blasts your opponent with a laser beam for 31 damage.
+Round 5: tomb servant takes 31 damage.
+Round 5: fifthtoast wins the fight!
+You gain 67 Meat
+You acquire an item: mummy wrapping
+You acquire an item: ancient protein powder
+You gain 14 Strengthliness
+You gain a Muscle point!
+You gain 9 Wizardliness
+You gain 19 Sarcasm
+
+[3993] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[3994] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[3995] The Lower Chambers (Empty/Empty/Ed's Chamber)
+
+[3996] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: tomb servant takes 1 damage.
+Round 2: tomb servant drops 1 attack power.
+Round 2: tomb servant drops 1 defense.
+Round 2: &quot;Evaluating target... Target judged: ungroovy&quot; shelly intones solemnly, then blasts your opponent with a laser beam for 36 damage.
+Round 2: tomb servant takes 36 damage.
+
+equip weapon chrome crossbow
+
+equip acc2 tiny plastic Crimbo reindeer
+
+equip acc3 dead guy's watch

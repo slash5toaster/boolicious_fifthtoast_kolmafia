@@ -572,7 +572,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=15
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -845,7 +845,7 @@ preBlackbirdFamiliar=Cocoabo
 prismaticSummons=0
 promptAboutCrafting=1
 pyramidBombUsed=false
-pyramidPosition=2
+pyramidPosition=1
 questF01Primordial=unstarted
 questF02Hyboria=unstarted
 questF03Future=unstarted
@@ -902,7 +902,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=4092\:Fortune Cookie\:fortune.gif\:4108\:Fortune Cookie\:fortune.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
