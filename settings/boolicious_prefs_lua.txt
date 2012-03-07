@@ -28,8 +28,8 @@ RequestFrame=-3,-3,-1
 RequestSynchFrame=337,247,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
-StoreManageFrame=293,225,3
-TabbedChatFrame=540,118,1
+StoreManageFrame=293,225,0
+TabbedChatFrame=540,118,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -603,7 +603,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=5
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -664,7 +664,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=15
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 goldenMrAccessories=0
 gongPath=10
 gourdItemCount=6
@@ -688,7 +688,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=A Maze of Sewer Tunnels
+lastAdventure=Hobopolis Town Square
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -751,7 +751,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=C. H. U. M.
+lastEncounter=Food, Glorious Food
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -823,7 +823,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=9
+libramSummons=18
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -855,7 +855,7 @@ nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=sphere
 olfactedMonster=wabbit
-oscusSodaUsed=false
+oscusSodaUsed=true
 outrageousSombreroUsed=false
 parasolUsed=6
 pastamancerGhostExperience=0
@@ -935,7 +935,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=22926\:Semirare window end loc\=*\:rparen.gif
+relayCounters=23253\:Semirare window begin loc\=*\:lparen.gif\:23293\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -944,8 +944,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=22726
-semirareLocation=The Ancient Hobo Burial Ground
+semirareCounter=23093
+semirareLocation=Burnbarrel Blvd.
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
