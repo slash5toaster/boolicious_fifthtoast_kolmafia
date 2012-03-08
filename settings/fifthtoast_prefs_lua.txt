@@ -679,7 +679,7 @@ lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=15
-lastCounterDay=10
+lastCounterDay=11
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=2
