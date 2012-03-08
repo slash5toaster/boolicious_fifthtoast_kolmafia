@@ -1,4 +1,4 @@
-AdventureFrame=158,97,0
+AdventureFrame=-3,-3,0
 CakeArenaFrame=424,348
 CoinmastersFrame=-3,-3,-1
 CouncilFrame=424,322,-1
@@ -581,7 +581,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=100000
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=1
 currentWheelPosition=map quest
 customCombatScript=Nirvana
 cyrptAlcoveEvilness=0
@@ -657,7 +657,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Haunted Wine Cellar (Northwest)
+lastAdventure=Giant's Castle
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion-1=confusion
@@ -681,7 +681,7 @@ lastChessboard
 lastCouncilVisit=15
 lastCounterDay=11
 lastDispensaryOpen=-1
-lastDoorCodeReset=-1
+lastDoorCodeReset=0
 lastDustyBottle2271=2
 lastDustyBottle2272=1
 lastDustyBottle2273=3
@@ -720,7 +720,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=skeletal sommelier
+lastEncounter=Furry Giant
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -845,8 +845,8 @@ preAscensionScript
 preBlackbirdFamiliar=Cocoabo
 prismaticSummons=0
 promptAboutCrafting=1
-pyramidBombUsed=false
-pyramidPosition=5
+pyramidBombUsed=true
+pyramidPosition=1
 questF01Primordial=unstarted
 questF02Hyboria=unstarted
 questF03Future=unstarted
@@ -869,13 +869,13 @@ questL07Cyrptic=finished
 questL08Trapper=finished
 questL09Lol=finished
 questL10Garbage=finished
-questL11MacGuffin=step2
+questL11MacGuffin=finished
 questL11Manor=finished
 questL11Palindome=finished
-questL11Pyramid=step12
+questL11Pyramid=finished
 questL11Worship=finished
 questL12War=finished
-questL13Final=unstarted
+questL13Final=step5
 questM01Untinker=finished
 questM02Artist=finished
 questM03Bugbear=unstarted
@@ -903,7 +903,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=4092\:Fortune Cookie\:fortune.gif\:4108\:Fortune Cookie\:fortune.gif
+relayCounters=4269\:Semirare window begin loc\=*\:lparen.gif\:4309\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -912,8 +912,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=2299
-semirareLocation=Cobb's Knob Treasury
+semirareCounter=4109
+semirareLocation=Giant's Castle
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
