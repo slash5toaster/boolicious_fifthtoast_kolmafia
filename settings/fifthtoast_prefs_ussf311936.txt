@@ -1,14 +1,14 @@
-AdventureFrame=465,470,1
+AdventureFrame=465,107,0
 CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
 KoLDesktop=185,49,-1
-LoginFrame=2645,323,0
+LoginFrame=1120,104,0
 MaximizerFrame=2333,376
 ProfileFrame=2662,409,-1
 RequestFrame=2575,334,-1
 RequestSynchFrame=2575,334,-1
-TabbedChatFrame=1317,409,0
+TabbedChatFrame=1317,409,2
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -479,7 +479,7 @@ choiceAdventure491=0
 choiceAdventure496=1
 choiceAdventure497=0
 choiceAdventure5=2
-choiceAdventure502=1
+choiceAdventure502=2
 choiceAdventure503=1
 choiceAdventure504=0
 choiceAdventure505=3
@@ -561,7 +561,7 @@ choiceAdventure86=2
 choiceAdventure87=2
 choiceAdventure88=1
 choiceAdventure89=3
-choiceAdventure9=2
+choiceAdventure9=1
 choiceAdventure90=2
 choiceAdventure91=1
 chosenTrip
@@ -580,7 +580,7 @@ currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
 currentSpleenUse=3
-currentWheelPosition=muscle
+currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
 cyrptCrannyEvilness=0
@@ -717,7 +717,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=topiary golem
+lastEncounter=Possibility Giant
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -757,8 +757,8 @@ lastPorkoBoard
 lastPorkoExpected
 lastPorkoPayouts
 lastPyramidReset=-1
-lastQuartetAscension=-1
-lastQuartetRequest=0
+lastQuartetAscension=0
+lastQuartetRequest=3
 lastSecondFloorUnlock=0
 lastSemirareReset=0
 lastSkateParkReset=0
@@ -892,10 +892,10 @@ questS02Monkees=unstarted
 rageGlandVented=false
 rainDohMonster
 raveCombo1=Run Like the Wind,Pop and Lock It,Break It On Down
-raveCombo2
+raveCombo2=Run Like the Wind,Break It On Down,Pop and Lock It
 raveCombo3=Pop and Lock It,Break It On Down,Run Like the Wind
 raveCombo4=Break It On Down,Pop and Lock It,Run Like the Wind
-raveCombo5
+raveCombo5=Break It On Down,Run Like the Wind,Pop and Lock It
 raveCombo6=Pop and Lock It,Run Like the Wind,Break It On Down
 reagentSummons=0
 recentLocations=5
@@ -920,7 +920,7 @@ sidequestArenaCompleted=none
 sidequestFarmCompleted=none
 sidequestJunkyardCompleted=none
 sidequestLighthouseCompleted=none
-sidequestNunsCompleted=none
+sidequestNunsCompleted=hippy
 sidequestOrchardCompleted=none
 singleFamiliarRun=-1
 skateParkStatus=war
