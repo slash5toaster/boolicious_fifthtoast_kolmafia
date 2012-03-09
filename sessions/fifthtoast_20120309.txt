@@ -184,3 +184,282 @@ cast 3 Advanced Cocktailcrafting
 You acquire an item: magical ice cubes
 You acquire an item: little paper umbrella
 You acquire an item: magical ice cubes
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 9, 2012 - Petember 5
+
+Ronald: full moon
+Grimace: third quarter
+Mini-moon: front center
+
+St. Sneaky Pete's Day: 8 days
+Lab&oacute;r Day: 9 days
+Halloween: 19 days
+Feast of Boris: 26 days
+Oyster Egg Day: 30 days
+Yuletide: 31 days
+Festival of Jarlsberg: 36 days
+Valentine's Day: 47 days
+El Dia De Los Muertos Borrachos: 69 days
+Generic Summer Holiday: 78 days
+Dependence Day: 87 days
+Arrrbor Day: 95 days
+
+
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 15
+HP: 228 / 348
+MP: 257 / 318
+
+Mus: 315 (150), tnp = 104
+Mys: 318 (151), tnp = 241
+Mox: 477 (207), tnp = 363
+
+Advs: 147
+Meat: 172,296
+Drunk: 0
+
+
+ > equipment
+
+Hat: Disco 'Fro Pick
+Weapon: chrome crossbow
+Off-hand: (none)
+Shirt: (none)
+Pants: Volartta's bellbottoms
+
+Acc. 1: Bling of the New Wave
+Acc. 2: tiny plastic Crimbo reindeer
+Acc. 3: dead guy's watch
+
+Pet: Star Starfish (8 lbs)
+Item: ant pick
+
+ > skills
+
+Uncategorized
+ - Break It On Down
+ - CLEESH
+ - Chronic Indigestion
+ - Gothy Handwave
+ - Liver of Steel
+ - Pop and Lock It
+ - Run Like the Wind
+
+Disco Bandit
+ - Advanced Cocktailcrafting
+ - Ambidextrous Funkslinging
+ - Disco Aerobics
+ - Disco Dance II: Electric Boogaloo
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Face Stab
+ - Disco Fever
+ - Disco Nap
+ - Disco Power Nap
+ - Heart of Polyester
+ - Mad Looting Skillz
+ - Nimble Fingers
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+ - Tango of Terror
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Trivia Master (22)
+♫ Fat Leon's Phat Loot Lyric (34)
+Disco State of Mind (143)
+♫ The Sonata of Sneakiness (409)
+Scarysauce (409)
+Ghostly Shell (409)
+Tenacity of the Snapper (409)
+Jingle Jangle Jingle (409)
+Elemental Saucesphere (409)
+Astral Shell (409)
+Reptilian Fortitude (409)
+Jabañero Saucesphere (409)
+Jalapeño Saucesphere (409)
+♫ Stevedave's Shanty of Superiority (409)
+Empathy (409)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: +31.00%
+
+Exp: +0.00
+Meat: +20.00%
+Item: +40.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[4179] Sorceress' Hedge Maze
+Encounter: topiary golem
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: topiary golem takes 81 damage.
+Round 2: Gronald floats behind your opponent, and begins to glow brightly.  Starlight shines through your opponent, doing 9 damage, and pours into your body.
+Round 2: topiary golem takes 9 damage.
+You gain 9 Mojo Points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts DISCO EYE-POKE!
+Round 3: topiary golem takes 3 damage.
+Round 3: topiary golem drops 3 attack power.
+Round 3: topiary golem drops 3 defense.
+Round 3: Gronald lodges the ice-cold pick in your enemy, dealing 12 damage.
+Round 3: topiary golem takes 12 damage.
+Round 3: topiary golem takes 2 damage.
+Round 3: topiary golem takes 4 damage.
+Round 3: topiary golem takes 4 damage.
+You lose 24 hit points
+Round 3: fifthtoast casts DISCO DANCE OF DOOM!
+Round 4: topiary golem takes 8 damage.
+Round 4: topiary golem drops 5 attack power.
+Round 4: topiary golem drops 5 defense.
+Round 4: Gronald lodges the ice-cold pick in your enemy, dealing 12 damage.
+Round 4: topiary golem takes 12 damage.
+Round 4: fifthtoast casts DISCO DANCE II: ELECTRIC BOOGALOO!
+Round 5: topiary golem takes 8 damage.
+You acquire an effect: Disco Concentration (duration: 1 Adventure)
+Round 5: topiary golem drops 7 attack power.
+Round 5: topiary golem drops 7 defense.
+
+equip weapon diamond-studded cane
+
+equip off-hand Tuesday's ruby
+
+equip acc2 tap shoes
+
+equip acc3 Sneaky Pete's breath spray
+
+Unequip Cocoabo
+
+equip familiar annoying pitchfork
+Round 6: fifthtoast attacks!
+Round 7: topiary golem takes 97 damage.
+Round 7: Gronald lodges the ice-cold pick in your enemy, dealing 11 damage.
+Round 7: topiary golem takes 11 damage.
+Round 7: fifthtoast wins the fight!
+You acquire an item: hedge maze puzzle
+You gain 16 Fortitude
+You gain 12 Mysteriousness
+You gain 34 Sarcasm
+
+buy 1 spooky wad for 495 each from 1489058 on 20120309
+You acquire an item: spooky wad
+
+use 1 spooky wad
+You gain 1 Adventure
+You gain 10 Muscleboundness
+You gain 32 Enchantedness
+You gain 19 Cheek
+You acquire an effect: Spooky Demeanor (duration: 10 Adventures)
+
+buy 1 hot wad for 490 each from 857479 on 20120309
+You acquire an item: hot wad
+
+use 1 hot wad
+You gain 1 Adventure
+You gain 24 Beefiness
+You gain 10 Mysteriousness
+You gain 19 Chutzpah
+You acquire an effect: Hot Blooded (duration: 10 Adventures)
+
+buy 5 hair spray for 24 each from Market Demon
+You acquire hair spray (5)
+You spent 120 Meat
+
+use 5 hair spray
+You acquire an effect: Butt-Rock Hair (duration: 15 Adventures)
+outfit Swashbuckling Getup
+
+buy 1 pirate pamphlet for 300 each from Barrrtleby's Barrrgain Books (Bees Hate You)
+You acquire an item: pirate pamphlet
+You spent 300 Meat
+custom outfit Backup
+
+use 1 pirate pamphlet
+You acquire an effect: Charrrming (duration: 10 Adventures)
+
+buy 1 twinkly wad for 380 each from 1031890 on 20120309
+You acquire an item: twinkly wad
+
+use 1 twinkly wad
+You gain 1 Adventure
+You gain 10 Muscleboundness
+You gain 10 Magicalness
+You gain 8 Chutzpah
+You acquire an effect: Aspect of the Twinklefairy (duration: 10 Adventures)
+
+buy 1 Black No. 2 for 100 each from 2281037 on 20120309
+You acquire an item: Black No. 2
+
+use 1 Black No. 2
+You acquire an effect: Locks Like the Raven (duration: 10 Adventures)
+
+use 1 Angry Farmer candy
+You acquire an effect: Sugar Rush (duration: 10 Adventures)
+
+[4180] Sorceress' Hedge Maze
+You acquire an item: hedge maze key
+
+hedgepuzzle.php?action=1
+hedgepuzzle.php?action=4
+
+[4181] Sorceress' Hedge Maze
+Encounter: topiary golem
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SUCKERPUNCH! (auto-attack)
+Round 2: topiary golem takes 1 damage.
+Round 2: topiary golem drops 1 attack power.
+Round 2: topiary golem drops 1 defense.
+Round 2: Gronald floats behind your opponent, and begins to glow brightly.  Starlight shines through your opponent, doing 8 damage, and pours into your body.
+Round 2: topiary golem takes 8 damage.
+You gain 8 Mojo Points
+Round 2: fifthtoast attacks!
+Round 3: topiary golem takes 161 damage.
+Round 3: Gronald's bells jingle merrily.
+Round 3: Gronald floats behind your opponent, and begins to glow brightly.  Starlight shines through your opponent, doing 6 damage, and pours into your body.
+Round 3: topiary golem takes 6 damage.
+You gain 6 Mojo Points
+Round 3: fifthtoast attacks!
+Round 4: topiary golem takes 155 damage.
+Round 4: Gronald floats behind your opponent, and begins to glow brightly.  Starlight shines through your opponent, doing 9 damage, and pours into your body.
+Round 4: topiary golem takes 9 damage.
+You gain 9 Mojo Points
+Round 4: fifthtoast wins the fight!
+You acquire an item: hedge maze puzzle
+You gain 10 Muscleboundness
+You gain 18 Wizardliness
+You gain 34 Chutzpah
+
+buy 1 star boomerang for 395 each from 854408 on 20120309
+You acquire an item: star boomerang
+
+equip weapon star boomerang
+
+equip acc1 Bling of the New Wave
+
+equip acc1 Bling of the New Wave
