@@ -581,7 +581,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=100000
 currentPvpVictories
-currentSpleenUse=1
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=Nirvana
 cyrptAlcoveEvilness=0
@@ -679,7 +679,7 @@ lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=15
-lastCounterDay=11
+lastCounterDay=12
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=2
@@ -875,7 +875,7 @@ questL11Palindome=finished
 questL11Pyramid=finished
 questL11Worship=finished
 questL12War=finished
-questL13Final=step5
+questL13Final=step3
 questM01Untinker=finished
 questM02Artist=finished
 questM03Bugbear=unstarted

@@ -28,12 +28,12 @@ RequestFrame=-3,-3,-1
 RequestSynchFrame=337,247,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
-StoreManageFrame=293,225,3
+StoreManageFrame=293,225,0
 TabbedChatFrame=540,118,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
-_allYearSucker=true
+_allYearSucker=false
 _aprilShower=false
 _astralDrops=0
 _badlyRomanticArrows=0
@@ -77,7 +77,7 @@ _interviewIsabella=false
 _interviewMasquerade=false
 _interviewVlad=false
 _ironicMoustache=false
-_jackassPlumberGame=true
+_jackassPlumberGame=false
 _jackassePlumberGame
 _klawSummons=0
 _kloopDrops=0
@@ -203,7 +203,7 @@ ballpitBonus=100
 bankedKarma=11
 barrelGoal=1
 barrelLayout=?????????
-bartenderTurnsUsed=27
+bartenderTurnsUsed=32
 basementMallPrices=1
 battleAction=attack with weapon
 beeCounter=0
@@ -599,11 +599,11 @@ choiceAdventure91=2
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=true
+concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=2414
-currentFullness=15
+currentBountyItem=0
+currentFullness=4
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -611,7 +611,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=3
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -664,7 +664,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=15
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 goldenMrAccessories=0
 gongPath=10
 gourdItemCount=6
@@ -688,7 +688,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Arrrboretum
+lastAdventure=The Slime Tube
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -704,13 +704,13 @@ lastBangPotion827=ettin strength
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=11
+lastBreakfast=12
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=27
-lastCounterDay=11
+lastCounterDay=12
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=1
@@ -751,7 +751,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=1
-lastEncounter=Upping the Ant-e
+lastEncounter=groping Slime paw
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -823,7 +823,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=22
+libramSummons=19
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -935,7 +935,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=23771\:Semirare window begin loc\=*\:lparen.gif\:23811\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -944,8 +944,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=23093
-semirareLocation=Burnbarrel Blvd.
+semirareCounter=23611
+semirareLocation=Giant's Castle
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
@@ -993,7 +993,7 @@ sugarCounter4178=1
 sugarCounter4179=0
 sugarCounter4180=0
 sugarCounter4181=0
-sugarCounter4182=3
+sugarCounter4182=15
 sugarCounter4183=16
 sugarCounter4191=1
 tavernLayout=0000000000000000000000000
