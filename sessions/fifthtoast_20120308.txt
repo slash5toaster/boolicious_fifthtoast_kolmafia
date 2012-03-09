@@ -3692,3 +3692,144 @@ You acquire an item: hedge maze puzzle
 You gain 11 Fortitude
 You gain 17 Magicalness
 You gain 32 Cheek
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 8, 2012 - Petember 4
+
+Ronald: waxing gibbous
+Grimace: waning gibbous
+Mini-moon: in front of Ronald, L side
+
+Arrrbor Day: today
+St. Sneaky Pete's Day: 9 days
+Lab&oacute;r Day: 10 days
+Halloween: 20 days
+Feast of Boris: 27 days
+Oyster Egg Day: 31 days
+Yuletide: 32 days
+Festival of Jarlsberg: 37 days
+Valentine's Day: 48 days
+El Dia De Los Muertos Borrachos: 70 days
+Generic Summer Holiday: 79 days
+Dependence Day: 88 days
+
+Arrrbor Day
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 15
+HP: 173 / 348
+MP: 232 / 318
+
+Mus: 315 (150), tnp = 104
+Mys: 318 (151), tnp = 241
+Mox: 506 (207), tnp = 363
+
+Advs: 98
+Meat: 168,578
+Drunk: 19
+
+
+ > equipment
+
+Hat: Disco 'Fro Pick
+Weapon: Seeger's Unstoppable Banjo
+Off-hand: (none)
+Shirt: (none)
+Pants: Volartta's bellbottoms
+
+Acc. 1: Bling of the New Wave
+Acc. 2: tap shoes
+Acc. 3: Sneaky Pete's breath spray
+
+Pet: Star Starfish (8 lbs)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - Break It On Down
+ - CLEESH
+ - Chronic Indigestion
+ - Gothy Handwave
+ - Liver of Steel
+ - Pop and Lock It
+ - Run Like the Wind
+
+Disco Bandit
+ - Advanced Cocktailcrafting
+ - Ambidextrous Funkslinging
+ - Disco Aerobics
+ - Disco Dance II: Electric Boogaloo
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Face Stab
+ - Disco Fever
+ - Disco Nap
+ - Disco Power Nap
+ - Heart of Polyester
+ - Mad Looting Skillz
+ - Nimble Fingers
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+ - Tango of Terror
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Trivia Master (22)
+♫ Fat Leon's Phat Loot Lyric (34)
+Disco State of Mind (143)
+Ghostly Shell (409)
+Reptilian Fortitude (409)
+Scarysauce (409)
+Jingle Jangle Jingle (409)
+Tenacity of the Snapper (409)
+Astral Shell (409)
+Jalapeño Saucesphere (409)
+Empathy (409)
+Jabañero Saucesphere (409)
+♫ The Sonata of Sneakiness (409)
+♫ Stevedave's Shanty of Superiority (409)
+Elemental Saucesphere (409)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: +61.00%
+
+Exp: +0.00
+Meat: +43.00%
+Item: +45.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+hedgepuzzle.php?action=6
+hedgepuzzle.php?action=9
+
+equip weapon chrome crossbow
+
+equip acc2 tiny plastic Crimbo reindeer
+
+equip acc3 dead guy's watch
+
+equip familiar ant pick
