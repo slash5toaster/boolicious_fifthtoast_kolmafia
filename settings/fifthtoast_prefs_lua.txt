@@ -1,16 +1,16 @@
-AdventureFrame=-3,-3,0
+AdventureFrame=253,213,0
 CakeArenaFrame=424,348
 CoinmastersFrame=-3,-3,-1
 CouncilFrame=424,322,-1
 DescriptionFrame=731,201,-1
 FamiliarTrainingFrame=260,240
-KoLDesktop=257,114,-1
+KoLDesktop=257,119,-1
 LoginFrame=404,235,0
-MaximizerFrame=607,330
+MaximizerFrame=326,275
 ProfileFrame=424,322,-1
 RequestFrame=337,247,-1
 RequestSynchFrame=249,66,-1
-TabbedChatFrame=780,695,0
+TabbedChatFrame=780,79,1
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -173,7 +173,7 @@ ballpitBonus=1
 bankedKarma=0
 barrelGoal=7
 barrelLayout=?????????
-bartenderTurnsUsed=23
+bartenderTurnsUsed=27
 basementMallPrices=1
 battleAction=custom combat script
 beeCounter=0
@@ -204,7 +204,7 @@ cellarLayout=13263705
 charitableDonations=0
 chatbotScript
 chatbotScriptExecuted=false
-chefTurnsUsed=0
+chefTurnsUsed=6
 chessboardsCleared=0
 choiceAdventure10=1
 choiceAdventure105=3
@@ -610,7 +610,7 @@ desktopHeight=600
 desktopWidth=800
 distentionPillActive=false
 dolphinItem
-doorCode
+doorCode=147
 expressCardUsed=false
 extraRolloverAdventures=0
 fistSkillsKnown=0
@@ -633,7 +633,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=1000
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=7
@@ -654,7 +654,7 @@ hpAutoRecovery=0.1
 hpAutoRecoveryItems=scroll of drastic healing;cannelloni cocoon;tongue of the walrus;lasagna bandages;doc galaktik's ailment ointment
 hpAutoRecoveryTarget=1.0
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
-kingLiberated=false
+kingLiberated=true
 kingLiberatedScript
 knownAscensions=0
 lastAdventure=Giant's Castle
@@ -673,13 +673,13 @@ lastBangPotion827=detection
 lastBangPotionReset=0
 lastBarrelSmashed=0
 lastBattlefieldReset=0
-lastBreakfast=8
+lastBreakfast=0
 lastCellarReset=0
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=15
-lastCounterDay=12
+lastCounterDay=13
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=2
@@ -718,9 +718,9 @@ lastDwarfOfficeItem3214
 lastDwarfOreRunes
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
-lastEasterEggBalloon=-1
+lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=Furry Giant
+lastEncounter=Alphabet Giant
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -786,7 +786,7 @@ lastTavernAscension=0
 lastTavernSquare=0
 lastTelescopeReset=-1
 lastTempleUnlock=0
-lastTowerClimb=-1
+lastTowerClimb=0
 lastTr4pz0rQuest=-1
 lastVioletFogMap=0
 lastWuTangDefeated=-1
@@ -875,7 +875,7 @@ questL11Palindome=finished
 questL11Pyramid=finished
 questL11Worship=finished
 questL12War=finished
-questL13Final=step3
+questL13Final=finished
 questM01Untinker=finished
 questM02Artist=finished
 questM03Bugbear=unstarted
@@ -903,7 +903,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=4269\:Semirare window begin loc\=*\:lparen.gif\:4309\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -951,11 +951,11 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=5008
-stationaryButton2=5021
-stationaryButton3=2
-stationaryButton4=5012
-stationaryButton5=5019
+stationaryButton1=5021
+stationaryButton2=2
+stationaryButton3=5012
+stationaryButton4=5019
+stationaryButton5=5005
 styxPixieVisited=false
 sugarCounter4178=0
 sugarCounter4179=0
@@ -1026,3 +1026,4 @@ volcanoMaze4=6,9,11,27,32,35,42,44,50,53,61,64,69,79,91,95,98,100,104,115,120,12
 volcanoMaze5=5,7,10,13,15,30,34,41,45,49,51,60,62,72,78,81,92,97,102,108,110,112,114,128,130,135,137,139,145,150,156,160,162,165,167
 warProgress=finished
 welcomeBackAdv=0
+wineCellarProgress=0
