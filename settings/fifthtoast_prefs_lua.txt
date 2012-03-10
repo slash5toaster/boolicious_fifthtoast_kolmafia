@@ -848,7 +848,7 @@ promptAboutCrafting=1
 pyramidBombUsed=true
 pyramidPosition=1
 questF01Primordial=unstarted
-questF01Primordial, Primordial Fear=unstarted
+questF01Primordial,=Primordial Fear\=unstarted
 questF02Hyboria=unstarted
 questF03Future=unstarted
 questF04Elves=unstarted
