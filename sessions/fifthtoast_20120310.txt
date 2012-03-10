@@ -3127,3 +3127,167 @@ oldman.php?action=talk
 You acquire an item: little bitty bathysphere
 
 Visiting the Bounty Hunter Hunter
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 10, 2012 - Petember 6
+
+Ronald: waning gibbous
+Grimace: third quarter
+Mini-moon: in front of Grimace, R side
+
+St. Sneaky Pete's Day: 7 days
+Lab&oacute;r Day: 8 days
+Halloween: 18 days
+Feast of Boris: 25 days
+Oyster Egg Day: 29 days
+Yuletide: 30 days
+Festival of Jarlsberg: 35 days
+Valentine's Day: 46 days
+El Dia De Los Muertos Borrachos: 68 days
+Generic Summer Holiday: 77 days
+Dependence Day: 86 days
+Arrrbor Day: 94 days
+
+
+2 days until Moxie.
+
+
+ > status
+
+Name: fifthtoast
+Class: Disco Bandit
+
+Lv: 15
+HP: 132 / 158
+MP: 24 / 157
+
+Mus: 155, tnp = 211
+Mys: 157, tnp = 179
+Mox: 281 (212), tnp = 364
+
+Advs: 19
+Meat: 92,023
+Drunk: 0
+
+
+ > equipment
+
+Hat: Disco 'Fro Pick
+Weapon: Seeger's Unstoppable Banjo
+Off-hand: (none)
+Shirt: (none)
+Pants: Volartta's bellbottoms
+
+Acc. 1: Bling of the New Wave
+Acc. 2: tap shoes
+Acc. 3: ring of adornment
+
+Pet: Barrrnacle (10 lbs)
+Item: sucky decal
+
+ > skills
+
+Uncategorized
+ - Break It On Down
+ - CLEESH
+ - Chronic Indigestion
+ - Gothy Handwave
+ - Liver of Steel
+ - Pop and Lock It
+ - Run Like the Wind
+
+Disco Bandit
+ - Advanced Cocktailcrafting
+ - Ambidextrous Funkslinging
+ - Disco Aerobics
+ - Disco Dance II: Electric Boogaloo
+ - Disco Dance of Doom
+ - Disco Eye-Poke
+ - Disco Face Stab
+ - Disco Fever
+ - Disco Nap
+ - Disco Power Nap
+ - Heart of Polyester
+ - Mad Looting Skillz
+ - Nimble Fingers
+ - Overdeveloped Sense of Self Preservation
+ - Suckerpunch
+ - Superhuman Cocktailcrafting
+ - Tango of Terror
+
+Conditional
+ - Moxious Maneuver
+
+
+ > effects
+
+0 of 3 AT buffs active.
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +61.00%
+
+Exp: +0.00
+Meat: +43.00%
+Item: +25.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Manual of Dexterity
+
+use 1 creepy voodoo doll
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless trinket
+
+buy 1 hermit permit for 100 each from Market Demon
+You acquire an item: hermit permit
+You spent 100 Meat
+
+cast 2 Advanced Cocktailcrafting
+You acquire an item: little paper umbrella
+You acquire an item: magical ice cubes
+
+static.php?id=ascension
+unequip familiarequip
+
+Visiting the Bounty Hunter Hunter
+
+town_sellflea.php?action=remove&whichitem=412&whichprice=300&pwd=00eae6127e8acfea1fb5700c2d192a78
+You acquire an item: barrrnacle
+town_sellflea.php?action=remove&whichitem=828&whichprice=300&pwd=00eae6127e8acfea1fb5700c2d192a78
+You acquire an item: baby killer bee
+town_sellflea.php?action=remove&whichitem=828&whichprice=300&pwd=00eae6127e8acfea1fb5700c2d192a78
+You acquire an item: baby killer bee
+ascend.php?action=ascend&pwd&confirm=on&confirm2=on
+
+Welcome to Valhalla!
+You have 0 banked Karma.
+You gain 111 Karma
+Your new Karma balance is 111
+
+Buy astral shorts for 10 Karma (initial balance = 111)
+You spend 10 Karma
+
+Softcore perm Ambidextrous Funkslinging for 100 Karma (initial balance = 101)
+You spend 100 Karma
+
+Buy carton of astral energy drinks for 1 Karma (initial balance = 1)
+You spend 1 Karma
