@@ -98,13 +98,13 @@ _zapCount=0
 addingScrolls=2
 arcadeGameHints=false
 autoAbortThreshold=-0.05
-autoAntidote=0
+autoAntidote=4
 autoBuyPriceLimit=20000
 autoCraft=true
 autoEntangle=false
 autoManaRestore=false
 autoOlfact
-autoPotionID=false
+autoPotionID=true
 autoPutty
 autoRepairBoxServants=false
 autoSetConditions=true
@@ -165,11 +165,11 @@ badMoonEncounter47=false
 badMoonEncounter48=false
 ballpitBonus=1
 bankedKarma=0
-barrelGoal=1
+barrelGoal=7
 barrelLayout=?????????
-bartenderTurnsUsed=5
+bartenderTurnsUsed=18
 basementMallPrices=1
-battleAction=attack with weapon
+battleAction=custom combat script
 beeCounter=0
 betweenBattleScript
 birdformCold=0
@@ -184,7 +184,7 @@ bootsCharged=false
 borisPoints=0
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=false
+breakfastCompleted=true
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
@@ -580,12 +580,12 @@ customCombatScript=default
 cyrptAlcoveEvilness=0
 cyrptCrannyEvilness=0
 cyrptNicheEvilness=0
-cyrptNookEvilness=44
-cyrptTotalEvilness=44
+cyrptNookEvilness=0
+cyrptTotalEvilness=0
 dailyDungeonDone=false
-dbNemesisSkill1=6
-dbNemesisSkill2=7
-dbNemesisSkill3=3
+dbNemesisSkill1=0
+dbNemesisSkill2=1
+dbNemesisSkill3=0
 defaultFlowerLossMessage
 defaultFlowerWinMessage
 demonName1
@@ -618,18 +618,18 @@ fistTeachingsNinjaSnowmen=false
 fistTeachingsPokerRoom=false
 fistTeachingsRoad=false
 fistTeachingsSlums=false
-flyeredML=0
+flyeredML=12029
 fossilB=0
 fossilD=0
 fossilN=0
 fossilP=0
 fossilS=0
 fossilW=0
-fratboysDefeated=0
+fratboysDefeated=1000
 friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
-gourdItemCount=10
+gourdItemCount=7
 grimoire1Summons=0
 grimoire2Summons=0
 grimoire3Summons=0
@@ -640,27 +640,28 @@ hermitHax0red=false
 heroDonationBoris=0
 heroDonationJarlsberg=0
 heroDonationSneakyPete=0
-hiddenCityLayout=EEEFENETEEEDEWDEDEEELEEEE
+hiddenCityLayout=ADEFDN0000000000000000EEE
 hiddenCitySquare=0
-hippiesDefeated=0
-hpAutoRecovery=-0.05
-hpAutoRecoveryItems=cannelloni cocoon;scroll of drastic healing;tongue of the walrus;lasagna bandages;doc galaktik's ailment ointment
+hippiesDefeated=20
+hpAutoRecovery=0.1
+hpAutoRecoveryItems=scroll of drastic healing;cannelloni cocoon;tongue of the walrus;lasagna bandages;doc galaktik's ailment ointment
 hpAutoRecoveryTarget=1.0
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=0
-lastAdventure=Haunted Bedroom
+lastAdventure=Hippy Camp In Disguise
 lastArcadeAscension=-1
 lastBadMoonReset=-1
+lastBangPotion-1=confusion
 lastBangPotion819=healing
 lastBangPotion820=confusion
 lastBangPotion821=inebriety
 lastBangPotion822=teleportitis
-lastBangPotion823
-lastBangPotion824
-lastBangPotion825
-lastBangPotion826
+lastBangPotion823=sleepiness
+lastBangPotion824=ettin strength
+lastBangPotion825=mental acuity
+lastBangPotion826=blessing
 lastBangPotion827=detection
 lastBangPotionReset=0
 lastBarrelSmashed=0
@@ -674,26 +675,26 @@ lastCouncilVisit=12
 lastCounterDay=3
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
-lastDustyBottle2271=0
-lastDustyBottle2272=0
-lastDustyBottle2273=0
-lastDustyBottle2274=0
-lastDustyBottle2275=0
-lastDustyBottle2276=0
-lastDustyBottleReset=-1
-lastDwarfDiceRolls
-lastDwarfDigitRunes=-------
+lastDustyBottle2271=2
+lastDustyBottle2272=1
+lastDustyBottle2273=3
+lastDustyBottle2274=6
+lastDustyBottle2275=5
+lastDustyBottle2276=4
+lastDustyBottleReset=0
+lastDwarfDiceRolls=DD-JD\=20\:GA-BD\=62\:AE-DD\=21\:AD-AJ\=02\:AD-EE\=06\:BB-GE\=03\:CE-BA\=16\:
+lastDwarfDigitRunes=BJCDEAG
 lastDwarfEquipmentRunes
 lastDwarfFactoryItem118
 lastDwarfFactoryItem119
-lastDwarfFactoryItem120
-lastDwarfFactoryItem3199
-lastDwarfFactoryItem360
-lastDwarfFactoryItem361
+lastDwarfFactoryItem120=FBA
+lastDwarfFactoryItem3199=J
+lastDwarfFactoryItem360=CAN
+lastDwarfFactoryItem361=CKI
 lastDwarfFactoryItem362
-lastDwarfFactoryItem363
+lastDwarfFactoryItem363=D
 lastDwarfFactoryItem364
-lastDwarfFactoryItem365
+lastDwarfFactoryItem365=RNB
 lastDwarfFactoryItem910
 lastDwarfFactoryReset=0
 lastDwarfHopper1
@@ -712,11 +713,11 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=animated nightstand
-lastFilthClearance=-1
+lastEncounter=Where There's Smoke...
+lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
-lastGalleryUnlock=0
+lastGalleryUnlock=-1
 lastGuildStoreOpen=0
 lastGuyMadeOfBeesReset=0
 lastHermitReset=0
@@ -737,16 +738,16 @@ lastPaperStrip4143=dangly\:CAD\:sinusoidal
 lastPaperStrip4144=careful\:CTHON\:funny
 lastPaperStripReset=0
 lastPastamancerGhostReset=0
-lastPirateEphemera
-lastPirateEphemeraReset=-1
-lastPirateInsult1=true
-lastPirateInsult2=true
-lastPirateInsult3=true
-lastPirateInsult4=true
-lastPirateInsult5=true
-lastPirateInsult6=true
-lastPirateInsult7=true
-lastPirateInsult8=true
+lastPirateEphemera=pirate pamphlet
+lastPirateEphemeraReset=0
+lastPirateInsult1=false
+lastPirateInsult2=false
+lastPirateInsult3=false
+lastPirateInsult4=false
+lastPirateInsult5=false
+lastPirateInsult6=false
+lastPirateInsult7=false
+lastPirateInsult8=false
 lastPirateInsultReset=0
 lastPorkoBoard
 lastPorkoExpected
@@ -754,7 +755,7 @@ lastPorkoPayouts
 lastPyramidReset=-1
 lastQuartetAscension=-1
 lastQuartetRequest=0
-lastSecondFloorUnlock=0
+lastSecondFloorUnlock=-1
 lastSemirareReset=0
 lastSkateParkReset=0
 lastSlimeVial3885
@@ -779,7 +780,7 @@ lastTavernSquare=0
 lastTelescopeReset=-1
 lastTempleUnlock=0
 lastTowerClimb=-1
-lastTr4pz0rQuest=0
+lastTr4pz0rQuest=-1
 lastVioletFogMap=0
 lastWuTangDefeated=-1
 lastZapperWand=0
@@ -798,7 +799,7 @@ maximizerMRUList=mainstat;mus;mys;mox;familiar weight;HP;MP;ML;DA;DR;+combat -ti
 mayflyExperience=0
 meansuckerPrice=400
 meatDropSpading=false
-mineLayout1
+mineLayout1=\#52<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#53<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#51<img src\="http\://images.kingdomofloathing.com/itemimages/jewel.gif" alt\="stone of eXtreme power" title\="stone of eXtreme power" class\=hand onClick\='descitem(376860845)'>\#49<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#43<img src\="http\://images.kingdomofloathing.com/itemimages/meatstack.gif" alt\="meat stack" title\="meat stack" class\=hand onClick\='descitem(814092432)'>\#45<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#46<img src\="http\://images.kingdomofloathing.com/itemimages/jewel.gif" alt\="stone of eXtreme power" title\="stone of eXtreme power" class\=hand onClick\='descitem(376860845)'>\#36<img src\="http\://images.kingdomofloathing.com/itemimages/baconstone.gif" alt\="lump of diamond" title\="lump of diamond" class\=hand onClick\='descitem(496172764)'>\#28<img src\="http\://images.kingdomofloathing.com/itemimages/baconstone.gif" alt\="lump of diamond" title\="lump of diamond" class\=hand onClick\='descitem(496172764)'>\#20<img src\="http\://images.kingdomofloathing.com/itemimages/baconstone.gif" alt\="lump of diamond" title\="lump of diamond" class\=hand onClick\='descitem(496172764)'>\#27<img src\="http\://images.kingdomofloathing.com/itemimages/baconstone.gif" alt\="lump of diamond" title\="lump of diamond" class\=hand onClick\='descitem(496172764)'>\#19<img src\="http\://images.kingdomofloathing.com/itemimages/aore.gif" alt\="asbestos ore" title\="asbestos ore" class\=hand onClick\='descitem(873673118)'>\#12<img src\="http\://images.kingdomofloathing.com/itemimages/aore.gif" alt\="asbestos ore" title\="asbestos ore" class\=hand onClick\='descitem(873673118)'>\#21<img src\="http\://images.kingdomofloathing.com/itemimages/lore.gif" alt\="linoleum ore" title\="linoleum ore" class\=hand onClick\='descitem(122957072)'>\#13<img src\="http\://images.kingdomofloathing.com/itemimages/lore.gif" alt\="linoleum ore" title\="linoleum ore" class\=hand onClick\='descitem(122957072)'>\#22<img src\="http\://images.kingdomofloathing.com/itemimages/lore.gif" alt\="linoleum ore" title\="linoleum ore" class\=hand onClick\='descitem(122957072)'>\#14<img src\="http\://images.kingdomofloathing.com/itemimages/lore.gif" alt\="linoleum ore" title\="linoleum ore" class\=hand onClick\='descitem(122957072)'>\#30<img src\="http\://images.kingdomofloathing.com/itemimages/meatstack.gif" alt\="meat stack" title\="meat stack" class\=hand onClick\='descitem(814092432)'>\#11<img src\="http\://images.kingdomofloathing.com/itemimages/aore.gif" alt\="asbestos ore" title\="asbestos ore" class\=hand onClick\='descitem(873673118)'>\#10<img src\="http\://images.kingdomofloathing.com/itemimages/aore.gif" alt\="asbestos ore" title\="asbestos ore" class\=hand onClick\='descitem(873673118)'>\#18<img src\="http\://images.kingdomofloathing.com/itemimages/core.gif" alt\="chrome ore" title\="chrome ore" class\=hand onClick\='descitem(742497802)'>\#26<img src\="http\://images.kingdomofloathing.com/itemimages/jewel.gif" alt\="stone of eXtreme power" title\="stone of eXtreme power" class\=hand onClick\='descitem(376860845)'>\#17<img src\="http\://images.kingdomofloathing.com/itemimages/core.gif" alt\="chrome ore" title\="chrome ore" class\=hand onClick\='descitem(742497802)'>\#9<img src\="http\://images.kingdomofloathing.com/itemimages/core.gif" alt\="chrome ore" title\="chrome ore" class\=hand onClick\='descitem(742497802)'>\#34<img src\="http\://images.kingdomofloathing.com/itemimages/meatstack.gif" alt\="meat stack" title\="meat stack" class\=hand onClick\='descitem(814092432)'>\#25<img src\="http\://images.kingdomofloathing.com/itemimages/core.gif" alt\="chrome ore" title\="chrome ore" class\=hand onClick\='descitem(742497802)'>
 mineLayout2
 mineLayout3
 mineLayout4
@@ -806,7 +807,7 @@ mmgAutoConfirmBets=false
 mmgSearchMaximum=10000
 mmgSearchMinimum=5000
 moleTunnelLevel=0
-mpAutoRecovery=-0.5
+mpAutoRecovery=-0.05
 mpAutoRecoveryItems=phonics down;knob goblin superseltzer;mountain stream soda;magical mystery juice;knob goblin seltzer;cherry cloaca cola;soda water
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
@@ -886,12 +887,12 @@ questS01OldGuy=unstarted
 questS02Monkees=unstarted
 rageGlandVented=false
 rainDohMonster
-raveCombo1=Run Like the Wind,Pop and Lock It,Break It On Down
-raveCombo2
+raveCombo1
+raveCombo2=Run Like the Wind,Break It On Down,Pop and Lock It
 raveCombo3=Pop and Lock It,Break It On Down,Run Like the Wind
 raveCombo4=Break It On Down,Pop and Lock It,Run Like the Wind
-raveCombo5
-raveCombo6=Pop and Lock It,Run Like the Wind,Break It On Down
+raveCombo5=Break It On Down,Run Like the Wind,Pop and Lock It
+raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
@@ -904,19 +905,19 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=257
-semirareLocation=Batrat and Ratbat Burrow
+semirareCounter=2299
+semirareLocation=Cobb's Knob Treasury
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
 showTurnFreeOnly=false
 sideDefeated=fratboys
-sidequestArenaCompleted=none
-sidequestFarmCompleted=none
-sidequestJunkyardCompleted=none
-sidequestLighthouseCompleted=none
-sidequestNunsCompleted=none
-sidequestOrchardCompleted=none
+sidequestArenaCompleted=fratboy
+sidequestFarmCompleted=hippy
+sidequestJunkyardCompleted=fratboy
+sidequestLighthouseCompleted=fratboy
+sidequestNunsCompleted=hippy
+sidequestOrchardCompleted=hippy
 singleFamiliarRun=-1
 skateParkStatus=war
 skillBurn1019=-100
@@ -943,11 +944,11 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=5008
-stationaryButton2=5012
-stationaryButton3=2
-stationaryButton4=5003
-stationaryButton5=5005
+stationaryButton1=5005
+stationaryButton2=5008
+stationaryButton3=5021
+stationaryButton4=2
+stationaryButton5=5012
 styxPixieVisited=false
 sugarCounter4178=0
 sugarCounter4179=0
@@ -1011,10 +1012,10 @@ valueOfStill=0
 valueOfTome=0
 violetFogGoal=0
 violetFogLayout
-volcanoMaze1
-volcanoMaze2
-volcanoMaze3
-volcanoMaze4
-volcanoMaze5
+volcanoMaze1=0,3,17,19,21,24,26,28,31,33,37,48,54,63,66,68,70,74,82,85,89,93,109,111,116,118,123,126,127,134,143,149,155,157,163,166
+volcanoMaze2=1,4,14,16,20,22,25,38,43,47,52,57,59,67,71,75,77,80,86,87,88,103,107,119,122,131,138,141,146,148,151,154
+volcanoMaze3=2,8,12,18,23,29,36,39,40,46,55,56,58,65,73,76,83,90,94,96,99,101,105,106,113,117,121,124,129,132,140,147,152,158,168
+volcanoMaze4=6,9,11,27,32,35,42,44,50,53,61,64,69,79,91,95,98,100,104,115,120,125,133,136,142,144,153,159,161,164
+volcanoMaze5=5,7,10,13,15,30,34,41,45,49,51,60,62,72,78,81,92,97,102,108,110,112,114,128,130,135,137,139,145,150,156,160,162,165,167
 warProgress=finished
 welcomeBackAdv=0
