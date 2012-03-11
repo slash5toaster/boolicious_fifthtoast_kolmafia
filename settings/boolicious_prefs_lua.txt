@@ -603,7 +603,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=4
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -664,7 +664,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=15
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=10
 gourdItemCount=6
@@ -704,13 +704,13 @@ lastBangPotion827=ettin strength
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=12
+lastBreakfast=13
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=27
-lastCounterDay=12
+lastCounterDay=13
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=1
@@ -823,7 +823,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=19
+libramSummons=16
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -935,7 +935,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=23771\:Semirare window begin loc\=*\:lparen.gif\:23811\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1004,12 +1004,12 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=true
+telescopeLookedHigh=false
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=3
+tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
@@ -1058,3 +1058,4 @@ volcanoMaze4=0,11,13,16,19,22,23,36,41,42,43,46,50,53,58,61,68,70,75,79,80,85,89
 volcanoMaze5=4,14,18,21,25,26,29,30,35,44,51,67,69,72,73,77,78,81,91,93,96,103,115,121,126,131,133,140,149,151,157,162,166
 warProgress=finished
 welcomeBackAdv=0
+wineCellarProgress=0

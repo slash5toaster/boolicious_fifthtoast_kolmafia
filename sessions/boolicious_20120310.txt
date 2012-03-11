@@ -867,3 +867,227 @@ manageprices.php?action=update&price5247=8300&limit5247=1&price5245=8200&limit52
 
 autosell: 79 bottle of sewage schnapps
 You gain 2,686 Meat
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 10, 2012 - Petember 6
+
+Ronald: waning gibbous
+Grimace: third quarter
+Mini-moon: in front of Grimace, R side
+
+St. Sneaky Pete's Day: 7 days
+Lab&oacute;r Day: 8 days
+Halloween: 18 days
+Feast of Boris: 25 days
+Oyster Egg Day: 29 days
+Yuletide: 30 days
+Festival of Jarlsberg: 35 days
+Valentine's Day: 46 days
+El Dia De Los Muertos Borrachos: 68 days
+Generic Summer Holiday: 77 days
+Dependence Day: 86 days
+Arrrbor Day: 94 days
+
+
+2 days until Moxie.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 29
+HP: 1888 / 2,056
+MP: 713 / 1,447
+
+Mus: 1,302 (813), tnp = 1,522
+Mys: 933 (583), tnp = 107
+Mox: 930 (581), tnp = 778
+
+Advs: 24
+Meat: 157,183
+Drunk: 0
+
+
+ > equipment
+
+Hat: Hodgman's porkpie hat
+Weapon: octopus's spade
+Off-hand: Hodgman's metal detector
+Shirt: cane-mail shirt
+Pants: Hodgman's lobsterskin pants
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: Hodgman's bow tie
+Acc. 3: Hodgman's lucky sock
+
+Pet: Hovering Sombrero (27 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Creepy Lullaby
+ - Drunken Baby Style
+ - Eggsplosion
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Corroded Weapon (2)
+Patience of the Tortoise (4)
+Strong Resolve (48)
+Brilliant Resolve (49)
+Retrograde Relaxation (56)
+Bubble Vision (64)
+Curiosity of Br'er Tarrypin (64)
+Irresistible Resolve (68)
+Greedy Resolve (69)
+20/20 Vision (209)
+Salamanderenity (232)
+Scarysauce (296)
+Jabañero Saucesphere (296)
+Jalapeño Saucesphere (305)
+♫ Fat Leon's Phat Loot Lyric (319)
+♫ Polka of Plenty (321)
+♫ The Sonata of Sneakiness (331)
+Reptilian Fortitude (617)
+Empathy (671)
+Astral Shell (676)
+Elemental Saucesphere (677)
+Tenacity of the Snapper (681)
+Ghostly Shell (853)
+Jingle Jangle Jingle (929)
+
+
+ > modifiers
+
+ML: +30
+Enc: -5.00%
+Init: +10.00%
+
+Exp: +6.01
+Meat: +130.00%
+Item: +177.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+use 1 Manual of Labor
+
+use 1 Chester's bag of candy
+
+use 1 Trivial Avocations board game
+
+use 1 creepy voodoo doll
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+Harvesting your garden
+You acquire peppermint sprout (3)
+
+cast 16 Summon Resolutions
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be more adventurous
+unequip weapon
+unequip offhand
+
+equip shirt General Sage's Lonely Diamonds Club Jacket
+
+equip acc1 fudgecycle
+
+equip acc2 time halo
+
+equip acc3 wristwatch of the white knight
+
+[23839] Pump Up Moxie (1 turns)
+You gain 78 Chutzpah
+
+[23840] Pump Up Moxie (1 turns)
+You gain 85 Chutzpah
+
+Visiting the Bounty Hunter Hunter
+Jumping into Awesome Ball Pit in clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=3
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+[23841] Help Richard make bandages (Mysticality) (12 turns)
+You gain 1009 Mysteriousness
+You gain a Mysticality point!
+[23853] Help Richard make shakes (Muscle) (10 turns)
+You gain 1414 Strengthliness
