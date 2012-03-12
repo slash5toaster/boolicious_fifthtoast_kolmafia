@@ -1,5 +1,5 @@
 =4
-AdventureFrame=362,110,0
+AdventureFrame=362,110,1
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=742,435
@@ -29,7 +29,7 @@ RequestSynchFrame=337,247,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=293,225,0
-TabbedChatFrame=540,118,0
+TabbedChatFrame=770,99,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -603,7 +603,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=15
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -688,7 +688,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=The Slime Tube
+lastAdventure=None
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -751,7 +751,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=-1
-lastEncounter=groping Slime paw
+lastEncounter=triffid
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -823,7 +823,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=14
+libramSummons=16
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -981,7 +981,7 @@ slimelingStacksDue=0
 sortByRoom=false
 spadingData
 spiceMelangeUsed=false
-spookyPuttyCopiesMade=0
+spookyPuttyCopiesMade=1
 spookyPuttyMonster=something <i>totally</i> unrecognizable
 stationaryButton1=68
 stationaryButton2=71
@@ -1004,12 +1004,12 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=false
+telescopeLookedHigh=true
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=0
+tomeSummons=2
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true

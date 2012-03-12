@@ -394,3 +394,978 @@ Item: +111.00%
 
 use 1 Oscus's neverending soda
 You gain 264 Muscularity Points
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 11, 2012 - Petember 7
+
+Ronald: third quarter
+Grimace: waning crescent
+Mini-moon: behind Grimace
+
+St. Sneaky Pete's Day: 6 days
+Lab&oacute;r Day: 7 days
+Halloween: 17 days
+Feast of Boris: 24 days
+Oyster Egg Day: 28 days
+Yuletide: 29 days
+Festival of Jarlsberg: 34 days
+Valentine's Day: 45 days
+El Dia De Los Muertos Borrachos: 67 days
+Generic Summer Holiday: 76 days
+Dependence Day: 85 days
+Arrrbor Day: 93 days
+
+
+Moxie bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 29
+HP: 1801 / 1,801
+MP: 342 / 1,268
+
+Mus: 1,139 (813), tnp = 108
+Mys: 818 (584), tnp = 267
+Mox: 814 (581), tnp = 615
+
+Advs: 74
+Meat: 214,008
+Drunk: 0
+
+
+ > equipment
+
+Hat: Hodgman's porkpie hat
+Weapon: (none)
+Off-hand: (none)
+Shirt: General Sage's Lonely Diamonds Club Jacket
+Pants: Hodgman's lobsterskin pants
+
+Acc. 1: fudgecycle
+Acc. 2: time halo
+Acc. 3: wristwatch of the white knight
+
+Pet: Hovering Sombrero (27 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Creepy Lullaby
+ - Drunken Baby Style
+ - Eggsplosion
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Strong Resolve (24)
+Brilliant Resolve (25)
+Retrograde Relaxation (32)
+Bubble Vision (40)
+Curiosity of Br'er Tarrypin (40)
+Irresistible Resolve (44)
+Greedy Resolve (45)
+20/20 Vision (185)
+Salamanderenity (208)
+Scarysauce (272)
+Jabañero Saucesphere (272)
+Jalapeño Saucesphere (281)
+♫ Fat Leon's Phat Loot Lyric (295)
+♫ Polka of Plenty (297)
+♫ The Sonata of Sneakiness (307)
+Reptilian Fortitude (593)
+Empathy (647)
+Astral Shell (652)
+Elemental Saucesphere (653)
+Tenacity of the Snapper (657)
+Ghostly Shell (829)
+Jingle Jangle Jingle (905)
+
+
+ > modifiers
+
+ML: +10
+Enc: -5.00%
+Init: +10.00%
+
+Exp: +3.51
+Meat: +115.00%
+Item: +111.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 2 Summon Resolutions
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be sexier
+
+cast 1 Summon Clip Art
+You acquire an item: ultrafondue
+
+cast 1 Summon Clip Art
+You acquire an item: cheezburger
+
+telescope look 
+
+telescope look high
+You acquire an effect: Starry-Eyed (duration: 10 Adventures)
+
+manageprices.php?action=update&price5247=8200&limit5247=1&price5245=8100&limit5245=0&price5254=7690&limit5254=0&price5259=7500&limit5259=0&price5238=7389&limit5238=0&price5241=4185&limit5241=0&price5537=3850&limit5537=0&price5268=3350&limit5268=0&price5243=3225&limit5243=0&price2981=2100&limit2981=0&price2987=2000&limit2987=0&price5096=1800&limit5096=0&price2985=1300&limit2985=0&price5092=925&limit5092=0&price226=674&limit226=0&price594=410&limit594=0&price2687=400&limit2687=0&price4212=380&limit4212=0&price5542=305&limit5542=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price620=288&limit620=0&price617=274&limit617=0&price622=272&limit622=0&price611=270&limit611=0&price5103=265&limit5103=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price297=150&limit297=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price540=108&limit540=0&price1=100&limit1=0
+
+mallsell: 3 disassembled clover
+
+manageprices.php?action=update&price196=999999999&limit196=0&price5247=8200&limit5247=1&price5245=8100&limit5245=0&price5254=7690&limit5254=0&price5259=7500&limit5259=0&price5238=7389&limit5238=0&price5241=4185&limit5241=0&price5537=3850&limit5537=0&price5268=3350&limit5268=0&price5243=3225&limit5243=0&price2981=2100&limit2981=0&price2987=2000&limit2987=0&price5096=1800&limit5096=0&price2985=1300&limit2985=0&price5092=925&limit5092=0&price226=674&limit226=0&price594=410&limit594=0&price2687=400&limit2687=0&price4212=380&limit4212=0&price5542=305&limit5542=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price620=288&limit620=0&price617=274&limit617=0&price622=272&limit622=0&price611=270&limit611=0&price5103=265&limit5103=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price297=150&limit297=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price540=108&limit540=0&price1=100&limit1=0
+manageprices.php?action=update&price5247=8200&limit5247=1&price5245=8100&limit5245=0&price5254=7690&limit5254=0&price5259=7500&limit5259=0&price5238=7389&limit5238=0&price5241=4185&limit5241=0&price5537=3850&limit5537=0&price5268=3350&limit5268=0&price5243=3225&limit5243=0&price2981=2100&limit2981=0&price2987=2000&limit2987=0&price196=1900&limit196=0&price5096=1800&limit5096=0&price2985=1300&limit2985=0&price5092=925&limit5092=0&price226=674&limit226=0&price594=410&limit594=0&price2687=400&limit2687=0&price4212=380&limit4212=0&price5542=305&limit5542=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price620=288&limit620=0&price617=274&limit617=0&price622=272&limit622=0&price611=270&limit611=0&price5103=265&limit5103=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price297=150&limit297=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price540=108&limit540=0&price1=100&limit1=0
+
+mallsell: 4 bottle of bubbles
+
+manageprices.php?action=update&price5247=8200&limit5247=1&price5245=8100&limit5245=0&price5254=7690&limit5254=0&price5259=7500&limit5259=0&price5238=7389&limit5238=0&price5509=4800&limit5509=0&price5241=4185&limit5241=0&price5537=3850&limit5537=0&price5268=3350&limit5268=0&price5243=3225&limit5243=0&price2981=2100&limit2981=0&price2987=2000&limit2987=0&price196=1900&limit196=0&price5096=1800&limit5096=0&price2985=1300&limit2985=0&price5092=925&limit5092=0&price226=674&limit226=0&price594=410&limit594=0&price2687=400&limit2687=0&price4212=380&limit4212=0&price5542=305&limit5542=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price620=288&limit620=0&price617=274&limit617=0&price622=272&limit622=0&price611=270&limit611=0&price5103=265&limit5103=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price2984=220&limit2984=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price297=150&limit297=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price540=108&limit540=0&price1=100&limit1=0
+
+buy 1 'WILL WORK FOR BOOZE' sign for 700 each from 252981 on 20120311
+You acquire an item: 'WILL WORK FOR BOOZE' sign
+
+buy 1 milk of magnesium for 1110 each from 1877436 on 20120311
+You acquire an item: milk of magnesium
+
+use 1 milk of magnesium
+You acquire an effect: Got Milk (duration: 10 Adventures)
+
+eat 1 ultrafondue
+You gain 16 Adventures
+You gain 19 Muscleboundness
+You gain 18 Mysteriousness
+You gain 20 Smarm
+You acquire an effect: Fondid (duration: 30 Adventures)
+You gain 3 Fullness
+You lose some of an effect: Got Milk
+
+eat 1 wet stew
+You gain 21 Adventures
+You gain 22 Strongness
+You gain 6 Fullness
+You lose some of an effect: Got Milk
+
+buy 1 milk of magnesium for 1110 each from 1877436 on 20120311
+You acquire an item: milk of magnesium
+
+use 1 milk of magnesium
+You acquire an effect: Got Milk (duration: 10 Adventures)
+
+Cook 1 bird rib + 1 lion oil
+You acquire an item: wet stew
+Crafting used 1 each of bird rib and lion oil
+
+eat 1 wet stew
+You gain 20 Adventures
+You gain 17 Beefiness
+You gain 6 Fullness
+You lose some of an effect: Got Milk
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 3 triffid barks
+
+[23863] Spooky Forest
+Encounter: spooky vampire
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky vampire takes 286 damage.
+Round 2: boolicious wins the fight!
+You gain 8 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 10 Fortitude
+You gain 3 Wizardliness
+You gain 4 Chutzpah
+
+[23864] Spooky Forest
+Encounter: warwelf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warwelf takes 287 damage.
+Round 2: boolicious wins the fight!
+You gain 23 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 10 Strengthliness
+You gain 3 Enchantedness
+You gain 5 Roguishness
+
+[23865] Spooky Forest
+Encounter: wolfman
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wolfman takes 287 damage.
+Round 2: boolicious wins the fight!
+You gain 25 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 9 Fortitude
+You gain 5 Mysteriousness
+You gain 4 Roguishness
+
+[23866] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 2 hearts, sell bar skins (0) or buy a spooky sapling (0)
+choice.php?whichchoice=502&option=1&pwd
+Encounter: The Road Less Traveled
+Took choice 503/3: gain spooky sapling or trade bar skins
+choice.php?whichchoice=503&option=3&pwd
+Encounter: Tree's Last Stand
+Took choice 504/4: skip adventure
+choice.php?whichchoice=504&option=4&pwd
+
+[23867] Spooky Forest
+Encounter: warwelf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warwelf takes 287 damage.
+Round 2: boolicious wins the fight!
+You gain 27 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 9 Fortitude
+You gain 4 Wizardliness
+You gain 5 Smarm
+
+[23868] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 2 hearts, sell bar skins (0) or buy a spooky sapling (0)
+choice.php?whichchoice=502&option=1&pwd
+Encounter: The Road Less Traveled
+Took choice 503/3: gain spooky sapling or trade bar skins
+choice.php?whichchoice=503&option=3&pwd
+Encounter: Tree's Last Stand
+Took choice 504/4: skip adventure
+choice.php?whichchoice=504&option=4&pwd
+
+[23869] Spooky Forest
+Encounter: spooky mummy
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky mummy takes 286 damage.
+Round 2: boolicious wins the fight!
+You gain 17 Meat
+You acquire an item: dried face
+You acquire an item: spooky shrunken head
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 8 Fortitude
+You gain 2 Magicalness
+You gain 7 Roguishness
+
+[23870] Spooky Forest
+Encounter: bar
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bar takes 287 damage.
+Round 2: boolicious wins the fight!
+You gain 36 Meat
+You acquire an item: bar skin
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 11 Beefiness
+You gain a Muscle point!
+You gain 2 Magicalness
+You gain 4 Smarm
+
+[23871] Spooky Forest
+Encounter: warwelf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: warwelf takes 288 damage.
+Round 3: boolicious wins the fight!
+You gain 27 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 7 Strengthliness
+You gain 9 Wizardliness
+You gain 2 Chutzpah
+
+[23872] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 2 hearts, sell bar skins (1) or buy a spooky sapling (0)
+choice.php?whichchoice=502&option=1&pwd
+Encounter: The Road Less Traveled
+Took choice 503/3: gain spooky sapling or trade bar skins
+choice.php?whichchoice=503&option=3&pwd
+Encounter: Tree's Last Stand
+Took choice 504/1: bar skin
+choice.php?whichchoice=504&option=1&pwd
+Encounter: Tree's Last Stand
+You gain 75 Meat
+Took choice 504/4: skip adventure
+choice.php?whichchoice=504&option=4&pwd
+
+[23873] Spooky Forest
+Encounter: spooky vampire
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky vampire takes 277 damage.
+Round 2: boolicious wins the fight!
+You gain 8 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 8 Strengthliness
+You gain 4 Enchantedness
+You gain 5 Smarm
+
+[23874] Spooky Forest
+Encounter: warwelf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warwelf takes 278 damage.
+Round 2: boolicious wins the fight!
+You gain 25 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 7 Strongness
+You gain 6 Enchantedness
+You gain 4 Cheek
+
+[23875] Spooky Forest
+Encounter: warwelf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warwelf takes 278 damage.
+Round 2: boolicious wins the fight!
+You gain 25 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 8 Strengthliness
+You gain 2 Mysteriousness
+You gain 7 Roguishness
+
+[23876] Spooky Forest
+Encounter: spooky mummy
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky mummy takes 277 damage.
+Round 2: boolicious wins the fight!
+You gain 25 Meat
+You acquire an item: spooky shrunken head
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 3 Strengthliness
+You gain 6 Enchantedness
+You gain 9 Chutzpah
+
+[23877] Spooky Forest
+Encounter: warwelf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warwelf takes 278 damage.
+Round 2: boolicious wins the fight!
+You gain 25 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 8 Beefiness
+You gain 5 Enchantedness
+You gain 4 Chutzpah
+
+[23878] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 2 hearts, sell bar skins (0) or buy a spooky sapling (0)
+choice.php?whichchoice=502&option=1&pwd
+Encounter: The Road Less Traveled
+Took choice 503/3: gain spooky sapling or trade bar skins
+choice.php?whichchoice=503&option=3&pwd
+Encounter: Tree's Last Stand
+Took choice 504/4: skip adventure
+choice.php?whichchoice=504&option=4&pwd
+
+[23879] Spooky Forest
+Encounter: bar
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bar takes 278 damage.
+Round 2: boolicious wins the fight!
+You gain 32 Meat
+You acquire an item: bar skin
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 6 Fortitude
+You gain 5 Magicalness
+You gain 6 Cheek
+
+[23880] Spooky Forest
+Encounter: bar
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bar takes 278 damage.
+Round 2: boolicious wins the fight!
+You gain 32 Meat
+You acquire an item: bar skin
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 6 Muscleboundness
+You gain 7 Wizardliness
+You gain 5 Chutzpah
+
+[23881] Spooky Forest
+Encounter: spooky vampire
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky vampire takes 277 damage.
+Round 2: boolicious wins the fight!
+You gain 12 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 9 Strongness
+You gain 6 Wizardliness
+You gain 2 Chutzpah
+
+[23882] Spooky Forest
+Encounter: wolfman
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wolfman takes 278 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Javier, the 18 lb. Hovering Sombrero
+You gain 21 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 6 Muscleboundness
+You gain 8 Enchantedness
+You gain 3 Roguishness
+
+[23883] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 2 hearts, sell bar skins (2) or buy a spooky sapling (0)
+choice.php?whichchoice=502&option=1&pwd
+Encounter: The Road Less Traveled
+Took choice 503/3: gain spooky sapling or trade bar skins
+choice.php?whichchoice=503&option=3&pwd
+Encounter: Tree's Last Stand
+Took choice 504/2: bar skins
+choice.php?whichchoice=504&option=2&pwd
+Encounter: Tree's Last Stand
+You gain 150 Meat
+Took choice 504/4: skip adventure
+choice.php?whichchoice=504&option=4&pwd
+
+[23884] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 2 hearts, sell bar skins (0) or buy a spooky sapling (0)
+choice.php?whichchoice=502&option=1&pwd
+Encounter: The Road Less Traveled
+Took choice 503/3: gain spooky sapling or trade bar skins
+choice.php?whichchoice=503&option=3&pwd
+Encounter: Tree's Last Stand
+Took choice 504/4: skip adventure
+choice.php?whichchoice=504&option=4&pwd
+
+[23885] Spooky Forest
+Encounter: bar
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bar takes 278 damage.
+Round 2: boolicious wins the fight!
+You gain 27 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 7 Fortitude
+You gain 4 Wizardliness
+You gain 6 Roguishness
+
+[23886] Spooky Forest
+Encounter: spooky mummy
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky mummy takes 277 damage.
+Round 2: boolicious wins the fight!
+You gain 21 Meat
+You acquire an item: spooky shrunken head
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 7 Strengthliness
+You gain 5 Enchantedness
+You gain 6 Roguishness
+
+[23887] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 2 hearts, sell bar skins (0) or buy a spooky sapling (0)
+choice.php?whichchoice=502&option=1&pwd
+Encounter: The Road Less Traveled
+Took choice 503/3: gain spooky sapling or trade bar skins
+choice.php?whichchoice=503&option=3&pwd
+Encounter: Tree's Last Stand
+Took choice 504/4: skip adventure
+choice.php?whichchoice=504&option=4&pwd
+
+[23888] Spooky Forest
+Encounter: warwelf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: warwelf takes 278 damage.
+Round 2: boolicious wins the fight!
+You gain 23 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 6 Beefiness
+You gain 2 Magicalness
+You gain 5 Smarm
+
+[23889] Spooky Forest
+Encounter: bar
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bar takes 278 damage.
+Round 2: boolicious wins the fight!
+You gain 38 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 3 Fortitude
+You gain 2 Magicalness
+You gain 8 Cheek
+
+[23890] Spooky Forest
+Encounter: spooky vampire
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky vampire takes 277 damage.
+Round 2: boolicious wins the fight!
+You gain 10 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 6 Fortitude
+You gain 4 Enchantedness
+You gain 3 Sarcasm
+
+[23891] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 2 hearts, sell bar skins (0) or buy a spooky sapling (0)
+choice.php?whichchoice=502&option=1&pwd
+Encounter: The Road Less Traveled
+Took choice 503/3: gain spooky sapling or trade bar skins
+choice.php?whichchoice=503&option=3&pwd
+Encounter: Tree's Last Stand
+Took choice 504/4: skip adventure
+choice.php?whichchoice=504&option=4&pwd
+
+cast 4 Miyagi Massage
+You acquire an effect: Retrograde Relaxation (duration: 132 Adventures)
+
+[23892] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 2 hearts, sell bar skins (0) or buy a spooky sapling (0)
+choice.php?whichchoice=502&option=1&pwd
+Encounter: The Road Less Traveled
+Took choice 503/3: gain spooky sapling or trade bar skins
+choice.php?whichchoice=503&option=3&pwd
+Encounter: Tree's Last Stand
+Took choice 504/4: skip adventure
+choice.php?whichchoice=504&option=4&pwd
+
+cast 4 Miyagi Massage
+You acquire an effect: Retrograde Relaxation (duration: 132 Adventures)
+
+[23893] Spooky Forest
+Encounter: wolfman
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wolfman takes 292 damage.
+Round 2: boolicious wins the fight!
+You gain 23 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 5 Strengthliness
+You gain 1 Mysteriousness
+You gain 3 Chutzpah
+
+cast 3 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 99 Adventures)
+
+[23894] Spooky Forest
+Encounter: triffid
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: triffid takes 290 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: moxie weed
+You acquire an item: spooky stick
+You acquire an item: triffid bark
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 5 Fortitude
+You gain 1 Mysteriousness
+You gain 3 Cheek
+
+cast 3 Miyagi Massage
+You acquire an effect: Retrograde Relaxation (duration: 99 Adventures)
+
+[23895] Spooky Forest
+Encounter: spooky mummy
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spooky mummy takes 291 damage.
+Round 2: boolicious wins the fight!
+You gain 23 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 4 Fortitude
+You gain 1 Magicalness
+You gain 4 Cheek
+
+cast 4 Salamander Kata
+You acquire an effect: Salamanderenity (duration: 132 Adventures)
+
+[23896] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 2 hearts, sell bar skins (0) or buy a spooky sapling (0)
+choice.php?whichchoice=502&option=1&pwd
+Encounter: The Road Less Traveled
+Took choice 503/3: gain spooky sapling or trade bar skins
+choice.php?whichchoice=503&option=3&pwd
+Encounter: Tree's Last Stand
+Took choice 504/4: skip adventure
+choice.php?whichchoice=504&option=4&pwd
+
+cast 5 Miyagi Massage
+You acquire an effect: Retrograde Relaxation (duration: 165 Adventures)
+
+[23897] Spooky Forest
+Encounter: warwelf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: warwelf takes 292 damage.
+Round 3: boolicious wins the fight!
+You gain 27 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 3 Muscleboundness
+You gain 1 Enchantedness
+You gain 4 Smarm
+
+equip weapon octopus's spade
+
+equip off-hand Hodgman's metal detector
+
+equip shirt cane-mail shirt
+
+equip acc1 Baron von Ratsworth's monocle
+
+equip acc2 Hodgman's bow tie
+
+equip acc3 Hodgman's lucky sock
+
+[23898] Spooky Forest
+Encounter: spooky mummy
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spooky mummy takes 1331 damage.
+Round 2: boolicious wins the fight!
+You gain 23 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 9 Strongness
+You gain 2 Wizardliness
+You gain 5 Sarcasm
+
+[23899] Spooky Forest
+Encounter: spooky mummy
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spooky mummy takes 1334 damage.
+Round 2: boolicious wins the fight!
+You gain 25 Meat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 6 Fortitude
+You gain 3 Magicalness
+You gain 6 Sarcasm
+
+[23900] Spooky Forest
+Encounter: bar
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: bar takes 1350 damage.
+Round 2: boolicious wins the fight!
+You gain 32 Meat
+You acquire an item: bar skin
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 6 Beefiness
+You gain 3 Wizardliness
+You gain 6 Sarcasm
+
+[23901] Spooky Forest
+Encounter: triffid
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the Rain-Doh black box!
+You acquire an item: Rain-Doh box full of monster
+Round 2: triffid takes 3 damage.
+Round 2: triffid takes 4 damage.
+Round 2: triffid takes 4 damage.
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: triffid takes 1315 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: moxie weed
+You acquire an item: spooky stick
+You acquire an item: triffid bark
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 8 Strongness
+You gain 1 Mysteriousness
+You gain 7 Chutzpah
+
+use 1 Rain-Doh box full of monster
+
+[23902] Rain-Doh box full of monster
+Encounter: triffid
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: triffid takes 1323 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: moxie weed
+You acquire an item: spooky stick
+You acquire an item: triffid bark
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 7 Muscleboundness
+You gain 4 Wizardliness
+You gain 4 Roguishness
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+buy 1 White Citadel burger for 100 each from White Citadel
+You acquire an item: White Citadel burger
+You spent 100 Meat
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=3
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+[23903] Help Richard make bandages (Mysticality) (25 turns)
+You gain 2204 Mysteriousness
+You gain some Mysticality points!
+[23928] Help Richard make grenades (Moxie) (25 turns)
+You gain 2349 Roguishness
+You gain some Moxie points!
+[23953] Help Richard make grenades (Moxie) (25 turns)
+You gain 2316 Roguishness
+You gain some Moxie points!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 11, 2012 - Petember 7
+
+Ronald: third quarter
+Grimace: waning crescent
+Mini-moon: behind Grimace
+
+St. Sneaky Pete's Day: 6 days
+Lab&oacute;r Day: 7 days
+Halloween: 17 days
+Feast of Boris: 24 days
+Oyster Egg Day: 28 days
+Yuletide: 29 days
+Festival of Jarlsberg: 34 days
+Valentine's Day: 45 days
+El Dia De Los Muertos Borrachos: 67 days
+Generic Summer Holiday: 76 days
+Dependence Day: 85 days
+Arrrbor Day: 93 days
+
+
+Moxie bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 29
+HP: 2055 / 2,055
+MP: 942 / 1,454
+
+Mus: 1,303 (814), tnp = 1,472
+Mys: 938 (586), tnp = 278
+Mox: 936 (585), tnp = 456
+
+Advs: 16
+Meat: 217,553
+Drunk: 0
+
+
+ > equipment
+
+Hat: Hodgman's porkpie hat
+Weapon: octopus's spade
+Off-hand: Hodgman's metal detector
+Shirt: cane-mail shirt
+Pants: Hodgman's lobsterskin pants
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: Hodgman's bow tie
+Acc. 3: Hodgman's lucky sock
+
+Pet: Hovering Sombrero (28 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Creepy Lullaby
+ - Drunken Baby Style
+ - Eggsplosion
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+20/20 Vision (70)
+Scarysauce (157)
+Jabañero Saucesphere (157)
+Jalapeño Saucesphere (166)
+♫ Fat Leon's Phat Loot Lyric (180)
+♫ Polka of Plenty (182)
+♫ The Sonata of Sneakiness (192)
+Salamanderenity (324)
+Retrograde Relaxation (445)
+Reptilian Fortitude (478)
+Empathy (532)
+Astral Shell (537)
+Elemental Saucesphere (538)
+Tenacity of the Snapper (542)
+Ghostly Shell (714)
+Jingle Jangle Jingle (790)
+
+
+ > modifiers
+
+ML: +30
+Enc: -5.00%
+Init: +10.00%
+
+Exp: +4.01
+Meat: +100.00%
+Item: +140.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+unequip weapon
+unequip offhand
+
+equip shirt General Sage's Lonely Diamonds Club Jacket
+
+equip acc1 fudgecycle
+
+equip acc2 time halo
+
+equip acc3 wristwatch of the white knight
