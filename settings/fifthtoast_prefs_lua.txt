@@ -190,7 +190,7 @@ bootsCharged=false
 borisPoints=0
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=false
+breakfastCompleted=true
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
@@ -581,7 +581,7 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=1
+currentSpleenUse=12
 currentWheelPosition=muscle
 customCombatScript=Nirvana
 cyrptAlcoveEvilness=0
@@ -657,7 +657,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Outskirts of The Knob
+lastAdventure=Haunted Kitchen
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion-1=confusion
@@ -678,8 +678,8 @@ lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=2
-lastCounterDay=14
+lastCouncilVisit=3
+lastCounterDay=15
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -720,7 +720,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=triffid
+lastEncounter=zombie chef
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -782,8 +782,8 @@ lastStoneSphere2175
 lastStoneSphere2176
 lastStoneSphere2177
 lastStoneSphereReset=1
-lastTavernAscension=0
-lastTavernSquare=0
+lastTavernAscension=1
+lastTavernSquare=16
 lastTelescopeReset=-1
 lastTempleUnlock=0
 lastTowerClimb=0
@@ -862,7 +862,7 @@ questI01Scapegoat=unstarted
 questI02Beat=unstarted
 questI02Beat =unstarted
 questL02Larva=finished
-questL03Rat=unstarted
+questL03Rat=finished
 questL04Bat=unstarted
 questL05Goblin=unstarted
 questL06Friar=unstarted
@@ -904,7 +904,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=71\:Fortune Cookie\:fortune.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -953,7 +953,7 @@ spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster
 stationaryButton1=11000
-stationaryButton2
+stationaryButton2=11001
 stationaryButton3
 stationaryButton4
 stationaryButton5
@@ -965,7 +965,7 @@ sugarCounter4181=0
 sugarCounter4182=0
 sugarCounter4183=0
 sugarCounter4191=0
-tavernLayout=0000000000000000000000000
+tavernLayout=1115115515311116115111211
 telescope1
 telescope2
 telescope3
@@ -977,7 +977,7 @@ telescopeLookedHigh=false
 telescopeUpgrades=0
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
-timesRested=0
+timesRested=4
 tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome

@@ -603,7 +603,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=15
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -710,7 +710,7 @@ lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=27
-lastCounterDay=14
+lastCounterDay=15
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=1
@@ -823,7 +823,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=16
+libramSummons=18
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -855,7 +855,7 @@ nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=sphere
 olfactedMonster=wabbit
-oscusSodaUsed=true
+oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=6
 pastamancerGhostExperience=0
@@ -981,7 +981,7 @@ slimelingStacksDue=0
 sortByRoom=false
 spadingData
 spiceMelangeUsed=false
-spookyPuttyCopiesMade=1
+spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
 stationaryButton1=68
 stationaryButton2=71
@@ -1004,12 +1004,12 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=true
+telescopeLookedHigh=false
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=2
+tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
