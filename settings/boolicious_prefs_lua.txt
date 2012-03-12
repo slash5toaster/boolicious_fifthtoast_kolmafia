@@ -1,5 +1,5 @@
 =4
-AdventureFrame=362,110,1
+AdventureFrame=362,110,0
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=742,435
@@ -28,8 +28,8 @@ RequestFrame=-3,-3,-1
 RequestSynchFrame=337,247,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
-StoreManageFrame=293,225,0
-TabbedChatFrame=770,99,0
+StoreManageFrame=-3,-3,0
+TabbedChatFrame=770,99,3
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -664,7 +664,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=15
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 goldenMrAccessories=0
 gongPath=10
 gourdItemCount=6
@@ -688,7 +688,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=None
+lastAdventure=Degrassi Knoll
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -751,7 +751,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=-1
-lastEncounter=triffid
+lastEncounter=Gnollish Piebaker
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -855,7 +855,7 @@ nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=sphere
 olfactedMonster=wabbit
-oscusSodaUsed=false
+oscusSodaUsed=true
 outrageousSombreroUsed=false
 parasolUsed=6
 pastamancerGhostExperience=0
@@ -925,7 +925,7 @@ questM14Bounty=unstarted
 questS01OldGuy=started
 questS02Monkees=unstarted
 rageGlandVented=false
-rainDohMonster
+rainDohMonster=spam witch
 raveCombo1
 raveCombo2
 raveCombo3
@@ -981,7 +981,7 @@ slimelingStacksDue=0
 sortByRoom=false
 spadingData
 spiceMelangeUsed=false
-spookyPuttyCopiesMade=0
+spookyPuttyCopiesMade=4
 spookyPuttyMonster=something <i>totally</i> unrecognizable
 stationaryButton1=68
 stationaryButton2=71

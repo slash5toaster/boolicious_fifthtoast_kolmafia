@@ -1357,3 +1357,133 @@ You gain 2 Wizardliness
 
 canadia.php?place=machine
 canadia.php?action=changedial&whichlevel=0
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 12, 2012 - Petember 8
+
+Ronald: waning crescent
+Grimace: waning crescent
+Mini-moon: in back, near Ronald
+
+St. Sneaky Pete's Day: 5 days
+Lab&oacute;r Day: 6 days
+Halloween: 16 days
+Feast of Boris: 23 days
+Oyster Egg Day: 27 days
+Yuletide: 28 days
+Festival of Jarlsberg: 33 days
+Valentine's Day: 44 days
+El Dia De Los Muertos Borrachos: 66 days
+Generic Summer Holiday: 75 days
+Dependence Day: 84 days
+Arrrbor Day: 92 days
+
+
+Moxie bonus today and tomorrow.
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 3
+HP: 33 / 33
+MP: 10 / 10
+
+Mus: 19 (12), tnp = 1
+Mys: 10, tnp = 9
+Mox: 8, tnp = 7
+
+Advs: 0
+Meat: 310
+Drunk: 4
+
+
+ > equipment
+
+Hat: viking helmet
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin pants
+
+Acc. 1: ring of half-assed regeneration
+Acc. 2: (none)
+Acc. 3: (none)
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Avatar Of Boris
+ - Cleave
+ - Demand Sandwich
+ - Intimidating Bellow
+ - Laugh It Off
+ - Mighty Axing
+
+
+ > effects
+
+0 of 3 AT buffs active.
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+buy 1 hermit permit for 100 each from Market Demon
+You acquire an item: hermit permit
+You spent 100 Meat
+
+trading 1 worthless item for 1 ten-leaf clover
+You acquire an item: ten-leaf clover
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: Hollandaise helmet
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+Visiting Hermit
+
+buy 1 hermit permit for 100 each from Market Demon
+You acquire an item: hermit permit
+You spent 100 Meat
+
+Visiting Hermit
+
+trading 1 worthless item for 1 ten-leaf clover
+You acquire an item: ten-leaf clover
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
