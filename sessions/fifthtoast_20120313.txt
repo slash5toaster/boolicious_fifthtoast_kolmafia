@@ -1978,3 +1978,96 @@ You gain 3 Drunkenness
 
 town_fleamarket.php?which=12
 town_fleamarket.php?pwd&buying=Yep.&which=12&whichitem=617&howmuch=200
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 13, 2012 - Carlvember 1
+
+Ronald: new moon
+Grimace: new moon
+Mini-moon: far left
+
+St. Sneaky Pete's Day: 4 days
+Lab&oacute;r Day: 5 days
+Halloween: 15 days
+Feast of Boris: 22 days
+Oyster Egg Day: 26 days
+Yuletide: 27 days
+Festival of Jarlsberg: 32 days
+Valentine's Day: 43 days
+El Dia De Los Muertos Borrachos: 65 days
+Generic Summer Holiday: 74 days
+Dependence Day: 83 days
+Arrrbor Day: 91 days
+
+
+Moxie bonus today and yesterday.
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 4
+HP: 63 / 63
+MP: 29 / 29
+
+Mus: 39 (19), tnp = 10
+Mys: 29 (16), tnp = 7
+Mox: 26 (13), tnp = 19
+
+Advs: 6
+Meat: 1,450
+Drunk: 7
+
+
+ > equipment
+
+Hat: viking helmet
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin pants
+
+Acc. 1: shiny ring
+Acc. 2: Pine-Fresh air freshener
+Acc. 3: Baron von Ratsworth's money clip
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Avatar Of Boris
+ - Cleave
+ - Demand Sandwich
+ - Intimidating Bellow
+ - Laugh It Off
+ - Legendary Bravado
+ - Mighty Axing
+
+
+ > effects
+
+0 of 3 AT buffs active.
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +15.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
