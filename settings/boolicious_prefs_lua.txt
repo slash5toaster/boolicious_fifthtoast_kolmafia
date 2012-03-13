@@ -29,7 +29,7 @@ RequestSynchFrame=337,247,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=-3,-3,0
-TabbedChatFrame=770,99,3
+TabbedChatFrame=770,99,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -603,7 +603,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=5
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -688,7 +688,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Degrassi Knoll
+lastAdventure=A Maze of Sewer Tunnels
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -709,7 +709,7 @@ lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=27
+lastCouncilVisit=29
 lastCounterDay=15
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
@@ -751,7 +751,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=-1
-lastEncounter=Gnollish Piebaker
+lastEncounter=sewer gator
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1

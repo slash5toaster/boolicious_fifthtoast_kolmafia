@@ -1487,3 +1487,106 @@ You acquire an item: ten-leaf clover
 
 Use 1 ten-leaf clover
 You acquire an item: disassembled clover
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 12, 2012 - Petember 8
+
+Ronald: waning crescent
+Grimace: waning crescent
+Mini-moon: in back, near Ronald
+
+St. Sneaky Pete's Day: 5 days
+Lab&oacute;r Day: 6 days
+Halloween: 16 days
+Feast of Boris: 23 days
+Oyster Egg Day: 27 days
+Yuletide: 28 days
+Festival of Jarlsberg: 33 days
+Valentine's Day: 44 days
+El Dia De Los Muertos Borrachos: 66 days
+Generic Summer Holiday: 75 days
+Dependence Day: 84 days
+Arrrbor Day: 92 days
+
+
+Moxie bonus today and tomorrow.
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 3
+HP: 33 / 33
+MP: 10 / 10
+
+Mus: 19 (12), tnp = 1
+Mys: 10, tnp = 9
+Mox: 8, tnp = 7
+
+Advs: 0
+Meat: 10
+Drunk: 4
+
+
+ > equipment
+
+Hat: viking helmet
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin pants
+
+Acc. 1: ring of half-assed regeneration
+Acc. 2: (none)
+Acc. 3: (none)
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Avatar Of Boris
+ - Cleave
+ - Demand Sandwich
+ - Intimidating Bellow
+ - Laugh It Off
+ - Mighty Axing
+
+
+ > effects
+
+0 of 3 AT buffs active.
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[170] Mix 1 bottle of tequila + 1 lemon
+You acquire an item: margarita
+Crafting used 1 each of lemon and bottle of tequila
+
+drink 1 margarita
+You gain 6 Adventures
+You gain 9 Beefiness
+You gain a Muscle point!
+You gain a Level!
+You gain 3 Drunkenness
