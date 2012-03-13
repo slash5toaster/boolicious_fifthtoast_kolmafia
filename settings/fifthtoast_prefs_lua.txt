@@ -4,7 +4,7 @@ CoinmastersFrame=-3,-3,-1
 CouncilFrame=424,322,-1
 DescriptionFrame=731,201,-1
 FamiliarTrainingFrame=260,240
-KoLDesktop=257,119,-1
+KoLDesktop=330,134,-1
 LoginFrame=404,235,0
 MaximizerFrame=326,275
 ProfileFrame=424,322,-1
@@ -36,7 +36,7 @@ _companionshipCasts=0
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=2
+_demandSandwich=3
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -573,7 +573,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=3
+currentFullness=20
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -581,7 +581,7 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=8
 currentWheelPosition=muscle
 customCombatScript=Nirvana
 cyrptAlcoveEvilness=0
@@ -657,7 +657,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Bat Hole Entryway
+lastAdventure=Goat Party
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion-1=confusion
@@ -720,7 +720,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=pine bat
+lastEncounter=wolfman
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -783,7 +783,7 @@ lastStoneSphere2176
 lastStoneSphere2177
 lastStoneSphereReset=1
 lastTavernAscension=1
-lastTavernSquare=16
+lastTavernSquare=11
 lastTelescopeReset=-1
 lastTempleUnlock=0
 lastTowerClimb=0
@@ -811,8 +811,8 @@ mineLayout2
 mineLayout3
 mineLayout4
 mmgAutoConfirmBets=false
-mmgSearchMaximum
-mmgSearchMinimum
+mmgSearchMaximum=10000
+mmgSearchMinimum=100
 moleTunnelLevel=0
 mpAutoRecovery=-0.05
 mpAutoRecoveryItems=phonics down;knob goblin superseltzer;mountain stream soda;magical mystery juice;knob goblin seltzer;cherry cloaca cola;soda water
@@ -863,7 +863,7 @@ questI02Beat=unstarted
 questI02Beat =unstarted
 questL02Larva=finished
 questL03Rat=finished
-questL04Bat=started
+questL04Bat=finished
 questL05Goblin=unstarted
 questL06Friar=unstarted
 questL07Cyrptic=unstarted
@@ -954,7 +954,7 @@ spookyPuttyCopiesMade=0
 spookyPuttyMonster
 stationaryButton1=11000
 stationaryButton2=11001
-stationaryButton3
+stationaryButton3=11011
 stationaryButton4
 stationaryButton5
 styxPixieVisited=false
@@ -977,7 +977,7 @@ telescopeLookedHigh=false
 telescopeUpgrades=0
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
-timesRested=0
+timesRested=3
 tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
