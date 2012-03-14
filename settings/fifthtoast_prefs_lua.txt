@@ -10,7 +10,7 @@ MaximizerFrame=326,275
 ProfileFrame=424,322,-1
 RequestFrame=337,247,-1
 RequestSynchFrame=249,66,-1
-TabbedChatFrame=780,79,0
+TabbedChatFrame=780,79,1
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -657,7 +657,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Goat Party
+lastAdventure=Drunken Stupor
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion-1=confusion
@@ -673,7 +673,7 @@ lastBangPotion827
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=-1
+lastBreakfast=0
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
@@ -720,7 +720,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=wolfman
+lastEncounter=The Too-Much Booze Blues
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
