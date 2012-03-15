@@ -37,7 +37,7 @@ _companionshipCasts=0
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=3
+_demandSandwich=6
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -576,7 +576,7 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=2100
+currentBountyItem=2469
 currentFullness=20
 currentHippyStore=none
 currentJunkyardLocation
@@ -585,7 +585,7 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=14
+currentSpleenUse=1
 currentWheelPosition=muscle
 customCombatScript=Nirvana
 cyrptAlcoveEvilness=0
@@ -637,10 +637,10 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 goldenMrAccessories=0
 gongPath=0
-gourdItemCount=6
+gourdItemCount=7
 grimoire1Summons=0
 grimoire2Summons=0
 grimoire3Summons=0
@@ -661,7 +661,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Drunken Stupor
+lastAdventure=Cobb's Knob Laboratory
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion-1=confusion
@@ -677,13 +677,13 @@ lastBangPotion827
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=1
+lastBreakfast=2
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=5
-lastCounterDay=1
+lastCouncilVisit=6
+lastCounterDay=2
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -724,10 +724,10 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=The Too-Much Booze Blues
+lastEncounter=Carbuncle Top
 lastFilthClearance=0
 lastFratboyCall=-1
-lastFriarCeremonyAscension=0
+lastFriarCeremonyAscension=1
 lastGalleryUnlock=-1
 lastGuildStoreOpen=0
 lastGuyMadeOfBeesReset=1
@@ -869,7 +869,7 @@ questL02Larva=finished
 questL03Rat=finished
 questL04Bat=finished
 questL05Goblin=finished
-questL06Friar=unstarted
+questL06Friar=finished
 questL07Cyrptic=unstarted
 questL08Trapper=unstarted
 questL09Lol=unstarted
@@ -890,7 +890,7 @@ questM06Gourd=finished
 questM07Hammer=finished
 questM08Baker=finished
 questM09Rocks=finished
-questM10Azazel=unstarted
+questM10Azazel=started
 questM11Postal=unstarted
 questM12Pirate=unstarted
 questM13Escape=unstarted
@@ -908,7 +908,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=578\:Semirare window begin\:lparen.gif\:618\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -917,8 +917,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=0
-semirareLocation=Giant's Castle
+semirareCounter=418
+semirareLocation=Haunted Pantry
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=true
@@ -981,7 +981,7 @@ telescopeLookedHigh=false
 telescopeUpgrades=0
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
-timesRested=3
+timesRested=2
 tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
