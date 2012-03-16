@@ -37,7 +37,7 @@ _companionshipCasts=0
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=6
+_demandSandwich=3
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -60,6 +60,7 @@ _interviewVlad=false
 _ironicMoustache=false
 _jackassPlumberGame=false
 _jackassePlumberGame
+_jukebox=false
 _klawSummons=0
 _kloopDrops=0
 _lastZomboEye=0
@@ -576,8 +577,8 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=2469
-currentFullness=20
+currentBountyItem=2468
+currentFullness=16
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -585,7 +586,7 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=1
+currentSpleenUse=0
 currentWheelPosition=muscle
 customCombatScript=Nirvana
 cyrptAlcoveEvilness=0
@@ -661,7 +662,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Cobb's Knob Laboratory
+lastAdventure=8-Bit Realm
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion-1=confusion
@@ -677,13 +678,13 @@ lastBangPotion827
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=2
+lastBreakfast=3
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=6
-lastCounterDay=2
+lastCounterDay=3
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -724,7 +725,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=Carbuncle Top
+lastEncounter=Blooper
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -881,7 +882,7 @@ questL11Pyramid=unstarted
 questL11Worship=unstarted
 questL12War=unstarted
 questL13Final=unstarted
-questM01Untinker=unstarted
+questM01Untinker=finished
 questM02Artist=finished
 questM03Bugbear=unstarted
 questM04Galaktic=started
@@ -908,7 +909,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=578\:Semirare window begin\:lparen.gif\:618\:Semirare window end loc\=*\:rparen.gif
+relayCounters=763\:Semirare window begin\:lparen.gif\:803\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -917,8 +918,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=418
-semirareLocation=Haunted Pantry
+semirareCounter=603
+semirareLocation=8-Bit Realm
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=true
@@ -981,7 +982,7 @@ telescopeLookedHigh=false
 telescopeUpgrades=0
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
-timesRested=2
+timesRested=5
 tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome

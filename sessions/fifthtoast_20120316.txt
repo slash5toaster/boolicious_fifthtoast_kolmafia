@@ -1,0 +1,1173 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 16, 2012 - Carlvember 4
+
+Ronald: waxing gibbous
+Grimace: waxing crescent
+Mini-moon: far right
+
+St. Sneaky Pete's Day: tomorrow
+Lab&oacute;r Day: 2 days
+Halloween: 12 days
+Feast of Boris: 19 days
+Oyster Egg Day: 23 days
+Yuletide: 24 days
+Festival of Jarlsberg: 29 days
+Valentine's Day: 40 days
+El Dia De Los Muertos Borrachos: 62 days
+Generic Summer Holiday: 71 days
+Dependence Day: 80 days
+Arrrbor Day: 88 days
+
+
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 6
+HP: 40 / 87
+MP: 38 / 38
+
+Mus: 55 (33), tnp = 36
+Mys: 38 (28), tnp = 11
+Mox: 36 (23), tnp = 35
+
+Advs: 40
+Meat: 4,686
+Drunk: 0
+
+
+ > equipment
+
+Hat: Knob Goblin elite helm
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin pants
+
+Acc. 1: imp unity ring
+Acc. 2: Boss Bat bling
+Acc. 3: Baron von Ratsworth's money clip
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Avatar Of Boris
+ - Cleave
+ - Demand Sandwich
+ - Ferocity
+ - Intimidating Bellow
+ - Laugh It Off
+ - Legendary Bravado
+ - Legendary Girth
+ - Mighty Axing
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Brother Flying Burrito's Blessing (18)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +15.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 3 Demand Sandwich
+You acquire club sandwich (3)
+
+eat 3 club sandwich
+You gain 14 Adventures
+You gain 21 Beefiness
+You gain 3 Fullness
+You gain 9 Adventures
+You gain 19 Muscleboundness
+You gain a Muscle point!
+You gain 3 Fullness
+You gain 9 Adventures
+You gain 18 Strengthliness
+You gain 3 Fullness
+
+[536] Cook 1 Knoll mushroom + 1 skewer
+You acquire an item: Knoll shroomkabob
+Crafting used 1 each of skewer and Knoll mushroom
+
+eat 1 Knoll shroomkabob
+You gain 3 Adventures
+You gain 8 Muscleboundness
+You gain 2 Fullness
+
+equip acc1 shiny ring
+
+[535] Belilafs Comedy Club
+Encounter: CH Imp
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: ch imp takes 42 damage.
+You lose 30 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: ch imp takes 38 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 hit points
+You gain 5 Muscularity Points
+You gain 31 Meat
+You gain 10 Fortitude
+You gain 3 Mysteriousness
+You gain 5 Roguishness
+
+cast 5 Laugh It Off
+You gain 6 hit points
+
+[536] Rest in your dwelling
+You gain 18 hit points
+You gain 20 Mojo Points
+
+[537] Belilafs Comedy Club
+Encounter: CH Imp
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 24 hit points
+After Battle: unspecified macro action?
+After Battle: ch imp takes 60 damage.
+You lose 30 hit points
+
+[538] Rest in your dwelling
+You gain 20 hit points
+You gain 20 Mojo Points
+friars blessing 1
+You acquire an effect: Brother Flying Burrito's Blessing (duration: 20 Adventures)
+
+[539] Spooky Forest
+Encounter: triffid
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: triffid takes 59 damage.
+Round 1: fifthtoast wins the fight!
+You gain 4 hit points
+You gain 5 Muscularity Points
+You gain 1 Muscleboundness
+You gain 1 Smarm
+
+[540] Spooky Forest
+Encounter: spooky vampire
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: spooky vampire takes 74 damage.
+Round 1: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 4 Muscularity Points
+You gain 4 Meat
+You gain 2 Fortitude
+
+[541] Spooky Forest
+Encounter: spooky vampire
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: spooky vampire takes 89 damage.
+Round 1: fifthtoast wins the fight!
+You gain 4 hit points
+You gain 4 Muscularity Points
+You gain 5 Meat
+You gain 2 Beefiness
+
+[542] Degrassi Knoll
+Encounter: Gnollish Workshop
+You acquire an item: spring
+You acquire an item: sprocket
+You acquire an item: cog
+
+[543] Degrassi Knoll
+Encounter: one-eyed Gnoll
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: one-eyed gnoll takes 87 damage.
+After Battle: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 4 Muscularity Points
+You gain 28 Meat
+You gain 2 Beefiness
+You gain 2 Wizardliness
+You gain 1 Sarcasm
+
+[544] Degrassi Knoll
+Encounter: Gnollish Plungermaster
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: gnollish plungermaster takes 95 damage.
+After Battle: fifthtoast wins the fight!
+You gain 4 hit points
+You gain 5 Muscularity Points
+You gain 29 Meat
+You gain 3 Strongness
+You gain 2 Mysteriousness
+
+[545] Degrassi Knoll
+Encounter: Gnollish Workshop
+You acquire an item: spring
+You acquire an item: sprocket
+You acquire an item: cog
+
+[546] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: knob goblin accountant takes 68 damage.
+Round 1: fifthtoast wins the fight!
+You gain 4 hit points
+You gain 6 Muscularity Points
+You gain 56 Meat
+You gain 4 Muscleboundness
+You gain 2 Enchantedness
+You gain 2 Smarm
+
+[547] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: knob goblin accountant takes 72 damage.
+After Battle: fifthtoast wins the fight!
+You gain 4 hit points
+You gain 7 Muscularity Points
+You gain 51 Meat
+You gain 5 Strongness
+You gain 2 Magicalness
+You gain a Mysticality point!
+
+[548] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: knob goblin mba takes 60 damage.
+After Battle: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 4 Muscularity Points
+You gain 82 Meat
+You gain 5 Beefiness
+You gain 3 Magicalness
+You gain 1 Roguishness
+
+[549] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: knob goblin mba takes 71 damage.
+After Battle: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 8 Muscularity Points
+You gain 69 Meat
+You gain 4 Muscleboundness
+You gain 3 Mysteriousness
+You gain 2 Cheek
+
+[550] Cobb's Knob Treasury
+Encounter: Treasury Chest
+You gain 300 Meat
+
+[551] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 5 hit points
+After Battle: unspecified macro action?
+After Battle: knob goblin mba takes 72 damage.
+After Battle: fifthtoast wins the fight!
+You gain 4 hit points
+You gain 7 Muscularity Points
+You gain 85 Meat
+You gain 6 Strengthliness
+You gain a Muscle point!
+You gain 2 Wizardliness
+You gain 1 Chutzpah
+Encounter: Knob Goblin Bean Counter
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: knob goblin bean counter takes 73 damage.
+Round 1: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 7 Muscularity Points
+You gain 77 Meat
+You acquire an item: hill of beans
+You acquire an item: bundle of receipts
+You gain 5 Strongness
+You gain 2 Cheek
+
+[553] Cobb's Knob Treasury
+Encounter: Meat Score!
+You gain 500 Meat
+
+[554] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: knob goblin accountant takes 112 damage.
+Round 1: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 8 Muscularity Points
+You gain 66 Meat
+You acquire an item: flimsy clipboard
+You gain 5 Muscleboundness
+You gain 3 Magicalness
+
+[555] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: knob goblin mba takes 77 damage.
+Round 1: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 8 Muscularity Points
+You gain 94 Meat
+You gain 5 Strengthliness
+You gain 3 Mysteriousness
+
+[556] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: knob goblin accountant takes 64 damage.
+Round 1: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 6 Muscularity Points
+You gain 59 Meat
+You acquire an item: flimsy clipboard
+You gain 4 Fortitude
+You gain 2 Mysteriousness
+You gain 1 Smarm
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+Visiting Hermit
+
+buy 1 hermit permit for 100 each from Market Demon
+You acquire an item: hermit permit
+You spent 100 Meat
+
+Visiting Hermit
+
+trading 1 worthless item for 1 ten-leaf clover
+You acquire an item: ten-leaf clover
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+Visiting Hermit
+
+buy 1 hermit permit for 100 each from Market Demon
+You acquire an item: hermit permit
+You spent 100 Meat
+
+Visiting Hermit
+
+trading 1 worthless item for 1 ten-leaf clover
+You acquire an item: ten-leaf clover
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+Visiting Hermit
+
+buy 1 hermit permit for 100 each from Market Demon
+You acquire an item: hermit permit
+You spent 100 Meat
+
+Visiting Hermit
+
+trading 1 worthless item for 1 ten-leaf clover
+You acquire an item: ten-leaf clover
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless trinket
+
+Visiting Hermit
+
+buy 1 hermit permit for 100 each from Market Demon
+You acquire an item: hermit permit
+You spent 100 Meat
+
+Visiting Hermit
+
+[557] Daily Dungeon (Room 1)
+Encounter: Locked Door
+
+[557] Daily Dungeon (Room 2)
+Encounter: You'll Put Your Eye Out
+
+[558] Daily Dungeon (Room 3)
+Encounter: Treasure!
+You acquire an item: walrus-tusk earring
+
+[559] Daily Dungeon (Room 4)
+Encounter: Did I Leave the Floor On?
+
+[560] Daily Dungeon (Room 5)
+Encounter: apathetic lizardman
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: apathetic lizardman takes 58 damage.
+You acquire an effect: Apathy (duration: 10 Adventures)
+Round 2: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 4 Muscularity Points
+You gain 20 Meat
+You gain 1 Beefiness
+You gain 2 Enchantedness
+You gain 3 Chutzpah
+
+[561] Daily Dungeon (Room 6)
+Encounter: Treasure!
+You acquire an item: concentrated magicalness pill
+
+[562] Daily Dungeon (Room 7)
+Encounter: Dungeon Fever
+
+[563] Daily Dungeon (Room 8)
+Encounter: Dungeon Fever
+
+[564] Daily Dungeon (Room 9)
+Encounter: Badger Badger Badger Badger
+
+[565] Daily Dungeon (Room 9)
+Encounter: Badger Badger Badger Badger
+
+[566] Daily Dungeon (Room 10)
+Encounter: Treasure!
+You acquire an item: fat loot token
+
+trading 1 fat loot token for 1 Boris's ring
+You acquire an item: Boris's ring
+
+[567] Haiku Dungeon
+Encounter: amateur ninja
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: amateur ninja takes 70 damage.
+After Battle: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 7 Mojo points
+You gain 21 Meat
+You gain 2 Strongness
+
+[568] Haiku Dungeon
+Encounter: amateur ninja
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: amateur ninja takes 74 damage.
+Round 1: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 5 Mojo points
+You gain 24 Meat
+You gain 1 Strongness
+You gain 1 Roguishness
+
+[569] Haiku Dungeon
+Encounter: ancient insane monk
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: ancient insane monk takes 66 damage.
+Round 1: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 5 Mojo points
+You acquire an item: bottle of sake
+You gain 1 Strongness
+You gain 1 Roguishness
+
+[570] Haiku Dungeon
+Encounter: Gravy Fairy Ring
+Took choice 297/1: mushrooms
+choice.php?pwd&whichchoice=297&option=1
+
+[571] Haiku Dungeon
+Encounter: gelatinous cube
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: gelatinous cube takes 121 damage.
+Round 1: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 4 Mojo points
+You gain 33 Meat
+You gain 2 Strongness
+
+[572] Haiku Dungeon
+Encounter: Knob Goblin poseur
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: knob goblin poseur takes 96 damage.
+Round 1: fifthtoast wins the fight!
+You gain 4 hit points
+You gain 5 Mojo points
+You gain 24 Meat
+You gain 1 Strongness
+You gain 2 Magicalness
+
+[573] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: knob goblin bean counter takes 57 damage.
+After Battle: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 6 Muscularity Points
+You gain 56 Meat
+You acquire an item: bundle of receipts
+You acquire an item: stolen office supplies
+You gain 4 Strongness
+You gain 2 Wizardliness
+You gain 2 Smarm
+
+[574] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: knob goblin mba takes 71 damage.
+After Battle: fifthtoast wins the fight!
+You gain 4 hit points
+You gain 6 Muscularity Points
+You gain 86 Meat
+You gain 4 Strengthliness
+You gain 4 Magicalness
+
+[575] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: knob goblin mba takes 65 damage.
+After Battle: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 7 Muscularity Points
+You gain 75 Meat
+You acquire an item: baggie of powdered sugar
+You gain 6 Beefiness
+You gain 1 Cheek
+
+[576] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: knob goblin mba takes 108 damage.
+After Battle: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 8 Muscularity Points
+You gain 82 Meat
+You acquire an item: meat stack
+You gain 4 Beefiness
+You gain 3 Sarcasm
+
+[577] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: knob goblin bean counter takes 60 damage.
+Round 1: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 5 Muscularity Points
+You gain 72 Meat
+You acquire an item: bundle of receipts
+You acquire an item: stolen office supplies
+You gain 4 Muscleboundness
+You gain 2 Enchantedness
+You gain 1 Cheek
+
+[578] Cobb's Knob Treasury
+Encounter: Treasury Chest
+You gain 300 Meat
+
+[579] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: knob goblin mba takes 76 damage.
+After Battle: fifthtoast wins the fight!
+You gain 4 hit points
+You gain 6 Muscularity Points
+You gain 71 Meat
+You gain 5 Fortitude
+You gain 2 Sarcasm
+
+[580] Belilafs Comedy Club
+Encounter: Pr Imp
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: pr imp takes 46 damage.
+You lose 26 hit points
+After Battle: unspecified macro action?
+After Battle: pr imp takes 36 damage.
+After Battle: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 4 Muscularity Points
+You gain 54 Meat
+You gain 8 Fortitude
+You gain 2 Wizardliness
+You gain 6 Cheek
+You gain a Moxie point!
+
+[581] Belilafs Comedy Club
+Encounter: Pr Imp
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: pr imp takes 28 damage.
+You lose 25 hit points
+After Battle: unspecified macro action?
+After Battle: pr imp takes 66 damage.
+After Battle: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 8 Muscularity Points
+You gain 59 Meat
+You gain 10 Strengthliness
+You gain a Muscle point!
+You gain 6 Roguishness
+
+[582] Belilafs Comedy Club
+Encounter: Carbuncle Top
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts MIGHTY AXING!
+You lose 36 hit points
+Round 2: fifthtoast casts MIGHTY AXING!
+You lose 34 hit points
+
+[583] Rest in your dwelling
+You gain 20 hit points
+You gain 20 Mojo Points
+
+Visiting the Bounty Hunter Hunter
+
+[584] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: knob goblin accountant takes 62 damage.
+Round 1: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 4 Muscularity Points
+You gain 59 Meat
+You gain 2 Fortitude
+You gain 3 Mysteriousness
+You gain 3 Roguishness
+
+[585] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: knob goblin accountant takes 55 damage.
+After Battle: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 5 Muscularity Points
+You gain 56 Meat
+You gain 2 Muscleboundness
+You gain 5 Enchantedness
+You gain 1 Roguishness
+
+[586] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: knob goblin mba takes 90 damage.
+After Battle: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 5 Muscularity Points
+You gain 86 Meat
+You acquire an item: baggie of powdered sugar
+You gain 4 Beefiness
+You gain 3 Enchantedness
+You gain 2 Sarcasm
+
+[587] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: knob goblin mba takes 62 damage.
+After Battle: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 4 Muscularity Points
+You gain 79 Meat
+You acquire an item: meat stack
+You gain 2 Beefiness
+You gain 3 Enchantedness
+You gain 4 Cheek
+
+[588] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: knob goblin bean counter takes 62 damage.
+After Battle: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 8 Muscularity Points
+You gain 70 Meat
+You acquire an item: bundle of receipts
+You gain 2 Strengthliness
+You gain 3 Wizardliness
+You gain 3 Sarcasm
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+accept bounty assignment to collect 4 callused fingerbones
+
+[589] Belilafs Comedy Club
+Encounter: BL Imp
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: bl imp takes 32 damage.
+You lose 31 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: bl imp takes 26 damage.
+You lose 30 hit points
+
+[590] Rest in your dwelling
+You gain 19 hit points
+You gain 20 Mojo Points
+
+equip acc3 continuum transfunctioner
+
+[591] 8-Bit Realm
+Encounter: Zol
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: zol takes 50 damage.
+Round 1: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 7 Muscularity Points
+You acquire an item: green pixel
+You acquire an item: green pixel
+You acquire an item: green pixel
+You gain 4 Strongness
+You gain 2 Enchantedness
+You gain 2 Chutzpah
+
+[592] 8-Bit Realm
+Encounter: Tektite
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: tektite takes 47 damage.
+Round 1: fifthtoast wins the fight!
+You gain 4 hit points
+You gain 4 Muscularity Points
+You acquire an item: blue pixel
+You gain 3 Strengthliness
+You gain 3 Enchantedness
+You gain 1 Roguishness
+
+[593] 8-Bit Realm
+Encounter: Keese
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: keese takes 63 damage.
+Round 1: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 7 Muscularity Points
+You acquire an item: blue pixel
+You acquire an item: blue pixel
+You gain 5 Strongness
+You gain 3 Mysteriousness
+You gain 1 Roguishness
+
+[594] 8-Bit Realm
+Encounter: Bullet Bill
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: bullet bill takes 99 damage.
+Round 1: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 5 Muscularity Points
+You acquire an item: black pixel
+You acquire an item: black pixel
+You acquire an item: black pixel
+You gain 5 Strongness
+You gain 3 Enchantedness
+
+[595] 8-Bit Realm
+Encounter: Octorok
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: octorok takes 73 damage.
+After Battle: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 8 Muscularity Points
+You acquire an item: red pixel
+You gain 4 Beefiness
+You gain 2 Magicalness
+You gain a Mysticality point!
+You gain 3 Chutzpah
+
+[596] 8-Bit Realm
+Encounter: Blooper
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: blooper takes 75 damage.
+Round 1: fifthtoast wins the fight!
+You gain 4 hit points
+You gain 6 Muscularity Points
+You acquire an item: white pixel
+You acquire an item: white pixel
+You gain 4 Fortitude
+You gain 4 Magicalness
+
+[597] 8-Bit Realm
+Encounter: Keese
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: keese takes 61 damage.
+After Battle: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 5 Muscularity Points
+You gain 5 Beefiness
+You gain 2 Magicalness
+You gain 2 Sarcasm
+
+[598] 8-Bit Realm
+Encounter: Koopa Troopa
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: koopa troopa takes 69 damage.
+After Battle: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 5 Muscularity Points
+You acquire an item: green pixel
+You acquire an item: white pixel
+You acquire an item: black pixel
+You gain 3 Strongness
+You gain 3 Roguishness
+
+[599] 8-Bit Realm
+Encounter: Blooper
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: blooper takes 73 damage.
+Round 1: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 4 Muscularity Points
+You acquire an item: white pixel
+You acquire an item: white pixel
+You gain 7 Strongness
+
+[600] 8-Bit Realm
+Encounter: Bullet Bill
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: bullet bill takes 77 damage.
+Round 1: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 7 Muscularity Points
+You acquire an item: black pixel
+You acquire an item: black pixel
+You gain 4 Strongness
+You gain 3 Roguishness
+
+[601] 8-Bit Realm
+Encounter: Octorok
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: octorok takes 63 damage.
+Round 1: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 5 Muscularity Points
+You acquire an item: red pixel
+You acquire an item: red pixel
+You gain 5 Beefiness
+You gain 3 Wizardliness
+You gain 1 Chutzpah
+
+[602] 8-Bit Realm
+Encounter: Tektite
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: tektite takes 80 damage.
+Round 1: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 8 Muscularity Points
+You gain 4 Beefiness
+You gain 2 Sarcasm
+
+[603] 8-Bit Realm
+Encounter: Some Bricks Do, In Fact, Hang in the Air
+You acquire an item: fire flower
+
+[604] 8-Bit Realm
+Encounter: Keese
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: keese takes 113 damage.
+After Battle: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 6 Muscularity Points
+You acquire an item: blue pixel
+You acquire an item: blue pixel
+You acquire an item: blue pixel
+You gain 2 Strengthliness
+You gain a Muscle point!
+You gain 2 Enchantedness
+You gain 4 Cheek
+
+[605] 8-Bit Realm
+Encounter: Koopa Troopa
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: koopa troopa takes 72 damage.
+After Battle: fifthtoast wins the fight!
+You gain 4 hit points
+You gain 4 Muscularity Points
+You acquire an item: green pixel
+You acquire an item: white pixel
+You gain 3 Strengthliness
+You gain 4 Enchantedness
+
+Trade 5 white pixel, 2 red pixel, 2 blue pixel
+You acquire an item: purple pixel pie
+
+Trade 3 black pixel, 2 red pixel
+You acquire an item: red pixel potion
+
+Trade 3 black pixel, 2 blue pixel
+You acquire an item: blue pixel potion
+
+Trade 4 black pixel, 3 green pixel
+You acquire an item: green pixel potion
+
+Talking to Sven Golly at the Hey Deze Arena
+
+[606] Hey Deze Arena
+Encounter: Entour Rage
+You acquire an item: booze-soaked cherry
+
+[607] Hey Deze Arena
+Encounter: Primo Donno
+You acquire an item: giant marshmallow
+
+[608] Hey Deze Arena
+Encounter: A Pertinent Imp
+You acquire an item: comfy pillow
+
+[609] Hey Deze Arena
+Encounter: Your Bassist Impulses
+You acquire an item: sponge cake
+
+eat 1 purple pixel pie
+You gain 3 Adventures
+You gain 16 Strengthliness
+You gain 18 Mysteriousness
+You gain 12 Smarm
+You gain a Moxie point!
+You gain 3 Fullness
+
+eat 1 Knob sausage
+You gain 2 Adventures
+You gain 2 Fullness
+
+drink 1 Typical Tavern swill
+You gain 5 Adventures
+You gain 2 Strengthliness
+You gain 2 Mysteriousness
+You gain 2 Cheek
+You gain 3 Drunkenness
+
+drink 1 ice-cold Sir Schlitz
+You gain 1 Adventure
+You gain 2 Mojo Points
+You gain 1 Drunkenness
+
+[610] Hey Deze Arena
+Encounter: suckubus
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: suckubus takes 39 damage.
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: suckubus takes 51 damage.
+Round 2: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 6 Muscularity Points
+You gain 36 Meat
+You gain 10 Strongness
+You gain 3 Enchantedness
+You gain 3 Sarcasm
+
+[611] Hey Deze Arena
+Encounter: suckubus
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: suckubus takes 38 damage.
+You lose 17 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: suckubus takes 32 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 7 Muscularity Points
+You gain 38 Meat
+You gain 11 Beefiness
+You gain 3 Enchantedness
+You gain 2 Smarm
+
+[612] Hey Deze Arena
+Encounter: inkubus
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: inkubus takes 74 damage.
+Round 1: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 5 Muscularity Points
+You gain 47 Meat
+You gain 5 Strongness
+You gain 8 Magicalness
+You gain 4 Smarm
+
+[613] Hey Deze Arena
+Encounter: A Dicey Situation
+You acquire an item: gin-soaked blotter paper
+
+[614] Hey Deze Arena
+Encounter: serialbus
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: serialbus takes 39 damage.
+You lose 24 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: serialbus takes 33 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 5 Muscularity Points
+You gain 31 Meat
+You gain 10 Muscleboundness
+You gain 5 Wizardliness
+You gain 1 Sarcasm
+
+[615] Hey Deze Arena
+Encounter: suckubus
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 20 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: suckubus takes 42 damage.
+You lose 20 hit points
+After Battle: unspecified macro action?
+After Battle: suckubus takes 32 damage.
+After Battle: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 8 Muscularity Points
+You gain 33 Meat
+You gain 12 Fortitude
+You gain 3 Chutzpah
+
+[616] Hey Deze Arena
+Encounter: serialbus
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: serialbus takes 37 damage.
+You lose 26 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: serialbus takes 41 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 hit points
+You gain 7 Muscularity Points
+You gain 32 Meat
+You gain 9 Beefiness
+You gain a Muscle point!
+You gain 6 Magicalness
+You gain a Mysticality point!
+You gain 2 Smarm
+
+[617] Hey Deze Arena
+Encounter: Suckubus? You Hardly Know Us!
+You acquire an item: beer-scented teddy bear
+
+[618] Hey Deze Arena
+Encounter: inkubus
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: inkubus takes 50 damage.
+You lose 22 hit points
+
+[619] Rest in your dwelling
+You gain 20 hit points
+You gain 20 Mojo Points
+
+add to stash: 5 flimsy clipboard, 1 Gnollish flyswatter, 1 Gnollish pie server, 1 helmet turtle, 1 Hollandaise helmet, 1 hot plate, 2 knob bugle, 1 Knob Goblin elite polearm, 1 Knob Goblin scimitar, 1 Knob Goblin spatula, 1 Knob Goblin tongs
+
+add to stash: 1 pasta spoon, 1 ring of half-assed regeneration, 1 saucepan, 1 seal-clubbing club, 1 seal-skull helmet, 1 spooky stick, 1 stolen accordion, 1 turtle totem
+
+equip acc3 Boris's ring
+
+equip acc1 continuum transfunctioner
+
+[620] 8-Bit Realm
+Encounter: Blooper
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: blooper takes 52 damage.
+Round 1: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 7 Muscularity Points
+You acquire an item: white pixel
+You acquire an item: white pixel
+You acquire an item: white pixel
+You gain 5 Fortitude
+You gain 3 Wizardliness
