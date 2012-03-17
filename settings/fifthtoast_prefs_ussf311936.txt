@@ -3,7 +3,7 @@ CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
 KoLDesktop=185,49,-1
-LoginFrame=2645,323,0
+LoginFrame=1056,178,0
 MaximizerFrame=2333,376
 ProfileFrame=2662,409,-1
 RequestFrame=2575,334,-1
@@ -57,6 +57,7 @@ _interviewVlad=false
 _ironicMoustache=false
 _jackassPlumberGame=false
 _jackassePlumberGame
+_jukebox=false
 _klawSummons=0
 _kloopDrops=0
 _lastZomboEye=0
@@ -574,7 +575,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2100
-currentFullness=0
+currentFullness=20
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -582,7 +583,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=15
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -591,9 +592,9 @@ cyrptNicheEvilness=0
 cyrptNookEvilness=44
 cyrptTotalEvilness=44
 dailyDungeonDone=false
-dbNemesisSkill1=6
-dbNemesisSkill2=7
-dbNemesisSkill3=3
+dbNemesisSkill1=0
+dbNemesisSkill2=0
+dbNemesisSkill3=0
 defaultFlowerLossMessage
 defaultFlowerWinMessage
 demonName1
@@ -646,8 +647,8 @@ guyMadeOfBeesCount=0
 guyMadeOfBeesDefeated=false
 hermitHax0red=false
 heroDonationBoris=200
-heroDonationJarlsberg=500
-heroDonationSneakyPete=0
+heroDonationJarlsberg=700
+heroDonationSneakyPete=200
 hiddenCityLayout=EEEFENETEEEDEWDEDEEELEEEE
 hiddenCitySquare=0
 hippiesDefeated=0
@@ -658,7 +659,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Degrassi Knoll
+lastAdventure=Pandamonium Slums
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -679,7 +680,7 @@ lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=12
-lastCounterDay=1
+lastCounterDay=3
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -720,7 +721,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=Possibility Giant
+lastEncounter=Fallen Archfiend
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -734,7 +735,7 @@ lastKingLiberation=1
 lastLouvreMap=1
 lastMessageId
 lastMiningReset=-1
-lastNemesisReset=0
+lastNemesisReset=1
 lastPaperStrip3144=rough\:BLAG\:careful
 lastPaperStrip4138=curved\:GUG\:dangly
 lastPaperStrip4139=wibbly\:FNORD\:curved
@@ -744,7 +745,7 @@ lastPaperStrip4142=sinusoidal\:MOO\:rough
 lastPaperStrip4143=dangly\:CAD\:sinusoidal
 lastPaperStrip4144=careful\:CTHON\:funny
 lastPaperStripReset=0
-lastPastamancerGhostReset=0
+lastPastamancerGhostReset=1
 lastPirateEphemera
 lastPirateEphemeraReset=-1
 lastPirateInsult1=false
@@ -848,7 +849,7 @@ promptAboutCrafting=1
 pyramidBombUsed=false
 pyramidPosition=0
 questF01Primordial=unstarted
-questF01Primordial, Primordial Fear=unstarted
+questF01Primordial,=Primordial Fear\=unstarted
 questF02Hyboria=unstarted
 questF03Future=unstarted
 questF04Elves=unstarted
@@ -861,11 +862,11 @@ questG06Delivery=unstarted
 questI01Scapegoat=unstarted
 questI02Beat=unstarted
 questI02Beat =unstarted
-questL02Larva=unstarted
-questL03Rat=unstarted
-questL04Bat=unstarted
-questL05Goblin=unstarted
-questL06Friar=unstarted
+questL02Larva=finished
+questL03Rat=finished
+questL04Bat=finished
+questL05Goblin=finished
+questL06Friar=finished
 questL07Cyrptic=unstarted
 questL08Trapper=unstarted
 questL09Lol=unstarted
@@ -877,16 +878,16 @@ questL11Pyramid=unstarted
 questL11Worship=unstarted
 questL12War=unstarted
 questL13Final=unstarted
-questM01Untinker=unstarted
-questM02Artist=unstarted
+questM01Untinker=finished
+questM02Artist=finished
 questM03Bugbear=unstarted
-questM04Galaktic=unstarted
+questM04Galaktic=started
 questM05Toot=unstarted
-questM06Gourd=unstarted
-questM07Hammer=unstarted
-questM08Baker=unstarted
-questM09Rocks=unstarted
-questM10Azazel=unstarted
+questM06Gourd=finished
+questM07Hammer=finished
+questM08Baker=finished
+questM09Rocks=finished
+questM10Azazel=started
 questM11Postal=unstarted
 questM12Pirate=unstarted
 questM13Escape=unstarted
@@ -895,12 +896,12 @@ questS01OldGuy=unstarted
 questS02Monkees=unstarted
 rageGlandVented=false
 rainDohMonster
-raveCombo1=Run Like the Wind,Pop and Lock It,Break It On Down
-raveCombo2=Run Like the Wind,Break It On Down,Pop and Lock It
-raveCombo3=Pop and Lock It,Break It On Down,Run Like the Wind
-raveCombo4=Break It On Down,Pop and Lock It,Run Like the Wind
-raveCombo5=Break It On Down,Run Like the Wind,Pop and Lock It
-raveCombo6=Pop and Lock It,Run Like the Wind,Break It On Down
+raveCombo1
+raveCombo2
+raveCombo3
+raveCombo4
+raveCombo5
+raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
@@ -926,7 +927,7 @@ sidequestJunkyardCompleted=none
 sidequestLighthouseCompleted=none
 sidequestNunsCompleted=none
 sidequestOrchardCompleted=none
-singleFamiliarRun=0
+singleFamiliarRun=-1
 skateParkStatus=war
 skillBurn1019=-100
 skillBurn3=-100

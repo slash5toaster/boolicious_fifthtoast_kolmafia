@@ -1171,3 +1171,249 @@ You acquire an item: white pixel
 You acquire an item: white pixel
 You gain 5 Fortitude
 You gain 3 Wizardliness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 16, 2012 - Carlvember 4
+
+Ronald: waxing gibbous
+Grimace: waxing crescent
+Mini-moon: far right
+
+St. Sneaky Pete's Day: tomorrow
+Lab&oacute;r Day: 2 days
+Halloween: 12 days
+Feast of Boris: 19 days
+Oyster Egg Day: 23 days
+Yuletide: 24 days
+Festival of Jarlsberg: 29 days
+Valentine's Day: 40 days
+El Dia De Los Muertos Borrachos: 62 days
+Generic Summer Holiday: 71 days
+Dependence Day: 80 days
+Arrrbor Day: 88 days
+
+
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 6
+HP: 25 / 81
+MP: 31 / 31
+
+Mus: 51 (38), tnp = 69
+Mys: 26 (31), tnp = 60
+Mox: 26 (25), tnp = 29
+
+Advs: 0
+Meat: 7,166
+Drunk: 4
+
+
+ > equipment
+
+Hat: Knob Goblin elite helm
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin pants
+
+Acc. 1: continuum transfunctioner
+Acc. 2: Boss Bat bling
+Acc. 3: Boris's ring
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Avatar Of Boris
+ - Cleave
+ - Demand Sandwich
+ - Ferocity
+ - Intimidating Bellow
+ - Laugh It Off
+ - Legendary Bravado
+ - Legendary Girth
+ - Mighty Axing
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Beaten Up
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+buy 6 Doc Galaktik's Ailment Ointment for 60 each from an NPC Store
+You acquire Doc Galaktik's Ailment Ointment (6)
+You spent 360 Meat
+
+use 6 Doc Galaktik's Ailment Ointment
+You gain 53 hit points
+
+buy 1 Doc Galaktik's Ailment Ointment for 60 each from an NPC Store
+You acquire an item: Doc Galaktik's Ailment Ointment
+You spent 60 Meat
+
+use 1 Doc Galaktik's Ailment Ointment
+You gain 8 hit points
+
+Donating 200 Meat to the Statue of Jarlsberg
+You gain 2 Magicalness
+
+Donating 200 Meat to the Statue of Sneaky Pete
+You gain 2 Cheek
+outfit Bugbear Costume
+
+buy 1 wad of dough for 50 each from Bugbear Bakery
+You acquire an item: wad of dough
+You spent 50 Meat
+
+use 1 wad of dough
+You acquire an item: flat dough
+custom outfit Backup
+
+[622] Cook 1 flat dough + 1 hill of beans
+You acquire an item: bean burrito
+Crafting used 1 each of flat dough and hill of beans
+
+eat 1 bean burrito
+You gain 3 Adventures
+You gain 12 Fortitude
+You gain 3 Fullness
+
+eat 1 hot wing
+You gain 1 Adventure
+You gain 2 Magicalness
+You gain 1 Fullness
+
+[621] Pandamonium Slums
+Encounter: Highway to Hey Deze
+You acquire an item: Hey Deze map
+
+use 1 Hey Deze map
+
+[622] Pandamonium Slums
+Encounter: G imp
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 8 hit points
+After Battle: unspecified macro action?
+After Battle: g imp takes 49 damage.
+After Battle: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 7 Muscularity Points
+You gain 31 Meat
+You acquire an item: Imp Ale
+You gain 4 Beefiness
+You gain 5 Wizardliness
+You gain 5 Roguishness
+
+[623] Pandamonium Slums
+Encounter: Hellion
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 16 hit points
+After Battle: unspecified macro action?
+After Battle: hellion takes 58 damage.
+After Battle: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 6 Muscularity Points
+You gain 6 Beefiness
+You gain 3 Wizardliness
+You gain 5 Sarcasm
+
+[624] Pandamonium Slums
+Encounter: Fallen Archfiend
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 14 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: fallen archfiend takes 47 damage.
+You lose 16 hit points
+After Battle: unspecified macro action?
+After Battle: fallen archfiend takes 49 damage.
+After Battle: fifthtoast wins the fight!
+You gain 4 hit points
+You gain 7 Muscularity Points
+You gain 50 Meat
+You acquire an item: evil golden arch
+You gain 9 Strongness
+You gain 4 Wizardliness
+You gain 2 Smarm
+
+buy 1 soda water for 70 each from Market Demon
+You acquire an item: soda water
+You spent 70 Meat
+
+[626] Mix 1 bottle of whiskey + 1 soda water
+You acquire an item: whiskey and soda
+Crafting used 1 each of bottle of whiskey and soda water
+
+drink 1 whiskey and soda
+You gain 5 Adventures
+You gain 11 Wizardliness
+You gain 3 Mojo Points
+You gain 3 Drunkenness
+
+use 1 concentrated magicalness pill
+You gain 8 Magicalness
+
+buy 2 magicalness-in-a-can for 200 each from Market Demon
+You acquire magicalness-in-a-can (2)
+You spent 400 Meat
+
+use 2 magicalness-in-a-can
+You gain 6 Mysteriousness
+
+buy 3 moxie weed for 200 each from Market Demon
+You acquire moxie weed (3)
+You spent 600 Meat
+
+use 3 moxie weed
+You gain 7 Chutzpah
+
+buy 4 strongness elixir for 200 each from Market Demon
+You acquire strongness elixir (4)
+You spent 800 Meat
+
+use 4 strongness elixir
+You gain 6 Muscleboundness
+
+buy 2 strongness elixir for 200 each from Market Demon
+You acquire strongness elixir (2)
+You spent 400 Meat
+
+use 2 strongness elixir
+You gain 6 Beefiness
+
+buy 3 strongness elixir for 200 each from Market Demon
+You acquire strongness elixir (3)
+You spent 600 Meat
+
+use 3 strongness elixir
+You gain 6 Fortitude

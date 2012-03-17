@@ -15,8 +15,8 @@ FamiliarTrainingFrame=596,317
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=789,51,-1
-LoginFrame=2645,323,0
+KoLDesktop=797,51,-1
+LoginFrame=1056,178,0
 MailboxFrame=289,310,1
 MaximizerFrame=2099,383
 MeatManageFrame=1921,395
@@ -29,7 +29,7 @@ RequestSynchFrame=1916,-4,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=2532,311,0
-TabbedChatFrame=35,51,1
+TabbedChatFrame=35,51,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -98,7 +98,7 @@ _piePartsCount=0
 _poisonArrows=0
 _poolGames=0
 _precisionCasts=0
-_resolutionAdv=0
+_resolutionAdv=4
 _riftletAdv=0
 _romanticFightsLeft=0
 _sealFigurineUses=0
@@ -606,8 +606,8 @@ cocktailSummons=0
 concertVisited=true
 counterScript
 crimboTreeDays=7
-currentBountyItem=2470
-currentFullness=5
+currentBountyItem=0
+currentFullness=12
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -615,7 +615,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=3
+currentSpleenUse=6
 currentWheelPosition=mysticality
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -647,7 +647,7 @@ distentionPillActive=false
 dolphinItem=jamfish jam
 doorCode
 expressCardUsed=false
-extraRolloverAdventures=0
+extraRolloverAdventures=4
 fistSkillsKnown=1
 fistTeachingsBarroomBrawl=false
 fistTeachingsBatHole=false
@@ -692,7 +692,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Haunted Wine Cellar (Northwest)
+lastAdventure=Hobopolis Town Square
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -755,7 +755,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=-1
-lastEncounter=possessed wine rack
+lastEncounter=Sweetback Thad Mott
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -939,7 +939,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=24847\:Semirare window begin loc\=*\:lparen.gif\:24887\:Semirare window end loc\=*\:rparen.gif
+relayCounters=24887\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -985,19 +985,19 @@ slimelingStacksDue=0
 sortByRoom=false
 spadingData
 spiceMelangeUsed=false
-spookyPuttyCopiesMade=0
+spookyPuttyCopiesMade=5
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=73
-stationaryButton2=71
-stationaryButton3=70
-stationaryButton4=42
-stationaryButton5=66
+stationaryButton1=71
+stationaryButton2=70
+stationaryButton3=42
+stationaryButton4=66
+stationaryButton5=2023
 styxPixieVisited=false
 sugarCounter4178=0
 sugarCounter4179=0
 sugarCounter4180=0
 sugarCounter4181=17
-sugarCounter4182=0
+sugarCounter4182=36
 sugarCounter4183=62
 sugarCounter4191=0
 tavernLayout=0000000000000000000000000
