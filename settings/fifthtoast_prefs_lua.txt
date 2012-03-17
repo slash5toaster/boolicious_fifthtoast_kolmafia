@@ -577,8 +577,8 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=2468
-currentFullness=16
+currentBountyItem=2413
+currentFullness=20
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -589,12 +589,12 @@ currentPvpVictories
 currentSpleenUse=0
 currentWheelPosition=muscle
 customCombatScript=Nirvana
-cyrptAlcoveEvilness=0
-cyrptCrannyEvilness=0
-cyrptNicheEvilness=0
-cyrptNookEvilness=0
-cyrptTotalEvilness=0
-dailyDungeonDone=true
+cyrptAlcoveEvilness=49
+cyrptCrannyEvilness=50
+cyrptNicheEvilness=38
+cyrptNookEvilness=47
+cyrptTotalEvilness=184
+dailyDungeonDone=false
 dbNemesisSkill1=0
 dbNemesisSkill2=0
 dbNemesisSkill3=0
@@ -638,7 +638,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=7
@@ -662,7 +662,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=8-Bit Realm
+lastAdventure=Belilafs Comedy Club
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion-1=confusion
@@ -678,13 +678,13 @@ lastBangPotion827
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=3
+lastBreakfast=4
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=6
-lastCounterDay=3
+lastCouncilVisit=7
+lastCounterDay=4
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -725,7 +725,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=Blooper
+lastEncounter=Victor the Insult Comic Hellhound
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -790,7 +790,7 @@ lastStoneSphereReset=1
 lastTavernAscension=1
 lastTavernSquare=11
 lastTelescopeReset=-1
-lastTempleUnlock=0
+lastTempleUnlock=1
 lastTowerClimb=0
 lastTr4pz0rQuest=-1
 lastVioletFogMap=1
@@ -871,7 +871,7 @@ questL03Rat=finished
 questL04Bat=finished
 questL05Goblin=finished
 questL06Friar=finished
-questL07Cyrptic=unstarted
+questL07Cyrptic=started
 questL08Trapper=unstarted
 questL09Lol=unstarted
 questL10Garbage=unstarted
@@ -909,7 +909,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=763\:Semirare window begin\:lparen.gif\:803\:Semirare window end loc\=*\:rparen.gif
+relayCounters=718\:The Shore loc\=* shore.php\:dinghy.gif\:763\:Semirare window begin\:lparen.gif\:803\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -960,7 +960,7 @@ spookyPuttyMonster
 stationaryButton1=11000
 stationaryButton2=11001
 stationaryButton3=11011
-stationaryButton4
+stationaryButton4=11003
 stationaryButton5
 styxPixieVisited=false
 sugarCounter4178=0
@@ -982,7 +982,7 @@ telescopeLookedHigh=false
 telescopeUpgrades=0
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
-timesRested=5
+timesRested=2
 tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
