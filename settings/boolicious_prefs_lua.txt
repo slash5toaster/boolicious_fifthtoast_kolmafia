@@ -33,13 +33,13 @@ TabbedChatFrame=770,99,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
-_allYearSucker=false
+_allYearSucker=true
 _aprilShower=false
 _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
 _bagOfCandy=false
-_ballpit=false
+_ballpit=true
 _banderRunaways=0
 _benettonsCasts=0
 _bonersSummoned=false
@@ -77,8 +77,9 @@ _interviewIsabella=false
 _interviewMasquerade=false
 _interviewVlad=false
 _ironicMoustache=false
-_jackassPlumberGame=false
+_jackassPlumberGame=true
 _jackassePlumberGame
+_jukebox=false
 _klawSummons=0
 _kloopDrops=0
 _lastZomboEye=0
@@ -104,7 +105,7 @@ _sealFigurineUses=0
 _sealsSummoned=0
 _sexChanged=false
 _skateBuff1=false
-_skateBuff2=false
+_skateBuff2=true
 _skateBuff3=false
 _skateBuff4=false
 _skateBuff5=false
@@ -606,7 +607,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=15
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -614,7 +615,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=93
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=1
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -643,7 +644,7 @@ desktopHeight=600
 desktopWidth=800
 discardedKarma=0
 distentionPillActive=false
-dolphinItem
+dolphinItem=Mer-kin hidepaint
 doorCode
 expressCardUsed=false
 extraRolloverAdventures=0
@@ -667,7 +668,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=15
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=10
 gourdItemCount=6
@@ -691,7 +692,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=The Glacier of Jerks
+lastAdventure=Dungeons of Doom
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -707,13 +708,13 @@ lastBangPotion827=ettin strength
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=2
+lastBreakfast=4
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=29
-lastCounterDay=2
+lastCounterDay=4
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=1
@@ -754,7 +755,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=-1
-lastEncounter=Brock "Rocky" Flox
+lastEncounter=Ouch\!  You bump into a door\!
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -826,7 +827,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=11
+libramSummons=18
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -858,7 +859,7 @@ nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=sphere
 olfactedMonster=wabbit
-oscusSodaUsed=true
+oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=6
 pastamancerGhostExperience=0
@@ -928,7 +929,7 @@ questM14Bounty=unstarted
 questS01OldGuy=started
 questS02Monkees=unstarted
 rageGlandVented=false
-rainDohMonster=spam witch
+rainDohMonster
 raveCombo1
 raveCombo2
 raveCombo3
@@ -938,7 +939,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=24667\:Semirare window begin loc\=*\:lparen.gif\:24707\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -984,19 +985,19 @@ slimelingStacksDue=0
 sortByRoom=false
 spadingData
 spiceMelangeUsed=false
-spookyPuttyCopiesMade=0
+spookyPuttyCopiesMade=5
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=68
-stationaryButton2=71
-stationaryButton3=2024
-stationaryButton4=4009
-stationaryButton5=66
+stationaryButton1=71
+stationaryButton2=2024
+stationaryButton3=4009
+stationaryButton4=66
+stationaryButton5=2022
 styxPixieVisited=false
 sugarCounter4178=1
 sugarCounter4179=0
 sugarCounter4180=0
 sugarCounter4181=0
-sugarCounter4182=15
+sugarCounter4182=0
 sugarCounter4183=16
 sugarCounter4191=1
 tavernLayout=0000000000000000000000000

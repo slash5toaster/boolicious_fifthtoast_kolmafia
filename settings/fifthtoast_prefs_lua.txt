@@ -662,7 +662,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Belilafs Comedy Club
+lastAdventure=Pandamonium Slums
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion-1=confusion
@@ -725,7 +725,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=Victor the Insult Comic Hellhound
+lastEncounter=W imp
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
