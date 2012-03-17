@@ -1405,3 +1405,415 @@ You acquire an item: ruby W
 You gain 7 Muscleboundness
 You gain 4 Enchantedness
 You gain 1 Roguishness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 17, 2012 - Carlvember 5
+
+Ronald: full moon
+Grimace: first quarter
+Mini-moon: in back, near Grimace
+
+St. Sneaky Pete's Day: today
+Lab&oacute;r Day: tomorrow
+Halloween: 11 days
+Feast of Boris: 18 days
+Oyster Egg Day: 22 days
+Yuletide: 23 days
+Festival of Jarlsberg: 28 days
+Valentine's Day: 39 days
+El Dia De Los Muertos Borrachos: 61 days
+Generic Summer Holiday: 70 days
+Dependence Day: 79 days
+Arrrbor Day: 87 days
+
+St. Sneaky Pete's Day
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 7
+HP: 44 / 123
+MP: 33 / 48
+
+Mus: 79 (44), tnp = 10
+Mys: 48 (35), tnp = 40
+Mox: 44 (28), tnp = 14
+
+Advs: 32
+Meat: 3,122
+Drunk: 4
+
+
+ > equipment
+
+Hat: Knob Goblin elite helm
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin pants
+
+Acc. 1: shiny ring
+Acc. 2: Boss Bat bling
+Acc. 3: Boris's ring
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Avatar Of Boris
+ - Broadside
+ - Cleave
+ - Demand Sandwich
+ - Ferocity
+ - Intimidating Bellow
+ - Laugh It Off
+ - Legendary Bravado
+ - Legendary Girth
+ - Mighty Axing
+
+
+ > effects
+
+0 of 3 AT buffs active.
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+Talking to Mourn at Belilafs Comedy Club
+
+equip weapon hilarious comedy prop
+
+[698] Pandamonium Slums
+Encounter: Leavesdropping
+You gain 50 Cheek
+You gain a Moxie point!
+
+[699] Pandamonium Slums
+Encounter: Fallen Archfiend
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 9 hit points
+After Battle: unspecified macro action?
+After Battle: fallen archfiend takes 69 damage.
+After Battle: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 5 Muscularity Points
+You gain 45 Meat
+You gain 7 Strengthliness
+You gain 4 Wizardliness
+You gain 4 Chutzpah
+
+[700] Pandamonium Slums
+Encounter: Demoninja
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 8 hit points
+After Battle: unspecified macro action?
+After Battle: demoninja takes 81 damage.
+After Battle: fifthtoast wins the fight!
+You gain 4 hit points
+You gain 8 Muscularity Points
+You gain 48 Meat
+You gain 7 Strongness
+You gain a Muscle point!
+You gain 6 Wizardliness
+You gain 1 Cheek
+
+[701] Pandamonium Slums
+Encounter: G imp
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 5 hit points
+After Battle: unspecified macro action?
+After Battle: g imp takes 73 damage.
+After Battle: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 6 Muscularity Points
+You gain 25 Meat
+You acquire an item: hot wing
+You gain 6 Muscleboundness
+You gain 4 Mysteriousness
+You gain 4 Sarcasm
+
+[702] Defiled Cranny
+Encounter: gaunt ghuol
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: gaunt ghuol takes 61 damage.
+Round 1: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 8 hit points
+You gain 4 Muscularity Points
+You gain 24 Meat
+You gain 5 Muscleboundness
+You gain 3 Wizardliness
+You gain 8 Cheek
+
+[703] Defiled Cranny
+Encounter: gaunt ghuol
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 11 hit points
+After Battle: unspecified macro action?
+After Battle: gaunt ghuol takes 63 damage.
+After Battle: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 5 hit points
+You gain 5 Muscularity Points
+You gain 20 Meat
+You gain 6 Muscleboundness
+You gain 4 Wizardliness
+You gain 5 Chutzpah
+
+[704] Defiled Cranny
+Encounter: gaunt ghuol
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: gaunt ghuol takes 65 damage.
+Round 1: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 7 hit points
+You gain 4 Muscularity Points
+You gain 17 Meat
+You gain 7 Fortitude
+You gain 5 Wizardliness
+You gain 4 Smarm
+You gain a Moxie point!
+
+use 1 Clancy's lute
+You acquire an item: Clancy's sackbut
+
+[705] Defiled Cranny
+Encounter: gluttonous ghuol
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 14 hit points
+After Battle: unspecified macro action?
+After Battle: gluttonous ghuol takes 58 damage.
+After Battle: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 52 Meat
+You gain 8 Fortitude
+You gain 5 Enchantedness
+You gain 3 Roguishness
+
+[706] Defiled Cranny
+Encounter: gluttonous ghuol
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 13 hit points
+After Battle: unspecified macro action?
+After Battle: gluttonous ghuol takes 63 damage.
+After Battle: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 68 Meat
+You acquire an item: ghuol ears
+You acquire an item: ghuol egg
+You gain 6 Fortitude
+You gain 7 Enchantedness
+You gain 3 Roguishness
+
+[707] Defiled Cranny
+Encounter: gaunt ghuol
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: gaunt ghuol takes 59 damage.
+Round 1: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 23 Meat
+You gain 9 Strongness
+You gain 3 Wizardliness
+You gain a Mysticality point!
+You gain 4 Smarm
+Visiting Comfy Sofa in clan rumpus room
+
+[708] Rest in Clan Sofa (1 turns)
+You gain 36 hit points
+You gain 1 Mojo Point
+
+[709] Defiled Cranny
+Encounter: gluttonous ghuol
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 12 hit points
+After Battle: unspecified macro action?
+After Battle: gluttonous ghuol takes 76 damage.
+After Battle: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 61 Meat
+You acquire an item: ghuol egg
+You acquire an item: ghuol guolash
+You gain 6 Strongness
+You gain 5 Enchantedness
+You gain 5 Smarm
+
+[710] Defiled Cranny
+Encounter: gluttonous ghuol
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: gluttonous ghuol takes 60 damage.
+Round 1: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 71 Meat
+You gain 11 Strengthliness
+You gain 3 Wizardliness
+You gain 1 Cheek
+
+[711] Defiled Cranny
+Encounter: gluttonous ghuol
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: gluttonous ghuol takes 61 damage.
+Round 1: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 71 Meat
+You acquire an item: ghuol ears
+You gain 9 Strongness
+You gain 5 Magicalness
+You gain 2 Sarcasm
+
+[712] Defiled Cranny
+Encounter: gaunt ghuol
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: gaunt ghuol takes 71 damage.
+Round 1: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 16 Meat
+You gain 8 Strengthliness
+You gain 3 Enchantedness
+You gain 4 Roguishness
+
+[713] Defiled Cranny
+Encounter: gaunt ghuol
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: gaunt ghuol takes 58 damage.
+Round 1: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 22 Meat
+You acquire an item: ghuol egg
+You gain 10 Fortitude
+You gain a Muscle point!
+You gain 5 Mysteriousness
+You gain 1 Cheek
+
+[714] Defiled Nook
+Encounter: Skull, Skull, Skull
+Took choice 155/3: rusty bonesaw
+choice.php?pwd&whichchoice=155&option=3
+You acquire an item: rusty bonesaw
+
+[715] Defiled Nook
+Encounter: toothy sklelton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: toothy sklelton takes 62 damage.
+Round 1: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: evil eye
+You gain 11 Strengthliness
+You gain 3 Wizardliness
+You gain 2 Roguishness
+
+[716] Defiled Nook
+Encounter: spiny skelelton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: spiny skelelton takes 61 damage.
+Round 1: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: smart skull
+You gain 7 Strengthliness
+You gain 5 Magicalness
+You gain 3 Cheek
+
+[717] Defiled Nook
+Encounter: toothy sklelton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: toothy sklelton takes 51 damage.
+Round 1: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: evil eye
+You gain 8 Strongness
+You gain 4 Enchantedness
+You gain 4 Cheek
+
+[718] Defiled Nook
+Encounter: toothy sklelton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: toothy sklelton takes 104 damage.
+Round 1: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: bone flute
+You gain 7 Strongness
+You gain 3 Mysteriousness
+You gain 6 Sarcasm
+
+[719] Defiled Nook
+Encounter: toothy sklelton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: toothy sklelton takes 68 damage.
+Round 1: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 9 Strongness
+You gain 4 Magicalness
+You gain 3 Smarm
+
+[720] Defiled Nook
+Encounter: spiny skelelton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: spiny skelelton takes 57 damage.
+Round 1: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: smart skull
+You gain 6 Beefiness
+You gain 3 Enchantedness
+You gain 5 Smarm
+
+[721] Defiled Nook
+Encounter: toothy sklelton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: toothy sklelton takes 80 damage.
+Round 1: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: loose teeth
+You gain 10 Strengthliness
+You gain 4 Magicalness
+You gain 3 Roguishness
+
+use 1 loose teeth
+
+use 1 baggie of powdered sugar
+You acquire an effect: So You Can Work More... (duration: 10 Adventures)
+
+use 1 the Slug Lord's map
+You acquire an item: pants of the Slug Lord
