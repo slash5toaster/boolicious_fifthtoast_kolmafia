@@ -1679,3 +1679,638 @@ You gain 52 Fortitude
 You gain 15 Magicalness
 You gain 15 Sarcasm
 You gain 2 Drunkenness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 17, 2012 - Carlvember 5
+
+Ronald: full moon
+Grimace: first quarter
+Mini-moon: in back, near Grimace
+
+St. Sneaky Pete's Day: today
+Lab&oacute;r Day: tomorrow
+Halloween: 11 days
+Feast of Boris: 18 days
+Oyster Egg Day: 22 days
+Yuletide: 23 days
+Festival of Jarlsberg: 28 days
+Valentine's Day: 39 days
+El Dia De Los Muertos Borrachos: 61 days
+Generic Summer Holiday: 70 days
+Dependence Day: 79 days
+Arrrbor Day: 87 days
+
+St. Sneaky Pete's Day
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 29
+HP: 1859 / 1,859
+MP: 259 / 1,307
+
+Mus: 1,175 (838), tnp = 989
+Mys: 843 (602), tnp = 624
+Mox: 843 (602), tnp = 936
+
+Advs: 113
+Meat: 163,659
+Drunk: 14
+
+
+ > equipment
+
+Hat: Hodgman's porkpie hat
+Weapon: (none)
+Off-hand: (none)
+Shirt: General Sage's Lonely Diamonds Club Jacket
+Pants: Hodgman's lobsterskin pants
+
+Acc. 1: fudgecycle
+Acc. 2: time halo
+Acc. 3: wristwatch of the white knight
+
+Pet: Fancypants Scarecrow (22 lbs)
+Item: leotarrrd
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Creepy Lullaby
+ - Drunken Baby Style
+ - Eggsplosion
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Raise Backup Dancer
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+20/20 Vision (14)
+Buy! Sell! Buy! Sell! (34)
+All Wound Up (34)
+Retrograde Relaxation (52)
+Earthen Fist (60)
+Patience of the Tortoise (60)
+Scarysauce (332)
+Jabañero Saucesphere (332)
+Jalapeño Saucesphere (337)
+♫ Fat Leon's Phat Loot Lyric (351)
+♫ Polka of Plenty (353)
+♫ The Sonata of Sneakiness (363)
+Reptilian Fortitude (649)
+Empathy (703)
+Astral Shell (708)
+Elemental Saucesphere (709)
+Tenacity of the Snapper (713)
+Ghostly Shell (885)
+Jingle Jangle Jingle (961)
+Salamanderenity (1,456)
+
+
+ > modifiers
+
+ML: +10
+Enc: -5.00%
+Init: +10.00%
+
+Exp: +4.57
+Meat: +214.00%
+Item: +45.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 2 hobo paste
+You gain 12 Adventures
+You gain 47 Strengthliness
+You gain 48 Magicalness
+You gain 39 Roguishness
+You acquire an effect: Hobo Flavor (duration: 20 Adventures)
+
+clan_hobopolis.php?place=2
+
+[24932] Hobopolis Town Square
+Encounter: Enter The Hoboverlord
+Took choice 200/2: skip adventure
+choice.php?pwd&whichchoice=200&option=2
+
+equip weapon octopus's spade
+
+equip off-hand Hodgman's metal detector
+
+equip shirt cane-mail shirt
+
+equip acc1 Baron von Ratsworth's monocle
+
+equip acc2 Hodgman's bow tie
+
+equip acc3 Hodgman's lucky sock
+
+familiar Blavious Kloop (26 lbs)
+
+[24932] Post-Cyrpt Cemetary
+Encounter: toothy sklelton
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: toothy sklelton takes 3122 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop loves to dance and cavort! / It's a Kloop's only hobby, religion, and sport!
+You acquire an item: loose teeth
+You acquire an item: loose teeth
+You gain 14 Beefiness
+You gain 9 Mysteriousness
+You gain 2 Roguishness
+
+[24933] Pirate Cove
+Encounter: smarmy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: smarmy pirate takes 3120 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop does a dance, then it tips you a wink, / Like a wink from the Blinkers of Minker-Dink-Vink!
+You gain 123 Meat
+You acquire an item: eyepatch
+You acquire an item: bottle of rum
+You gain 16 Fortitude
+You gain 5 Magicalness
+You gain 6 Roguishness
+
+[24934] Pirate Cove
+Encounter: Barrie Me at Sea
+Took choice 23/3: small meat boost
+choice.php?pwd&whichchoice=23&option=3
+You gain 100 Meat
+
+[24935] McMillicancuddy's Farm
+Encounter: rattlin' duck
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: rattlin' duck takes 2883 damage.
+Round 2: boolicious wins the fight!
+After Battle: This Kloop sure can dance! He can dance like a Spizzin! / He winks while he does it, just like a wild Flizzin!
+You gain 613 Meat
+After Battle: Your Kloop drops at your feet a small leatherbound book / With a sly little smile and a mischievous look.
+You acquire an item: devilish folio
+You gain 25 Beefiness
+You gain 25 Mysteriousness
+You gain 9 Sarcasm
+
+use 1 devilish folio
+You acquire an effect: Dis Abled (duration: 30 Adventures)
+
+familiar Fancypants Scarecrow (30 lbs)
+
+[24936] The Glacier of Jerks
+Encounter: Brock "Rocky" Flox
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: brock &quot;rocky&quot; flox takes 3030 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+After Battle: Your pet gives a smile (even if it lacks lips), / And it gives you a cheer with a couple Hip, Hips!
+You gain 31 Strongness
+You gain 13 Magicalness
+You gain 6 Roguishness
+
+[24937] The Glacier of Jerks
+Encounter: One More Demon to Slay
+Took choice 569/1: head towards boss
+choice.php?pwd&whichchoice=569&option=1&choiceform1=Sure%21+I%27ll+be+wearing+its+guts+like+a+wreath%21
+
+[24937] The Glacier of Jerks
+Encounter: Dolores D. Smiley
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: dolores d. smiley takes 3169 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+After Battle: Your pet gives a smile (even if it lacks lips), / And it gives you a cheer with a couple Hip, Hips!
+You gain 28 Strongness
+You gain 12 Magicalness
+You gain 9 Roguishness
+
+[24938] The Glacier of Jerks
+Encounter: The Large-Bellied Snitch
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious uses the dangerous jerkcicle!
+Round 2: boolicious uses the dangerous jerkcicle!
+Round 3: Your pet grabs a foe in a wrestling lock, / holding him still so you can clean his clock.
+Round 3: boolicious uses the dangerous jerkcicle!
+Round 4: boolicious uses the dangerous jerkcicle!
+Round 5: the large-bellied snitch takes 1 damage.
+Round 5: the large-bellied snitch takes 4 damage.
+Round 5: the large-bellied snitch takes 3 damage.
+You lose 1 hit points
+Round 5: boolicious uses the dangerous jerkcicle!
+Round 6: Your familiar did something, just what I'm not sure. / Did it pick you a flower, or spit on the floor?
+Round 6: Your familiar grabs hold of the monster -- holds tight, / which keeps it from taking its turn in this fight.
+Round 6: boolicious uses the dangerous jerkcicle!
+Round 7: Can the monster attack you this round? Nope, nope nope! / That's because of your buddy, that cute little dope.
+Round 7: boolicious uses the dangerous jerkcicle!
+Round 8: Your familiar grabs hold of the monster -- holds tight, / which keeps it from taking its turn in this fight.
+Round 8: boolicious uses the dangerous jerkcicle!
+Round 9: Your familiar entangles the monster with vines / (or tentacles, webbing, or noodles, or spines).
+Round 9: boolicious uses the dangerous jerkcicle!
+Round 10: boolicious uses the dangerous jerkcicle!
+Round 11: Your familiar grabs hold of the monster -- holds tight, / which keeps it from taking its turn in this fight.
+Round 12: boolicious uses the dangerous jerkcicle!
+Round 13: Your familiar grabs hold, restraining your foe, / and doesn't appear to want to let go.
+Round 13: boolicious attacks!
+Round 14: the large-bellied snitch takes 36 damage.
+Round 14: Your familiar entangles the monster with vines / (or tentacles, webbing, or noodles, or spines).
+Round 14: boolicious attacks!
+Round 15: the large-bellied snitch takes 36 damage.
+Round 15: Can the monster attack you this round? Nope, nope nope! / That's because of your buddy, that cute little dope.
+Round 15: boolicious attacks!
+Round 16: the large-bellied snitch takes 36 damage.
+Round 16: the large-bellied snitch takes 5000 damage.
+Round 16: boolicious executes a macro!
+Round 16: boolicious uses the dangerous jerkcicle!
+Round 17: boolicious uses the dangerous jerkcicle!
+Round 18: boolicious uses the dangerous jerkcicle!
+Round 19: the large-bellied snitch takes 5000 damage.
+Round 19: boolicious wins the fight!
+You acquire an item: gluttonous stone
+After Battle: Your pet smiles quite broadly, as if to say, / "Congrats! You have learned something useful today."
+You gain 32 Strongness
+You gain 14 Magicalness
+You gain 11 Roguishness
+
+[24939] The Glacier of Jerks
+Encounter: Vivian Vibrian Vumian Varr
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: vivian vibrian vumian varr takes 3206 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+You acquire an item: dangerous jerkcicle
+After Battle: A smile from your buddy, your heart fills with joy, / You're getting experience, so don't be coy!
+You gain 26 Strongness
+You gain 18 Magicalness
+You gain 8 Roguishness
+
+[24940] The Glacier of Jerks
+Encounter: Dolores D. Smiley
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: dolores d. smiley takes 3097 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+After Battle: A grin from your pet makes you feel more than thrilled, / Because it implies that you're getting more skilled.
+You gain 22 Strongness
+You gain 19 Magicalness
+You gain 9 Roguishness
+
+[24941] The Glacier of Jerks
+Encounter: Hugo Von Douchington
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hugo von douchington takes 3149 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: half-empty carton of milk
+You acquire an item: dangerous jerkcicle
+After Battle: Your pet smiles quite broadly, as if to say, / "Congrats! You have learned something useful today."
+You gain 25 Strongness
+You gain 19 Magicalness
+You gain 7 Roguishness
+
+[24942] The Glacier of Jerks
+Encounter: Vivian Vibrian Vumian Varr
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: vivian vibrian vumian varr takes 3151 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+After Battle: Your pet smiles quite broadly, as if to say, / "Congrats! You have learned something useful today."
+You gain 32 Strongness
+You gain 8 Magicalness
+You gain 10 Roguishness
+
+[24943] The Glacier of Jerks
+Encounter: Vivian Vibrian Vumian Varr
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 16 hit points
+Round 2: boolicious attacks!
+Round 3: vivian vibrian vumian varr takes 3186 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+After Battle: Your pet gives a smile (even if it lacks lips), / And it gives you a cheer with a couple Hip, Hips!
+You gain 25 Strongness
+You gain 15 Magicalness
+You gain 10 Roguishness
+
+[24944] The Glacier of Jerks
+Encounter: Wacky Zack Flacky
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wacky zack flacky takes 3196 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: glass of warm water
+You acquire an item: dangerous jerkcicle
+After Battle: A smile from your buddy, your heart fills with joy, / You're getting experience, so don't be coy!
+You gain 29 Strongness
+You gain 13 Magicalness
+You gain 9 Roguishness
+
+[24945] The Glacier of Jerks
+Encounter: Vivian Vibrian Vumian Varr
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: vivian vibrian vumian varr takes 3236 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+After Battle: Your pet indicates, with a grin of its grinner, / that it thinks you to be quite a winningful winner.
+You gain 28 Strongness
+You gain 13 Magicalness
+You gain 9 Roguishness
+
+[24946] The Glacier of Jerks
+Encounter: Vivian Vibrian Vumian Varr
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: vivian vibrian vumian varr takes 3292 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+After Battle: Your pet indicates, with a grin of its grinner, / that it thinks you to be quite a winningful winner.
+You gain 27 Strongness
+You gain 12 Magicalness
+You gain 12 Roguishness
+
+[24947] The Glacier of Jerks
+Encounter: Brock "Rocky" Flox
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: brock &quot;rocky&quot; flox takes 3296 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+After Battle: Your pet smiles quite broadly, as if to say, / "Congrats! You have learned something useful today."
+You gain 26 Strongness
+You gain 9 Magicalness
+You gain 13 Roguishness
+
+[24948] The Glacier of Jerks
+Encounter: Hugo Von Douchington
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hugo von douchington takes 3329 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: half-empty carton of milk
+You acquire an item: dangerous jerkcicle
+After Battle: Your pet gives a smile (even if it lacks lips), / And it gives you a cheer with a couple Hip, Hips!
+You gain 24 Strongness
+You gain 14 Magicalness
+You gain 11 Roguishness
+
+[24949] The Glacier of Jerks
+Encounter: Hugo Von Douchington
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hugo von douchington takes 3370 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: half-empty carton of milk
+You acquire an item: dangerous jerkcicle
+After Battle: Your pet indicates, with a grin of its grinner, / that it thinks you to be quite a winningful winner.
+You gain 22 Strongness
+You gain 14 Magicalness
+You gain 12 Roguishness
+
+[24950] The Glacier of Jerks
+Encounter: Wacky Zack Flacky
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wacky zack flacky takes 3382 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: glass of warm water
+You acquire an item: dangerous jerkcicle
+After Battle: A grin from your pet makes you feel more than thrilled, / Because it implies that you're getting more skilled.
+You gain 28 Strongness
+You gain 12 Magicalness
+You gain 10 Roguishness
+
+[24951] The Glacier of Jerks
+Encounter: Dolores D. Smiley
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dolores d. smiley takes 3388 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+After Battle: Your pet indicates, with a grin of its grinner, / that it thinks you to be quite a winningful winner.
+You gain 25 Strongness
+You gain 18 Magicalness
+You gain 9 Roguishness
+
+[24952] The Glacier of Jerks
+Encounter: Vivian Vibrian Vumian Varr
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: vivian vibrian vumian varr takes 3438 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+After Battle: A smile from your buddy, your heart fills with joy, / You're getting experience, so don't be coy!
+You gain 26 Strongness
+You gain 10 Magicalness
+You gain 14 Roguishness
+
+[24953] The Glacier of Jerks
+Encounter: Dolores D. Smiley
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dolores d. smiley takes 3438 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+After Battle: Your pet indicates, with a grin of its grinner, / that it thinks you to be quite a winningful winner.
+You gain 28 Strongness
+You gain 13 Magicalness
+You gain 9 Roguishness
+
+[24954] The Glacier of Jerks
+Encounter: Brock "Rocky" Flox
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: brock &quot;rocky&quot; flox takes 3436 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+After Battle: Your pet smiles quite broadly, as if to say, / "Congrats! You have learned something useful today."
+You gain 25 Strongness
+You gain 10 Magicalness
+You gain 14 Roguishness
+
+[24955] The Glacier of Jerks
+Encounter: Hugo Von Douchington
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hugo von douchington takes 3466 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: half-empty carton of milk
+You acquire an item: dangerous jerkcicle
+After Battle: A smile from your buddy, your heart fills with joy, / You're getting experience, so don't be coy!
+You gain 22 Strongness
+You gain 13 Magicalness
+You gain 14 Roguishness
+
+[24956] The Glacier of Jerks
+Encounter: Wacky Zack Flacky
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wacky zack flacky takes 3502 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: glass of warm water
+You acquire an item: dangerous jerkcicle
+After Battle: Your pet indicates, with a grin of its grinner, / that it thinks you to be quite a winningful winner.
+You gain 29 Strongness
+You gain 10 Magicalness
+You gain 11 Roguishness
+
+[24957] The Glacier of Jerks
+Encounter: Vivian Vibrian Vumian Varr
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: vivian vibrian vumian varr takes 3535 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+After Battle: Your pet gives a smile (even if it lacks lips), / And it gives you a cheer with a couple Hip, Hips!
+You gain 22 Strongness
+You gain 13 Magicalness
+You gain 14 Roguishness
+
+[24958] The Glacier of Jerks
+Encounter: Brock "Rocky" Flox
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: brock &quot;rocky&quot; flox takes 3577 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+After Battle: Your pet indicates, with a grin of its grinner, / that it thinks you to be quite a winningful winner.
+You gain 28 Strongness
+You gain 10 Magicalness
+You gain 12 Roguishness
+
+[24959] The Glacier of Jerks
+Encounter: Dolores D. Smiley
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dolores d. smiley takes 3574 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+After Battle: A smile from your buddy, your heart fills with joy, / You're getting experience, so don't be coy!
+You gain 28 Strongness
+You gain 10 Magicalness
+You gain 10 Roguishness
+
+[24960] The Glacier of Jerks
+Encounter: Vivian Vibrian Vumian Varr
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: vivian vibrian vumian varr takes 3607 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+After Battle: A grin from your pet makes you feel more than thrilled, / Because it implies that you're getting more skilled.
+You gain 27 Strongness
+You gain 13 Magicalness
+You gain 11 Roguishness
+
+[24961] The Glacier of Jerks
+Encounter: Hugo Von Douchington
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hugo von douchington takes 3664 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: half-empty carton of milk
+You acquire an item: dangerous jerkcicle
+After Battle: Your pet indicates, with a grin of its grinner, / that it thinks you to be quite a winningful winner.
+You gain 21 Strongness
+You gain 14 Magicalness
+You gain 15 Roguishness
+unequip weapon
+unequip offhand
+
+equip shirt General Sage's Lonely Diamonds Club Jacket
+
+equip acc1 fudgecycle
+
+equip acc2 time halo
+
+equip acc3 wristwatch of the white knight

@@ -3,7 +3,7 @@ CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
 KoLDesktop=185,49,-1
-LoginFrame=1056,178,0
+LoginFrame=2645,323,0
 MaximizerFrame=2333,376
 ProfileFrame=2662,409,-1
 RequestFrame=2575,334,-1
@@ -575,7 +575,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2100
-currentFullness=20
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -583,7 +583,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=15
+currentSpleenUse=0
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -680,7 +680,7 @@ lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=12
-lastCounterDay=3
+lastCounterDay=4
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -867,7 +867,7 @@ questL03Rat=finished
 questL04Bat=finished
 questL05Goblin=finished
 questL06Friar=finished
-questL07Cyrptic=unstarted
+questL07Cyrptic=started
 questL08Trapper=unstarted
 questL09Lol=unstarted
 questL10Garbage=unstarted

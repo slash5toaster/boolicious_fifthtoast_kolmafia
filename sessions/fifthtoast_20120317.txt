@@ -1817,3 +1817,100 @@ You acquire an effect: So You Can Work More... (duration: 10 Adventures)
 
 use 1 the Slug Lord's map
 You acquire an item: pants of the Slug Lord
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 17, 2012 - Carlvember 5
+
+Ronald: full moon
+Grimace: first quarter
+Mini-moon: in back, near Grimace
+
+St. Sneaky Pete's Day: today
+Lab&oacute;r Day: tomorrow
+Halloween: 11 days
+Feast of Boris: 18 days
+Oyster Egg Day: 22 days
+Yuletide: 23 days
+Festival of Jarlsberg: 28 days
+Valentine's Day: 39 days
+El Dia De Los Muertos Borrachos: 61 days
+Generic Summer Holiday: 70 days
+Dependence Day: 79 days
+Arrrbor Day: 87 days
+
+St. Sneaky Pete's Day
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 7
+HP: 47 / 126
+MP: 49 / 49
+
+Mus: 81 (46), tnp = 31
+Mys: 49 (36), tnp = 25
+Mox: 46 (30), tnp = 9
+
+Advs: 8
+Meat: 3,685
+Drunk: 4
+
+
+ > equipment
+
+Hat: Knob Goblin elite helm
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin pants
+
+Acc. 1: shiny ring
+Acc. 2: Boss Bat bling
+Acc. 3: Boris's ring
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Avatar Of Boris
+ - Broadside
+ - Cleave
+ - Demand Sandwich
+ - Ferocity
+ - Intimidating Bellow
+ - Laugh It Off
+ - Legendary Bravado
+ - Legendary Girth
+ - Mighty Axing
+
+
+ > effects
+
+0 of 3 AT buffs active.
+So You Can Work More... (10)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +10.00%
+Item: +40.72%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
