@@ -1,0 +1,512 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 19, 2012 - Carlvember 7
+
+Ronald: third quarter
+Grimace: waxing gibbous
+Mini-moon: in front of Ronald, L side
+
+Halloween: 9 days
+Feast of Boris: 16 days
+Oyster Egg Day: 20 days
+Yuletide: 21 days
+Festival of Jarlsberg: 26 days
+Valentine's Day: 37 days
+St. Sneaky Pete's Day: 44 days
+El Dia De Los Muertos Borrachos: 59 days
+Generic Summer Holiday: 68 days
+Dependence Day: 77 days
+Arrrbor Day: 85 days
+Lab&oacute;r Day: 95 days
+
+
+2 days until Muscle.
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 8
+HP: 128 / 143
+MP: 63 / 63
+
+Mus: 92 (54), tnp = 74
+Mys: 63 (43), tnp = 27
+Mox: 56 (36), tnp = 3
+
+Advs: 44
+Meat: 6,269
+Drunk: 0
+
+
+ > equipment
+
+Hat: Knob Goblin elite helm
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin Uberpants
+
+Acc. 1: shiny ring
+Acc. 2: badass belt
+Acc. 3: Boris's ring
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Avatar Of Boris
+ - Broadside
+ - Cleave
+ - Demand Sandwich
+ - Ferocity
+ - Intimidating Bellow
+ - Laugh It Off
+ - Legendary Bravado
+ - Legendary Girth
+ - Mighty Axing
+ - Song of the Glorious Lunch
+
+
+ > effects
+
+0 of 3 AT buffs active.
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 3 Demand Sandwich
+You acquire club sandwich (3)
+
+cast 1 Song of the Glorious Lunch
+You acquire an effect: Song of the Glorious Lunch (duration: 5 Adventures)
+
+eat 3 club sandwich
+You gain 18 Adventures
+You gain 20 Fortitude
+You gain 3 Fullness
+You lose some of an effect: Song of the Glorious Lunch
+You gain 12 Adventures
+You gain 22 Fortitude
+You gain 3 Fullness
+You lose an effect: Song of the Glorious Lunch
+You gain 10 Adventures
+You gain 19 Muscleboundness
+You gain 3 Fullness
+
+cast 1 Song of the Glorious Lunch
+You acquire an effect: Song of the Glorious Lunch (duration: 5 Adventures)
+
+cast 1 Song of the Glorious Lunch
+You acquire an effect: Song of the Glorious Lunch (duration: 5 Adventures)
+
+eat 1 lihc eye pie
+You gain 13 Adventures
+You gain 12 Wizardliness
+You acquire an effect: Eye of the Lihc (duration: 5 Adventures)
+You gain 4 Fullness
+You lose some of an effect: Song of the Glorious Lunch
+
+use 1 flat dough
+You acquire an item: wad of dough
+
+[845] Cook 1 Gnollish pie tin + 1 wad of dough
+You acquire an item: pie crust
+Crafting used 1 each of Gnollish pie tin and wad of dough
+
+[845] Cook 1 lihc eye + 1 pie crust
+You acquire an item: lihc eye pie
+Crafting used 1 each of pie crust and lihc eye
+
+eat 1 lihc eye pie
+You gain 11 Adventures
+You gain 14 Wizardliness
+You acquire an effect: Eye of the Lihc (duration: 5 Adventures)
+You gain 4 Fullness
+You lose some of an effect: Song of the Glorious Lunch
+
+eat 1 purple pixel pie
+You gain 6 Adventures
+You gain 17 Fortitude
+You gain a Muscle point!
+You gain 16 Mysteriousness
+You gain a Mysticality point!
+You gain 12 Cheek
+You gain a Moxie point!
+You gain 3 Fullness
+You lose an effect: Song of the Glorious Lunch
+
+Visiting the Bounty Hunter Hunter
+
+[844] Pandamonium Slums
+Encounter: Hellion
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: hellion takes 109 damage.
+After Battle: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 5 Muscularity Points
+You gain 9 Strengthliness
+You gain 5 Mysteriousness
+You gain 1 Chutzpah
+
+[845] Pandamonium Slums
+Encounter: W imp
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: w imp takes 129 damage.
+After Battle: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 7 Muscularity Points
+You gain 28 Meat
+You acquire an item: ruby W
+You gain 7 Beefiness
+You gain 4 Mysteriousness
+You gain 1 Smarm
+
+[846] Pandamonium Slums
+Encounter: Fallen Archfiend
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: fallen archfiend takes 78 damage.
+After Battle: fifthtoast wins the fight!
+You gain 4 hit points
+You gain 4 Muscularity Points
+You gain 39 Meat
+You acquire an item: demon skin
+You gain 6 Fortitude
+You gain 6 Wizardliness
+You gain 3 Chutzpah
+
+[847] Pandamonium Slums
+Encounter: Demoninja
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: demoninja takes 89 damage.
+After Battle: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 4 Muscularity Points
+You gain 58 Meat
+You gain 8 Strongness
+You gain 4 Enchantedness
+You gain 3 Smarm
+
+[848] Pandamonium Slums
+Encounter: P imp
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: p imp takes 97 damage.
+After Battle: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 7 Muscularity Points
+You gain 30 Meat
+You gain 6 Fortitude
+You gain 3 Magicalness
+You gain 3 Chutzpah
+
+[849] Pandamonium Slums
+Encounter: L imp
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: l imp takes 73 damage.
+After Battle: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 8 Muscularity Points
+You gain 35 Meat
+You gain 7 Strengthliness
+You gain 3 Mysteriousness
+You gain 3 Cheek
+
+[850] Pandamonium Slums
+Encounter: G imp
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: g imp takes 80 damage.
+Round 1: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 5 Muscularity Points
+You gain 30 Meat
+You gain 12 Strongness
+You gain 1 Sarcasm
+
+[851] Pandamonium Slums
+Encounter: Hellion
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: hellion takes 77 damage.
+After Battle: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 6 Muscularity Points
+You gain 5 Strongness
+You gain 4 Wizardliness
+You gain 5 Sarcasm
+
+use 1 Clancy's lute
+You acquire an item: Clancy's sackbut
+
+[852] Pandamonium Slums
+Encounter: P imp
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: p imp takes 91 damage.
+Round 1: fifthtoast wins the fight!
+You gain 26 Meat
+You gain 4 Muscleboundness
+You gain 3 Enchantedness
+You gain 5 Roguishness
+
+[853] Belilafs Comedy Club
+Encounter: Larry of the Field of Signs
+Round 0: fifthtoast loses initiative!
+You lose 22 hit points
+Round 1: fifthtoast casts BROADSIDE!
+Round 2: fifthtoast casts CLEAVE!
+Round 3: larry of the field of signs takes 95 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: observational glasses
+You gain 7 Beefiness
+You gain 7 Wizardliness
+You gain 4 Roguishness
+
+equip acc3 observational glasses
+
+Talking to Mourn at Belilafs Comedy Club
+Trying some observational humor on Mourn
+You acquire an item: Azazel's lollipop
+
+equip acc3 Boris's ring
+
+[854] Belilafs Comedy Club
+Encounter: Pr Imp
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: pr imp takes 63 damage.
+Round 1: fifthtoast wins the fight!
+You gain 49 Meat
+You acquire an item: imp air
+You gain 4 Muscleboundness
+You gain 7 Wizardliness
+You gain 6 Chutzpah
+
+[855] Belilafs Comedy Club
+Encounter: CH Imp
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: ch imp takes 74 damage.
+After Battle: fifthtoast wins the fight!
+You gain 34 Meat
+You gain 13 Strongness
+You gain 3 Magicalness
+You gain 1 Chutzpah
+
+[856] Belilafs Comedy Club
+Encounter: BL Imp
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: bl imp takes 63 damage.
+You lose 11 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: bl imp takes 63 damage.
+Round 2: fifthtoast wins the fight!
+You gain 33 Meat
+You gain 7 Strengthliness
+You gain 5 Wizardliness
+You gain 5 Roguishness
+
+[857] Belilafs Comedy Club
+Encounter: BL Imp
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: bl imp takes 59 damage.
+You lose 15 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: bl imp takes 71 damage.
+Round 2: fifthtoast wins the fight!
+You gain 42 Meat
+You acquire an item: imp air
+You gain 9 Beefiness
+You gain 3 Wizardliness
+You gain 6 Chutzpah
+
+[858] Belilafs Comedy Club
+Encounter: BL Imp
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 16 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: bl imp takes 63 damage.
+You lose 14 hit points
+After Battle: unspecified macro action?
+After Battle: bl imp takes 53 damage.
+After Battle: fifthtoast wins the fight!
+You gain 40 Meat
+You acquire an item: imp air
+You gain 12 Fortitude
+You gain a Muscle point!
+You gain 3 Wizardliness
+You gain 4 Roguishness
+
+[859] Belilafs Comedy Club
+Encounter: Pr Imp
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: pr imp takes 99 damage.
+Round 1: fifthtoast wins the fight!
+You gain 47 Meat
+You gain 9 Strengthliness
+You gain 3 Mysteriousness
+You gain 5 Chutzpah
+
+[860] Belilafs Comedy Club
+Encounter: Pr Imp
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 13 hit points
+After Battle: unspecified macro action?
+After Battle: pr imp takes 64 damage.
+After Battle: fifthtoast wins the fight!
+You gain 47 Meat
+You gain 8 Muscleboundness
+You gain 6 Mysteriousness
+You gain 4 Smarm
+
+[861] Belilafs Comedy Club
+Encounter: CH Imp
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 16 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: ch imp takes 60 damage.
+You lose 12 hit points
+After Battle: unspecified macro action?
+After Battle: ch imp takes 68 damage.
+After Battle: fifthtoast wins the fight!
+You gain 28 Meat
+You acquire an item: imp air
+You gain 7 Strengthliness
+You gain 2 Enchantedness
+You gain 8 Sarcasm
+You gain a Moxie point!
+
+Visiting Moaning Panda Square in Pandamonium
+
+use 1 red pixel potion
+You gain 117 hit points
+
+[862] Hey Deze Arena
+Encounter: suckubus
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: suckubus takes 64 damage.
+Round 1: fifthtoast wins the fight!
+You gain 38 Meat
+You acquire an item: bus pass
+You gain 8 Beefiness
+You gain 5 Wizardliness
+You gain a Mysticality point!
+You gain 3 Cheek
+
+[863] Hey Deze Arena
+Encounter: inkubus
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: inkubus takes 75 damage.
+Round 1: fifthtoast wins the fight!
+You gain 51 Meat
+You gain 9 Strengthliness
+You gain 5 Enchantedness
+You gain 3 Smarm
+
+[864] Hey Deze Arena
+Encounter: serialbus
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: serialbus takes 60 damage.
+You lose 7 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: serialbus takes 68 damage.
+Round 2: fifthtoast wins the fight!
+You gain 24 Meat
+You gain 6 Strongness
+You gain 5 Magicalness
+You gain 5 Cheek
+
+[865] Hey Deze Arena
+Encounter: inkubus
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: inkubus takes 72 damage.
+Round 1: fifthtoast wins the fight!
+You gain 54 Meat
+You gain 9 Strengthliness
+You gain 6 Enchantedness
+You gain 1 Sarcasm
+
+[866] Hey Deze Arena
+Encounter: inkubus
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 9 hit points
+After Battle: unspecified macro action?
+After Battle: inkubus takes 71 damage.
+After Battle: fifthtoast wins the fight!
+You gain 49 Meat
+You gain 10 Fortitude
+You gain 5 Enchantedness
+You gain 1 Roguishness
+
+[867] Hey Deze Arena
+Encounter: inkubus
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: inkubus takes 120 damage.
+Round 1: fifthtoast wins the fight!
+You gain 54 Meat
+You gain 8 Strengthliness
+You gain 4 Magicalness
+You gain 4 Sarcasm
+
+use 1 Clancy's sackbut
+You acquire an item: Clancy's lute
+
+[868] Hey Deze Arena
+Encounter: inkubus
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: inkubus takes 61 damage.
+Round 1: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 7 Muscularity Points
+You gain 48 Meat
+You gain 4 Strongness
+You gain 11 Magicalness
+You gain 2 Sarcasm
