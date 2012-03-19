@@ -121,7 +121,7 @@ _transponderDrops=0
 _trivialAvocationsGame=true
 _userMods
 _vmaskAdv=0
-_zapCount=0
+_zapCount=1
 addingScrolls=2
 afterAdventureScript
 arcadeGameHints=true
@@ -644,7 +644,7 @@ desktopHeight=600
 desktopWidth=800
 discardedKarma=0
 distentionPillActive=false
-dolphinItem=bazookafish bubble gum
+dolphinItem=underwater slingshot
 doorCode
 expressCardUsed=false
 extraRolloverAdventures=0
@@ -692,7 +692,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=The Skate Park
+lastAdventure=None
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -755,7 +755,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=-1
-lastEncounter=urchin urchin
+lastEncounter=pufferfish
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -827,7 +827,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=13
+libramSummons=17
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -985,7 +985,7 @@ slimelingStacksDue=0
 sortByRoom=false
 spadingData
 spiceMelangeUsed=false
-spookyPuttyCopiesMade=0
+spookyPuttyCopiesMade=1
 spookyPuttyMonster=something <i>totally</i> unrecognizable
 stationaryButton1=71
 stationaryButton2=2024

@@ -1333,3 +1333,245 @@ You acquire an item: dolphin whistle
 equip hat Hodgman's porkpie hat
 
 equip pants leotarrrd
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 18, 2012 - Carlvember 6
+
+Ronald: waning gibbous
+Grimace: first quarter
+Mini-moon: behind Ronald
+
+Lab&oacute;r Day: today
+Halloween: 10 days
+Feast of Boris: 17 days
+Oyster Egg Day: 21 days
+Yuletide: 22 days
+Festival of Jarlsberg: 27 days
+Valentine's Day: 38 days
+St. Sneaky Pete's Day: 45 days
+El Dia De Los Muertos Borrachos: 60 days
+Generic Summer Holiday: 69 days
+Dependence Day: 78 days
+Arrrbor Day: 86 days
+
+Lab&oacute;r Day
+3 days until Muscle.
+
+
+ > status
+
+Name: boolicious
+Class: Turtle Tamer
+
+Lv: 29
+HP: 1856 / 2,117
+MP: 564 / 1,496
+
+Mus: 1,343 (839), tnp = 167
+Mys: 965 (603), tnp = 602
+Mox: 965 (603), tnp = 1,009
+
+Advs: 113
+Meat: 175,908
+Drunk: 0
+
+
+ > equipment
+
+Hat: Hodgman's porkpie hat
+Weapon: octopus's spade
+Off-hand: Hodgman's metal detector
+Shirt: cane-mail shirt
+Pants: Hodgman's lobsterskin pants
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: Hodgman's bow tie
+Acc. 3: Hodgman's lucky sock
+
+Pet: Fancypants Scarecrow (22 lbs)
+Item: leotarrrd
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chilled Monkey Brain Technique
+ - Creepy Lullaby
+ - Drunken Baby Style
+ - Eggsplosion
+ - Flying Fire Fist
+ - Knuckle Sandwich
+ - Liver of Steel
+ - Master of the Surprising Fist
+ - Miyagi Massage
+ - Raise Backup Dancer
+ - Salamander Kata
+ - Seven-Finger Strike
+ - Stinkpalm
+ - Summon "Boner Battalion"
+ - Worldpunch
+ - Zendo Kobushi Kancho
+
+Turtle Tamer
+ - Amphibian Sympathy
+ - Armorcraftiness
+ - Cold-Blooded Fearlessness
+ - Ghostly Shell
+ - Head + Knee + Shield Combo
+ - Head + Knee Combo
+ - Head + Shield Combo
+ - Headbutt
+ - Hero of the Half-Shell
+ - Knee + Shield Combo
+ - Kneebutt
+ - Patience of the Tortoise
+ - Shieldbutt
+ - Skin of the Leatherback
+ - Spectral Snapper
+ - Summon Leviatuga
+ - Tao of the Terrapin
+ - Toss
+ - Wisdom of the Elder Tortoises
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Cosmic Ugnderstanding
+ - Gnefarious Pickpocketing
+ - Gnomish Hardigness
+ - Powers of Observatiogn
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Mer-kinny Flavor (4)
+Fishy (15)
+Really Deep Breath (25)
+Wet Willied (25)
+Finstrong (25)
+Scarysauce (230)
+Jabañero Saucesphere (230)
+Jalapeño Saucesphere (235)
+♫ Fat Leon's Phat Loot Lyric (249)
+♫ Polka of Plenty (251)
+♫ The Sonata of Sneakiness (261)
+Reptilian Fortitude (547)
+Empathy (601)
+Astral Shell (606)
+Elemental Saucesphere (607)
+Tenacity of the Snapper (611)
+Ghostly Shell (783)
+Jingle Jangle Jingle (859)
+Salamanderenity (1,354)
+
+
+ > modifiers
+
+ML: +30
+Enc: -5.00%
+Init: +10.00%
+
+Exp: +7.07
+Meat: +95.00%
+Item: +125.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 4 Summon Resolutions
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be more adventurous
+You acquire an item: resolution: be kinder
+
+zap Frosty's old silk hat
+You acquire an item: Frosty's nailbat
+
+[25034] The Skate Park
+Encounter: urchin urchin
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: urchin urchin takes 1050 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: bazookafish bubble gum
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 70 Fortitude
+You gain 28 Magicalness
+You gain 22 Sarcasm
+
+[25035] Madness Reef
+Encounter: magic dragonfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: magic dragonfish takes 1011 damage.
+Round 2: boolicious wins the fight!
+You gain 245 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 92 Beefiness
+You gain 22 Magicalness
+You gain 34 Sarcasm
+
+[25036] Madness Reef
+Encounter: pufferfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the Rain-Doh black box!
+You acquire an item: Rain-Doh box full of monster
+You lose 4 hit points
+You lose 8 hit points
+Round 2: pufferfish takes 2 damage.
+Round 2: pufferfish takes 5 damage.
+Round 2: pufferfish takes 3 damage.
+You lose 32 hit points
+Round 2: boolicious attacks!
+Round 3: pufferfish takes 924 damage.
+You lose 16 hit points
+Round 3: boolicious wins the fight!
+You gain 241 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 60 Muscleboundness
+You gain a Muscle point!
+You gain 23 Magicalness
+You gain 36 Smarm
+
+use 1 Mortimer's nostrum
+You acquire an effect: Limber as Mortimer (duration: 10 Adventures)
+
+use 1 Rain-Doh box full of monster
+
+[25037] Rain-Doh box full of monster
+Encounter: pufferfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: pufferfish takes 920 damage.
+Round 2: boolicious wins the fight!
+You gain 370 Meat
+You acquire an item: seaweed
+You acquire an item: rough fish scale
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 68 Muscleboundness
+You gain 34 Wizardliness
+You gain 18 Smarm
+unequip weapon
+unequip offhand
+
+equip shirt General Sage's Lonely Diamonds Club Jacket
+
+equip acc1 fudgecycle
+
+equip acc2 time halo
+
+equip acc3 wristwatch of the white knight
