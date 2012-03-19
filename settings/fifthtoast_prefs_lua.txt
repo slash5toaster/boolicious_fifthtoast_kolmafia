@@ -725,7 +725,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=inkubus
+lastEncounter=suckubus
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -872,7 +872,7 @@ questL04Bat=finished
 questL05Goblin=finished
 questL06Friar=finished
 questL07Cyrptic=finished
-questL08Trapper=step1
+questL08Trapper=step2
 questL09Lol=unstarted
 questL10Garbage=unstarted
 questL11MacGuffin=unstarted
@@ -891,7 +891,7 @@ questM06Gourd=finished
 questM07Hammer=finished
 questM08Baker=finished
 questM09Rocks=finished
-questM10Azazel=started
+questM10Azazel=finished
 questM11Postal=unstarted
 questM12Pirate=unstarted
 questM13Escape=unstarted
@@ -909,7 +909,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=876\:The Shore loc\=* shore.php\:dinghy.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -982,7 +982,7 @@ telescopeLookedHigh=false
 telescopeUpgrades=0
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
-timesRested=0
+timesRested=1
 tomeSummons=0
 totalCharitableDonations=0
 trapperOre=asbestos ore
