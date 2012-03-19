@@ -8,7 +8,7 @@ MaximizerFrame=2333,376
 ProfileFrame=2662,409,-1
 RequestFrame=2575,334,-1
 RequestSynchFrame=2575,334,-1
-TabbedChatFrame=1317,409,0
+TabbedChatFrame=1023,54,0
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -574,8 +574,8 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=2100
-currentFullness=0
+currentBountyItem=2101
+currentFullness=20
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -638,7 +638,7 @@ fratboysDefeated=0
 friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
-gourdItemCount=10
+gourdItemCount=7
 grimoire1Summons=0
 grimoire2Summons=0
 grimoire3Summons=0
@@ -647,8 +647,8 @@ guyMadeOfBeesCount=0
 guyMadeOfBeesDefeated=false
 hermitHax0red=false
 heroDonationBoris=200
-heroDonationJarlsberg=700
-heroDonationSneakyPete=200
+heroDonationJarlsberg=1000
+heroDonationSneakyPete=1200
 hiddenCityLayout=EEEFENETEEEDEWDEDEEELEEEE
 hiddenCitySquare=0
 hippiesDefeated=0
@@ -659,7 +659,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Pandamonium Slums
+lastAdventure=Goatlet
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -680,7 +680,7 @@ lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=12
-lastCounterDay=4
+lastCounterDay=6
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -721,7 +721,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=Fallen Archfiend
+lastEncounter=sabre-toothed goat
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -786,7 +786,7 @@ lastStoneSphereReset=1
 lastTavernAscension=0
 lastTavernSquare=0
 lastTelescopeReset=-1
-lastTempleUnlock=0
+lastTempleUnlock=1
 lastTowerClimb=-1
 lastTr4pz0rQuest=0
 lastVioletFogMap=1
@@ -867,8 +867,8 @@ questL03Rat=finished
 questL04Bat=finished
 questL05Goblin=finished
 questL06Friar=finished
-questL07Cyrptic=started
-questL08Trapper=unstarted
+questL07Cyrptic=finished
+questL08Trapper=step2
 questL09Lol=unstarted
 questL10Garbage=unstarted
 questL11MacGuffin=unstarted
@@ -905,7 +905,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=1118\:Semirare window begin\:lparen.gif\:1158\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -914,8 +914,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=0
-semirareLocation=Batrat and Ratbat Burrow
+semirareCounter=958
+semirareLocation=Goatlet
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
