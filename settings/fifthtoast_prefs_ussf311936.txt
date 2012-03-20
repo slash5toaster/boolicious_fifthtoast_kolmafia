@@ -8,7 +8,7 @@ MaximizerFrame=2333,376
 ProfileFrame=2662,409,-1
 RequestFrame=2575,334,-1
 RequestSynchFrame=2575,334,-1
-TabbedChatFrame=1023,54,0
+TabbedChatFrame=581,54,0
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -34,7 +34,7 @@ _companionshipCasts=0
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=0
+_demandSandwich=3
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -190,7 +190,7 @@ bootsCharged=false
 borisPoints=0
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=false
+breakfastCompleted=true
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
@@ -575,7 +575,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2101
-currentFullness=20
+currentFullness=25
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -583,7 +583,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=14
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -591,7 +591,7 @@ cyrptCrannyEvilness=0
 cyrptNicheEvilness=0
 cyrptNookEvilness=44
 cyrptTotalEvilness=44
-dailyDungeonDone=false
+dailyDungeonDone=true
 dbNemesisSkill1=0
 dbNemesisSkill2=0
 dbNemesisSkill3=0
@@ -635,10 +635,10 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 goldenMrAccessories=0
 gongPath=0
-gourdItemCount=7
+gourdItemCount=8
 grimoire1Summons=0
 grimoire2Summons=0
 grimoire3Summons=0
@@ -659,7 +659,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Goatlet
+lastAdventure=Hidden Temple
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -674,13 +674,13 @@ lastBangPotion827
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=2
+lastBreakfast=7
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=12
-lastCounterDay=6
+lastCouncilVisit=9
+lastCounterDay=7
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -721,10 +721,10 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=sabre-toothed goat
+lastEncounter=stone temple pirate
 lastFilthClearance=-1
 lastFratboyCall=-1
-lastFriarCeremonyAscension=0
+lastFriarCeremonyAscension=1
 lastGalleryUnlock=0
 lastGuildStoreOpen=0
 lastGuyMadeOfBeesReset=1
@@ -788,7 +788,7 @@ lastTavernSquare=0
 lastTelescopeReset=-1
 lastTempleUnlock=1
 lastTowerClimb=-1
-lastTr4pz0rQuest=0
+lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=-1
 lastZapperWand=0
@@ -868,8 +868,8 @@ questL04Bat=finished
 questL05Goblin=finished
 questL06Friar=finished
 questL07Cyrptic=finished
-questL08Trapper=step2
-questL09Lol=unstarted
+questL08Trapper=finished
+questL09Lol=started
 questL10Garbage=unstarted
 questL11MacGuffin=unstarted
 questL11Manor=unstarted
@@ -953,7 +953,7 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster
-stationaryButton1
+stationaryButton1=11003
 stationaryButton2
 stationaryButton3
 stationaryButton4
@@ -978,7 +978,7 @@ telescopeLookedHigh=false
 telescopeUpgrades=0
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
-timesRested=0
+timesRested=1
 tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
