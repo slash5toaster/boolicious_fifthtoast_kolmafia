@@ -1,4 +1,5 @@
 AdventureFrame=465,107,0
+ContactListFrame=2663,343
 CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
@@ -8,7 +9,7 @@ MaximizerFrame=2333,376
 ProfileFrame=2662,409,-1
 RequestFrame=2575,334,-1
 RequestSynchFrame=2575,334,-1
-TabbedChatFrame=581,54,0
+TabbedChatFrame=1091,165,0
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -34,7 +35,7 @@ _companionshipCasts=0
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=3
+_demandSandwich=0
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -575,7 +576,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2101
-currentFullness=25
+currentFullness=23
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -583,7 +584,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=14
+currentSpleenUse=0
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -591,7 +592,7 @@ cyrptCrannyEvilness=0
 cyrptNicheEvilness=0
 cyrptNookEvilness=44
 cyrptTotalEvilness=44
-dailyDungeonDone=true
+dailyDungeonDone=false
 dbNemesisSkill1=0
 dbNemesisSkill2=0
 dbNemesisSkill3=0
@@ -659,7 +660,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Hidden Temple
+lastAdventure=Orc Chasm
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -674,13 +675,13 @@ lastBangPotion827
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=7
+lastBreakfast=8
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=9
-lastCounterDay=7
+lastCounterDay=8
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -721,7 +722,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=stone temple pirate
+lastEncounter=rampaging adding machine
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -869,7 +870,7 @@ questL05Goblin=finished
 questL06Friar=finished
 questL07Cyrptic=finished
 questL08Trapper=finished
-questL09Lol=started
+questL09Lol=step1
 questL10Garbage=unstarted
 questL11MacGuffin=unstarted
 questL11Manor=unstarted
@@ -881,7 +882,7 @@ questL13Final=unstarted
 questM01Untinker=finished
 questM02Artist=finished
 questM03Bugbear=unstarted
-questM04Galaktic=started
+questM04Galaktic=finished
 questM05Toot=unstarted
 questM06Gourd=finished
 questM07Hammer=finished
@@ -905,7 +906,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=1118\:Semirare window begin\:lparen.gif\:1158\:Semirare window end loc\=*\:rparen.gif
+relayCounters=1296\:Semirare window begin\:lparen.gif\:1336\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -914,8 +915,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=958
-semirareLocation=Goatlet
+semirareCounter=1136
+semirareLocation=Orc Chasm
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
@@ -954,7 +955,7 @@ spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster
 stationaryButton1=11003
-stationaryButton2
+stationaryButton2=11000
 stationaryButton3
 stationaryButton4
 stationaryButton5
@@ -978,7 +979,7 @@ telescopeLookedHigh=false
 telescopeUpgrades=0
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
-timesRested=1
+timesRested=0
 tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
