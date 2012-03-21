@@ -1949,3 +1949,151 @@ You spent 1,000 Meat
 
 use 5 magicalness-in-a-can
 You gain 11 Magicalness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 20, 2012 - Carlvember 8
+
+Ronald: waning crescent
+Grimace: waxing gibbous
+Mini-moon: front center
+
+Halloween: 8 days
+Feast of Boris: 15 days
+Oyster Egg Day: 19 days
+Yuletide: 20 days
+Festival of Jarlsberg: 25 days
+Valentine's Day: 36 days
+St. Sneaky Pete's Day: 43 days
+El Dia De Los Muertos Borrachos: 58 days
+Generic Summer Holiday: 67 days
+Dependence Day: 76 days
+Arrrbor Day: 84 days
+Lab&oacute;r Day: 94 days
+
+
+Muscle bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 9
+HP: 176 / 212
+MP: 69 / 73
+
+Mus: 109 (69), tnp = 27
+Mys: 73 (56), tnp = 55
+Mox: 65 (48), tnp = 51
+
+Advs: 2
+Meat: 12,901
+Drunk: 4
+
+
+ > equipment
+
+Hat: Knob Goblin elite helm
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin Uberpants
+
+Acc. 1: hamethyst ring
+Acc. 2: badass belt
+Acc. 3: Boris's ring
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Stomach of Steel
+
+Avatar Of Boris
+ - Big Boned
+ - Broadside
+ - Cleave
+ - Demand Sandwich
+ - Ferocity
+ - Intimidating Bellow
+ - Laugh It Off
+ - Legendary Bravado
+ - Legendary Girth
+ - Mighty Axing
+ - Song of the Glorious Lunch
+
+
+ > effects
+
+0 of 3 AT buffs active.
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +50.17%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Angry Farmer candy
+You acquire an effect: Sugar Rush (duration: 10 Adventures)
+
+Use 1 disassembled clover
+You acquire an item: ten-leaf clover
+
+cast 1 Song of the Glorious Lunch
+You acquire an effect: Song of the Glorious Lunch (duration: 5 Adventures)
+
+[1080] Cook 1 grue egg + 1 spooky mushroom
+You acquire an item: grue egg omelette
+Crafting used 1 each of grue egg and spooky mushroom
+
+use 1 wad of dough
+You acquire an item: flat dough
+
+[1081] Cook 1 flat dough + 1 enchanted bean
+You acquire an item: enchanted bean burrito
+Crafting used 1 each of enchanted bean and flat dough
+
+[1081] Cook 1 enchanted bean burrito + 1 spices
+You acquire an item: spicy enchanted bean burrito
+Crafting used 1 each of spices and enchanted bean burrito
+
+[1081] Cook 1 Knob mushroom + 1 fairy gravy boat
+You acquire an item: pregnant mushroom
+Crafting used 1 each of fairy gravy boat and Knob mushroom
+
+Use 1 bat guano
+You acquire an item: guano coffee cup
+
+canadia.php?place=institute
+
+[1080] Pump Up Mysticality (1 turns)
+You gain 16 Magicalness
+
+canadia.php?place=machine
+canadia.php?action=changedial&whichlevel=0
+
+drink 1 bottle of popskull
+You gain 2 Adventures
+You lose 3 hit points
+You gain 2 Drunkenness
+
+equip acc3 dead guy's watch
