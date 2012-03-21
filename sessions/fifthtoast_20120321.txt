@@ -334,3 +334,310 @@ You gain 45 Meat
 You gain 10 Fortitude
 You gain 6 Mysteriousness
 You gain 3 Smarm
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 21, 2012 - Porktober 1
+
+Ronald: new moon
+Grimace: full moon
+Mini-moon: in front of Grimace, R side
+
+Halloween: 7 days
+Feast of Boris: 14 days
+Oyster Egg Day: 18 days
+Yuletide: 19 days
+Festival of Jarlsberg: 24 days
+Valentine's Day: 35 days
+St. Sneaky Pete's Day: 42 days
+El Dia De Los Muertos Borrachos: 57 days
+Generic Summer Holiday: 66 days
+Dependence Day: 75 days
+Arrrbor Day: 83 days
+Lab&oacute;r Day: 93 days
+
+
+Muscle bonus today and tomorrow.
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 9
+HP: 195 / 223
+MP: 3 / 69
+
+Mus: 115 (71), tnp = 83
+Mys: 69 (57), tnp = 11
+Mox: 69 (49), tnp = 38
+
+Advs: 145
+Meat: 9,352
+Drunk: 0
+
+
+ > equipment
+
+Hat: Knob Goblin elite helm
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin Uberpants
+
+Acc. 1: hamethyst ring
+Acc. 2: badass belt
+Acc. 3: Boris's ring
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Stomach of Steel
+
+Avatar Of Boris
+ - Big Boned
+ - Broadside
+ - Cleave
+ - Demand Sandwich
+ - Ferocity
+ - Intimidating Bellow
+ - Laugh It Off
+ - Legendary Bravado
+ - Legendary Girth
+ - Mighty Axing
+ - Song of the Glorious Lunch
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Sugar Rush (8)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +50.17%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[1098] Pirate Cove
+Encounter: swarthy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: swarthy pirate takes 92 damage.
+Round 1: fifthtoast wins the fight!
+You gain 21 Meat
+You gain 6 Beefiness
+You gain 10 Enchantedness
+You gain 2 Smarm
+
+[1099] Pirate Cove
+Encounter: The Beached Boys
+You gain 15 Strengthliness
+
+[1100] Pirate Cove
+Encounter: Barrie Me at Sea
+Took choice 23/1: stuffed shoulder parrot
+choice.php?pwd&whichchoice=23&option=1
+You lose 5 Meat
+You acquire an item: stuffed shoulder parrot
+
+[1101] Pirate Cove
+Encounter: The Arrrbitrator
+Took choice 22/2: swashbuckling pants
+choice.php?pwd&whichchoice=22&option=2
+You acquire an item: swashbuckling pants
+
+[1102] Pirate Cove
+Encounter: swarthy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: swarthy pirate takes 81 damage.
+Round 1: fifthtoast wins the fight!
+You gain 25 Meat
+You acquire an item: pirate pelvis
+You gain 7 Fortitude
+You gain 5 Enchantedness
+You gain a Mysticality point!
+You gain 6 Smarm
+
+[1103] Pirate Cove
+Encounter: Amatearrr Night
+Took choice 24/3: eyepatch
+choice.php?pwd&whichchoice=24&option=3
+You acquire an item: eyepatch
+outfit Swashbuckling Getup
+outfit Swashbuckling Getup
+
+buy 1 abridged dictionary for 1000 each from Barrrtleby's Barrrgain Books (Bees Hate You)
+You acquire an item: abridged dictionary
+You spent 1,000 Meat
+
+buy 1 The Big Book of Pirate Insults for 500 each from Barrrtleby's Barrrgain Books (Bees Hate You)
+You acquire an item: The Big Book of Pirate Insults
+You spent 500 Meat
+
+buy 1 pirate brochure for 300 each from Barrrtleby's Barrrgain Books (Bees Hate You)
+You acquire an item: pirate brochure
+You spent 300 Meat
+
+[1104] Barrrney's Barrr
+Encounter: toothy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: toothy pirate takes 40 damage.
+You lose 16 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: toothy pirate takes 52 damage.
+Round 2: fifthtoast wins the fight!
+You gain 47 Meat
+You gain 11 Muscleboundness
+You gain 9 Mysteriousness
+You gain 3 Smarm
+
+[1105] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: tetchy pirate takes 56 damage.
+You lose 15 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: tetchy pirate takes 70 damage.
+Round 2: fifthtoast wins the fight!
+You gain 41 Meat
+You acquire an item: bottle of rum
+You gain 10 Fortitude
+You gain 7 Wizardliness
+You gain 5 Roguishness
+
+[1106] Barrrney's Barrr
+Encounter: tipsy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: tipsy pirate takes 61 damage.
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: tipsy pirate takes 59 damage.
+Round 2: fifthtoast wins the fight!
+You gain 48 Meat
+You acquire an item: bottle of rum
+You gain 10 Fortitude
+You gain 7 Mysteriousness
+You gain 4 Chutzpah
+
+[1107] Barrrney's Barrr
+Encounter: That Explains All The Eyepatches
+Took choice 184/1: enter combat (varies by class)
+choice.php?pwd&whichchoice=184&option=1
+Encounter: tipsy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: tipsy pirate takes 53 damage.
+You lose 19 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: tipsy pirate takes 45 damage.
+Round 2: fifthtoast wins the fight!
+You gain 40 Meat
+You acquire an item: tip jar
+You gain 6 Strongness
+You gain 9 Wizardliness
+You gain 7 Cheek
+
+[1108] Barrrney's Barrr
+Encounter: toothy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: toothy pirate takes 53 damage.
+You lose 18 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: toothy pirate takes 51 damage.
+Round 2: fifthtoast wins the fight!
+You gain 42 Meat
+You gain 12 Strongness
+You gain 7 Mysteriousness
+You gain 4 Sarcasm
+
+[1109] Barrrney's Barrr
+Encounter: toothy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: toothy pirate takes 45 damage.
+You lose 20 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: toothy pirate takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 38 Meat
+You gain 7 Fortitude
+You gain a Muscle point!
+You gain 9 Magicalness
+You gain 7 Smarm
+You gain a Moxie point!
+
+[1110] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 19 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: tetchy pirate takes 56 damage.
+You lose 19 hit points
+After Battle: unspecified macro action?
+After Battle: tetchy pirate takes 42 damage.
+After Battle: fifthtoast wins the fight!
+You gain 38 Meat
+You acquire an item: bottle of rum
+You gain 12 Strongness
+You gain 10 Magicalness
+You gain 1 Cheek
+
+Use 1 disassembled clover
+You acquire an item: ten-leaf clover
+
+[1111] Muscle Vacation
+Encounter: The Shore, Inc. Travel Agency
+
+[1111] Mysticality Vacation
+Encounter: The Shore, Inc. Travel Agency
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+[1111] Muscle Vacation
+Encounter: Bang!
+You acquire an item: stick of dynamite
+
+[1114] Mysticality Vacation
+Encounter: A Fateful Trip 
+You gain 40 Wizardliness
+
+[1117] Moxie Vacation
+Encounter: An eXtreme Vacation
+You gain 31 Roguishness
+
+[1120] Moxie Vacation
+Encounter: A Sappy Vacation
+You acquire Ent cider (3)
+
+[1123] Moxie Vacation
+Encounter: An eXtreme Vacation
+You gain 26 Roguishness
+
+Use 1 disassembled clover
+You acquire an item: ten-leaf clover

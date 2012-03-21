@@ -662,7 +662,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Pirate Cove
+lastAdventure=Moxie Vacation
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion-1=confusion
@@ -725,7 +725,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=shifty pirate
+lastEncounter=An eXtreme Vacation
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -750,8 +750,8 @@ lastPaperStrip4143=dangly\:CAD\:sinusoidal
 lastPaperStrip4144=careful\:CTHON\:funny
 lastPaperStripReset=0
 lastPastamancerGhostReset=1
-lastPirateEphemera=pirate pamphlet
-lastPirateEphemeraReset=0
+lastPirateEphemera=pirate brochure
+lastPirateEphemeraReset=1
 lastPirateInsult1=false
 lastPirateInsult2=false
 lastPirateInsult3=false
@@ -909,7 +909,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=1118\:The Shore loc\=* shore.php\:dinghy.gif
+relayCounters=1148\:The Shore loc\=* shore.php\:dinghy.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
