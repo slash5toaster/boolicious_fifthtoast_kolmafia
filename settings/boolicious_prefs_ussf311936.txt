@@ -708,7 +708,7 @@ lastBangPotion827
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=-1
+lastBreakfast=8
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
@@ -916,9 +916,9 @@ questL13Final=unstarted
 questM01Untinker=unstarted
 questM02Artist=started
 questM03Bugbear=unstarted
-questM04Galaktic=unstarted
+questM04Galaktic=started
 questM05Toot=unstarted
-questM06Gourd=unstarted
+questM06Gourd=started
 questM07Hammer=unstarted
 questM08Baker=unstarted
 questM09Rocks=unstarted
