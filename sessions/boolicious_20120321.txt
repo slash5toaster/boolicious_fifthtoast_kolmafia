@@ -10693,3 +10693,513 @@ drink 1 ice-cold fotie
 You gain 3 Adventures
 You gain 11 Muscularity Points
 You gain 3 Drunkenness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 21, 2012 - Porktober 1
+
+Ronald: new moon
+Grimace: full moon
+Mini-moon: in front of Grimace, R side
+
+Halloween: 7 days
+Feast of Boris: 14 days
+Oyster Egg Day: 18 days
+Yuletide: 19 days
+Festival of Jarlsberg: 24 days
+Valentine's Day: 35 days
+St. Sneaky Pete's Day: 42 days
+El Dia De Los Muertos Borrachos: 57 days
+Generic Summer Holiday: 66 days
+Dependence Day: 75 days
+Arrrbor Day: 83 days
+Lab&oacute;r Day: 93 days
+
+
+Muscle bonus today and tomorrow.
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 1
+HP: 15 / 20
+MP: 2 / 2
+
+Mus: 10 (3), tnp = 4
+Mys: 2, tnp = 4
+Mox: 3, tnp = 1
+
+Advs: 36
+Meat: 8,592
+Drunk: 3
+
+
+ > equipment
+
+Hat: helmet turtle
+Weapon: scorpion whip
+Off-hand: giant clay ashtray
+Shirt: cane-mail shirt
+Pants: astral trousers
+
+Acc. 1: Pok&euml;mann figurine: Magikrap
+Acc. 2: (none)
+Acc. 3: (none)
+
+Pet: Fancypants Scarecrow (4 lbs)
+Item: leotarrrd
+
+ > skills
+
+Seal Clubber
+ - Clobber
+ - Seal Clubbing Frenzy
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Peppermint Twisted (4)
+
+
+ > modifiers
+
+ML: +30
+Enc: +0.00%
+Init: +40.00%
+
+Exp: +5.16
+Meat: +105.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+equip pants makeshift skirt
+
+cast 1 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 5 Adventures)
+
+[26] Sleazy Back Alley
+Encounter: beebee gunners
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLOBBER!
+Round 2: beebee gunners takes 6 damage.
+You lose 22 hit points
+Visiting Comfy Sofa in clan rumpus room
+
+[27] Rest in Clan Sofa (1 turns)
+You gain 4 hit points
+You gain 1 Muscularity Point
+
+[28] Rest in Clan Sofa (1 turns)
+You gain 4 hit points
+
+[29] Noob Cave
+Encounter: crate
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLOBBER!
+Round 2: crate takes 8 damage.
+Round 2: boolicious casts CLOBBER!
+Round 3: crate takes 6 damage.
+Round 3: boolicious casts CLOBBER!
+Round 4: crate takes 6 damage.
+Round 4: boolicious casts CLOBBER!
+Round 5: crate takes 6 damage.
+Round 5: boolicious casts CLOBBER!
+Round 6: crate takes 7 damage.
+Round 6: boolicious wins the fight!
+You acquire an item: popsicle stick (3)
+After Battle: "A towel around one's middle is much more appropriate garb for the sauna, rather than travelling," Heckel &amp; Jeckyl complains, as he does a half-hearted little dance. "Still, any port in a storm, eh what? Nothing better than a glass of port after a good sauna, I always say."
+You gain 7 Muscleboundness
+You gain a Muscle point!
+You gain 1 Mysteriousness
+
+familiar Levitating Potato (4 lbs)
+
+familiar Fancypants Scarecrow (4 lbs)
+
+equip pants leotarrrd
+
+pull: 1 gnauga hide skirt
+
+pull: 1 stress ball
+
+pull: 1 cane-mail pants
+
+pull: 1 flowing hippy skirt
+unequip acc1
+
+equip acc2 Pokëmann figurine: Magikrap
+
+[30] Noob Cave
+Encounter: crate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: crate takes 22 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: lemon
+You acquire an item: orange
+Your familiar gains a pound: Heckel &amp; Jeckyl, the 2 lb. Fancypants Scarecrow
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 7 Strengthliness
+You gain a Muscle point!
+You gain a Level!
+You gain 1 Magicalness
+You gain 1 Chutzpah
+You gain a Moxie point!
+
+Visiting Gunther, Lord of the Smackdown
+
+[31] Haunted Pantry
+Encounter: Shoe of Many Colors
+You acquire an item: pretentious palette
+
+[32] Outskirts of The Knob
+Encounter: Sub-Assistant Knob Mad Scientist
+Round 0: boolicious loses initiative!
+You lose 17 hit points
+Visiting Comfy Sofa in clan rumpus room
+
+[33] Rest in Clan Sofa (1 turns)
+You gain 10 hit points
+
+Visiting Doc Galaktik
+
+Visiting Doc Galaktik
+You gain 10 hit points
+You spent 100 Meat
+
+Visiting Doc Galaktik
+You acquire an item: Doc Galaktik's Restorative Balm
+You spent 120 Meat
+
+Visiting Doc Galaktik
+You acquire an item: Doc Galaktik's Homeopathic Elixir
+You spent 240 Meat
+Accepting quest to find the Untinker's screwdriver
+You acquire an item: continuum transfunctioner
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 13 shredded can labels
+
+[34] Spooky Forest
+Encounter: triffid
+Round 0: boolicious loses initiative!
+You lose 14 hit points
+Round 1: boolicious attacks!
+You lose 14 hit points
+
+equip acc1 continuum transfunctioner
+
+equip pants gnauga hide skirt
+Visiting Comfy Sofa in clan rumpus room
+
+[35] Rest in Clan Sofa (1 turns)
+You gain 10 hit points
+
+Visiting Doc Galaktik
+
+Restore 1 HP at Doc Galaktik's
+You gain 1 hit point
+You spent 10 Meat
+
+Visiting Doc Galaktik
+You gain 9 hit points
+You spent 90 Meat
+
+cast 1 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 5 Adventures)
+
+cast 1 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 5 Adventures)
+
+Visiting Doc Galaktik
+
+Visiting Doc Galaktik
+You gain 2 Muscularity Points
+You spent 34 Meat
+
+Visiting Doc Galaktik
+You gain 3 hit points
+You spent 30 Meat
+
+[36] Sleazy Back Alley
+Encounter: rushing bum
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLOBBER!
+Round 2: rushing bum takes 7 damage.
+You lose 16 hit points
+Round 2: boolicious casts CLOBBER!
+Round 3: rushing bum takes 8 damage.
+You lose 16 hit points
+Visiting Comfy Sofa in clan rumpus room
+
+[37] Rest in Clan Sofa (1 turns)
+You gain 10 hit points
+
+Visiting Doc Galaktik
+
+Visiting Doc Galaktik
+You gain 13 hit points
+You spent 130 Meat
+
+[38] Noob Cave
+Encounter: crate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: crate takes 22 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: bottle of vodka
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 4 Strengthliness
+You gain 2 Roguishness
+
+[39] Noob Cave
+Encounter: crate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: crate takes 24 damage.
+Round 2: crate takes 3 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: popsicle stick (3)
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 3 Beefiness
+You gain 1 Mysteriousness
+You gain 2 Smarm
+
+[40] Noob Cave
+Encounter: crate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: crate takes 24 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: popsicle stick (3)
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 3 Muscleboundness
+You gain a Muscle point!
+You gain 1 Mysteriousness
+You gain a Mysticality point!
+You gain 2 Cheek
+
+[41] Noob Cave
+Encounter: crate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: crate takes 24 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: popsicle stick (3)
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 5 Muscleboundness
+You gain 1 Wizardliness
+
+tutorial.php?action=toot
+
+Use 2 peppermint sprout
+You acquire an item: peppermint patty
+
+eat 1 peppermint patty
+You gain 9 Adventures
+You gain 20 Fortitude
+You gain a Muscle point!
+You gain 10 Enchantedness
+You gain a Mysticality point!
+You gain 11 Smarm
+You gain a Moxie point!
+You gain 2 Fullness
+
+cast 1 Summon Clip Art
+You acquire an item: Ur-Donut
+
+eat 1 Ur-Donut
+You gain 3 Adventures
+You gain 61 Strongness
+You gain some Muscle points!
+You gain a Level!
+You gain 74 Enchantedness
+You gain some Mysticality points!
+You gain 75 Chutzpah
+You gain some Moxie points!
+You acquire an effect: Sugar Rush (duration: 10 Adventures)
+You gain 1 Fullness
+
+[43] Cook 1 popsicle stick + 1 lemon
+You acquire an item: lemon popsicle
+Crafting used 1 each of lemon and popsicle stick
+
+eat 1 lemon popsicle
+You gain 2 Adventures
+You gain 1 Fullness
+
+[43] Mix 1 bottle of vodka + 1 orange
+You acquire an item: screwdriver
+Crafting used 1 each of bottle of vodka and orange
+
+drink 1 screwdriver
+You gain 6 Adventures
+You gain 9 Beefiness
+You gain 3 Drunkenness
+
+buy 2 strongness elixir for 200 each from Market Demon
+You acquire strongness elixir (2)
+You spent 400 Meat
+
+use 2 strongness elixir
+You gain 6 Beefiness
+
+use 1 Doc Galaktik's Homeopathic Elixir
+You gain 20 hit points
+
+[42] Noob Cave
+Encounter: crate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: crate takes 33 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: popsicle stick (3)
+Your familiar gains a pound: Heckel &amp; Jeckyl, the 3 lb. Fancypants Scarecrow
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 3 Strengthliness
+You gain 2 Magicalness
+You gain 1 Roguishness
+
+Visiting Doc Galaktik
+
+Visiting Doc Galaktik
+You gain 9 Muscularity Points
+You spent 153 Meat
+
+cast 5 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 25 Adventures)
+
+[43] Outskirts of The Knob
+Encounter: A Funny Thing Happened...
+You gain 75 Meat
+You lose 1 hit point
+
+[44] Outskirts of The Knob
+Encounter: Knob Goblin Barbecue Team
+Round 0: boolicious loses initiative!
+You lose 22 hit points
+Round 1: boolicious casts CLOBBER!
+Round 2: knob goblin barbecue team takes 6 damage.
+Round 2: boolicious casts CLOBBER!
+Round 3: knob goblin barbecue team takes 8 damage.
+You lose 22 hit points
+
+telescope look 
+
+telescope look high
+
+clan_rumpus.php?action=click&spot=6&furni=0
+Visiting Comfy Sofa in clan rumpus room
+
+[45] Rest in Clan Sofa (1 turns)
+You gain 15 hit points
+You gain 5 Muscularity Points
+
+clan_rumpus.php?action=click&spot=8&furni=0
+clan_rumpus.php?action=click&spot=6&furni=0
+Visiting Inspirational Desk Calendar in clan rumpus room
+
+[46] Degrassi Knoll
+Encounter: beebee gunners
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 14 hit points
+Round 2: boolicious casts CLOBBER!
+Round 3: beebee gunners takes 7 damage.
+You lose 15 hit points
+Visiting Comfy Sofa in clan rumpus room
+
+[47] Rest in Clan Sofa (1 turns)
+You gain 16 hit points
+
+[48] Rest in Clan Sofa (1 turns)
+You gain 14 hit points
+
+[49] Rest in Clan Sofa (1 turns)
+You gain 9 hit points
+
+Visiting the pretentious artist
+
+[50] Outskirts of The Knob
+Encounter: sleeping Knob Goblin Guard
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 12 hit points
+Round 2: boolicious casts CLOBBER!
+Round 3: sleeping knob goblin guard takes 7 damage.
+You lose 14 hit points
+Round 3: boolicious casts CLOBBER!
+Round 4: sleeping knob goblin guard takes 7 damage.
+You lose 12 hit points
+Round 4: boolicious casts RETURN!
+
+[51] Noob Cave
+Encounter: crate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: crate takes 33 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: bottle of vodka
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 4 Beefiness
+You gain a Muscle point!
+You gain 1 Wizardliness
+You gain 1 Cheek
+
+[52] Noob Cave
+Encounter: crate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: crate takes 33 damage.
+Round 2: crate takes 4 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: bottle of vodka
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 4 Strongness
+You gain 1 Mysteriousness
+You gain 1 Cheek
+
+equip pants leotarrrd
+
+[53] Noob Cave
+Encounter: crate
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLOBBER!
+Round 2: crate takes 8 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious casts CLOBBER!
+Round 3: crate takes 6 damage.
+Round 3: boolicious casts CLOBBER!
+Round 4: crate takes 6 damage.
+Round 4: boolicious attacks!
+Round 5: crate takes 30 damage.
+Round 5: boolicious wins the fight!
+You acquire an item: lemon
+You acquire an item: orange
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 8 Muscleboundness
+You gain 1 Enchantedness
+You gain 1 Cheek
