@@ -607,7 +607,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=1
+currentFullness=2
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -615,7 +615,7 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=9
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -692,7 +692,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=Haunted Pantry
+lastAdventure=Sleazy Back Alley
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -755,7 +755,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=-1
-lastEncounter=fiendish can of asparagus
+lastEncounter=rushing bum
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -940,7 +940,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=19\:Bee window begin loc\=*\:lparen.gif\:24\:Bee window end loc\=*\:rparen.gif\:70\:Semirare window begin\:lparen.gif\:80\:Semirare window end loc\=*\:rparen.gif
+relayCounters=24\:Bee window end loc\=*\:rparen.gif\:70\:Semirare window begin\:lparen.gif\:80\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
