@@ -635,3 +635,337 @@ You gain 2 Chutzpah
 
 cast 1 Seal Clubbing Frenzy
 You acquire an effect: Seal Clubbing Frenzy (duration: 5 Adventures)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 22, 2012 - Porktober 2
+
+Ronald: waxing crescent
+Grimace: full moon
+Mini-moon: behind Grimace
+
+Halloween: 6 days
+Feast of Boris: 13 days
+Oyster Egg Day: 17 days
+Yuletide: 18 days
+Festival of Jarlsberg: 23 days
+Valentine's Day: 34 days
+St. Sneaky Pete's Day: 41 days
+El Dia De Los Muertos Borrachos: 56 days
+Generic Summer Holiday: 65 days
+Dependence Day: 74 days
+Arrrbor Day: 82 days
+Lab&oacute;r Day: 92 days
+
+
+Muscle bonus today and yesterday.
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 4
+HP: 54 / 98
+MP: 21 / 42
+
+Mus: 62 (14), tnp = 24
+Mys: 42 (10), tnp = 1
+Mox: 43 (11), tnp = 9
+
+Advs: 40
+Meat: 4,766
+Drunk: 0
+
+
+ > equipment
+
+Hat: Dolphin King's crown
+Weapon: pixel sword
+Off-hand: giant clay ashtray
+Shirt: cane-mail shirt
+Pants: astral trousers
+
+Acc. 1: Mr. Accessory
+Acc. 2: Mr. Accessory
+Acc. 3: fudge pocket square
+
+Pet: Fancypants Scarecrow (4 lbs)
+Item: trousers of the white knight
+
+ > skills
+
+Seal Clubber
+ - Claws of the Otter
+ - Clobber
+ - Hide of the Otter
+ - Seal Clubbing Frenzy
+ - Tongue of the Otter
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Seal Clubbing Frenzy (4)
+
+
+ > modifiers
+
+ML: +20
+Enc: +0.00%
+Init: +15.00%
+
+Exp: +2.50
+Meat: +106.95%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+add to closet: 1 disco ball
+
+add to closet: 1 Knob Goblin deluxe scimitar
+
+cast 1 Summon Clip Art
+You acquire an item: shrapnel jelly donut
+
+cast 1 Summon Clip Art
+You acquire an item: smashed danish
+
+cast 1 Summon Clip Art
+You acquire an item: thyme jelly donut
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+buy 1 Queue Du Coq cocktailcrafting kit for 1000 each from Market Demon
+You acquire an item: Queue Du Coq cocktailcrafting kit
+You spent 1,000 Meat
+
+use 1 Queue Du Coq cocktailcrafting kit
+
+[83] Mix 1 bottle of vodka + 1 peppermint twist
+You acquire an item: Vodka Matryoshka
+Crafting used 1 each of bottle of vodka and peppermint twist
+
+drink 1 Vodka Matryoshka
+You gain 11 Adventures
+You gain 31 Strengthliness
+You gain a Muscle point!
+You gain 14 Mysteriousness
+You gain a Mysticality point!
+You gain 15 Cheek
+You gain a Moxie point!
+You gain 2 Drunkenness
+
+Use 2 peppermint sprout
+You acquire an item: peppermint patty
+
+eat 1 peppermint patty
+You gain 11 Adventures
+You gain 19 Beefiness
+You gain 15 Enchantedness
+You gain a Mysticality point!
+You gain 16 Sarcasm
+You gain 2 Fullness
+
+eat 1 smashed danish
+You gain 3 Adventures
+You gain 63 Fortitude
+You gain some Muscle points!
+You acquire an effect: Danish Cunning (duration: 30 Adventures)
+You gain 1 Fullness
+
+eat 1 shrapnel jelly donut
+You gain 5 Adventures
+You gain 56 Strongness
+You gain some Muscle points!
+You acquire an effect: Filled with Magic (duration: 30 Adventures)
+You gain 1 Fullness
+
+use 1 Medicinal Herb's medicinal herbs
+
+Visiting Doc Galaktik
+
+Visiting Doc Galaktik
+You gain 53 hit points
+You spent 530 Meat
+
+Visiting Doc Galaktik
+You gain 29 Muscularity Points
+You spent 493 Meat
+
+[83] Degrassi Knoll
+Encounter: Screwdriver, wider than a mile.
+You acquire an item: rusty screwdriver
+
+Visiting the Untinker
+
+[84] Outskirts of The Knob
+Encounter: Knob Goblin Assistant Chef
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: knob goblin assistant chef takes 76 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 6 (+1) (+1) (+1) (+1) (+1) (+1) damage? He never saw it coming! How droll."
+Round 2: knob goblin assistant chef takes 12 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 18 Meat
+You gain 2 Fortitude
+You gain 3 Mysteriousness
+You gain 1 Roguishness
+
+[85] Outskirts of The Knob
+Encounter: Knob Goblin BBQ
+Took choice 113/1: complete cake quest
+choice.php?pwd&whichchoice=113&option=1
+You lose 2 hit points
+
+[86] Outskirts of The Knob
+Encounter: mumblebee
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 6 (+1) (+1) (+1) (+1) (+1) (+1) damage? It never saw it coming! How droll."
+Round 2: mumblebee takes 12 damage.
+You lose 18 hit points
+Round 2: boolicious casts CLOBBER!
+Round 3: mumblebee takes 9 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 7 (+1) (+1) (+1) (+1) (+1) (+1) damage? It never saw it coming! How droll."
+Round 3: mumblebee takes 13 damage.
+You lose 19 hit points
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: mumblebee takes 72 damage.
+Round 4: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 4 (+1) (+1) (+1) (+1) (+1) (+1) damage? It never saw it coming! How droll."
+Round 4: mumblebee takes 10 damage.
+Round 4: boolicious wins the fight!
+You acquire an item: handful of honey
+You gain 7 Strengthliness
+You gain 8 Magicalness
+You gain 2 Chutzpah
+You gain a Moxie point!
+
+use 1 handful of honey
+
+[87] Outskirts of The Knob
+Encounter: Code Red
+You acquire an item: Knob Goblin encryption key
+
+[88] Outskirts of The Knob
+Encounter: Knob Goblin Barbecue Team
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: knob goblin barbecue team takes 63 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 8 (+1) (+1) (+1) (+2) (+1) (+2) damage? It never saw it coming! How droll."
+Round 2: knob goblin barbecue team takes 16 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Heckel &amp; Jeckyl, the 5 lb. Fancypants Scarecrow
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 20 Meat
+You acquire an item: bowl of cottage cheese
+You gain 6 Beefiness
+You gain 1 Roguishness
+
+[89] Outskirts of The Knob
+Encounter: Knob Goblin Barbecue Team
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: knob goblin barbecue team takes 64 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 9 (+1) (+1) (+1) (+2) (+1) (+2) damage? It never saw it coming! How droll."
+Round 2: knob goblin barbecue team takes 17 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 21 Meat
+You acquire an item: bowl of cottage cheese
+You acquire an item: Knob Goblin tongs
+You gain 7 Muscleboundness
+
+[90] Outskirts of The Knob
+Encounter: Knob Goblin Assistant Chef
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 5 hit points
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 6 (+1) (+1) (+1) (+1) (+1) (+1) damage? He never saw it coming! How droll."
+Round 2: knob goblin assistant chef takes 12 damage.
+Round 2: boolicious attacks!
+Round 3: knob goblin assistant chef takes 78 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 9 (+1) (+1) (+1) (+1) (+1) (+1) damage? He never saw it coming! How droll."
+Round 3: knob goblin assistant chef takes 15 damage.
+Round 3: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 15 Meat
+You gain 4 Strongness
+You gain 2 Roguishness
+
+[91] Outskirts of The Knob
+Encounter: Ennui is Wasted on the Young
+Took choice 120/1: muscle and Pumped Up
+choice.php?pwd&whichchoice=120&option=1
+You gain 7 Strongness
+You gain a Muscle point!
+You gain a Level!
+You acquire an effect: Pumped Up (duration: 10 Adventures)
+
+Visiting Torg, the Trainer
+
+guild.php?action=buyskill&skillid=3
+You learned a new skill: Thrust-Smack
+
+Visiting Grignr, the Seal Clubber
+You gain 1,000 Meat
+
+Use 1 disassembled clover
+
+buy 1 casino pass for 100 each from Market Demon
+You acquire an item: casino pass
+You spent 100 Meat
+
+[92] Lemon Party
+You acquire an item: lemon
+
+[93] Lemon Party
+You acquire an item: jumbo olive
+
+add to closet: 1 baconstone
+
+add to closet: 1 bar skin
+
+add to closet: 1 bat wing
+
+add to closet: 1 beautiful soup
+
+add to closet: 1 Boris's ring
+
+add to closet: 1 bottle of vodka
+
+add to closet: 1 Medicinal Herb's medicinal herbs
+
+add to closet: 1 Newbiesport&trade; tent
+
+add to closet: 1 resolution: be feistier
+
+add to closet: 1 resolution: be happier
+
+add to closet: 1 resolution: be kinder
+
+add to closet: 1 resolution: be stronger
+
+add to closet: 1 resolution: be wealthier
+
+add to closet: 1 stress ball
