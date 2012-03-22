@@ -578,7 +578,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=24
+currentFullness=25
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -662,7 +662,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Ninja Snowmen
+lastAdventure=Dungeons of Doom
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion-1=confusion
@@ -725,7 +725,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=Ninja Snowman
+lastEncounter=swarm of killer bees
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -873,7 +873,7 @@ questL05Goblin=finished
 questL06Friar=finished
 questL07Cyrptic=finished
 questL08Trapper=finished
-questL09Lol=step1
+questL09Lol=finished
 questL10Garbage=unstarted
 questL11MacGuffin=unstarted
 questL11Manor=unstarted

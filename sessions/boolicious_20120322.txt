@@ -127,3 +127,511 @@ Round 1: boolicious casts CLOBBER!
 Round 2: sub-assistant knob mad scientist takes 7 damage.
 You lose 14 hit points
 Round 2: boolicious casts RETURN!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 22, 2012 - Porktober 2
+
+Ronald: waxing crescent
+Grimace: full moon
+Mini-moon: behind Grimace
+
+Halloween: 6 days
+Feast of Boris: 13 days
+Oyster Egg Day: 17 days
+Yuletide: 18 days
+Festival of Jarlsberg: 23 days
+Valentine's Day: 34 days
+St. Sneaky Pete's Day: 41 days
+El Dia De Los Muertos Borrachos: 56 days
+Generic Summer Holiday: 65 days
+Dependence Day: 74 days
+Arrrbor Day: 82 days
+Lab&oacute;r Day: 92 days
+
+
+Muscle bonus today and yesterday.
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 3
+HP: 11 / 39
+MP: 9 / 9
+
+Mus: 23 (12), tnp = 13
+Mys: 9, tnp = 1
+Mox: 10, tnp = 9
+
+Advs: 67
+Meat: 6,861
+Drunk: 0
+
+
+ > equipment
+
+Hat: helmet turtle
+Weapon: scorpion whip
+Off-hand: giant clay ashtray
+Shirt: cane-mail shirt
+Pants: astral trousers
+
+Acc. 1: continuum transfunctioner
+Acc. 2: Pok&euml;mann figurine: Magikrap
+Acc. 3: (none)
+
+Pet: Fancypants Scarecrow (6 lbs)
+Item: leotarrrd
+
+ > skills
+
+Seal Clubber
+ - Clobber
+ - Seal Clubbing Frenzy
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Seal Clubbing Frenzy (16)
+
+
+ > modifiers
+
+ML: +20
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +4.23
+Meat: +55.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 3 Summon Resolutions
+You acquire an item: resolution: be stronger
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: disco ball
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+Visiting Hermit
+
+buy 1 hermit permit for 100 each from Market Demon
+You acquire an item: hermit permit
+You spent 100 Meat
+
+Visiting Hermit
+
+trading 1 worthless item for 1 ten-leaf clover
+You acquire an item: ten-leaf clover
+
+add to closet: 1 ten-leaf clover
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+Visiting Hermit
+
+buy 1 hermit permit for 100 each from Market Demon
+You acquire an item: hermit permit
+You spent 100 Meat
+
+Visiting Hermit
+
+trading 1 worthless item for 1 ten-leaf clover
+You acquire an item: ten-leaf clover
+
+add to closet: 1 ten-leaf clover
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: Hollandaise helmet
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless trinket
+
+Visiting Hermit
+
+buy 1 hermit permit for 100 each from Market Demon
+You acquire an item: hermit permit
+You spent 100 Meat
+
+Visiting Hermit
+
+trading 1 worthless item for 1 ten-leaf clover
+You acquire an item: ten-leaf clover
+
+add to closet: 1 ten-leaf clover
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless trinket
+
+Visiting Hermit
+
+buy 1 hermit permit for 100 each from Market Demon
+You acquire an item: hermit permit
+You spent 100 Meat
+
+Visiting Hermit
+
+pull: 1 beautiful soup
+
+pull: 1 cast
+
+pull: 1 extra-greasy slider
+
+pull: 1 Boris's ring
+
+pull: 1 Dolphin King's crown
+
+equip hat Dolphin King's crown
+
+pull: 1 Knob Goblin deluxe scimitar
+
+equip weapon Knob Goblin deluxe scimitar
+
+pull: 1 Mr. Accessory
+
+equip acc1 Mr. Accessory
+
+pull: 1 Mr. Accessory
+
+equip acc2 Mr. Accessory
+
+pull: 1 fudge pocket square
+
+equip acc3 fudge pocket square
+
+pull: 1 trousers of the white knight
+
+equip pants trousers of the white knight
+
+telescope look high
+You acquire an effect: Starry-Eyed (duration: 10 Adventures)
+
+[55] Rest in Clan Sofa (1 turns)
+You gain 15 hit points
+You gain 16 Muscularity Points
+
+[56] Outskirts of The Knob
+Encounter: Up In Their Grill
+Took choice 543/1: unknown
+choice.php?pwd&whichchoice=543&option=1
+You acquire an item: 11-inch knob sausage
+
+Visiting Gunther, Lord of the Smackdown
+
+Visiting Olaf the Janitor
+You acquire an item: Degrassi Knoll shopping list
+
+Visiting Torg, the Trainer
+
+guild.php?action=buyskill&skillid=8
+You learned a new skill: Hide of the Otter
+guild.php?action=buyskill&skillid=9
+You learned a new skill: Claws of the Otter
+
+Visiting Grignr, the Seal Clubber
+
+Visiting Terry, the Turtle Tamer
+
+[57] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: boolicious wins initiative!
+You lose 21 hit points
+Round 1: boolicious attacks!
+Round 2: undead elbow macaroni takes 76 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 4 (+1) (+2) (+1) (+2) (+1) (+1) damage? It never saw it coming! How droll."
+Round 2: undead elbow macaroni takes 12 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 7 Meat
+You acquire an item: magicalness-in-a-can
+You gain 3 Strengthliness
+You gain 1 Enchantedness
+You gain a Mysticality point!
+You gain 3 Sarcasm
+
+buy 1 Medicinal Herb's medicinal herbs for 100 each from Smacketeria
+You acquire an item: Medicinal Herb's medicinal herbs
+You spent 100 Meat
+
+buy 1 cheap wind-up clock for 200 each from Smacketeria
+You acquire an item: cheap wind-up clock
+You spent 200 Meat
+
+buy 1 cheap wind-up clock for 200 each from Smacketeria
+You acquire an item: cheap wind-up clock
+You spent 200 Meat
+
+multiuse.php?passitem=1290&pwd=33966a245c2d044e739496e2304d65df
+
+use 1 cheap wind-up clock
+You acquire an effect: Ticking Clock (duration: 10 Adventures)
+
+[58] Rest in Clan Sofa (4 turns)
+You gain 61 hit points
+You gain 25 Muscularity Points
+
+[58] Rest in Clan Sofa (1 turns)
+You gain 15 hit points
+
+Visiting Doc Galaktik
+
+Visiting Doc Galaktik
+You gain 21 hit points
+You spent 210 Meat
+
+[63] Outskirts of The Knob
+Encounter: Brushed off...
+You acquire an item: pretentious paintbrush
+
+Visiting the pretentious artist
+You acquire an item: pail
+
+[64] Degrassi Knoll
+Encounter: Gnollish Workshop
+You acquire an item: spring
+You acquire an item: sprocket
+You acquire an item: cog
+
+[65] Degrassi Knoll
+Encounter: one-eyed Gnoll
+Round 0: boolicious loses initiative!
+You lose 21 hit points
+You lose 1 hit point
+Round 1: boolicious attacks!
+Round 2: one-eyed gnoll takes 69 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 5 (+1) (+1) (+1) (+1) (+1) (+1) damage? He never saw it coming! How droll."
+Round 2: one-eyed gnoll takes 11 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 51 Meat
+You gain 5 Beefiness
+You gain 2 Wizardliness
+You gain 2 Smarm
+
+[66] Degrassi Knoll
+Encounter: moneybee
+Round 0: boolicious wins initiative!
+You lose 21 hit points
+Round 1: boolicious attacks!
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 3 (+1) (+1) (+1) (+1) (+1) (+1) damage? He never saw it coming! How droll."
+Round 2: moneybee takes 9 damage.
+You lose 18 hit points
+Round 2: boolicious casts CLOBBER!
+Round 3: moneybee takes 13 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 5 (+1) (+1) (+1) (+1) (+1) (+1) damage? He never saw it coming! How droll."
+Round 3: moneybee takes 11 damage.
+You lose 18 hit points
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: moneybee takes 32 damage.
+Round 4: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 4 (+1) (+1) (+1) (+1) (+1) (+1) damage? He never saw it coming! How droll."
+Round 4: moneybee takes 10 damage.
+Round 4: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 286 Meat
+You gain 7 Muscleboundness
+You gain a Muscle point!
+You gain a Level!
+You gain 5 Wizardliness
+You gain 5 Smarm
+You gain a Moxie point!
+
+[67] Spooky Forest
+Encounter: warwelf
+Round 0: boolicious loses initiative!
+You lose 21 hit points
+Round 1: boolicious attacks!
+Round 2: warwelf takes 81 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 6 (+1) (+1) (+1) (+1) (+1) (+1) damage? He never saw it coming! How droll."
+Round 2: warwelf takes 12 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Heckel &amp; Jeckyl, the 4 lb. Fancypants Scarecrow
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 25 Meat
+You gain 4 Beefiness
+You gain 2 Mysteriousness
+You gain 1 Smarm
+
+[68] Spooky Forest
+Encounter: warwelf
+Round 0: boolicious wins initiative!
+You lose 21 hit points
+
+[69] Rest in Clan Sofa (3 turns)
+You gain 61 hit points
+You gain 16 Muscularity Points
+
+[69] Rest in Clan Sofa (1 turns)
+You gain 20 hit points
+
+[73] Spooky Forest
+Encounter: spooky vampire
+Round 0: boolicious wins initiative!
+You lose 21 hit points
+Round 1: boolicious casts CLOBBER!
+Round 2: spooky vampire takes 12 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 4 (+1) (+2) (+1) (+2) (+1) (+1) damage? He never saw it coming! How droll."
+Round 2: spooky vampire takes 12 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 10 Meat
+You gain 3 Beefiness
+You gain 4 Wizardliness
+
+[74] Spooky Forest
+Encounter: bar
+Round 0: boolicious wins initiative!
+You lose 21 hit points
+Round 1: boolicious casts CLOBBER!
+Round 2: bar takes 9 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 6 (+1) (+1) (+1) (+1) (+1) (+1) damage? It never saw it coming! How droll."
+Round 2: bar takes 12 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious casts CLOBBER!
+Round 3: bar takes 13 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 7 (+1) (+1) (+1) (+1) (+1) (+1) damage? It never saw it coming! How droll."
+Round 3: bar takes 13 damage.
+Round 3: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 31 Meat
+You acquire an item: bar skin
+You gain 3 Beefiness
+You gain 2 Magicalness
+You gain 2 Cheek
+
+[75] Spooky Forest
+Encounter: wolfman
+Round 0: boolicious loses initiative!
+You lose 21 hit points
+Round 1: boolicious casts CLOBBER!
+Round 2: wolfman takes 13 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 8 (+1) (+1) (+1) (+1) (+1) (+1) damage? He never saw it coming! How droll."
+Round 2: wolfman takes 14 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 24 Meat
+You gain 3 Beefiness
+You gain 1 Mysteriousness
+You gain 3 Chutzpah
+
+Visiting Torg, the Trainer
+
+guild.php?action=buyskill&skillid=7
+You learned a new skill: Tongue of the Otter
+
+[76] Spooky Forest
+Encounter: triffid
+Round 0: boolicious wins initiative!
+You lose 21 hit points
+
+cast 1 Tongue of the Otter
+You gain 17 hit points
+You lose an effect: Beaten Up
+
+cast 1 Tongue of the Otter
+You gain 17 hit points
+
+cast 1 Tongue of the Otter
+You gain 12 hit points
+
+cast 1 Tongue of the Otter
+You gain 20 hit points
+
+cast 1 Tongue of the Otter
+You gain 10 hit points
+
+[77] Rest in Clan Sofa (1 turns)
+You gain 21 hit points
+You gain 20 Muscularity Points
+
+[78] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/2: gain mosquito larva or spooky mushrooms, gain quest coin, get stats or fight a vampire
+choice.php?pwd&whichchoice=502&option=2
+Encounter: Consciousness of a Stream
+Took choice 505/1: gain mosquito larva then 3 spooky mushrooms
+choice.php?pwd&whichchoice=505&option=1
+You acquire an item: mosquito larva
+You gain 500 Meat
+
+[79] Bat Hole Entryway
+Encounter: regular old bat
+Round 0: boolicious wins initiative!
+You lose 21 hit points
+Round 1: boolicious attacks!
+Round 2: regular old bat takes 61 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 4 (+1) (+1) (+1) (+1) (+1) (+1) damage? It never saw it coming! How droll."
+Round 2: regular old bat takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 39 Meat
+You acquire an item: bat wing
+You gain 7 Beefiness
+You gain 2 Roguishness
+
+[80] Bat Hole Entryway
+Encounter: regular old bat
+Round 0: boolicious loses initiative!
+You lose 21 hit points
+Round 1: boolicious attacks!
+Round 2: regular old bat takes 55 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 5 (+1) (+1) (+1) (+1) (+1) (+1) damage? It never saw it coming! How droll."
+Round 2: regular old bat takes 11 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 49 Meat
+You gain 5 Beefiness
+You gain a Muscle point!
+You gain 2 Magicalness
+You gain 2 Chutzpah
+
+cast 1 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 5 Adventures)
