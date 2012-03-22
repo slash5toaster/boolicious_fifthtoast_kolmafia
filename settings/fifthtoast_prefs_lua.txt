@@ -5,7 +5,7 @@ ContactListFrame=424,256
 CouncilFrame=424,322,-1
 DescriptionFrame=731,201,-1
 FamiliarTrainingFrame=260,240
-KoLDesktop=330,134,-1
+KoLDesktop=377,121,-1
 LoginFrame=404,235,0
 MaximizerFrame=326,275
 ProfileFrame=424,322,-1
@@ -577,16 +577,16 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=2407
-currentFullness=23
+currentBountyItem=0
+currentFullness=24
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
 currentMojoFilters=0
-currentMood=apathetic
+currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=3
 currentWheelPosition=muscle
 customCombatScript=Nirvana
 cyrptAlcoveEvilness=0
@@ -594,7 +594,7 @@ cyrptCrannyEvilness=0
 cyrptNicheEvilness=0
 cyrptNookEvilness=0
 cyrptTotalEvilness=0
-dailyDungeonDone=false
+dailyDungeonDone=true
 dbNemesisSkill1=0
 dbNemesisSkill2=0
 dbNemesisSkill3=0
@@ -641,7 +641,7 @@ fratboysDefeated=0
 friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
-gourdItemCount=7
+gourdItemCount=8
 grimoire1Summons=0
 grimoire2Summons=0
 grimoire3Summons=0
@@ -662,29 +662,29 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Moxie Vacation
+lastAdventure=Ninja Snowmen
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion-1=confusion
-lastBangPotion819
-lastBangPotion820
-lastBangPotion821
-lastBangPotion822
-lastBangPotion823
-lastBangPotion824
-lastBangPotion825
-lastBangPotion826
-lastBangPotion827
+lastBangPotion819=sleepiness
+lastBangPotion820=mental acuity
+lastBangPotion821=detection
+lastBangPotion822=confusion
+lastBangPotion823=teleportitis
+lastBangPotion824=inebriety
+lastBangPotion825=healing
+lastBangPotion826=ettin strength
+lastBangPotion827=blessing
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=8
+lastBreakfast=9
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=8
-lastCounterDay=8
+lastCouncilVisit=9
+lastCounterDay=9
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -725,7 +725,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=An eXtreme Vacation
+lastEncounter=Ninja Snowman
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -792,7 +792,7 @@ lastTavernSquare=11
 lastTelescopeReset=-1
 lastTempleUnlock=1
 lastTowerClimb=0
-lastTr4pz0rQuest=-1
+lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=-1
 lastZapperWand=0
@@ -909,7 +909,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=1148\:The Shore loc\=* shore.php\:dinghy.gif
+relayCounters=1403\:The Shore loc\=* shore.php\:dinghy.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -922,7 +922,7 @@ semirareCounter=603
 semirareLocation=8-Bit Realm
 serverAddsCustomCombat=false
 sexChanges=0
-showGainsPerUnit=true
+showGainsPerUnit=false
 showTurnFreeOnly=false
 sideDefeated=neither
 sidequestArenaCompleted=none
@@ -952,11 +952,11 @@ skillLevel48=0
 slimelingFullness=0.0
 slimelingStacksDropped=0
 slimelingStacksDue=0
-sortByRoom=false
+sortByRoom=true
 spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
-spookyPuttyMonster
+spookyPuttyMonster=something <i>totally</i> unrecognizable
 stationaryButton1=11000
 stationaryButton2=11001
 stationaryButton3=11011
