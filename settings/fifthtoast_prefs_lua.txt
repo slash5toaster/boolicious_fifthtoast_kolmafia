@@ -578,7 +578,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2407
-currentFullness=22
+currentFullness=23
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -648,7 +648,7 @@ grimoire3Summons=0
 guardTurtlesFreed=0
 guyMadeOfBeesCount=0
 guyMadeOfBeesDefeated=false
-hermitHax0red=false
+hermitHax0red=true
 heroDonationBoris=500
 heroDonationJarlsberg=0
 heroDonationSneakyPete=0
@@ -873,7 +873,7 @@ questL05Goblin=finished
 questL06Friar=finished
 questL07Cyrptic=finished
 questL08Trapper=finished
-questL09Lol=started
+questL09Lol=step1
 questL10Garbage=unstarted
 questL11MacGuffin=unstarted
 questL11Manor=unstarted
