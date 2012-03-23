@@ -1,0 +1,412 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 23, 2012 - Porktober 3
+
+Ronald: first quarter
+Grimace: waning gibbous
+Mini-moon: in back, near Ronald
+
+Halloween: 5 days
+Feast of Boris: 12 days
+Oyster Egg Day: 16 days
+Yuletide: 17 days
+Festival of Jarlsberg: 22 days
+Valentine's Day: 33 days
+St. Sneaky Pete's Day: 40 days
+El Dia De Los Muertos Borrachos: 55 days
+Generic Summer Holiday: 64 days
+Dependence Day: 73 days
+Arrrbor Day: 81 days
+Lab&oacute;r Day: 91 days
+
+
+2 days until Mysticism.
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 10
+HP: 231 / 237
+MP: 57 / 79
+
+Mus: 123 (87), tnp = 83
+Mys: 79 (69), tnp = 71
+Mox: 67 (60), tnp = 86
+
+Advs: 38
+Meat: 2,393
+Drunk: 4
+
+
+ > equipment
+
+Hat: miner's helmet
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: 1337 7r0uZ0RZ
+
+Acc. 1: hamethyst ring
+Acc. 2: imp unity ring
+Acc. 3: Boris's ring
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Stomach of Steel
+
+Avatar Of Boris
+ - Big Boned
+ - Broadside
+ - Cleave
+ - Demand Sandwich
+ - Ferocity
+ - Intimidating Bellow
+ - Laugh It Off
+ - Legendary Bravado
+ - Legendary Girth
+ - Mighty Axing
+ - Song of the Glorious Lunch
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Brother Flying Burrito's Blessing (6)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +55.17%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 6 worthless pieces of yellow glass
+
+[1493] Dungeons of Doom
+Encounter: Ouch!  You bump into a door!
+Took choice 25/3: skip adventure
+choice.php?pwd&whichchoice=25&option=3
+
+[1493] Dungeons of Doom
+Encounter: The Return of the Dishwasher
+You gain 24 Enchantedness
+
+[1494] Dungeons of Doom
+Encounter: swarm of killer bees
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: swarm of killer bees takes 108 damage.
+After Battle: fifthtoast wins the fight!
+You gain 10 Strengthliness
+You gain 4 Enchantedness
+You gain 2 Cheek
+
+[1495] Dungeons of Doom
+Encounter: large kobold
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: large kobold takes 134 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: small box
+You acquire an item: worthless piece of yellow glass
+You gain 10 Fortitude
+You gain 3 Enchantedness
+You gain 3 Roguishness
+
+use 1 small box
+You acquire an item: cloudy potion
+You acquire dark potion (2)
+You acquire an item: murky potion
+
+multiuse.php?passitem=826&pwd=e86ec3cb967ad75b2cbabc1c3bbfb331
+
+use 1 dark potion
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+[1496] Dungeons of Doom
+Encounter: The Hunger
+You gain 21 Chutzpah
+
+[1497] Dungeons of Doom
+Encounter: large kobold
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: large kobold takes 121 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: ring of aggravate monster
+You acquire an item: small box
+You acquire an item: worthless piece of yellow glass
+You gain 7 Fortitude
+You gain 4 Mysteriousness
+You gain 5 Roguishness
+
+use 1 small box
+You acquire bubbly potion (2)
+You acquire an item: dark potion of ettin strength
+
+multiuse.php?passitem=821&pwd=e86ec3cb967ad75b2cbabc1c3bbfb331
+
+use 1 bubbly potion
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+[1498] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: quantum mechanic takes 123 damage.
+Round 1: fifthtoast wins the fight!
+You gain 10 Beefiness
+You gain 4 Wizardliness
+You gain 4 Sarcasm
+
+[1499] Dungeons of Doom
+Encounter: mind flayer
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: mind flayer takes 143 damage.
+Round 1: fifthtoast wins the fight!
+You gain 11 Muscleboundness
+You gain 3 Mysteriousness
+You gain 3 Sarcasm
+
+[1500] Dungeons of Doom
+Encounter: acid blob
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: acid blob takes 117 damage.
+You acquire an effect: Corroded Weapon (duration: 5 Adventures)
+Round 1: fifthtoast wins the fight!
+You acquire an item: magic whistle
+You gain 4 Strengthliness
+You gain 4 Mysteriousness
+You gain 9 Roguishness
+
+[1501] Dungeons of Doom
+Encounter: The Hunger
+You gain 21 Roguishness
+
+[1502] Dungeons of Doom
+Encounter: A Dash of Boulder
+You gain 21 Fortitude
+
+[1503] Dungeons of Doom
+Encounter: mind flayer
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: mind flayer takes 129 damage.
+After Battle: fifthtoast wins the fight!
+You acquire an item: mind flayer corpse
+You acquire an item: large box
+You gain 10 Muscleboundness
+You gain a Muscle point!
+You gain 4 Enchantedness
+You gain 3 Roguishness
+
+use 1 large box
+You acquire an item: milky potion
+You acquire an item: swirly potion
+You acquire an item: smoky potion
+You acquire an item: fizzy potion
+You acquire murky potion (2)
+
+multiuse.php?passitem=819&pwd=e86ec3cb967ad75b2cbabc1c3bbfb331
+
+use 1 milky potion
+You acquire an effect: Sleepy (duration: 20 Adventures)
+
+[1504] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: quantum mechanic takes 99 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: large box
+You gain 8 Strengthliness
+You gain 5 Mysteriousness
+You gain 5 Roguishness
+
+use 1 large box
+You acquire an item: milky potion of sleepiness
+You acquire an item: bubbly potion of detection
+You acquire an item: smoky potion
+You acquire an item: dark potion of ettin strength
+You acquire an item: murky potion
+
+multiuse.php?passitem=822&pwd=e86ec3cb967ad75b2cbabc1c3bbfb331
+
+use 1 smoky potion
+You acquire an effect: Confused (duration: 20 Adventures)
+
+[1505] Dungeons of Doom
+Encounter: The Return of the Dishwasher
+You gain 23 Mysteriousness
+You gain a Mysticality point!
+
+[1506] Dungeons of Doom
+Encounter: swarm of killer bees
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: swarm of killer bees takes 72 damage.
+You lose 9 hit points
+After Battle: unspecified macro action?
+After Battle: swarm of killer bees takes 82 damage.
+After Battle: fifthtoast wins the fight!
+You acquire an item: baby killer bee
+You acquire an item: royal jelly
+You gain 11 Strengthliness
+You gain 2 Mysteriousness
+You gain 4 Smarm
+
+[1508] Dungeons of Doom
+Encounter: mind flayer
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: mind flayer takes 81 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: mind flayer corpse
+You gain 7 Beefiness
+You gain 4 Mysteriousness
+You gain 6 Roguishness
+You gain a Moxie point!
+
+[1508] Dungeons of Doom
+Encounter: large kobold
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: large kobold takes 91 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: worthless piece of yellow glass
+You gain 8 Fortitude
+You gain 5 Wizardliness
+You gain 3 Chutzpah
+
+[1509] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: quantum mechanic takes 76 damage.
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: quantum mechanic takes 70 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: vorpal blade
+You acquire an item: large box
+You gain 7 Fortitude
+You gain 4 Magicalness
+You gain 6 Chutzpah
+
+use 1 large box
+You acquire an item: milky potion of sleepiness
+You acquire bubbly potion of detection (2)
+You acquire an item: smoky potion of confusion
+You acquire an item: effervescent potion
+You acquire an item: fizzy potion
+
+[1510] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: quantum mechanic takes 87 damage.
+Round 1: fifthtoast wins the fight!
+You gain 9 Strongness
+You gain 3 Mysteriousness
+You gain 5 Cheek
+
+[1511] Dungeons of Doom
+Encounter: acid blob
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: acid blob takes 89 damage.
+You acquire an effect: Corroded Weapon (duration: 5 Adventures)
+Round 1: fifthtoast wins the fight!
+You gain 4 Muscleboundness
+You gain 8 Magicalness
+You gain 5 Sarcasm
+
+[1512] Dungeons of Doom
+Encounter: The Hunger
+You gain 21 Smarm
+
+[1513] Dungeons of Doom
+Encounter: Ouch!  You bump into a door!
+Took choice 25/3: skip adventure
+choice.php?pwd&whichchoice=25&option=3
+
+[1513] Dungeons of Doom
+Encounter: Ouch!  You bump into a door!
+Took choice 25/3: skip adventure
+choice.php?pwd&whichchoice=25&option=3
+
+[1513] Dungeons of Doom
+Encounter: mind flayer
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: mind flayer takes 79 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: large box
+You gain 4 Fortitude
+You gain 7 Mysteriousness
+You gain 6 Sarcasm
+
+use 1 large box
+You acquire an item: swirly potion
+You acquire an item: bubbly potion of detection
+You acquire an item: cloudy potion
+You acquire an item: effervescent potion
+You acquire fizzy potion (2)
+
+multiuse.php?passitem=824&pwd=e86ec3cb967ad75b2cbabc1c3bbfb331
+
+use 1 effervescent potion
+You gain 1 Drunkenness
+
+use 1 cloudy potion
+You acquire an effect: Teleportitis (duration: 10 Adventures)
+
+use 1 fizzy potion
+You gain 15 hit points
+You gain 15 Muscularity Points
+
+use 1 murky potion
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+use 1 meat globe
+You gain 100 Muscleboundness
+You gain 110 Wizardliness
+You gain a Mysticality point!
+You gain 100 Roguishness
+You gain a Moxie point!
+You gain 1,500 Meat
