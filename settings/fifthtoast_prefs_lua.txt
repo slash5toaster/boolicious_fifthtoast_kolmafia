@@ -6,7 +6,7 @@ CouncilFrame=424,322,-1
 DescriptionFrame=731,201,-1
 FamiliarTrainingFrame=260,240
 KoLDesktop=377,121,-1
-LoginFrame=404,235,0
+LoginFrame=404,276,0
 MaximizerFrame=326,275
 ProfileFrame=424,322,-1
 RequestFrame=337,247,-1
@@ -205,6 +205,7 @@ camerasUsed=0
 carboLoading=0
 cellarLayout=0
 charitableDonations=0
+chatLiterate=false
 chatbotScript
 chatbotScriptExecuted=false
 chefTurnsUsed=6
@@ -578,7 +579,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=17
+currentFullness=19
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -586,7 +587,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=2
+currentSpleenUse=0
 currentWheelPosition=muscle
 customCombatScript=Nirvana
 cyrptAlcoveEvilness=0
@@ -638,7 +639,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=8
@@ -662,7 +663,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Knob Shaft
+lastAdventure=Cobb's Knob Treasury
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion-1=confusion
@@ -678,13 +679,13 @@ lastBangPotion827=blessing
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=10
+lastBreakfast=11
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=9
-lastCounterDay=10
+lastCouncilVisit=10
+lastCounterDay=11
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -725,7 +726,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=ghost miner
+lastEncounter=Finally, the Payoff
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -839,7 +840,7 @@ pastamancerOrbedExperience=0
 pastamancerOrbedName
 pastamancerOrbedType
 pendingMapReflections=0
-photocopyMonster
+photocopyMonster=monster
 plantingDate
 plantingDay=-1
 plantingLength
@@ -874,7 +875,7 @@ questL06Friar=finished
 questL07Cyrptic=finished
 questL08Trapper=finished
 questL09Lol=finished
-questL10Garbage=unstarted
+questL10Garbage=started
 questL11MacGuffin=unstarted
 questL11Manor=unstarted
 questL11Palindome=unstarted
