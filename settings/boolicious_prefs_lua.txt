@@ -208,7 +208,7 @@ barrelLayout=?????????
 bartenderTurnsUsed=33
 basementMallPrices=1
 battleAction=attack with weapon
-beeCounter=66
+beeCounter=129
 betweenBattleScript
 birdformCold=0
 birdformHot=0
@@ -606,8 +606,8 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=0
-currentFullness=0
+currentBountyItem=2100
+currentFullness=11
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -615,7 +615,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=9
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -671,7 +671,7 @@ fratboysDefeated=0
 friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=10
-gourdItemCount=6
+gourdItemCount=5
 grimoire1Summons=0
 grimoire2Summons=0
 grimoire3Summons=0
@@ -708,13 +708,13 @@ lastBangPotion827
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=9
+lastBreakfast=10
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=4
-lastCounterDay=9
+lastCouncilVisit=5
+lastCounterDay=10
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=0
@@ -755,7 +755,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=-1
-lastEncounter=regular old bat
+lastEncounter=albino bat
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -818,8 +818,8 @@ lastStoneSphere2175
 lastStoneSphere2176
 lastStoneSphere2177
 lastStoneSphereReset=2
-lastTavernAscension=0
-lastTavernSquare=0
+lastTavernAscension=2
+lastTavernSquare=21
 lastTelescopeReset=2
 lastTempleUnlock=1
 lastTowerClimb=1
@@ -827,7 +827,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=2
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=3
+libramSummons=5
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -884,22 +884,22 @@ promptAboutCrafting=1
 pyramidBombUsed=true
 pyramidPosition=2
 questF01Primordial=unstarted
-questF01Primordial, Primordial Fear=unstarted
+questF01Primordial,=Primordial Fear\=unstarted
 questF02Hyboria=unstarted
 questF03Future=unstarted
 questF04Elves=unstarted
-questG01Meatcar=unstarted
+questG01Meatcar=started
 questG02Whitecastle=unstarted
 questG03Ego=unstarted
-questG04Nemesis=unstarted
+questG04Nemesis=started
 questG05Dark=unstarted
 questG06Delivery=unstarted
 questI01Scapegoat=unstarted
 questI02Beat=unstarted
 questI02Beat =unstarted
 questL02Larva=finished
-questL03Rat=unstarted
-questL04Bat=unstarted
+questL03Rat=finished
+questL04Bat=started
 questL05Goblin=unstarted
 questL06Friar=unstarted
 questL07Cyrptic=unstarted
@@ -913,12 +913,12 @@ questL11Pyramid=unstarted
 questL11Worship=unstarted
 questL12War=unstarted
 questL13Final=unstarted
-questM01Untinker=unstarted
+questM01Untinker=finished
 questM02Artist=finished
 questM03Bugbear=unstarted
-questM04Galaktic=unstarted
+questM04Galaktic=started
 questM05Toot=unstarted
-questM06Gourd=unstarted
+questM06Gourd=started
 questM07Hammer=unstarted
 questM08Baker=unstarted
 questM09Rocks=unstarted
@@ -940,7 +940,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=80\:Bee window begin loc\=*\:lparen.gif\:85\:Bee window end loc\=*\:rparen.gif
+relayCounters=143\:Bee window begin loc\=*\:lparen.gif\:148\:Bee window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -990,7 +990,7 @@ spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
 stationaryButton1=1022
 stationaryButton2=4009
-stationaryButton3
+stationaryButton3=1003
 stationaryButton4
 stationaryButton5
 styxPixieVisited=false
@@ -1001,7 +1001,7 @@ sugarCounter4181=0
 sugarCounter4182=0
 sugarCounter4183=0
 sugarCounter4191=0
-tavernLayout=0000000000000000000000000
+tavernLayout=6511111111111511111113251
 telescope1
 telescope2
 telescope3
@@ -1014,7 +1014,7 @@ telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=0
+tomeSummons=3
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
