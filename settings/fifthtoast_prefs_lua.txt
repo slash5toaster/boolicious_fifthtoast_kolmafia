@@ -15,8 +15,8 @@ FamiliarTrainingFrame=260,240
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=0,22,-1
-LoginFrame=452,163,0
+KoLDesktop=222,132,-1
+LoginFrame=404,276,0
 MailboxFrame=289,310,1
 MaximizerFrame=326,275
 MeatManageFrame=475,375
@@ -56,7 +56,7 @@ _companionshipCasts=0
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=0
+_demandSandwich=3
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -608,7 +608,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=1
+currentFullness=29
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -679,7 +679,7 @@ grimoire3Summons=0
 guardTurtlesFreed=0
 guyMadeOfBeesCount=0
 guyMadeOfBeesDefeated=false
-hermitHax0red=false
+hermitHax0red=true
 heroDonationBoris=11500
 heroDonationJarlsberg=0
 heroDonationSneakyPete=0
@@ -692,8 +692,8 @@ hpAutoRecoveryTarget=1.0
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=false
 kingLiberatedScript
-knownAscensions=2
-lastAdventure=Guano Junction
+knownAscensions=1
+lastAdventure=Dungeons of Doom
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -703,8 +703,8 @@ lastBangPotion820
 lastBangPotion821
 lastBangPotion822
 lastBangPotion823
-lastBangPotion824
-lastBangPotion825
+lastBangPotion824=inebriety
+lastBangPotion825=healing
 lastBangPotion826
 lastBangPotion827
 lastBangPotionReset=2
@@ -757,7 +757,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=moneybee
+lastEncounter=A Dash of Boulder
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -768,11 +768,11 @@ lastHermitReset=2
 lastHiddenCityAscension=0
 lastHippyCall=-1
 lastKingLiberation=2
-lastLouvreMap=2
+lastLouvreMap=1
 lastMessageCount=15
 lastMessageId
 lastMiningReset=1
-lastNemesisReset=2
+lastNemesisReset=1
 lastPaperStrip3144=rough\:BLAG\:careful
 lastPaperStrip4138=dangly\:THWAIT\:sinusoidal
 lastPaperStrip4139=wibbly\:FOO\:rough
@@ -826,10 +826,10 @@ lastTelescopeReset=2
 lastTempleUnlock=1
 lastTowerClimb=0
 lastTr4pz0rQuest=1
-lastVioletFogMap=2
+lastVioletFogMap=1
 lastWuTangDefeated=1
 lastZapperWand=0
-libramSummons=2
+libramSummons=0
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=6
@@ -902,7 +902,7 @@ questI02Beat=unstarted
 questI02Beat =unstarted
 questL02Larva=unstarted
 questL03Rat=unstarted
-questL04Bat=started
+questL04Bat=unstarted
 questL05Goblin=unstarted
 questL06Friar=unstarted
 questL07Cyrptic=unstarted
@@ -943,7 +943,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=195\:Bee window begin loc\=*\:lparen.gif\:200\:Bee window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -965,7 +965,7 @@ sidequestJunkyardCompleted=none
 sidequestLighthouseCompleted=none
 sidequestNunsCompleted=none
 sidequestOrchardCompleted=none
-singleFamiliarRun=152
+singleFamiliarRun=-1
 skateParkStatus=war
 skillBurn1019=-100
 skillBurn3=-100
@@ -991,7 +991,7 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster
-stationaryButton1=4009
+stationaryButton1=11000
 stationaryButton2
 stationaryButton3
 stationaryButton4
@@ -1017,7 +1017,7 @@ telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=3
+tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
