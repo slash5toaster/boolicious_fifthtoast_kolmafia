@@ -11,7 +11,7 @@ MaximizerFrame=326,275
 ProfileFrame=424,322,-1
 RequestFrame=337,247,-1
 RequestSynchFrame=249,66,-1
-TabbedChatFrame=780,79,0
+TabbedChatFrame=469,79,0
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -579,7 +579,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=19
+currentFullness=30
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -587,7 +587,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=1
 currentWheelPosition=muscle
 customCombatScript=Nirvana
 cyrptAlcoveEvilness=0
@@ -663,7 +663,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Cobb's Knob Treasury
+lastAdventure=Mysticality Vacation
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion-1=confusion
@@ -726,7 +726,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=Finally, the Payoff
+lastEncounter=A Tubular Vacation
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -910,7 +910,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=1653\:The Shore loc\=* shore.php\:dinghy.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
