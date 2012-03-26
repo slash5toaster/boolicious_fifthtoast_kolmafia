@@ -33,7 +33,7 @@ TabbedChatFrame=770,99,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
-_allYearSucker=false
+_allYearSucker=true
 _aprilShower=false
 _astralDrops=0
 _badlyRomanticArrows=0
@@ -204,11 +204,11 @@ badMoonEncounter48=false
 ballpitBonus=100
 bankedKarma=11
 barrelGoal=1
-barrelLayout=?????????
+barrelLayout=SR???????
 bartenderTurnsUsed=33
 basementMallPrices=1
 battleAction=attack with weapon
-beeCounter=129
+beeCounter=267
 betweenBattleScript
 birdformCold=0
 birdformHot=0
@@ -234,7 +234,7 @@ camerasUsed=0
 carboLoading=0
 cellarLayout=0
 charitableDonations=0
-chatLiterate=false
+chatLiterate=true
 chatbotScript
 chatbotScriptExecuted=false
 chefTurnsUsed=31
@@ -608,7 +608,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2100
-currentFullness=0
+currentFullness=2
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -616,7 +616,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=2
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -693,7 +693,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=Bat Hole Entryway
+lastAdventure=Dark Elbow of the Woods
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -707,15 +707,15 @@ lastBangPotion825
 lastBangPotion826
 lastBangPotion827
 lastBangPotionReset=2
-lastBarrelSmashed=0
+lastBarrelSmashed=4
 lastBattlefieldReset=2
-lastBreakfast=11
+lastBreakfast=12
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=5
-lastCounterDay=11
+lastCouncilVisit=6
+lastCounterDay=12
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=0
@@ -756,7 +756,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=-1
-lastEncounter=albino bat
+lastEncounter=bee swarm
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -828,7 +828,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=2
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=5
+libramSummons=4
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -860,7 +860,7 @@ nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=sphere
 olfactedMonster=wabbit
-oscusSodaUsed=true
+oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=0
@@ -900,7 +900,7 @@ questI02Beat=unstarted
 questI02Beat =unstarted
 questL02Larva=finished
 questL03Rat=finished
-questL04Bat=step1
+questL04Bat=finished
 questL05Goblin=started
 questL06Friar=started
 questL07Cyrptic=unstarted
@@ -941,7 +941,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=143\:Bee window begin loc\=*\:lparen.gif\:148\:Bee window end loc\=*\:rparen.gif
+relayCounters=281\:Bee window begin loc\=*\:lparen.gif\:286\:Bee window end loc\=*\:rparen.gif\:413\:Semirare window begin\:lparen.gif\:453\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -950,8 +950,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=0
-semirareLocation=Cobb's Knob Treasury
+semirareCounter=253
+semirareLocation=Dark Neck of the Woods
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
@@ -1010,12 +1010,12 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=false
+telescopeLookedHigh=true
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=0
+tomeSummons=3
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
