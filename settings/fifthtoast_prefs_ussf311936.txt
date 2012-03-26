@@ -1,15 +1,15 @@
-AdventureFrame=465,107,0
+AdventureFrame=1027,44,0
 ContactListFrame=2663,343
 CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
 KoLDesktop=185,49,-1
 LoginFrame=2645,365,0
-MaximizerFrame=2333,376
+MaximizerFrame=1039,811
 ProfileFrame=2662,409,-1
 RequestFrame=2575,334,-1
 RequestSynchFrame=2575,334,-1
-TabbedChatFrame=1091,165,0
+TabbedChatFrame=2063,12,0
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -35,7 +35,7 @@ _companionshipCasts=0
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=0
+_demandSandwich=3
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -77,6 +77,7 @@ _piePartsCount=0
 _poisonArrows=0
 _poolGames=0
 _precisionCasts=0
+_raindohCopiesMade=0
 _resolutionAdv=0
 _riftletAdv=0
 _romanticFightsLeft=0
@@ -545,6 +546,11 @@ choiceAdventure574=1
 choiceAdventure576=1
 choiceAdventure577=1
 choiceAdventure578=0
+choiceAdventure579=0
+choiceAdventure581=0
+choiceAdventure582=0
+choiceAdventure583=1
+choiceAdventure584=0
 choiceAdventure6=1
 choiceAdventure7=1
 choiceAdventure71=1
@@ -576,8 +582,8 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=2408
-currentFullness=0
+currentBountyItem=0
+currentFullness=30
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -661,7 +667,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Dungeons of Doom
+lastAdventure=Barrrney's Barrr
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=sleepiness
@@ -676,13 +682,13 @@ lastBangPotion827=blessing
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=10
+lastBreakfast=13
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=9
-lastCounterDay=10
+lastCounterDay=13
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -723,7 +729,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=mind flayer
+lastEncounter=tipsy pirate
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -872,7 +878,7 @@ questL06Friar=finished
 questL07Cyrptic=finished
 questL08Trapper=finished
 questL09Lol=finished
-questL10Garbage=unstarted
+questL10Garbage=finished
 questL11MacGuffin=unstarted
 questL11Manor=unstarted
 questL11Palindome=unstarted
@@ -891,7 +897,7 @@ questM08Baker=finished
 questM09Rocks=finished
 questM10Azazel=started
 questM11Postal=unstarted
-questM12Pirate=unstarted
+questM12Pirate=started
 questM13Escape=finished
 questM14Bounty=unstarted
 questS01OldGuy=unstarted
@@ -907,7 +913,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=1861\:Semirare window begin\:lparen.gif\:1901\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -916,8 +922,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=1136
-semirareLocation=Orc Chasm
+semirareCounter=1701
+semirareLocation=South of the Border
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
