@@ -33,7 +33,7 @@ TabbedChatFrame=770,99,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
-_allYearSucker=true
+_allYearSucker=false
 _aprilShower=false
 _astralDrops=0
 _badlyRomanticArrows=0
@@ -98,6 +98,7 @@ _piePartsCount=0
 _poisonArrows=0
 _poolGames=0
 _precisionCasts=0
+_raindohCopiesMade=0
 _resolutionAdv=0
 _riftletAdv=0
 _romanticFightsLeft=0
@@ -204,7 +205,7 @@ badMoonEncounter48=false
 ballpitBonus=100
 bankedKarma=11
 barrelGoal=1
-barrelLayout=SR???????
+barrelLayout=?????????
 bartenderTurnsUsed=33
 basementMallPrices=1
 battleAction=attack with weapon
@@ -576,6 +577,11 @@ choiceAdventure574=1
 choiceAdventure576=1
 choiceAdventure577=1
 choiceAdventure578=0
+choiceAdventure579=0
+choiceAdventure581=0
+choiceAdventure582=0
+choiceAdventure583=1
+choiceAdventure584=0
 choiceAdventure6=1
 choiceAdventure7=1
 choiceAdventure71=1
@@ -608,7 +614,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2100
-currentFullness=2
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -616,7 +622,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=2
+currentSpleenUse=0
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -707,15 +713,15 @@ lastBangPotion825
 lastBangPotion826
 lastBangPotion827
 lastBangPotionReset=2
-lastBarrelSmashed=4
+lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=12
+lastBreakfast=13
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=6
-lastCounterDay=12
+lastCounterDay=13
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=0
@@ -828,7 +834,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=2
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=4
+libramSummons=6
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -860,7 +866,7 @@ nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=sphere
 olfactedMonster=wabbit
-oscusSodaUsed=false
+oscusSodaUsed=true
 outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=0
@@ -902,8 +908,8 @@ questL02Larva=finished
 questL03Rat=finished
 questL04Bat=finished
 questL05Goblin=started
-questL06Friar=started
-questL07Cyrptic=unstarted
+questL06Friar=finished
+questL07Cyrptic=started
 questL08Trapper=unstarted
 questL09Lol=unstarted
 questL10Garbage=unstarted
@@ -919,10 +925,10 @@ questM02Artist=finished
 questM03Bugbear=unstarted
 questM04Galaktic=started
 questM05Toot=unstarted
-questM06Gourd=started
+questM06Gourd=finished
 questM07Hammer=unstarted
 questM08Baker=unstarted
-questM09Rocks=unstarted
+questM09Rocks=finished
 questM10Azazel=unstarted
 questM11Postal=unstarted
 questM12Pirate=unstarted
@@ -1010,12 +1016,12 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=true
+telescopeLookedHigh=false
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=3
+tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true

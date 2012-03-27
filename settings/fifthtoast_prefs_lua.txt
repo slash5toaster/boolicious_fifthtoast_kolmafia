@@ -56,7 +56,7 @@ _companionshipCasts=0
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=3
+_demandSandwich=0
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -98,6 +98,7 @@ _piePartsCount=0
 _poisonArrows=0
 _poolGames=0
 _precisionCasts=0
+_raindohCopiesMade=0
 _resolutionAdv=0
 _riftletAdv=0
 _romanticFightsLeft=0
@@ -576,6 +577,11 @@ choiceAdventure574=1
 choiceAdventure576=1
 choiceAdventure577=1
 choiceAdventure578=0
+choiceAdventure579=0
+choiceAdventure581=0
+choiceAdventure582=0
+choiceAdventure583=1
+choiceAdventure584=0
 choiceAdventure6=1
 choiceAdventure7=1
 choiceAdventure71=1
@@ -608,7 +614,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=30
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -669,7 +675,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=5
@@ -710,13 +716,13 @@ lastBangPotion827
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=12
+lastBreakfast=13
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=10
-lastCounterDay=12
+lastCounterDay=13
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -926,7 +932,7 @@ questM08Baker=finished
 questM09Rocks=finished
 questM10Azazel=finished
 questM11Postal=unstarted
-questM12Pirate=unstarted
+questM12Pirate=started
 questM13Escape=finished
 questM14Bounty=unstarted
 questS01OldGuy=unstarted
@@ -1011,7 +1017,7 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=true
+telescopeLookedHigh=false
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
