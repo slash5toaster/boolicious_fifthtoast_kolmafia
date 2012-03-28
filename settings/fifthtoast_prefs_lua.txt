@@ -614,7 +614,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=23
+currentFullness=21
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -622,7 +622,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=2
+currentSpleenUse=0
 currentWheelPosition=moxie
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -675,7 +675,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=5
@@ -699,30 +699,30 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Frat House
+lastAdventure=Poop Deck
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
 lastBangPotion-1=confusion
-lastBangPotion819
-lastBangPotion820
+lastBangPotion819=sleepiness
+lastBangPotion820=mental acuity
 lastBangPotion821=detection
-lastBangPotion822
-lastBangPotion823
+lastBangPotion822=confusion
+lastBangPotion823=teleportitis
 lastBangPotion824=inebriety
 lastBangPotion825=healing
 lastBangPotion826=ettin strength
-lastBangPotion827
+lastBangPotion827=blessing
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=14
+lastBreakfast=15
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=11
-lastCounterDay=14
+lastCounterDay=15
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -763,7 +763,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=Lambda Upsilon Chi Kappa
+lastEncounter=wacky pirate
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -775,6 +775,7 @@ lastHiddenCityAscension=0
 lastHippyCall=-1
 lastKingLiberation=2
 lastLouvreMap=1
+lastManorUnlock=-1
 lastMessageCount=15
 lastMessageId
 lastMiningReset=1
@@ -791,14 +792,14 @@ lastPaperStripReset=1
 lastPastamancerGhostReset=2
 lastPirateEphemera=pirate brochure
 lastPirateEphemeraReset=1
-lastPirateInsult1=false
-lastPirateInsult2=false
-lastPirateInsult3=false
-lastPirateInsult4=false
-lastPirateInsult5=false
-lastPirateInsult6=false
-lastPirateInsult7=false
-lastPirateInsult8=false
+lastPirateInsult1=true
+lastPirateInsult2=true
+lastPirateInsult3=true
+lastPirateInsult4=true
+lastPirateInsult5=true
+lastPirateInsult6=true
+lastPirateInsult7=true
+lastPirateInsult8=true
 lastPirateInsultReset=2
 lastPorkoBoard
 lastPorkoExpected=0.84\:0.70\:0.55\:0.12\:0.12\:0.12\:0.56\:2.50\:2.50
@@ -896,6 +897,7 @@ questF01Primordial,=Primordial Fear\=unstarted
 questF02Hyboria=unstarted
 questF03Future=unstarted
 questF04Elves=unstarted
+questF05Clancy=unstarted
 questG01Meatcar=unstarted
 questG02Whitecastle=unstarted
 questG03Ego=unstarted
@@ -914,11 +916,11 @@ questL07Cyrptic=finished
 questL08Trapper=finished
 questL09Lol=finished
 questL10Garbage=finished
-questL11MacGuffin=started
-questL11Manor=unstarted
-questL11Palindome=unstarted
-questL11Pyramid=unstarted
-questL11Worship=unstarted
+questL11MacGuffin=step2
+questL11Manor=started
+questL11Palindome=started
+questL11Pyramid=started
+questL11Worship=started
 questL12War=unstarted
 questL13Final=unstarted
 questM01Untinker=finished
@@ -932,7 +934,7 @@ questM08Baker=finished
 questM09Rocks=finished
 questM10Azazel=finished
 questM11Postal=unstarted
-questM12Pirate=step2
+questM12Pirate=finished
 questM13Escape=finished
 questM14Bounty=unstarted
 questS01OldGuy=unstarted
@@ -1017,7 +1019,7 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=false
+telescopeLookedHigh=true
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
