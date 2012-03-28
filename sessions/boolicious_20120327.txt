@@ -691,6 +691,120 @@ You gain a Mysticality point!
 You gain 3 Cheek
 
 add to closet: 1 bar skin
+<<<<<<< .mine
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 27, 2012 - Porktober 7
+
+Ronald: third quarter
+Grimace: waning crescent
+Mini-moon: far right
+
+Halloween: tomorrow
+Feast of Boris: 8 days
+Oyster Egg Day: 12 days
+Yuletide: 13 days
+Festival of Jarlsberg: 18 days
+Valentine's Day: 29 days
+St. Sneaky Pete's Day: 36 days
+El Dia De Los Muertos Borrachos: 51 days
+Generic Summer Holiday: 60 days
+Dependence Day: 69 days
+Arrrbor Day: 77 days
+Lab&oacute;r Day: 87 days
+
+
+Moxie bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 7
+HP: 15 / 176
+MP: 37 / 69
+
+Mus: 114 (47), tnp = 72
+Mys: 69 (30), tnp = 17
+Mox: 70 (29), tnp = 11
+
+Advs: 144
+Meat: 20,881
+Drunk: 0
+
+
+ > equipment
+
+Hat: Dolphin King's crown
+Weapon: sword of static
+Off-hand: giant clay ashtray
+Shirt: cane-mail shirt
+Pants: astral trousers
+
+Acc. 1: Mr. Accessory
+Acc. 2: Mr. Accessory
+Acc. 3: fudge pocket square
+
+Pet: Fancypants Scarecrow (15 lbs)
+Item: leotarrrd
+
+ > skills
+
+Seal Clubber
+ - Claws of the Otter
+ - Clobber
+ - Hide of the Otter
+ - Seal Clubbing Frenzy
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Seal Clubbing Frenzy (5)
+Gonna Get You, Sucker (5)
+Starry-Eyed (10)
+Fondid (23)
+Filled with Magic (53)
+
+
+ > modifiers
+
+ML: +35
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +7.11
+Meat: +55.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 5 Summon Resolutions
+You acquire an item: resolution: be wealthier
+=======
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
                Player Snapshot
@@ -1009,3 +1123,4 @@ pull: 1 dwarvish war kilt
 pull: 1 1337 7r0uZ0RZ
 
 pull: 1 Ol' Scratch's ol' britches
+>>>>>>> .r696

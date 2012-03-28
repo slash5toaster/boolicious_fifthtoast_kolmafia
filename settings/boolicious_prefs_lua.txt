@@ -715,13 +715,13 @@ lastBangPotion827
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=13
+lastBreakfast=14
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=6
-lastCounterDay=13
+lastCounterDay=14
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=0
@@ -834,7 +834,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=2
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=6
+libramSummons=5
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -866,7 +866,7 @@ nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=sphere
 olfactedMonster=wabbit
-oscusSodaUsed=true
+oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=0
