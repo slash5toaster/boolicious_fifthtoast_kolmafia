@@ -260,3 +260,1002 @@ You acquire an effect: Mystic Pickleness (duration: 5 Adventures)
 
 cast 3 Demand Sandwich
 You acquire corned-beef Reuben (3)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 29, 2012 - Boozember 1
+
+Ronald: new moon
+Grimace: new moon
+Mini-moon: behind Ronald
+
+Feast of Boris: 6 days
+Oyster Egg Day: 10 days
+Yuletide: 11 days
+Festival of Jarlsberg: 16 days
+Valentine's Day: 27 days
+St. Sneaky Pete's Day: 34 days
+El Dia De Los Muertos Borrachos: 49 days
+Generic Summer Holiday: 58 days
+Dependence Day: 67 days
+Arrrbor Day: 75 days
+Lab&oacute;r Day: 85 days
+Halloween: 95 days
+
+
+Moxie bonus today and yesterday.
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 11
+HP: 181 / 300
+MP: 93 / 123
+
+Mus: 158 (113), tnp = 217
+Mys: 123 (91), tnp = 33
+Mox: 100 (83), tnp = 149
+
+Advs: 149
+Meat: 8,564
+Drunk: 0
+
+
+ > equipment
+
+Hat: Knob Goblin elite helm
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: black greaves
+
+Acc. 1: hamethyst ring
+Acc. 2: pirate fledges
+Acc. 3: Boris's ring
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Stomach of Steel
+
+Avatar Of Boris
+ - Big Boned
+ - Broadside
+ - Cleave
+ - Demand Sandwich
+ - Ferocity
+ - Intimidating Bellow
+ - Laugh It Off
+ - Legendary Appetite
+ - Legendary Bravado
+ - Legendary Girth
+ - Mighty Axing
+ - Song of Accompaniment
+ - Song of the Glorious Lunch
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Mystic Pickleness (5)
+Erudite (10)
+Object Detection (10)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +55.17%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+Visiting Hermit
+
+trading 1 worthless item for 1 ten-leaf clover
+You acquire an item: ten-leaf clover
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+buy 10 chewing gum on a string for 50 each from Market Demon
+You acquire chewing gum on a string (10)
+You spent 500 Meat
+
+multiuse.php?passitem=23&pwd=c095c01cd102fbd38a6540291983468b
+
+use 10 chewing gum on a string
+You acquire an item: seal-skull helmet
+You acquire an item: turtle totem
+You acquire an item: disco ball
+You acquire an item: worthless gewgaw
+You acquire an item: worthless trinket
+You acquire worthless knick-knack (2)
+You acquire an item: mariachi hat
+You acquire an item: stolen accordion
+You acquire an item: seal-clubbing club
+
+trading 3 worthless items for 3 ten-leaf clovers
+You acquire ten-leaf clover (3)
+
+Use 3 ten-leaf clover
+You acquire disassembled clover (3)
+
+[2143] Hidden Temple
+Encounter: craven carven raven
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: craven carven raven takes 148 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: shiny stones
+You gain 8 Beefiness
+You gain 4 Enchantedness
+You gain 2 Sarcasm
+
+[2144] Hidden Temple
+Encounter: stone temple pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: stone temple pirate takes 152 damage.
+Round 1: fifthtoast wins the fight!
+You gain 7 Fortitude
+You gain 4 Mysteriousness
+You gain 3 Chutzpah
+
+[2145] Hidden Temple
+Encounter: Such Great Depths
+Took choice 581/1: glowing fungus
+choice.php?pwd&whichchoice=581&option=1
+You acquire an item: glowing fungus
+
+[2146] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: baa-relief sheep takes 146 damage.
+Round 1: fifthtoast wins the fight!
+You gain 8 Fortitude
+You gain 3 Wizardliness
+You gain 4 Sarcasm
+
+[2147] Hidden Temple
+Encounter: Such Great Heights
+Took choice 579/2: the Nostril of the Serpent or skip adventure
+choice.php?pwd&whichchoice=579&option=2
+You acquire an item: the Nostril of the Serpent
+
+[2148] Hidden Temple
+Encounter: craven carven raven
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: craven carven raven takes 141 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: shiny stones
+You gain 8 Fortitude
+You gain 7 Wizardliness
+
+[2149] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: baa-relief sheep takes 149 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: stone wool
+You gain 8 Muscleboundness
+You gain 3 Wizardliness
+You gain 3 Sarcasm
+
+[2150] Hidden Temple
+Encounter: craven carven raven
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: craven carven raven takes 153 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: shiny stones
+You gain 8 Beefiness
+You gain 4 Magicalness
+You gain 2 Cheek
+
+[2151] Hidden Temple
+Encounter: stone temple pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: stone temple pirate takes 149 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: eyepatch
+You gain 7 Fortitude
+You gain 6 Magicalness
+You gain 2 Smarm
+
+[2152] Hidden Temple
+Encounter: stone temple pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: stone temple pirate takes 173 damage.
+Round 1: fifthtoast wins the fight!
+You gain 8 Beefiness
+You gain 6 Enchantedness
+You gain a Mysticality point!
+
+[2153] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: baa-relief sheep takes 157 damage.
+Round 1: fifthtoast wins the fight!
+You gain 9 Muscleboundness
+You gain 3 Wizardliness
+You gain 2 Cheek
+
+[2154] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: baa-relief sheep takes 133 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: stone wool
+You gain 8 Strengthliness
+You gain 3 Wizardliness
+You gain 3 Roguishness
+
+[2155] Hidden Temple
+Encounter: craven carven raven
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: craven carven raven takes 135 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: shiny stones
+You gain 6 Beefiness
+You gain 4 Magicalness
+You gain 5 Smarm
+
+use 1 shiny stones
+You gain 141 Meat
+
+Use 1 disassembled clover
+You acquire an item: ten-leaf clover
+
+[2156] Hidden Temple
+Encounter: craven carven raven
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: craven carven raven takes 133 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: shiny stones
+You gain 11 Muscleboundness
+You gain 4 Magicalness
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+[2157] Desert (Unhydrated)
+Encounter: What Were You Expecting?
+You acquire an effect: Sunburned (duration: 5 Adventures)
+
+[2158] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[2159] Desert (Ultrahydrated)
+Encounter: swarm of fire ants
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: swarm of fire ants takes 73 damage.
+You lose 44 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: swarm of fire ants takes 63 damage.
+Round 2: fifthtoast wins the fight!
+You gain 48 Meat
+You gain 16 Strongness
+You gain 15 Wizardliness
+You gain 7 Smarm
+
+[2160] Desert (Ultrahydrated)
+Encounter: Walk Without Rhythm
+
+[2161] Oasis in the Desert
+Encounter: swarm of scarab beatles
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: swarm of scarab beatles takes 72 damage.
+You lose 40 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: swarm of scarab beatles takes 94 damage.
+Round 2: fifthtoast wins the fight!
+You gain 173 Meat
+You acquire an item: rocky raccoon
+You gain 20 Beefiness
+You gain 9 Magicalness
+You gain 8 Chutzpah
+
+[2162] Oasis in the Desert
+Encounter: rolling stone
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: rolling stone takes 77 damage.
+You lose 38 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: rolling stone takes 67 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: brown sugar cane
+You gain 21 Fortitude
+You gain 7 Enchantedness
+You gain 8 Sarcasm
+
+[2163] Oasis in the Desert
+Encounter: oasis monster
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 38 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: oasis monster takes 74 damage.
+You lose 37 hit points
+After Battle: unspecified macro action?
+After Battle: oasis monster takes 74 damage.
+After Battle: fifthtoast wins the fight!
+You gain 100 Meat
+You acquire an item: Supernova Champagne
+You acquire an item: displaced fish
+You gain 13 Strongness
+You gain 10 Enchantedness
+You gain 11 Roguishness
+
+[2164] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[2165] Oasis in the Desert
+Encounter: blur
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: blur takes 68 damage.
+You lose 44 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: blur takes 64 damage.
+You lose 41 hit points
+
+uneffect Beaten Up
+Visiting Comfy Sofa in clan rumpus room
+
+[2166] Rest in Clan Sofa (1 turns)
+You gain 55 hit points
+You gain 17 Mojo Points
+Jumping into the Awesome Ball Pit in the clan rumpus room
+
+[2167] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: baa-relief sheep takes 165 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: stone wool
+You gain 10 Fortitude
+You gain 3 Mysteriousness
+You gain 1 Sarcasm
+
+[2168] Hidden Temple
+Encounter: stone temple pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: stone temple pirate takes 135 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: ancient poisoned dart
+You gain 6 Fortitude
+You gain 5 Wizardliness
+You gain 4 Sarcasm
+
+[2169] Hidden Temple
+Encounter: stone temple pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: stone temple pirate takes 145 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: ancient poisoned dart
+You gain 6 Strengthliness
+You gain 2 Magicalness
+You gain 6 Cheek
+
+[2170] Hidden Temple
+Encounter: craven carven raven
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: craven carven raven takes 149 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: shiny stones
+You gain 10 Beefiness
+You gain 3 Mysteriousness
+You gain 2 Roguishness
+
+[2171] Hidden Temple
+Encounter: stone temple pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: stone temple pirate takes 141 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: ancient poisoned dart
+You gain 7 Strengthliness
+You gain 4 Magicalness
+You gain 4 Chutzpah
+
+[2172] Hidden Temple
+Encounter: The Hidden Heart of the Hidden Temple
+Took choice 580/1: unknown
+choice.php?pwd&whichchoice=580&option=1
+You gain 99 Beefiness
+You gain a Muscle point!
+
+[2173] Hidden Temple
+Encounter: craven carven raven
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: craven carven raven takes 194 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: shiny stones
+You gain 4 Strongness
+You gain 4 Magicalness
+You gain 7 Smarm
+
+[2174] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: baa-relief sheep takes 148 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: stone wool
+You gain 5 Strongness
+You gain 5 Wizardliness
+You gain 4 Smarm
+
+[2175] Hidden Temple
+Encounter: craven carven raven
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: craven carven raven takes 144 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: shiny stones
+You gain 6 Strengthliness
+You gain 5 Magicalness
+You gain 4 Cheek
+
+[2176] Hidden Temple
+Encounter: craven carven raven
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: craven carven raven takes 146 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: shiny stones
+You gain 7 Beefiness
+You gain 5 Magicalness
+You gain 3 Chutzpah
+
+[2177] Hidden Temple
+Encounter: stone temple pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: stone temple pirate takes 158 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: ancient poisoned dart
+You acquire an item: eyepatch
+You gain 10 Beefiness
+You gain 2 Wizardliness
+You gain 2 Cheek
+
+[2178] Hidden Temple
+Encounter: craven carven raven
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: craven carven raven takes 154 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: shiny stones
+You gain 11 Beefiness
+You gain 2 Roguishness
+
+[2179] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: baa-relief sheep takes 152 damage.
+Round 1: fifthtoast wins the fight!
+You gain 8 Strengthliness
+You gain 5 Wizardliness
+You gain 1 Chutzpah
+
+[2180] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: baa-relief sheep takes 136 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: stone wool
+You gain 8 Strongness
+You gain 3 Wizardliness
+You gain 3 Chutzpah
+
+[2181] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: baa-relief sheep takes 144 damage.
+Round 1: fifthtoast wins the fight!
+You gain 8 Fortitude
+You gain 4 Wizardliness
+You gain 3 Roguishness
+
+[2182] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[2183] Desert (Ultrahydrated)
+Encounter: giant giant giant centipede
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: giant giant giant centipede takes 72 damage.
+You lose 47 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: giant giant giant centipede takes 58 damage.
+You lose 45 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts BROADSIDE!
+Round 3: fifthtoast casts MIGHTY AXING!
+Round 4: giant giant giant centipede takes 64 damage.
+Round 4: fifthtoast wins the fight!
+You gain 150 Meat
+You gain 16 Fortitude
+You gain 14 Wizardliness
+You gain 9 Roguishness
+
+cast 3 Demand Sandwich
+
+cast 10 Laugh It Off
+You gain 13 hit points
+
+cast 1 Song of Accompaniment
+You acquire an effect: Song of Accompaniment (duration: 20 Adventures)
+
+use 1 Clancy's sackbut
+You acquire an item: Clancy's lute
+
+[2184] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: baa-relief sheep takes 144 damage.
+Round 1: fifthtoast wins the fight!
+You gain 11 hit points
+You gain 16 Muscularity Points
+You gain 6 Strengthliness
+You gain 4 Enchantedness
+You gain 5 Smarm
+
+[2185] Hidden Temple
+Encounter: The Hidden Heart of the Hidden Temple
+Took choice 580/2: unknown
+choice.php?pwd&whichchoice=580&option=2
+Encounter: Unconfusing Buttons
+Took choice 584/1: Hidden Temple (Stone)
+choice.php?pwd&whichchoice=584&option=1
+Encounter: The Hidden Heart of the Hidden Temple
+Took choice 580/2: unknown
+choice.php?pwd&whichchoice=580&option=2
+Encounter: Unconfusing Buttons
+Took choice 584/4: Hidden Temple (Pikachutlotal)
+choice.php?pwd&whichchoice=584&option=4
+Encounter: The Hidden Heart of the Hidden Temple
+Took choice 580/1: unknown
+choice.php?pwd&whichchoice=580&option=1
+Encounter: At Least It's Not Full Of Trash
+Took choice 123/2: Unlock Quest Puzzle
+choice.php?pwd&whichchoice=123&option=2
+Encounter: Now What?
+Encounter: Dvorak's Revenge
+
+tiles.php?action=jump&whichtile=4
+tiles.php?action=jump&whichtile=6
+tiles.php?action=jump&whichtile=3
+tiles.php?action=jump&whichtile=5
+tiles.php?action=jump&whichtile=7
+tiles.php?action=jump&whichtile=6
+tiles.php?action=jump&whichtile=3
+Encounter: No Visible Means of Support
+Took choice 125/3: Unlock Hidden City
+choice.php?pwd&whichchoice=125&option=3
+
+adventure.php?snarfblat=118
+
+[2188] Hidden City (Square 25)
+Encounter: boaraffe
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: boaraffe takes 110 damage.
+You lose 48 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: boaraffe takes 54 damage.
+Round 2: fifthtoast wins the fight!
+You gain 18 hit points
+You gain 18 Muscularity Points
+You gain 109 Meat
+You acquire an item: long pork
+You gain 19 Fortitude
+You gain 10 Wizardliness
+You gain 10 Roguishness
+
+adventure.php?snarfblat=118
+
+[2189] Hidden City (Square 1)
+Encounter: A Spine-Tingling Adventure
+You gain 20 Fortitude
+
+adventure.php?snarfblat=118
+
+[2190] Hidden City (Square 2)
+
+uneffect Beaten Up
+
+use 1 red pixel potion
+You gain 120 hit points
+
+cast 50 Laugh It Off
+You gain 73 hit points
+
+use 1 honey-dipped locust
+You gain 38 hit points
+You gain 34 Muscularity Points
+
+[2191] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[2192] Oasis in the Desert
+Encounter: oasis monster
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: oasis monster takes 78 damage.
+You lose 33 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: oasis monster takes 66 damage.
+Round 2: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 13 Muscularity Points
+You gain 97 Meat
+You acquire an item: Supernova Champagne
+You acquire an item: Hugo's Weaving Manual
+You acquire an item: palm frond
+You gain 23 Beefiness
+You gain a Muscle point!
+You gain 4 Wizardliness
+You gain 7 Chutzpah
+
+[2193] Oasis in the Desert
+Encounter: rolling stone
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 38 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: rolling stone takes 72 damage.
+You lose 38 hit points
+After Battle: unspecified macro action?
+After Battle: rolling stone takes 74 damage.
+After Battle: fifthtoast wins the fight!
+You gain 14 hit points
+You gain 15 Muscularity Points
+You acquire an item: hot date
+You gain 19 Beefiness
+You gain 10 Enchantedness
+You gain 7 Roguishness
+
+[2194] South of the Border
+Encounter: angry pi&ntilde;ata
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: angry pi&ntilde;ata takes 183 damage.
+Round 1: fifthtoast wins the fight!
+You gain 16 hit points
+You gain 13 Muscularity Points
+You acquire an item: pile of candy
+You gain 3 Muscleboundness
+You gain 3 Wizardliness
+You gain 1 Roguishness
+
+[2195] South of the Border
+Encounter: Finger-Lickin'... Death.
+Took choice 4/3: skip adventure
+choice.php?pwd&whichchoice=4&option=3
+
+adventure.php?snarfblat=118
+
+adventure.php?snarfblat=118
+
+[2195] Hidden City (Square 24)
+Encounter: pygmy headhunter
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: pygmy headhunter takes 66 damage.
+You lose 49 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: pygmy headhunter takes 54 damage.
+You lose 50 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts BROADSIDE!
+Round 3: fifthtoast casts MIGHTY AXING!
+Round 4: pygmy headhunter takes 52 damage.
+Round 4: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 16 Muscularity Points
+You gain 167 Meat
+You acquire an item: briefcase
+You acquire an item: world's smallest violin
+You gain 18 Muscleboundness
+You gain 11 Magicalness
+You gain 11 Cheek
+You gain a Moxie point!
+
+adventure.php?snarfblat=118
+
+[2196] Hidden City (Square 3)
+Encounter: boaraffe
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 49 hit points
+After Battle: unspecified macro action?
+After Battle: boaraffe takes 52 damage.
+You lose 46 hit points
+
+uneffect Beaten Up
+
+[2197] Hidden City (Square 4)
+Encounter: Altared Perceptions
+
+[2197] Black Forest
+Encounter: black widow
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: black widow takes 91 damage.
+You lose 36 hit points
+Visiting Comfy Sofa in clan rumpus room
+
+[2198] Rest in Clan Sofa (1 turns)
+You gain 55 hit points
+
+[2199] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[2200] South of the Border
+Encounter: A Chewy Encounter
+You acquire an item: jaba&ntilde;ero-flavored chewing gum
+You lose 30 Meat
+
+[2201] South of the Border
+Encounter: La Farmacia de Sue&ntilde;os
+You acquire an item: Meleegra&trade; pills
+
+[2202] South of the Border
+Encounter: A Chewy Encounter
+You acquire an item: lime-and-chile-flavored chewing gum
+You lose 30 Meat
+
+[2203] South of the Border
+Encounter: mariachi calavera
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: mariachi calavera takes 173 damage.
+Round 1: fifthtoast wins the fight!
+You gain 9 hit points
+You gain 14 Muscularity Points
+You acquire an item: marzipan skull
+You gain 4 Beefiness
+You gain 3 Mysteriousness
+You gain 1 Roguishness
+
+[2204] Oasis in the Desert
+Encounter: swarm of scarab beatles
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: swarm of scarab beatles takes 78 damage.
+You lose 41 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: swarm of scarab beatles takes 88 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 9 Muscularity Points
+You gain 169 Meat
+You gain 22 Strongness
+You gain 8 Mysteriousness
+You gain 6 Roguishness
+
+cast 50 Laugh It Off
+You gain 78 hit points
+
+cast 10 Laugh It Off
+You gain 14 hit points
+
+[2205] Hidden Temple
+Encounter: stone temple pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: stone temple pirate takes 145 damage.
+Round 1: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 8 Muscularity Points
+You gain 8 Strengthliness
+You gain 6 Magicalness
+
+[2206] Hidden Temple
+Encounter: stone temple pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: stone temple pirate takes 175 damage.
+Round 1: fifthtoast wins the fight!
+You gain 9 hit points
+You gain 7 Muscularity Points
+You gain 8 Strongness
+You gain 3 Wizardliness
+You gain a Mysticality point!
+You gain 3 Cheek
+
+[2207] Hidden Temple
+Encounter: craven carven raven
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: craven carven raven takes 147 damage.
+Round 1: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 6 Muscularity Points
+You acquire an item: shiny stones
+You gain 7 Strongness
+You gain 5 Enchantedness
+You gain 3 Chutzpah
+
+[2208] Hidden Temple
+Encounter: stone temple pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: stone temple pirate takes 153 damage.
+Round 1: fifthtoast wins the fight!
+You gain 9 hit points
+You gain 9 Muscularity Points
+You acquire an item: ancient poisoned dart
+You gain 8 Muscleboundness
+You gain 4 Enchantedness
+You gain 3 Roguishness
+
+[2209] Hidden Temple
+Encounter: stone temple pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: stone temple pirate takes 155 damage.
+Round 1: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 5 Muscularity Points
+You acquire an item: ancient poisoned dart
+You gain 6 Strongness
+You gain 2 Wizardliness
+You gain 6 Sarcasm
+
+[2210] Hidden Temple
+Encounter: craven carven raven
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: craven carven raven takes 145 damage.
+Round 1: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 7 Muscularity Points
+You acquire an item: shiny stones
+You gain 9 Muscleboundness
+You gain 4 Wizardliness
+You gain 2 Roguishness
+
+[2211] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: baa-relief sheep takes 141 damage.
+Round 1: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 10 Muscularity Points
+You gain 6 Strongness
+You gain 4 Mysteriousness
+You gain 4 Chutzpah
+
+[2212] Hidden Temple
+Encounter: Such Great Depths
+Took choice 581/3: fight clan of cave bars
+choice.php?pwd&whichchoice=581&option=3
+Encounter: clan of cave bars
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BROADSIDE!
+Round 2: fifthtoast casts MIGHTY AXING!
+Round 3: fifthtoast casts MIGHTY AXING!
+Round 4: fifthtoast casts CLEAVE!
+Round 5: clan of cave bars takes 55 damage.
+Round 5: fifthtoast casts CLEAVE!
+Round 6: clan of cave bars takes 140 damage.
+Round 6: fifthtoast wins the fight!
+You gain 9 hit points
+You gain 10 Muscularity Points
+You gain 254 Meat
+You gain 28 Strengthliness
+You gain 10 Magicalness
+You gain 14 Smarm
+
+[2213] Hidden Temple
+Encounter: craven carven raven
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: craven carven raven takes 141 damage.
+Round 1: fifthtoast wins the fight!
+You gain 9 hit points
+You gain 5 Muscularity Points
+You acquire an item: shiny stones
+You gain 9 Fortitude
+You gain 5 Enchantedness
+You gain 1 Chutzpah
+
+[2214] Hidden Temple
+Encounter: craven carven raven
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: craven carven raven takes 149 damage.
+Round 1: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 10 Muscularity Points
+You acquire an item: shiny stones
+You gain 7 Fortitude
+You gain 2 Enchantedness
+You gain 5 Cheek
+
+[2215] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: baa-relief sheep takes 153 damage.
+Round 1: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 10 Muscularity Points
+You gain 8 Beefiness
+You gain 7 Mysteriousness
+
+[2216] Hidden Temple
+Encounter: craven carven raven
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: craven carven raven takes 147 damage.
+Round 1: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 10 Muscularity Points
+You acquire an item: shiny stones
+You gain 9 Muscleboundness
+You gain 4 Chutzpah
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 5 sammich crusts
+
+Trade 6 black pixel, 4 red pixel
+You acquire red pixel potion (2)
