@@ -209,7 +209,7 @@ barrelLayout=?????????
 bartenderTurnsUsed=33
 basementMallPrices=1
 battleAction=attack with weapon
-beeCounter=267
+beeCounter=378
 betweenBattleScript
 birdformCold=0
 birdformHot=0
@@ -627,9 +627,9 @@ currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
 cyrptCrannyEvilness=20
-cyrptNicheEvilness=0
+cyrptNicheEvilness=-1
 cyrptNookEvilness=0
-cyrptTotalEvilness=20
+cyrptTotalEvilness=19
 dailyDungeonDone=false
 dbNemesisSkill1=0
 dbNemesisSkill2=0
@@ -699,7 +699,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=Dark Elbow of the Woods
+lastAdventure=Degrassi Knoll
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -715,13 +715,13 @@ lastBangPotion827
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=14
+lastBreakfast=15
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=6
-lastCounterDay=14
+lastCounterDay=15
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=0
@@ -762,7 +762,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=-1
-lastEncounter=bee swarm
+lastEncounter=mumblebee
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -774,6 +774,7 @@ lastHiddenCityAscension=1
 lastHippyCall=-1
 lastKingLiberation=2
 lastLouvreMap=2
+lastManorUnlock=-1
 lastMessageCount=15
 lastMessageId
 lastMiningReset=1
@@ -834,7 +835,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=2
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=5
+libramSummons=0
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -895,6 +896,7 @@ questF01Primordial,=Primordial Fear\=unstarted
 questF02Hyboria=unstarted
 questF03Future=unstarted
 questF04Elves=unstarted
+questF05Clancy=unstarted
 questG01Meatcar=started
 questG02Whitecastle=unstarted
 questG03Ego=unstarted
@@ -947,7 +949,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=281\:Bee window begin loc\=*\:lparen.gif\:286\:Bee window end loc\=*\:rparen.gif\:413\:Semirare window begin\:lparen.gif\:453\:Semirare window end loc\=*\:rparen.gif
+relayCounters=413\:Semirare window begin\:lparen.gif\:453\:Semirare window end loc\=*\:rparen.gif\:392\:Bee window begin loc\=*\:lparen.gif\:397\:Bee window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1016,12 +1018,12 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=false
+telescopeLookedHigh=true
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=0
+tomeSummons=3
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true

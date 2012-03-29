@@ -699,7 +699,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Poop Deck
+lastAdventure=Trick-or-Treating
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
