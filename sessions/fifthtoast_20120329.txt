@@ -1,0 +1,262 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 29, 2012 - Boozember 1
+
+Ronald: new moon
+Grimace: new moon
+Mini-moon: behind Ronald
+
+Feast of Boris: 6 days
+Oyster Egg Day: 10 days
+Yuletide: 11 days
+Festival of Jarlsberg: 16 days
+Valentine's Day: 27 days
+St. Sneaky Pete's Day: 34 days
+El Dia De Los Muertos Borrachos: 49 days
+Generic Summer Holiday: 58 days
+Dependence Day: 67 days
+Arrrbor Day: 75 days
+Lab&oacute;r Day: 85 days
+Halloween: 95 days
+
+
+Moxie bonus today and yesterday.
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 11
+HP: 124 / 262
+MP: 106 / 106
+
+Mus: 137 (112), tnp = 41
+Mys: 106 (91), tnp = 73
+Mox: 98 (82), tnp = 10
+
+Advs: 167
+Meat: 9,253
+Drunk: 0
+
+
+ > equipment
+
+Hat: Knob Goblin harem veil
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin harem pants
+
+Acc. 1: hamethyst ring
+Acc. 2: badass belt
+Acc. 3: dead guy's watch
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Stomach of Steel
+
+Avatar Of Boris
+ - Big Boned
+ - Broadside
+ - Cleave
+ - Demand Sandwich
+ - Ferocity
+ - Intimidating Bellow
+ - Laugh It Off
+ - Legendary Appetite
+ - Legendary Bravado
+ - Legendary Girth
+ - Mighty Axing
+ - Song of Accompaniment
+ - Song of the Glorious Lunch
+
+
+ > effects
+
+0 of 3 AT buffs active.
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +50.17%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[2125] Cobb's Knob Treasury
+Encounter: Finally, the Payoff
+You gain 500 Meat
+
+equip hat Knob Goblin elite helm
+
+equip pants black greaves
+
+equip acc2 pirate fledges
+
+equip acc3 Boris's ring
+
+[2126] Sleazy Back Alley
+Encounter: rushing bum
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: rushing bum takes 233 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: Mad Train wine
+You gain 1 Strengthliness
+You gain 1 Sarcasm
+
+[2127] Hidden Temple
+Encounter: stone temple pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: stone temple pirate takes 134 damage.
+Round 1: fifthtoast wins the fight!
+You gain 6 Strengthliness
+You gain 4 Wizardliness
+You gain 4 Cheek
+
+[2128] Hidden Temple
+Encounter: craven carven raven
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: craven carven raven takes 152 damage.
+Round 1: fifthtoast wins the fight!
+You acquire an item: shiny stones
+You gain 5 Beefiness
+You gain 5 Mysteriousness
+You gain 5 Roguishness
+You gain a Moxie point!
+
+[2129] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: baa-relief sheep takes 134 damage.
+Round 1: fifthtoast wins the fight!
+You gain 9 Beefiness
+You gain 3 Magicalness
+You gain 2 Chutzpah
+
+[2130] Desert (Unhydrated)
+Encounter: Let's Make a Deal!
+Took choice 132/2: Unlock Oasis
+choice.php?pwd&whichchoice=132&option=2
+
+[2131] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[2132] Desert (Ultrahydrated)
+Encounter: A Sietch in Time
+
+[2133] Oasis in the Desert
+Encounter: All Across the Sands
+You acquire an item: stone rose
+
+[2134] Desert (Ultrahydrated)
+Encounter: No Colors Anymore
+
+buy 1 can of black paint for 1000 each from Black Market
+You acquire an item: can of black paint
+You spent 1,000 Meat
+
+[2135] Desert (Ultrahydrated)
+Encounter: plaque of locusts
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: plaque of locusts takes 68 damage.
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: plaque of locusts takes 74 damage.
+Round 2: fifthtoast wins the fight!
+You gain 28 Meat
+You acquire an item: honey-dipped locust
+You acquire an item: handful of sand
+You gain 15 Beefiness
+You gain 13 Magicalness
+You gain 8 Smarm
+
+[2136] Desert (Ultrahydrated)
+Encounter: cactuary
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: cactuary takes 55 damage.
+You lose 6 hit points
+You lose 42 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: cactuary takes 57 damage.
+You lose 3 hit points
+You lose 42 hit points
+Round 2: fifthtoast attacks!
+Round 3: cactuary takes 51 damage.
+You lose 4 hit points
+Round 3: fifthtoast wins the fight!
+You gain 83 Meat
+You gain 15 Strongness
+You gain a Muscle point!
+You gain 15 Wizardliness
+You gain 8 Roguishness
+
+[2137] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[2138] Desert (Ultrahydrated)
+Encounter: Still No Colors Anymore
+
+[2139] Desert (Ultrahydrated)
+Encounter: rock scorpion
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: rock scorpion takes 69 damage.
+You lose 44 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: rock scorpion takes 69 damage.
+You lose 42 hit points
+Visiting Comfy Sofa in clan rumpus room
+
+[2140] Rest in Clan Sofa (1 turns)
+You gain 55 hit points
+
+[2141] Rest in Clan Sofa (1 turns)
+You gain 55 hit points
+
+[2142] Rest in Clan Sofa (1 turns)
+You gain 55 hit points
+You gain 17 Mojo Points
+Jumping into the Awesome Ball Pit in the clan rumpus room
+
+buy 1 black sheepskin diploma for 300 each from Black Market
+You acquire an item: black sheepskin diploma
+You spent 300 Meat
+
+use 1 black sheepskin diploma
+You acquire an effect: Erudite (duration: 10 Adventures)
+
+use 1 bubbly potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+use 1 pickle-flavored chewing gum
+You acquire an effect: Mystic Pickleness (duration: 5 Adventures)
+
+cast 3 Demand Sandwich
+You acquire corned-beef Reuben (3)
