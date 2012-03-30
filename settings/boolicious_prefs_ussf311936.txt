@@ -1,5 +1,5 @@
 =1
-AdventureFrame=2831,251,1
+AdventureFrame=2831,251,0
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=742,435
@@ -15,7 +15,7 @@ FamiliarTrainingFrame=596,317
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=2460,219,-1
+KoLDesktop=2016,195,-1
 LoginFrame=2645,365,0
 MailboxFrame=289,310,1
 MaximizerFrame=2099,383
@@ -33,7 +33,7 @@ TabbedChatFrame=3317,229,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
-_allYearSucker=false
+_allYearSucker=true
 _aprilShower=false
 _astralDrops=0
 _badlyRomanticArrows=0
@@ -103,7 +103,7 @@ _resolutionAdv=0
 _riftletAdv=0
 _romanticFightsLeft=0
 _sealFigurineUses=0
-_sealsSummoned=0
+_sealsSummoned=1
 _sexChanged=false
 _skateBuff1=false
 _skateBuff2=false
@@ -119,7 +119,7 @@ _timeHelmetAdv=0
 _toastSummons=0
 _tokenDrops=0
 _transponderDrops=0
-_trivialAvocationsGame=false
+_trivialAvocationsGame=true
 _userMods
 _vmaskAdv=0
 _zapCount=0
@@ -286,11 +286,11 @@ choiceAdventure149=2
 choiceAdventure15=4
 choiceAdventure151=2
 choiceAdventure152=1
-choiceAdventure153=4
+choiceAdventure153=1
 choiceAdventure154=1
-choiceAdventure155=4
+choiceAdventure155=1
 choiceAdventure156=1
-choiceAdventure157=4
+choiceAdventure157=1
 choiceAdventure158=1
 choiceAdventure159=4
 choiceAdventure16=4
@@ -533,7 +533,7 @@ choiceAdventure518=0
 choiceAdventure519=0
 choiceAdventure521=1
 choiceAdventure522=2
-choiceAdventure523=5
+choiceAdventure523=2
 choiceAdventure527=1
 choiceAdventure528=1
 choiceAdventure529=0
@@ -614,7 +614,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2100
-currentFullness=0
+currentFullness=13
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -622,14 +622,14 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=4
 currentWheelPosition=muscle
 customCombatScript=default
-cyrptAlcoveEvilness=44
-cyrptCrannyEvilness=50
-cyrptNicheEvilness=50
-cyrptNookEvilness=50
-cyrptTotalEvilness=194
+cyrptAlcoveEvilness=0
+cyrptCrannyEvilness=39
+cyrptNicheEvilness=44
+cyrptNookEvilness=43
+cyrptTotalEvilness=126
 dailyDungeonDone=false
 dbNemesisSkill1=0
 dbNemesisSkill2=0
@@ -699,7 +699,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=Belilafs Comedy Club
+lastAdventure=Frat House
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -715,13 +715,13 @@ lastBangPotion827
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=0
+lastBreakfast=1
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard=BQc2,BRg2,BKh2,BNe3,BNb4,BRe4,BBc5,BRf5,BBa6,WRe6,BBc8
 lastCouncilVisit=7
-lastCounterDay=0
+lastCounterDay=1
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=0
@@ -762,7 +762,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=-1
-lastEncounter=Victor the Insult Comic Hellhound
+lastEncounter=Lambda Upsilon Chi Kappa
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=2
@@ -909,10 +909,10 @@ questI02Beat =unstarted
 questL02Larva=finished
 questL03Rat=finished
 questL04Bat=finished
-questL05Goblin=started
+questL05Goblin=finished
 questL06Friar=finished
 questL07Cyrptic=started
-questL08Trapper=unstarted
+questL08Trapper=started
 questL09Lol=unstarted
 questL10Garbage=unstarted
 questL11MacGuffin=unstarted
@@ -931,7 +931,7 @@ questM06Gourd=finished
 questM07Hammer=unstarted
 questM08Baker=unstarted
 questM09Rocks=finished
-questM10Azazel=started
+questM10Azazel=finished
 questM11Postal=unstarted
 questM12Pirate=unstarted
 questM13Escape=unstarted
@@ -949,7 +949,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=597\:The Shore loc\=* shore.php\:dinghy.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1018,12 +1018,12 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=false
+telescopeLookedHigh=true
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=0
+tomeSummons=3
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
