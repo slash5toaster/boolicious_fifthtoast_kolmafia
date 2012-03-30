@@ -741,6 +741,7 @@ lastHiddenCityAscension=0
 lastHippyCall=-1
 lastKingLiberation=1
 lastLouvreMap=1
+lastManorUnlock=-1
 lastMessageId
 lastMiningReset=-1
 lastNemesisReset=1
@@ -861,6 +862,7 @@ questF01Primordial,=Primordial Fear\=unstarted
 questF02Hyboria=unstarted
 questF03Future=unstarted
 questF04Elves=unstarted
+questF05Clancy=unstarted
 questG01Meatcar=unstarted
 questG02Whitecastle=unstarted
 questG03Ego=unstarted
