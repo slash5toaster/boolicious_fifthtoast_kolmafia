@@ -1,0 +1,1365 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+March 30, 2012 - Boozember 2
+
+Ronald: waxing crescent
+Grimace: new moon
+Mini-moon: in front of Ronald, L side
+
+Feast of Boris: 5 days
+Oyster Egg Day: 9 days
+Yuletide: 10 days
+Festival of Jarlsberg: 15 days
+Valentine's Day: 26 days
+St. Sneaky Pete's Day: 33 days
+El Dia De Los Muertos Borrachos: 48 days
+Generic Summer Holiday: 57 days
+Dependence Day: 66 days
+Arrrbor Day: 74 days
+Lab&oacute;r Day: 84 days
+Halloween: 94 days
+
+
+3 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 7
+HP: 100 / 153
+MP: 63 / 63
+
+Mus: 99 (48), tnp = 54
+Mys: 63 (31), tnp = 28
+Mox: 63 (30), tnp = 10
+
+Advs: 200
+Meat: 20,544
+Drunk: 0
+
+
+ > equipment
+
+Hat: Crown of the Goblin King
+Weapon: hilarious comedy prop
+Off-hand: (none)
+Shirt: Knob Goblin elite shirt
+Pants: Knob Goblin harem pants
+
+Acc. 1: Mr. Accessory
+Acc. 2: Mr. Accessory
+Acc. 3: fudge pocket square
+
+Pet: Fancypants Scarecrow (15 lbs)
+Item: leotarrrd
+
+ > skills
+
+Seal Clubber
+ - Claws of the Otter
+ - Clobber
+ - Hide of the Otter
+ - Seal Clubbing Frenzy
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Starry-Eyed (7)
+Fondid (10)
+Filled with Magic (40)
+
+
+ > modifiers
+
+ML: +15
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +4.61
+Meat: +20.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Who?
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: When?
+
+take from closet: 1 seal-clubbing club
+You acquire an item: seal-clubbing club
+
+take from closet: 1 disco ball
+You acquire an item: disco ball
+
+use 1 box of Pok&euml;mann band-aids
+You acquire Pok&euml;mann band-aid (4)
+
+multiuse.php?passitem=5078&pwd=511a6a8629ea7edccaca6586317921bb
+
+use 1 Pok&euml;mann band-aid
+You gain 53 hit points
+You acquire an effect: Aided and Abetted (duration: 10 Adventures)
+
+cast 10 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 50 Adventures)
+
+Talking to Mourn at Belilafs Comedy Club
+
+[387] Belilafs Comedy Club
+Encounter: Pr Imp
+Round 0: boolicious loses initiative!
+You lose 15 hit points
+Round 1: boolicious attacks!
+Round 2: pr imp takes 37 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: pr imp takes 36 damage.
+You lose 15 hit points
+Round 3: boolicious attacks!
+Round 4: pr imp takes 39 damage.
+Round 4: boolicious wins the fight!
+You gain 64 Meat
+You acquire an item: imp air
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Strongness
+You gain 12 Mysteriousness
+You gain 1 Roguishness
+
+equip weapon Knob Goblin deluxe scimitar
+
+equip off-hand giant clay ashtray
+
+equip pants astral trousers
+
+take from closet: 1 Boris's ring
+You acquire an item: Boris's ring
+
+equip acc3 Boris's ring
+
+use 1 all-year sucker
+You acquire an effect: Gonna Get You, Sucker (duration: 10 Adventures)
+
+Use 2 ten-leaf clover
+You acquire disassembled clover (2)
+
+[388] Belilafs Comedy Club
+Encounter: BL Imp
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: bl imp takes 12 damage.
+You lose 11 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts CLOBBER!
+Round 3: bl imp takes 11 damage.
+Round 3: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 3: boolicious casts CLOBBER!
+Round 4: bl imp takes 11 damage.
+You lose 10 hit points
+Round 4: boolicious attacks!
+Round 5: bl imp takes 105 damage.
+Round 5: boolicious wins the fight!
+You gain 49 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 16 Fortitude
+You gain 5 Wizardliness
+You gain 7 Chutzpah
+
+[389] Belilafs Comedy Club
+Encounter: BL Imp
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: bl imp takes 10 damage.
+You lose 11 hit points
+Round 2: boolicious attacks!
+Round 3: bl imp takes 105 damage.
+Round 3: boolicious wins the fight!
+You gain 53 Meat
+You acquire an item: imp air
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 20 Strongness
+You gain 4 Magicalness
+You gain 2 Smarm
+You gain a Moxie point!
+
+[390] Belilafs Comedy Club
+Encounter: CH Imp
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: ch imp takes 7 damage.
+You lose 8 hit points
+Round 2: boolicious attacks!
+Round 3: ch imp takes 103 damage.
+Round 3: boolicious wins the fight!
+You gain 42 Meat
+You acquire an item: imp air
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 11 Strengthliness
+You gain a Muscle point!
+You gain 6 Magicalness
+You gain 9 Chutzpah
+
+[391] Belilafs Comedy Club
+Encounter: Victor the Insult Comic Hellhound
+Round 0: boolicious loses initiative!
+You lose 15 hit points
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: victor the insult comic hellhound takes 86 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: Victor, the Insult Comic Hellhound Puppet
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 16 Muscleboundness
+You gain 11 Magicalness
+You gain a Mysticality point!
+You gain 2 Cheek
+
+equip off-hand Victor, the Insult Comic Hellhound Puppet
+
+Talking to Mourn at Belilafs Comedy Club
+Trying some observational humor on Mourn
+
+[392] Belilafs Comedy Club
+Encounter: Larry of the Field of Signs
+Round 0: boolicious loses initiative!
+You lose 21 hit points
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: larry of the field of signs takes 86 damage.
+Round 2: boolicious attacks!
+Round 3: larry of the field of signs takes 91 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: observational glasses
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 16 Muscleboundness
+You gain 8 Enchantedness
+You gain 5 Chutzpah
+
+equip acc1 observational glasses
+
+Talking to Mourn at Belilafs Comedy Club
+Trying some observational humor on Mourn
+You acquire an item: Azazel's lollipop
+
+[393] Belilafs Comedy Club
+Encounter: BL Imp
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: bl imp takes 7 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: bl imp takes 67 damage.
+You lose 28 hit points
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: bl imp takes 78 damage.
+Round 4: boolicious wins the fight!
+You gain 53 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Strengthliness
+You gain 6 Magicalness
+You gain 10 Cheek
+
+equip off-hand giant clay ashtray
+
+equip acc1 Mr. Accessory
+
+[394] Belilafs Comedy Club
+Encounter: CH Imp
+Round 0: boolicious loses initiative!
+You lose 8 hit points
+Round 1: boolicious attacks!
+Round 2: ch imp takes 106 damage.
+Round 2: boolicious wins the fight!
+You gain 42 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 14 Muscleboundness
+You gain 6 Wizardliness
+You gain 7 Smarm
+
+[395] Belilafs Comedy Club
+Encounter: Pr Imp
+Round 0: boolicious loses initiative!
+You lose 10 hit points
+Round 1: boolicious attacks!
+Round 2: pr imp takes 108 damage.
+Round 2: boolicious wins the fight!
+You gain 72 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Beefiness
+You gain 7 Magicalness
+You gain 6 Smarm
+
+cast 1 Tongue of the Otter
+You gain 15 hit points
+
+use 3 Notes from the Elfpocalypse, Chapter III
+You gain 99 Muscularity Points
+You gain 112 hit points
+
+use 1 Pok&euml;mann band-aid
+You gain 70 hit points
+You acquire an effect: Aided and Abetted (duration: 10 Adventures)
+
+Talking to Mourn at Belilafs Comedy Club
+
+[396] Belilafs Comedy Club
+Encounter: Pr Imp
+Round 0: boolicious loses initiative!
+You lose 11 hit points
+Round 1: boolicious attacks!
+Round 2: pr imp takes 111 damage.
+Round 2: boolicious wins the fight!
+You gain 65 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 8 Beefiness
+You gain 9 Mysteriousness
+You gain 9 Cheek
+
+[397] Belilafs Comedy Club
+Encounter: BL Imp
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: bl imp takes 10 damage.
+Round 2: boolicious attacks!
+Round 3: bl imp takes 139 damage.
+Round 3: boolicious wins the fight!
+You gain 54 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 15 Strengthliness
+You gain a Muscle point!
+You gain 5 Mysteriousness
+You gain 3 Sarcasm
+
+[398] Belilafs Comedy Club
+Encounter: CH Imp
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: ch imp takes 133 damage.
+Round 2: boolicious wins the fight!
+You gain 47 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 14 Strongness
+You gain 4 Magicalness
+You gain 4 Chutzpah
+
+[399] Belilafs Comedy Club
+Encounter: Pr Imp
+Round 0: boolicious loses initiative!
+You lose 3 hit points
+Round 1: boolicious attacks!
+Round 2: pr imp takes 123 damage.
+Round 2: boolicious wins the fight!
+You gain 67 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 11 Beefiness
+You gain 4 Magicalness
+You gain 6 Chutzpah
+
+[400] Belilafs Comedy Club
+Encounter: Pr Imp
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: pr imp takes 9 damage.
+Round 2: boolicious attacks!
+Round 3: pr imp takes 118 damage.
+Round 3: boolicious wins the fight!
+You gain 82 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 15 Muscleboundness
+You gain 4 Mysteriousness
+You gain 4 Cheek
+You gain a Moxie point!
+
+[401] Belilafs Comedy Club
+Encounter: BL Imp
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: bl imp takes 7 damage.
+You lose 5 hit points
+Round 2: boolicious attacks!
+Round 3: bl imp takes 118 damage.
+Round 3: boolicious wins the fight!
+You gain 56 Meat
+You acquire an item: imp air
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 10 Strongness
+You gain 5 Magicalness
+You gain a Mysticality point!
+You gain 8 Chutzpah
+
+[402] Belilafs Comedy Club
+Encounter: BL Imp
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: bl imp takes 123 damage.
+Round 2: boolicious wins the fight!
+You gain 64 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 10 Strongness
+You gain 8 Enchantedness
+You gain 6 Roguishness
+
+[403] Belilafs Comedy Club
+Encounter: BL Imp
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: bl imp takes 8 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: bl imp takes 123 damage.
+Round 3: boolicious wins the fight!
+You gain 64 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 10 Strengthliness
+You gain 7 Magicalness
+You gain 6 Smarm
+
+[404] Belilafs Comedy Club
+Encounter: CH Imp
+Round 0: boolicious loses initiative!
+You lose 3 hit points
+Round 1: boolicious attacks!
+Round 2: ch imp takes 118 damage.
+Round 2: boolicious wins the fight!
+You gain 49 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 10 Muscleboundness
+You gain 6 Wizardliness
+You gain 6 Cheek
+
+[405] Belilafs Comedy Club
+Encounter: CH Imp
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: ch imp takes 11 damage.
+Round 2: boolicious attacks!
+Round 3: ch imp takes 123 damage.
+Round 3: boolicious wins the fight!
+You gain 49 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 10 Beefiness
+You gain 7 Magicalness
+You gain 5 Cheek
+
+[406] Belilafs Comedy Club
+Encounter: Pr Imp
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: pr imp takes 7 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+You lose 1 hit point
+Round 3: boolicious attacks!
+Round 4: pr imp takes 130 damage.
+Round 4: boolicious wins the fight!
+You gain 72 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Strongness
+You gain a Muscle point!
+You gain 6 Mysteriousness
+You gain 4 Smarm
+
+[407] Belilafs Comedy Club
+Encounter: BL Imp
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: bl imp takes 12 damage.
+You lose 10 hit points
+Round 2: boolicious attacks!
+Round 3: bl imp takes 126 damage.
+Round 3: boolicious wins the fight!
+You gain 46 Meat
+You acquire an item: imp air
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 17 Fortitude
+You gain 1 Magicalness
+You gain 5 Chutzpah
+
+Visiting Moaning Panda Square in Pandamonium
+
+Talking to Sven Golly at the Hey Deze Arena
+
+[408] Hey Deze Arena
+Encounter: serialbus
+Round 0: boolicious loses initiative!
+You lose 7 hit points
+Round 1: boolicious attacks!
+Round 2: serialbus takes 124 damage.
+Round 2: boolicious wins the fight!
+You gain 40 Meat
+You acquire an item: bus pass
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 9 Muscleboundness
+You gain 8 Enchantedness
+You gain 6 Chutzpah
+
+[409] Hey Deze Arena
+Encounter: serialbus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: serialbus takes 10 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: serialbus takes 126 damage.
+Round 3: boolicious wins the fight!
+You gain 43 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 15 Muscleboundness
+You gain 2 Enchantedness
+You gain 6 Smarm
+
+[410] Hey Deze Arena
+Encounter: suckubus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: suckubus takes 11 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" She is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: suckubus takes 135 damage.
+Round 3: boolicious wins the fight!
+You gain 51 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Beefiness
+You gain 4 Enchantedness
+You gain 3 Sarcasm
+
+[411] Hey Deze Arena
+Encounter: Primo Donno
+You acquire an item: giant marshmallow
+
+[412] Hey Deze Arena
+Encounter: inkubus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: inkubus takes 11 damage.
+Round 2: boolicious attacks!
+Round 3: inkubus takes 127 damage.
+Round 3: boolicious wins the fight!
+Your familiar gains a pound: Heckel &amp; Jeckyl, the 16 lb. Fancypants Scarecrow
+You gain 74 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 11 Beefiness
+You gain 4 Mysteriousness
+You gain 5 Roguishness
+
+[413] Hey Deze Arena
+Encounter: suckubus
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: suckubus takes 133 damage.
+Round 2: boolicious wins the fight!
+You gain 57 Meat
+You acquire an item: bus pass
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 9 Fortitude
+You gain 6 Enchantedness
+You gain 6 Smarm
+You gain a Moxie point!
+
+[414] Hey Deze Arena
+Encounter: serialbus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: serialbus takes 10 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: serialbus takes 124 damage.
+Round 3: boolicious wins the fight!
+You gain 33 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 8 Beefiness
+You gain 7 Mysteriousness
+You gain a Mysticality point!
+You gain 7 Cheek
+
+[415] Hey Deze Arena
+Encounter: Entour Rage
+You acquire an item: booze-soaked cherry
+
+[416] Hey Deze Arena
+Encounter: suckubus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: suckubus takes 11 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" She is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: suckubus takes 135 damage.
+Round 3: boolicious wins the fight!
+You gain 54 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 9 Muscleboundness
+You gain 9 Mysteriousness
+You gain 2 Sarcasm
+
+[417] Hey Deze Arena
+Encounter: serialbus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: serialbus takes 9 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: serialbus takes 126 damage.
+Round 3: boolicious wins the fight!
+You gain 40 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 11 Strongness
+You gain a Muscle point!
+You gain 3 Enchantedness
+You gain 7 Sarcasm
+
+equip weapon demon whip
+
+use 1 Dr. Hobo's map
+
+pull: 8 asparagus knife
+
+pull: 1 eye of the Tiger-lily
+
+pull: 1 Jackass Plumber home game
+
+pull: 2 Winifred's whistle
+
+pull: 3 Marquis de Poivre soda
+
+use 1 Dr. Hobo's map
+You acquire an item: Dr. Hobo's scalpel
+
+use 1 can of Rain-Doh
+You acquire an item: empty Rain-Doh can
+You acquire an item: Rain-Doh red wings
+You acquire an item: Rain-Doh orange agent
+You acquire an item: Rain-Doh yellow laser gun
+You acquire an item: Rain-Doh green lantern
+You acquire an item: Rain-Doh blue balls
+You acquire an item: Rain-Doh indigo cup
+You acquire an item: Rain-Doh violet bo
+You acquire an item: Rain-Doh black box
+
+equip weapon Knob Goblin deluxe scimitar
+
+equip weapon Rain-Doh yellow laser gun
+
+Talking to Sven Golly at the Hey Deze Arena
+
+[418] Hey Deze Arena
+Encounter: suckubus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: suckubus takes 19 damage.
+Round 2: boolicious attacks!
+Round 3: suckubus takes 93 damage.
+Round 3: suckubus drops 1 attack power.
+Round 3: suckubus drops 3 defense.
+Round 3: boolicious wins the fight!
+You gain 63 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 9 Strengthliness
+You gain 6 Magicalness
+You gain 6 Cheek
+
+[419] Hey Deze Arena
+Encounter: A Pertinent Imp
+You acquire an item: comfy pillow
+
+[420] Hey Deze Arena
+Encounter: Your Bassist Impulses
+You acquire an item: sponge cake
+
+[421] Hey Deze Arena
+Encounter: A Dicey Situation
+You acquire an item: gin-soaked blotter paper
+
+[422] Hey Deze Arena
+Encounter: inkubus
+Round 0: boolicious loses initiative!
+You lose 6 hit points
+Round 1: boolicious attacks!
+Round 2: inkubus takes 91 damage.
+Round 2: inkubus drops 1 attack power.
+Round 2: inkubus drops 1 defense.
+Round 2: boolicious wins the fight!
+You gain 70 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 8 Fortitude
+You gain 5 Enchantedness
+You gain 8 Chutzpah
+
+[423] Hey Deze Arena
+Encounter: serialbus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: serialbus takes 16 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: serialbus takes 93 damage.
+Round 3: serialbus drops 3 attack power.
+Round 3: serialbus drops 1 defense.
+Round 3: boolicious wins the fight!
+You gain 44 Meat
+You acquire an item: bus pass
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Beefiness
+You gain 5 Wizardliness
+You gain 5 Chutzpah
+
+[424] Hey Deze Arena
+Encounter: Suckubus? You Hardly Know Us!
+You acquire an item: beer-scented teddy bear
+
+[425] Hey Deze Arena
+Encounter: serialbus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: serialbus takes 12 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: serialbus takes 88 damage.
+Round 3: serialbus drops 1 attack power.
+Round 3: serialbus drops 1 defense.
+Round 3: boolicious wins the fight!
+You gain 35 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 9 Strengthliness
+You gain 3 Magicalness
+You gain 9 Smarm
+
+[426] Hey Deze Arena
+Encounter: serialbus
+Round 0: boolicious loses initiative!
+You lose 7 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: serialbus takes 93 damage.
+Round 2: serialbus drops 2 attack power.
+Round 2: serialbus drops 2 defense.
+Round 2: boolicious wins the fight!
+You gain 44 Meat
+You acquire an item: bus pass
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 10 Fortitude
+You gain 7 Enchantedness
+You gain 4 Chutzpah
+
+[427] Hey Deze Arena
+Encounter: serialbus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: serialbus takes 15 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: serialbus takes 78 damage.
+Round 3: serialbus drops 1 attack power.
+Round 3: serialbus drops 3 defense.
+Round 3: boolicious wins the fight!
+You gain 44 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 14 Beefiness
+You gain 5 Magicalness
+You gain 3 Roguishness
+
+[428] Hey Deze Arena
+Encounter: serialbus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: serialbus takes 18 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: serialbus takes 87 damage.
+Round 3: serialbus drops 1 attack power.
+Round 3: serialbus drops 2 defense.
+Round 3: boolicious wins the fight!
+You gain 43 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 8 Fortitude
+You gain 3 Magicalness
+You gain 11 Smarm
+
+[429] Hey Deze Arena
+Encounter: suckubus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: suckubus takes 22 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" She is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: suckubus takes 99 damage.
+Round 3: suckubus drops 1 attack power.
+Round 3: suckubus drops 3 defense.
+Round 3: boolicious wins the fight!
+You gain 58 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 14 Beefiness
+You gain 4 Mysteriousness
+You gain 3 Sarcasm
+You gain a Moxie point!
+
+[430] Hey Deze Arena
+Encounter: inkubus
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: inkubus takes 81 damage.
+Round 2: inkubus drops 1 attack power.
+Round 2: inkubus drops 1 defense.
+Round 2: boolicious wins the fight!
+You gain 63 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Beefiness
+You gain 5 Enchantedness
+You gain 4 Smarm
+
+[431] Hey Deze Arena
+Encounter: suckubus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: suckubus takes 19 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: suckubus takes 93 damage.
+Round 3: suckubus drops 3 attack power.
+Round 3: suckubus drops 1 defense.
+Round 3: boolicious wins the fight!
+You gain 63 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Strengthliness
+You gain a Muscle point!
+You gain a Level!
+You gain 5 Mysteriousness
+You gain 3 Cheek
+
+[432] Hey Deze Arena
+Encounter: inkubus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: inkubus takes 15 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: inkubus takes 84 damage.
+Round 3: inkubus drops 2 attack power.
+Round 3: inkubus drops 2 defense.
+Round 3: boolicious wins the fight!
+You gain 60 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 9 Beefiness
+You gain 7 Enchantedness
+You gain a Mysticality point!
+You gain 4 Smarm
+
+[433] Hey Deze Arena
+Encounter: suckubus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: suckubus takes 22 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: suckubus takes 102 damage.
+Round 3: suckubus drops 3 attack power.
+Round 3: suckubus drops 2 defense.
+Round 3: boolicious wins the fight!
+You gain 63 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 14 Fortitude
+You gain 7 Mysteriousness
+
+[434] Hey Deze Arena
+Encounter: serialbus
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: serialbus takes 96 damage.
+Round 2: serialbus drops 2 attack power.
+Round 2: serialbus drops 2 defense.
+Round 2: boolicious wins the fight!
+You gain 43 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 9 Beefiness
+You gain 5 Mysteriousness
+You gain 6 Sarcasm
+
+[435] Hey Deze Arena
+Encounter: serialbus
+Round 0: boolicious loses initiative!
+You lose 8 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: serialbus takes 88 damage.
+Round 2: serialbus drops 3 attack power.
+Round 2: serialbus drops 3 defense.
+Round 2: boolicious wins the fight!
+You gain 44 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 11 Strengthliness
+You gain 6 Wizardliness
+You gain 4 Sarcasm
+
+[436] Hey Deze Arena
+Encounter: suckubus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: suckubus takes 17 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" She is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: suckubus takes 90 damage.
+Round 3: suckubus drops 1 attack power.
+Round 3: suckubus drops 1 defense.
+Round 3: boolicious wins the fight!
+You gain 53 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 15 Strongness
+You gain 3 Wizardliness
+You gain 4 Cheek
+
+[437] Hey Deze Arena
+Encounter: suckubus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: suckubus takes 13 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" She is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: suckubus takes 94 damage.
+Round 3: suckubus drops 1 attack power.
+Round 3: suckubus drops 1 defense.
+Round 3: boolicious wins the fight!
+You gain 49 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 5 Fortitude
+You gain 5 Enchantedness
+You gain 10 Sarcasm
+
+[438] Hey Deze Arena
+Encounter: inkubus
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: inkubus takes 84 damage.
+Round 2: inkubus drops 1 attack power.
+Round 2: inkubus drops 3 defense.
+Round 2: boolicious wins the fight!
+You gain 64 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Muscleboundness
+You gain 4 Mysteriousness
+You gain 5 Cheek
+
+[439] Hey Deze Arena
+Encounter: serialbus
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: serialbus takes 82 damage.
+Round 2: serialbus drops 3 attack power.
+Round 2: serialbus drops 1 defense.
+Round 2: boolicious wins the fight!
+You gain 46 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 14 Strongness
+You gain 5 Mysteriousness
+You gain 4 Roguishness
+
+[440] Hey Deze Arena
+Encounter: inkubus
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: inkubus takes 93 damage.
+Round 2: inkubus drops 1 attack power.
+Round 2: inkubus drops 3 defense.
+Round 2: boolicious wins the fight!
+You gain 78 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 9 Muscleboundness
+You gain a Muscle point!
+You gain 9 Mysteriousness
+You gain 4 Smarm
+
+[441] Hey Deze Arena
+Encounter: serialbus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: serialbus takes 12 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+You lose 6 hit points
+Round 3: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 3: boolicious attacks!
+Round 4: serialbus takes 84 damage.
+Round 4: serialbus drops 1 attack power.
+Round 4: serialbus drops 2 defense.
+Round 4: boolicious wins the fight!
+You gain 35 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 14 Fortitude
+You gain 4 Magicalness
+You gain 4 Chutzpah
+
+[442] Hey Deze Arena
+Encounter: serialbus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: serialbus takes 20 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: serialbus takes 85 damage.
+Round 3: serialbus drops 3 attack power.
+Round 3: serialbus drops 2 defense.
+Round 3: boolicious wins the fight!
+You gain 46 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 11 Fortitude
+You gain 8 Mysteriousness
+You gain 3 Cheek
+
+[443] Hey Deze Arena
+Encounter: serialbus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: serialbus takes 21 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: serialbus takes 97 damage.
+Round 3: serialbus drops 2 attack power.
+Round 3: serialbus drops 1 defense.
+Round 3: boolicious wins the fight!
+You gain 42 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 14 Strongness
+You gain 4 Enchantedness
+You gain 5 Smarm
+
+[444] Hey Deze Arena
+Encounter: suckubus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: suckubus takes 21 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: suckubus takes 94 damage.
+Round 3: suckubus drops 1 attack power.
+Round 3: suckubus drops 1 defense.
+Round 3: boolicious wins the fight!
+You gain 57 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 10 Beefiness
+You gain 8 Mysteriousness
+You gain 3 Chutzpah
+
+[445] Hey Deze Arena
+Encounter: serialbus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: serialbus takes 20 damage.
+You lose 6 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: serialbus takes 93 damage.
+Round 3: serialbus drops 2 attack power.
+Round 3: serialbus drops 2 defense.
+Round 3: boolicious wins the fight!
+You gain 44 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 7 Muscleboundness
+You gain 6 Mysteriousness
+You gain a Mysticality point!
+You gain 9 Chutzpah
+You gain a Moxie point!
+
+[446] Hey Deze Arena
+Encounter: inkubus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: inkubus takes 22 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: inkubus takes 93 damage.
+Round 3: inkubus drops 1 attack power.
+Round 3: inkubus drops 3 defense.
+Round 3: boolicious wins the fight!
+You gain 74 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 7 Muscleboundness
+You gain 9 Enchantedness
+You gain 5 Smarm
+
+[447] Hey Deze Arena
+Encounter: serialbus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: serialbus takes 22 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: serialbus takes 106 damage.
+Round 3: serialbus drops 1 attack power.
+Round 3: serialbus drops 1 defense.
+Round 3: boolicious wins the fight!
+You gain 46 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 17 Fortitude
+You gain 3 Wizardliness
+You gain 3 Cheek
+
+[448] Hey Deze Arena
+Encounter: serialbus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: serialbus takes 20 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: serialbus takes 90 damage.
+Round 3: serialbus drops 3 attack power.
+Round 3: serialbus drops 2 defense.
+Round 3: boolicious wins the fight!
+You gain 40 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Beefiness
+You gain 7 Mysteriousness
+You gain 2 Cheek
+
+[449] Hey Deze Arena
+Encounter: inkubus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: inkubus takes 20 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: inkubus takes 82 damage.
+Round 3: inkubus drops 1 attack power.
+Round 3: inkubus drops 2 defense.
+Round 3: boolicious wins the fight!
+You gain 68 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 11 Fortitude
+You gain 4 Enchantedness
+You gain 6 Cheek
+
+[450] Hey Deze Arena
+Encounter: suckubus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: suckubus takes 17 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: suckubus takes 96 damage.
+Round 3: suckubus drops 1 attack power.
+Round 3: suckubus drops 2 defense.
+Round 3: boolicious wins the fight!
+Your familiar gains a pound: Heckel &amp; Jeckyl, the 17 lb. Fancypants Scarecrow
+You gain 56 Meat
+You acquire an item: bus pass
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 11 Fortitude
+You gain a Muscle point!
+You gain 4 Mysteriousness
+You gain 5 Roguishness
+
+Visiting Moaning Panda Square in Pandamonium
+You acquire an item: Azazel's tutu
+
+Visiting Azazel's Temple in Pandamonium
+
+Talking to Sven Golly at the Hey Deze Arena
+Giving gin-soaked blotter paper to Bognort
+
+Talking to Sven Golly at the Hey Deze Arena
+Giving comfy pillow to Stinkface
+
+[451] Hey Deze Arena
+Encounter: A Pertinent Imp
+You acquire an item: comfy pillow
+
+[452] Hey Deze Arena
+Encounter: inkubus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: inkubus takes 20 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: inkubus takes 94 damage.
+Round 3: inkubus drops 2 attack power.
+Round 3: inkubus drops 3 defense.
+Round 3: boolicious wins the fight!
+You gain 60 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 16 Fortitude
+You gain 2 Mysteriousness
+You gain 4 Roguishness
+
+[453] Defiled Nook
+Encounter: toothy sklelton
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: toothy sklelton takes 17 damage.
+Round 2: boolicious attacks!
+Round 3: toothy sklelton takes 87 damage.
+Round 3: toothy sklelton drops 3 attack power.
+Round 3: toothy sklelton drops 1 defense.
+Round 3: boolicious wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 8 Strengthliness
+You gain 7 Magicalness
+You gain 6 Sarcasm
+
+equip weapon Rain-Doh violet bo
+
+[454] Defiled Nook
+Encounter: toothy sklelton
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: toothy sklelton takes 26 damage.
+Round 2: boolicious attacks!
+Round 3: toothy sklelton takes 135 damage.
+Round 3: boolicious wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: loose teeth
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Fortitude
+You gain 7 Wizardliness
+You gain 2 Smarm
+
+[455] Defiled Nook
+Encounter: toothy sklelton
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: toothy sklelton takes 26 damage.
+Round 2: boolicious attacks!
+Round 3: toothy sklelton takes 135 damage.
+Round 3: boolicious wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: loose teeth
+You acquire an item: loose teeth
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 10 Muscleboundness
+You gain 5 Mysteriousness
+You gain 7 Roguishness
+
+[456] Defiled Nook
+Encounter: toothy sklelton
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: toothy sklelton takes 134 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: loose teeth
+You acquire an item: skeleton bone
+You acquire an item: evil eye
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Strengthliness
+You gain 6 Enchantedness
+You gain 4 Sarcasm
+
+use 1 evil eye
+
+[457] Defiled Nook
+Encounter: spiny skelelton
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: spiny skelelton takes 149 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: skeleton bone
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Beefiness
+You gain 3 Enchantedness
+You gain 5 Roguishness
+
+Talking to Sven Golly at the Hey Deze Arena
+Giving beer-scented teddy bear to Jim
+
+[458] Hey Deze Arena
+Encounter: Suckubus? You Hardly Know Us!
+You acquire an item: beer-scented teddy bear
+
+Talking to Sven Golly at the Hey Deze Arena
+Giving comfy pillow to Jim
+
+Talking to Sven Golly at the Hey Deze Arena
+Giving giant marshmallow to Flargwurm
+
+[459] Hey Deze Arena
+Encounter: A Dicey Situation
+You acquire an item: gin-soaked blotter paper
+
+[460] Hey Deze Arena
+Encounter: serialbus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: serialbus takes 28 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: serialbus takes 152 damage.
+Round 3: boolicious wins the fight!
+You gain 40 Meat
+You acquire an item: bus pass
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 10 Beefiness
+You gain 4 Enchantedness
+You gain 7 Smarm
+
+Visiting Moaning Panda Square in Pandamonium
+
+[461] Defiled Niche
+Encounter: senile lihc
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: senile lihc takes 141 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 9 Fortitude
+You gain 7 Magicalness
+You gain 4 Smarm
+
+[462] Defiled Niche
+Encounter: Urning Your Keep
+Took choice 157/2: plus-sized phylactery
+choice.php?pwd&whichchoice=157&option=2
+You acquire an item: plus-sized phylactery
+
+[463] Defiled Niche
+Encounter: dirty old lihc
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: dirty old lihc takes 18 damage.
+Round 2: boolicious attacks!
+Round 3: dirty old lihc takes 144 damage.
+Round 3: boolicious wins the fight!
+After Battle: Either way, your Evilometer beeps three times.
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 7 Muscleboundness
+You gain 6 Wizardliness
+You gain a Mysticality point!
+You gain 9 Sarcasm
+You gain a Moxie point!
