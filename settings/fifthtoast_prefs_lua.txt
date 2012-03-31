@@ -25,7 +25,7 @@ OptionsFrame=354,275,5
 ProfileFrame=425,323,-1
 RecentEventsFrame=474,284
 RequestFrame=-3,-3,-1
-RequestSynchFrame=-3,-3,-1
+RequestSynchFrame=336,244,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=293,225,3
@@ -56,7 +56,7 @@ _companionshipCasts=0
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=6
+_demandSandwich=0
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -122,7 +122,7 @@ _transponderDrops=0
 _trivialAvocationsGame=false
 _userMods
 _vmaskAdv=0
-_zapCount=0
+_zapCount=1
 addingScrolls=2
 afterAdventureScript
 arcadeGameHints=true
@@ -613,8 +613,8 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=2412
-currentFullness=0
+currentBountyItem=0
+currentFullness=30
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -622,7 +622,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=1
 currentWheelPosition=moxie
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -675,7 +675,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=5
@@ -689,7 +689,7 @@ hermitHax0red=true
 heroDonationBoris=11500
 heroDonationJarlsberg=0
 heroDonationSneakyPete=0
-hiddenCityLayout=EEEW0000000000000000000EE
+hiddenCityLayout=EEEWEPEPEEFEPLTANEPEEP0EE
 hiddenCitySquare=0
 hippiesDefeated=0
 hpAutoRecovery=-0.05
@@ -699,7 +699,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Hidden Temple
+lastAdventure=Dungeons of Doom
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -716,13 +716,13 @@ lastBangPotion827=blessing
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=0
+lastBreakfast=1
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=11
-lastCounterDay=0
+lastCounterDay=1
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -763,7 +763,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=craven carven raven
+lastEncounter=swarm of killer bees
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -775,7 +775,7 @@ lastHiddenCityAscension=1
 lastHippyCall=-1
 lastKingLiberation=2
 lastLouvreMap=1
-lastManorUnlock=-1
+lastManorUnlock=1
 lastMessageCount=15
 lastMessageId
 lastMiningReset=1
@@ -835,7 +835,7 @@ lastTowerClimb=0
 lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
-lastZapperWand=0
+lastZapperWand=1
 libramSummons=0
 libraryCardUsed=false
 louvreDesiredGoal=0
@@ -918,9 +918,9 @@ questL09Lol=finished
 questL10Garbage=finished
 questL11MacGuffin=step2
 questL11Manor=started
-questL11Palindome=started
-questL11Pyramid=step4
-questL11Worship=started
+questL11Palindome=step4
+questL11Pyramid=step5
+questL11Worship=step3
 questL12War=unstarted
 questL13Final=unstarted
 questM01Untinker=finished
@@ -1019,7 +1019,7 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=false
+telescopeLookedHigh=true
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
