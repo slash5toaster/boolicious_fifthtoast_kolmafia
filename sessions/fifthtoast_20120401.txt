@@ -1,0 +1,615 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+April 1, 2012 - Boozember 4
+
+Ronald: waxing gibbous
+Grimace: waxing crescent
+Mini-moon: in front of Grimace, R side
+
+April Fool's Day: today
+Feast of Boris: 3 days
+Oyster Egg Day: 7 days
+Yuletide: 8 days
+Festival of Jarlsberg: 13 days
+Valentine's Day: 24 days
+St. Sneaky Pete's Day: 31 days
+El Dia De Los Muertos Borrachos: 46 days
+Generic Summer Holiday: 55 days
+Dependence Day: 64 days
+Arrrbor Day: 72 days
+Lab&oacute;r Day: 82 days
+Halloween: 92 days
+
+April Fool's Day
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 11
+HP: 309 / 309
+MP: 115 / 115
+
+Mus: 163 (123), tnp = 148
+Mys: 115 (98), tnp = 64
+Mox: 107 (90), tnp = 37
+
+Advs: 126
+Meat: 8,790
+Drunk: 0
+
+
+ > equipment
+
+Hat: Knob Goblin elite helm
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: black greaves
+
+Acc. 1: hamethyst ring
+Acc. 2: pirate fledges
+Acc. 3: dead guy's watch
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Stomach of Steel
+
+Avatar Of Boris
+ - Big Boned
+ - Broadside
+ - Cleave
+ - Demand Sandwich
+ - Ferocity
+ - Intimidating Bellow
+ - Laugh It Off
+ - Legendary Appetite
+ - Legendary Bravado
+ - Legendary Girth
+ - Mighty Axing
+ - Song of Accompaniment
+ - Song of the Glorious Lunch
+
+
+ > effects
+
+0 of 3 AT buffs active.
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+zap ring of aggravate monster
+You acquire an item: ring of adornment
+
+[2441] Spectral Pickle Factory
+Encounter: vine gar
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: vine gar takes 36 damage.
+You lose 86 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts BROADSIDE!
+Round 3: fifthtoast casts MIGHTY AXING!
+Round 4: fifthtoast casts MIGHTY AXING!
+Round 5: fifthtoast casts CLEAVE!
+Round 6: vine gar takes 55 damage.
+Round 6: fifthtoast executes a macro!
+Round 7: fifthtoast attacks!
+You lose 83 hit points
+Round 8: fifthtoast casts CLEESH!
+You lose 83 hit points
+Round 9: fifthtoast casts RETURN!
+You lose 81 hit points
+Visiting Comfy Sofa in clan rumpus room
+
+[2442] Rest in Clan Sofa (1 turns)
+You gain 55 hit points
+You gain 8 Mojo Points
+
+cast 3 Demand Sandwich
+You acquire corned-beef Reuben (3)
+
+cast 50 Laugh It Off
+You gain 71 hit points
+
+adventure.php?snarfblat=118
+
+[2443] Hidden City (Square 23)
+Encounter: pygmy assault squad
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 60 hit points
+After Battle: unspecified macro action?
+You lose 78 hit points
+
+cast 33 Laugh It Off
+
+cast 30 Laugh It Off
+You gain 42 hit points
+Visiting Comfy Sofa in clan rumpus room
+
+[2444] Rest in Clan Sofa (3 turns)
+You gain 167 hit points
+You gain 112 Mojo Points
+
+[2447] Oasis in the Desert
+Encounter: four-shadowed mime
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: four-shadowed mime takes 151 damage.
+Round 1: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 10 Muscularity Points
+You acquire an item: mime soul fragment
+You gain 8 Muscleboundness
+You gain 3 Enchantedness
+You gain 4 Chutzpah
+
+[2448] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[2449] Desert (Ultrahydrated)
+Encounter: cactuary
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: cactuary takes 63 damage.
+You lose 7 hit points
+You lose 35 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: cactuary takes 77 damage.
+You lose 9 hit points
+You lose 38 hit points
+Round 2: fifthtoast attacks!
+Round 3: cactuary takes 52 damage.
+You lose 5 hit points
+Round 3: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 10 Muscularity Points
+You gain 107 Meat
+You acquire an item: giant cactus quill
+You gain 18 Strongness
+You gain 11 Wizardliness
+You gain 7 Smarm
+
+[2450] Desert (Ultrahydrated)
+Encounter: rock scorpion
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: rock scorpion takes 72 damage.
+You lose 39 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: rock scorpion takes 70 damage.
+You lose 39 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts BROADSIDE!
+Round 3: fifthtoast casts MIGHTY AXING!
+Round 4: rock scorpion takes 66 damage.
+Round 4: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 8 Muscularity Points
+You gain 209 Meat
+You acquire an item: handful of sand
+You gain 17 Fortitude
+You gain 13 Wizardliness
+You gain 8 Chutzpah
+
+equip acc3 Mega Gem
+
+equip hat mesh cap
+
+use 1 Angry Farmer candy
+You acquire an effect: Sugar Rush (duration: 10 Adventures)
+
+use 1 evil eye
+
+use 19 shiny stones
+You gain 2,811 Meat
+
+use 1 pickle-flavored chewing gum
+You acquire an effect: Mystic Pickleness (duration: 5 Adventures)
+
+use 1 Swabbie&trade; swab
+You acquire an effect: Well-Swabbed Ear (duration: 10 Adventures)
+
+equip acc2 Talisman o' Nam
+
+[2451] Palindome
+Encounter: Dr. Awkward
+Took choice 131/1: unknown
+choice.php?pwd&whichchoice=131&option=1
+Encounter: Dr. Awkward
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BROADSIDE!
+Round 2: fifthtoast casts MIGHTY AXING!
+Round 3: dr. awkward takes 45 damage.
+Round 3: fifthtoast casts MIGHTY AXING!
+Round 4: dr. awkward takes 83 damage.
+Round 4: fifthtoast casts CLEAVE!
+Round 5: dr. awkward takes 95 damage.
+Round 5: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 10 Muscularity Points
+You acquire an item: Staff of Fats
+You acquire an item: Drowsy Sword
+You gain 59 Beefiness
+You gain 37 Enchantedness
+You gain a Mysticality point!
+You gain 33 Roguishness
+You gain a Moxie point!
+
+adventure.php?snarfblat=118
+
+equip acc2 pirate fledges
+
+equip acc3 Boris's ring
+
+use 1 roofie
+You acquire an effect: Confused (duration: 10 Adventures)
+You acquire an effect: Amorous (duration: 10 Adventures)
+
+equip acc1 imp unity ring
+
+equip acc3 dirty hobo gloves
+
+[2452] Hidden City (Square 6)
+Encounter: ancient protector spirit
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: ancient protector spirit takes 13 damage.
+You lose 34 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts BROADSIDE!
+Round 3: fifthtoast casts MIGHTY AXING!
+Round 4: ancient protector spirit takes 13 damage.
+Round 4: fifthtoast casts MIGHTY AXING!
+Round 5: ancient protector spirit takes 13 damage.
+Round 5: fifthtoast casts CLEAVE!
+Round 6: ancient protector spirit takes 13 damage.
+Round 6: fifthtoast executes a macro!
+Round 7: fifthtoast casts CLEAVE!
+Round 8: ancient protector spirit takes 13 damage.
+You lose 33 hit points
+Round 8: fifthtoast attacks!
+Round 9: ancient protector spirit takes 13 damage.
+You lose 36 hit points
+Visiting Comfy Sofa in clan rumpus room
+
+[2453] Rest in Clan Sofa (1 turns)
+You gain 54 hit points
+You gain 20 Mojo Points
+
+[2454] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[2455] Oasis in the Desert
+Encounter: oasis monster
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 44 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+You lose 45 hit points
+Visiting Comfy Sofa in clan rumpus room
+
+[2456] Rest in Clan Sofa (1 turns)
+You gain 54 hit points
+
+[2457] Dungeons of Doom
+Encounter: acid blob
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: acid blob takes 108 damage.
+You acquire an effect: Corroded Weapon (duration: 5 Adventures)
+Round 1: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 7 Muscularity Points
+You gain 9 Strongness
+You gain 7 Mysteriousness
+You gain 1 Cheek
+
+[2458] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: quantum mechanic takes 93 damage.
+Round 1: fifthtoast wins the fight!
+You gain 9 hit points
+You gain 8 Muscularity Points
+You gain 8 Muscleboundness
+You gain 2 Magicalness
+You gain 7 Roguishness
+
+[2459] Dungeons of Doom
+Encounter: swarm of killer bees
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: swarm of killer bees takes 172 damage.
+Round 1: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 6 Muscularity Points
+You gain 8 Fortitude
+You gain 5 Mysteriousness
+You gain 4 Sarcasm
+
+[2460] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: quantum mechanic takes 163 damage.
+Round 1: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 7 Muscularity Points
+You gain 9 Strongness
+You gain 4 Wizardliness
+You gain 4 Roguishness
+
+cast 30 Laugh It Off
+You gain 46 hit points
+
+[2461] Dungeons of Doom
+Encounter: mind flayer
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: mind flayer takes 156 damage.
+Round 1: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 5 Muscularity Points
+You gain 8 Strongness
+You gain 4 Magicalness
+You gain 5 Sarcasm
+
+cast 40 Laugh It Off
+You gain 60 hit points
+
+[2462] Dungeons of Doom
+Encounter: large kobold
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: large kobold takes 158 damage.
+Round 1: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 7 Muscularity Points
+You gain 8 Strongness
+You gain a Muscle point!
+You gain 5 Wizardliness
+You gain 3 Cheek
+
+[2463] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: quantum mechanic takes 161 damage.
+Round 1: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 7 Muscularity Points
+You gain 9 Fortitude
+You gain 3 Magicalness
+You gain 5 Sarcasm
+
+[2464] Dungeons of Doom
+Encounter: Ouch!  You bump into a door!
+Took choice 25/3: skip adventure
+choice.php?pwd&whichchoice=25&option=3
+
+[2464] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: quantum mechanic takes 144 damage.
+Round 1: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 6 Muscularity Points
+You gain 5 Strongness
+You gain 6 Magicalness
+You gain 7 Cheek
+
+[2465] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[2466] Desert (Ultrahydrated)
+Encounter: rock scorpion
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: rock scorpion takes 78 damage.
+You lose 31 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: rock scorpion takes 80 damage.
+Round 2: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 7 Muscularity Points
+You gain 201 Meat
+You acquire an item: handful of sand
+You gain 16 Beefiness
+You gain 10 Enchantedness
+You gain 10 Chutzpah
+
+[2467] Oasis in the Desert
+Encounter: oasis monster
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: oasis monster takes 77 damage.
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: oasis monster takes 79 damage.
+Round 2: fifthtoast wins the fight!
+You gain 9 hit points
+You gain 8 Muscularity Points
+You gain 97 Meat
+You gain 19 Fortitude
+You gain 11 Enchantedness
+You gain 4 Sarcasm
+
+[2468] Oasis in the Desert
+Encounter: rolling stone
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: rolling stone takes 81 damage.
+You lose 31 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: rolling stone takes 89 damage.
+Round 2: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 5 Muscularity Points
+You acquire an item: brown sugar cane
+You gain 19 Muscleboundness
+You gain 9 Enchantedness
+You gain 7 Chutzpah
+
+[2469] Oasis in the Desert
+Encounter: oasis monster
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: oasis monster takes 77 damage.
+You lose 28 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: oasis monster takes 77 damage.
+Round 2: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 6 Muscularity Points
+You gain 89 Meat
+You acquire an item: Supernova Champagne
+You gain 14 Muscleboundness
+You gain 10 Magicalness
+You gain 11 Chutzpah
+
+[2470] Oasis in the Desert
+Encounter: rolling stone
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: rolling stone takes 90 damage.
+You lose 34 hit points
+After Battle: unspecified macro action?
+After Battle: rolling stone takes 72 damage.
+After Battle: fifthtoast wins the fight!
+You gain 9 hit points
+You gain 9 Muscularity Points
+You acquire an item: Tuesday's ruby
+You gain 20 Strongness
+You gain 7 Wizardliness
+You gain 10 Chutzpah
+
+[2471] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[2472] Oasis in the Desert
+Encounter: blur
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: blur takes 76 damage.
+You lose 30 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: blur takes 78 damage.
+Round 2: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 9 Muscularity Points
+You gain 99 Meat
+You acquire an item: drum machine
+You acquire an item: carbonated water lily
+You gain 15 Fortitude
+You gain 11 Magicalness
+You gain 10 Cheek
+
+[2473] Oasis in the Desert
+Encounter: oasis monster
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: oasis monster takes 77 damage.
+You lose 29 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: oasis monster takes 75 damage.
+Round 2: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 10 Muscularity Points
+You gain 100 Meat
+You gain 12 Strongness
+You gain 7 Wizardliness
+You gain 15 Sarcasm
+
+[2474] Oasis in the Desert
+Encounter: swarm of scarab beatles
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: swarm of scarab beatles takes 132 damage.
+Round 1: fifthtoast wins the fight!
+You gain 9 hit points
+You gain 5 Muscularity Points
+You gain 176 Meat
+You acquire an item: mojo filter
+You acquire an item: palm frond
+You gain 22 Muscleboundness
+You gain 7 Magicalness
+You gain 7 Roguishness
+
+[2475] Oasis in the Desert
+Encounter: rolling stone
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 31 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: rolling stone takes 73 damage.
+You lose 34 hit points
+After Battle: unspecified macro action?
+After Battle: rolling stone takes 75 damage.
+After Battle: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 10 Muscularity Points
+You acquire an item: palm frond
+You acquire an item: brown sugar cane
+You gain 20 Strengthliness
+You gain 10 Enchantedness
+You gain 6 Cheek
+
+[2476] Oasis in the Desert
+Encounter: four-shadowed mime
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: four-shadowed mime takes 152 damage.
+Round 1: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 9 Muscularity Points
+You acquire an item: mime soul fragment
+You gain 6 Fortitude
+You gain 7 Cheek
+
+[2477] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[2478] Oasis in the Desert
+Encounter: rolling stone
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 36 hit points
+After Battle: unspecified macro action?
+After Battle: rolling stone takes 89 damage.
+You lose 37 hit points
