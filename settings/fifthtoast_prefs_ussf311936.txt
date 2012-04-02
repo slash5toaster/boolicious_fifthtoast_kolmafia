@@ -3,9 +3,9 @@ ContactListFrame=2663,343
 CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=185,49,-1
+KoLDesktop=190,53,-1
 LoginFrame=2645,365,0
-MaximizerFrame=1039,811
+MaximizerFrame=972,383
 ProfileFrame=2662,409,-1
 RequestFrame=2575,334,-1
 RequestSynchFrame=2575,334,-1
@@ -35,7 +35,7 @@ _companionshipCasts=0
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=3
+_demandSandwich=0
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -583,7 +583,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=30
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -667,7 +667,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Barrrney's Barrr
+lastAdventure=Wartime Frat House (Hippy Disguise)
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=sleepiness
@@ -682,13 +682,13 @@ lastBangPotion827=blessing
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=13
+lastBreakfast=4
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=9
-lastCounterDay=13
+lastCouncilVisit=12
+lastCounterDay=4
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -729,7 +729,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=tipsy pirate
+lastEncounter=War Pledge
 lastFilthClearance=-1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -800,7 +800,7 @@ lastTowerClimb=-1
 lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=-1
-lastZapperWand=0
+lastZapperWand=1
 libramSummons=0
 libraryCardUsed=false
 louvreDesiredGoal=7
@@ -883,10 +883,10 @@ questL09Lol=finished
 questL10Garbage=finished
 questL11MacGuffin=unstarted
 questL11Manor=started
-questL11Palindome=started
+questL11Palindome=finished
 questL11Pyramid=step5
 questL11Worship=step3
-questL12War=unstarted
+questL12War=started
 questL13Final=unstarted
 questM01Untinker=finished
 questM02Artist=finished
@@ -915,7 +915,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=1861\:Semirare window begin\:lparen.gif\:1901\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -965,7 +965,7 @@ spookyPuttyCopiesMade=0
 spookyPuttyMonster
 stationaryButton1=11003
 stationaryButton2=11000
-stationaryButton3
+stationaryButton3=11001
 stationaryButton4
 stationaryButton5
 styxPixieVisited=false
