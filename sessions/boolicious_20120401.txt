@@ -2938,3 +2938,235 @@ You gain a Moxie point!
 Encounter: F-F-Fantastic!
 You acquire an item: S.O.C.K.
 You acquire an item: giant castle map
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+April 1, 2012 - Boozember 4
+
+Ronald: waxing gibbous
+Grimace: waxing crescent
+Mini-moon: in front of Grimace, R side
+
+April Fool's Day: today
+Feast of Boris: 3 days
+Oyster Egg Day: 7 days
+Yuletide: 8 days
+Festival of Jarlsberg: 13 days
+Valentine's Day: 24 days
+St. Sneaky Pete's Day: 31 days
+El Dia De Los Muertos Borrachos: 46 days
+Generic Summer Holiday: 55 days
+Dependence Day: 64 days
+Arrrbor Day: 72 days
+Lab&oacute;r Day: 82 days
+Halloween: 92 days
+
+April Fool's Day
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 10
+HP: 51 / 299
+MP: 58 / 98
+
+Mus: 196 (93), tnp = 134
+Mys: 98 (63), tnp = 17
+Mox: 93 (63), tnp = 123
+
+Advs: 57
+Meat: 22,641
+Drunk: 13
+
+
+ > equipment
+
+Hat: mesh cap
+Weapon: pygmy spear
+Off-hand: catskin buckler
+Shirt: star shirt
+Pants: astral trousers
+
+Acc. 1: Mr. Accessory
+Acc. 2: Boris's ring
+Acc. 3: Mr. Accessory
+
+Pet: Fancypants Scarecrow (20 lbs)
+Item: leotarrrd
+
+ > skills
+
+Uncategorized
+ - Liver of Steel
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Seal Clubbing Frenzy
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Seal Clubbing Frenzy (94)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +3.16
+Meat: +40.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #53/1200:
+Question: What was stolen from the Blurstishire Museum of Mathematics on Febtober eighth, 1939?
+Answer: A buff chicken.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #482/1200:
+Question: According to 
+Answer: Never.
+
+use 1 Trivial Avocations Card: Where?
+You acquire an effect: You Know Where to Go (duration: 1 Adventure)
+Trivia card #1010/1200:
+Question: Where did Señor Jonsey Draper, inventor of the pedal-powered radio, get stolen by Gypsies?
+Answer: In an owlry in X'tn'ch'roth.
+
+use 1 Trivial Avocations Card: Who?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Where to Go
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #860/1200:
+Question: Who won the mithril medal for volleyball in the 1965 Olympics?
+Answer: Viceroy Clive XII, ruler of Farc'b'n and the Ancient Canyons.
+
+[912] Fantasy Airship
+Encounter: Protagonist
+Round 0: boolicious loses initiative!
+Round 0: boolicious uses the facsimile dictionary!
+Round 1: boolicious attacks!
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+After Battle: unspecified macro action?
+After Battle: protagonist takes 366 damage.
+After Battle: boolicious wins the fight!
+You gain 154 Meat
+You acquire an item: ridiculously huge sword
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 19 Muscleboundness
+You gain 7 Enchantedness
+You gain 8 Smarm
+
+[913] Orc Chasm
+Encounter: 1335 HaXx0r
+Round 0: boolicious wins initiative!
+Round 0: boolicious uses the facsimile dictionary!
+Round 1: 1335 haxx0r takes 42 damage.
+Round 1: boolicious attacks!
+Round 2: 1335 haxx0r takes 435 damage.
+Round 2: boolicious wins the fight!
+You gain 37 Meat
+You acquire an item: Dyspepsi-Cola
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 15 Strengthliness
+You gain 5 Magicalness
+You gain 9 Smarm
+
+multiuse.php?passitem=347&pwd=67daed967ce07a8e41cb3fe00d783b29
+
+use 1 Dyspepsi-Cola
+You gain 11 Muscularity Points
+
+use 1 Dyspepsi-Cola
+You gain 12 Muscularity Points
+
+use 1 Dyspepsi-Cola
+You gain 10 Muscularity Points
+
+buy 1 Medicinal Herb's medicinal herbs for 100 each from Smacketeria
+You acquire an item: Medicinal Herb's medicinal herbs
+You spent 100 Meat
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 387 hit points
+
+use 1 hermit script
+
+use 1 stat script
+You gain 124 Strongness
+You gain a Muscle point!
+You gain 104 Wizardliness
+You gain a Mysticality point!
+You gain 142 Cheek
+You gain a Moxie point!
+
+use 1 the Slug Lord's map
+
+use 1 Jackass Plumber home game
+You acquire an effect: Gamer Rage (duration: 10 Adventures)
+friars blessing 3
+You acquire an effect: Brother Smothers's Blessing (duration: 20 Adventures)
+
+[914] Giant's Castle
+Encounter: What are the Odds?
+You acquire an item: plot hole
+You acquire an item: chaos butterfly
+
+[915] Giant's Castle
+Encounter: Alphabet Giant
+Round 0: boolicious loses initiative!
+Round 0: boolicious uses the facsimile dictionary!
+Round 1: boolicious attacks!
+After Battle: unspecified macro action?
+After Battle: alphabet giant takes 362 damage.
+After Battle: boolicious wins the fight!
+You gain 214 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 25 Strongness
+You gain 12 Enchantedness
+You gain 8 Smarm
+
+Visiting the pretentious artist
+
+Use 1 disassembled clover
+You acquire an item: ten-leaf clover
+
+[916] Lemon Party
+You acquire an item: big rock
