@@ -613,3 +613,293 @@ You lose 36 hit points
 After Battle: unspecified macro action?
 After Battle: rolling stone takes 89 damage.
 You lose 37 hit points
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+April 1, 2012 - Boozember 4
+
+Ronald: waxing gibbous
+Grimace: waxing crescent
+Mini-moon: in front of Grimace, R side
+
+April Fool's Day: today
+Feast of Boris: 3 days
+Oyster Egg Day: 7 days
+Yuletide: 8 days
+Festival of Jarlsberg: 13 days
+Valentine's Day: 24 days
+St. Sneaky Pete's Day: 31 days
+El Dia De Los Muertos Borrachos: 46 days
+Generic Summer Holiday: 55 days
+Dependence Day: 64 days
+Arrrbor Day: 72 days
+Lab&oacute;r Day: 82 days
+Halloween: 92 days
+
+April Fool's Day
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 11
+HP: 0 / 202
+MP: 99 / 99
+
+Mus: 109 (124), tnp = 68
+Mys: 67 (99), tnp = 81
+Mox: 58 (91), tnp = 45
+
+Advs: 88
+Meat: 12,679
+Drunk: 0
+
+
+ > equipment
+
+Hat: mesh cap
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: black greaves
+
+Acc. 1: imp unity ring
+Acc. 2: pirate fledges
+Acc. 3: dirty hobo gloves
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Stomach of Steel
+
+Avatar Of Boris
+ - Big Boned
+ - Broadside
+ - Cleave
+ - Demand Sandwich
+ - Ferocity
+ - Intimidating Bellow
+ - Laugh It Off
+ - Legendary Appetite
+ - Legendary Bravado
+ - Legendary Girth
+ - Mighty Axing
+ - Song of Accompaniment
+ - Song of the Glorious Lunch
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Beaten Up (3)
+Ultrahydrated (4)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+trading 3 worthless items for 3 ten-leaf clovers
+You acquire ten-leaf clover (3)
+Visiting Comfy Sofa in clan rumpus room
+
+[2479] Rest in Clan Sofa (3 turns)
+You gain 166 hit points
+You gain 17 Mojo Points
+
+Use 3 ten-leaf clover
+You acquire disassembled clover (3)
+
+[2482] Oasis in the Desert
+Encounter: rolling stone
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 33 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: rolling stone takes 86 damage.
+After Battle: unspecified macro action?
+After Battle: rolling stone takes 74 damage.
+After Battle: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 9 Muscularity Points
+You gain 21 Muscleboundness
+You gain 9 Magicalness
+You gain 7 Smarm
+
+[2483] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[2484] Oasis in the Desert
+Encounter: blur
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: blur takes 74 damage.
+You lose 33 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: blur takes 132 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 7 Muscularity Points
+You gain 109 Meat
+You gain 16 Muscleboundness
+You gain 10 Magicalness
+You gain 10 Smarm
+
+[2485] Oasis in the Desert
+Encounter: oasis monster
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 31 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: oasis monster takes 86 damage.
+You lose 32 hit points
+After Battle: unspecified macro action?
+After Battle: oasis monster takes 80 damage.
+After Battle: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 6 Muscularity Points
+You gain 102 Meat
+You acquire an item: displaced fish
+You gain 24 Muscleboundness
+You gain 7 Wizardliness
+You gain 4 Roguishness
+
+[2486] Oasis in the Desert
+Encounter: swarm of scarab beatles
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: swarm of scarab beatles takes 91 damage.
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: swarm of scarab beatles takes 95 damage.
+Round 2: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 6 Muscularity Points
+You gain 179 Meat
+You acquire an item: rocky raccoon
+You gain 16 Beefiness
+You gain a Muscle point!
+You gain a Level!
+You gain 5 Wizardliness
+You gain 16 Cheek
+
+[2487] Oasis in the Desert
+Encounter: swarm of scarab beatles
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: swarm of scarab beatles takes 91 damage.
+You lose 32 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: swarm of scarab beatles takes 99 damage.
+Round 2: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 9 Muscularity Points
+You gain 175 Meat
+You gain 17 Fortitude
+You gain 8 Wizardliness
+You gain 10 Smarm
+You gain a Moxie point!
+
+[2488] Oasis in the Desert
+Encounter: swarm of scarab beatles
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: swarm of scarab beatles takes 110 damage.
+You lose 35 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: swarm of scarab beatles takes 94 damage.
+Round 2: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 7 Muscularity Points
+You gain 168 Meat
+You gain 19 Strengthliness
+You gain 7 Enchantedness
+You gain 11 Smarm
+Visiting Comfy Sofa in clan rumpus room
+
+cast 80 Laugh It Off
+You gain 115 hit points
+
+cast 3 Demand Sandwich
+
+cast 1 Song of the Glorious Lunch
+You acquire an effect: Song of the Glorious Lunch (duration: 5 Adventures)
+
+cast 1 Song of the Glorious Lunch
+You acquire an effect: Song of the Glorious Lunch (duration: 5 Adventures)
+
+eat 3 corned-beef Reuben
+You gain 20 Adventures
+You gain 29 Beefiness
+You gain 3 Fullness
+You lose some of an effect: Song of the Glorious Lunch
+You gain 15 Adventures
+You gain 30 Strongness
+You gain 3 Fullness
+You lose some of an effect: Song of the Glorious Lunch
+You gain 16 Adventures
+You gain 30 Fortitude
+You gain 3 Fullness
+You lose some of an effect: Song of the Glorious Lunch
+
+[2490] Cook 2 wad of dough + 2 tomato
+You acquire plain pizza (2)
+Crafting used 2 each of wad of dough and tomato
+
+[2490] Cook 2 plain pizza + 2 Knob mushroom
+You acquire mushroom pizza (2)
+Crafting used 2 each of Knob mushroom and plain pizza
+
+eat 2 mushroom pizza
+You gain 5 Adventures
+You gain 19 Mysteriousness
+You gain 3 Fullness
+You lose an effect: Song of the Glorious Lunch
+You gain 6 Adventures
+You gain 18 Mysteriousness
+You gain a Mysticality point!
+You gain 3 Fullness
+
+drink 1 Supernova Champagne
+You gain 7 Adventures
+You gain 12 Muscleboundness
+You gain 13 Mysteriousness
+You gain 12 Smarm
+You gain 15 Mojo Points
+You gain 3 Drunkenness
+
+drink 1 cream stout
+You gain 4 Adventures
+You gain 8 Fortitude
+You gain 8 Mysteriousness
+You gain 9 Cheek
+You gain 1 Drunkenness
+outfit Knob Goblin Harem Girl Disguise
+
+[2489] Cobb's Knob Treasury
+Encounter: Finally, the Payoff
+You gain 500 Meat
+
+equip acc3 dead guy's watch

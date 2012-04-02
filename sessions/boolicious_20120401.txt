@@ -3170,3 +3170,862 @@ You acquire an item: ten-leaf clover
 
 [916] Lemon Party
 You acquire an item: big rock
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+April 1, 2012 - Boozember 4
+
+Ronald: waxing gibbous
+Grimace: waxing crescent
+Mini-moon: in front of Grimace, R side
+
+April Fool's Day: today
+Feast of Boris: 3 days
+Oyster Egg Day: 7 days
+Yuletide: 8 days
+Festival of Jarlsberg: 13 days
+Valentine's Day: 24 days
+St. Sneaky Pete's Day: 31 days
+El Dia De Los Muertos Borrachos: 46 days
+Generic Summer Holiday: 55 days
+Dependence Day: 64 days
+Arrrbor Day: 72 days
+Lab&oacute;r Day: 82 days
+Halloween: 92 days
+
+April Fool's Day
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 10
+HP: 438 / 441
+MP: 91 / 163
+
+Mus: 291 (94), tnp = 140
+Mys: 163 (64), tnp = 18
+Mox: 158 (64), tnp = 85
+
+Advs: 52
+Meat: 22,936
+Drunk: 13
+
+
+ > equipment
+
+Hat: mesh cap
+Weapon: pygmy spear
+Off-hand: catskin buckler
+Shirt: star shirt
+Pants: astral trousers
+
+Acc. 1: Mr. Accessory
+Acc. 2: Boris's ring
+Acc. 3: Mr. Accessory
+
+Pet: Fancypants Scarecrow (20 lbs)
+Item: leotarrrd
+
+ > skills
+
+Uncategorized
+ - Liver of Steel
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Seal Clubbing Frenzy
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Gamer Rage (7)
+Brother Smothers's Blessing (17)
+Trivia Master (25)
+Seal Clubbing Frenzy (89)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +3.16
+Meat: +40.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[917] Spectral Pickle Factory
+Encounter: Cucumbers of the Damned
+You gain 27 Strongness
+
+[918] Spectral Pickle Factory
+Encounter: carnivorous dill plant
+Round 0: boolicious loses initiative!
+You lose 31 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts CLOBBER!
+Round 2: carnivorous dill plant takes 35 damage.
+You lose 33 hit points
+Round 2: boolicious casts CLOBBER!
+Round 3: carnivorous dill plant takes 36 damage.
+Round 3: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 3: boolicious attacks!
+Round 4: carnivorous dill plant takes 284 damage.
+Round 4: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 31 Muscleboundness
+You gain 14 Mysteriousness
+You gain 14 Smarm
+
+[919] Spectral Pickle Factory
+Encounter: The Salt of the Earth
+You acquire an item: brine
+You acquire an item: brine
+You acquire an item: brine
+
+[920] Spectral Pickle Factory
+Encounter: vine gar
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: vine gar takes 276 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: vinegar
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 30 Strongness
+You gain 12 Enchantedness
+You gain a Mysticality point!
+You gain 17 Chutzpah
+
+[921] Spectral Pickle Factory
+Encounter: vine gar
+Round 0: boolicious loses initiative!
+You lose 30 hit points
+Round 1: boolicious attacks!
+Round 2: vine gar takes 286 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: vinegar
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 37 Fortitude
+You gain 9 Mysteriousness
+You gain 14 Chutzpah
+
+[922] Spectral Pickle Factory
+Encounter: carnivorous dill plant
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: carnivorous dill plant takes 302 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 29 Strengthliness
+You gain a Muscle point!
+You gain 16 Magicalness
+You gain 14 Roguishness
+
+[923] Goatlet
+Encounter: drunk goat
+Round 0: boolicious loses initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: boolicious casts CLOBBER!
+Round 2: drunk goat takes 22 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: unspecified macro action?
+Round 2: drunk goat takes 21 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: drunk goat takes 528 damage.
+Round 3: boolicious wins the fight!
+You gain 64 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Strengthliness
+You gain 7 Magicalness
+You gain 5 Chutzpah
+
+[924] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: sabre-toothed goat takes 35 damage.
+Round 1: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: sabre-toothed goat takes 32 damage.
+Round 2: boolicious wins the fight!
+You gain 74 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 14 Beefiness
+You gain 8 Mysteriousness
+You gain 3 Sarcasm
+
+[925] Goatlet
+Encounter: dairy goat
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: dairy goat takes 34 damage.
+Round 1: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" She is too wary of getting swashbuckled to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: dairy goat takes 28 damage.
+Round 2: boolicious wins the fight!
+You gain 64 Meat
+You acquire an item: goat cheese
+You acquire an item: glass of goat's milk
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 17 Muscleboundness
+You gain 3 Enchantedness
+You gain 7 Chutzpah
+
+[926] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: sabre-toothed goat takes 24 damage.
+Round 1: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: sabre-toothed goat takes 20 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: sabre-toothed goat takes 396 damage.
+Round 3: boolicious wins the fight!
+You gain 89 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 15 Muscleboundness
+You gain 7 Enchantedness
+You gain 2 Roguishness
+
+[927] Goatlet
+Encounter: dairy goat
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: dairy goat takes 26 damage.
+Round 1: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" She is too wary of getting swashbuckled to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: dairy goat takes 23 damage.
+Round 2: boolicious attacks!
+Round 3: dairy goat takes 396 damage.
+Round 3: boolicious wins the fight!
+You gain 75 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 14 Strengthliness
+You gain 7 Enchantedness
+You gain 5 Roguishness
+
+[928] Goatlet
+Encounter: dairy goat
+Round 0: boolicious loses initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: boolicious casts CLOBBER!
+Round 2: dairy goat takes 26 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" She is too wary of getting swashbuckled to attack this round.
+After Battle: unspecified macro action?
+After Battle: dairy goat takes 23 damage.
+After Battle: boolicious wins the fight!
+You gain 58 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 9 Beefiness
+You gain 11 Enchantedness
+You gain 4 Chutzpah
+You gain a Moxie point!
+
+[929] Goatlet
+Encounter: drunk goat
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: drunk goat takes 27 damage.
+Round 1: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: drunk goat takes 33 damage.
+Round 2: boolicious wins the fight!
+You gain 58 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 9 Strongness
+You gain 10 Magicalness
+You gain 5 Smarm
+
+[930] Goatlet
+Encounter: dairy goat
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: dairy goat takes 33 damage.
+Round 1: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" She is too wary of getting swashbuckled to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: dairy goat takes 23 damage.
+Round 2: boolicious wins the fight!
+You gain 67 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 15 Fortitude
+You gain 5 Magicalness
+You gain 5 Sarcasm
+
+[931] Goatlet
+Encounter: drunk goat
+Round 0: boolicious loses initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: boolicious casts CLOBBER!
+Round 2: drunk goat takes 28 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: unspecified macro action?
+Round 2: drunk goat takes 20 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: drunk goat takes 391 damage.
+Round 3: boolicious wins the fight!
+You gain 70 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 8 Fortitude
+You gain 7 Mysteriousness
+You gain 8 Chutzpah
+
+[932] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious loses initiative!
+Round 0: boolicious casts CLOBBER!
+You lose 1 hit point
+Round 1: boolicious casts CLOBBER!
+Round 2: sabre-toothed goat takes 28 damage.
+Round 2: unspecified macro action?
+Round 2: sabre-toothed goat takes 20 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: sabre-toothed goat takes 393 damage.
+Round 3: boolicious wins the fight!
+You gain 75 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 10 Strongness
+You gain 6 Magicalness
+You gain 8 Roguishness
+
+[933] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious loses initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: boolicious casts CLOBBER!
+Round 2: sabre-toothed goat takes 21 damage.
+After Battle: unspecified macro action?
+After Battle: sabre-toothed goat takes 35 damage.
+After Battle: boolicious wins the fight!
+You gain 70 Meat
+You acquire an item: sabre teeth
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 18 Fortitude
+You gain 5 Enchantedness
+You gain 1 Cheek
+
+[934] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious loses initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: boolicious casts CLOBBER!
+Round 2: sabre-toothed goat takes 33 damage.
+After Battle: unspecified macro action?
+After Battle: sabre-toothed goat takes 29 damage.
+After Battle: boolicious wins the fight!
+You gain 68 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 14 Fortitude
+You gain 3 Mysteriousness
+You gain 8 Roguishness
+
+[935] Goatlet
+Encounter: drunk goat
+Round 0: boolicious loses initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: boolicious casts CLOBBER!
+Round 2: drunk goat takes 27 damage.
+After Battle: unspecified macro action?
+After Battle: drunk goat takes 33 damage.
+After Battle: boolicious wins the fight!
+You gain 63 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 11 Strongness
+You gain 8 Enchantedness
+You gain 5 Chutzpah
+
+[936] Goatlet
+Encounter: dairy goat
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: dairy goat takes 33 damage.
+Round 1: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" She is too wary of getting swashbuckled to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: dairy goat takes 35 damage.
+Round 2: boolicious wins the fight!
+You gain 68 Meat
+You acquire an item: glass of goat's milk
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 16 Beefiness
+You gain a Muscle point!
+You gain 5 Magicalness
+You gain 5 Cheek
+
+[937] Goatlet
+Encounter: drunk goat
+Round 0: boolicious loses initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: boolicious casts CLOBBER!
+Round 2: drunk goat takes 25 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+After Battle: unspecified macro action?
+After Battle: drunk goat takes 26 damage.
+After Battle: boolicious wins the fight!
+You gain 50 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 15 Strongness
+You gain 4 Enchantedness
+You gain 6 Sarcasm
+
+[938] Goatlet
+Encounter: drunk goat
+Round 0: boolicious loses initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: boolicious casts CLOBBER!
+Round 2: drunk goat takes 26 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+After Battle: unspecified macro action?
+After Battle: drunk goat takes 31 damage.
+After Battle: boolicious wins the fight!
+You gain 61 Meat
+You acquire an item: bottle of whiskey
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 11 Beefiness
+You gain 7 Magicalness
+You gain a Mysticality point!
+You gain 7 Smarm
+
+[939] Goatlet
+Encounter: drunk goat
+Round 0: boolicious loses initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: boolicious casts CLOBBER!
+Round 2: drunk goat takes 25 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: unspecified macro action?
+Round 2: drunk goat takes 23 damage.
+Round 2: boolicious attacks!
+Round 3: drunk goat takes 397 damage.
+Round 3: boolicious wins the fight!
+You gain 71 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Beefiness
+You gain 6 Wizardliness
+You gain 5 Sarcasm
+
+[940] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: sabre-toothed goat takes 22 damage.
+Round 1: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: sabre-toothed goat takes 26 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: sabre-toothed goat takes 402 damage.
+Round 3: boolicious wins the fight!
+You gain 84 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 16 Strengthliness
+You gain 2 Wizardliness
+You gain 6 Sarcasm
+
+[941] Goatlet
+Encounter: drunk goat
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: drunk goat takes 34 damage.
+Round 1: boolicious casts CLOBBER!
+Round 2: drunk goat takes 23 damage.
+Round 2: boolicious wins the fight!
+You gain 67 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 15 Beefiness
+You gain 3 Mysteriousness
+You gain 8 Chutzpah
+
+equip pants frilly skirt
+
+[942] Goatlet
+Encounter: four-shadowed mime
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: four-shadowed mime takes 26 damage.
+Round 1: boolicious casts CLOBBER!
+Round 2: four-shadowed mime takes 21 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: mime soul fragment
+You gain 3 Strongness
+You gain 6 Wizardliness
+You gain 5 Sarcasm
+
+[943] Goatlet
+Encounter: dairy goat
+Round 0: boolicious loses initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: boolicious casts CLOBBER!
+Round 2: dairy goat takes 29 damage.
+Round 2: unspecified macro action?
+Round 2: dairy goat takes 22 damage.
+You lose 2 hit points
+Round 2: boolicious attacks!
+Round 3: dairy goat takes 283 damage.
+Round 3: boolicious wins the fight!
+You gain 64 Meat
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: goat cheese
+You acquire an item: glass of goat's milk
+You gain 11 Strongness
+You gain 4 Magicalness
+You gain 3 Chutzpah
+
+[944] Goatlet
+Encounter: drunk goat
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: drunk goat takes 31 damage.
+Round 1: boolicious casts CLOBBER!
+Round 2: drunk goat takes 25 damage.
+Round 2: boolicious wins the fight!
+You gain 71 Meat
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: bottle of whiskey
+You gain 11 Beefiness
+You gain 2 Magicalness
+You gain 5 Roguishness
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[946] Mix 2 bottle of whiskey + 2 peppermint twist
+You acquire Mint Yulep (2)
+Crafting used 2 each of bottle of whiskey and peppermint twist
+
+drink 2 Mint Yulep
+You gain 10 Adventures
+You gain 44 Fortitude
+You gain 10 Mysteriousness
+You gain 13 Chutzpah
+You gain 2 Drunkenness
+You gain 13 Adventures
+You gain 39 Fortitude
+You gain 11 Wizardliness
+You gain 20 Cheek
+You gain 2 Drunkenness
+
+cast 1 Summon Clip Art
+You acquire an item: Bordeaux Marteaux
+
+drink 1 Bordeaux Marteaux
+You gain 4 Adventures
+You gain 79 Beefiness
+You gain a Muscle point!
+You acquire an effect: Hammered (duration: 20 Adventures)
+You gain 1 Drunkenness
+
+use 1 astral energy drink
+You gain 29 Adventures
+
+[947] Goatlet
+Encounter: dairy goat
+Round 0: boolicious loses initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: boolicious casts CLOBBER!
+Round 2: dairy goat takes 30 damage.
+After Battle: unspecified macro action?
+After Battle: dairy goat takes 34 damage.
+After Battle: boolicious wins the fight!
+You gain 70 Meat
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: goat cheese
+You gain 6 Beefiness
+You gain 6 Magicalness
+You gain 6 Sarcasm
+You acquire goat cheese pizza (3)
+
+[948] eXtreme Slope
+Encounter: eXtreme Orcish snowboarder
+Round 0: boolicious loses initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: boolicious casts CLOBBER!
+Round 2: extreme orcish snowboarder takes 30 damage.
+Round 2: unspecified macro action?
+Round 2: extreme orcish snowboarder takes 21 damage.
+Round 2: boolicious attacks!
+You lose 10 hit points
+Round 3: boolicious attacks!
+Round 4: extreme orcish snowboarder takes 340 damage.
+Round 4: boolicious wins the fight!
+You gain 58 Meat
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You gain 9 Beefiness
+You gain 7 Magicalness
+You gain 4 Cheek
+You gain a Moxie point!
+
+[949] eXtreme Slope
+Encounter: X Spots the Mark
+You gain 17 Fortitude
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+April 1, 2012 - Boozember 4
+
+Ronald: waxing gibbous
+Grimace: waxing crescent
+Mini-moon: in front of Grimace, R side
+
+April Fool's Day: today
+Feast of Boris: 3 days
+Oyster Egg Day: 7 days
+Yuletide: 8 days
+Festival of Jarlsberg: 13 days
+Valentine's Day: 24 days
+St. Sneaky Pete's Day: 31 days
+El Dia De Los Muertos Borrachos: 46 days
+Generic Summer Holiday: 55 days
+Dependence Day: 64 days
+Arrrbor Day: 72 days
+Lab&oacute;r Day: 82 days
+Halloween: 92 days
+
+April Fool's Day
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 10
+HP: 291 / 306
+MP: 89 / 101
+
+Mus: 201 (97), tnp = 93
+Mys: 101 (66), tnp = 71
+Mox: 96 (66), tnp = 131
+
+Advs: 75
+Meat: 24,495
+Drunk: 18
+
+
+ > equipment
+
+Hat: mesh cap
+Weapon: pygmy spear
+Off-hand: catskin buckler
+Shirt: star shirt
+Pants: astral trousers
+
+Acc. 1: Mr. Accessory
+Acc. 2: Boris's ring
+Acc. 3: Mr. Accessory
+
+Pet: Fancypants Scarecrow (8 lbs)
+Item: frilly skirt
+
+ > skills
+
+Uncategorized
+ - Liver of Steel
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Seal Clubbing Frenzy
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Hammered (17)
+Seal Clubbing Frenzy (56)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +40.00%
+Item: +64.24%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+April 1, 2012 - Boozember 4
+
+Ronald: waxing gibbous
+Grimace: waxing crescent
+Mini-moon: in front of Grimace, R side
+
+April Fool's Day: today
+Feast of Boris: 3 days
+Oyster Egg Day: 7 days
+Yuletide: 8 days
+Festival of Jarlsberg: 13 days
+Valentine's Day: 24 days
+St. Sneaky Pete's Day: 31 days
+El Dia De Los Muertos Borrachos: 46 days
+Generic Summer Holiday: 55 days
+Dependence Day: 64 days
+Arrrbor Day: 72 days
+Lab&oacute;r Day: 82 days
+Halloween: 92 days
+
+April Fool's Day
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 10
+HP: 291 / 306
+MP: 89 / 101
+
+Mus: 201 (97), tnp = 93
+Mys: 101 (66), tnp = 71
+Mox: 96 (66), tnp = 131
+
+Advs: 75
+Meat: 24,495
+Drunk: 18
+
+
+ > equipment
+
+Hat: mesh cap
+Weapon: pygmy spear
+Off-hand: catskin buckler
+Shirt: star shirt
+Pants: astral trousers
+
+Acc. 1: Mr. Accessory
+Acc. 2: Boris's ring
+Acc. 3: Mr. Accessory
+
+Pet: Fancypants Scarecrow (8 lbs)
+Item: frilly skirt
+
+ > skills
+
+Uncategorized
+ - Liver of Steel
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Seal Clubbing Frenzy
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Hammered (17)
+Seal Clubbing Frenzy (56)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +40.00%
+Item: +64.24%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+unequip weapon
+unequip offhand
+
+equip acc2 time halo
+
+equip acc3 dead guy's watch
