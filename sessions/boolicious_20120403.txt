@@ -1234,3 +1234,137 @@ You lose an effect: Beaten Up
 
 use 1 Medicinal Herb's medicinal herbs
 You gain 374 hit points
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+April 3, 2012 - Boozember 6
+
+Ronald: waning gibbous
+Grimace: first quarter
+Mini-moon: in back, near Ronald
+
+Feast of Boris: tomorrow
+Oyster Egg Day: 5 days
+Yuletide: 6 days
+Festival of Jarlsberg: 11 days
+Valentine's Day: 22 days
+St. Sneaky Pete's Day: 29 days
+El Dia De Los Muertos Borrachos: 44 days
+Generic Summer Holiday: 53 days
+Dependence Day: 62 days
+Arrrbor Day: 70 days
+Lab&oacute;r Day: 80 days
+Halloween: 90 days
+
+
+3 days until Muscle.
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 11
+HP: 408 / 408
+MP: 67 / 108
+
+Mus: 249 (108), tnp = 44
+Mys: 108 (77), tnp = 14
+Mox: 102 (76), tnp = 110
+
+Advs: 134
+Meat: 101,317
+Drunk: 0
+
+
+ > equipment
+
+Hat: mesh cap
+Weapon: pygmy spear
+Off-hand: catskin buckler
+Shirt: star shirt
+Pants: astral trousers
+
+Acc. 1: Slow Talkin' Elliot's dogtags
+Acc. 2: Mr. Accessory
+Acc. 3: Talisman o' Nam
+
+Pet: Fancypants Scarecrow (20 lbs)
+Item: gnauga hide skirt
+
+ > skills
+
+Uncategorized
+ - Liver of Steel
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Go Get 'Em, Tiger! (5)
+Bubble Vision (31)
+Seal Clubbing Frenzy (39)
+Scarysauce (276)
+Ghostly Shell (276)
+Tenacity of the Snapper (276)
+Jingle Jangle Jingle (276)
+♫ Polka of Plenty (276)
+Elemental Saucesphere (276)
+Astral Shell (276)
+Reptilian Fortitude (276)
+Jabañero Saucesphere (276)
+Jalapeño Saucesphere (276)
+♫ Stevedave's Shanty of Superiority (276)
+♫ Cringle's Curative Carol (276)
+Empathy (276)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: -30.00%
+
+Exp: +0.00
+Meat: +90.00%
+Item: +169.44%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 3 Summon Resolutions
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be feistier
