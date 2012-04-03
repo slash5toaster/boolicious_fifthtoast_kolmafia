@@ -739,7 +739,7 @@ lastGuyMadeOfBeesReset=1
 lastHermitReset=1
 lastHiddenCityAscension=0
 lastHippyCall=-1
-lastKingLiberation=1
+lastKingLiberation=2
 lastLouvreMap=1
 lastManorUnlock=-1
 lastMessageId
