@@ -519,3 +519,1673 @@ equip pants astral shorts
 equip acc1 Boris's ring
 
 equip acc3 hamethyst ring
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+April 4, 2012 - Boozember 7
+
+Ronald: third quarter
+Grimace: waxing gibbous
+Mini-moon: far left
+
+Feast of Boris: today
+Oyster Egg Day: 4 days
+Yuletide: 5 days
+Festival of Jarlsberg: 10 days
+Valentine's Day: 21 days
+St. Sneaky Pete's Day: 28 days
+El Dia De Los Muertos Borrachos: 43 days
+Generic Summer Holiday: 52 days
+Dependence Day: 61 days
+Arrrbor Day: 69 days
+Lab&oacute;r Day: 79 days
+Halloween: 89 days
+
+Feast of Boris
+2 days until Muscle.
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 12
+HP: 111 / 367
+MP: 115 / 115
+
+Mus: 195 (136), tnp = 197
+Mys: 115 (108), tnp = 103
+Mox: 144 (101), tnp = 117
+
+Advs: 248
+Meat: 14,532
+Drunk: 0
+
+
+ > equipment
+
+Hat: mesh cap
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: astral shorts
+
+Acc. 1: Boris's ring
+Acc. 2: pirate fledges
+Acc. 3: hamethyst ring
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Stomach of Steel
+
+Avatar Of Boris
+ - Big Boned
+ - Big Lungs
+ - Broadside
+ - Cleave
+ - Demand Sandwich
+ - Ferocity
+ - Intimidating Bellow
+ - Laugh It Off
+ - Legendary Appetite
+ - Legendary Bravado
+ - Legendary Girth
+ - Mighty Axing
+ - Song of Accompaniment
+ - Song of the Glorious Lunch
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Sugar Rush
+Song of the Glorious Lunch (2)
+Ultrahydrated (79)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +40.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+buy 10 chewing gum on a string for 50 each from Market Demon
+You acquire chewing gum on a string (10)
+You spent 500 Meat
+
+use 10 chewing gum on a string
+You acquire mariachi hat (2)
+You acquire an item: worthless knick-knack
+You acquire worthless gewgaw (3)
+You acquire an item: seal-skull helmet
+You acquire worthless trinket (2)
+You acquire an item: turtle totem
+
+trading 4 worthless items for 4 ten-leaf clovers
+You acquire ten-leaf clover (4)
+
+Use 4 ten-leaf clover
+You acquire disassembled clover (4)
+
+equip pants black greaves
+
+use 1 true grit
+You acquire an effect: Truly Gritty (duration: 10 Adventures)
+
+use 1 tamarind-flavored chewing gum
+You acquire an effect: Tamarind Torment (duration: 5 Adventures)
+
+use 2 fizzy potion of healing
+You gain 30 hit points
+You gain 30 Muscularity Points
+
+cast 50 Laugh It Off
+You gain 79 hit points
+
+use 1 Blatantly Canadian
+You gain 24 Muscularity Points
+
+drink 1 Supernova Champagne
+You gain 9 Adventures
+You gain 12 Beefiness
+You gain 9 Wizardliness
+You gain 9 Smarm
+You gain 18 Mojo Points
+You gain 3 Drunkenness
+outfit War Hippy Fatigues
+
+[2635] Battlefield (Hippy Uniform)
+Encounter: Sorority Operator
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 53 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: sorority operator takes 96 damage.
+You lose 56 hit points
+Round 2: unspecified macro action?
+Round 2: sorority operator takes 96 damage.
+You lose 57 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the effervescent potion!
+You lose 53 hit points
+Round 3: fifthtoast attacks!
+Round 4: sorority operator takes 114 damage.
+Round 4: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 7 Muscularity Points
+You gain 22 Strengthliness
+You gain 13 Magicalness
+You gain 14 Cheek
+1 frat boy defeated; 1 down, 999 left.
+Visiting Comfy Sofa in clan rumpus room
+
+[2636] Rest in Clan Sofa (3 turns)
+You gain 179 hit points
+You gain 51 Mojo Points
+
+cast 20 Laugh It Off
+You gain 32 hit points
+
+bigisland.php?place=farm
+
+[2639] Barn
+Encounter: generic duck
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 47 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: generic duck takes 106 damage.
+You lose 48 hit points
+After Battle: unspecified macro action?
+After Battle: generic duck takes 94 damage.
+After Battle: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 7 Muscularity Points
+You gain 79 Meat
+You gain 16 Strengthliness
+You gain 19 Wizardliness
+You gain 10 Smarm
+
+[2640] Barn
+Encounter: generic duck
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: generic duck takes 88 damage.
+You lose 42 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: generic duck takes 92 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 6 Muscularity Points
+You gain 79 Meat
+You gain 19 Muscleboundness
+You gain 16 Magicalness
+You gain 10 Smarm
+
+[2641] Barn
+Encounter: Cornered!
+Took choice 147/3: Open The Pond (cold)
+choice.php?whichchoice=147&option=3&pwd
+
+[2642] Barn
+Encounter: generic duck
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: generic duck takes 94 damage.
+You lose 42 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: generic duck takes 122 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 8 Muscularity Points
+You gain 63 Meat
+You gain 18 Strongness
+You gain 16 Mysteriousness
+You gain 10 Sarcasm
+
+[2643] Barn
+Encounter: generic duck
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 42 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: generic duck takes 100 damage.
+You lose 44 hit points
+After Battle: unspecified macro action?
+After Battle: generic duck takes 114 damage.
+After Battle: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 5 Muscularity Points
+You gain 86 Meat
+You gain 26 Fortitude
+You gain 10 Wizardliness
+You gain 8 Chutzpah
+
+[2644] Rest in Clan Sofa (5 turns)
+You gain 252 hit points
+
+[2649] Barn
+Encounter: Candied Yam Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the murky potion!
+Round 2: fifthtoast attacks!
+You lose 6 hit points
+Round 3: fifthtoast attacks!
+Round 4: fifthtoast attacks!
+Round 5: fifthtoast attacks!
+Round 6: fifthtoast attacks!
+Round 7: fifthtoast attacks!
+Round 8: fifthtoast attacks!
+Round 9: candied yam golem takes 51 damage.
+You lose 12 hit points
+Round 9: fifthtoast attacks!
+Round 10: candied yam golem takes 37 damage.
+You lose 13 hit points
+Round 10: fifthtoast attacks!
+Round 11: candied yam golem takes 47 damage.
+You lose 12 hit points
+Round 11: fifthtoast attacks!
+You lose 14 hit points
+Round 12: fifthtoast attacks!
+You lose 13 hit points
+Round 13: fifthtoast attacks!
+You lose 12 hit points
+Round 14: fifthtoast attacks!
+Round 15: fifthtoast attacks!
+Round 16: fifthtoast attacks!
+Round 17: fifthtoast attacks!
+You lose 12 hit points
+Round 18: fifthtoast attacks!
+You lose 7 hit points
+You lose 12 hit points
+Round 19: fifthtoast attacks!
+Round 20: fifthtoast attacks!
+Round 21: fifthtoast attacks!
+Round 22: fifthtoast attacks!
+Round 23: fifthtoast attacks!
+You lose 14 hit points
+Round 24: fifthtoast attacks!
+Round 25: candied yam golem takes 37 damage.
+Round 25: fifthtoast attacks!
+You lose 14 hit points
+Round 26: fifthtoast attacks!
+Round 27: fifthtoast attacks!
+Round 28: fifthtoast attacks!
+Round 29: fifthtoast attacks!
+You lose 13 hit points
+Round 30: fifthtoast attacks!
+Round 31: candied yam golem takes 49 damage.
+You lose 13 hit points
+Round 31: fifthtoast attacks!
+
+[2650] Barn
+Encounter: generic duck
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 47 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: generic duck takes 88 damage.
+You lose 43 hit points
+Round 2: unspecified macro action?
+Round 2: generic duck takes 56 damage.
+You lose 44 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the cloudy potion!
+Round 3: fifthtoast attacks!
+Round 4: generic duck takes 45 damage.
+Round 4: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 9 Muscularity Points
+You gain 66 Meat
+You gain 19 Beefiness
+You gain 8 Enchantedness
+You gain 17 Roguishness
+
+[2651] Barn
+Encounter: Cornered Again!
+Took choice 148/1: Open The Back 40 (hot)
+choice.php?whichchoice=148&option=1&pwd
+
+[2652] Barn
+Encounter: generic duck
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: generic duck takes 58 damage.
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: generic duck takes 56 damage.
+You lose 45 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the swirly potion!
+You lose 50 hit points
+
+[2653] Rest in Clan Sofa (3 turns)
+You gain 179 hit points
+You gain 54 Mojo Points
+
+[2656] Barn
+Encounter: generic duck
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: generic duck takes 67 damage.
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: generic duck takes 49 damage.
+You lose 41 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the milky potion!
+Round 3: fifthtoast attacks!
+Round 4: generic duck takes 47 damage.
+You lose 41 hit points
+Round 4: fifthtoast attacks!
+Round 5: generic duck takes 47 damage.
+Round 5: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 8 Muscularity Points
+You gain 76 Meat
+You gain 25 Beefiness
+You gain 13 Wizardliness
+You gain a Mysticality point!
+You gain 6 Smarm
+
+[2657] Barn
+Encounter: How Many Corners Does this Stupid Barn Have!?
+Took choice 149/2: Open The Other Back 40 (sleaze)
+choice.php?whichchoice=149&option=2&pwd
+
+bigisland.php?place=farm
+
+[2658] Back 40
+Encounter: fire-breathing duck
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 39 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: fire-breathing duck takes 69 damage.
+You lose 39 hit points
+Round 2: unspecified macro action?
+Round 2: fire-breathing duck takes 81 damage.
+You lose 41 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts BROADSIDE!
+Round 3: fifthtoast casts MIGHTY AXING!
+Round 4: fire-breathing duck takes 75 damage.
+Round 4: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 6 Muscularity Points
+You gain 154 Meat
+You gain 24 Strengthliness
+You gain 7 Wizardliness
+You gain 15 Chutzpah
+
+[2659] Rest in Clan Sofa (4 turns)
+You gain 241 hit points
+You gain 4 Mojo Points
+
+[2659] Rest in Clan Sofa (1 turns)
+You gain 11 hit points
+
+[2659] Rest in Clan Sofa (1 turns)
+
+[2659] Rest in Clan Sofa (1 turns)
+
+cast 80 Laugh It Off
+You gain 124 hit points
+
+[2666] Back 40
+Encounter: fire-breathing duck
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: fire-breathing duck takes 84 damage.
+You lose 49 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: fire-breathing duck takes 64 damage.
+You lose 51 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the bubbly potion!
+You lose 37 hit points
+Round 3: fifthtoast attacks!
+Round 4: fire-breathing duck takes 60 damage.
+Round 4: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 5 Muscularity Points
+You gain 150 Meat
+You gain 22 Strongness
+You gain a Muscle point!
+You gain 11 Mysteriousness
+You gain 13 Cheek
+
+[2667] Back 40
+Encounter: scorched duck
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: scorched duck takes 65 damage.
+You lose 37 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: scorched duck takes 107 damage.
+You lose 38 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: scorched duck takes 49 damage.
+Round 3: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 6 Muscularity Points
+You gain 152 Meat
+You gain 17 Beefiness
+You gain 20 Mysteriousness
+You gain 8 Cheek
+You gain a Moxie point!
+
+[2668] Back 40
+Encounter: scorched duck
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: scorched duck takes 62 damage.
+You lose 37 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: scorched duck takes 70 damage.
+You lose 36 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: scorched duck takes 56 damage.
+Round 3: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 6 Muscularity Points
+You gain 137 Meat
+You gain 24 Fortitude
+You gain 8 Enchantedness
+You gain 13 Smarm
+
+[2669] Back 40
+Encounter: scorched duck
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 38 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: scorched duck takes 70 damage.
+You lose 36 hit points
+Round 2: unspecified macro action?
+Round 2: scorched duck takes 78 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: scorched duck takes 49 damage.
+Round 3: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 8 Muscularity Points
+You gain 129 Meat
+You gain 20 Fortitude
+You gain 18 Enchantedness
+You gain 8 Chutzpah
+
+[2670] Rest in Clan Sofa (4 turns)
+You gain 239 hit points
+You gain 55 Mojo Points
+
+[2674] Back 40
+Encounter: scorched duck
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: scorched duck takes 66 damage.
+You lose 40 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: scorched duck takes 78 damage.
+You lose 40 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: scorched duck takes 56 damage.
+Round 3: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 5 Muscularity Points
+You gain 155 Meat
+You gain 21 Beefiness
+You gain 14 Magicalness
+You gain 11 Roguishness
+
+[2675] Back 40
+Encounter: fire-breathing duck
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 39 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: fire-breathing duck takes 76 damage.
+You lose 47 hit points
+Round 2: unspecified macro action?
+Round 2: fire-breathing duck takes 66 damage.
+You lose 38 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: fire-breathing duck takes 59 damage.
+Round 3: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 10 Muscularity Points
+You gain 147 Meat
+You gain 19 Strengthliness
+You gain 14 Wizardliness
+You gain 14 Chutzpah
+
+[2676] Back 40
+Encounter: fire-breathing duck
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: fire-breathing duck takes 127 damage.
+You lose 40 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: fire-breathing duck takes 79 damage.
+Round 2: fifthtoast wins the fight!
+You gain 9 hit points
+You gain 6 Muscularity Points
+You gain 147 Meat
+You acquire an item: duct tape
+You gain 25 Fortitude
+You gain 11 Enchantedness
+You gain 10 Smarm
+
+[2677] Back 40
+Encounter: Possessed Can of Cranberry Sauce
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: possessed can of cranberry sauce takes 31 damage.
+Round 2: fifthtoast attacks!
+Round 3: possessed can of cranberry sauce takes 48 damage.
+You lose 14 hit points
+Round 3: fifthtoast attacks!
+Round 4: fifthtoast attacks!
+Round 5: possessed can of cranberry sauce takes 36 damage.
+Round 5: fifthtoast attacks!
+Round 6: possessed can of cranberry sauce takes 33 damage.
+Round 6: fifthtoast attacks!
+Round 7: possessed can of cranberry sauce takes 56 damage.
+Round 7: fifthtoast attacks!
+Round 8: possessed can of cranberry sauce takes 28 damage.
+Round 8: fifthtoast attacks!
+Round 9: possessed can of cranberry sauce takes 38 damage.
+Round 9: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 6 Muscularity Points
+You acquire an item: tube of cranberry Go-Goo
+You gain 13 Muscleboundness
+You gain 11 Mysteriousness
+You gain 6 Chutzpah
+
+[2678] Back 40
+Encounter: scorched duck
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 38 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: scorched duck takes 69 damage.
+You lose 39 hit points
+Round 2: unspecified macro action?
+Round 2: scorched duck takes 73 damage.
+You lose 37 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: scorched duck takes 53 damage.
+Round 3: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 8 Muscularity Points
+You gain 140 Meat
+You gain 28 Beefiness
+You gain 9 Mysteriousness
+You gain 8 Cheek
+
+[2679] Rest in Clan Sofa (5 turns)
+You gain 270 hit points
+
+bigisland.php?place=farm
+
+[2684] Other Back 40
+Encounter: greasy duck
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 34 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: greasy duck takes 45 damage.
+You lose 33 hit points
+Round 2: unspecified macro action?
+Round 2: greasy duck takes 59 damage.
+You lose 33 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts BROADSIDE!
+Round 3: fifthtoast casts MIGHTY AXING!
+Round 4: greasy duck takes 53 damage.
+Round 4: fifthtoast casts MIGHTY AXING!
+Round 5: greasy duck takes 83 damage.
+Round 5: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 8 Muscularity Points
+You gain 159 Meat
+You gain 30 Strengthliness
+You gain 11 Enchantedness
+You gain 5 Sarcasm
+
+[2685] Other Back 40
+Encounter: greasy duck
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: greasy duck takes 65 damage.
+You lose 33 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: greasy duck takes 55 damage.
+You lose 31 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: greasy duck takes 42 damage.
+Round 3: fifthtoast attacks!
+Round 4: greasy duck takes 38 damage.
+Round 4: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 8 Muscularity Points
+You gain 156 Meat
+You gain 22 Beefiness
+You gain 13 Enchantedness
+You gain 11 Roguishness
+
+[2686] Other Back 40
+Encounter: greasy duck
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 34 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: greasy duck takes 46 damage.
+You lose 34 hit points
+Round 2: unspecified macro action?
+Round 2: greasy duck takes 46 damage.
+You lose 35 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: greasy duck takes 42 damage.
+You lose 36 hit points
+Round 3: fifthtoast attacks!
+Round 4: greasy duck takes 39 damage.
+You lose 36 hit points
+Round 4: fifthtoast attacks!
+Round 5: greasy duck takes 42 damage.
+Round 5: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 5 Muscularity Points
+You gain 154 Meat
+You gain 26 Beefiness
+You gain 10 Mysteriousness
+You gain 10 Roguishness
+
+[2687] Rest in Clan Sofa (4 turns)
+You gain 240 hit points
+
+[2691] Other Back 40
+Encounter: greasy duck
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 35 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: greasy duck takes 73 damage.
+You lose 36 hit points
+Round 2: unspecified macro action?
+Round 2: greasy duck takes 55 damage.
+You lose 34 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+You lose 36 hit points
+Round 3: fifthtoast attacks!
+Round 4: greasy duck takes 28 damage.
+You lose 34 hit points
+Round 4: fifthtoast attacks!
+You lose 35 hit points
+Round 5: fifthtoast attacks!
+Round 6: greasy duck takes 31 damage.
+Round 6: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 7 Muscularity Points
+You gain 135 Meat
+You gain 23 Strengthliness
+You gain 14 Mysteriousness
+You gain 10 Sarcasm
+
+[2692] Other Back 40
+Encounter: greasy duck
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: greasy duck takes 42 damage.
+You lose 35 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: greasy duck takes 46 damage.
+You lose 33 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: greasy duck takes 54 damage.
+You lose 34 hit points
+Round 3: fifthtoast attacks!
+Round 4: greasy duck takes 33 damage.
+You lose 33 hit points
+Round 4: fifthtoast attacks!
+Round 5: greasy duck takes 36 damage.
+Round 5: fifthtoast wins the fight!
+You gain 9 hit points
+You gain 7 Muscularity Points
+You gain 149 Meat
+You acquire an item: flirtatious feather
+You gain 26 Beefiness
+You gain a Muscle point!
+You gain 10 Magicalness
+You gain 9 Chutzpah
+
+[2693] Rest in Clan Sofa (5 turns)
+You gain 284 hit points
+
+[2698] Other Back 40
+Encounter: greasy duck
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 34 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: greasy duck takes 50 damage.
+You lose 36 hit points
+Round 2: unspecified macro action?
+Round 2: greasy duck takes 48 damage.
+You lose 33 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: greasy duck takes 36 damage.
+You lose 34 hit points
+Round 3: fifthtoast attacks!
+Round 4: greasy duck takes 46 damage.
+You lose 33 hit points
+Round 4: fifthtoast attacks!
+Round 5: greasy duck takes 37 damage.
+Round 5: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 9 Muscularity Points
+You gain 149 Meat
+You gain 24 Strongness
+You gain 10 Enchantedness
+You gain 12 Cheek
+
+[2699] Other Back 40
+Encounter: greasy duck
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: greasy duck takes 102 damage.
+You lose 33 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: greasy duck takes 48 damage.
+You lose 34 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: greasy duck takes 43 damage.
+Round 3: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 10 Muscularity Points
+You gain 161 Meat
+You acquire an item: duct tape
+You gain 23 Strongness
+You gain 15 Mysteriousness
+You gain 8 Smarm
+
+[2700] Other Back 40
+Encounter: greasy duck
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 34 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: greasy duck takes 50 damage.
+You lose 35 hit points
+Round 2: unspecified macro action?
+Round 2: greasy duck takes 74 damage.
+You lose 35 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: greasy duck takes 35 damage.
+You lose 34 hit points
+Round 3: fifthtoast attacks!
+You lose 9 hit points
+You lose 34 hit points
+
+[2701] Rest in Clan Sofa (3 turns)
+You gain 179 hit points
+You gain 54 Mojo Points
+
+[2704] Other Back 40
+Encounter: greasy duck
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 36 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: greasy duck takes 54 damage.
+You lose 34 hit points
+Round 2: unspecified macro action?
+Round 2: greasy duck takes 52 damage.
+You lose 34 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+You lose 2 hit points
+You lose 33 hit points
+Round 3: fifthtoast attacks!
+Round 4: greasy duck takes 36 damage.
+You lose 33 hit points
+Round 4: fifthtoast attacks!
+Round 5: greasy duck takes 31 damage.
+You lose 33 hit points
+Round 5: fifthtoast attacks!
+Round 6: greasy duck takes 32 damage.
+Round 6: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 6 Muscularity Points
+You gain 173 Meat
+You gain 22 Fortitude
+You gain 11 Magicalness
+You gain 13 Cheek
+
+[2705] Rest in Clan Sofa (5 turns)
+You gain 282 hit points
+
+[2710] Other Back 40
+Encounter: greasy duck
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 36 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: greasy duck takes 61 damage.
+You lose 35 hit points
+Round 2: unspecified macro action?
+Round 2: greasy duck takes 45 damage.
+You lose 34 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: greasy duck takes 40 damage.
+You lose 34 hit points
+Round 3: fifthtoast attacks!
+You lose 7 hit points
+You lose 36 hit points
+Round 4: fifthtoast attacks!
+Round 5: greasy duck takes 38 damage.
+You lose 34 hit points
+Round 5: fifthtoast attacks!
+Round 6: greasy duck takes 42 damage.
+Round 6: fifthtoast wins the fight!
+You gain 9 hit points
+You gain 5 Muscularity Points
+You gain 134 Meat
+You gain 27 Strongness
+You gain 13 Mysteriousness
+You gain a Mysticality point!
+You gain 7 Roguishness
+
+bigisland.php?place=farm
+
+[2711] Pond
+Encounter: figure-skating duck
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 40 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: figure-skating duck takes 67 damage.
+You lose 42 hit points
+Round 2: unspecified macro action?
+Round 2: figure-skating duck takes 53 damage.
+You lose 40 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+You lose 5 hit points
+You lose 41 hit points
+
+[2712] Rest in Clan Sofa (3 turns)
+You gain 181 hit points
+You gain 55 Mojo Points
+
+[2715] Pond
+Encounter: Malevolent Tofurkey
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: malevolent tofurkey takes 33 damage.
+You lose 13 hit points
+Round 2: fifthtoast attacks!
+Round 3: malevolent tofurkey takes 33 damage.
+Round 3: fifthtoast attacks!
+You lose 8 hit points
+Round 4: fifthtoast attacks!
+Round 5: malevolent tofurkey takes 35 damage.
+You lose 13 hit points
+Round 5: fifthtoast attacks!
+Round 6: malevolent tofurkey takes 29 damage.
+Round 6: fifthtoast attacks!
+Round 7: malevolent tofurkey takes 33 damage.
+You lose 13 hit points
+Round 7: fifthtoast attacks!
+Round 8: malevolent tofurkey takes 29 damage.
+Round 8: fifthtoast attacks!
+Round 9: malevolent tofurkey takes 33 damage.
+You lose 14 hit points
+Round 9: fifthtoast attacks!
+Round 10: malevolent tofurkey takes 28 damage.
+You lose 11 hit points
+Round 10: fifthtoast attacks!
+You lose 1 hit point
+Round 11: fifthtoast attacks!
+Round 12: fifthtoast attacks!
+You lose 14 hit points
+Round 13: fifthtoast attacks!
+Round 14: malevolent tofurkey takes 33 damage.
+Round 14: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 7 Muscularity Points
+You acquire an item: tofurkey nugget
+You acquire an item: packet of tofurkey gravy
+You gain 8 Strengthliness
+You gain 11 Magicalness
+You gain 11 Chutzpah
+
+[2716] Pond
+Encounter: figure-skating duck
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: figure-skating duck takes 61 damage.
+You lose 40 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: figure-skating duck takes 65 damage.
+You lose 40 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+You lose 8 hit points
+You lose 40 hit points
+Round 3: fifthtoast attacks!
+Round 4: figure-skating duck takes 44 damage.
+You lose 39 hit points
+
+[2717] Rest in Clan Sofa (3 turns)
+You gain 181 hit points
+You gain 55 Mojo Points
+
+[2720] Pond
+Encounter: figure-skating duck
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 38 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: figure-skating duck takes 57 damage.
+You lose 41 hit points
+Round 2: unspecified macro action?
+Round 2: figure-skating duck takes 63 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: figure-skating duck takes 47 damage.
+You lose 38 hit points
+Round 3: fifthtoast attacks!
+Round 4: figure-skating duck takes 40 damage.
+Round 4: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 9 Muscularity Points
+You gain 162 Meat
+You gain 20 Strengthliness
+You gain 15 Mysteriousness
+You gain 12 Cheek
+
+[2721] Pond
+Encounter: frozen duck
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: frozen duck takes 55 damage.
+You lose 37 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: frozen duck takes 45 damage.
+You lose 38 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: frozen duck takes 40 damage.
+You lose 37 hit points
+Round 3: fifthtoast attacks!
+Round 4: frozen duck takes 38 damage.
+Round 4: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 8 Muscularity Points
+You gain 160 Meat
+You acquire an item: frozen feather
+You gain 22 Strengthliness
+You gain 11 Wizardliness
+You gain 13 Roguishness
+
+[2722] Rest in Clan Sofa (5 turns)
+You gain 285 hit points
+
+[2727] Pond
+Encounter: frozen duck
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: frozen duck takes 48 damage.
+You lose 38 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: frozen duck takes 46 damage.
+You lose 34 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: frozen duck takes 42 damage.
+You lose 35 hit points
+Round 3: fifthtoast attacks!
+You lose 9 hit points
+You lose 36 hit points
+Round 4: fifthtoast attacks!
+Round 5: frozen duck takes 44 damage.
+Round 5: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 6 Muscularity Points
+You gain 138 Meat
+You gain 23 Strengthliness
+You gain 8 Mysteriousness
+You gain 13 Cheek
+You gain a Moxie point!
+
+[2728] Pond
+Encounter: frozen duck
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: frozen duck takes 59 damage.
+You lose 37 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: frozen duck takes 65 damage.
+You lose 37 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: frozen duck takes 43 damage.
+You lose 36 hit points
+Round 3: fifthtoast attacks!
+Round 4: frozen duck takes 37 damage.
+Round 4: fifthtoast wins the fight!
+You gain 9 hit points
+You gain 6 Muscularity Points
+You gain 150 Meat
+You gain 22 Strengthliness
+You gain 11 Magicalness
+You gain 11 Cheek
+
+[2729] Pond
+Encounter: frozen duck
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: frozen duck takes 55 damage.
+You lose 38 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: frozen duck takes 97 damage.
+You lose 37 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: frozen duck takes 43 damage.
+Round 3: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 9 Muscularity Points
+You gain 158 Meat
+You gain 24 Beefiness
+You gain 9 Wizardliness
+You gain 12 Cheek
+
+[2730] Rest in Clan Sofa (4 turns)
+You gain 242 hit points
+
+[2734] Pond
+Encounter: figure-skating duck
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 40 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: figure-skating duck takes 59 damage.
+You lose 39 hit points
+Round 2: unspecified macro action?
+Round 2: figure-skating duck takes 61 damage.
+You lose 41 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: figure-skating duck takes 53 damage.
+You lose 42 hit points
+Round 3: fifthtoast attacks!
+Round 4: figure-skating duck takes 69 damage.
+Round 4: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 9 Muscularity Points
+You gain 133 Meat
+You gain 22 Strengthliness
+You gain 14 Mysteriousness
+You gain 12 Chutzpah
+
+[2735] Pond
+Encounter: frozen duck
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: frozen duck takes 54 damage.
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: frozen duck takes 56 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: frozen duck takes 45 damage.
+You lose 34 hit points
+Round 3: fifthtoast attacks!
+Round 4: frozen duck takes 41 damage.
+Round 4: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 8 Muscularity Points
+You gain 143 Meat
+You gain 24 Strengthliness
+You gain a Muscle point!
+You gain 9 Wizardliness
+You gain 10 Smarm
+
+[2736] Pond
+Encounter: figure-skating duck
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 41 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: figure-skating duck takes 57 damage.
+You lose 42 hit points
+Round 2: unspecified macro action?
+Round 2: figure-skating duck takes 69 damage.
+You lose 40 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: figure-skating duck takes 51 damage.
+You lose 41 hit points
+Round 3: fifthtoast attacks!
+Round 4: figure-skating duck takes 44 damage.
+Round 4: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 9 Muscularity Points
+You gain 170 Meat
+You gain 23 Beefiness
+You gain 17 Magicalness
+You gain 9 Roguishness
+
+[2737] Rest in Clan Sofa (5 turns)
+You gain 288 hit points
+
+[2742] Pond
+Encounter: Stuffing Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: stuffing golem takes 34 damage.
+You lose 14 hit points
+Round 2: fifthtoast attacks!
+Round 3: fifthtoast attacks!
+You lose 12 hit points
+Round 4: fifthtoast attacks!
+Round 5: stuffing golem takes 32 damage.
+Round 5: fifthtoast attacks!
+Round 6: stuffing golem takes 29 damage.
+Round 6: fifthtoast attacks!
+Round 7: stuffing golem takes 32 damage.
+Round 7: fifthtoast attacks!
+Round 8: stuffing golem takes 37 damage.
+Round 8: fifthtoast attacks!
+Round 9: fifthtoast attacks!
+You lose 1 hit point
+Round 10: fifthtoast attacks!
+Round 11: stuffing golem takes 34 damage.
+You lose 13 hit points
+Round 11: fifthtoast attacks!
+Round 12: stuffing golem takes 36 damage.
+Round 12: fifthtoast attacks!
+Round 13: stuffing golem takes 38 damage.
+Round 13: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 8 Muscularity Points
+You acquire an item: single-serving herbal stuffing
+You gain 16 Strongness
+You gain 7 Enchantedness
+You gain 7 Roguishness
+
+[2743] Pond
+Encounter: figure-skating duck
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 42 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: figure-skating duck takes 64 damage.
+You lose 39 hit points
+Round 2: unspecified macro action?
+Round 2: figure-skating duck takes 58 damage.
+You lose 41 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: figure-skating duck takes 43 damage.
+You lose 41 hit points
+Round 3: fifthtoast attacks!
+Round 4: figure-skating duck takes 54 damage.
+Round 4: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 10 Muscularity Points
+You gain 160 Meat
+You acquire an item: frozen feather
+You gain 27 Fortitude
+You gain 10 Enchantedness
+You gain 9 Roguishness
+
+[2744] Pond
+Encounter: frozen duck
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: frozen duck takes 54 damage.
+You lose 37 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: frozen duck takes 64 damage.
+You lose 38 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: frozen duck takes 60 damage.
+You lose 38 hit points
+Round 3: fifthtoast attacks!
+Round 4: frozen duck takes 39 damage.
+Round 4: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 8 Muscularity Points
+You gain 148 Meat
+You gain 22 Beefiness
+You gain 9 Magicalness
+You gain 14 Smarm
+
+bigisland.php?place=farm
+bigisland.php?place=farm&action=farmer&pwd=e5189d238f72fb4a7879b3046fd060bb
+bigisland.php?place=orchard
+
+[2745] Hatching Chamber
+Encounter: larval filthworm
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 42 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: larval filthworm takes 67 damage.
+You lose 42 hit points
+After Battle: unspecified macro action?
+After Battle: larval filthworm takes 61 damage.
+You lose 42 hit points
+
+[2746] Rest in Clan Sofa (3 turns)
+You gain 179 hit points
+You gain 55 Mojo Points
+
+[2749] Hatching Chamber
+Encounter: larval filthworm
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: larval filthworm takes 49 damage.
+You lose 41 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: larval filthworm takes 55 damage.
+You lose 32 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: larval filthworm takes 42 damage.
+Round 3: fifthtoast attacks!
+You lose 9 hit points
+You lose 40 hit points
+Round 4: fifthtoast attacks!
+Round 5: larval filthworm takes 41 damage.
+Round 5: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 10 Muscularity Points
+You gain 42 Meat
+You gain 20 Beefiness
+You gain 11 Mysteriousness
+You gain 12 Sarcasm
+
+[2750] Hatching Chamber
+Encounter: larval filthworm
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: larval filthworm takes 43 damage.
+You lose 31 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: larval filthworm takes 49 damage.
+You lose 42 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: larval filthworm takes 32 damage.
+You lose 39 hit points
+Round 3: fifthtoast attacks!
+Round 4: larval filthworm takes 31 damage.
+You lose 32 hit points
+
+[2751] Rest in Clan Sofa (3 turns)
+You gain 179 hit points
+You gain 55 Mojo Points
+
+[2754] Hatching Chamber
+Encounter: larval filthworm
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: larval filthworm takes 52 damage.
+You lose 41 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: larval filthworm takes 52 damage.
+You lose 33 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: larval filthworm takes 39 damage.
+You lose 39 hit points
+Round 3: fifthtoast attacks!
+Round 4: larval filthworm takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 10 Muscularity Points
+You gain 53 Meat
+You gain 19 Muscleboundness
+You gain 10 Enchantedness
+You gain 13 Smarm
+
+[2755] Hatching Chamber
+Encounter: larval filthworm
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 42 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: larval filthworm takes 47 damage.
+You lose 40 hit points
+Round 2: unspecified macro action?
+Round 2: larval filthworm takes 47 damage.
+You lose 34 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: larval filthworm takes 38 damage.
+You lose 32 hit points
+
+[2756] Rest in Clan Sofa (3 turns)
+You gain 178 hit points
+You gain 55 Mojo Points
+
+[2759] Hatching Chamber
+Encounter: larval filthworm
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 36 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: larval filthworm takes 63 damage.
+You lose 43 hit points
+Round 2: unspecified macro action?
+Round 2: larval filthworm takes 47 damage.
+You lose 35 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: larval filthworm takes 35 damage.
+You lose 34 hit points
+Round 3: fifthtoast attacks!
+Round 4: larval filthworm takes 42 damage.
+Round 4: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 9 Muscularity Points
+You gain 44 Meat
+You gain 15 Beefiness
+You gain 14 Enchantedness
+You gain 16 Sarcasm
+
+[2760] Hatching Chamber
+Encounter: larval filthworm
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 41 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: larval filthworm takes 63 damage.
+You lose 34 hit points
+After Battle: unspecified macro action?
+After Battle: larval filthworm takes 61 damage.
+You lose 41 hit points
+
+[2761] Rest in Clan Sofa (3 turns)
+You gain 179 hit points
+You gain 55 Mojo Points
+
+[2764] Hatching Chamber
+Encounter: larval filthworm
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: larval filthworm takes 50 damage.
+You lose 35 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: larval filthworm takes 86 damage.
+You lose 34 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: larval filthworm takes 39 damage.
+You lose 35 hit points
+Round 3: fifthtoast attacks!
+Round 4: larval filthworm takes 42 damage.
+Round 4: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 5 Muscularity Points
+You gain 43 Meat
+You gain 22 Beefiness
+You gain 13 Enchantedness
+You gain 9 Smarm
+
+[2765] Hatching Chamber
+Encounter: larval filthworm
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: larval filthworm takes 51 damage.
+You lose 32 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: larval filthworm takes 55 damage.
+You lose 39 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: larval filthworm takes 36 damage.
+You lose 33 hit points
+Round 3: fifthtoast attacks!
+Round 4: larval filthworm takes 36 damage.
+You lose 33 hit points
+
+[2766] Rest in Clan Sofa (3 turns)
+You gain 179 hit points
+You gain 55 Mojo Points
+
+[2769] Hatching Chamber
+Encounter: larval filthworm
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: larval filthworm takes 54 damage.
+You lose 42 hit points
+Round 2: unspecified macro action?
+Round 2: larval filthworm takes 54 damage.
+You lose 35 hit points
+Round 2: fifthtoast executes a macro!
+
+cast 50 Laugh It Off
+Round 2: fifthtoast attacks!
+Round 3: larval filthworm takes 35 damage.
+You lose 43 hit points
+Round 3: fifthtoast attacks!
+You lose 6 hit points
+You lose 41 hit points
+Round 4: fifthtoast attacks!
+Round 5: larval filthworm takes 34 damage.
+You lose 35 hit points
+Round 5: fifthtoast attacks!
+Round 6: larval filthworm takes 35 damage.
+Round 6: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 9 Muscularity Points
+You gain 48 Meat
+You gain 24 Strengthliness
+You gain 11 Enchantedness
+You gain 8 Sarcasm
+You gain 72 hit points
+
+[2770] Hatching Chamber
+Encounter: larval filthworm
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 34 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: larval filthworm takes 47 damage.
+You lose 35 hit points
+After Battle: unspecified macro action?
+After Battle: larval filthworm takes 43 damage.
+You lose 32 hit points
+
+[2771] Rest in Clan Sofa (3 turns)
+You gain 180 hit points
+You gain 55 Mojo Points
+
+[2774] Hatching Chamber
+Encounter: larval filthworm
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: larval filthworm takes 41 damage.
+You lose 34 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: larval filthworm takes 41 damage.
+You lose 38 hit points
+Round 2: fifthtoast executes a macro!
+
+cast 50 Laugh It Off
+You gain 72 hit points
+Round 2: fifthtoast attacks!
+You lose 6 hit points
+You lose 34 hit points
+Round 3: fifthtoast attacks!
+Round 4: larval filthworm takes 35 damage.
+You lose 32 hit points
+Round 4: fifthtoast attacks!
+Round 5: larval filthworm takes 31 damage.
+Round 5: fifthtoast attacks!
+Round 6: larval filthworm takes 34 damage.
+You lose 42 hit points
+Round 6: fifthtoast attacks!
+Round 7: larval filthworm takes 49 damage.
+Round 7: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 7 Muscularity Points
+You gain 53 Meat
+You gain 20 Beefiness
+You gain 11 Mysteriousness
+You gain 11 Cheek
+
+[2775] Hatching Chamber
+Encounter: larval filthworm
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: larval filthworm takes 62 damage.
+You lose 32 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: larval filthworm takes 62 damage.
+You lose 41 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: larval filthworm takes 36 damage.
+You lose 41 hit points
+Round 3: fifthtoast attacks!
+Round 4: larval filthworm takes 39 damage.
+Round 4: fifthtoast wins the fight!
+You gain 9 hit points
+You gain 9 Muscularity Points
+You gain 40 Meat
+You gain 27 Strengthliness
+You gain 4 Wizardliness
+You gain 11 Cheek
+
+[2776] Rest in Clan Sofa (5 turns)
+You gain 290 hit points
+You gain 41 Mojo Points
+
+[2781] Hatching Chamber
+Encounter: Stuffing Golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: stuffing golem takes 44 damage.
+You lose 12 hit points
+Round 2: fifthtoast attacks!
+Round 3: fifthtoast attacks!
+Round 4: stuffing golem takes 31 damage.
+You lose 13 hit points
+Round 4: fifthtoast attacks!
+Round 5: stuffing golem takes 30 damage.
+Round 5: fifthtoast attacks!
+Round 6: stuffing golem takes 35 damage.
+Round 6: fifthtoast attacks!
+Round 7: stuffing golem takes 30 damage.
+You lose 12 hit points
+Round 7: fifthtoast attacks!
+Round 8: stuffing golem takes 32 damage.
+Round 8: fifthtoast attacks!
+Round 9: stuffing golem takes 36 damage.
+Round 9: fifthtoast attacks!
+You lose 13 hit points
+Round 10: fifthtoast attacks!
+Round 11: stuffing golem takes 28 damage.
+Round 11: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 8 Muscularity Points
+You acquire an item: single-serving herbal stuffing
+You gain 11 Beefiness
+You gain 10 Mysteriousness
+You gain a Mysticality point!
+You gain 9 Roguishness
+
+[2782] Hatching Chamber
+Encounter: larval filthworm
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 41 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: larval filthworm takes 63 damage.
+You lose 35 hit points
+Round 2: unspecified macro action?
+Round 2: larval filthworm takes 59 damage.
+You lose 34 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: larval filthworm takes 37 damage.
+You lose 43 hit points
+Round 3: fifthtoast attacks!
+Round 4: larval filthworm takes 37 damage.
+Round 4: fifthtoast wins the fight!
+You gain 9 hit points
+You gain 10 Muscularity Points
+You gain 47 Meat
+You gain 25 Fortitude
+You gain a Muscle point!
+You gain 11 Mysteriousness
+You gain 7 Cheek
+
+[2783] Hatching Chamber
+Encounter: larval filthworm
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: larval filthworm takes 40 damage.
+You lose 34 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: larval filthworm takes 58 damage.
+You lose 34 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: larval filthworm takes 39 damage.
+You lose 35 hit points
+Round 3: fifthtoast attacks!
+Round 4: larval filthworm takes 56 damage.
+Round 4: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 6 Muscularity Points
+You gain 52 Meat
+You acquire an item: filthworm hatchling scent gland
+You gain 25 Beefiness
+You gain 13 Mysteriousness
+You gain 7 Sarcasm
+
+bigisland.php?place=orchard&action=stand&pwd=e5189d238f72fb4a7879b3046fd060bb

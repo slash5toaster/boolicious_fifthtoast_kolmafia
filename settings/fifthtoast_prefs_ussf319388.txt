@@ -1,8 +1,8 @@
-AdventureFrame=-4,0,1
+AdventureFrame=292,83,2
 CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=235,0,-1
+KoLDesktop=232,0,-1
 LoginFrame=425,138,0
 MaximizerFrame=364,141
 ProfileFrame=2662,409,-1
@@ -34,7 +34,7 @@ _companionshipCasts=0
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=3
+_demandSandwich=0
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -582,7 +582,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=15
+currentFullness=29
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -641,7 +641,7 @@ fossilN=0
 fossilP=0
 fossilS=0
 fossilW=0
-fratboysDefeated=0
+fratboysDefeated=3
 friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
@@ -659,36 +659,36 @@ heroDonationSneakyPete=0
 hiddenCityLayout=EEEREPEPEEREPRTEREPEEPEEE
 hiddenCitySquare=0
 hippiesDefeated=0
-hpAutoRecovery=0.1
-hpAutoRecoveryItems=scroll of drastic healing;cannelloni cocoon;tongue of the walrus;lasagna bandages;doc galaktik's ailment ointment
+hpAutoRecovery=0.2
+hpAutoRecoveryItems=sleep on your clan sofa;galaktik's curative nostrum;medicinal herb's medicinal herbs;scroll of drastic healing;cannelloni cocoon;red pixel potion;really thick bandage;pok&euml;mann band-aid;elven medi-pack;phonics down;honey-dipped locust;tongue of the walrus;red paisley oyster egg;red polka-dot oyster egg;red striped oyster egg;tiny house;lasagna bandages;doc galaktik's homeopathic elixir;cast;tongue of the otter;sugar shard;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent
 hpAutoRecoveryTarget=1.0
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Cobb's Knob Treasury
+lastAdventure=Hatching Chamber
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion-1=confusion
-lastBangPotion819
-lastBangPotion820
-lastBangPotion821
+lastBangPotion819=sleepiness
+lastBangPotion820=mental acuity
+lastBangPotion821=detection
 lastBangPotion822=confusion
-lastBangPotion823
-lastBangPotion824
+lastBangPotion823=teleportitis
+lastBangPotion824=inebriety
 lastBangPotion825=healing
-lastBangPotion826
-lastBangPotion827
+lastBangPotion826=ettin strength
+lastBangPotion827=blessing
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=3
+lastBreakfast=6
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=11
-lastCounterDay=3
+lastCounterDay=6
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -729,7 +729,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=Finally, the Payoff
+lastEncounter=larval filthworm
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -825,7 +825,7 @@ mmgSearchMaximum=10000
 mmgSearchMinimum=5000
 moleTunnelLevel=0
 mpAutoRecovery=-0.05
-mpAutoRecoveryItems=phonics down;knob goblin superseltzer;mountain stream soda;magical mystery juice;knob goblin seltzer;cherry cloaca cola;soda water
+mpAutoRecoveryItems=sleep on your clan sofa;carbonated soy milk;carbonated water lily;blue pixel potion;phonics down;palm-frond fan;okee-dokee soda;honey-dipped locust;marquis de poivre soda;knob goblin superseltzer;mountain stream soda;magical mystery juice;knob goblin seltzer;cherry cloaca cola;soda water
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
 noodleSummons=0
@@ -886,7 +886,7 @@ questL11Manor=started
 questL11Palindome=finished
 questL11Pyramid=step5
 questL11Worship=step3
-questL12War=unstarted
+questL12War=step1
 questL13Final=unstarted
 questM01Untinker=finished
 questM02Artist=finished
@@ -915,7 +915,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=2805\:Holiday Monster window begin loc\=*\:lparen.gif\:2815\:Holiday Monster window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -932,7 +932,7 @@ showGainsPerUnit=false
 showTurnFreeOnly=false
 sideDefeated=neither
 sidequestArenaCompleted=none
-sidequestFarmCompleted=none
+sidequestFarmCompleted=hippy
 sidequestJunkyardCompleted=none
 sidequestLighthouseCompleted=none
 sidequestNunsCompleted=none
@@ -1036,6 +1036,6 @@ volcanoMaze2
 volcanoMaze3
 volcanoMaze4
 volcanoMaze5
-warProgress=unstarted
+warProgress=started
 welcomeBackAdv=0
 wineCellarProgress=0
