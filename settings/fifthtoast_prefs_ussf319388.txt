@@ -8,7 +8,7 @@ MaximizerFrame=364,141
 ProfileFrame=2662,409,-1
 RequestFrame=2575,334,-1
 RequestSynchFrame=2575,334,-1
-TabbedChatFrame=1317,409,0
+TabbedChatFrame=812,341,0
 _absintheDrops=0
 _aguaDrops=0
 _allYearSucker=false
@@ -34,7 +34,7 @@ _companionshipCasts=0
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=0
+_demandSandwich=3
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -582,7 +582,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=29
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -682,13 +682,13 @@ lastBangPotion827=blessing
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=6
+lastBreakfast=7
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=11
-lastCounterDay=6
+lastCounterDay=7
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -915,7 +915,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=2805\:Holiday Monster window begin loc\=*\:lparen.gif\:2815\:Holiday Monster window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
