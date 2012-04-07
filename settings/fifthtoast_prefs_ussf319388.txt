@@ -582,7 +582,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=15
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -656,7 +656,7 @@ hermitHax0red=true
 heroDonationBoris=0
 heroDonationJarlsberg=0
 heroDonationSneakyPete=0
-hiddenCityLayout=EEEREPEPEEREPRTEREPEEPEEE
+hiddenCityLayout=EEEWEEEDEEREDRTEREDEEDEEE
 hiddenCitySquare=0
 hippiesDefeated=0
 hpAutoRecovery=0.2
@@ -666,7 +666,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Hatching Chamber
+lastAdventure=Dungeons of Doom
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion-1=confusion
@@ -682,13 +682,13 @@ lastBangPotion827=blessing
 lastBangPotionReset=1
 lastBarrelSmashed=0
 lastBattlefieldReset=1
-lastBreakfast=7
+lastBreakfast=8
 lastCellarReset=1
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=11
-lastCounterDay=7
+lastCounterDay=8
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -729,7 +729,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=larval filthworm
+lastEncounter=Quantum Mechanic
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -800,7 +800,7 @@ lastTowerClimb=-1
 lastTr4pz0rQuest=-1
 lastVioletFogMap=1
 lastWuTangDefeated=-1
-lastZapperWand=0
+lastZapperWand=1
 libramSummons=0
 libraryCardUsed=false
 louvreDesiredGoal=7
