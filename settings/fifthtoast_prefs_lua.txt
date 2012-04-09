@@ -1,5 +1,5 @@
 =4
-AdventureFrame=362,110,0
+AdventureFrame=362,110,2
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=424,348
@@ -56,7 +56,7 @@ _companionshipCasts=0
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=0
+_demandSandwich=3
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -122,7 +122,7 @@ _transponderDrops=0
 _trivialAvocationsGame=false
 _userMods
 _vmaskAdv=0
-_zapCount=1
+_zapCount=0
 addingScrolls=2
 afterAdventureScript
 arcadeGameHints=true
@@ -614,15 +614,15 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=30
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
 currentMojoFilters=0
 currentMood=default
-currentNunneryMeat=0
+currentNunneryMeat=8000
 currentPvpVictories
-currentSpleenUse=1
+currentSpleenUse=0
 currentWheelPosition=moxie
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -674,8 +674,8 @@ fossilN=0
 fossilP=0
 fossilS=0
 fossilW=0
-fratboysDefeated=0
-friarsBlessingReceived=true
+fratboysDefeated=3
+friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=5
@@ -693,13 +693,13 @@ hiddenCityLayout=EEEWEPEPEEFEPLTANEPEEP0EE
 hiddenCitySquare=0
 hippiesDefeated=0
 hpAutoRecovery=-0.05
-hpAutoRecoveryItems=scroll of drastic healing;cannelloni cocoon;tongue of the walrus;lasagna bandages;doc galaktik's ailment ointment
+hpAutoRecoveryItems=sleep on your clan sofa;scroll of drastic healing;cannelloni cocoon;red pixel potion;really thick bandage;elven medi-pack;tongue of the walrus;lasagna bandages;doc galaktik's homeopathic elixir;cast;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent
 hpAutoRecoveryTarget=1.0
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Dungeons of Doom
+lastAdventure=Themthar Hills
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -716,13 +716,13 @@ lastBangPotion827=blessing
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=1
+lastBreakfast=10
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=11
-lastCounterDay=1
+lastCounterDay=10
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -763,7 +763,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=swarm of killer bees
+lastEncounter=dirty thieving brigand
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -918,10 +918,10 @@ questL09Lol=finished
 questL10Garbage=finished
 questL11MacGuffin=step2
 questL11Manor=started
-questL11Palindome=step4
+questL11Palindome=finished
 questL11Pyramid=step5
 questL11Worship=step3
-questL12War=unstarted
+questL12War=step1
 questL13Final=unstarted
 questM01Untinker=finished
 questM02Artist=finished
@@ -1071,6 +1071,6 @@ volcanoMaze2
 volcanoMaze3
 volcanoMaze4
 volcanoMaze5
-warProgress=unstarted
+warProgress=started
 welcomeBackAdv=0
 wineCellarProgress=0
