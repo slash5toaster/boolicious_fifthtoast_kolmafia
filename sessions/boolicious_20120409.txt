@@ -187,3 +187,3614 @@ Use 3 ten-leaf clover
 You acquire disassembled clover (3)
 
 mallsell: 30 disassembled clover
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+April 9, 2012 - Dougtember 4
+
+Ronald: waxing gibbous
+Grimace: waning gibbous
+Mini-moon: behind Ronald
+
+Yuletide: today
+Festival of Jarlsberg: 5 days
+Valentine's Day: 16 days
+St. Sneaky Pete's Day: 23 days
+Oyster Egg Day: 30 days
+El Dia De Los Muertos Borrachos: 38 days
+Generic Summer Holiday: 47 days
+Dependence Day: 56 days
+Arrrbor Day: 64 days
+Lab&oacute;r Day: 74 days
+Halloween: 84 days
+Feast of Boris: 91 days
+
+Yuletide
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 11
+HP: 456 / 603
+MP: 8 / 210
+
+Mus: 379 (116), tnp = 191
+Mys: 210 (83), tnp = 113
+Mox: 203 (82), tnp = 164
+
+Advs: 200
+Meat: 216,137
+Drunk: 0
+
+
+ > equipment
+
+Hat: mesh cap
+Weapon: Hammer of Smiting
+Off-hand: catskin buckler
+Shirt: star shirt
+Pants: astral trousers
+
+Acc. 1: Slow Talkin' Elliot's dogtags
+Acc. 2: Mr. Accessory
+Acc. 3: Mr. Accessory
+
+Pet: Fancypants Scarecrow (22 lbs)
+Item: leotarrrd
+
+ > skills
+
+Uncategorized
+ - Liver of Steel
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Bubble Vision (8)
+Trivia Master (17)
+Scarysauce (102)
+Jingle Jangle Jingle (102)
+♫ Polka of Plenty (102)
+Elemental Saucesphere (102)
+Ghostly Shell (105)
+Tenacity of the Snapper (105)
+Astral Shell (105)
+Reptilian Fortitude (105)
+Jabañero Saucesphere (105)
+Jalapeño Saucesphere (105)
+♫ Stevedave's Shanty of Superiority (105)
+Empathy (105)
+♫ Cringle's Curative Carol (105)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: -30.00%
+
+Exp: +3.32
+Meat: +90.00%
+Item: +93.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[1302] Yuletide Bonfire
+Encounter: Empty-Handed
+
+buy 10 marshmallow for 100 each from Market Demon
+You acquire marshmallow (10)
+You spent 1,000 Meat
+
+[1302] Yuletide Bonfire
+Encounter: The Tale of the Mysterious Sexy Pottery
+You lose 28 hit points
+You gain 65 Muscularity Points
+You acquire an item: roasted marshmallow
+
+[1303] Yuletide Bonfire
+Encounter: The Tale of the Mysterious Event at Makeout Point
+You lose 23 hit points
+You gain 41 Muscularity Points
+You acquire an item: roasted marshmallow
+
+[1304] Yuletide Bonfire
+Encounter: The Tale of the Mysterious Sexy Pottery
+You lose 24 hit points
+You gain 34 Muscularity Points
+You acquire an item: roasted marshmallow
+
+[1305] Yuletide Bonfire
+Encounter: The Tale of the Mysterious Diminishing Returns
+You lose 22 hit points
+You gain 47 Muscularity Points
+You acquire an item: roasted marshmallow
+
+cast 1 Tongue of the Walrus
+You gain 30 hit points
+
+[1306] Yuletide Bonfire
+Encounter: The Tale of the Mysterious Albino Ladies and Stuff
+You lose 26 hit points
+You gain 48 Muscularity Points
+You acquire an item: roasted marshmallow
+
+[1307] Yuletide Bonfire
+Encounter: The Tale of the Mysterious Moping Prince
+You lose 32 hit points
+You gain 38 Muscularity Points
+You acquire an item: roasted marshmallow
+
+[1308] Yuletide Bonfire
+Encounter: The Tale of the Mysterious Bedroom Game
+You lose 23 hit points
+You gain 42 Muscularity Points
+You acquire an item: roasted marshmallow
+
+[1309] Yuletide Bonfire
+Encounter: The Tale of the Mysterious House in the Suburbs
+You lose 22 hit points
+You gain 34 Muscularity Points
+You acquire an item: roasted marshmallow
+
+use 1 bottle of bubbles
+You acquire an effect: Bubble Vision (duration: 100 Adventures)
+
+[1310] Nemesis Cave
+Encounter: infernal seal spawn
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: infernal seal spawn takes 571 damage.
+Round 1: boolicious wins the fight!
+You acquire an item: seal eyeball
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 3 Muscleboundness
+You gain 6 Wizardliness
+You gain 5 Cheek
+
+use 1 seal eyeball
+You acquire an effect: A Little Bit Evil (duration: 10 Adventures)
+You acquire an effect: Eye of the Seal (duration: 10 Adventures)
+
+[1311] Nemesis Cave
+Encounter: infernal seal larva
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: infernal seal larva takes 579 damage.
+Round 1: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 10 Strengthliness
+You gain 1 Enchantedness
+You gain 3 Cheek
+
+[1312] Nemesis Cave: Inner Sanctum
+Encounter: Gorgolok, the Infernal Seal
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: gorgolok, the infernal seal takes 573 damage.
+Round 2: boolicious wins the fight!
+You gain 64 Meat
+You acquire an item: Scalp of Gorgolok
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 8 Fortitude
+You gain 2 Wizardliness
+You gain 4 Roguishness
+
+equip hat Scalp of Gorgolok
+
+[1313] Nemesis Cave
+Encounter: infernal seal spawn
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: infernal seal spawn takes 577 damage.
+Round 1: boolicious wins the fight!
+You acquire an item: seal eyeball
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 7 Fortitude
+You gain 4 Enchantedness
+You gain 3 Cheek
+
+[1314] Nemesis Cave
+Encounter: infernal seal larva
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: infernal seal larva takes 583 damage.
+Round 1: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 8 Fortitude
+You gain 5 Enchantedness
+You gain 1 Roguishness
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+Visiting Hermit
+
+trading 1 worthless item for 1 figurine of an ancient seal
+You acquire an item: figurine of an ancient seal
+
+use 1 figurine of an ancient seal
+
+[1315] Infernal Seal Ritual
+Encounter: hermetic seal
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: hermetic seal takes 363 damage.
+Round 1: boolicious wins the fight!
+You acquire an item: powdered sealbone
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 18 Beefiness
+You gain 9 Wizardliness
+You gain 8 Roguishness
+
+use 1 figurine of a cold seal
+
+use 1 figurine of a shadowy seal
+Encounter: In Over His Head
+You acquire an item: figurine of a slippery seal
+
+use 1 figurine of a slippery seal
+
+buy 10 seal-blubber candle for 100 each from Smacketeria
+You acquire seal-blubber candle (10)
+You spent 1,000 Meat
+
+use 1 figurine of a cold seal
+
+Combine 1 seal-blubber candle + 1 powdered sealbone
+You acquire an item: imbued seal-blubber candle
+Crafting used 1 each of seal-blubber candle and powdered sealbone
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless trinket
+
+Visiting Hermit
+
+trading 1 worthless item for 1 figurine of an ancient seal
+You acquire an item: figurine of an ancient seal
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+Visiting Hermit
+
+trading 1 worthless item for 1 figurine of an ancient seal
+You acquire an item: figurine of an ancient seal
+
+use 1 figurine of an ancient seal
+
+[1315] Infernal Seal Ritual
+Encounter: hermetic seal
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: hermetic seal takes 334 damage.
+Round 1: boolicious wins the fight!
+You acquire an item: powdered sealbone
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 22 Strengthliness
+You gain 9 Mysteriousness
+You gain 7 Sarcasm
+
+Combine 1 powdered sealbone + 1 seal-blubber candle
+You acquire an item: imbued seal-blubber candle
+Crafting used 1 each of seal-blubber candle and powdered sealbone
+
+use 1 Gnollish toolbox
+You acquire an item: sprocket
+You acquire an item: empty meat tank
+
+use 1 Jackass Plumber home game
+You acquire an effect: Gamer Rage (duration: 10 Adventures)
+
+use 1 figurine of a shadowy seal
+
+[1315] Infernal Seal Ritual
+Encounter: shadow of Black Bubbles
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: shadow of black bubbles takes 510 damage.
+Round 1: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 26 Fortitude
+You gain 15 Wizardliness
+You gain 13 Smarm
+
+use 1 figurine of a charred seal
+
+[1315] Infernal Seal Ritual
+Encounter: heat seal
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: heat seal takes 500 damage.
+Round 1: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 28 Muscleboundness
+You gain 15 Enchantedness
+You gain 11 Smarm
+
+Visiting Gunther, Lord of the Smackdown
+
+Visiting Grignr, the Seal Clubber
+
+manor.php?place=stairs
+You lose 4 hit points
+
+[1315] Haunted Library
+Encounter: Take a Look, it's in a Book!
+Took choice 80/3: other options
+choice.php?pwd&whichchoice=80&option=3
+Encounter: Naughty, Naughty...
+Took choice 88/3: Fettucini / Scarysauce
+choice.php?pwd&whichchoice=88&option=3
+You lose 13 hit points
+
+[1316] Haunted Library
+Encounter: writing desk
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: writing desk takes 710 damage.
+Round 1: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 15 Beefiness
+You gain 3 Enchantedness
+You gain 5 Smarm
+
+[1317] Haunted Library
+Encounter: Take a Look, it's in a Book!
+Took choice 81/1: gallery quest
+choice.php?pwd&whichchoice=81&option=1
+Encounter: History is Fun!
+Took choice 87/2: Spookyraven Chapter 5 (Gallery Quest)
+choice.php?pwd&whichchoice=87&option=2
+
+[1318] Haunted Conservatory
+Encounter: skeletal cat
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: skeletal cat takes 806 damage.
+Round 1: boolicious wins the fight!
+You acquire an item: pile of dusty animal bones
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 6 Fortitude
+You gain 2 Mysteriousness
+You gain 3 Smarm
+
+[1319] Haunted Conservatory
+Encounter: anglerbush
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+After Battle: unspecified macro action?
+After Battle: anglerbush takes 566 damage.
+After Battle: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 5 Beefiness
+You gain 3 Mysteriousness
+You gain 1 Sarcasm
+
+[1320] Haunted Conservatory
+Encounter: man-eating plant
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: man-eating plant takes 576 damage.
+Round 1: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 5 Strongness
+You gain 3 Mysteriousness
+You gain 2 Cheek
+
+[1321] Haunted Conservatory
+Encounter: confused goth music student
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: confused goth music student takes 600 damage.
+Round 1: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 3 Muscleboundness
+You gain 1 Magicalness
+You gain 5 Sarcasm
+
+[1322] Haunted Conservatory
+Encounter: menacing thug
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: menacing thug takes 488 damage.
+Round 2: boolicious wins the fight!
+You gain 241 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Muscleboundness
+You gain 4 Enchantedness
+You gain 5 Chutzpah
+
+[1323] Haunted Conservatory
+Encounter: skeletal cat
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: skeletal cat takes 584 damage.
+Round 1: boolicious wins the fight!
+You acquire an item: pile of dusty animal bones
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 10 Strongness
+
+[1324] Haunted Conservatory
+Encounter: skeletal monkey
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+After Battle: unspecified macro action?
+After Battle: skeletal monkey takes 562 damage.
+After Battle: boolicious wins the fight!
+You acquire an item: pile of dusty animal bones
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 5 Muscleboundness
+You gain a Muscle point!
+You gain 1 Enchantedness
+You gain 4 Chutzpah
+
+[1325] Haunted Conservatory
+Encounter: man-eating plant
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: man-eating plant takes 435 damage.
+Round 1: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 6 Muscleboundness
+You gain 2 Enchantedness
+You gain 1 Smarm
+
+[1326] Haunted Conservatory
+Encounter: anglerbush
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+After Battle: unspecified macro action?
+After Battle: anglerbush takes 451 damage.
+After Battle: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 4 Fortitude
+You gain 2 Wizardliness
+You gain 3 Cheek
+
+[1327] Haunted Conservatory
+Encounter: Polo Tombstone
+You acquire an item: Spookyraven gallery key
+
+[1328] Haunted Billiards Room
+Encounter: pooltergeist
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: pooltergeist takes 420 damage.
+Round 1: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 4 Fortitude
+You gain 4 Enchantedness
+You gain 4 Sarcasm
+
+[1329] Haunted Billiards Room
+Encounter: chalkdust wraith
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: chalkdust wraith takes 1 damage.
+Round 1: boolicious attacks!
+Round 2: chalkdust wraith takes 1 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious casts CLOBBER!
+Round 3: chalkdust wraith takes 1 damage.
+Round 3: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 3: boolicious attacks!
+Round 4: chalkdust wraith takes 1 damage.
+Round 4: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 4: boolicious casts CLOBBER!
+Round 5: chalkdust wraith takes 1 damage.
+Round 5: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 5: boolicious casts CLOBBER!
+Round 6: chalkdust wraith takes 1 damage.
+Round 6: boolicious attacks!
+Round 7: chalkdust wraith takes 1 damage.
+Round 7: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 7: boolicious attacks!
+Round 8: chalkdust wraith takes 1 damage.
+Round 8: boolicious attacks!
+Round 9: chalkdust wraith takes 1 damage.
+Round 9: boolicious attacks!
+Round 10: chalkdust wraith takes 1 damage.
+Round 10: boolicious wins the fight!
+You acquire an item: handful of hand chalk
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 9 Beefiness
+You gain 1 Magicalness
+You gain 2 Smarm
+
+[1330] Hidden City (Square 22)
+Encounter: Altared Perceptions
+
+[1330] Hidden City (Square 15)
+Encounter: Altared Perceptions
+
+[1330] Hidden City (Square 22)
+Encounter: Altared Perceptions
+
+[1330] Hidden City (Square 23)
+Encounter: Altared Perceptions
+
+[1330] Hidden City (Altar of Pikachutlotal)
+Offering 1-ball at Altar of Pikachutlotal
+You acquire an effect: Blessing of Pikachutlotal (duration: 20 Adventures)
+
+[1330] Hidden City (Square 23)
+Encounter: Altared Perceptions
+
+adventure.php?snarfblat=118
+
+[1330] Hidden City (Square 17)
+Encounter: pygmy assault squad
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: pygmy assault squad takes 1 damage.
+Round 1: pygmy assault squad takes 5 damage.
+Round 1: pygmy assault squad takes 3 damage.
+You lose 13 hit points
+After Battle: unspecified macro action?
+After Battle: pygmy assault squad takes 249 damage.
+After Battle: boolicious wins the fight!
+You gain 264 Meat
+You acquire an item: pygmy pygment
+You acquire an item: bottle of alcohol
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 25 Strongness
+You gain 17 Mysteriousness
+You gain 5 Sarcasm
+
+adventure.php?snarfblat=118
+
+[1331] Haunted Billiards Room
+Encounter: pooltergeist
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the mossy stone sphere!
+Round 2: pooltergeist drops 3 attack power.
+Round 2: pooltergeist drops 3 defense.
+Round 2: boolicious uses the cracked stone sphere!
+Round 3: pooltergeist takes 10 damage.
+Round 3: boolicious uses the cracked stone sphere!
+Round 4: pooltergeist takes 10 damage.
+Round 4: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 4: boolicious uses the cracked stone sphere!
+Round 5: pooltergeist takes 10 damage.
+Round 5: boolicious wins the fight!
+You acquire an item: 8-ball
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 5 Strongness
+You gain 4 Wizardliness
+You gain a Mysticality point!
+You gain 4 Sarcasm
+
+[1332] Haunted Billiards Room
+Encounter: pooltergeist
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the rough stone sphere!
+You gain 4 hit points
+Round 2: boolicious uses the smooth stone sphere!
+Round 3: pooltergeist takes 10 damage.
+Round 3: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 3: boolicious uses the smooth stone sphere!
+Round 4: pooltergeist takes 10 damage.
+Round 4: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 4: boolicious uses the smooth stone sphere!
+Round 5: pooltergeist takes 10 damage.
+Round 5: boolicious wins the fight!
+You acquire an item: 6-ball
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 5 Strongness
+You gain 2 Magicalness
+You gain 6 Chutzpah
+
+[1333] Hidden City (Square 23)
+Encounter: Altared Perceptions
+
+[1333] Hidden City (Altar of Pikachutlotal)
+Offering cracked stone sphere at Altar of Pikachutlotal
+You acquire an item: triangular stone
+
+[1334] Hidden City (Square 22)
+Encounter: Altared Perceptions
+
+[1334] Hidden City (Altar of Bulbazinalli)
+Offering mossy stone sphere at Altar of Bulbazinalli
+You acquire an item: triangular stone
+
+[1335] Hidden City (Square 15)
+Encounter: Altared Perceptions
+
+[1335] Hidden City (Altar of Charcoatl)
+Offering smooth stone sphere at Altar of Charcoatl
+You acquire an item: triangular stone
+
+[1336] Hidden City (Square 19)
+Encounter: Altared Perceptions
+
+[1336] Hidden City (Altar of Squirtlcthulli)
+Offering rough stone sphere at Altar of Squirtlcthulli
+You acquire an item: triangular stone
+
+[1337] Hidden City (Square 14)
+Encounter: Mansion House of the Black Friars
+
+[1337] Hidden City (Smallish Temple)
+Placing triangular stones into carving
+Encounter: Protector Spectre
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: protector spectre takes 1 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious uses the roofie!
+Round 3: protector spectre drops 5 attack power.
+Round 3: protector spectre drops 5 defense.
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: protector spectre takes 54 damage.
+You gain 20 hit points
+You gain 5 Muscularity Points
+Round 4: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 4: boolicious casts WAVE OF SAUCE!
+Round 5: protector spectre takes 53 damage.
+You gain 20 hit points
+You gain 5 Muscularity Points
+Round 5: boolicious wins the fight!
+You acquire an item: ancient amulet
+You acquire an item: spectre scepter
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 64 Strengthliness
+You gain 32 Wizardliness
+You gain 38 Roguishness
+
+[1338] Black Forest
+Encounter: black panther
+Round 0: boolicious loses initiative!
+Round 1: black panther takes 1 damage.
+Round 1: black panther takes 7 damage.
+Round 1: black panther takes 4 damage.
+You lose 7 hit points
+Round 1: boolicious attacks!
+Round 2: black panther takes 279 damage.
+Round 2: boolicious wins the fight!
+You gain 317 Meat
+You acquire an item: Black No. 2
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 22 Muscleboundness
+You gain 12 Enchantedness
+You gain 7 Cheek
+
+[1339] Pirate Cove
+Encounter: shady pirate
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: shady pirate takes 357 damage.
+Round 2: boolicious wins the fight!
+You gain 53 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Beefiness
+You gain 8 Wizardliness
+You gain 5 Chutzpah
+
+[1340] Pirate Cove
+Encounter: Barrie Me at Sea
+Took choice 23/3: small meat boost
+choice.php?pwd&whichchoice=23&option=3
+You gain 100 Meat
+
+[1341] Pirate Cove
+Encounter: swarthy pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: swarthy pirate takes 360 damage.
+Round 2: boolicious wins the fight!
+You gain 51 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Muscleboundness
+You gain 6 Magicalness
+You gain 5 Roguishness
+
+[1342] Pirate Cove
+Encounter: shifty pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: shifty pirate takes 348 damage.
+Round 2: boolicious wins the fight!
+You gain 85 Meat
+You acquire an item: flaregun
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 9 Beefiness
+You gain 7 Wizardliness
+You gain 9 Smarm
+You gain a Moxie point!
+
+[1343] Haunted Billiards Room
+Encounter: pooltergeist
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: pooltergeist takes 411 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 7 Beefiness
+You gain 4 Magicalness
+You gain 2 Cheek
+
+[1344] Haunted Library
+Encounter: banshee librarian
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: banshee librarian takes 373 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 15 Strengthliness
+You gain 6 Mysteriousness
+You gain 1 Roguishness
+
+[1345] Haunted Library
+Encounter: bookbat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: bookbat takes 370 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: tattered scrap of paper
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Strengthliness
+You gain 4 Enchantedness
+You gain 4 Chutzpah
+
+[1346] Haunted Library
+Encounter: writing desk
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: writing desk takes 369 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: disintegrating quill pen
+You acquire an item: inkwell
+You acquire an item: snifter of thoroughly aged brandy
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 7 Strengthliness
+You gain 7 Enchantedness
+You gain 7 Chutzpah
+
+multiuse.php?passitem=1957&pwd=81b19e4a03159df62d4efbe976fc5441
+
+Use 1 disintegrating quill pen + 1 inkwell + 1 tattered scrap of paper
+You acquire an item: scroll of ancient forbidden unspeakable evil
+
+[1347] Haunted Library
+Encounter: banshee librarian
+Round 0: boolicious wins initiative!
+
+[1347] Haunted Library
+Round 2: boolicious attacks!
+Round 3: banshee librarian takes 375 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: disintegrating quill pen
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 9 Strongness
+You gain 6 Wizardliness
+You gain 8 Sarcasm
+
+[1348] Haunted Library
+Encounter: writing desk
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: writing desk takes 360 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: disintegrating quill pen
+You acquire an item: snifter of thoroughly aged brandy
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Strengthliness
+You gain a Muscle point!
+You gain 1 Mysteriousness
+You gain 8 Cheek
+
+[1349] Haunted Library
+Encounter: banshee librarian
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: banshee librarian takes 394 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 15 Fortitude
+You gain 6 Wizardliness
+You gain 3 Chutzpah
+
+[1350] Haunted Library
+Encounter: banshee librarian
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: banshee librarian takes 385 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 8 Beefiness
+You gain 5 Enchantedness
+You gain 8 Roguishness
+
+[1351] Haunted Library
+Encounter: bookbat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: bookbat takes 381 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: tattered scrap of paper
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Strengthliness
+You gain 7 Magicalness
+
+[1352] Haunted Library
+Encounter: banshee librarian
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: banshee librarian takes 373 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 10 Strengthliness
+You gain 7 Wizardliness
+You gain 5 Sarcasm
+
+[1353] Haunted Library
+Encounter: writing desk
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: writing desk takes 364 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 8 Strengthliness
+You gain 9 Wizardliness
+You gain 3 Sarcasm
+
+[1354] Haunted Library
+Encounter: Take a Look, it's in a Book!
+Took choice 81/99: unknown
+choice.php?whichchoice=81&pwd=81b19e4a03159df62d4efbe976fc5441&option=99
+
+[1355] Haunted Bathroom
+Encounter: Having a Medicine Ball
+Took choice 105/3: guy made of bees
+choice.php?pwd&whichchoice=105&option=3
+
+[1356] Haunted Bathroom
+Encounter: malevolent hair clog
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: malevolent hair clog takes 334 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: gob of wet hair
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 18 Strongness
+You gain 11 Wizardliness
+You gain 4 Chutzpah
+
+[1357] Haunted Bathroom
+Encounter: Don't Hold a Grudge
+Took choice 402/1: muscle substats
+choice.php?pwd&whichchoice=402&option=1
+You gain 128 Strengthliness
+
+[1358] Haunted Bathroom
+Encounter: toilet papergeist
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: toilet papergeist takes 349 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 20 Fortitude
+You gain 5 Mysteriousness
+You gain 6 Chutzpah
+
+[1359] Haunted Bedroom
+Encounter: Mob Penguin hitman
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: mob penguin hitman takes 366 damage.
+Round 2: boolicious wins the fight!
+You gain 355 Meat
+You acquire an item: kneecapping stick
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 15 Strengthliness
+You gain a Muscle point!
+You gain 9 Enchantedness
+You gain 3 Cheek
+
+[1360] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/3: quest item
+choice.php?pwd&whichchoice=83&option=3
+
+[1361] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 82/1: old leather wallet
+choice.php?pwd&whichchoice=82&option=1
+You acquire an item: old leather wallet
+
+[1362] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 84/3: Lord Spookyraven's spectacles
+choice.php?pwd&whichchoice=84&option=3
+You acquire an item: Lord Spookyraven's spectacles
+
+equip acc3 Lord Spookyraven's spectacles
+
+[1363] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/3: quest item
+choice.php?pwd&whichchoice=83&option=3
+You acquire an item: tattered wolf standard
+
+[1364] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 82/2: muscle substats
+choice.php?pwd&whichchoice=82&option=2
+You gain 130 Beefiness
+
+[1365] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 85/1: moxie and ballroom key step 1
+choice.php?pwd&whichchoice=85&option=1
+You gain 118 Chutzpah
+You gain a Moxie point!
+
+[1366] Haunted Bedroom
+Encounter: animated nightstand
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: animated nightstand (white) takes 189 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: grouchy restless spirit
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 29 Muscleboundness
+You gain 7 Mysteriousness
+You gain 13 Smarm
+
+[1367] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/3: quest item
+choice.php?pwd&whichchoice=83&option=3
+
+[1368] Haunted Bedroom
+Encounter: animated nightstand
+Round 0: boolicious loses initiative!
+Round 1: animated nightstand (mahogany) takes 3 damage.
+Round 1: animated nightstand (mahogany) takes 8 damage.
+Round 1: animated nightstand (mahogany) takes 3 damage.
+You lose 24 hit points
+Round 1: boolicious attacks!
+Round 2: animated nightstand (mahogany) takes 229 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: half of a memo
+You acquire an item: old leather wallet
+You acquire an item: old coin purse
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 30 Strongness
+You gain 10 Enchantedness
+You gain a Mysticality point!
+You gain 11 Cheek
+
+use 1 half of a memo
+
+[1369] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/2: enter combat
+choice.php?pwd&whichchoice=83&option=2
+Encounter: animated nightstand
+Round 0: boolicious loses initiative!
+Round 1: animated nightstand (mahogany) takes 2 damage.
+Round 1: animated nightstand (mahogany) takes 2 damage.
+Round 1: animated nightstand (mahogany) takes 4 damage.
+You lose 22 hit points
+Round 1: boolicious attacks!
+Round 2: animated nightstand (mahogany) takes 231 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: old leather wallet
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 25 Strengthliness
+You gain 9 Enchantedness
+You gain 15 Smarm
+
+[1370] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 84/2: mysticality substats
+choice.php?pwd&whichchoice=84&option=2
+You gain 119 Wizardliness
+
+[1371] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 85/1: moxie
+choice.php?pwd&whichchoice=85&option=1
+You gain 115 Smarm
+You gain a Moxie point!
+
+[1372] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/2: enter combat
+choice.php?pwd&whichchoice=83&option=2
+Encounter: animated nightstand
+Round 0: boolicious loses initiative!
+Round 1: animated nightstand (mahogany) takes 3 damage.
+Round 1: animated nightstand (mahogany) takes 8 damage.
+Round 1: animated nightstand (mahogany) takes 5 damage.
+You lose 22 hit points
+Round 1: boolicious attacks!
+You lose 2 hit points
+Round 2: animated nightstand (mahogany) takes 1 damage.
+Round 2: animated nightstand (mahogany) takes 2 damage.
+Round 2: animated nightstand (mahogany) takes 5 damage.
+You lose 22 hit points
+Round 2: boolicious attacks!
+Round 3: animated nightstand (mahogany) takes 190 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: old coin purse
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 19 Strengthliness
+You gain a Muscle point!
+You gain 10 Mysteriousness
+You gain 19 Cheek
+
+[1373] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 82/2: muscle substats
+choice.php?pwd&whichchoice=82&option=2
+You gain 130 Strengthliness
+
+[1374] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/2: enter combat
+choice.php?pwd&whichchoice=83&option=2
+Encounter: animated nightstand
+Round 0: boolicious loses initiative!
+Round 1: animated nightstand (mahogany) takes 3 damage.
+Round 1: animated nightstand (mahogany) takes 3 damage.
+Round 1: animated nightstand (mahogany) takes 5 damage.
+You lose 24 hit points
+Round 1: boolicious attacks!
+Round 2: animated nightstand (mahogany) takes 208 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 22 Fortitude
+You gain 13 Wizardliness
+You gain 15 Sarcasm
+
+[1375] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 85/2: ballroom key step 2
+choice.php?pwd&whichchoice=85&option=2
+You acquire an item: Spookyraven ballroom key
+
+[1376] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: floating platter of hors d'oeuvres takes 274 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dehydrated caviar
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 16 Strengthliness
+You gain 10 Magicalness
+You gain 10 Cheek
+
+[1377] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+
+[1377] Haunted Ballroom
+Round 1: boolicious attacks!
+Round 2: zombie waltzers takes 310 damage.
+Round 2: boolicious wins the fight!
+You gain 171 Meat
+You acquire an item: ballroom blintz
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 14 Beefiness
+You gain 15 Wizardliness
+You gain a Mysticality point!
+You gain 7 Roguishness
+
+[1378] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: tapdancing skeleton takes 282 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: worn tophat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 19 Fortitude
+You gain 9 Enchantedness
+You gain 8 Roguishness
+
+[1379] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: floating platter of hors d'oeuvres takes 286 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dehydrated caviar
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 13 Muscleboundness
+You gain 11 Magicalness
+You gain 11 Sarcasm
+
+[1380] Haunted Ballroom
+Encounter: Strung-Up Quartet
+Took choice 106/4: disable song
+choice.php?whichchoice=106&option=4&pwd
+
+[1380] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: tapdancing skeleton takes 285 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 14 Strengthliness
+You gain 10 Mysteriousness
+You gain 13 Sarcasm
+
+[1381] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?whichchoice=90&option=2&pwd
+You gain 123 Cheek
+You gain a Moxie point!
+
+[1382] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?whichchoice=90&option=2&pwd
+You gain 117 Smarm
+
+[1383] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: floating platter of hors d'oeuvres takes 277 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: desiccated apricot
+You acquire an item: flute of flat champagne
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 21 Muscleboundness
+You gain a Muscle point!
+You gain 8 Enchantedness
+You gain 7 Smarm
+Round 0: boolicious attacks!
+
+[1384] Haunted Ballroom
+Encounter: We'll All Be Flat
+
+[1385] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: zombie waltzers takes 279 damage.
+Round 2: boolicious wins the fight!
+You gain 201 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 19 Muscleboundness
+You gain 6 Enchantedness
+You gain 11 Roguishness
+You gain a Moxie point!
+
+[1386] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: boolicious wins initiative!
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: floating platter of hors d'oeuvres takes 271 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: dehydrated caviar
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 16 Fortitude
+You gain 17 Mysteriousness
+You gain 3 Smarm
+
+[1387] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: floating platter of hors d'oeuvres takes 312 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dehydrated caviar
+You acquire an item: flute of flat champagne
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 19 Beefiness
+You gain 9 Mysteriousness
+You gain 8 Chutzpah
+
+[1388] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?whichchoice=90&option=2&pwd
+You gain 122 Cheek
+
+[1389] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: tapdancing skeleton takes 273 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: tap shoes
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 24 Strengthliness
+You gain 6 Wizardliness
+You gain 8 Chutzpah
+
+[1390] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: tapdancing skeleton takes 288 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: tap shoes
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 22 Strongness
+You gain 7 Mysteriousness
+You gain 7 Sarcasm
+
+[1391] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: tapdancing skeleton takes 282 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 27 Beefiness
+You gain 3 Wizardliness
+You gain 9 Smarm
+
+[1392] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?whichchoice=90&option=2&pwd
+You gain 120 Smarm
+You gain a Moxie point!
+
+[1393] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?whichchoice=90&option=2&pwd
+You gain 120 Smarm
+You gain a Moxie point!
+
+[1394] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: floating platter of hors d'oeuvres takes 291 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dehydrated caviar
+You acquire an item: desiccated apricot
+You acquire an item: flute of flat champagne
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 22 Strengthliness
+You gain 4 Magicalness
+You gain 10 Sarcasm
+
+[1395] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: boolicious loses initiative!
+Round 1: zombie waltzers takes 3 damage.
+Round 1: zombie waltzers takes 1 damage.
+Round 1: zombie waltzers takes 3 damage.
+You lose 2 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: zombie waltzers takes 309 damage.
+Round 2: boolicious wins the fight!
+You gain 195 Meat
+You acquire an item: dance card
+You acquire an item: ballroom blintz
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 19 Strengthliness
+You gain 8 Mysteriousness
+You gain 9 Cheek
+
+[1396] Haunted Wine Cellar (Northwest)
+Encounter: skeletal sommelier
+Round 0: boolicious loses initiative!
+Round 1: skeletal sommelier takes 1 damage.
+Round 1: skeletal sommelier takes 1 damage.
+Round 1: skeletal sommelier takes 4 damage.
+You lose 22 hit points
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 246 damage.
+Round 2: boolicious wins the fight!
+You gain 172 Meat
+You acquire an item: dusty bottle of bad Port
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 32 Muscleboundness
+You gain 11 Mysteriousness
+You gain 9 Cheek
+
+take from closet: 28 dusty bottle of vinegar Marsala
+You acquire dusty bottle of vinegar Marsala (28)
+
+take from closet: 33 dusty bottle of glassy Merlot
+You acquire dusty bottle of glassy Merlot (33)
+
+take from closet: 38 dusty bottle of spooky Muscat
+You acquire dusty bottle of spooky Muscat (38)
+
+take from closet: 45 dusty bottle of great Pinot Noir
+You acquire dusty bottle of great Pinot Noir (45)
+
+take from closet: 29 dusty bottle of bad Port
+You acquire dusty bottle of bad Port (29)
+
+take from closet: 20 dusty bottle of average Zinfandel
+You acquire dusty bottle of average Zinfandel (20)
+
+take from closet: 1 dew yoana lei
+You acquire an item: dew yoana lei
+
+take from closet: 1 Beignet Milgranet
+You acquire an item: Beignet Milgranet
+
+take from closet: 55 Go-Wassail
+You acquire Go-Wassail (55)
+
+take from closet: 1 flute of flat champagne
+You acquire an item: flute of flat champagne
+
+take from closet: 1 margarita
+You acquire an item: margarita
+
+take from closet: 21 Imp Ale
+You acquire Imp Ale (21)
+
+take from closet: 1 Lumineux Limnio
+You acquire an item: Lumineux Limnio
+
+take from closet: 58 Mad Train wine
+You acquire Mad Train wine (58)
+
+take from closet: 1 shot of rotgut
+You acquire an item: shot of rotgut
+
+take from closet: 1 shot of tomato schnapps
+You acquire an item: shot of tomato schnapps
+
+take from closet: 1 shot of tomato schnapps
+You acquire an item: shot of tomato schnapps
+
+take from closet: 1 slimy fermented bile bladder
+You acquire an item: slimy fermented bile bladder
+
+take from closet: 1 slimy fermented bile bladder
+You acquire an item: slimy fermented bile bladder
+
+take from closet: 1 slimy fermented bile bladder
+You acquire an item: slimy fermented bile bladder
+
+take from closet: 1 slug of rum
+You acquire an item: slug of rum
+
+take from closet: 3 slug of shochu
+You acquire slug of shochu (3)
+
+take from closet: 4 slug of vodka
+You acquire slug of vodka (4)
+
+take from closet: 18 strawberry daiquiri
+You acquire strawberry daiquiri (18)
+
+take from closet: 1 Temps Tempranillo
+You acquire an item: Temps Tempranillo
+
+take from closet: 8 tequila with training wheels
+You acquire tequila with training wheels (8)
+
+take from closet: 1 vodka martini
+You acquire an item: vodka martini
+
+take from closet: 1 whiskey sour
+You acquire an item: whiskey sour
+
+take from closet: 4 shot of orange schnapps
+You acquire shot of orange schnapps (4)
+
+take from closet: 1 salty dog
+You acquire an item: salty dog
+
+take from closet: 2 rum and cola
+You acquire rum and cola (2)
+
+take from closet: 1 monkey wrench
+You acquire an item: monkey wrench
+
+take from closet: 3 anti-anti-antidote
+You acquire anti-anti-antidote (3)
+
+take from closet: 3 ancient protein powder
+You acquire ancient protein powder (3)
+
+take from closet: 2 bit-o-cactus
+You acquire bit-o-cactus (2)
+
+take from closet: 2 blue polka-dot oyster egg
+You acquire blue polka-dot oyster egg (2)
+
+take from closet: 2 concentrated magicalness pill
+You acquire concentrated magicalness pill (2)
+
+take from closet: 20 cup of hickory chicory
+You acquire cup of hickory chicory (20)
+
+take from closet: 6 Doc Galaktik's Restorative Balm
+You acquire Doc Galaktik's Restorative Balm (6)
+
+take from closet: 3 Dyspepsi-Cola
+You acquire Dyspepsi-Cola (3)
+
+take from closet: 1 ectoplasmic paste
+You acquire an item: ectoplasmic paste
+
+take from closet: 5 elven magi-pack
+You acquire elven magi-pack (5)
+
+take from closet: 15 elven medi-pack
+You acquire elven medi-pack (15)
+
+take from closet: 3 enchanted barbell
+You acquire enchanted barbell (3)
+
+take from closet: 2 enchanted leopard-print barbell
+You acquire enchanted leopard-print barbell (2)
+
+take from closet: 2 fishy paste
+You acquire fishy paste (2)
+
+take from closet: 2 handful of moss
+You acquire handful of moss (2)
+
+take from closet: 1 heart of dark chocolate
+You acquire an item: heart of dark chocolate
+
+take from closet: 3 high-pressure seltzer bottle
+You acquire high-pressure seltzer bottle (3)
+
+take from closet: 4 honey-dipped locust
+You acquire honey-dipped locust (4)
+
+take from closet: 2 jug-o-magicalness
+You acquire jug-o-magicalness (2)
+
+take from closet: 2 lavender paisley oyster egg
+You acquire lavender paisley oyster egg (2)
+
+take from closet: 7 magicalness-in-a-can
+You acquire magicalness-in-a-can (7)
+
+take from closet: 12 magnolia blossom
+You acquire magnolia blossom (12)
+
+take from closet: 2 Medicinal Herb's medicinal herbs
+You acquire Medicinal Herb's medicinal herbs (2)
+
+take from closet: 21 moxie weed
+You acquire moxie weed (21)
+
+take from closet: 4 Pok&euml;mann band-aid
+You acquire Pok&euml;mann band-aid (4)
+
+take from closet: 1 red polka-dot oyster egg
+You acquire an item: red polka-dot oyster egg
+
+take from closet: 1 red striped oyster egg
+You acquire an item: red striped oyster egg
+
+take from closet: 15 scroll of drastic healing
+You acquire scroll of drastic healing (15)
+
+take from closet: 2 slimy paste
+You acquire slimy paste (2)
+
+take from closet: 6 strongness elixir
+You acquire strongness elixir (6)
+
+take from closet: 95 twinkly wad
+You acquire twinkly wad (95)
+
+take from closet: 21 whimpering willow bark
+You acquire whimpering willow bark (21)
+
+take from closet: 9 tiny house
+You acquire tiny house (9)
+
+take from closet: 1 lavender striped oyster egg
+You acquire an item: lavender striped oyster egg
+
+take from closet: 43 royal jelly
+You acquire royal jelly (43)
+pour dusty bottle of Zinfandel into goblet
+pour dusty bottle of Muscat into goblet
+pour dusty bottle of Port into goblet
+
+[1397] Summoning Chamber
+Encounter: Lord Spookyraven
+Round 0: boolicious loses initiative!
+Round 1: lord spookyraven takes 3 damage.
+Round 1: lord spookyraven takes 1 damage.
+Round 1: lord spookyraven takes 4 damage.
+You lose 16 hit points
+Round 1: boolicious attacks!
+Round 2: lord spookyraven takes 208 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: Eye of Ed
+You acquire an item: Lord Spookyraven's ear trumpet
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 70 Beefiness
+You gain a Muscle point!
+You gain 33 Mysteriousness
+You gain 32 Roguishness
+
+Combine 1 Eye of Ed + 1 Staff of Fats
+
+Combine 1 ancient amulet + 1 Staff of Fats
+You acquire an item: Staff of Ed, almost
+Crafting used 1 each of ancient amulet and Staff of Fats
+
+Combine 1 Eye of Ed + 1 Staff of Ed, almost
+You acquire an item: Staff of Ed
+Crafting used 1 each of Eye of Ed and Staff of Ed, almost
+
+[1398] Desert (Unhydrated)
+Encounter: Sandstorm, Take Me Away from the Norm
+You acquire an effect: Turned Into a Skeleton (duration: 5 Adventures)
+
+[1399] Desert (Unhydrated)
+Encounter: A Wrong Turn at Albuquerque
+You acquire an effect: Prestidigysfunction (duration: 5 Adventures)
+
+[1400] Desert (Unhydrated)
+Encounter: Still Suits Run Deep
+You lose 43 hit points
+You acquire an effect: Majorly Poisoned (duration: 5 Adventures)
+
+[1401] Desert (Unhydrated)
+Encounter: Let's Make a Deal!
+Took choice 132/2: Unlock Oasis
+choice.php?pwd&whichchoice=132&option=2
+
+[1402] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[1403] Oasis in the Desert
+Encounter: oasis monster
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: boolicious attacks!
+Round 4: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 4: boolicious casts WAVE OF SAUCE!
+Round 5: oasis monster takes 24 damage.
+You gain 20 hit points
+You gain 5 Muscularity Points
+Round 5: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 5: boolicious uses the roofie!
+Round 6: oasis monster drops 4 attack power.
+Round 6: oasis monster drops 5 defense.
+Round 6: boolicious casts WAVE OF SAUCE!
+Round 7: oasis monster takes 23 damage.
+You gain 18 hit points
+You gain 4 Muscularity Points
+Round 7: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 7: boolicious casts WAVE OF SAUCE!
+Round 8: oasis monster takes 23 damage.
+You gain 20 hit points
+You gain 4 Muscularity Points
+Round 8: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 8: boolicious casts WAVE OF SAUCE!
+Round 9: oasis monster takes 23 damage.
+You gain 18 hit points
+You gain 5 Muscularity Points
+Round 9: oasis monster takes 1 damage.
+Round 9: oasis monster takes 3 damage.
+Round 9: oasis monster takes 5 damage.
+You lose 47 hit points
+Round 9: boolicious casts WAVE OF SAUCE!
+Round 10: oasis monster takes 22 damage.
+You gain 17 hit points
+You gain 5 Muscularity Points
+Round 10: oasis monster takes 3 damage.
+Round 10: oasis monster takes 10 damage.
+Round 10: oasis monster takes 3 damage.
+You lose 47 hit points
+Round 10: boolicious wins the fight!
+You gain 169 Meat
+You acquire an item: Supernova Champagne
+You acquire an item: wonderwall shield
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 19 Muscleboundness
+You gain 13 Mysteriousness
+You gain 11 Cheek
+
+[1404] Oasis in the Desert
+Encounter: hunting seal
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: hunting seal takes 147 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 18 Strongness
+You gain 10 Mysteriousness
+You gain 5 Chutzpah
+
+[1405] Desert (Ultrahydrated)
+Encounter: rock scorpion
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: rock scorpion takes 76 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: rock scorpion takes 76 damage.
+Round 3: boolicious wins the fight!
+You gain 395 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 19 Strengthliness
+You gain 10 Wizardliness
+You gain a Mysticality point!
+You gain 14 Cheek
+
+cast 2 Tongue of the Walrus
+
+cast 1 Tongue of the Walrus
+You gain 40 hit points
+
+use 1 cast
+You gain 19 hit points
+
+use 1 high-pressure seltzer bottle
+You gain 183 Muscularity Points
+
+use 1 honey-dipped locust
+You gain 37 hit points
+You gain 37 Muscularity Points
+
+cast 5 Tongue of the Walrus
+You gain 175 hit points
+
+use 2 Marquis de Poivre soda
+You gain 64 Muscularity Points
+
+[1406] Desert (Ultrahydrated)
+Encounter: A Sietch in Time
+
+[1407] Oasis in the Desert
+Encounter: All Across the Sands
+You acquire an item: stone rose
+
+[1408] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[1409] Desert (Ultrahydrated)
+Encounter: swarm of fire ants
+Round 0: boolicious loses initiative!
+Round 1: swarm of fire ants takes 3 damage.
+Round 1: swarm of fire ants takes 9 damage.
+Round 1: swarm of fire ants takes 4 damage.
+You lose 12 hit points
+Round 1: boolicious attacks!
+Round 2: swarm of fire ants takes 243 damage.
+Round 2: boolicious wins the fight!
+You gain 81 Meat
+You acquire an item: ant agonist
+You acquire an item: handful of sand
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 29 Fortitude
+You gain 7 Magicalness
+You gain 10 Sarcasm
+
+[1410] Desert (Ultrahydrated)
+Encounter: cactuary
+Round 0: boolicious loses initiative!
+Round 1: cactuary takes 1 damage.
+Round 1: cactuary takes 2 damage.
+Round 1: cactuary takes 3 damage.
+You lose 9 hit points
+Round 1: boolicious attacks!
+Round 2: cactuary takes 250 damage.
+You lose 2 hit points
+Round 2: boolicious wins the fight!
+You gain 180 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 25 Beefiness
+You gain 12 Wizardliness
+You gain 6 Roguishness
+
+[1411] Desert (Ultrahydrated)
+Encounter: No Colors Anymore
+
+buy 1 can of black paint for 1000 each from Black Market
+You acquire an item: can of black paint
+You spent 1,000 Meat
+
+[1412] Desert (Ultrahydrated)
+Encounter: cactuary
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: cactuary takes 247 damage.
+You lose 7 hit points
+Round 2: boolicious wins the fight!
+You gain 191 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 28 Strengthliness
+You gain 11 Mysteriousness
+You gain 5 Smarm
+
+[1413] Desert (Ultrahydrated)
+Encounter: Still No Colors Anymore
+
+[1414] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[1415] Oasis in the Desert
+Encounter: rolling stone
+Round 0: boolicious loses initiative!
+Round 1: rolling stone takes 2 damage.
+Round 1: rolling stone takes 4 damage.
+Round 1: rolling stone takes 5 damage.
+You lose 10 hit points
+Round 1: boolicious attacks!
+Round 2: rolling stone takes 246 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 20 Muscleboundness
+You gain 11 Mysteriousness
+You gain 12 Chutzpah
+
+[1416] Oasis in the Desert
+Encounter: rolling stone
+Round 0: boolicious loses initiative!
+Round 1: rolling stone takes 3 damage.
+Round 1: rolling stone takes 5 damage.
+Round 1: rolling stone takes 3 damage.
+You lose 11 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: rolling stone takes 238 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: Tuesday's ruby
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 25 Strongness
+You gain 6 Magicalness
+You gain 13 Roguishness
+You gain a Moxie point!
+
+[1417] Oasis in the Desert
+Encounter: swarm of scarab beatles
+Round 0: boolicious loses initiative!
+Round 1: swarm of scarab beatles takes 1 damage.
+Round 1: swarm of scarab beatles takes 1 damage.
+Round 1: swarm of scarab beatles takes 3 damage.
+You lose 9 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: swarm of scarab beatles takes 268 damage.
+Round 2: boolicious wins the fight!
+You gain 305 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 18 Strengthliness
+You gain 13 Enchantedness
+You gain 10 Chutzpah
+
+[1418] Oasis in the Desert
+Encounter: blur
+Round 0: boolicious loses initiative!
+Round 1: blur takes 2 damage.
+Round 1: blur takes 9 damage.
+Round 1: blur takes 5 damage.
+You lose 9 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: blur takes 240 damage.
+Round 2: boolicious wins the fight!
+You gain 235 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 26 Strongness
+You gain a Muscle point!
+You gain 10 Enchantedness
+You gain 6 Roguishness
+
+[1419] Desert (Ultrahydrated)
+Encounter: rock scorpion
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: rock scorpion takes 243 damage.
+Round 2: boolicious wins the fight!
+You gain 385 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 19 Strengthliness
+You gain 11 Magicalness
+You gain 13 Cheek
+
+Use 1 disassembled clover
+You acquire an item: ten-leaf clover
+
+[1420] Oasis in the Desert
+Encounter: Some Things Never Change
+You acquire an effect: Ultrahydrated (duration: 20 Adventures)
+
+[1421] Desert (Ultrahydrated)
+Encounter: Walk Without Rhythm
+
+[1422] Oasis in the Desert
+Encounter: Blowin' in the Wind
+You acquire an item: worm-riding manual page 1
+
+[1423] Oasis in the Desert
+Encounter: blur
+Round 0: boolicious loses initiative!
+Round 1: blur takes 2 damage.
+Round 1: blur takes 10 damage.
+Round 1: blur takes 5 damage.
+You lose 10 hit points
+Round 1: boolicious executes a macro!
+
+[1423] Oasis in the Desert
+Round 1: boolicious attacks!
+Round 2: blur takes 252 damage.
+Round 2: boolicious wins the fight!
+You gain 237 Meat
+You acquire an item: drum machine
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 25 Beefiness
+You gain 12 Magicalness
+You gain 8 Chutzpah
+
+[1424] Oasis in the Desert
+Encounter: oasis monster
+Round 0: boolicious loses initiative!
+Round 1: oasis monster takes 2 damage.
+Round 1: oasis monster takes 2 damage.
+Round 1: oasis monster takes 3 damage.
+You lose 9 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: oasis monster takes 247 damage.
+Round 2: boolicious wins the fight!
+You gain 197 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 22 Strengthliness
+You gain 10 Wizardliness
+You gain 10 Sarcasm
+
+[1425] Oasis in the Desert
+Encounter: Blowin' in the Wind
+You acquire an item: worm-riding manual page 2
+
+[1426] Oasis in the Desert
+Encounter: Blowin' in the Wind
+You acquire an item: worm-riding manual pages 3-15
+
+[1427] Oasis in the Desert
+Encounter: rolling stone
+Round 0: boolicious loses initiative!
+Round 1: rolling stone takes 2 damage.
+Round 1: rolling stone takes 2 damage.
+Round 1: rolling stone takes 3 damage.
+You lose 11 hit points
+Round 1: boolicious attacks!
+Round 2: rolling stone takes 244 damage.
+Round 2: Heckel &amp; Jeckyl's bells jingle merrily.
+Round 2: boolicious wins the fight!
+You acquire an item: handful of moss
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 30 Fortitude
+You gain 5 Wizardliness
+You gain 9 Sarcasm
+
+multiuse.php?passitem=2675&pwd=81b19e4a03159df62d4efbe976fc5441
+
+use 1 handful of moss
+You gain 12 Cheek
+
+use 1 handful of moss
+You gain 14 Cheek
+
+use 1 handful of moss
+You gain 12 Chutzpah
+
+multiuse.php?action=useitem&pwd&from=inv&quantity=1&whichitem=0
+
+[1428] Desert (Ultrahydrated)
+Encounter: plaque of locusts
+Round 0: boolicious loses initiative!
+Round 1: plaque of locusts takes 3 damage.
+Round 1: plaque of locusts takes 6 damage.
+Round 1: plaque of locusts takes 3 damage.
+You lose 8 hit points
+Round 1: boolicious attacks!
+Round 2: plaque of locusts takes 240 damage.
+Round 2: boolicious wins the fight!
+You gain 47 Meat
+You acquire an item: honey-dipped locust
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 19 Fortitude
+You gain 8 Magicalness
+You gain 15 Chutzpah
+
+[1429] Desert (Ultrahydrated)
+Encounter: rock scorpion
+Round 0: boolicious loses initiative!
+Round 1: rock scorpion takes 2 damage.
+Round 1: rock scorpion takes 3 damage.
+Round 1: rock scorpion takes 3 damage.
+You lose 12 hit points
+Round 1: boolicious attacks!
+Round 2: rock scorpion takes 246 damage.
+Round 2: boolicious wins the fight!
+You gain 359 Meat
+You acquire an item: handful of sand
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 29 Fortitude
+You gain 9 Wizardliness
+You gain 7 Sarcasm
+
+[1430] Desert (Ultrahydrated)
+Encounter: swarm of fire ants
+Round 0: boolicious loses initiative!
+Round 1: swarm of fire ants takes 3 damage.
+Round 1: swarm of fire ants takes 10 damage.
+Round 1: swarm of fire ants takes 4 damage.
+You lose 11 hit points
+Round 1: boolicious attacks!
+Round 2: swarm of fire ants takes 261 damage.
+Round 2: boolicious wins the fight!
+You gain 106 Meat
+You acquire an item: ant agonist
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 27 Strongness
+You gain 13 Magicalness
+You gain 5 Cheek
+
+[1431] Desert (Ultrahydrated)
+Encounter: giant giant giant centipede
+Round 0: boolicious loses initiative!
+Round 1: giant giant giant centipede takes 3 damage.
+Round 1: giant giant giant centipede takes 7 damage.
+Round 1: giant giant giant centipede takes 3 damage.
+You lose 12 hit points
+Round 1: boolicious attacks!
+Round 2: giant giant giant centipede takes 250 damage.
+Round 2: boolicious wins the fight!
+You gain 296 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 25 Strengthliness
+You gain 13 Wizardliness
+You gain 8 Smarm
+
+[1432] Desert (Ultrahydrated)
+Encounter: swarm of fire ants
+Round 0: boolicious loses initiative!
+Round 1: swarm of fire ants takes 2 damage.
+Round 1: swarm of fire ants takes 7 damage.
+Round 1: swarm of fire ants takes 5 damage.
+You lose 12 hit points
+Round 1: boolicious attacks!
+Round 2: swarm of fire ants takes 244 damage.
+Round 2: boolicious wins the fight!
+You gain 96 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 27 Strongness
+You gain 9 Mysteriousness
+You gain 9 Smarm
+
+[1433] Desert (Ultrahydrated)
+Encounter: rock scorpion
+Round 0: boolicious loses initiative!
+Round 1: rock scorpion takes 2 damage.
+Round 1: rock scorpion takes 9 damage.
+Round 1: rock scorpion takes 5 damage.
+You lose 13 hit points
+Round 1: boolicious attacks!
+Round 2: rock scorpion takes 250 damage.
+Round 2: boolicious wins the fight!
+You gain 404 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 22 Strongness
+You gain a Muscle point!
+You gain 8 Enchantedness
+You gain a Mysticality point!
+You gain 14 Roguishness
+
+[1434] Desert (Ultrahydrated)
+Encounter: The Sleeper Has Awakened
+You acquire an item: worm-riding hooks
+
+use 1 drum machine
+
+beach.php?action=woodencity&pwd=81b19e4a03159df62d4efbe976fc5441
+
+[1435] The Upper Chamber
+Encounter: Whee!
+You acquire an item: carved wooden wheel
+
+[1436] The Upper Chamber
+Encounter: tomb asp
+Round 0: boolicious loses initiative!
+Round 1: tomb asp takes 1 damage.
+Round 1: tomb asp takes 7 damage.
+Round 1: tomb asp takes 4 damage.
+You lose 26 hit points
+You acquire an effect: Really Quite Poisoned (duration: 10 Adventures)
+
+cast 1 Tongue of the Otter
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: tomb asp takes 34 damage.
+You gain 19 hit points
+You gain 4 Muscularity Points
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: tomb asp takes 99 damage.
+Round 3: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 3: boolicious attacks!
+Round 4: tomb asp takes 78 damage.
+Round 4: boolicious wins the fight!
+You gain 195 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 21 Strengthliness
+You gain 19 Enchantedness
+You gain 11 Chutzpah
+
+cast 1 Tongue of the Otter
+You gain 10 hit points
+
+use 1 anti-anti-antidote
+
+[1437] The Upper Chamber
+Encounter: tomb asp
+Round 0: boolicious loses initiative!
+Round 1: tomb asp takes 3 damage.
+Round 1: tomb asp takes 10 damage.
+Round 1: tomb asp takes 4 damage.
+You lose 22 hit points
+You acquire an effect: Really Quite Poisoned (duration: 10 Adventures)
+Round 1: boolicious attacks!
+Round 2: tomb asp takes 69 damage.
+Round 2: tomb asp takes 3 damage.
+Round 2: tomb asp takes 4 damage.
+Round 2: tomb asp takes 5 damage.
+You lose 48 hit points
+Round 2: boolicious attacks!
+Round 3: tomb asp takes 100 damage.
+Round 3: boolicious wins the fight!
+You gain 178 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 28 Muscleboundness
+You gain 11 Mysteriousness
+You gain 13 Chutzpah
+
+use 1 anti-anti-antidote
+
+[1438] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: boolicious loses initiative!
+Round 1: iiti kitty takes 3 damage.
+Round 1: iiti kitty takes 2 damage.
+Round 1: iiti kitty takes 5 damage.
+You lose 14 hit points
+Round 1: boolicious attacks!
+Round 2: iiti kitty takes 213 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 28 Strengthliness
+You gain 12 Wizardliness
+You gain 9 Cheek
+You gain a Moxie point!
+
+[1439] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: boolicious loses initiative!
+Round 1: iiti kitty takes 3 damage.
+Round 1: iiti kitty takes 3 damage.
+Round 1: iiti kitty takes 5 damage.
+You lose 19 hit points
+Round 1: boolicious attacks!
+Round 2: iiti kitty takes 235 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: unidentified jerky
+You acquire an item: ancient Magi-Wipes
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 27 Strengthliness
+You gain 10 Enchantedness
+You gain 13 Sarcasm
+
+[1440] The Middle Chamber
+Encounter: tomb servant
+Round 0: boolicious loses initiative!
+Round 1: tomb servant takes 1 damage.
+Round 1: tomb servant takes 1 damage.
+Round 1: tomb servant takes 3 damage.
+You lose 19 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: tomb servant takes 211 damage.
+Round 2: boolicious wins the fight!
+You gain 91 Meat
+You acquire an item: ancient protein powder
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 25 Strengthliness
+You gain 14 Enchantedness
+You gain 10 Cheek
+
+[1441] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 134/1: Turn the wheel
+choice.php?pwd&whichchoice=134&option=1&choiceform1=Turn+the+wheel
+
+use 1 milk of magnesium
+You acquire an effect: Got Milk (duration: 10 Adventures)
+
+use 1 milk of magnesium
+You acquire an effect: Got Milk (duration: 10 Adventures)
+
+take from closet: 2 red gummi ingot
+You acquire red gummi ingot (2)
+
+[1443] Smith 1 red gummi ingot + 1 red gummi ingot
+You acquire an item: giant red gummi ingot
+Crafting used 1 each of red gummi ingot and red gummi ingot
+
+Use 1 giant red gummi ingot
+You acquire an item: giant red gummi bear
+
+[1444] Mix 1 bottle of vodka + 1 giant red gummi bear
+You acquire an item: red drunki-bear
+Crafting used 1 each of bottle of vodka and giant red gummi bear
+
+eat 1 red drunki-bear
+You gain 30 Adventures
+You gain 215 Muscleboundness
+You gain a Muscle point!
+You gain a Level!
+You acquire an effect: Gummiheart (duration: 80 Adventures)
+You gain 4 Drunkenness
+You gain 4 Fullness
+You lose some of an effect: Got Milk
+
+take from closet: 2 star key lime
+You acquire star key lime (2)
+
+take from closet: 1 bugbear beanie
+You acquire an item: bugbear beanie
+
+take from closet: 1 bugbear bungguard
+You acquire an item: bugbear bungguard
+outfit Bugbear Costume
+
+buy 2 Gnollish pie tin for 30 each from Bugbear Bakery
+You acquire Gnollish pie tin (2)
+You spent 60 Meat
+
+[1444] Cook 2 Gnollish pie tin + 2 wad of dough
+You acquire pie crust (2)
+Crafting used 2 each of Gnollish pie tin and wad of dough
+
+buy 1 Dramatic™ range for 1000 each from Market Demon
+You acquire an item: Dramatic&trade; range
+You spent 1,000 Meat
+
+use 1 Dramatic&trade; range
+
+[1444] Cook 2 star key lime + 2 pie crust
+You acquire star key lime pie (2)
+Crafting used 2 each of pie crust and star key lime
+
+eat 2 star key lime pie
+You gain 19 Adventures
+You gain 27 Fortitude
+You gain 24 Mysteriousness
+You gain 20 Cheek
+You acquire star (3)
+You acquire line (2)
+You gain 4 Fullness
+You lose some of an effect: Got Milk
+You gain 18 Adventures
+You gain 27 Muscleboundness
+You gain 25 Wizardliness
+You gain 20 Smarm
+You acquire star (3)
+You acquire line (2)
+You gain 4 Fullness
+You lose some of an effect: Got Milk
+
+eat 1 can-shaped gelatinous cranberry sauce
+You gain 14 Adventures
+You gain 74 Cheek
+You gain 3 Fullness
+You lose some of an effect: Got Milk
+custom outfit Backup
+
+drink 2 Crimbojito
+You gain 10 Adventures
+You gain 17 Fortitude
+You gain 29 Wizardliness
+You gain 20 Chutzpah
+You gain 2 Drunkenness
+You gain 10 Adventures
+You gain 13 Muscleboundness
+You gain 27 Magicalness
+You gain 12 Cheek
+You gain 2 Drunkenness
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[1446] Mix 2 bottle of rum + 2 peppermint twist
+You acquire Crimbojito (2)
+Crafting used 2 each of bottle of rum and peppermint twist
+
+drink 2 Crimbojito
+You gain 12 Adventures
+You gain 16 Fortitude
+You gain 47 Magicalness
+You gain a Mysticality point!
+You gain 20 Sarcasm
+You gain a Moxie point!
+You gain 2 Drunkenness
+You gain 10 Adventures
+You gain 20 Beefiness
+You gain 25 Enchantedness
+You gain 16 Roguishness
+You gain 2 Drunkenness
+
+buy 1 especially salty dog for 3450 each from 294980 on 20120409
+You acquire an item: especially salty dog
+
+drink 1 especially salty dog
+You gain 12 Adventures
+You gain 36 Strongness
+You gain a Muscle point!
+You gain 37 Mysteriousness
+You gain 50 Cheek
+You gain 4 Drunkenness
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[1448] Mix 2 bottle of whiskey + 2 peppermint twist
+You acquire Mint Yulep (2)
+Crafting used 2 each of bottle of whiskey and peppermint twist
+
+drink 1 Supernova Champagne
+You gain 10 Adventures
+You gain 9 Strengthliness
+You gain 9 Wizardliness
+You gain 11 Chutzpah
+You gain 20 Muscularity Points
+You gain 3 Drunkenness
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[1450] Mix 1 bottle of vodka + 1 peppermint twist
+You acquire an item: Vodka Matryoshka
+Crafting used 1 each of bottle of vodka and peppermint twist
+
+[1450] The Middle Chamber
+Encounter: Argarggagarg the Dire Hellseal
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: argarggagarg the dire hellseal takes 441 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: secret tropical island volcano lair map
+You acquire an item: Argarggagarg's fang
+You acquire an item: adorable seal larva
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 22 Strongness
+You gain 11 Enchantedness
+You gain 4 Cheek
+
+[1451] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1452] The Lower Chambers (Rubble/Bomb)
+
+[1453] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1454] The Lower Chambers (Token/Empty)
+You acquire an item: ancient bronze token
+
+[1455] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1456] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1457] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1458] The Middle Chamber
+Encounter: tomb bat
+Round 0: boolicious loses initiative!
+Round 1: tomb bat takes 1 damage.
+Round 1: tomb bat takes 9 damage.
+Round 1: tomb bat takes 5 damage.
+You lose 25 hit points
+Round 1: boolicious attacks!
+Round 2: tomb bat takes 346 damage.
+Round 2: boolicious wins the fight!
+You gain 89 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 26 Strengthliness
+You gain 9 Enchantedness
+You gain 19 Roguishness
+
+[1459] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: boolicious loses initiative!
+Round 1: iiti kitty takes 1 damage.
+Round 1: iiti kitty takes 8 damage.
+Round 1: iiti kitty takes 5 damage.
+You lose 13 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: iiti kitty takes 375 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: leathery cat skin
+You acquire an item: ancient Magi-Wipes
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 31 Beefiness
+You gain 12 Enchantedness
+You gain 7 Smarm
+
+[1460] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: boolicious loses initiative!
+Round 1: iiti kitty takes 3 damage.
+Round 1: iiti kitty takes 6 damage.
+Round 1: iiti kitty takes 4 damage.
+You lose 21 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: iiti kitty takes 390 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: ancient Magi-Wipes
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 22 Strongness
+You gain 17 Wizardliness
+You gain 11 Cheek
+
+[1461] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: boolicious loses initiative!
+Round 1: iiti kitty takes 1 damage.
+Round 1: iiti kitty takes 6 damage.
+Round 1: iiti kitty takes 4 damage.
+You lose 14 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: iiti kitty takes 370 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: ancient Magi-Wipes
+You acquire an item: ancient vinyl coin purse
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 24 Fortitude
+You gain 15 Magicalness
+You gain 11 Sarcasm
+
+[1462] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1463] The Lower Chambers (Rubble/Bomb)
+You acquire an item: ancient bomb
+
+[1464] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1465] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1466] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1467] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1468] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1469] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1470] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1471] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1472] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1473] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1474] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1475] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1476] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1477] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1478] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1479] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1480] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1481] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1482] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1483] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1484] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1485] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1486] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1487] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1488] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1489] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1490] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1491] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1492] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1493] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1494] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1495] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1496] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1497] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1498] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1499] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1500] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1501] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1502] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1503] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1504] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1505] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1506] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1507] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1508] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1509] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1510] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1511] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1512] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1513] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1514] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1515] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1516] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1517] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1518] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1519] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1520] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1521] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1522] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1523] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1524] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1525] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: boolicious loses initiative!
+Round 1: iiti kitty takes 3 damage.
+Round 1: iiti kitty takes 5 damage.
+Round 1: iiti kitty takes 3 damage.
+You lose 21 hit points
+Round 1: boolicious attacks!
+Round 2: iiti kitty takes 217 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: leathery cat skin
+You acquire an item: mummy wrapping
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 32 Beefiness
+You gain 9 Wizardliness
+You gain a Mysticality point!
+You gain 10 Roguishness
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[1526] The Middle Chamber
+
+[1527] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[1528] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[1529] The Lower Chambers (Empty/Empty/Ed's Chamber)
+
+[1530] The Lower Chambers (Empty/Empty/Ed's Chamber)
+
+[1531] The Lower Chambers (Empty/Empty/Ed's Chamber)
+
+[1532] The Middle Chamber
+Encounter: tomb bat
+Round 0: boolicious loses initiative!
+Round 1: tomb bat takes 1 damage.
+Round 1: tomb bat takes 6 damage.
+Round 1: tomb bat takes 4 damage.
+You lose 24 hit points
+Round 1: boolicious attacks!
+Round 2: tomb bat takes 201 damage.
+Round 2: boolicious wins the fight!
+You gain 91 Meat
+You acquire an item: mummy wrapping
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 28 Strongness
+You gain 15 Magicalness
+You gain 11 Smarm
+
+[1533] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: boolicious loses initiative!
+Round 1: iiti kitty takes 1 damage.
+Round 1: iiti kitty takes 7 damage.
+Round 1: iiti kitty takes 3 damage.
+You lose 20 hit points
+Round 1: boolicious attacks!
+Round 2: iiti kitty takes 220 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 29 Strengthliness
+You gain 12 Mysteriousness
+You gain 10 Sarcasm
+
+[1534] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1535] The Middle Chamber
+Encounter: tomb servant
+Round 0: boolicious loses initiative!
+Round 1: tomb servant takes 2 damage.
+Round 1: tomb servant takes 1 damage.
+Round 1: tomb servant takes 3 damage.
+You lose 20 hit points
+Round 1: boolicious attacks!
+Round 2: tomb servant takes 222 damage.
+Round 2: boolicious wins the fight!
+You gain 106 Meat
+You acquire an item: canopic jar
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 32 Muscleboundness
+You gain a Muscle point!
+You gain 6 Magicalness
+You gain 12 Cheek
+
+[1536] The Middle Chamber
+Encounter: tomb servant
+Round 0: boolicious loses initiative!
+Round 1: tomb servant takes 2 damage.
+Round 1: tomb servant takes 1 damage.
+Round 1: tomb servant takes 4 damage.
+You lose 19 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: tomb servant takes 207 damage.
+Round 2: boolicious wins the fight!
+You gain 98 Meat
+You acquire an item: canopic jar
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 31 Muscleboundness
+You gain 8 Enchantedness
+You gain 11 Cheek
+You gain a Moxie point!
+
+[1537] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: boolicious loses initiative!
+Round 1: iiti kitty takes 3 damage.
+Round 1: iiti kitty takes 4 damage.
+Round 1: iiti kitty takes 3 damage.
+You lose 21 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: iiti kitty takes 255 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: ancient vinyl coin purse
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 28 Strongness
+You gain 15 Enchantedness
+You gain 8 Sarcasm
+
+[1538] The Middle Chamber
+Encounter: tomb servant
+Round 0: boolicious loses initiative!
+Round 1: tomb servant takes 1 damage.
+Round 1: tomb servant takes 1 damage.
+Round 1: tomb servant takes 4 damage.
+You lose 18 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: tomb servant takes 243 damage.
+Round 2: boolicious wins the fight!
+You gain 98 Meat
+You acquire an item: mummy wrapping
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 27 Strongness
+You gain 12 Enchantedness
+You gain 10 Chutzpah
+
+[1539] The Middle Chamber
+Encounter: tomb servant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: tomb servant takes 205 damage.
+Round 2: boolicious wins the fight!
+You gain 89 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 29 Beefiness
+You gain 7 Wizardliness
+You gain 13 Cheek
+
+[1540] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1541] The Lower Chambers (Rubble/Bomb)
+
+[1542] The Middle Chamber
+Encounter: tomb bat
+Round 0: boolicious loses initiative!
+Round 1: tomb bat takes 1 damage.
+Round 1: tomb bat takes 2 damage.
+Round 1: tomb bat takes 4 damage.
+You lose 23 hit points
+Round 1: boolicious attacks!
+Round 2: tomb bat takes 210 damage.
+Round 2: boolicious wins the fight!
+You gain 104 Meat
+You acquire an item: leathery bat skin
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 27 Fortitude
+You gain 14 Magicalness
+You gain 12 Smarm
+
+[1543] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1544] The Lower Chambers (Token/Empty)
+You acquire an item: ancient bronze token
+
+[1545] The Middle Chamber
+Encounter: tomb bat
+Round 0: boolicious loses initiative!
+Round 1: tomb bat takes 1 damage.
+Round 1: tomb bat takes 2 damage.
+Round 1: tomb bat takes 4 damage.
+You lose 23 hit points
+Round 1: boolicious attacks!
+Round 2: tomb bat takes 207 damage.
+Round 2: boolicious wins the fight!
+You gain 81 Meat
+You acquire an item: unidentified jerky
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 35 Strongness
+You gain 8 Wizardliness
+You gain 11 Sarcasm
+
+[1546] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: boolicious loses initiative!
+Round 1: iiti kitty takes 2 damage.
+Round 1: iiti kitty takes 6 damage.
+Round 1: iiti kitty takes 4 damage.
+You lose 15 hit points
+Round 1: boolicious attacks!
+Round 2: iiti kitty takes 246 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: leathery cat skin
+You acquire an item: ancient Magi-Wipes
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 19 Beefiness
+You gain 16 Mysteriousness
+You gain 15 Smarm
+
+[1547] The Middle Chamber
+Encounter: tomb servant
+Round 0: boolicious loses initiative!
+Round 1: tomb servant takes 3 damage.
+Round 1: tomb servant takes 1 damage.
+Round 1: tomb servant takes 4 damage.
+You lose 19 hit points
+Round 1: boolicious attacks!
+Round 2: tomb servant takes 226 damage.
+Round 2: boolicious wins the fight!
+You gain 83 Meat
+You acquire an item: unidentified jerky
+You acquire an item: ancient protein powder
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 29 Strongness
+You gain 9 Wizardliness
+You gain 11 Smarm
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[1548] The Middle Chamber
+
+[1549] The Middle Chamber
+Encounter: tomb servant
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: tomb servant takes 214 damage.
+Round 1: boolicious wins the fight!
+You gain 91 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 27 Beefiness
+You gain a Muscle point!
+You gain 10 Enchantedness
+You gain 13 Sarcasm
+
+[1550] The Middle Chamber
+Encounter: tomb servant
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: tomb servant takes 3 damage.
+Round 1: tomb servant takes 1 damage.
+Round 1: tomb servant takes 3 damage.
+You lose 18 hit points
+After Battle: unspecified macro action?
+After Battle: tomb servant takes 228 damage.
+After Battle: boolicious wins the fight!
+You gain 91 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 27 Fortitude
+You gain 8 Magicalness
+You gain 15 Smarm
+
+[1551] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[1552] The Lower Chambers (Empty/Empty/Ed's Chamber)
+
+[1553] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[1554] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: iiti kitty takes 2 damage.
+Round 1: iiti kitty takes 6 damage.
+Round 1: iiti kitty takes 4 damage.
+You lose 13 hit points
+After Battle: unspecified macro action?
+After Battle: iiti kitty takes 222 damage.
+After Battle: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 25 Fortitude
+You gain 12 Enchantedness
+You gain 13 Smarm
+
+[1555] The Middle Chamber
+Encounter: tomb bat
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: tomb bat takes 3 damage.
+Round 1: tomb bat takes 3 damage.
+Round 1: tomb bat takes 4 damage.
+You lose 23 hit points
+After Battle: unspecified macro action?
+After Battle: tomb bat takes 193 damage.
+After Battle: boolicious wins the fight!
+You gain 87 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 24 Fortitude
+You gain 15 Wizardliness
+You gain 15 Cheek
+
+[1556] The Middle Chamber
+Encounter: tomb bat
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: tomb bat takes 1 damage.
+Round 1: tomb bat takes 5 damage.
+Round 1: tomb bat takes 3 damage.
+You lose 24 hit points
+After Battle: unspecified macro action?
+After Battle: tomb bat takes 205 damage.
+After Battle: boolicious wins the fight!
+You gain 83 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 28 Strongness
+You gain 11 Wizardliness
+You gain a Mysticality point!
+You gain 14 Roguishness
+
+[1557] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[1558] The Lower Chambers (Rubble/Bomb)
+You acquire an item: ancient bomb
+
+[1559] The Middle Chamber
+Encounter: tomb servant
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: tomb servant takes 237 damage.
+Round 1: boolicious wins the fight!
+You gain 85 Meat
+You acquire an item: unidentified jerky
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 30 Muscleboundness
+You gain 9 Wizardliness
+You gain 10 Chutzpah
+
+[1560] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: iiti kitty takes 3 damage.
+Round 1: iiti kitty takes 3 damage.
+Round 1: iiti kitty takes 5 damage.
+You lose 15 hit points
+After Battle: unspecified macro action?
+After Battle: iiti kitty takes 232 damage.
+After Battle: boolicious wins the fight!
+You acquire an item: unidentified jerky
+You acquire an item: Iiti Kitty phone charm
+You acquire an item: ancient vinyl coin purse
+You acquire an item: mummy wrapping
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 26 Fortitude
+You gain 8 Enchantedness
+You gain 17 Sarcasm
+You gain a Moxie point!
+
+[1561] The Middle Chamber
+Encounter: tomb bat
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: tomb bat takes 3 damage.
+Round 1: tomb bat takes 6 damage.
+Round 1: tomb bat takes 5 damage.
+You lose 26 hit points
+After Battle: unspecified macro action?
+After Battle: tomb bat takes 210 damage.
+After Battle: boolicious wins the fight!
+You gain 106 Meat
+You acquire an item: unidentified jerky
+You acquire an item: mummy wrapping
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 30 Beefiness
+You gain 8 Enchantedness
+You gain 15 Smarm
+
+[1562] The Middle Chamber
+Encounter: tomb bat
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: tomb bat takes 1 damage.
+Round 1: tomb bat takes 5 damage.
+Round 1: tomb bat takes 3 damage.
+You lose 24 hit points
+After Battle: unspecified macro action?
+After Battle: tomb bat takes 208 damage.
+After Battle: boolicious wins the fight!
+You gain 93 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 28 Fortitude
+You gain 11 Magicalness
+You gain 15 Chutzpah
+
+[1563] The Middle Chamber
+Encounter: tomb bat
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: tomb bat takes 1 damage.
+Round 1: tomb bat takes 6 damage.
+Round 1: tomb bat takes 5 damage.
+You lose 24 hit points
+After Battle: unspecified macro action?
+After Battle: tomb bat takes 205 damage.
+After Battle: boolicious wins the fight!
+You gain 100 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 22 Muscleboundness
+You gain 19 Enchantedness
+You gain 13 Sarcasm
+
+[1564] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[1565] The Lower Chambers (Token/Empty)
+
+[1566] The Middle Chamber
+Encounter: tomb bat
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: tomb bat takes 229 damage.
+Round 1: boolicious wins the fight!
+You gain 91 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 29 Muscleboundness
+You gain a Muscle point!
+You gain 13 Enchantedness
+You gain 11 Chutzpah
+
+[1567] The Middle Chamber
+Encounter: tomb servant
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: tomb servant takes 208 damage.
+Round 1: boolicious wins the fight!
+You gain 81 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 26 Fortitude
+You gain 12 Enchantedness
+You gain 12 Sarcasm
+
+[1568] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: iiti kitty takes 1 damage.
+Round 1: iiti kitty takes 6 damage.
+Round 1: iiti kitty takes 5 damage.
+You lose 14 hit points
+After Battle: unspecified macro action?
+After Battle: iiti kitty takes 229 damage.
+After Battle: boolicious wins the fight!
+You acquire an item: ancient Magi-Wipes
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 31 Beefiness
+You gain 9 Mysteriousness
+You gain 10 Roguishness
+
+[1569] The Middle Chamber
+Encounter: tomb bat
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+After Battle: unspecified macro action?
+After Battle: tomb bat takes 202 damage.
+After Battle: boolicious wins the fight!
+You gain 100 Meat
+You acquire an item: leathery bat skin
+You acquire an item: mummy wrapping
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 28 Strongness
+You gain 14 Mysteriousness
+You gain 12 Cheek
+
+[1570] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: iiti kitty takes 3 damage.
+Round 1: iiti kitty takes 2 damage.
+Round 1: iiti kitty takes 5 damage.
+You lose 13 hit points
+After Battle: unspecified macro action?
+After Battle: iiti kitty takes 222 damage.
+After Battle: boolicious wins the fight!
+You acquire an item: ancient Magi-Wipes
+You acquire an item: ancient vinyl coin purse
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 15 Fortitude
+You gain 13 Magicalness
+You gain 21 Cheek
+
+[1571] The Middle Chamber
+Encounter: tomb servant
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: tomb servant takes 2 damage.
+Round 1: tomb servant takes 1 damage.
+Round 1: tomb servant takes 4 damage.
+You lose 18 hit points
+After Battle: unspecified macro action?
+After Battle: tomb servant takes 255 damage.
+After Battle: boolicious wins the fight!
+You gain 95 Meat
+You acquire an item: unidentified jerky
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 27 Strongness
+You gain 9 Mysteriousness
+You gain 12 Cheek
+
+[1572] The Middle Chamber
+Encounter: tomb servant
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: tomb servant takes 1 damage.
+Round 1: tomb servant takes 1 damage.
+Round 1: tomb servant takes 5 damage.
+You lose 18 hit points
+After Battle: unspecified macro action?
+After Battle: tomb servant takes 208 damage.
+After Battle: boolicious wins the fight!
+You gain 112 Meat
+You acquire an item: mummy wrapping
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 29 Muscleboundness
+You gain 9 Enchantedness
+You gain 13 Sarcasm
+
+[1573] The Middle Chamber
+Encounter: tomb bat
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: tomb bat takes 1 damage.
+Round 1: tomb bat takes 9 damage.
+Round 1: tomb bat takes 3 damage.
+You lose 26 hit points
+After Battle: unspecified macro action?
+After Battle: tomb bat takes 214 damage.
+After Battle: boolicious wins the fight!
+You gain 102 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 29 Fortitude
+You gain 13 Mysteriousness
+You gain 12 Chutzpah
+
+[1574] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[1575] The Middle Chamber
+Encounter: tomb bat
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: tomb bat takes 2 damage.
+Round 1: tomb bat takes 5 damage.
+Round 1: tomb bat takes 4 damage.
+You lose 26 hit points
+After Battle: unspecified macro action?
+After Battle: tomb bat takes 240 damage.
+After Battle: boolicious wins the fight!
+You gain 83 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 25 Strongness
+You gain 12 Wizardliness
+You gain 17 Cheek
+
+[1576] The Middle Chamber
+Encounter: tomb bat
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: tomb bat takes 1 damage.
+Round 1: tomb bat takes 10 damage.
+Round 1: tomb bat takes 4 damage.
+You lose 25 hit points
+Round 1: boolicious casts CLOBBER!
+You lose 6 hit points
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 2: unspecified macro action?
+Round 2: tomb bat takes 22 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" It is too wary of getting swashbuckled to attack this round.
+Round 2: boolicious attacks!
+Round 3: tomb bat takes 216 damage.
+Round 3: boolicious wins the fight!
+You gain 87 Meat
+You acquire an item: leathery bat skin
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 29 Beefiness
+You gain a Muscle point!
+You gain 15 Magicalness
+You gain 10 Chutzpah
+
+[1577] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: iiti kitty takes 3 damage.
+Round 1: iiti kitty takes 9 damage.
+Round 1: iiti kitty takes 4 damage.
+You lose 20 hit points
+After Battle: unspecified macro action?
+After Battle: iiti kitty takes 234 damage.
+After Battle: boolicious wins the fight!
+You acquire an item: leathery cat skin
+You acquire an item: ancient Magi-Wipes
+You acquire an item: ancient vinyl coin purse
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 31 Muscleboundness
+You gain 7 Magicalness
+You gain a Mysticality point!
+You gain 12 Cheek
+
+[1578] The Middle Chamber
+Encounter: tomb bat
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: tomb bat takes 3 damage.
+Round 1: tomb bat takes 10 damage.
+Round 1: tomb bat takes 4 damage.
+You lose 23 hit points
+After Battle: unspecified macro action?
+After Battle: tomb bat takes 213 damage.
+After Battle: boolicious wins the fight!
+You gain 85 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 35 Fortitude
+You gain 7 Enchantedness
+You gain 13 Smarm
+You gain a Moxie point!
+
+[1579] The Middle Chamber
+Encounter: tomb servant
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: tomb servant takes 3 damage.
+Round 1: tomb servant takes 1 damage.
+Round 1: tomb servant takes 3 damage.
+You lose 19 hit points
+Round 1: boolicious casts CLOBBER!
+You lose 1 hit point
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+Round 2: unspecified macro action?
+Round 2: tomb servant takes 23 damage.
+Round 2: Heckel &amp; Jeckyl glares at your opponent and shouts, "come closer, you blackguard, and I daresay I shall buckle your swashes!" He is too wary of getting swashbuckled to attack this round.
+
+[1579] The Middle Chamber
+Round 3: boolicious attacks!
+Round 4: tomb servant takes 217 damage.
+Round 4: boolicious wins the fight!
+You gain 83 Meat
+You acquire an item: unidentified jerky
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 35 Fortitude
+You gain 3 Magicalness
+You gain 12 Chutzpah
+
+[1580] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[1581] The Lower Chambers (Empty/Empty/Ed's Chamber)
+
+equip hat mesh cap
+
+equip acc3 Mr. Accessory
+
+use 3 elven medi-pack
+You gain 264 hit points
+
+take from closet: 1 philter of phorce
+You acquire an item: philter of phorce
+
+use 1 philter of phorce
+You acquire an effect: Phorcefullness (duration: 5 Adventures)
+Jumping into the Awesome Ball Pit in the clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+use 1 pygmy pygment
+You acquire an effect: Woad Warrior (duration: 10 Adventures)
+
+use 1 true grit
+You acquire an effect: Truly Gritty (duration: 10 Adventures)
+
+buy 5 Ben-Gal™ Balm for 24 each from Market Demon
+You acquire Ben-Gal&trade; Balm (5)
+You spent 120 Meat
+
+use 5 Ben-Gal&trade; Balm
+You acquire an effect: Go Get 'Em, Tiger! (duration: 15 Adventures)
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 10 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 50 Adventures)
+
+cast 6 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 60 Adventures)
+
+use 1 phonics down
+You acquire an effect: Tingly Biceps (duration: 5 Adventures)
+You gain 47 hit points
+You gain 46 Muscularity Points
+
+cast 4 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 40 Adventures)
+
+use 5 Marquis de Poivre soda
+You gain 170 Muscularity Points
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #163/1200:
+Question: What did Mssr. Reynaldo Huxtable, mayor of Glameroth, find when he opened the time capsule that had been buried under the city council building on Porktober 1st, 2023?
+Answer: An immoral bag of money.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #360/1200:
+Question: When did the Hambonia Fightin' Moose win the national figure-skating championship?
+Answer: Half past nine.
+
+use 1 Trivial Avocations Card: Where?
+You acquire an effect: You Know Where to Go (duration: 1 Adventure)
+Trivia card #933/1200:
+Question: Where was the Princess of Goldthwaitia stoned to death for the crime of lewd behavior?
+Answer: The Unfathomable Mountains.
+
+use 1 Trivial Avocations Card: Who?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Where to Go
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #623/1200:
+Question: Who wrote the absurd biography of the ninja, Wallace Moore, 
+Answer: Victor, the last Grand King of Rosebury Grove.
+
+use 2 resolution: be feistier
+You acquire an effect: Destructive Resolve (duration: 40 Adventures)
+
+use 2 resolution: be happier
+You acquire an effect: Joyful Resolve (duration: 40 Adventures)
+
+use 1 resolution: be kinder
+You acquire an effect: Kindly Resolve (duration: 20 Adventures)
+
+use 2 resolution: be luckier
+You acquire an effect: Fortunate Resolve (duration: 40 Adventures)
+
+use 1 resolution: be more adventurous
+
+use 1 resolution: be sexier
+You acquire an effect: Irresistible Resolve (duration: 20 Adventures)
+
+use 3 resolution: be smarter
+You acquire an effect: Brilliant Resolve (duration: 60 Adventures)
+
+use 3 resolution: be stronger
+You acquire an effect: Strong Resolve (duration: 60 Adventures)
+
+use 3 resolution: be wealthier
+
+[1582] The Lower Chambers (Empty/Rubble)
+Encounter: Ed the Undying
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: ed the undying (1) takes 1002 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 48 Fortitude
+You gain 20 Mysteriousness
+You gain 25 Chutzpah
+Encounter: Ed the Undying
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: ed the undying (2) takes 1006 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 44 Muscleboundness
+You gain 24 Wizardliness
+You gain 23 Sarcasm
+Encounter: Ed the Undying
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: ed the undying (3) takes 1012 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 53 Muscleboundness
+You gain 18 Wizardliness
+You gain 22 Roguishness
+Encounter: Ed the Undying
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: ed the undying (4) takes 1015 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 40 Strengthliness
+You gain a Muscle point!
+You gain 30 Enchantedness
+You gain 22 Roguishness
+Encounter: Ed the Undying
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: ed the undying (5) takes 1021 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 47 Fortitude
+You gain 20 Enchantedness
+You gain 26 Chutzpah
+Encounter: Ed the Undying
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: ed the undying (6) takes 822 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 48 Strongness
+You gain 25 Wizardliness
+You gain 19 Smarm
+Encounter: Ed the Undying
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: ed the undying (7) takes 846 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 47 Fortitude
+You gain 23 Enchantedness
+You gain 23 Smarm
+You acquire an item: Holy MacGuffin
+You acquire an item: handful of confetti
+
+use 1 handful of confetti
+
+[1589] Wartime Hippy Camp
+Encounter: Cemetery, Man
+You acquire an item: filthy knitted dread sack
+
+[1590] Wartime Hippy Camp
+Encounter: My Dog Has No Nose
+You gain 70 Smarm
+You gain a Moxie point!
+
+[1591] Wartime Hippy Camp
+Encounter: You Better Work It
+You gain 77 Strongness
+
+[1592] Wartime Hippy Camp
+Encounter: Ultimately Lame
+You gain 70 Mysteriousness
+You gain a Mysticality point!
+
+[1593] Wartime Hippy Camp
+Encounter: This Adventure Blows
+You gain 88 Strongness
+You gain a Muscle point!
+
+[1594] Wartime Hippy Camp
+Encounter: The Naked Truth
+You acquire an item: filthy corduroys
+
+[1595] Wartime Hippy Camp
+Encounter: You Better Work It
+You gain 77 Fortitude
+
+[1596] Wartime Hippy Camp
+Encounter: My Dog Has No Nose
+You gain 70 Chutzpah
+
+[1597] Wartime Hippy Camp
+Encounter: Ultimately Lame
+You gain 70 Mysteriousness
+
+[1598] Wartime Hippy Camp
+Encounter: My Dog Has No Nose
+You gain 70 Sarcasm
+You gain a Moxie point!
+
+[1599] Wartime Frat House
+Encounter: Life During Wartime
+You gain 88 Strengthliness
+
+[1600] Wartime Frat House
+Encounter: Rosie the Carpenter
+You acquire an item: homoerotic frat-paddle
+
+[1601] Wartime Frat House
+Encounter: Know Thine Enemy
+You gain 70 Enchantedness
+You gain a Mysticality point!
+
+[1602] Wartime Frat House
+Encounter: Busting a Cap
+You acquire an item: Orcish baseball cap
+
+[1603] Wartime Frat House
+Encounter: Room Raider
+You acquire an item: Orcish cargo shorts
+
+[1604] Wartime Frat House
+Encounter: V is for Victory
+You gain 77 Strongness
+You gain a Muscle point!
+
+[1605] Wartime Frat House
+Encounter: Of Human Bondage
+You gain 70 Roguishness
+You lose 10 Meat
+
+[1606] Wartime Frat House
+Encounter: Know Thine Enemy
+You gain 70 Enchantedness
+
+[1607] Wartime Frat House
+Encounter: Of Human Bondage
+You gain 70 Cheek
+You lose 10 Meat
+
+[1608] Wartime Frat House
+Encounter: Life During Wartime
+You gain 88 Muscleboundness
+
+[1609] Wartime Frat House
+Encounter: Life During Wartime
+You gain 88 Fortitude

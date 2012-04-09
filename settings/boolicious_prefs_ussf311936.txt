@@ -1,5 +1,5 @@
 =1
-AdventureFrame=69,24,1
+AdventureFrame=2031,128,1
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=742,435
@@ -15,8 +15,8 @@ FamiliarTrainingFrame=596,317
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=257,18,-1
-LoginFrame=453,164,0
+KoLDesktop=2294,140,-1
+LoginFrame=2645,365,0
 MailboxFrame=289,310,1
 MaximizerFrame=807,254
 MeatManageFrame=1921,395
@@ -25,11 +25,11 @@ OptionsFrame=2533,375,-1
 ProfileFrame=-4,-4,-1
 RecentEventsFrame=474,284
 RequestFrame=1916,-4,-1
-RequestSynchFrame=636,317,-1
+RequestSynchFrame=1916,-4,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=0,22,0
-TabbedChatFrame=0,22,0
+TabbedChatFrame=2630,450,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -39,7 +39,7 @@ _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
 _bagOfCandy=false
-_ballpit=false
+_ballpit=true
 _banderRunaways=0
 _benettonsCasts=0
 _bonersSummoned=false
@@ -77,7 +77,7 @@ _interviewIsabella=false
 _interviewMasquerade=false
 _interviewVlad=false
 _ironicMoustache=false
-_jackassPlumberGame=false
+_jackassPlumberGame=true
 _jackassePlumberGame
 _jukebox=false
 _klawSummons=0
@@ -99,11 +99,11 @@ _poisonArrows=0
 _poolGames=0
 _precisionCasts=0
 _raindohCopiesMade=0
-_resolutionAdv=0
+_resolutionAdv=2
 _riftletAdv=0
 _romanticFightsLeft=0
 _sealFigurineUses=0
-_sealsSummoned=0
+_sealsSummoned=4
 _sexChanged=false
 _skateBuff1=false
 _skateBuff2=false
@@ -233,7 +233,7 @@ buyScript
 cameraMonster
 camerasUsed=1
 carboLoading=0
-cellarLayout=0
+cellarLayout=16
 charitableDonations=0
 chatLiterate=false
 chatbotScript
@@ -266,8 +266,8 @@ choiceAdventure129=1
 choiceAdventure130=1
 choiceAdventure131=1
 choiceAdventure132=2
-choiceAdventure134=2
-choiceAdventure135=2
+choiceAdventure134=0
+choiceAdventure135=0
 choiceAdventure136=4
 choiceAdventure137=4
 choiceAdventure138=4
@@ -614,7 +614,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2103
-currentFullness=0
+currentFullness=15
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -622,7 +622,7 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=3
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -654,7 +654,7 @@ distentionPillActive=false
 dolphinItem
 doorCode
 expressCardUsed=false
-extraRolloverAdventures=0
+extraRolloverAdventures=2
 fistSkillsKnown=0
 fistTeachingsBarroomBrawl=false
 fistTeachingsBatHole=false
@@ -683,13 +683,13 @@ grimoire1Summons=0
 grimoire2Summons=0
 grimoire3Summons=0
 guardTurtlesFreed=0
-guyMadeOfBeesCount=0
+guyMadeOfBeesCount=1
 guyMadeOfBeesDefeated=false
 hermitHax0red=true
 heroDonationBoris=21500
 heroDonationJarlsberg=30000
 heroDonationSneakyPete=60000
-hiddenCityLayout=TEEEAFWEEEEEENEEEEELEEEEE
+hiddenCityLayout=EEEEEEEEEEEEETFEEEWDENLEE
 hiddenCitySquare=24
 hippiesDefeated=0
 hpAutoRecovery=-0.05
@@ -699,10 +699,10 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=Palindome
+lastAdventure=Wartime Frat House
 lastArcadeAscension=-1
 lastBadMoonReset=-1
-lastBallroomUnlock=1
+lastBallroomUnlock=2
 lastBangPotion819
 lastBangPotion820
 lastBangPotion821
@@ -720,17 +720,17 @@ lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard=BQc2,BRg2,BKh2,BNe3,BNb4,BRe4,BBc5,BRf5,BBa6,WRe6,BBc8
-lastCouncilVisit=11
+lastCouncilVisit=12
 lastCounterDay=11
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
-lastDustyBottle2271=0
-lastDustyBottle2272=0
-lastDustyBottle2273=0
-lastDustyBottle2274=0
-lastDustyBottle2275=0
-lastDustyBottle2276=0
-lastDustyBottleReset=1
+lastDustyBottle2271=5
+lastDustyBottle2272=6
+lastDustyBottle2273=4
+lastDustyBottle2274=1
+lastDustyBottle2275=2
+lastDustyBottle2276=3
+lastDustyBottleReset=2
 lastDwarfDiceRolls
 lastDwarfDigitRunes=-------
 lastDwarfEquipmentRunes
@@ -762,15 +762,15 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=2
-lastEncounter=Drawn Onward
+lastEncounter=Life During Wartime
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=2
-lastGalleryUnlock=1
+lastGalleryUnlock=2
 lastGuildStoreOpen=2
 lastGuyMadeOfBeesReset=2
 lastHermitReset=2
-lastHiddenCityAscension=1
+lastHiddenCityAscension=2
 lastHippyCall=-1
 lastKingLiberation=2
 lastLouvreMap=2
@@ -779,15 +779,15 @@ lastMessageCount=15
 lastMessageId
 lastMiningReset=1
 lastNemesisReset=2
-lastPaperStrip3144=jagged\:PLONK\:dangly
-lastPaperStrip4138=dangly\:THWAIT\:sinusoidal
-lastPaperStrip4139=wibbly\:FOO\:rough
-lastPaperStrip4140=rough\:PLIB\:funny
-lastPaperStrip4141=zig-zaggy\:CAD\:jagged
-lastPaperStrip4142=funny\:BAZ\:zig-zaggy
-lastPaperStrip4143=fuzzy\:PYEW\:wibbly
-lastPaperStrip4144=sinusoidal\:GORT\:careful
-lastPaperStripReset=1
+lastPaperStrip3144=funny\:ABRA\:dangly
+lastPaperStrip4138=dangly\:DORN\:wibbly
+lastPaperStrip4139=rough\:ZZZZ\:fuzzy
+lastPaperStrip4140=zig-zaggy\:CAD\:sinusoidal
+lastPaperStrip4141=careful\:GOLD\:funny
+lastPaperStrip4142=fuzzy\:GUG\:curved
+lastPaperStrip4143=curved\:BAR\:zig-zaggy
+lastPaperStrip4144=wibbly\:KAZAM\:rough
+lastPaperStripReset=2
 lastPastamancerGhostReset=2
 lastPirateEphemera=pirate brochure
 lastPirateEphemeraReset=1
@@ -803,10 +803,10 @@ lastPirateInsultReset=2
 lastPorkoBoard=2231333221321331232233221331112221122112231211311223312333332232313121113232121332132223133221223113332321232233323232231133121222122131
 lastPorkoExpected=1.50\:1.50\:0.94\:1.89\:1.89\:1.89\:2.37\:2.84\:2.84
 lastPorkoPayouts=210020321
-lastPyramidReset=1
-lastQuartetAscension=1
-lastQuartetRequest=3
-lastSecondFloorUnlock=1
+lastPyramidReset=2
+lastQuartetAscension=2
+lastQuartetRequest=4
+lastSecondFloorUnlock=2
 lastSemirareReset=2
 lastSkateParkReset=2
 lastSlimeVial3885
@@ -821,10 +821,10 @@ lastSlimeVial3893
 lastSlimeVial3894
 lastSlimeVial3895
 lastSlimeVial3896
-lastStoneSphere2174
-lastStoneSphere2175
-lastStoneSphere2176
-lastStoneSphere2177
+lastStoneSphere2174=nature
+lastStoneSphere2175=fire
+lastStoneSphere2176=lightning
+lastStoneSphere2177=water
 lastStoneSphereReset=2
 lastTavernAscension=0
 lastTavernSquare=0
@@ -890,7 +890,7 @@ preBlackbirdFamiliar
 prismaticSummons=0
 promptAboutCrafting=1
 pyramidBombUsed=true
-pyramidPosition=2
+pyramidPosition=1
 questF01Primordial=unstarted
 questF01Primordial,=Primordial Fear\=unstarted
 questF02Hyboria=unstarted
@@ -915,12 +915,12 @@ questL07Cyrptic=finished
 questL08Trapper=finished
 questL09Lol=finished
 questL10Garbage=finished
-questL11MacGuffin=step2
-questL11Manor=started
+questL11MacGuffin=finished
+questL11Manor=finished
 questL11Palindome=finished
-questL11Pyramid=started
-questL11Worship=step3
-questL12War=unstarted
+questL11Pyramid=finished
+questL11Worship=finished
+questL12War=started
 questL13Final=unstarted
 questM01Untinker=finished
 questM02Artist=finished
@@ -949,7 +949,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=1140\:Semirare window begin\:lparen.gif\:1180\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1072,4 +1072,4 @@ volcanoMaze4
 volcanoMaze5
 warProgress=unstarted
 welcomeBackAdv=0
-wineCellarProgress=0
+wineCellarProgress=3
