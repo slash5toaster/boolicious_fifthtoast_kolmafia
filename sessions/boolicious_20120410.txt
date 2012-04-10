@@ -1,0 +1,553 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+April 10, 2012 - Dougtember 5
+
+Ronald: full moon
+Grimace: third quarter
+Mini-moon: in front of Ronald, L side
+
+Festival of Jarlsberg: 4 days
+Valentine's Day: 15 days
+St. Sneaky Pete's Day: 22 days
+Oyster Egg Day: 29 days
+El Dia De Los Muertos Borrachos: 37 days
+Generic Summer Holiday: 46 days
+Dependence Day: 55 days
+Arrrbor Day: 63 days
+Lab&oacute;r Day: 73 days
+Halloween: 83 days
+Feast of Boris: 90 days
+Yuletide: 95 days
+
+
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 12
+HP: 686 / 686
+MP: 195 / 233
+
+Mus: 434 (133), tnp = 38
+Mys: 233 (94), tnp = 108
+Mox: 234 (97), tnp = 48
+
+Advs: 88
+Meat: 217,247
+Drunk: 0
+
+
+ > equipment
+
+Hat: mesh cap
+Weapon: Hammer of Smiting
+Off-hand: catskin buckler
+Shirt: star shirt
+Pants: astral trousers
+
+Acc. 1: Slow Talkin' Elliot's dogtags
+Acc. 2: Mr. Accessory
+Acc. 3: Mr. Accessory
+
+Pet: Fancypants Scarecrow (22 lbs)
+Item: leotarrrd
+
+ > skills
+
+Uncategorized
+ - Liver of Steel
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Trivia Master (2)
+Destructive Resolve (12)
+Fortunate Resolve (12)
+Joyful Resolve (12)
+Seal Clubbing Frenzy (22)
+Brilliant Resolve (32)
+Strong Resolve (32)
+Rage of the Reindeer (82)
+Scarysauce (169)
+Jingle Jangle Jingle (169)
+♫ Polka of Plenty (169)
+Elemental Saucesphere (169)
+Ghostly Shell (172)
+♫ Cringle's Curative Carol (172)
+Tenacity of the Snapper (172)
+Astral Shell (172)
+Jalapeño Saucesphere (172)
+Empathy (172)
+Jabañero Saucesphere (172)
+♫ Stevedave's Shanty of Superiority (172)
+Reptilian Fortitude (547)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: -30.00%
+
+Exp: +5.32
+Meat: +90.00%
+Item: +15.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 960 Meat
+
+use 1 Chester's bag of candy
+You acquire marzipan skull (2)
+You acquire an item: Angry Farmer candy
+You acquire an item: Tasty Fun Good rice candy
+You acquire Yummy Tummy bean (2)
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: Who?
+You acquire an item: Trivial Avocations Card: Who?
+
+use 1 creepy voodoo doll
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 2 chewing gum on a string for 50 each from Market Demon
+You acquire chewing gum on a string (2)
+You spent 100 Meat
+
+add to closet: 1 worthless knick-knack
+
+use 2 chewing gum on a string
+You acquire an item: worthless knick-knack
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 3 worthless items for 3 ten-leaf clovers
+You acquire ten-leaf clover (3)
+
+Use 3 ten-leaf clover
+You acquire disassembled clover (3)
+
+Harvesting your garden
+You acquire peppermint sprout (3)
+
+cast 10 Summon Resolutions
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be more adventurous
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be kinder
+You acquire an item: resolution: be happier
+
+mallsell: 50 disassembled clover
+
+manageprices.php?action=update&price5254=5400&limit5254=0&price196=2400&limit196=1&price226=674&limit226=0&price594=410&limit594=0&price2687=400&limit2687=0&price4212=380&limit4212=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price620=288&limit620=0&price617=274&limit617=0&price622=272&limit622=0&price5103=265&limit5103=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price298=150&limit298=0&price299=150&limit299=0&price2613=150&limit2613=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price540=108&limit540=0&price1=100&limit1=0
+
+cast 1 Summon Clip Art
+You acquire an item: blunt cat claw
+
+cast 1 Summon Clip Art
+You acquire an item: cool cat claw
+
+cast 1 Summon Clip Art
+You acquire an item: shadowy cat claw
+
+take from closet: 1 Gnollish casserole dish
+You acquire an item: Gnollish casserole dish
+
+take from closet: 1 displaced fish
+You acquire an item: displaced fish
+
+[1611] Cook 1 displaced fish + 1 dehydrated caviar
+You acquire an item: fishy fish
+Crafting used 1 each of dehydrated caviar and displaced fish
+
+[1611] Cook 1 fishy fish + 1 Gnollish casserole dish
+You acquire an item: fishy fish casserole
+Crafting used 1 each of Gnollish casserole dish and fishy fish
+
+take from closet: 2 green gummi ingot
+You acquire green gummi ingot (2)
+
+[1611] Smith 1 green gummi ingot + 1 green gummi ingot
+You acquire an item: giant green gummi ingot
+Crafting used 1 each of green gummi ingot and green gummi ingot
+
+Use 1 giant green gummi ingot
+You acquire an item: giant green gummi bear
+
+[1612] Mix 1 bottle of vodka + 1 giant green gummi bear
+You acquire an item: green drunki-bear
+Crafting used 1 each of bottle of vodka and giant green gummi bear
+
+buy 1 bottle of vodka for 101 each from 845708 on 20120410
+You acquire an item: bottle of vodka
+
+buy 10 bottle of vodka for 110 each from 2015495 on 20120410
+You acquire bottle of vodka (10)
+
+take from closet: 2 red gummi ingot
+You acquire red gummi ingot (2)
+
+[1612] Smith 1 red gummi ingot + 1 red gummi ingot
+You acquire an item: giant red gummi ingot
+Crafting used 1 each of red gummi ingot and red gummi ingot
+
+Use 1 giant red gummi ingot
+You acquire an item: giant red gummi bear
+
+[1613] Mix 1 bottle of vodka + 1 giant red gummi bear
+You acquire an item: red drunki-bear
+Crafting used 1 each of bottle of vodka and giant red gummi bear
+
+take from closet: 2 yellow gummi ingot
+You acquire yellow gummi ingot (2)
+
+[1613] Smith 1 yellow gummi ingot + 1 yellow gummi ingot
+You acquire an item: giant yellow gummi ingot
+Crafting used 1 each of yellow gummi ingot and yellow gummi ingot
+
+Use 1 giant yellow gummi ingot
+You acquire an item: giant yellow gummi bear
+
+[1614] Mix 1 bottle of vodka + 1 giant yellow gummi bear
+You acquire an item: yellow drunki-bear
+Crafting used 1 each of bottle of vodka and giant yellow gummi bear
+
+Visiting Grignr, the Seal Clubber
+
+[1613] Pirate Cove
+Encounter: shady pirate
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+After Battle: unspecified macro action?
+After Battle: shady pirate takes 453 damage.
+After Battle: boolicious wins the fight!
+You gain 58 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 16 Fortitude
+You gain 7 Mysteriousness
+You gain 7 Chutzpah
+
+equip acc2 pirate fledges
+
+[1614] Poop Deck
+Encounter: wacky pirate
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+After Battle: unspecified macro action?
+After Battle: wacky pirate takes 375 damage.
+After Battle: boolicious wins the fight!
+You gain 126 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 22 Fortitude
+You gain a Muscle point!
+You gain 14 Enchantedness
+You gain 10 Smarm
+
+[1615] Poop Deck
+Encounter: wealthy pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: wealthy pirate takes 363 damage.
+Round 1: boolicious wins the fight!
+You gain 407 Meat
+You acquire an item: booty chest charrrm
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 28 Strongness
+You gain 13 Magicalness
+You gain 6 Sarcasm
+
+[1616] Poop Deck
+Encounter: whiny pirate
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+After Battle: unspecified macro action?
+After Battle: whiny pirate takes 366 damage.
+After Battle: boolicious wins the fight!
+You gain 148 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 22 Strengthliness
+You gain 13 Enchantedness
+You gain 11 Roguishness
+
+[1617] Poop Deck
+Encounter: wacky pirate
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+After Battle: unspecified macro action?
+After Battle: wacky pirate takes 369 damage.
+After Battle: boolicious wins the fight!
+You gain 146 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 18 Muscleboundness
+You gain 20 Wizardliness
+You gain 9 Roguishness
+
+[1618] Poop Deck
+Encounter: wacky pirate
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+After Battle: unspecified macro action?
+After Battle: wacky pirate takes 367 damage.
+After Battle: boolicious wins the fight!
+You gain 138 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 25 Beefiness
+You gain 17 Wizardliness
+You gain 5 Roguishness
+You gain a Moxie point!
+
+[1619] Poop Deck
+Encounter: whiny pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: whiny pirate takes 366 damage.
+Round 1: boolicious wins the fight!
+You gain 148 Meat
+You acquire an item: bilge wine
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 19 Fortitude
+You gain 19 Magicalness
+You gain 10 Chutzpah
+
+[1620] Poop Deck
+Encounter: warty pirate
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+After Battle: unspecified macro action?
+After Battle: warty pirate takes 370 damage.
+After Battle: boolicious wins the fight!
+You gain 181 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 20 Muscleboundness
+You gain 17 Wizardliness
+You gain a Mysticality point!
+You gain 9 Chutzpah
+
+[1621] Poop Deck
+Encounter: wealthy pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: wealthy pirate takes 364 damage.
+Round 1: boolicious wins the fight!
+You gain 380 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 24 Strengthliness
+You gain 13 Enchantedness
+You gain 9 Roguishness
+
+[1622] Poop Deck
+Encounter: witty pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: witty pirate takes 361 damage.
+Round 1: boolicious wins the fight!
+You gain 140 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 19 Muscleboundness
+You gain 14 Enchantedness
+You gain 13 Cheek
+
+[1623] Poop Deck
+Encounter: warty pirate
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+After Battle: unspecified macro action?
+After Battle: warty pirate takes 346 damage.
+After Battle: boolicious wins the fight!
+You gain 150 Meat
+You acquire an item: copper ha'penny charrrm
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 24 Strengthliness
+You gain 13 Magicalness
+You gain 9 Roguishness
+
+[1624] Poop Deck
+Encounter: wacky pirate
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+After Battle: unspecified macro action?
+After Battle: wacky pirate takes 345 damage.
+After Battle: boolicious wins the fight!
+You gain 125 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 20 Strongness
+You gain 17 Magicalness
+You gain 9 Chutzpah
+
+[1625] Poop Deck
+Encounter: whiny pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: whiny pirate takes 336 damage.
+Round 1: boolicious wins the fight!
+You gain 180 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 25 Strongness
+You gain 15 Magicalness
+You gain 8 Smarm
+
+[1626] Poop Deck
+Encounter: whiny pirate
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+After Battle: unspecified macro action?
+After Battle: whiny pirate takes 339 damage.
+After Battle: boolicious wins the fight!
+You gain 146 Meat
+You acquire an item: bilge wine
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 20 Strongness
+You gain 10 Enchantedness
+You gain 16 Sarcasm
+
+[1627] Poop Deck
+Encounter: witty pirate
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+After Battle: unspecified macro action?
+After Battle: witty pirate takes 340 damage.
+After Battle: boolicious wins the fight!
+You gain 172 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 26 Strongness
+You gain a Muscle point!
+You gain 14 Wizardliness
+You gain 8 Chutzpah
+
+[1628] Poop Deck
+Encounter: wealthy pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: wealthy pirate takes 330 damage.
+Round 1: boolicious wins the fight!
+You gain 412 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 20 Strengthliness
+You gain 12 Magicalness
+You gain 13 Smarm
+
+[1629] Poop Deck
+Encounter: warty pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: warty pirate takes 336 damage.
+Round 1: boolicious wins the fight!
+You gain 134 Meat
+You acquire an item: vinegar-soaked lemon slice
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 21 Muscleboundness
+You gain 17 Enchantedness
+You gain 7 Chutzpah
+
+[1630] Poop Deck
+Encounter: wacky pirate
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+Round 1: wacky pirate takes 3 damage.
+Round 1: wacky pirate takes 3 damage.
+Round 1: wacky pirate takes 3 damage.
+You lose 3 hit points
+After Battle: unspecified macro action?
+After Battle: wacky pirate takes 361 damage.
+After Battle: boolicious wins the fight!
+You gain 153 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 21 Fortitude
+You gain 14 Wizardliness
+You gain 10 Chutzpah
+
+[1631] Poop Deck
+Encounter: wealthy pirate
+Round 0: boolicious loses initiative!
+Round 0: boolicious attacks!
+After Battle: unspecified macro action?
+After Battle: wealthy pirate takes 342 damage.
+After Battle: boolicious wins the fight!
+You gain 372 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 24 Fortitude
+You gain 17 Wizardliness
+You gain 8 Sarcasm
+
+[1632] Poop Deck
+Encounter: wacky pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious attacks!
+Round 1: wacky pirate takes 334 damage.
+Round 1: boolicious wins the fight!
+You gain 127 Meat
+After Battle: Heckel &amp; Jeckyl strikes a Robin Hood-esque pose, hands on hips and grinning widely. "The very model of a Renaissance gentleman!" he exclaims. "Quick, bring me a quilted doublet and ruffled collar!"
+You gain 22 Beefiness
+You gain 13 Mysteriousness
+You gain 11 Sarcasm
