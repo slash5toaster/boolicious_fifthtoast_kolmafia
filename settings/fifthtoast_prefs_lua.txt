@@ -1,5 +1,5 @@
 =4
-AdventureFrame=362,110,2
+AdventureFrame=362,110,1
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=424,348
@@ -16,7 +16,7 @@ FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
 KoLDesktop=30,97,-1
-LoginFrame=404,276,0
+LoginFrame=394,276,0
 MailboxFrame=289,310,1
 MaximizerFrame=326,275
 MeatManageFrame=475,375
@@ -25,7 +25,7 @@ OptionsFrame=354,275,5
 ProfileFrame=425,323,-1
 RecentEventsFrame=474,284
 RequestFrame=-3,-3,-1
-RequestSynchFrame=0,30,-1
+RequestSynchFrame=336,244,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=293,225,3
@@ -145,7 +145,7 @@ availableCRIMBCOScrip=0
 availableCandyCredits=0
 availableCommendations=0
 availableCrimbux=0
-availableDimes=0
+availableDimes=3
 availableIsotopes=0
 availableLucre=0
 availableMrAccessories=0
@@ -233,7 +233,7 @@ buyScript
 cameraMonster
 camerasUsed=0
 carboLoading=0
-cellarLayout=0
+cellarLayout=10929555
 charitableDonations=0
 chatLiterate=false
 chatbotScript
@@ -266,8 +266,8 @@ choiceAdventure129=1
 choiceAdventure130=1
 choiceAdventure131=1
 choiceAdventure132=2
-choiceAdventure134=2
-choiceAdventure135=2
+choiceAdventure134=0
+choiceAdventure135=0
 choiceAdventure136=4
 choiceAdventure137=4
 choiceAdventure138=0
@@ -614,7 +614,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=30
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -674,7 +674,7 @@ fossilN=0
 fossilP=0
 fossilS=0
 fossilW=0
-fratboysDefeated=435
+fratboysDefeated=523
 friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
@@ -689,17 +689,17 @@ hermitHax0red=true
 heroDonationBoris=11500
 heroDonationJarlsberg=0
 heroDonationSneakyPete=0
-hiddenCityLayout=EEEWEPEPEEFEPLTANEPEEP0EE
+hiddenCityLayout=EEEWEEEEEEFEELTANEEEEEEEE
 hiddenCitySquare=0
 hippiesDefeated=0
 hpAutoRecovery=0.2
-hpAutoRecoveryItems=sleep on your clan sofa;scroll of drastic healing;cannelloni cocoon;visit the nuns;red pixel potion;really thick bandage;elven medi-pack;tongue of the walrus;lasagna bandages;doc galaktik's homeopathic elixir;cast;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent
+hpAutoRecoveryItems=sleep on your clan sofa;medicinal herb's medicinal herbs;scroll of drastic healing;cannelloni cocoon;visit the nuns;red pixel potion;really thick bandage;elven medi-pack;tongue of the walrus;lasagna bandages;doc galaktik's homeopathic elixir;cast;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent
 hpAutoRecoveryTarget=0.9
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Haunted Bedroom
+lastAdventure=The Middle Chamber
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -716,13 +716,13 @@ lastBangPotion827=blessing
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=11
+lastBreakfast=12
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=13
-lastCounterDay=11
+lastCounterDay=12
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=1
@@ -763,7 +763,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=animated nightstand
+lastEncounter=tomb servant
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -804,7 +804,7 @@ lastPirateInsultReset=2
 lastPorkoBoard
 lastPorkoExpected=0.84\:0.70\:0.55\:0.12\:0.12\:0.12\:0.56\:2.50\:2.50
 lastPorkoPayouts=001102322
-lastPyramidReset=0
+lastPyramidReset=1
 lastQuartetAscension=0
 lastQuartetRequest=3
 lastSecondFloorUnlock=1
@@ -822,10 +822,10 @@ lastSlimeVial3893
 lastSlimeVial3894
 lastSlimeVial3895
 lastSlimeVial3896
-lastStoneSphere2174
-lastStoneSphere2175
-lastStoneSphere2176
-lastStoneSphere2177
+lastStoneSphere2174=lightning
+lastStoneSphere2175=fire
+lastStoneSphere2176=water
+lastStoneSphere2177=nature
 lastStoneSphereReset=2
 lastTavernAscension=1
 lastTavernSquare=21
@@ -864,7 +864,7 @@ mpAutoRecoveryItems=sleep on your clan sofa;galaktik's fizzy invigorating tonic;
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
 noodleSummons=0
-nunsVisits=0
+nunsVisits=1
 oceanAction=savecontinue
 oceanDestination=plinth
 olfactedMonster=wabbit
@@ -890,8 +890,8 @@ preAscensionScript
 preBlackbirdFamiliar=Cocoabo
 prismaticSummons=0
 promptAboutCrafting=1
-pyramidBombUsed=true
-pyramidPosition=1
+pyramidBombUsed=false
+pyramidPosition=5
 questF01Primordial=unstarted
 questF01Primordial,=Primordial Fear\=unstarted
 questF02Hyboria=unstarted
@@ -917,10 +917,10 @@ questL08Trapper=finished
 questL09Lol=finished
 questL10Garbage=finished
 questL11MacGuffin=step2
-questL11Manor=started
+questL11Manor=finished
 questL11Palindome=finished
-questL11Pyramid=step5
-questL11Worship=step3
+questL11Pyramid=step12
+questL11Worship=finished
 questL12War=step1
 questL13Final=unstarted
 questM01Untinker=finished
@@ -950,7 +950,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=3170\:Fortune Cookie\:fortune.gif\:3210\:Fortune Cookie\:fortune.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1019,7 +1019,7 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=true
+telescopeLookedHigh=false
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
@@ -1073,4 +1073,4 @@ volcanoMaze4
 volcanoMaze5
 warProgress=started
 welcomeBackAdv=0
-wineCellarProgress=0
+wineCellarProgress=3
