@@ -3473,3 +3473,321 @@ You gain 201 hit points
 
 cast 75 Laugh It Off
 You gain 121 hit points
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+April 9, 2012 - Dougtember 4
+
+Ronald: waxing gibbous
+Grimace: waning gibbous
+Mini-moon: behind Ronald
+
+Yuletide: today
+Festival of Jarlsberg: 5 days
+Valentine's Day: 16 days
+St. Sneaky Pete's Day: 23 days
+Oyster Egg Day: 30 days
+El Dia De Los Muertos Borrachos: 38 days
+Generic Summer Holiday: 47 days
+Dependence Day: 56 days
+Arrrbor Day: 64 days
+Lab&oacute;r Day: 74 days
+Halloween: 84 days
+Feast of Boris: 91 days
+
+Yuletide
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 13
+HP: 354 / 391
+MP: 85 / 212
+
+Mus: 186 (159), tnp = 152
+Mys: 172 (124), tnp = 126
+Mox: 162 (116), tnp = 74
+
+Advs: 157
+Meat: 14,517
+Drunk: 3
+
+
+ > equipment
+
+Hat: reinforced beaded headband
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: bullet-proof corduroys
+
+Acc. 1: hamethyst ring
+Acc. 2: pirate fledges
+Acc. 3: round purple sunglasses
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Stomach of Steel
+
+Avatar Of Boris
+ - Big Boned
+ - Big Lungs
+ - Broadside
+ - Cleave
+ - Demand Sandwich
+ - Ferocity
+ - Intimidating Bellow
+ - Laugh It Off
+ - Legendary Appetite
+ - Legendary Bravado
+ - Legendary Girth
+ - Mighty Axing
+ - Sick Pythons
+ - Song of Accompaniment
+ - Song of the Glorious Lunch
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Izchak's Blessing (4)
+Strange Mental Acuity (4)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[3138] Haunted Library
+Encounter: writing desk
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: writing desk takes 196 damage.
+Round 1: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 6 Muscularity Points
+You acquire an item: disintegrating quill pen
+You acquire an item: inkwell
+You gain 10 Strengthliness
+You gain 5 Wizardliness
+
+[3139] Haunted Library
+Encounter: Take a Look, it's in a Book!
+Took choice 80/99: unknown
+choice.php?whichchoice=80&pwd=49c5fd85f527d25ce8f0fa633f0f78f9&option=99
+
+[3140] Haunted Library
+Encounter: Take a Look, it's in a Book!
+Took choice 81/1: gallery quest
+choice.php?pwd&whichchoice=81&option=1
+Encounter: History is Fun!
+Took choice 87/2: Spookyraven Chapter 5 (Gallery Quest)
+choice.php?pwd&whichchoice=87&option=2
+
+[3141] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/1: old coin purse
+choice.php?pwd&whichchoice=83&option=1
+You acquire an item: old coin purse
+
+[3142] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/3: quest item
+choice.php?pwd&whichchoice=83&option=3
+
+[3143] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 84/3: Lord Spookyraven's spectacles
+choice.php?pwd&whichchoice=84&option=3
+You acquire an item: Lord Spookyraven's spectacles
+
+equip hat mesh cap
+
+equip pants black greaves
+
+equip acc3 Boris's ring
+
+equip acc2 Lord Spookyraven's spectacles
+
+[3144] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 84/2: mysticality substats
+choice.php?pwd&whichchoice=84&option=2
+You gain 176 Enchantedness
+You gain a Mysticality point!
+
+[3145] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 82/1: old leather wallet
+choice.php?pwd&whichchoice=82&option=1
+You acquire an item: old leather wallet
+
+[3146] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 85/2: ballroom key step 2
+choice.php?pwd&whichchoice=85&option=2
+
+[3147] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/3: quest item
+choice.php?pwd&whichchoice=83&option=3
+You acquire an item: tattered wolf standard
+
+manor2.php?place=ballroom
+
+[3148] Haunted Bathroom
+Encounter: Off the Rack
+You acquire an item: towel
+
+[3149] Haunted Bathroom
+Encounter: claw-foot bathtub
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: claw-foot bathtub takes 166 damage.
+Round 1: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 9 Muscularity Points
+You gain 13 Fortitude
+You gain 7 Magicalness
+You gain 5 Chutzpah
+
+[3150] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/3: quest item
+choice.php?pwd&whichchoice=83&option=3
+
+[3151] Haunted Bedroom
+Encounter: animated nightstand
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 38 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: animated nightstand (mahogany) takes 125 damage.
+You lose 40 hit points
+After Battle: unspecified macro action?
+After Battle: animated nightstand (mahogany) takes 137 damage.
+After Battle: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 10 Muscularity Points
+You acquire an item: half of a memo
+You acquire an item: old coin purse
+You gain 21 Beefiness
+You gain 9 Magicalness
+You gain 13 Sarcasm
+
+use 1 half of a memo
+
+[3152] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 85/2: ballroom key step 2
+choice.php?pwd&whichchoice=85&option=2
+
+[3153] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 84/2: mysticality substats
+choice.php?pwd&whichchoice=84&option=2
+You gain 176 Mysteriousness
+
+[3154] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 85/1: moxie
+choice.php?pwd&whichchoice=85&option=1
+You gain 159 Cheek
+You gain a Moxie point!
+
+[3155] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/3: quest item
+choice.php?pwd&whichchoice=83&option=3
+
+[3156] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 82/1: old leather wallet
+choice.php?pwd&whichchoice=82&option=1
+You acquire an item: old leather wallet
+
+multiuse.php?passitem=1917&pwd=49c5fd85f527d25ce8f0fa633f0f78f9
+
+use 1 old leather wallet
+You gain 509 Meat
+
+use 1 old leather wallet
+You gain 532 Meat
+
+bigisland.php?place=orchard
+bigisland.php?place=orchard&action=stand&pwd=49c5fd85f527d25ce8f0fa633f0f78f9
+
+bigisland.php?place=orchard
+outfit War Hippy Fatigues
+
+bigisland.php?place=orchard&action=stand&pwd=49c5fd85f527d25ce8f0fa633f0f78f9
+
+[3157] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 84/1: small meat boost
+choice.php?pwd&whichchoice=84&option=1
+You gain 492 Meat
+
+[3158] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 85/3: enter combat
+choice.php?pwd&whichchoice=85&option=3
+Encounter: the remains of a jilted mistress
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: the remains of a jilted mistress takes 112 damage.
+You lose 37 hit points
+After Battle: unspecified macro action?
+After Battle: the remains of a jilted mistress takes 108 damage.
+After Battle: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 6 Muscularity Points
+You acquire an item: antique hand mirror
+You gain 28 Beefiness
+You gain 8 Magicalness
+You gain a Mysticality point!
+You gain 8 Smarm
+
+[3159] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/2: enter combat
+choice.php?pwd&whichchoice=83&option=2
+Encounter: animated nightstand
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: animated nightstand (mahogany) takes 103 damage.
+You lose 38 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: animated nightstand (mahogany) takes 95 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 hit points
+You gain 9 Muscularity Points
+You acquire an item: old coin purse
+You gain 19 Muscleboundness
+You gain 15 Wizardliness
+You gain 9 Cheek
