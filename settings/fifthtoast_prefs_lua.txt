@@ -56,7 +56,7 @@ _companionshipCasts=0
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=6
+_demandSandwich=0
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -614,7 +614,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=30
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -683,8 +683,8 @@ grimoire1Summons=0
 grimoire2Summons=0
 grimoire3Summons=0
 guardTurtlesFreed=0
-guyMadeOfBeesCount=0
-guyMadeOfBeesDefeated=false
+guyMadeOfBeesCount=4
+guyMadeOfBeesDefeated=true
 hermitHax0red=true
 heroDonationBoris=11500
 heroDonationJarlsberg=0
@@ -699,7 +699,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Dungeons of Doom
+lastAdventure=Haunted Bathroom
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -716,13 +716,13 @@ lastBangPotion827=blessing
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=13
+lastBreakfast=15
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=13
-lastCounterDay=13
+lastCounterDay=15
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=1
@@ -763,7 +763,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=large kobold
+lastEncounter=The Man
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -864,7 +864,7 @@ mpAutoRecoveryItems=sleep on your clan sofa;galaktik's fizzy invigorating tonic;
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
 noodleSummons=0
-nunsVisits=3
+nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=plinth
 olfactedMonster=wabbit
@@ -950,7 +950,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=3473\:Fortune Cookie\:fortune.gif\:3550\:Fortune Cookie\:fortune.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
