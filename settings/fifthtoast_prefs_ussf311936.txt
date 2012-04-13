@@ -599,7 +599,7 @@ cyrptCrannyEvilness=0
 cyrptNicheEvilness=0
 cyrptNookEvilness=0
 cyrptTotalEvilness=0
-dailyDungeonDone=false
+dailyDungeonDone=true
 dbNemesisSkill1=0
 dbNemesisSkill2=0
 dbNemesisSkill3=0
@@ -667,7 +667,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Battlefield (Hippy Uniform)
+lastAdventure=Dungeons of Doom
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=sleepiness
@@ -729,7 +729,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=The Man
+lastEncounter=mind flayer
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -915,7 +915,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=3625\:Communications Windchimes loc\=*\:chimes.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false

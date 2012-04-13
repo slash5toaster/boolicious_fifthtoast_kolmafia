@@ -2749,3 +2749,486 @@ You lose some of an effect: Song of the Glorious Lunch
 
 cast 1 Song of the Glorious Lunch
 You acquire an effect: Song of the Glorious Lunch (duration: 5 Adventures)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+April 12, 2012 - Dougtember 7
+
+Ronald: third quarter
+Grimace: waning crescent
+Mini-moon: in front of Grimace, R side
+
+Festival of Jarlsberg: 2 days
+Valentine's Day: 13 days
+St. Sneaky Pete's Day: 20 days
+Oyster Egg Day: 27 days
+El Dia De Los Muertos Borrachos: 35 days
+Generic Summer Holiday: 44 days
+Dependence Day: 53 days
+Arrrbor Day: 61 days
+Lab&oacute;r Day: 71 days
+Halloween: 81 days
+Feast of Boris: 88 days
+Yuletide: 93 days
+
+
+Moxie bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 14
+HP: 424 / 541
+MP: 179 / 221
+
+Mus: 275 (182), tnp = 330
+Mys: 181 (142), tnp = 115
+Mox: 175 (132), tnp = 164
+
+Advs: 202
+Meat: 21,970
+Drunk: 3
+
+
+ > equipment
+
+Hat: reinforced beaded headband
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: bullet-proof corduroys
+
+Acc. 1: Boris's ring
+Acc. 2: pirate fledges
+Acc. 3: round purple sunglasses
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Stomach of Steel
+
+Avatar Of Boris
+ - Big Boned
+ - Big Lungs
+ - Broadside
+ - Cleave
+ - Demand Sandwich
+ - Ferocity
+ - Intimidating Bellow
+ - Laugh It Off
+ - Legendary Appetite
+ - Legendary Bravado
+ - Legendary Girth
+ - Mighty Axing
+ - Pep Talk
+ - Sick Pythons
+ - Song of Accompaniment
+ - Song of the Glorious Lunch
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Mallowed Out (3)
+Stone-Faced (5)
+Spiky Hair (5)
+Song of the Glorious Lunch (7)
+Go Get 'Em, Tiger! (11)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+Visiting the Bounty Hunter Hunter
+
+[3618] Hidden Temple
+Encounter: Fitting In
+Took choice 582/2: The Hidden Heart of the Hidden Temple
+choice.php?pwd&whichchoice=582&option=2
+Encounter: Stone-Faced
+You lose an effect: Stone-Faced
+Took choice 580/1: unknown
+choice.php?pwd&whichchoice=580&option=1
+Encounter: The Hidden Heart of the Hidden Temple
+Took choice 580/2: unknown
+choice.php?pwd&whichchoice=580&option=2
+Encounter: Unconfusing Buttons
+Took choice 584/3: Hidden Temple (Gargoyle)
+choice.php?pwd&whichchoice=584&option=3
+Encounter: The Hidden Heart of the Hidden Temple
+Took choice 580/2: unknown
+choice.php?pwd&whichchoice=580&option=2
+Encounter: Unconfusing Buttons
+Took choice 584/1: Hidden Temple (Stone)
+choice.php?pwd&whichchoice=584&option=1
+Encounter: The Hidden Heart of the Hidden Temple
+Took choice 580/1: unknown
+choice.php?pwd&whichchoice=580&option=1
+You gain 99 Strongness
+
+[3619] Whitey's Grove
+Encounter: Rapido!
+Took choice 75/2: white lightning
+choice.php?pwd&whichchoice=75&option=2
+You acquire white lightning (3)
+
+Visiting Bart Ender
+
+tavern.php?action=bustables&pwd
+You gain 252 Meat
+tavern.php?pwd&action=bustables
+You gain 241 Meat
+
+[3630] A Barroom Brawl
+Encounter: plastered frat orc
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: plastered frat orc takes 255 damage.
+Round 2: fifthtoast wins the fight!
+You gain 11 hit points
+You gain 10 Muscularity Points
+You gain 25 Meat
+You gain 3 Mysteriousness
+
+[3631] Haiku Dungeon
+Encounter: ancient insane monk
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: ancient insane monk takes 269 damage.
+Round 2: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 13 Mojo points
+You acquire an item: bottle of sake
+You gain 1 Strongness
+
+[3632] Haiku Dungeon
+Encounter: amateur ninja
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: amateur ninja takes 275 damage.
+Round 2: fifthtoast wins the fight!
+You gain 12 hit points
+You gain 9 Mojo points
+You gain 16 Meat
+You acquire an item: cheap plastic blowgun
+You gain 2 Strongness
+
+[3633] Haiku Dungeon
+Encounter: gelatinous cube
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+You lose 5 hit points
+Round 2: fifthtoast attacks!
+Round 3: gelatinous cube takes 259 damage.
+Round 3: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 8 Mojo points
+You gain 25 Meat
+You gain 1 Roguishness
+
+[3634] Daily Dungeon (Room 1)
+Encounter: Locked Door
+
+[3634] Daily Dungeon (Room 2)
+Encounter: Brrrrrr.
+
+[3635] Daily Dungeon (Room 3)
+Encounter: Treasure!
+You acquire an item: jug-o-magicalness
+
+[3636] Daily Dungeon (Room 4)
+Encounter: dairy ooze
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: dairy ooze takes 254 damage.
+Round 2: fifthtoast wins the fight!
+You gain 9 hit points
+You gain 10 Muscularity Points
+You gain 14 Meat
+You gain 3 Strengthliness
+You gain 2 Mysteriousness
+
+[3637] Daily Dungeon (Room 5)
+Encounter: giant giant moth
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: giant giant moth takes 244 damage.
+Round 2: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 8 Muscularity Points
+You gain 16 Meat
+You gain 2 Strengthliness
+You gain 2 Wizardliness
+You gain 1 Cheek
+
+[3638] Daily Dungeon (Room 6)
+Encounter: Treasure!
+You acquire an item: enchanted barbell
+
+[3639] Daily Dungeon (Room 7)
+Encounter: Locked Door
+
+[3640] Daily Dungeon (Room 8)
+Encounter: Did I Leave the Floor On?
+
+[3641] Daily Dungeon (Room 9)
+Encounter: Giant Creepy Floating Skull
+
+[3642] Daily Dungeon (Room 10)
+Encounter: Treasure!
+You acquire an item: fat loot token
+
+trading 1 fat loot token for 1 Jarlsberg's key
+You acquire an item: Jarlsberg's key
+
+[3643] Dungeons of Doom
+Encounter: Ouch!  You bump into a door!
+Took choice 25/2: dead mimic
+choice.php?pwd&whichchoice=25&option=2
+Encounter: mimic
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: mimic takes 221 damage.
+Round 2: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 12 Muscularity Points
+You acquire an item: dead mimic
+You gain 7 Beefiness
+You gain 2 Enchantedness
+You gain 4 Sarcasm
+
+use 1 dead mimic
+You acquire an item: fizzy potion of healing
+You acquire an item: smoky potion of confusion
+You acquire an item: milky potion of sleepiness
+You acquire an item: milky potion of sleepiness
+You acquire an item: effervescent potion of inebriety
+You acquire an item: fizzy potion of healing
+You acquire an item: murky potion of blessing
+You acquire an item: swirly potion of mental acuity
+You acquire an item: murky potion of blessing
+You acquire an item: swirly potion of mental acuity
+You acquire an item: fizzy potion of healing
+You acquire an item: murky potion of blessing
+You acquire an item: ring of adornment
+
+[3644] Dungeons of Doom
+Encounter: acid blob
+Round 0: fifthtoast wins initiative!
+
+[3644] Dungeons of Doom
+Round 2: fifthtoast attacks!
+Round 3: acid blob takes 217 damage.
+You acquire an effect: Corroded Weapon (duration: 5 Adventures)
+Round 3: fifthtoast wins the fight!
+You gain 13 hit points
+You gain 13 Muscularity Points
+You gain 2 Strongness
+You gain 8 Enchantedness
+You gain 5 Roguishness
+
+[3645] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: quantum mechanic takes 228 damage.
+Round 1: fifthtoast wins the fight!
+You gain 12 hit points
+You gain 10 Muscularity Points
+You gain 10 Muscleboundness
+You gain 2 Wizardliness
+You gain 5 Smarm
+
+[3646] Dungeons of Doom
+Encounter: swarm of killer bees
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: swarm of killer bees takes 210 damage.
+Round 1: fifthtoast wins the fight!
+You gain 9 hit points
+You gain 13 Muscularity Points
+You acquire an item: royal jelly
+You gain 11 Strongness
+You gain 3 Enchantedness
+You gain 2 Smarm
+
+[3647] Dungeons of Doom
+Encounter: large kobold
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: large kobold takes 221 damage.
+Round 1: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 13 Muscularity Points
+You acquire an item: small box
+You gain 8 Muscleboundness
+You gain 3 Magicalness
+You gain 5 Chutzpah
+
+[3648] Dungeons of Doom
+Encounter: A Dash of Boulder
+You gain 21 Strengthliness
+
+[3649] Dungeons of Doom
+Encounter: Ouch!  You bump into a door!
+Took choice 25/3: skip adventure
+choice.php?pwd&whichchoice=25&option=3
+
+[3649] Dungeons of Doom
+Encounter: mind flayer
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: mind flayer takes 260 damage.
+Round 1: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 13 Muscularity Points
+You acquire an item: cornuthaum
+You gain 7 Beefiness
+You gain 5 Enchantedness
+You gain 4 Chutzpah
+
+[3650] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: quantum mechanic takes 266 damage.
+Round 1: fifthtoast wins the fight!
+You gain 11 hit points
+You gain 10 Muscularity Points
+You acquire an item: vorpal blade
+You acquire an item: large box
+You gain 8 Strengthliness
+You gain 6 Wizardliness
+You gain 3 Smarm
+
+[3651] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: quantum mechanic takes 223 damage.
+Round 1: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 12 Muscularity Points
+You gain 7 Strengthliness
+You gain 7 Wizardliness
+You gain 4 Cheek
+
+[3652] Dungeons of Doom
+Encounter: mind flayer
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: mind flayer takes 238 damage.
+Round 1: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 11 Muscularity Points
+You acquire an item: mind flayer corpse
+You gain 10 Fortitude
+You gain 5 Enchantedness
+You gain 2 Sarcasm
+
+[3653] Dungeons of Doom
+Encounter: The Hunger
+You gain 21 Sarcasm
+
+[3654] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: quantum mechanic takes 231 damage.
+Round 1: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 13 Muscularity Points
+You acquire an item: large box
+You gain 10 Beefiness
+You gain 5 Enchantedness
+You gain 2 Smarm
+
+[3655] Dungeons of Doom
+Encounter: The Return of the Dishwasher
+You gain 23 Wizardliness
+
+[3656] Dungeons of Doom
+Encounter: large kobold
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: large kobold takes 235 damage.
+Round 1: fifthtoast wins the fight!
+You gain 11 hit points
+You gain 9 Muscularity Points
+You gain 8 Fortitude
+You gain 7 Enchantedness
+You gain 2 Chutzpah
+
+[3657] Dungeons of Doom
+Encounter: acid blob
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: acid blob takes 223 damage.
+You acquire an effect: Corroded Weapon (duration: 5 Adventures)
+Round 1: fifthtoast wins the fight!
+You gain 12 hit points
+You gain 9 Muscularity Points
+You gain 11 Strengthliness
+You gain 3 Wizardliness
+You gain 3 Roguishness
+
+[3658] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: quantum mechanic takes 228 damage.
+Round 1: fifthtoast wins the fight!
+You gain 13 hit points
+You gain 8 Muscularity Points
+You acquire an item: large box
+You gain 6 Muscleboundness
+You gain 8 Wizardliness
+You gain 4 Roguishness
+
+[3659] Dungeons of Doom
+Encounter: swarm of killer bees
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: swarm of killer bees takes 223 damage.
+Round 1: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 7 Muscularity Points
+You gain 3 Beefiness
+You gain 8 Mysteriousness
+You gain 6 Roguishness
+
+[3660] Dungeons of Doom
+Encounter: mind flayer
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: mind flayer takes 224 damage.
+Round 1: fifthtoast wins the fight!
+You gain 11 hit points
+You gain 12 Muscularity Points
+You gain 10 Strengthliness
+You gain 2 Mysteriousness
+You gain 5 Smarm
