@@ -33,13 +33,13 @@ TabbedChatFrame=771,99,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
-_allYearSucker=true
+_allYearSucker=false
 _aprilShower=false
 _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
 _bagOfCandy=false
-_ballpit=true
+_ballpit=false
 _banderRunaways=0
 _benettonsCasts=0
 _bonersSummoned=false
@@ -77,7 +77,7 @@ _interviewIsabella=false
 _interviewMasquerade=false
 _interviewVlad=false
 _ironicMoustache=false
-_jackassPlumberGame=true
+_jackassPlumberGame=false
 _jackassePlumberGame
 _jukebox=false
 _klawSummons=0
@@ -99,7 +99,7 @@ _poisonArrows=0
 _poolGames=0
 _precisionCasts=0
 _raindohCopiesMade=0
-_resolutionAdv=4
+_resolutionAdv=0
 _riftletAdv=0
 _romanticFightsLeft=0
 _sealFigurineUses=0
@@ -614,7 +614,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2100
-currentFullness=14
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -654,7 +654,7 @@ distentionPillActive=false
 dolphinItem
 doorCode
 expressCardUsed=false
-extraRolloverAdventures=4
+extraRolloverAdventures=0
 fistSkillsKnown=0
 fistTeachingsBarroomBrawl=false
 fistTeachingsBatHole=false
@@ -699,7 +699,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=Battlefield (Hippy Uniform)
+lastAdventure=The Broodling Grounds
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -715,13 +715,13 @@ lastBangPotion827
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=13
+lastBreakfast=15
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=12
-lastCounterDay=13
+lastCounterDay=15
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=0
@@ -762,7 +762,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=2
-lastEncounter=War Frat 151st Captain
+lastEncounter=mother hellseal
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -835,7 +835,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=2
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=15
+libramSummons=10
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -920,8 +920,8 @@ questL11Manor=finished
 questL11Palindome=finished
 questL11Pyramid=finished
 questL11Worship=finished
-questL12War=step1
-questL13Final=unstarted
+questL12War=finished
+questL13Final=step2
 questM01Untinker=finished
 questM02Artist=finished
 questM03Bugbear=unstarted
@@ -1018,12 +1018,12 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=true
+telescopeLookedHigh=false
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
-timesRested=1
-tomeSummons=1
+timesRested=0
+tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
