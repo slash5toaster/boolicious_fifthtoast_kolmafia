@@ -122,7 +122,7 @@ _transponderDrops=0
 _trivialAvocationsGame=false
 _userMods
 _vmaskAdv=0
-_zapCount=0
+_zapCount=2
 addingScrolls=2
 afterAdventureScript
 arcadeGameHints=true
@@ -623,7 +623,7 @@ currentMood=apathetic
 currentNunneryMeat=97014
 currentPvpVictories
 currentSpleenUse=0
-currentWheelPosition=moxie
+currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
 cyrptCrannyEvilness=0
@@ -699,7 +699,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Haunted Bathroom
+lastAdventure=Dungeons of Doom
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -716,13 +716,13 @@ lastBangPotion827=blessing
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=15
+lastBreakfast=0
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=13
-lastCounterDay=15
+lastCouncilVisit=14
+lastCounterDay=0
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=1
@@ -763,7 +763,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=0
 lastEmptiedStorage=0
-lastEncounter=The Man
+lastEncounter=mimic
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -890,8 +890,8 @@ preAscensionScript
 preBlackbirdFamiliar=Cocoabo
 prismaticSummons=0
 promptAboutCrafting=1
-pyramidBombUsed=false
-pyramidPosition=5
+pyramidBombUsed=true
+pyramidPosition=1
 questF01Primordial=unstarted
 questF01Primordial,=Primordial Fear\=unstarted
 questF02Hyboria=unstarted
