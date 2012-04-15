@@ -1351,3 +1351,186 @@ You gain 784 Meat
 
 use 1 murky potion of blessing
 You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+April 14, 2012 - Jarlsuary 1
+
+Ronald: new moon
+Grimace: new moon
+Mini-moon: in back, near Ronald
+
+Festival of Jarlsberg: today
+Valentine's Day: 11 days
+St. Sneaky Pete's Day: 18 days
+Oyster Egg Day: 25 days
+El Dia De Los Muertos Borrachos: 33 days
+Generic Summer Holiday: 42 days
+Dependence Day: 51 days
+Arrrbor Day: 59 days
+Lab&oacute;r Day: 69 days
+Halloween: 79 days
+Feast of Boris: 86 days
+Yuletide: 91 days
+
+Festival of Jarlsberg
+Moxie bonus today and yesterday.
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 14
+HP: 152 / 466
+MP: 101 / 167
+
+Mus: 250 (188), tnp = 27
+Mys: 167 (150), tnp = 237
+Mox: 184 (137), tnp = 243
+
+Advs: 45
+Meat: 24,888
+Drunk: 0
+
+
+ > equipment
+
+Hat: mesh cap
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: black greaves
+
+Acc. 1: Boris's ring
+Acc. 2: pirate fledges
+Acc. 3: hamethyst ring
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Stomach of Steel
+
+Avatar Of Boris
+ - Big Boned
+ - Big Lungs
+ - Broadside
+ - Cleave
+ - Demand Sandwich
+ - Ferocity
+ - Intimidating Bellow
+ - Laugh It Off
+ - Legendary Appetite
+ - Legendary Bravado
+ - Legendary Girth
+ - Mighty Axing
+ - Pep Talk
+ - Sick Pythons
+ - Song of Accompaniment
+ - Song of the Glorious Lunch
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Izchak's Blessing (10)
+Object Detection (10)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +5.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+outfit War Hippy Fatigues
+
+bigisland.php?place=farm&action=farmer&pwd
+custom outfit Backup
+
+cast 3 Demand Sandwich
+You acquire corned-beef Reuben (3)
+
+cast 1 Song of the Glorious Lunch
+You acquire an effect: Song of the Glorious Lunch (duration: 5 Adventures)
+
+cast 1 Song of the Glorious Lunch
+You acquire an effect: Song of the Glorious Lunch (duration: 5 Adventures)
+
+cast 1 Song of the Glorious Lunch
+You acquire an effect: Song of the Glorious Lunch (duration: 5 Adventures)
+
+cast 1 Song of the Glorious Lunch
+You acquire an effect: Song of the Glorious Lunch (duration: 5 Adventures)
+
+Buy and eat 1 PB&BP for 15 Meat
+You gain 14 Adventures
+You gain 12 Strengthliness
+You gain 3 Fullness
+You spent 15 Meat
+You lose some of an effect: Song of the Glorious Lunch
+
+Buy and eat 1 PB&BP for 15 Meat
+You gain 11 Adventures
+You gain 12 Muscleboundness
+You gain 3 Fullness
+You spent 15 Meat
+You lose some of an effect: Song of the Glorious Lunch
+
+Buy and eat 1 PB&BP for 15 Meat
+You gain 11 Adventures
+You gain 10 Fortitude
+You gain a Muscle point!
+You gain 3 Fullness
+You spent 15 Meat
+You lose some of an effect: Song of the Glorious Lunch
+
+eat 3 corned-beef Reuben
+You gain 16 Adventures
+You gain 28 Muscleboundness
+You gain 3 Fullness
+You lose some of an effect: Song of the Glorious Lunch
+You gain 16 Adventures
+You gain 32 Strengthliness
+You gain 3 Fullness
+You lose some of an effect: Song of the Glorious Lunch
+You gain 15 Adventures
+You gain 28 Muscleboundness
+You gain 3 Fullness
+You lose some of an effect: Song of the Glorious Lunch
+
+[3857] Mix 1 bottle of rum + 1 lime
+You acquire an item: grog
+Crafting used 1 each of lime and bottle of rum
+
+drink 1 grog
+You gain 5 Adventures
+You gain 9 Beefiness
+You gain 3 Drunkenness
+
+eat 1 Crimbo pie
+You gain 12 Adventures
+You gain 43 Beefiness
+You gain 3 Fullness
+You lose an effect: Song of the Glorious Lunch
+outfit War Hippy Fatigues
+
+bigisland.php?place=farm&action=farmer&pwd
+custom outfit Backup
