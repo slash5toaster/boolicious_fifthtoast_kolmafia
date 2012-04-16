@@ -77,7 +77,7 @@ _interviewIsabella=false
 _interviewMasquerade=false
 _interviewVlad=false
 _ironicMoustache=false
-_jackassPlumberGame=true
+_jackassPlumberGame=false
 _jackassePlumberGame
 _jukebox=false
 _klawSummons=0
@@ -622,7 +622,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=100000
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=1
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -630,7 +630,7 @@ cyrptCrannyEvilness=20
 cyrptNicheEvilness=-1
 cyrptNookEvilness=0
 cyrptTotalEvilness=19
-dailyDungeonDone=false
+dailyDungeonDone=true
 dbNemesisSkill1=0
 dbNemesisSkill2=0
 dbNemesisSkill3=0
@@ -699,7 +699,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=The Broodling Grounds
+lastAdventure=Unknown adventure
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -708,20 +708,20 @@ lastBangPotion820
 lastBangPotion821
 lastBangPotion822
 lastBangPotion823
-lastBangPotion824
+lastBangPotion824=blessing
 lastBangPotion825
 lastBangPotion826
 lastBangPotion827
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=1
+lastBreakfast=2
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=12
-lastCounterDay=1
+lastCounterDay=2
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=0
@@ -761,7 +761,7 @@ lastDwarfOreRunes
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
-lastEmptiedStorage=2
+lastEmptiedStorage=-1
 lastEncounter=mother hellseal
 lastFilthClearance=2
 lastFratboyCall=-1
@@ -835,7 +835,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=2
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=5
+libramSummons=8
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -863,11 +863,11 @@ mpAutoRecoveryItems=sleep on your clan sofa;rest at your campground;galaktik's f
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
 noodleSummons=0
-nunsVisits=0
+nunsVisits=3
 oceanAction=savecontinue
 oceanDestination=sphere
 olfactedMonster=wabbit
-oscusSodaUsed=false
+oscusSodaUsed=true
 outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=0
@@ -964,7 +964,7 @@ serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
 showTurnFreeOnly=false
-sideDefeated=neither
+sideDefeated=fratboys
 sidequestArenaCompleted=fratboy
 sidequestFarmCompleted=hippy
 sidequestJunkyardCompleted=fratboy
@@ -1000,8 +1000,8 @@ spookyPuttyMonster=something <i>totally</i> unrecognizable
 stationaryButton1=1022
 stationaryButton2=4009
 stationaryButton3=1003
-stationaryButton4
-stationaryButton5
+stationaryButton4=37
+stationaryButton5=1005
 styxPixieVisited=false
 sugarCounter4178=0
 sugarCounter4179=0
@@ -1023,7 +1023,7 @@ telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=3
+tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
@@ -1070,6 +1070,6 @@ volcanoMaze2
 volcanoMaze3
 volcanoMaze4
 volcanoMaze5
-warProgress=started
+warProgress=finished
 welcomeBackAdv=0
 wineCellarProgress=0
