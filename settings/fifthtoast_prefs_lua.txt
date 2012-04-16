@@ -25,7 +25,7 @@ OptionsFrame=354,275,5
 ProfileFrame=425,323,-1
 RecentEventsFrame=474,284
 RequestFrame=-3,-3,-1
-RequestSynchFrame=-2,-3,-1
+RequestSynchFrame=337,247,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=293,225,3
@@ -220,7 +220,7 @@ birdformStench=0
 blackPuddingsDefeated=9
 blankOutUsed=0
 bootsCharged=false
-borisPoints=0
+borisPoints=2
 breakableHandling=1
 breakableHandling1964=2
 breakfastCompleted=true
@@ -652,7 +652,7 @@ desktopWidth=800
 discardedKarma=0
 distentionPillActive=false
 dolphinItem
-doorCode
+doorCode=849
 expressCardUsed=false
 extraRolloverAdventures=0
 fistSkillsKnown=0
@@ -696,10 +696,10 @@ hpAutoRecovery=0.2
 hpAutoRecoveryItems=medicinal herb's medicinal herbs;scroll of drastic healing;cannelloni cocoon;visit the nuns;red pixel potion;really thick bandage;pok&euml;mann band-aid;filthy poultice;gauze garter;elven medi-pack;generic healing potion;green pixel potion;tongue of the walrus;lasagna bandages;doc galaktik's homeopathic elixir;cast;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent
 hpAutoRecoveryTarget=0.9
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
-kingLiberated=false
+kingLiberated=true
 kingLiberatedScript
 knownAscensions=1
-lastAdventure=Sorceress' Hedge Maze
+lastAdventure=Degrassi Knoll
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -761,14 +761,14 @@ lastDwarfOfficeItem3214
 lastDwarfOreRunes
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
-lastEasterEggBalloon=0
+lastEasterEggBalloon=1
 lastEmptiedStorage=0
-lastEncounter=topiary golem
+lastEncounter=Gnollish War Chef
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
 lastGalleryUnlock=1
-lastGuildStoreOpen=2
+lastGuildStoreOpen=1
 lastGuyMadeOfBeesReset=2
 lastHermitReset=2
 lastHiddenCityAscension=1
@@ -831,7 +831,7 @@ lastTavernAscension=1
 lastTavernSquare=21
 lastTelescopeReset=2
 lastTempleUnlock=1
-lastTowerClimb=0
+lastTowerClimb=1
 lastTr4pz0rQuest=1
 lastVioletFogMap=1
 lastWuTangDefeated=1
@@ -898,7 +898,7 @@ questF02Hyboria=unstarted
 questF03Future=unstarted
 questF04Elves=unstarted
 questF05Clancy=finished
-questG01Meatcar=unstarted
+questG01Meatcar=started
 questG02Whitecastle=unstarted
 questG03Ego=unstarted
 questG04Nemesis=unstarted
@@ -922,7 +922,7 @@ questL11Palindome=finished
 questL11Pyramid=finished
 questL11Worship=finished
 questL12War=finished
-questL13Final=step3
+questL13Final=finished
 questM01Untinker=finished
 questM02Artist=finished
 questM03Bugbear=unstarted
@@ -950,7 +950,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=4076\:Semirare window begin\:lparen.gif\:4116\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -998,10 +998,10 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=11000
-stationaryButton2=11003
-stationaryButton3=11001
-stationaryButton4=11011
+stationaryButton1
+stationaryButton2
+stationaryButton3
+stationaryButton4
 stationaryButton5
 styxPixieVisited=false
 sugarCounter4178=0
