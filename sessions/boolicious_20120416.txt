@@ -1021,3 +1021,616 @@ You lose 204 hit points
 cast 1 Tongue of the Otter
 You gain 17 hit points
 You lose an effect: Beaten Up
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+April 16, 2012 - Jarlsuary 3
+
+Ronald: first quarter
+Grimace: waxing crescent
+Mini-moon: in front of Ronald, R side
+
+Valentine's Day: 9 days
+St. Sneaky Pete's Day: 16 days
+Oyster Egg Day: 23 days
+El Dia De Los Muertos Borrachos: 31 days
+Generic Summer Holiday: 40 days
+Dependence Day: 49 days
+Arrrbor Day: 57 days
+Lab&oacute;r Day: 67 days
+Halloween: 77 days
+Feast of Boris: 84 days
+Yuletide: 89 days
+Festival of Jarlsberg: 94 days
+
+
+2 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 14
+HP: 25 / 515
+MP: 95 / 165
+
+Mus: 320 (185), tnp = 78
+Mys: 165 (136), tnp = 248
+Mox: 198 (135), tnp = 98
+
+Advs: 150
+Meat: 458,894
+Drunk: 0
+
+
+ > equipment
+
+Hat: straw hat
+Weapon: seal-clubbing club
+Off-hand: Hammer of Smiting
+Shirt: cane-mail shirt
+Pants: astral trousers
+
+Acc. 1: frosty halo
+Acc. 2: Pok&euml;mann figurine: Frank
+Acc. 3: Mr. Accessory
+
+Pet: Fancypants Scarecrow (20 lbs)
+Item: gnauga hide skirt
+
+ > skills
+
+Uncategorized
+ - Inappropriate Backrub
+ - Liver of Steel
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Double-Fisted Skull Smashing
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Northern Exposure
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+2 of 3 AT buffs active.
+Izchak's Blessing (10)
+Bubble Vision (57)
+Brilliant Resolve (71)
+Everything Looks Yellow (142)
+Ghostly Shell (244)
+Tenacity of the Snapper (244)
+Jingle Jangle Jingle (244)
+Elemental Saucesphere (244)
+Astral Shell (244)
+♫ Stevedave's Shanty of Superiority (244)
+Empathy (244)
+♫ Cringle's Curative Carol (244)
+Reptilian Fortitude (529)
+Seal Clubbing Frenzy (689)
+Rage of the Reindeer (704)
+
+
+ > modifiers
+
+ML: +20
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +2.50
+Meat: +55.00%
+Item: +153.44%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+use 1 Chester's bag of candy
+
+use 1 Trivial Avocations board game
+
+use 1 creepy voodoo doll
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from Market Demon
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless trinket
+
+cast 8 Summon Resolutions
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be stronger
+
+postwarisland.php?place=nunnery
+
+use 1 Oscus's neverending soda
+
+cast 1 Tongue of the Walrus
+You gain 31 hit points
+
+use 1 scroll of drastic healing
+
+use 3 carbonated soy milk
+You gain 226 Muscularity Points
+
+mallsell: 10 disassembled clover
+
+mallsell: 2 4:20 bomb
+
+mallsell: 2 Ur-Donut
+
+mallsell: 2 forbidden danish
+
+manageprices.php?action=update&price542=260&limit542=0&price594=410&limit594=0&price622=272&limit622=0&price432=120&limit432=0&price3858=250&limit3858=0&price834=190&limit834=0&price472=190&limit472=0&price632=264&limit632=0&price541=240&limit541=0&price399=230&limit399=0&price538=260&limit538=0&price3864=164&limit3864=0&price544=200&limit544=0&price616=258&limit616=0&price497=236&limit497=0&price218=155&limit218=0&price395=196&limit395=0&price2093=230&limit2093=0&price3859=170&limit3859=0&price300=150&limit300=0&price776=190&limit776=0&price312=160&limit312=0&price475=130&limit475=0&price2598=300&limit2598=0&price3844=184&limit3844=0&price836=156&limit836=0&price5103=265&limit5103=0&price239=160&limit239=0&price393=196&limit393=0&price630=288&limit630=1&price299=150&limit299=0&price613=256&limit613=0&price614=256&limit614=0&price1297=200&limit1297=0&price2613=150&limit2613=0&price1=100&limit1=0&price5254=5100&limit5254=0&price2680=300&limit2680=0&price356=220&limit356=0&price2687=400&limit2687=0&price540=108&limit540=0&price4212=380&limit4212=0&price1655=120&limit1655=0&price5280=9000&limit5280=0&price196=2800&limit196=0&price5251=7900&limit5251=0&price5224=9700&limit5224=0
+manageprices.php?action=update&price5224=9700&limit5224=0&price5280=9000&limit5280=0&price5251=7900&limit5251=0&price5254=5100&limit5254=0&price196=2800&limit196=1&price594=410&limit594=0&price2687=400&limit2687=0&price4212=380&limit4212=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price622=272&limit622=0&price5103=265&limit5103=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price299=150&limit299=0&price2613=150&limit2613=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price540=108&limit540=0&price1=100&limit1=0
+
+equip acc2 furniture dolly
+
+use 1 Swabbie&trade; swab
+You acquire an effect: Well-Swabbed Ear (duration: 10 Adventures)
+
+use 1 marzipan skull
+You acquire an effect: Hardly Poisoned at All (duration: 5 Adventures)
+You acquire an effect: Hombre Muerto Caminando (duration: 5 Adventures)
+You acquire an effect: Sugar Rush (duration: 5 Adventures)
+
+[2378] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious loses initiative!
+You lose 138 hit points
+Round 1: boolicious attacks!
+You lose 136 hit points
+Round 2: boolicious attacks!
+You lose 139 hit points
+Round 3: boolicious uses the 4:20 bomb!
+Round 4: mother hellseal takes 489 damage.
+Round 4: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: shredded hellseal hide
+You acquire an item: hellseal whisker
+You acquire an item: hellseal claw
+You gain 79 Fortitude
+You gain a Muscle point!
+You gain 39 Wizardliness
+You gain 30 Roguishness
+
+use 1 scroll of drastic healing
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #38/1200:
+Question: What did Mick Young's dad find under the sink on Boozember first, 1978?
+Answer: A carpenter.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #317/1200:
+Question: When did the Claremont Marketable Hobos win the national sky-diving championship?
+Answer: Martinus 8, 1990.
+
+use 1 Trivial Avocations Card: Where?
+You acquire an effect: You Know Where to Go (duration: 1 Adventure)
+Trivia card #1087/1200:
+Question: Where was the Prime Minister of Shamablamaroth electrocuted for the crime of impersonating the Duke?
+Answer: The Ineffable Skies of Pinochle.
+
+use 1 Trivial Avocations Card: Who?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Where to Go
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #713/1200:
+Question: Who wrote the bestselling autobiography 
+Answer: A kitten named Rocky.
+
+autosell: 9 valuable trinket
+You gain 2,250 Meat
+
+buy 1 blood of the Wereseal for 500 each from Smacketeria
+You acquire an item: blood of the Wereseal
+You spent 500 Meat
+
+use 1 blood of the Wereseal
+You acquire an effect: Temporary Lycanthropy (duration: 10 Adventures)
+
+use 1 cold-filtered water
+You acquire an effect: Purity of Spirit (duration: 10 Adventures)
+Jumping into the Awesome Ball Pit in the clan rumpus room
+
+[2379] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious loses initiative!
+You lose 45 hit points
+Round 1: boolicious attacks!
+Round 2: mother hellseal takes 451 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: hellseal hide
+You acquire an item: hellseal whisker
+You acquire an item: hellseal claw
+You gain 66 Fortitude
+You gain 43 Wizardliness
+You gain 37 Roguishness
+
+[2380] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 7 damage.
+Round 2: boolicious casts CLOBBER!
+Round 3: hellseal pup takes 6 damage.
+You lose 7 hit points
+Round 3: boolicious attacks!
+Round 4: hellseal pup takes 1047 damage.
+Round 4: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: hellseal whisker
+You gain 14 Muscleboundness
+You gain 10 Enchantedness
+You gain 6 Cheek
+
+[2381] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 7 damage.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 1047 damage.
+Round 3: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: hellseal whisker
+You acquire an item: hellseal claw
+You gain 13 Strengthliness
+You gain 8 Magicalness
+You gain 9 Chutzpah
+
+[2382] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: hellseal pup takes 1052 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 19 Fortitude
+You gain 8 Mysteriousness
+You gain 4 Chutzpah
+
+buy 1 Swabbie™ swab for 300 each from 697051 on 20120416
+You acquire an item: Swabbie&trade; swab
+
+use 1 Swabbie&trade; swab
+You acquire an effect: Well-Swabbed Ear (duration: 10 Adventures)
+
+take from closet: 1 effervescent potion of blessing
+You acquire an item: effervescent potion of blessing
+
+use 1 effervescent potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+[2383] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 6 damage.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 1068 damage.
+Round 3: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: hellseal whisker
+You acquire an item: hellseal claw
+You gain 9 Fortitude
+You gain 8 Enchantedness
+You gain 12 Chutzpah
+You gain a Moxie point!
+
+[2384] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 6 damage.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 1066 damage.
+Round 3: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: hellseal whisker
+You gain 13 Strongness
+You gain 8 Mysteriousness
+You gain 9 Chutzpah
+
+use 1 cold-filtered water
+You acquire an effect: Purity of Spirit (duration: 10 Adventures)
+
+buy 1 blood of the Wereseal for 500 each from Smacketeria
+You acquire an item: blood of the Wereseal
+You spent 500 Meat
+
+use 1 blood of the Wereseal
+You acquire an effect: Temporary Lycanthropy (duration: 10 Adventures)
+
+[2385] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 7 damage.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 1063 damage.
+Round 3: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: hellseal claw
+You gain 11 Muscleboundness
+You gain 10 Mysteriousness
+You gain 8 Smarm
+
+[2386] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious loses initiative!
+You lose 820 hit points
+
+cast 1 Tongue of the Walrus
+You gain 40 hit points
+You lose an effect: Beaten Up
+
+cast 14 Tongue of the Walrus
+You gain 489 hit points
+
+use 3 Marquis de Poivre soda
+You gain 104 Muscularity Points
+
+use 1 Marquis de Poivre soda
+You gain 38 Muscularity Points
+
+cast 11 Tongue of the Walrus
+You gain 390 hit points
+
+cast 1 Tongue of the Walrus
+You gain 34 hit points
+
+use 1 Pok&euml;mann band-aid
+You gain 100 hit points
+You acquire an effect: Aided and Abetted (duration: 10 Adventures)
+
+use 1 Pok&euml;mann band-aid
+You gain 100 hit points
+You acquire an effect: Aided and Abetted (duration: 10 Adventures)
+
+[2387] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious loses initiative!
+You lose 546 hit points
+Round 1: boolicious attacks!
+You lose 546 hit points
+Round 2: boolicious uses the boozebomb!
+Round 3: mother hellseal takes 495 damage.
+Round 3: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: burst hellseal brain
+You acquire an item: hellseal claw
+You gain 304 Beefiness
+You gain a Muscle point!
+You gain 109 Mysteriousness
+You gain 125 Sarcasm
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 1,114 hit points
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+use 1 peppermint twist
+You acquire an effect: Peppermint Twisted (duration: 10 Adventures)
+
+use 1 cheap wind-up clock
+You acquire an effect: Ticking Clock (duration: 10 Adventures)
+
+take from closet: 1 jellyfish gel
+You acquire an item: jellyfish gel
+
+use 1 jellyfish gel
+You acquire an effect: Old School Pompadour (duration: 10 Adventures)
+
+buy 1 abominable blubber for 100 each from 2051229 on 20120416
+You acquire an item: abominable blubber
+
+use 1 abominable blubber
+You acquire an effect: Abominably Slippery (duration: 10 Adventures)
+
+buy 1 Okee-Dokee soda for 900 each from 1435328 on 20120416
+You acquire an item: Okee-Dokee soda
+
+use 1 Okee-Dokee soda
+You gain 30 Muscularity Points
+You acquire an effect: Okee-Dokee Go! (duration: 15 Adventures)
+You acquire an effect: Okee-Dokee Computer (duration: 11 Adventures)
+You acquire an effect: Okee-Dokee, Smokee (duration: 14 Adventures)
+You acquire an effect: Sugar Rush (duration: 20 Adventures)
+
+[2388] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious loses initiative!
+You lose 529 hit points
+Round 1: boolicious attacks!
+You lose 527 hit points
+Round 2: boolicious attacks!
+You lose 529 hit points
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 1,062 hit points
+
+use 1 ant agonist
+You acquire an effect: All Fired Up (duration: 10 Adventures)
+
+equip acc2 heart of the volcano
+
+[2389] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious loses initiative!
+You lose 357 hit points
+Round 1: boolicious attacks!
+You lose 358 hit points
+Round 2: boolicious uses the Rain-Doh black box!
+Round 3: boolicious uses the procrastination potion!
+Round 4: boolicious uses the procrastination potion!
+Round 5: boolicious attacks!
+Round 6: mother hellseal takes 49 damage.
+You lose 358 hit points
+
+cast 1 Tongue of the Walrus
+You gain 34 hit points
+You lose an effect: Beaten Up
+
+use 1 scroll of drastic healing
+
+Visiting a Palm Tree Shelter on the Secret Tropical Island Volcano Lair
+
+volcanoisland.php?pwd=c370c21c798a5234645c2be3bc7a8632&action=tuba
+
+[2390] Unknown adventure
+Encounter: mother hellseal
+Round 0: boolicious loses initiative!
+You lose 192 hit points
+Round 1: boolicious uses the procrastination potion!
+Round 2: boolicious attacks!
+You lose 193 hit points
+Round 3: boolicious casts LUNGING THRUST-SMACK!
+Round 4: mother hellseal takes 148 damage.
+You lose 193 hit points
+Round 4: boolicious casts LUNGING THRUST-SMACK!
+Round 5: mother hellseal takes 163 damage.
+Round 5: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: hellseal sinew
+You acquire an item: hellseal whisker
+You acquire an item: hellseal claw
+You gain 145 Strongness
+You gain 64 Wizardliness
+You gain a Mysticality point!
+You gain 72 Chutzpah
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 563 hit points
+
+[2391] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious loses initiative!
+You lose 192 hit points
+Round 1: boolicious casts LUNGING THRUST-SMACK!
+Round 2: mother hellseal takes 151 damage.
+You lose 193 hit points
+Round 2: boolicious casts LUNGING THRUST-SMACK!
+Round 3: mother hellseal takes 147 damage.
+Round 3: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: hellseal hide
+You acquire an item: hellseal whisker
+You acquire an item: hellseal claw
+You gain 142 Fortitude
+You gain 65 Enchantedness
+You gain 72 Cheek
+You gain a Moxie point!
+
+[2392] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious loses initiative!
+You lose 193 hit points
+Round 1: boolicious casts LUNGING THRUST-SMACK!
+Round 2: mother hellseal takes 157 damage.
+You lose 192 hit points
+Round 2: boolicious casts LUNGING THRUST-SMACK!
+Round 3: mother hellseal takes 164 damage.
+Round 3: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: hellseal sinew
+You acquire an item: hellseal whisker
+You acquire an item: hellseal claw
+You gain 153 Muscleboundness
+You gain a Muscle point!
+You gain 68 Magicalness
+You gain 59 Roguishness
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 733 hit points
+
+[2393] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious loses initiative!
+You lose 193 hit points
+Round 1: boolicious casts LUNGING THRUST-SMACK!
+Round 2: mother hellseal takes 165 damage.
+You lose 191 hit points
+Round 2: boolicious casts LUNGING THRUST-SMACK!
+Round 3: mother hellseal takes 156 damage.
+Round 3: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: hellseal brain
+You acquire an item: hellseal whisker
+You acquire an item: hellseal claw
+You gain 138 Fortitude
+You gain 80 Mysteriousness
+You gain 62 Roguishness
+
+use 4 filthy poultice
+You gain 395 hit points
+
+use 3 Dyspepsi-Cola
+You gain 37 Muscularity Points
+
+use 6 carbonated soy milk
+You gain 473 Muscularity Points
+
+[2394] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious loses initiative!
+You lose 191 hit points
+Round 1: boolicious casts LUNGING THRUST-SMACK!
+Round 2: mother hellseal takes 174 damage.
+You lose 192 hit points
+Round 2: boolicious casts LUNGING THRUST-SMACK!
+Round 3: mother hellseal takes 166 damage.
+Round 3: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: hellseal sinew
+You acquire an item: hellseal whisker
+You gain 153 Fortitude
+You gain a Muscle point!
+You gain 69 Magicalness
+You gain a Mysticality point!
+You gain 59 Chutzpah
+
+manageprices.php?action=update&price5224=9700&limit5224=0&price5280=9000&limit5280=0&price5251=7900&limit5251=0&price5254=5100&limit5254=0&price196=2800&limit196=1&price594=410&limit594=0&price2687=400&limit2687=0&price4212=380&limit4212=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price622=272&limit622=0&price5103=265&limit5103=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price299=150&limit299=0&price2613=150&limit2613=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price540=108&limit540=0&price1=100&limit1=0
