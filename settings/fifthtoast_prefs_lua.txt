@@ -615,7 +615,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=5
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -717,13 +717,13 @@ lastBangPotion827=blessing
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=2
+lastBreakfast=3
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=3
-lastCounterDay=2
+lastCounterDay=3
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=0
@@ -882,7 +882,7 @@ pastamancerOrbedExperience=0
 pastamancerOrbedName
 pastamancerOrbedType
 pendingMapReflections=0
-photocopyMonster
+photocopyMonster=monster
 plantingDate
 plantingDay=-1
 plantingLength=0
