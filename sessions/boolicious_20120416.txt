@@ -1634,3 +1634,1060 @@ You gain a Mysticality point!
 You gain 59 Chutzpah
 
 manageprices.php?action=update&price5224=9700&limit5224=0&price5280=9000&limit5280=0&price5251=7900&limit5251=0&price5254=5100&limit5254=0&price196=2800&limit196=1&price594=410&limit594=0&price2687=400&limit2687=0&price4212=380&limit4212=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price630=288&limit630=1&price622=272&limit622=0&price5103=265&limit5103=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price356=220&limit356=0&price544=200&limit544=0&price1297=200&limit1297=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price299=150&limit299=0&price2613=150&limit2613=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price540=108&limit540=0&price1=100&limit1=0
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+April 16, 2012 - Jarlsuary 3
+
+Ronald: first quarter
+Grimace: waxing crescent
+Mini-moon: in front of Ronald, R side
+
+Valentine's Day: 9 days
+St. Sneaky Pete's Day: 16 days
+Oyster Egg Day: 23 days
+El Dia De Los Muertos Borrachos: 31 days
+Generic Summer Holiday: 40 days
+Dependence Day: 49 days
+Arrrbor Day: 57 days
+Lab&oacute;r Day: 67 days
+Halloween: 77 days
+Feast of Boris: 84 days
+Yuletide: 89 days
+Festival of Jarlsberg: 94 days
+
+
+2 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 14
+HP: 858 / 1,218
+MP: 442 / 459
+
+Mus: 789 (189), tnp = 323
+Mys: 459 (138), tnp = 211
+Mox: 522 (137), tnp = 82
+
+Advs: 133
+Meat: 506,194
+Drunk: 0
+
+
+ > equipment
+
+Hat: straw hat
+Weapon: seal-clubbing club
+Off-hand: Hammer of Smiting
+Shirt: cane-mail shirt
+Pants: astral trousers
+
+Acc. 1: frosty halo
+Acc. 2: heart of the volcano
+Acc. 3: Mr. Accessory
+
+Pet: Fancypants Scarecrow (20 lbs)
+Item: gnauga hide skirt
+
+ > skills
+
+Uncategorized
+ - Inappropriate Backrub
+ - Liver of Steel
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Double-Fisted Skull Smashing
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Northern Exposure
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+2 of 3 AT buffs active.
+Abominably Slippery (3)
+Old School Pompadour (3)
+Peppermint Twisted (3)
+Izchak's Blessing (3)
+Ticking Clock (3)
+Well-Swabbed Ear (3)
+Purity of Spirit (4)
+Temporary Lycanthropy (4)
+Okee-Dokee Computer (4)
+All Fired Up (4)
+Okee-Dokee, Smokee (7)
+Okee-Dokee Go! (8)
+Aided and Abetted (12)
+Sugar Rush (13)
+Trivia Master (14)
+Bubble Vision (40)
+Brilliant Resolve (54)
+Everything Looks Yellow (125)
+♫ Cringle's Curative Carol (227)
+Jingle Jangle Jingle (227)
+Astral Shell (227)
+Tenacity of the Snapper (227)
+Empathy (227)
+♫ Stevedave's Shanty of Superiority (227)
+Elemental Saucesphere (227)
+Ghostly Shell (227)
+Reptilian Fortitude (512)
+Seal Clubbing Frenzy (672)
+Rage of the Reindeer (687)
+
+
+ > modifiers
+
+ML: +30
+Enc: +0.00%
+Init: +220.00%
+
+Exp: +3.75
+Meat: +105.00%
+Item: +170.44%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 5 Summon Resolutions
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be more adventurous
+unequip weapon
+unequip offhand
+
+equip shirt General Sage's Lonely Diamonds Club Jacket
+
+equip acc1 time halo
+
+equip acc2 fudgecycle
+
+equip acc3 wristwatch of the white knight
+
+cast 1 Summon Clip Art
+You acquire an item: cold-filtered water
+
+cast 1 Summon Clip Art
+You acquire an item: cold-filtered water
+
+cast 1 Summon Clip Art
+You acquire an item: cold-filtered water
+
+Buy and drink 1 Saison du Lune for 300 Meat
+You gain 7 Adventures
+You gain 19 Wizardliness
+You gain 22 Cheek
+You gain 3 Drunkenness
+You spent 300 Meat
+
+Buy and drink 1 Saison du Lune for 300 Meat
+You gain 9 Adventures
+You gain 13 Magicalness
+You gain 34 Cheek
+You gain 3 Drunkenness
+You spent 300 Meat
+
+Buy and drink 1 Saison du Lune for 300 Meat
+You gain 9 Adventures
+You gain 17 Enchantedness
+You gain 39 Chutzpah
+You gain a Moxie point!
+You gain 3 Drunkenness
+You spent 300 Meat
+
+Buy and drink 1 Saison du Lune for 300 Meat
+You gain 10 Adventures
+You gain 19 Magicalness
+You gain 31 Roguishness
+You gain 3 Drunkenness
+You spent 300 Meat
+
+Buy and drink 1 Saison du Lune for 300 Meat
+You gain 9 Adventures
+You gain 16 Wizardliness
+You gain 28 Cheek
+You gain 3 Drunkenness
+You spent 300 Meat
+
+Buy and drink 1 Saison du Lune for 300 Meat
+You gain 8 Adventures
+You gain 15 Wizardliness
+You gain 23 Roguishness
+You gain 3 Drunkenness
+You spent 300 Meat
+
+Visiting the Bounty Hunter Hunter
+
+abandon bounty assignment
+
+accept bounty assignment to collect 40 billy idols
+
+[2395] Goatlet
+Encounter: dairy goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious uses the smoky potion!
+Round 2: boolicious attacks!
+Round 3: dairy goat takes 213 damage.
+Round 3: boolicious wins the fight!
+You gain 98 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: goat cheese
+You acquire an item: billy idol
+You gain 9 Muscleboundness
+You gain 11 Mysteriousness
+You gain 2 Chutzpah
+
+[2396] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious uses the dark potion!
+Round 2: sabre-toothed goat drops 3 attack power.
+Round 2: sabre-toothed goat drops 2 defense.
+Round 2: boolicious attacks!
+Round 3: sabre-toothed goat takes 216 damage.
+Round 3: boolicious wins the fight!
+You gain 96 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 14 Fortitude
+You gain 4 Mysteriousness
+You gain 5 Sarcasm
+
+[2397] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious uses the cloudy potion!
+Round 2: boolicious attacks!
+Round 3: sabre-toothed goat takes 217 damage.
+Round 3: boolicious wins the fight!
+You gain 93 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: goat beard
+You acquire an item: billy idol
+You gain 10 Strongness
+You gain 6 Enchantedness
+You gain 6 Roguishness
+
+[2398] Goatlet
+Encounter: drunk goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious uses the fizzy potion!
+Round 2: boolicious attacks!
+Round 3: drunk goat takes 234 damage.
+Round 3: boolicious wins the fight!
+You gain 68 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: bottle of whiskey
+You acquire an item: billy idol
+You gain 11 Muscleboundness
+You gain 4 Enchantedness
+You gain 4 Roguishness
+
+[2399] Goatlet
+Encounter: drunk goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious uses the milky potion!
+Round 2: boolicious attacks!
+Round 3: drunk goat takes 124 damage.
+Round 3: boolicious wins the fight!
+You gain 67 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 11 Fortitude
+You gain 4 Mysteriousness
+You gain 6 Sarcasm
+
+[2400] Goatlet
+Encounter: drunk goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: drunk goat takes 120 damage.
+Round 2: boolicious wins the fight!
+You gain 65 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: bottle of whiskey
+You acquire an item: billy idol
+You gain 8 Strongness
+You gain 5 Wizardliness
+You gain 7 Chutzpah
+
+[2401] Goatlet
+Encounter: drunk goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: drunk goat takes 120 damage.
+Round 2: boolicious wins the fight!
+You gain 61 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: bottle of whiskey
+You acquire an item: billy idol
+You gain 8 Strengthliness
+You gain 6 Magicalness
+You gain 6 Chutzpah
+
+[2402] Goatlet
+Encounter: dairy goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dairy goat takes 123 damage.
+Round 2: boolicious wins the fight!
+You gain 79 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: goat cheese
+You acquire an item: glass of goat's milk
+You acquire an item: billy idol
+You gain 11 Fortitude
+You gain 7 Mysteriousness
+You gain 2 Sarcasm
+
+cast 11 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 55 Adventures)
+
+[2403] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sabre-toothed goat takes 124 damage.
+Round 2: boolicious wins the fight!
+You gain 79 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 13 Beefiness
+You gain 5 Enchantedness
+You gain 3 Chutzpah
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 4 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 20 Adventures)
+
+[2404] Goatlet
+Encounter: Puddle Puncher
+You acquire an item: figurine of a cold seal
+
+[2404] Goatlet
+Encounter: Puddle Puncher
+You acquire an item: figurine of a cold seal
+
+[2404] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sabre-toothed goat takes 120 damage.
+Round 2: boolicious wins the fight!
+You gain 71 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 7 Fortitude
+You gain 9 Mysteriousness
+You gain 4 Cheek
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 8 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 40 Adventures)
+
+[2405] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sabre-toothed goat takes 120 damage.
+Round 2: boolicious wins the fight!
+You gain 75 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 15 Muscleboundness
+You gain 6 Wizardliness
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+[2406] Goatlet
+Encounter: dairy goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dairy goat takes 120 damage.
+Round 2: boolicious wins the fight!
+You gain 63 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: goat cheese
+You acquire an item: glass of goat's milk
+You acquire an item: billy idol
+You gain 11 Strengthliness
+You gain 6 Wizardliness
+You gain 2 Chutzpah
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[2407] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sabre-toothed goat takes 121 damage.
+Round 2: boolicious wins the fight!
+You gain 88 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 11 Fortitude
+You gain 5 Mysteriousness
+You gain 3 Sarcasm
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 2 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 10 Adventures)
+
+[2408] Goatlet
+Encounter: drunk goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: drunk goat takes 117 damage.
+Round 2: boolicious wins the fight!
+You gain 67 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: bottle of whiskey
+You acquire an item: billy idol
+You gain 8 Strengthliness
+You gain 8 Magicalness
+You gain 4 Sarcasm
+
+cast 7 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 70 Adventures)
+
+cast 5 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 25 Adventures)
+
+[2409] Goatlet
+Encounter: dairy goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dairy goat takes 48 damage.
+Round 2: boolicious attacks!
+Round 3: dairy goat takes 48 damage.
+Round 3: boolicious wins the fight!
+You gain 67 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: goat cheese
+You acquire an item: glass of goat's milk
+You acquire an item: billy idol
+You gain 9 Fortitude
+You gain 4 Mysteriousness
+You gain 6 Chutzpah
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 5 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 25 Adventures)
+
+[2410] Goatlet
+Encounter: dairy goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dairy goat takes 45 damage.
+Round 2: boolicious attacks!
+Round 3: dairy goat takes 45 damage.
+Round 3: boolicious wins the fight!
+You gain 67 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: goat cheese
+You acquire an item: billy idol
+You gain 7 Muscleboundness
+You gain 7 Mysteriousness
+You gain 6 Sarcasm
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 8 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 40 Adventures)
+
+[2411] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sabre-toothed goat takes 52 damage.
+Round 2: boolicious wins the fight!
+You gain 81 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 8 Strongness
+You gain 8 Mysteriousness
+You gain 4 Smarm
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+[2412] Goatlet
+Encounter: drunk goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: drunk goat takes 49 damage.
+Round 2: boolicious attacks!
+Round 3: drunk goat takes 49 damage.
+Round 3: boolicious wins the fight!
+You gain 63 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 14 Fortitude
+You gain 5 Enchantedness
+You gain 2 Roguishness
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 2 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 10 Adventures)
+
+[2413] Goatlet
+Encounter: Puddle Puncher
+You acquire an item: figurine of a cold seal
+
+[2413] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sabre-toothed goat takes 48 damage.
+Round 2: boolicious attacks!
+Round 3: sabre-toothed goat takes 48 damage.
+Round 3: boolicious wins the fight!
+You gain 64 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 8 Strengthliness
+You gain 7 Magicalness
+You gain a Mysticality point!
+You gain 5 Sarcasm
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+[2414] Goatlet
+Encounter: drunk goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: drunk goat takes 46 damage.
+Round 2: boolicious attacks!
+Round 3: drunk goat takes 46 damage.
+Round 3: boolicious wins the fight!
+You gain 70 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: goat beard
+You acquire an item: billy idol
+You gain 13 Fortitude
+You gain 3 Enchantedness
+You gain 6 Roguishness
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 9 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 45 Adventures)
+
+[2415] Goatlet
+Encounter: dairy goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dairy goat takes 46 damage.
+Round 2: boolicious attacks!
+Round 3: dairy goat takes 46 damage.
+Round 3: boolicious wins the fight!
+You gain 77 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: goat cheese
+You acquire an item: billy idol
+You gain 10 Strongness
+You gain 7 Wizardliness
+You gain 3 Roguishness
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 2 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 10 Adventures)
+
+[2416] Goatlet
+Encounter: drunk goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: drunk goat takes 46 damage.
+You lose 5 hit points
+Round 2: boolicious attacks!
+Round 3: drunk goat takes 46 damage.
+Round 3: boolicious wins the fight!
+You gain 56 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 11 Beefiness
+You gain 7 Mysteriousness
+You gain 2 Smarm
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 4 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 20 Adventures)
+
+[2417] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sabre-toothed goat takes 45 damage.
+Round 2: boolicious attacks!
+Round 3: sabre-toothed goat takes 45 damage.
+Round 3: boolicious wins the fight!
+You gain 81 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 11 Fortitude
+You gain 8 Magicalness
+You gain 1 Roguishness
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 3 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 15 Adventures)
+
+[2418] Goatlet
+Encounter: dairy goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dairy goat takes 46 damage.
+You lose 6 hit points
+Round 2: boolicious attacks!
+Round 3: dairy goat takes 46 damage.
+Round 3: boolicious wins the fight!
+You gain 74 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: goat cheese
+You acquire an item: glass of goat's milk
+You acquire an item: billy idol
+You gain 13 Strengthliness
+You gain 6 Magicalness
+You gain 2 Cheek
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 1 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 5 Adventures)
+
+[2419] Goatlet
+Encounter: dairy goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dairy goat takes 46 damage.
+Round 2: boolicious attacks!
+Round 3: dairy goat takes 46 damage.
+Round 3: boolicious wins the fight!
+You gain 74 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: goat cheese
+You acquire an item: billy idol
+You gain 8 Strengthliness
+You gain 10 Magicalness
+You gain 1 Smarm
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+[2420] Goatlet
+Encounter: dairy goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dairy goat takes 51 damage.
+Round 2: boolicious wins the fight!
+You gain 70 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: goat cheese
+You acquire an item: glass of goat's milk
+You acquire an item: billy idol
+You gain 10 Fortitude
+You gain 4 Magicalness
+You gain 6 Sarcasm
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 2 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 10 Adventures)
+
+[2421] Goatlet
+Encounter: dairy goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dairy goat takes 49 damage.
+Round 2: boolicious wins the fight!
+You gain 75 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: goat cheese
+You acquire an item: glass of goat's milk
+You acquire an item: billy idol
+You gain 10 Strongness
+You gain 6 Enchantedness
+You gain 4 Roguishness
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 7 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 35 Adventures)
+
+[2422] Goatlet
+Encounter: Puddle Puncher
+You acquire an item: figurine of a cold seal
+
+[2422] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sabre-toothed goat takes 48 damage.
+Round 2: boolicious attacks!
+Round 3: sabre-toothed goat takes 48 damage.
+Round 3: boolicious wins the fight!
+You gain 81 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 8 Beefiness
+You gain 7 Magicalness
+You gain 5 Chutzpah
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+[2423] Goatlet
+Encounter: drunk goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: drunk goat takes 45 damage.
+Round 2: boolicious attacks!
+Round 3: drunk goat takes 45 damage.
+Round 3: boolicious wins the fight!
+You gain 61 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: bottle of whiskey
+You acquire an item: billy idol
+You gain 4 Strongness
+You gain 9 Wizardliness
+You gain 6 Roguishness
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[2424] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sabre-toothed goat takes 46 damage.
+Round 2: boolicious attacks!
+Round 3: sabre-toothed goat takes 46 damage.
+Round 3: boolicious wins the fight!
+You gain 74 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 10 Fortitude
+You gain 5 Mysteriousness
+You gain 5 Chutzpah
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 1 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 5 Adventures)
+
+[2425] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sabre-toothed goat takes 46 damage.
+Round 2: boolicious attacks!
+Round 3: sabre-toothed goat takes 46 damage.
+Round 3: boolicious wins the fight!
+You gain 71 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 13 Beefiness
+You gain 6 Magicalness
+You gain 2 Smarm
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 1 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 5 Adventures)
+
+[2426] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sabre-toothed goat takes 46 damage.
+Round 2: boolicious attacks!
+Round 3: sabre-toothed goat takes 46 damage.
+Round 3: boolicious wins the fight!
+You gain 72 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 8 Fortitude
+You gain 9 Mysteriousness
+You gain 3 Chutzpah
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 8 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 40 Adventures)
+
+[2427] Goatlet
+Encounter: dairy goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dairy goat takes 48 damage.
+Round 2: boolicious attacks!
+Round 3: dairy goat takes 48 damage.
+Round 3: Heckel &amp; Jeckyl's bells jingle merrily.
+Round 3: boolicious wins the fight!
+You gain 81 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: goat cheese
+You acquire an item: glass of goat's milk
+You acquire an item: billy idol
+You gain 14 Beefiness
+You gain a Muscle point!
+You gain 5 Mysteriousness
+You gain 2 Cheek
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[2428] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sabre-toothed goat takes 46 damage.
+Round 2: boolicious attacks!
+Round 3: sabre-toothed goat takes 46 damage.
+Round 3: boolicious wins the fight!
+You gain 74 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 8 Strongness
+You gain 9 Enchantedness
+You gain 3 Chutzpah
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 2 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 10 Adventures)
+
+[2429] Goatlet
+Encounter: drunk goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: drunk goat takes 49 damage.
+Round 2: boolicious attacks!
+Round 3: drunk goat takes 49 damage.
+Round 3: boolicious wins the fight!
+You gain 71 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: bottle of whiskey
+You acquire an item: billy idol
+You gain 7 Beefiness
+You gain 8 Magicalness
+You gain 5 Roguishness
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+[2430] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sabre-toothed goat takes 46 damage.
+You lose 6 hit points
+Round 2: boolicious attacks!
+Round 3: sabre-toothed goat takes 46 damage.
+Round 3: boolicious wins the fight!
+You gain 77 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 10 Fortitude
+You gain 4 Wizardliness
+You gain 6 Smarm
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 2 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 10 Adventures)
+
+[2431] Goatlet
+Encounter: dairy goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dairy goat takes 52 damage.
+Round 2: boolicious wins the fight!
+You gain 82 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: goat cheese
+You acquire an item: glass of goat's milk
+You acquire an item: billy idol
+You gain 10 Strongness
+You gain 7 Mysteriousness
+You gain 3 Chutzpah
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 6 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 30 Adventures)
+
+[2432] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sabre-toothed goat takes 48 damage.
+Round 2: boolicious attacks!
+Round 3: sabre-toothed goat takes 48 damage.
+Round 3: boolicious wins the fight!
+You gain 72 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 10 Beefiness
+You gain 5 Mysteriousness
+You gain 5 Cheek
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 3 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 15 Adventures)
+
+[2433] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sabre-toothed goat takes 45 damage.
+Round 2: boolicious attacks!
+Round 3: sabre-toothed goat takes 45 damage.
+Round 3: boolicious wins the fight!
+You gain 67 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 9 Beefiness
+You gain 7 Magicalness
+You gain 3 Sarcasm
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 4 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 20 Adventures)
+
+[2434] Goatlet
+Encounter: Puddle Puncher
+You acquire an item: figurine of a cold seal
+
+[2434] Goatlet
+Encounter: sabre-toothed goat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sabre-toothed goat takes 52 damage.
+Round 2: boolicious wins the fight!
+You gain 85 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: billy idol
+You gain 11 Muscleboundness
+You gain 4 Mysteriousness
+You gain 5 Smarm
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 3 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 15 Adventures)
+
+[2435] Daily Dungeon (Room 0)
+
+[2435] Daily Dungeon (Room 0)

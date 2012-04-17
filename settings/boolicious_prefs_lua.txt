@@ -114,6 +114,7 @@ _smilesOfMrA=0
 _stinkyCheeseCount=0
 _stressBallSqueezes=0
 _syntheticDogHairPillUsed=false
+_templeHiddenPower=false
 _thingfinderCasts=0
 _timeHelmetAdv=0
 _toastSummons=3
@@ -613,7 +614,7 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=2100
+currentBountyItem=0
 currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
@@ -699,18 +700,18 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=Unknown adventure
+lastAdventure=Daily Dungeon (Room 0)
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
-lastBangPotion819
+lastBangPotion819=inebriety
 lastBangPotion820
 lastBangPotion821
-lastBangPotion822
-lastBangPotion823
+lastBangPotion822=detection
+lastBangPotion823=ettin strength
 lastBangPotion824=blessing
-lastBangPotion825
-lastBangPotion826
+lastBangPotion825=sleepiness
+lastBangPotion826=confusion
 lastBangPotion827
 lastBangPotionReset=2
 lastBarrelSmashed=0
@@ -762,7 +763,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=-1
-lastEncounter=mother hellseal
+lastEncounter=sabre-toothed goat
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -829,13 +830,15 @@ lastStoneSphereReset=2
 lastTavernAscension=2
 lastTavernSquare=21
 lastTelescopeReset=2
-lastTempleUnlock=1
+lastTempleAdventures=-1
+lastTempleButtonsUnlock=-1
+lastTempleUnlock=2
 lastTowerClimb=1
 lastTr4pz0rQuest=1
 lastVioletFogMap=2
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=8
+libramSummons=15
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -1023,7 +1026,7 @@ telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=0
+tomeSummons=3
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
