@@ -1,5 +1,5 @@
 =1
-AdventureFrame=1529,0,1
+AdventureFrame=2480,300,1
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=742,435
@@ -615,7 +615,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2103
-currentFullness=4
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation=out by that rusted-out car
 currentJunkyardTool=molybdenum screwdriver
@@ -697,10 +697,10 @@ hpAutoRecovery=-0.05
 hpAutoRecoveryItems=medicinal herb's medicinal herbs;really thick bandage;tongue of the walrus;lasagna bandages;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent
 hpAutoRecoveryTarget=0.8
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
-kingLiberated=false
+kingLiberated=true
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=Sorceress Tower\: Shadow Fight
+lastAdventure=Wartime Sonofa Beach
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -716,13 +716,13 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=4
+lastBreakfast=5
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard=BQc2,BRg2,BKh2,BNe3,BNb4,BRe4,BBc5,BRf5,BBa6,WRe6,BBc8
 lastCouncilVisit=14
-lastCounterDay=4
+lastCounterDay=5
 lastDispensaryOpen=-1
 lastDoorCodeReset=2
 lastDustyBottle2271=5
@@ -761,9 +761,9 @@ lastDwarfOfficeItem3214
 lastDwarfOreRunes
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
-lastEasterEggBalloon=1
+lastEasterEggBalloon=2
 lastEmptiedStorage=2
-lastEncounter=Shadow Seal Clubber
+lastEncounter=Zerg Rush
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=2
@@ -838,7 +838,7 @@ lastTr4pz0rQuest=2
 lastVioletFogMap=2
 lastWuTangDefeated=1
 lastZapperWand=2
-libramSummons=10
+libramSummons=11
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=0
@@ -903,7 +903,7 @@ questF05Clancy=unstarted
 questG01Meatcar=finished
 questG02Whitecastle=unstarted
 questG03Ego=unstarted
-questG04Nemesis=started
+questG04Nemesis=finished
 questG05Dark=finished
 questG06Delivery=unstarted
 questI01Scapegoat=unstarted
@@ -924,7 +924,7 @@ questL11Palindome=finished
 questL11Pyramid=finished
 questL11Worship=finished
 questL12War=finished
-questL13Final=step5
+questL13Final=finished
 questM01Untinker=finished
 questM02Artist=finished
 questM03Bugbear=unstarted
@@ -952,7 +952,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=2794\:Semirare window begin loc\=*\:lparen.gif\:2834\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -961,8 +961,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=980
-semirareLocation=Haunted Billiards Room
+semirareCounter=2634
+semirareLocation=8-Bit Realm
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
