@@ -1669,3 +1669,101 @@ You lose 25 hit points
 After Battle: unspecified macro action?
 After Battle: basic elemental takes 36 damage.
 You lose 26 hit points
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+April 22, 2012 - Frankruary 1
+
+Ronald: new moon
+Grimace: full moon
+Mini-moon: front center
+
+Valentine's Day: 3 days
+St. Sneaky Pete's Day: 10 days
+Oyster Egg Day: 17 days
+El Dia De Los Muertos Borrachos: 25 days
+Generic Summer Holiday: 34 days
+Dependence Day: 43 days
+Arrrbor Day: 51 days
+Lab&oacute;r Day: 61 days
+Halloween: 71 days
+Feast of Boris: 78 days
+Yuletide: 83 days
+Festival of Jarlsberg: 88 days
+
+
+Muscle bonus today and tomorrow.
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 5
+HP: 0 / 72
+MP: 4 / 22
+
+Mus: 37 (28), tnp = 22
+Mys: 22 (14), tnp = 4
+Mox: 23 (16), tnp = 31
+
+Advs: 81
+Meat: 1,904
+Drunk: 0
+
+
+ > equipment
+
+Hat: viking helmet
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: Knob Goblin Uberpants
+
+Acc. 1: shiny ring
+Acc. 2: Pine-Fresh air freshener
+Acc. 3: dirty hobo gloves
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Avatar Of Boris
+ - Big Boned
+ - Cleave
+ - Demand Sandwich
+ - Intimidating Bellow
+ - Laugh It Off
+ - Legendary Bravado
+ - Legendary Girth
+ - Mighty Axing
+ - Song of the Glorious Lunch
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Beaten Up (3)
+Steroid Boost (4)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
