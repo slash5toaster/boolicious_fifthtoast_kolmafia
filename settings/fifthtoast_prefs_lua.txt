@@ -29,7 +29,7 @@ RequestSynchFrame=337,247,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=293,225,3
-TabbedChatFrame=761,91,0
+TabbedChatFrame=761,92,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -615,7 +615,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=3
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -623,7 +623,7 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=97014
 currentPvpVictories
-currentSpleenUse=1
+currentSpleenUse=0
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -700,7 +700,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=Outskirts of The Knob
+lastAdventure=Menagerie 1
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -717,13 +717,13 @@ lastBangPotion827=blessing
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=6
+lastBreakfast=8
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=4
-lastCounterDay=6
+lastCouncilVisit=5
+lastCounterDay=8
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=0
@@ -764,7 +764,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=0
-lastEncounter=sleeping Knob Goblin Guard
+lastEncounter=BASIC Elemental
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -912,8 +912,8 @@ questI02Beat=unstarted
 questI02Beat =unstarted
 questL02Larva=finished
 questL03Rat=finished
-questL04Bat=started
-questL05Goblin=unstarted
+questL04Bat=finished
+questL05Goblin=finished
 questL06Friar=unstarted
 questL07Cyrptic=unstarted
 questL08Trapper=unstarted
@@ -931,7 +931,7 @@ questM02Artist=finished
 questM03Bugbear=unstarted
 questM04Galaktic=started
 questM05Toot=unstarted
-questM06Gourd=started
+questM06Gourd=finished
 questM07Hammer=unstarted
 questM08Baker=unstarted
 questM09Rocks=unstarted
@@ -1001,9 +1001,9 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster
-stationaryButton1
-stationaryButton2
-stationaryButton3
+stationaryButton1=11001
+stationaryButton2=11011
+stationaryButton3=11000
 stationaryButton4
 stationaryButton5
 styxPixieVisited=false
