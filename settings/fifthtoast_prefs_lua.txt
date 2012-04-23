@@ -614,7 +614,7 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=0
+currentBountyItem=2413
 currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
@@ -700,7 +700,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=Menagerie 1
+lastAdventure=Dark Neck of the Woods
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -717,13 +717,13 @@ lastBangPotion827=blessing
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=8
+lastBreakfast=9
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=5
-lastCounterDay=8
+lastCouncilVisit=6
+lastCounterDay=9
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=0
@@ -764,7 +764,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=0
-lastEncounter=BASIC Elemental
+lastEncounter=How Do We Do It? Quaint and Curious Volume\!
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
