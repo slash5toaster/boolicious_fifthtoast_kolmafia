@@ -24,7 +24,7 @@ MushroomFrame=305,324,1
 OptionsFrame=354,275,5
 ProfileFrame=425,323,-1
 RecentEventsFrame=474,284
-RequestFrame=-3,-3,-1
+RequestFrame=338,248,-1
 RequestSynchFrame=337,247,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
@@ -56,7 +56,7 @@ _companionshipCasts=0
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=3
+_demandSandwich=6
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -615,7 +615,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2413
-currentFullness=0
+currentFullness=20
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -631,7 +631,7 @@ cyrptCrannyEvilness=0
 cyrptNicheEvilness=0
 cyrptNookEvilness=0
 cyrptTotalEvilness=20
-dailyDungeonDone=false
+dailyDungeonDone=true
 dbNemesisSkill1=0
 dbNemesisSkill2=0
 dbNemesisSkill3=0
@@ -676,7 +676,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=6
@@ -694,13 +694,13 @@ hiddenCityLayout=EEEWEEEEEEFEELTANEEEEEEEE
 hiddenCitySquare=0
 hippiesDefeated=0
 hpAutoRecovery=-0.05
-hpAutoRecoveryItems=medicinal herb's medicinal herbs;scroll of drastic healing;cannelloni cocoon;visit the nuns;red pixel potion;really thick bandage;pok&euml;mann band-aid;filthy poultice;gauze garter;elven medi-pack;generic healing potion;green pixel potion;tongue of the walrus;lasagna bandages;doc galaktik's homeopathic elixir;cast;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent
+hpAutoRecoveryItems=sleep on your clan sofa;medicinal herb's medicinal herbs;scroll of drastic healing;cannelloni cocoon;visit the nuns;red pixel potion;really thick bandage;pok&euml;mann band-aid;filthy poultice;gauze garter;elven medi-pack;generic healing potion;generic restorative potion;green pixel potion;tongue of the walrus;lasagna bandages;doc galaktik's homeopathic elixir;cast;sugar shard;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent
 hpAutoRecoveryTarget=0.9
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=Dark Neck of the Woods
+lastAdventure=Haiku Dungeon
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -764,10 +764,10 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=0
-lastEncounter=How Do We Do It? Quaint and Curious Volume\!
+lastEncounter=Gravy Fairy Ring
 lastFilthClearance=1
 lastFratboyCall=-1
-lastFriarCeremonyAscension=1
+lastFriarCeremonyAscension=2
 lastGalleryUnlock=1
 lastGuildStoreOpen=1
 lastGuyMadeOfBeesReset=2
@@ -914,7 +914,7 @@ questL02Larva=finished
 questL03Rat=finished
 questL04Bat=finished
 questL05Goblin=finished
-questL06Friar=unstarted
+questL06Friar=finished
 questL07Cyrptic=unstarted
 questL08Trapper=unstarted
 questL09Lol=unstarted
@@ -953,7 +953,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=419\:Semirare window begin\:lparen.gif\:459\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -962,8 +962,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=3916
-semirareLocation=Hidden City (Encounter)
+semirareCounter=259
+semirareLocation=Dark Elbow of the Woods
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
