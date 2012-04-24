@@ -24,7 +24,7 @@ MushroomFrame=2544,410,0
 OptionsFrame=2533,375,-1
 ProfileFrame=1916,-4,-1
 RecentEventsFrame=474,284
-RequestFrame=1916,-4,-1
+RequestFrame=2575,334,-1
 RequestSynchFrame=1916,-4,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
@@ -224,7 +224,7 @@ bootsCharged=false
 borisPoints=0
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=false
+breakfastCompleted=true
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
@@ -245,7 +245,7 @@ choiceAdventure10=3
 choiceAdventure105=3
 choiceAdventure106=4
 choiceAdventure107=4
-choiceAdventure108=4
+choiceAdventure108=2
 choiceAdventure109=1
 choiceAdventure11=2
 choiceAdventure110=4
@@ -358,8 +358,8 @@ choiceAdventure23=3
 choiceAdventure230=2
 choiceAdventure24=2
 choiceAdventure25=2
-choiceAdventure26=2
-choiceAdventure27=2
+choiceAdventure26=1
+choiceAdventure27=1
 choiceAdventure272=1
 choiceAdventure273=3
 choiceAdventure276=1
@@ -516,11 +516,11 @@ choiceAdventure491=0
 choiceAdventure496=1
 choiceAdventure497=0
 choiceAdventure5=0
-choiceAdventure502=1
+choiceAdventure502=2
 choiceAdventure503=1
 choiceAdventure504=0
-choiceAdventure505=0
-choiceAdventure506=0
+choiceAdventure505=1
+choiceAdventure506=1
 choiceAdventure507=0
 choiceAdventure509=1
 choiceAdventure510=1
@@ -700,7 +700,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Cobb's Knob Barracks
+lastAdventure=Spooky Forest
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -716,13 +716,13 @@ lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=-1
+lastBreakfast=10
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard=BQc2,BRg2,BKh2,BNe3,BNb4,BRe4,BBc5,BRf5,BBa6,WRe6,BBc8
-lastCouncilVisit=14
-lastCounterDay=6
+lastCouncilVisit=3
+lastCounterDay=10
 lastDispensaryOpen=2
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -763,7 +763,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=2
-lastEncounter=It's Time to Play...  Password\!
+lastEncounter=Consciousness of a Stream
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=2
@@ -775,11 +775,11 @@ lastHiddenCityAscension=2
 lastHippyCall=-1
 lastKingLiberation=3
 lastLouvreMap=3
-lastManorUnlock=2
+lastManorUnlock=3
 lastMessageCount=15
 lastMessageId
 lastMiningReset=1
-lastNemesisReset=2
+lastNemesisReset=3
 lastPaperStrip3144=funny\:ABRA\:dangly
 lastPaperStrip4138=dangly\:DORN\:wibbly
 lastPaperStrip4139=rough\:ZZZZ\:fuzzy
@@ -789,7 +789,7 @@ lastPaperStrip4142=fuzzy\:GUG\:curved
 lastPaperStrip4143=curved\:BAR\:zig-zaggy
 lastPaperStrip4144=wibbly\:KAZAM\:rough
 lastPaperStripReset=2
-lastPastamancerGhostReset=2
+lastPastamancerGhostReset=3
 lastPirateEphemera=pirate brochure
 lastPirateEphemeraReset=1
 lastPirateInsult1=false
@@ -827,7 +827,7 @@ lastStoneSphere2175
 lastStoneSphere2176
 lastStoneSphere2177
 lastStoneSphereReset=3
-lastTavernAscension=0
+lastTavernAscension=3
 lastTavernSquare=0
 lastTelescopeReset=3
 lastTempleAdventures=-1
@@ -896,7 +896,6 @@ pyramidBombUsed=true
 pyramidPosition=1
 questF01Primordial=unstarted
 questF01Primordial,=Primordial Fear\=unstarted
-questF01Primordial, Primordial Fear=unstarted
 questF02Hyboria=unstarted
 questF03Future=unstarted
 questF04Elves=unstarted
@@ -910,7 +909,7 @@ questG06Delivery=unstarted
 questI01Scapegoat=unstarted
 questI02Beat=unstarted
 questI02Beat =unstarted
-questL02Larva=unstarted
+questL02Larva=finished
 questL03Rat=unstarted
 questL04Bat=unstarted
 questL05Goblin=unstarted
@@ -927,12 +926,12 @@ questL11Worship=unstarted
 questL12War=unstarted
 questL13Final=unstarted
 questM01Untinker=unstarted
-questM02Artist=unstarted
+questM02Artist=finished
 questM03Bugbear=unstarted
 questM04Galaktic=started
 questM05Toot=unstarted
-questM06Gourd=unstarted
-questM07Hammer=unstarted
+questM06Gourd=started
+questM07Hammer=finished
 questM08Baker=unstarted
 questM09Rocks=unstarted
 questM10Azazel=unstarted
@@ -953,7 +952,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=70\:Semirare window begin\:lparen.gif\:80\:Semirare window end loc\=*\:rparen.gif
+relayCounters=80\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -975,7 +974,7 @@ sidequestJunkyardCompleted=none
 sidequestLighthouseCompleted=none
 sidequestNunsCompleted=none
 sidequestOrchardCompleted=none
-singleFamiliarRun=0
+singleFamiliarRun=152
 skateParkStatus=war
 skillBurn1019=-100
 skillBurn3=-100
@@ -1003,7 +1002,7 @@ spookyPuttyCopiesMade=0
 spookyPuttyMonster
 stationaryButton1=1022
 stationaryButton2=4009
-stationaryButton3=1005
+stationaryButton3
 stationaryButton4
 stationaryButton5
 styxPixieVisited=false
@@ -1022,7 +1021,7 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=false
+telescopeLookedHigh=true
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
@@ -1069,11 +1068,11 @@ valueOfStill=0
 valueOfTome=500
 violetFogGoal=0
 violetFogLayout
-volcanoMaze1=2,4,7,9,24,29,32,35,46,58,63,66,72,75,80,82,87,96,105,107,111,128,130,132,136,140,142,151,156,160,163,165
-volcanoMaze2=6,8,10,14,16,31,33,38,40,50,54,57,62,73,77,79,89,93,101,110,112,115,117,120,126,129,135,144,146,154,164
-volcanoMaze3=0,15,18,20,25,27,36,42,45,47,53,60,64,65,68,69,92,100,103,109,113,114,119,122,124,131,134,147,150,152,158,168
-volcanoMaze4=1,11,13,17,19,22,28,34,39,43,49,51,59,61,67,71,78,81,85,86,88,90,95,98,104,106,108,116,123,125,127,133,138,143,145,149,153,161,167
-volcanoMaze5=3,5,12,21,23,26,30,37,41,44,48,52,55,56,70,74,76,83,91,94,97,99,102,118,121,137,139,141,148,155,157,159,162,166
+volcanoMaze1
+volcanoMaze2
+volcanoMaze3
+volcanoMaze4
+volcanoMaze5
 warProgress=unstarted
 welcomeBackAdv=0
 wineCellarProgress=3
