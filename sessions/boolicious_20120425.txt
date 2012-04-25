@@ -722,3 +722,269 @@ You spent 100 Meat
 pull: 1 creepy voodoo doll, 1 heart of the volcano
 
 use 1 anniversary gift box
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+April 25, 2012 - Frankruary 4
+
+Ronald: waxing gibbous
+Grimace: waning gibbous
+Mini-moon: in back, near Ronald
+
+Valentine's Day: today
+St. Sneaky Pete's Day: 7 days
+Oyster Egg Day: 14 days
+El Dia De Los Muertos Borrachos: 22 days
+Generic Summer Holiday: 31 days
+Dependence Day: 40 days
+Arrrbor Day: 48 days
+Lab&oacute;r Day: 58 days
+Halloween: 68 days
+Feast of Boris: 75 days
+Yuletide: 80 days
+Festival of Jarlsberg: 85 days
+
+Valentine's Day
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 5
+HP: 38 / 73
+MP: 40 / 44
+
+Mus: 32 (22), tnp = 35
+Mys: 24 (14), tnp = 2
+Mox: 24 (17), tnp = 6
+
+Advs: 117
+Meat: 14,641
+Drunk: 9
+
+
+ > equipment
+
+Hat: chef's hat
+Weapon: spooky staff
+Off-hand: (none)
+Shirt: astral shirt
+Pants: cane-mail pants
+
+Acc. 1: ring of half-assed regeneration
+Acc. 2: Pine-Fresh air freshener
+Acc. 3: shiny ring
+
+Pet: Fancypants Scarecrow (8 lbs)
+Item: frilly skirt
+
+ > skills
+
+Seal Clubber
+ - Claws of the Otter
+ - Clobber
+ - Hide of the Otter
+ - Seal Clubbing Frenzy
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Fondid (9)
+Feline Ferocity (9)
+Yes, Can Haz (29)
+Buy! Sell! Buy! Sell! (52)
+Seal Clubbing Frenzy (236)
+
+
+ > modifiers
+
+ML: +15
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +3.38
+Meat: +98.00%
+Item: +64.24%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[194] Boss Bat's Lair
+Encounter: The Boss Bat
+Round 0: boolicious loses initiative!
+You lose 19 hit points
+Round 1: boolicious attacks!
+You lose 20 hit points
+
+cast 1 Tongue of the Walrus
+You gain 37 hit points
+You lose an effect: Beaten Up
+
+cast 1 Tongue of the Walrus
+You gain 34 hit points
+
+telescope look 
+
+telescope look high
+You acquire an effect: Starry-Eyed (duration: 10 Adventures)
+
+buy 1 helmet recipe for 100 each from Meatsmith's Shop
+You acquire an item: helmet recipe
+You spent 100 Meat
+
+Create 1 meat stack
+You acquire an item: meat stack
+You lose 100 Meat
+
+[196] Smith 1 meat stack + 1 helmet recipe
+You acquire an item: basic meat helmet
+
+[196] Smith 1 basic meat helmet + 1 bar skin
+You acquire an item: barskin hat
+
+equip hat barskin hat
+
+equip weapon Knob Goblin scimitar
+
+equip off-hand giant clay ashtray
+
+cast 1 Summon Clip Art
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #93/1200:
+Question: What was needed to defeat The Demon Knight Englebert in level 2, "Lava Bank", in the popular video game "Dragon Hill X"?
+Answer: A zucchini that looked just like the Princess of Flabbernathy.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #444/1200:
+Question: When did Dr. Tomas Nite win the Nobel Prize for Quantum Mechanics?
+Answer: Boozember 2, 1905.
+
+use 1 Trivial Avocations Card: Where?
+You acquire an effect: You Know Where to Go (duration: 1 Adventure)
+Trivia card #915/1200:
+Question: Where was the Queen of Gallston given a Columbian necktie for the crime of corrupting a minor?
+Answer: On the last train to Febreezia.
+
+use 1 Trivial Avocations Card: Who?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Where to Go
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #731/1200:
+Question: Who wrote the mysterious graphic novel 
+Answer: A ferret named Buttons.
+
+cast 1 Tongue of the Walrus
+You gain 36 hit points
+
+cast 0 Tongue of the Walrus
+
+buy 1 detuned radio for 300 each from Degrassi Knoll General Store
+You acquire an item: detuned radio
+You spent 300 Meat
+
+use 1 detuned radio
+
+use 1 detuned radio
+
+use 1 pork elf goodies sack
+You acquire an item: porquoise
+You acquire an item: hamethyst
+You acquire an item: hamethyst
+You acquire an item: baconstone
+You acquire an item: porquoise
+
+Use 1 disassembled clover
+You acquire an item: ten-leaf clover
+
+use 1 box of Pok&euml;mann band-aids
+You acquire Pok&euml;mann band-aid (5)
+
+multiuse.php?passitem=5078&pwd=5fada16693011ca2b482d76f8cd47eb1
+
+use 1 Pok&euml;mann band-aid
+You gain 9 hit points
+You acquire an effect: Aided and Abetted (duration: 10 Adventures)
+mcd 4
+
+[195] Boss Bat's Lair
+Encounter: beefy bodyguard bat
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: beefy bodyguard bat takes 15 damage.
+Round 2: boolicious attacks!
+Round 3: beefy bodyguard bat takes 71 damage.
+Round 3: boolicious wins the fight!
+Your familiar gains a pound: Heckel &amp; Jeckyl, the 12 lb. Fancypants Scarecrow
+You gain 442 Meat.
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You gain 8 muskewlairtees
+You gain 2 mistikkaltees
+You gain a Mysticality point!
+You gain 5 mawksees
+
+[196] Boss Bat's Lair
+Encounter: The Boss Bat
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: boolicious attacks!
+Round 3: the boss bat takes 55 damage.
+You lose 6 hit points
+Round 3: boolicious attacks!
+Round 4: the boss bat takes 55 damage.
+Round 4: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: dense meat stack
+You acquire an item: Boss Bat bandana
+You acquire an item: Boss Bat britches
+You gain 6 muskewlairtees
+You gain 6 mistikkaltees
+You gain 5 mawksees
+You gain a Moxie point!
+You acquire an item: batskin belt
+You acquire an item: Cobb's Knob map
+
+use 1 Cobb's Knob map
+
+use 1 Newbiesport&trade; tent
+
+Visiting the pretentious artist
+Selling 20 rat whiskers to the pretentious artist
+You gain 1,000 Meat
+
+Visiting Torg, the Trainer
+
+guild.php?action=buyskill&skillid=6
+You learned a new skill: Super-Advanced Meatsmithing
+guild.php?action=buyskill&skillid=3
+You learned a new skill: Thrust-Smack
+guild.php?action=buyskill&skillid=7
+You learned a new skill: Tongue of the Otter
+
+Visiting Terry, the Turtle Tamer
+
+Visiting Grignr, the Seal Clubber
