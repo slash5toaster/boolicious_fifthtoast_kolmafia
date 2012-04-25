@@ -120,7 +120,7 @@ _timeHelmetAdv=0
 _toastSummons=0
 _tokenDrops=0
 _transponderDrops=0
-_trivialAvocationsGame=false
+_trivialAvocationsGame=true
 _userMods
 _vmaskAdv=0
 _zapCount=0
@@ -716,13 +716,13 @@ lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=10
+lastBreakfast=11
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard=BQc2,BRg2,BKh2,BNe3,BNb4,BRe4,BBc5,BRf5,BBa6,WRe6,BBc8
 lastCouncilVisit=4
-lastCounterDay=10
+lastCounterDay=11
 lastDispensaryOpen=2
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -911,7 +911,7 @@ questI02Beat=unstarted
 questI02Beat =unstarted
 questL02Larva=finished
 questL03Rat=finished
-questL04Bat=started
+questL04Bat=step3
 questL05Goblin=unstarted
 questL06Friar=unstarted
 questL07Cyrptic=unstarted
@@ -927,13 +927,13 @@ questL12War=unstarted
 questL13Final=unstarted
 questM01Untinker=unstarted
 questM02Artist=finished
-questM03Bugbear=unstarted
+questM03Bugbear=step1
 questM04Galaktic=started
 questM05Toot=unstarted
-questM06Gourd=started
+questM06Gourd=finished
 questM07Hammer=finished
 questM08Baker=unstarted
-questM09Rocks=unstarted
+questM09Rocks=finished
 questM10Azazel=unstarted
 questM11Postal=unstarted
 questM12Pirate=unstarted
@@ -1021,7 +1021,7 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=true
+telescopeLookedHigh=false
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
