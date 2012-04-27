@@ -56,7 +56,7 @@ _companionshipCasts=0
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=3
+_demandSandwich=6
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -615,7 +615,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2413
-currentFullness=0
+currentFullness=25
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -700,7 +700,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=Haert of the Cyrpt
+lastAdventure=Icy Peak
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -764,7 +764,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=0
-lastEncounter=The Haert of Darkness
+lastEncounter=Snow Queen
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=2
@@ -835,7 +835,7 @@ lastTempleAdventures=-1
 lastTempleButtonsUnlock=-1
 lastTempleUnlock=1
 lastTowerClimb=1
-lastTr4pz0rQuest=1
+lastTr4pz0rQuest=2
 lastVioletFogMap=2
 lastWuTangDefeated=1
 lastZapperWand=1
@@ -915,8 +915,8 @@ questL03Rat=finished
 questL04Bat=finished
 questL05Goblin=finished
 questL06Friar=finished
-questL07Cyrptic=started
-questL08Trapper=step2
+questL07Cyrptic=finished
+questL08Trapper=finished
 questL09Lol=unstarted
 questL10Garbage=unstarted
 questL11MacGuffin=unstarted
@@ -953,7 +953,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=804\:Fortune Cookie\:fortune.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1001,10 +1001,10 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster
-stationaryButton1=11001
-stationaryButton2=11011
-stationaryButton3=11000
-stationaryButton4=11003
+stationaryButton1=11003
+stationaryButton2=11001
+stationaryButton3
+stationaryButton4
 stationaryButton5
 styxPixieVisited=false
 sugarCounter4178=0
