@@ -631,7 +631,7 @@ cyrptCrannyEvilness=20
 cyrptNicheEvilness=-1
 cyrptNookEvilness=0
 cyrptTotalEvilness=19
-dailyDungeonDone=false
+dailyDungeonDone=true
 dbNemesisSkill1=0
 dbNemesisSkill2=0
 dbNemesisSkill3=0
@@ -700,7 +700,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Menagerie 3
+lastAdventure=Daily Dungeon (Room 10)
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -716,14 +716,14 @@ lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=13
+lastBreakfast=14
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=1
-lastCounterDay=13
-lastDispensaryOpen=-1
+lastCounterDay=14
+lastDispensaryOpen=3
 lastDoorCodeReset=1
 lastDustyBottle2271=0
 lastDustyBottle2272=0
@@ -763,7 +763,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=2
-lastEncounter=Spectral Jellyfish
+lastEncounter=pencil golem
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -838,7 +838,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=3
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=4
+libramSummons=7
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -1010,7 +1010,7 @@ sugarCounter4178=0
 sugarCounter4179=0
 sugarCounter4180=0
 sugarCounter4181=0
-sugarCounter4182=0
+sugarCounter4182=1
 sugarCounter4183=0
 sugarCounter4191=0
 tavernLayout=6511111111111511111113251
@@ -1021,12 +1021,12 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=true
+telescopeLookedHigh=false
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
-timesRested=1
-tomeSummons=3
+timesRested=2
+tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
