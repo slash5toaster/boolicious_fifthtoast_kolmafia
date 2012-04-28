@@ -620,3 +620,274 @@ You lose an effect: Beaten Up
 
 cast 1 Tongue of the Walrus
 You gain 40 hit points
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+April 27, 2012 - Frankruary 6
+
+Ronald: waning gibbous
+Grimace: third quarter
+Mini-moon: in front of Ronald, R side
+
+St. Sneaky Pete's Day: 5 days
+Oyster Egg Day: 12 days
+El Dia De Los Muertos Borrachos: 20 days
+Generic Summer Holiday: 29 days
+Dependence Day: 38 days
+Arrrbor Day: 46 days
+Lab&oacute;r Day: 56 days
+Halloween: 66 days
+Feast of Boris: 73 days
+Yuletide: 78 days
+Festival of Jarlsberg: 83 days
+Valentine's Day: 94 days
+
+
+2 days until Moxie.
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 5
+HP: 75 / 97
+MP: 15 / 44
+
+Mus: 48 (26), tnp = 12
+Mys: 24 (17), tnp = 2
+Mox: 29 (21), tnp = 39
+
+Advs: 160
+Meat: 9,498
+Drunk: 0
+
+
+ > equipment
+
+Hat: barskin hat
+Weapon: Knob Goblin scimitar
+Off-hand: giant clay ashtray
+Shirt: astral shirt
+Pants: cane-mail pants
+
+Acc. 1: orange leather lanyard
+Acc. 2: Rain-Doh red wings
+Acc. 3: shiny ring
+
+Pet: Fancypants Scarecrow (8 lbs)
+Item: frilly skirt
+
+ > skills
+
+Seal Clubber
+ - Claws of the Otter
+ - Clobber
+ - Hide of the Otter
+ - Seal Clubbing Frenzy
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Go Get 'Em, Tiger! (11)
+Buy! Sell! Buy! Sell! (14)
+Seal Clubbing Frenzy (198)
+
+
+ > modifiers
+
+ML: +3
+Enc: +0.00%
+Init: +40.00%
+
+Exp: +1.88
+Meat: +174.00%
+Item: +64.24%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Trivial Avocations board game
+
+cast 4 Summon Resolutions
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be wealthier
+
+pull: 1 30669 scroll, 1 33398 scroll, 1 334 scroll, 2 668 scroll
+
+pull: 1 all-year sucker
+
+pull: 2 bubbly potion, 2 cloudy potion, 2 dark potion, 2 effervescent potion
+
+pull: 2 fizzy potion
+
+pull: 1 dusty bottle of Marsala, 1 dusty bottle of Merlot, 1 dusty bottle of Muscat, 1 dusty bottle of Pinot Noir, 1 dusty bottle of Port, 1 dusty bottle of Zinfandel
+
+[232] Rest in your dwelling
+You gain 29 hit points
+You gain 30 Muscularity Points
+
+cast 1 Summon Clip Art
+You acquire an item: 4:20 bomb
+
+cast 1 Summon Clip Art
+You acquire an item: Bright Water
+
+cast 1 Summon Clip Art
+You acquire an item: cold-filtered water
+
+cobbsknob.php?level=3
+
+equip pants Knob Goblin Uberpants
+
+use 1 cold-filtered water
+You acquire an effect: Purity of Spirit (duration: 10 Adventures)
+
+use 1 blood of the Wereseal
+You acquire an effect: Temporary Lycanthropy (duration: 10 Adventures)
+
+use 1 all-year sucker
+You acquire an effect: Gonna Get You, Sucker (duration: 10 Adventures)
+
+telescope look high
+You acquire an effect: Starry-Eyed (duration: 10 Adventures)
+
+[233] Menagerie 2
+Encounter: Grass Elemental
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: grass elemental takes 19 damage.
+You lose 11 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious uses the dark potion!
+You lose 12 hit points
+Round 3: boolicious attacks!
+Round 4: grass elemental takes 85 damage.
+Round 4: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 9 Muscleboundness
+You gain 6 Mysteriousness
+You gain a Mysticality point!
+You gain 5 Chutzpah
+
+[234] Menagerie 2
+Encounter: Grass Elemental
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: grass elemental takes 19 damage.
+You lose 9 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious uses the fizzy potion!
+Round 3: grass elemental drops 2 attack power.
+Round 3: grass elemental drops 2 defense.
+Round 3: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles it, holding it down for a round.
+Round 3: boolicious attacks!
+Round 4: grass elemental takes 85 damage.
+Round 4: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 11 Strongness
+You gain a Muscle point!
+You gain 4 Wizardliness
+You gain 4 Chutzpah
+
+[235] Menagerie 2
+Encounter: Grass Elemental
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: grass elemental takes 20 damage.
+Round 2: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles it, holding it down for a round.
+Round 2: boolicious executes a macro!
+Round 2: boolicious uses the effervescent potion!
+You lose 10 hit points
+Round 3: boolicious attacks!
+Round 4: grass elemental takes 70 damage.
+Round 4: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: leaf of grass
+You gain 10 Strengthliness
+You gain 3 Magicalness
+You gain 7 Sarcasm
+
+[236] Menagerie 2
+Encounter: Weremoose
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: weremoose takes 20 damage.
+Round 2: Heckel &amp; Jeckyl says, "these uber-pants remind me of my days playing Rugby at the Uni," and tackles him, holding him down for a round.
+Round 2: boolicious executes a macro!
+Round 2: boolicious uses the cloudy potion!
+You lose 10 hit points
+Round 3: boolicious attacks!
+Round 4: weremoose takes 87 damage.
+Round 4: boolicious wins the fight!
+You gain 188 Meat
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You acquire an item: weremoose spit
+You gain 7 Strongness
+You gain 6 Mysteriousness
+You gain 7 Chutzpah
+
+cobbsknob.php?level=3
+cobbsknob.php?level=3&action=cell37
+
+use 1 detuned radio
+
+use 1 detuned radio
+
+use 1 box of Pok&euml;mann band-aids
+You acquire Pok&euml;mann band-aid (5)
+
+multiuse.php?passitem=5078&pwd=86e1c664c9b4c3d334f7a4fa4dfb6137
+
+use 2 Pok&euml;mann band-aid
+You gain 113 hit points
+You acquire an effect: Aided and Abetted (duration: 20 Adventures)
+
+cobbsknob.php?level=3
+
+[237] Menagerie 3
+Encounter: Spectral Jellyfish
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: spectral jellyfish takes 20 damage.
+You lose 13 hit points
+Round 2: boolicious attacks!
+Round 3: spectral jellyfish takes 80 damage.
+Round 3: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl says, "allow me to show you a traditional Knob Goblin dance I learned on my many world travels," and dances what looks like the Macarena with the hiccups.
+You gain 10 Muscleboundness
+You gain 5 Mysteriousness
+You gain 7 Chutzpah
+
+buy 5 Ben-Gal™ Balm for 24 each from Market Demon
+You acquire Ben-Gal&trade; Balm (5)
+You spent 120 Meat
+
+multiuse.php?passitem=2595&pwd=86e1c664c9b4c3d334f7a4fa4dfb6137
+
+use 5 Ben-Gal&trade; Balm
+You acquire an effect: Go Get 'Em, Tiger! (duration: 15 Adventures)

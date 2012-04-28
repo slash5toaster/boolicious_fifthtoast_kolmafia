@@ -900,7 +900,7 @@ questF01Primordial,=Primordial Fear\=unstarted
 questF02Hyboria=unstarted
 questF03Future=unstarted
 questF04Elves=unstarted
-questF05Clancy=started
+questF05Clancy=step3
 questG01Meatcar=unstarted
 questG02Whitecastle=unstarted
 questG03Ego=unstarted

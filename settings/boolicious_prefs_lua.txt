@@ -16,7 +16,7 @@ FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
 KoLDesktop=127,118,-1
-LoginFrame=391,276,0
+LoginFrame=404,276,0
 MailboxFrame=289,310,1
 MaximizerFrame=387,322
 MeatManageFrame=475,375
@@ -33,7 +33,7 @@ TabbedChatFrame=771,99,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
-_allYearSucker=false
+_allYearSucker=true
 _aprilShower=false
 _astralDrops=0
 _badlyRomanticArrows=0
@@ -700,7 +700,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Boss Bat's Lair
+lastAdventure=Menagerie 3
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -708,21 +708,21 @@ lastBangPotion819
 lastBangPotion820
 lastBangPotion821
 lastBangPotion822
-lastBangPotion823
-lastBangPotion824
-lastBangPotion825
-lastBangPotion826
+lastBangPotion823=sleepiness
+lastBangPotion824=teleportitis
+lastBangPotion825=confusion
+lastBangPotion826=detection
 lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=12
+lastBreakfast=13
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=1
-lastCounterDay=12
+lastCounterDay=13
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=0
@@ -763,7 +763,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=2
-lastEncounter=beefy bodyguard bat
+lastEncounter=Spectral Jellyfish
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -838,7 +838,7 @@ lastTr4pz0rQuest=1
 lastVioletFogMap=3
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=2
+libramSummons=4
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -900,7 +900,7 @@ questF02Hyboria=unstarted
 questF03Future=unstarted
 questF04Elves=unstarted
 questF05Clancy=unstarted
-questG01Meatcar=unstarted
+questG01Meatcar=started
 questG02Whitecastle=unstarted
 questG03Ego=unstarted
 questG04Nemesis=unstarted
@@ -1021,12 +1021,12 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=false
+telescopeLookedHigh=true
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
 timesRested=1
-tomeSummons=1
+tomeSummons=3
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
