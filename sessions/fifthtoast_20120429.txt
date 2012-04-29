@@ -147,3 +147,511 @@ You gain 500 Meat
 equip hat Knob Goblin elite helm
 
 equip pants Knob Goblin Uberpants
+outfit Knob Goblin Harem Girl Disguise
+
+[851] Cobb's Knob Treasury
+Encounter: Just Tryin' to Get Paid
+
+equip hat Knob Goblin elite helm
+
+equip pants Knob Goblin Uberpants
+
+cast 3 Demand Sandwich
+You acquire corned-beef Reuben (3)
+
+cast 1 Song of the Glorious Lunch
+You lose an effect: Song of Accompaniment
+You acquire an effect: Song of the Glorious Lunch (duration: 5 Adventures)
+
+cast 1 Song of the Glorious Lunch
+You acquire an effect: Song of the Glorious Lunch (duration: 5 Adventures)
+
+cast 1 Song of the Glorious Lunch
+You acquire an effect: Song of the Glorious Lunch (duration: 5 Adventures)
+
+cast 1 Song of the Glorious Lunch
+You acquire an effect: Song of the Glorious Lunch (duration: 5 Adventures)
+Visiting Comfy Sofa in clan rumpus room
+
+[851] Rest in Clan Sofa (1 turns)
+You gain 46 hit points
+You gain 45 Mojo Points
+
+cast 1 Song of the Glorious Lunch
+You acquire an effect: Song of the Glorious Lunch (duration: 5 Adventures)
+
+eat 6 corned-beef Reuben
+You gain 16 Adventures
+You gain 33 Muscleboundness
+You gain 3 Fullness
+You lose some of an effect: Song of the Glorious Lunch
+You gain 16 Adventures
+You gain 33 Beefiness
+You gain a Muscle point!
+You gain 3 Fullness
+You lose some of an effect: Song of the Glorious Lunch
+You gain 16 Adventures
+You gain 32 Muscleboundness
+You gain 3 Fullness
+You lose some of an effect: Song of the Glorious Lunch
+You gain 16 Adventures
+You gain 33 Muscleboundness
+You gain 3 Fullness
+You lose some of an effect: Song of the Glorious Lunch
+You gain 15 Adventures
+You gain 30 Strongness
+You gain 3 Fullness
+You lose some of an effect: Song of the Glorious Lunch
+You gain 16 Adventures
+You gain 31 Muscleboundness
+You gain 3 Fullness
+You lose some of an effect: Song of the Glorious Lunch
+
+eat 1 brains casserole
+You gain 16 Adventures
+You gain 8 Wizardliness
+You gain 5 Fullness
+You lose some of an effect: Song of the Glorious Lunch
+
+cast 1 Song of the Glorious Lunch
+You acquire an effect: Song of the Glorious Lunch (duration: 5 Adventures)
+
+eat 1 philosopher's scone
+You gain 6 Adventures
+You gain 9 Muscleboundness
+You gain 9 Enchantedness
+You gain 10 Cheek
+You gain 2 Fullness
+You lose some of an effect: Song of the Glorious Lunch
+
+[853] Mix 1 bottle of tequila + 1 orange
+You acquire an item: tequila sunrise
+Crafting used 1 each of orange and bottle of tequila
+
+drink 1 tequila sunrise
+You gain 6 Adventures
+You gain 9 Beefiness
+You gain 3 Drunkenness
+
+[852] Haunted Bathroom
+Encounter: toilet papergeist
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: toilet papergeist takes 31 damage.
+You lose 39 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: toilet papergeist takes 36 damage.
+Round 2: fifthtoast casts CLEAVE!
+Round 3: toilet papergeist takes 94 damage.
+Round 3: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 6 Muscularity Points
+You gain 15 Strongness
+You gain a Muscle point!
+You gain 5 Magicalness
+You gain a Mysticality point!
+You gain 6 Sarcasm
+
+[853] Haunted Gallery
+Encounter: cubist bull
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 52 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+You lose 51 hit points
+
+[854] Rest in Clan Sofa (2 turns)
+You gain 92 hit points
+You gain 22 Mojo Points
+
+[854] Rest in Clan Sofa (1 turns)
+You gain 45 hit points
+You gain 15 Mojo Points
+
+[857] Haunted Conservatory
+Encounter: skeletal monkey
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: skeletal monkey takes 152 damage.
+After Battle: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 8 Muscularity Points
+You acquire an item: pile of dusty animal bones
+You gain 4 Strengthliness
+
+[858] Haunted Conservatory
+Encounter: confused goth music student
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: confused goth music student takes 159 damage.
+Round 1: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 7 Muscularity Points
+You gain 2 Strongness
+You gain 1 Mysteriousness
+You gain 1 Roguishness
+
+[859] Haunted Library
+Encounter: bookbat
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: bookbat takes 106 damage.
+After Battle: fifthtoast wins the fight!
+You gain 9 hit points
+You gain 9 Muscularity Points
+You acquire an item: tattered scrap of paper
+You gain 11 Fortitude
+You gain 2 Mysteriousness
+You gain 1 Roguishness
+
+[860] Haunted Library
+Encounter: Take a Look, it's in a Book!
+Took choice 80/3: other options
+choice.php?pwd&whichchoice=80&option=3
+Encounter: Naughty, Naughty...
+Took choice 88/1: mysticality substats
+choice.php?pwd&whichchoice=88&option=1
+You gain 75 Magicalness
+
+[861] Haunted Library
+Encounter: bookbat
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: bookbat takes 136 damage.
+After Battle: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 10 Muscularity Points
+You acquire an item: tattered scrap of paper
+You gain 7 Fortitude
+You gain 6 Enchantedness
+You gain 2 Roguishness
+
+[862] Haunted Library
+Encounter: bookbat
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: bookbat takes 98 damage.
+After Battle: fifthtoast wins the fight!
+You gain 9 hit points
+You gain 5 Muscularity Points
+You gain 10 Beefiness
+You gain 3 Magicalness
+You gain 2 Chutzpah
+
+[863] Haunted Library
+Encounter: writing desk
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: writing desk takes 88 damage.
+Round 1: fifthtoast wins the fight!
+You gain 6 hit points
+You gain 7 Muscularity Points
+You acquire an item: disintegrating quill pen
+You gain 8 Beefiness
+You gain 3 Magicalness
+You gain 4 Cheek
+
+cast 5 Song of Accompaniment
+You acquire an effect: Song of Accompaniment (duration: 100 Adventures)
+
+[864] Haunted Library
+Encounter: Take a Look, it's in a Book!
+Took choice 81/2: cocktailcrafting recipe
+choice.php?pwd&whichchoice=81&option=2
+
+[865] Haunted Library
+Encounter: Take a Look, it's in a Book!
+Took choice 81/4: skip adventure
+choice.php?pwd&whichchoice=81&option=4
+
+[865] Haunted Library
+Encounter: bookbat
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: bookbat takes 111 damage.
+Round 1: fifthtoast wins the fight!
+You gain 10 hit points
+You gain 11 Muscularity Points
+You gain 10 Strengthliness
+You gain 2 Magicalness
+You gain 3 Smarm
+
+[866] Haunted Billiards Room
+Encounter: pooltergeist
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: pooltergeist takes 144 damage.
+Round 1: fifthtoast wins the fight!
+You gain 11 hit points
+You gain 9 Muscularity Points
+You gain 4 Strongness
+You gain 3 Sarcasm
+
+[867] Haunted Billiards Room
+Encounter: chalkdust wraith
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: chalkdust wraith takes 1 damage.
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: chalkdust wraith takes 1 damage.
+Round 2: fifthtoast attacks!
+Round 3: chalkdust wraith takes 1 damage.
+Round 3: fifthtoast attacks!
+Round 4: chalkdust wraith takes 1 damage.
+Round 4: fifthtoast attacks!
+Round 5: chalkdust wraith takes 1 damage.
+Round 5: fifthtoast attacks!
+Round 6: chalkdust wraith takes 1 damage.
+Round 6: fifthtoast attacks!
+Round 7: chalkdust wraith takes 1 damage.
+Round 7: fifthtoast attacks!
+Round 8: chalkdust wraith takes 1 damage.
+Round 8: fifthtoast attacks!
+Round 9: chalkdust wraith takes 1 damage.
+Round 9: fifthtoast attacks!
+Round 10: chalkdust wraith takes 1 damage.
+Round 10: fifthtoast wins the fight!
+You gain 13 hit points
+You gain 10 Muscularity Points
+You acquire an item: handful of hand chalk
+You gain 2 Fortitude
+You gain 1 Magicalness
+You gain 4 Smarm
+friars blessing 1
+You acquire an effect: Brother Flying Burrito's Blessing (duration: 20 Adventures)
+
+[868] Post-Cyrpt Cemetary
+Encounter: gluttonous ghuol
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: gluttonous ghuol takes 86 damage.
+After Battle: fifthtoast wins the fight!
+You gain 12 hit points
+You gain 12 Muscularity Points
+You gain 69 Meat
+You gain 6 Beefiness
+You gain 8 Wizardliness
+You gain 2 Roguishness
+
+Combine 1 evil golden arch + 1 evil golden arch
+You acquire an item: evil golden arches
+
+Use 1 disintegrating quill pen + 1 inkwell + 1 tattered scrap of paper
+You acquire an item: scroll of ancient forbidden unspeakable evil
+
+Create 1 dense meat stack
+You acquire an item: dense meat stack
+You lose 1,000 Meat
+Visiting Potted Meat Tree in clan rumpus room
+
+[869] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 178 hit points
+After Battle: unspecified macro action?
+You lose 186 hit points
+
+[870] Rest in Clan Sofa (2 turns)
+You gain 89 hit points
+
+[870] Rest in Clan Sofa (1 turns)
+You gain 45 hit points
+You gain 15 Mojo Points
+
+buy 1 tires for 28 each from Degrassi Knoll General Store
+You acquire an item: tires
+You spent 28 Meat
+
+buy 1 cog for 20 each from Degrassi Knoll General Store
+You acquire an item: cog
+You spent 20 Meat
+
+buy 1 empty meat tank for 20 each from Degrassi Knoll General Store
+You acquire an item: empty meat tank
+You spent 20 Meat
+
+buy 1 spring for 20 each from Degrassi Knoll General Store
+You acquire an item: spring
+You spent 20 Meat
+
+[874] Mix 1 cranberries + 1 bottle of rum
+You acquire an item: redrum
+Crafting used 1 each of cranberries and bottle of rum
+
+Combine 1 meat stack + 1 empty meat tank
+You acquire an item: full meat tank
+Crafting used 1 each of meat stack and empty meat tank
+
+clan_hobopolis.php?place=1
+
+buy 1 hermit permit for 100 each from Market Demon
+You acquire an item: hermit permit
+You spent 100 Meat
+
+Visiting Hermit
+
+trading 1 worthless item for 1 sweet rims
+You acquire an item: sweet rims
+
+Visiting The Plunger
+
+Combine 1 sweet rims + 1 tires
+You acquire an item: dope wheels
+
+buy 1 sprocket for 20 each from Degrassi Knoll General Store
+You acquire an item: sprocket
+You spent 20 Meat
+
+Visiting The Plunger
+
+Combine 1 spring + 1 sprocket
+You acquire an item: sprocket assembly
+
+Combine 1 cog + 1 sprocket assembly
+You acquire an item: cog and sprocket assembly
+
+Combine 1 cog and sprocket assembly + 1 full meat tank
+You acquire an item: meat engine
+
+Combine 1 meat engine + 1 dope wheels
+You acquire an item: bitchin' meatcar
+
+Use 1 disassembled clover
+You acquire an item: ten-leaf clover
+
+[873] Muscle Vacation
+Encounter: The Shore, Inc. Travel Agency
+
+[873] Muscle Vacation
+Encounter: The Shore, Inc. Travel Agency
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+[873] Muscle Vacation
+Encounter: The Reckonin'
+You gain 35 Fortitude
+
+[876] Mysticality Vacation
+Encounter: On a Deserted Desert Island, with No Dessert
+You gain 30 Enchantedness
+You gain a Mysticality point!
+
+[879] Moxie Vacation
+Encounter: A Moot Adventure
+You gain 43 Cheek
+
+[882] Muscle Vacation
+Encounter: Man Down at the Hoedown
+You gain 41 Beefiness
+
+[885] Muscle Vacation
+Encounter: Roadblocker
+You gain 40 Fortitude
+You gain a Muscle point!
+You acquire an item: dinghy plans
+
+use 1 dinghy plans
+You acquire an item: dingy dinghy
+
+[888] Pirate Cove
+Encounter: Amatearrr Night
+Took choice 24/1: stuffed shoulder parrot
+choice.php?pwd&whichchoice=24&option=1
+You lose 3 hit points
+You acquire an item: stuffed shoulder parrot
+
+[889] Pirate Cove
+Encounter: shady pirate
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+After Battle: unspecified macro action?
+After Battle: shady pirate takes 91 damage.
+After Battle: fifthtoast wins the fight!
+You gain 16 hit points
+You gain 15 Muscularity Points
+You gain 28 Meat
+You gain 11 Strongness
+You gain 5 Magicalness
+You gain 2 Sarcasm
+
+[890] Pirate Cove
+Encounter: sassy pirate
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 10 hit points
+After Battle: unspecified macro action?
+After Battle: sassy pirate takes 152 damage.
+After Battle: fifthtoast wins the fight!
+You gain 13 hit points
+You gain 9 Muscularity Points
+You gain 21 Meat
+You acquire an item: sunken chest
+You gain 13 Fortitude
+You gain 4 Mysteriousness
+You gain 1 Roguishness
+
+use 1 sunken chest
+
+[891] Pirate Cove
+Encounter: shady pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: shady pirate takes 90 damage.
+Round 1: fifthtoast wins the fight!
+You gain 17 hit points
+You gain 11 Muscularity Points
+You gain 25 Meat
+You gain 10 Strengthliness
+You gain 5 Mysteriousness
+You gain 4 Roguishness
+
+[892] Pirate Cove
+Encounter: swarthy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: swarthy pirate takes 92 damage.
+Round 1: fifthtoast wins the fight!
+You gain 12 hit points
+You gain 16 Muscularity Points
+You gain 25 Meat
+You gain 13 Strongness
+You gain 3 Enchantedness
+You gain 3 Sarcasm
+You gain a Moxie point!
+
+[893] Pirate Cove
+Encounter: A Dreadful Curse
+You gain 15 Wizardliness
+
+[894] Pirate Cove
+Encounter: shifty pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: shifty pirate takes 86 damage.
+Round 1: fifthtoast wins the fight!
+You gain 11 hit points
+You gain 10 Muscularity Points
+You gain 46 Meat
+You gain 11 Muscleboundness
+You gain 5 Enchantedness
+You gain 4 Roguishness
+
+[895] Pirate Cove
+Encounter: shifty pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+Round 1: shifty pirate takes 73 damage.
+Round 1: fifthtoast wins the fight!
+You gain 16 hit points
+You gain 17 Muscularity Points
+You gain 45 Meat
+You gain 10 Strengthliness
+You gain 7 Mysteriousness
+You gain 2 Sarcasm
