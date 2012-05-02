@@ -4,7 +4,7 @@
 lose_effect izchak's blessing => use 1 potion of blessing
 lose_effect song of accompaniment => cast 1 song of accompaniment
 lose_effect strange mental acuity => use 1 potion of detection
-lose_effect strength of ten ettins => use 1 potion of ettin strength
+lose_effect strength of ten ettins => use 1 potion of sleepiness
 
 [ default ]
 

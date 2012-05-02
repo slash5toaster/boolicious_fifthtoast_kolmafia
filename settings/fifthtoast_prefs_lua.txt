@@ -56,7 +56,7 @@ _companionshipCasts=0
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=0
+_demandSandwich=3
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -615,7 +615,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=25
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -700,7 +700,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=Orc Chasm
+lastAdventure=Barrrney's Barrr
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -712,18 +712,18 @@ lastBangPotion822=confusion
 lastBangPotion823=teleportitis
 lastBangPotion824=inebriety
 lastBangPotion825=healing
-lastBangPotion826=ettin strength
+lastBangPotion826=sleepiness
 lastBangPotion827=blessing
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=0
+lastBreakfast=2
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=9
-lastCounterDay=0
+lastCouncilVisit=10
+lastCounterDay=2
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=3
@@ -764,7 +764,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=0
-lastEncounter=rampaging adding machine
+lastEncounter=tetchy pirate
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=2
@@ -918,7 +918,7 @@ questL06Friar=finished
 questL07Cyrptic=finished
 questL08Trapper=finished
 questL09Lol=finished
-questL10Garbage=unstarted
+questL10Garbage=started
 questL11MacGuffin=unstarted
 questL11Manor=unstarted
 questL11Palindome=unstarted
@@ -937,7 +937,7 @@ questM08Baker=unstarted
 questM09Rocks=unstarted
 questM10Azazel=finished
 questM11Postal=unstarted
-questM12Pirate=unstarted
+questM12Pirate=step2
 questM13Escape=finished
 questM14Bounty=unstarted
 questS01OldGuy=unstarted
@@ -953,7 +953,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=1005\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
