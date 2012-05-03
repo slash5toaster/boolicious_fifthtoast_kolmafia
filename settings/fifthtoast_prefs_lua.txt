@@ -1,5 +1,5 @@
 =4
-AdventureFrame=364,110,0
+AdventureFrame=364,110,1
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=424,348
@@ -25,7 +25,7 @@ OptionsFrame=354,275,5
 ProfileFrame=425,323,-1
 RecentEventsFrame=474,284
 RequestFrame=338,248,-1
-RequestSynchFrame=-3,-3,-1
+RequestSynchFrame=3,335,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=293,225,3
@@ -309,7 +309,7 @@ choiceAdventure17=4
 choiceAdventure170=1
 choiceAdventure171=3
 choiceAdventure172=1
-choiceAdventure177=4
+choiceAdventure177=0
 choiceAdventure178=1
 choiceAdventure18=4
 choiceAdventure180=1
@@ -516,12 +516,12 @@ choiceAdventure491=0
 choiceAdventure496=1
 choiceAdventure497=0
 choiceAdventure5=0
-choiceAdventure502=0
-choiceAdventure503=0
+choiceAdventure502=2
+choiceAdventure503=1
 choiceAdventure504=0
-choiceAdventure505=0
-choiceAdventure506=0
-choiceAdventure507=0
+choiceAdventure505=2
+choiceAdventure506=3
+choiceAdventure507=1
 choiceAdventure509=1
 choiceAdventure510=1
 choiceAdventure511=2
@@ -615,7 +615,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=25
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -676,7 +676,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=6
@@ -700,7 +700,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=Barrrney's Barrr
+lastAdventure=Spooky Forest
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -717,13 +717,13 @@ lastBangPotion827=blessing
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=2
+lastBreakfast=3
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=10
-lastCounterDay=2
+lastCounterDay=3
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=3
@@ -764,7 +764,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=0
-lastEncounter=tetchy pirate
+lastEncounter=O Lith, Mon
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=2
@@ -937,7 +937,7 @@ questM08Baker=unstarted
 questM09Rocks=unstarted
 questM10Azazel=finished
 questM11Postal=unstarted
-questM12Pirate=step2
+questM12Pirate=finished
 questM13Escape=finished
 questM14Bounty=unstarted
 questS01OldGuy=unstarted
@@ -953,7 +953,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=1313\:Semirare window begin\:lparen.gif\:1353\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -962,8 +962,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=805
-semirareLocation=Haunted Library
+semirareCounter=1153
+semirareLocation=Spooky Forest
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
@@ -1000,7 +1000,7 @@ sortByRoom=true
 spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
-spookyPuttyMonster
+spookyPuttyMonster=something <i>totally</i> unrecognizable
 stationaryButton1=11003
 stationaryButton2=11001
 stationaryButton3=11000
