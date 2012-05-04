@@ -1,5 +1,5 @@
 =4
-AdventureFrame=364,110,1
+AdventureFrame=364,110,0
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=424,348
@@ -20,7 +20,7 @@ LoginFrame=404,276,0
 MailboxFrame=289,310,1
 MaximizerFrame=328,275
 MeatManageFrame=475,375
-MushroomFrame=305,324,0
+MushroomFrame=251,172,1
 OptionsFrame=354,275,5
 ProfileFrame=425,323,-1
 RecentEventsFrame=474,284
@@ -91,6 +91,7 @@ _madTeaParty=false
 _mayflySummons=0
 _mediumSiphons=0
 _navelRunaways=0
+_olympicSwimmingPool=false
 _pasteDrops=0
 _photocopyUsed=false
 _pieDrops=0
@@ -154,6 +155,7 @@ availableQuarters=0
 availableSandDollars=0
 availableSnackVouchers=0
 availableStoreCredits=0
+availableSwagger=0
 availableTickets=0
 badMoonEncounter01=false
 badMoonEncounter02=false
@@ -204,6 +206,7 @@ badMoonEncounter46=false
 badMoonEncounter47=false
 badMoonEncounter48=false
 ballpitBonus=100
+banishingShoutMonsters
 bankedKarma=0
 barrelGoal=1
 barrelLayout=?????????
@@ -615,7 +618,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=24
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -676,7 +679,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=6
@@ -700,7 +703,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=Spooky Forest
+lastAdventure=Bugbear Pens
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
@@ -717,13 +720,13 @@ lastBangPotion827=blessing
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=3
+lastBreakfast=4
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=10
-lastCounterDay=3
+lastCounterDay=4
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=3
@@ -764,7 +767,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=0
-lastEncounter=O Lith, Mon
+lastEncounter=revolving bugbear
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=2
@@ -833,7 +836,7 @@ lastTavernSquare=16
 lastTelescopeReset=2
 lastTempleAdventures=-1
 lastTempleButtonsUnlock=-1
-lastTempleUnlock=1
+lastTempleUnlock=2
 lastTowerClimb=1
 lastTr4pz0rQuest=2
 lastVioletFogMap=2
@@ -883,10 +886,10 @@ pastamancerOrbedName
 pastamancerOrbedType
 pendingMapReflections=0
 photocopyMonster=monster
-plantingDate=11
+plantingDate=4
 plantingDay=0
-plantingLength=1
-plantingScript=mix
+plantingLength=8
+plantingScript=Stinky
 poolSharkCount=0
 postAscensionScript
 preAscensionScript
