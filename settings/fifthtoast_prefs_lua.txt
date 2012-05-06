@@ -627,7 +627,7 @@ currentMood=apathetic
 currentNunneryMeat=97014
 currentPvpVictories
 currentSpleenUse=0
-currentWheelPosition=muscle
+currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
 cyrptCrannyEvilness=0
@@ -679,7 +679,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=6
@@ -703,12 +703,12 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=Giant's Castle
+lastAdventure=Poop Deck
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=1
 lastBangPotion-1=confusion
-lastBangPotion819=sleepiness
+lastBangPotion819=ettin strength
 lastBangPotion820=mental acuity
 lastBangPotion821=detection
 lastBangPotion822=confusion
@@ -767,7 +767,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=0
-lastEncounter=Raver Giant
+lastEncounter=Beware...
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=2
@@ -841,7 +841,7 @@ lastTowerClimb=1
 lastTr4pz0rQuest=2
 lastVioletFogMap=2
 lastWuTangDefeated=1
-lastZapperWand=1
+lastZapperWand=2
 libramSummons=0
 libraryCardUsed=false
 louvreDesiredGoal=0
@@ -921,7 +921,7 @@ questL06Friar=finished
 questL07Cyrptic=finished
 questL08Trapper=finished
 questL09Lol=finished
-questL10Garbage=started
+questL10Garbage=finished
 questL11MacGuffin=started
 questL11Manor=unstarted
 questL11Palindome=unstarted
@@ -956,7 +956,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=1313\:Semirare window begin\:lparen.gif\:1353\:Semirare window end loc\=*\:rparen.gif
+relayCounters=1491\:Semirare window begin\:lparen.gif\:1531\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -965,8 +965,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=1153
-semirareLocation=Spooky Forest
+semirareCounter=1331
+semirareLocation=Hippy Camp
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
