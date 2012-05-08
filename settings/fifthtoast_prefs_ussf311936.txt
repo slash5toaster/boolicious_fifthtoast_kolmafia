@@ -587,7 +587,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=25
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -595,7 +595,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=3
+currentSpleenUse=0
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -671,7 +671,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=Oasis in the Desert
+lastAdventure=Palindome
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -686,13 +686,13 @@ lastBangPotion827
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=7
+lastBreakfast=8
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=7
+lastCounterDay=8
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -733,7 +733,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=blur
+lastEncounter=Racecar Bob
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -865,7 +865,6 @@ pyramidBombUsed=true
 pyramidPosition=1
 questF01Primordial=unstarted
 questF01Primordial,=Primordial Fear\=unstarted
-questF01Primordial, Primordial Fear=unstarted
 questF02Hyboria=unstarted
 questF03Future=unstarted
 questF04Elves=unstarted
@@ -879,35 +878,35 @@ questG06Delivery=unstarted
 questI01Scapegoat=unstarted
 questI02Beat=unstarted
 questI02Beat =unstarted
-questL02Larva=unstarted
-questL03Rat=unstarted
-questL04Bat=unstarted
-questL05Goblin=unstarted
-questL06Friar=unstarted
-questL07Cyrptic=unstarted
-questL08Trapper=unstarted
-questL09Lol=unstarted
-questL10Garbage=unstarted
+questL02Larva=finished
+questL03Rat=finished
+questL04Bat=finished
+questL05Goblin=finished
+questL06Friar=finished
+questL07Cyrptic=finished
+questL08Trapper=finished
+questL09Lol=finished
+questL10Garbage=finished
 questL11MacGuffin=step2
 questL11Manor=started
-questL11Palindome=started
-questL11Pyramid=step1
+questL11Palindome=step2
+questL11Pyramid=step11
 questL11Worship=started
 questL12War=unstarted
 questL13Final=unstarted
-questM01Untinker=unstarted
-questM02Artist=unstarted
+questM01Untinker=finished
+questM02Artist=finished
 questM03Bugbear=step1
-questM04Galaktic=unstarted
+questM04Galaktic=finished
 questM05Toot=unstarted
-questM06Gourd=unstarted
+questM06Gourd=finished
 questM07Hammer=unstarted
 questM08Baker=unstarted
 questM09Rocks=unstarted
 questM10Azazel=unstarted
 questM11Postal=unstarted
-questM12Pirate=unstarted
-questM13Escape=unstarted
+questM12Pirate=finished
+questM13Escape=finished
 questM14Bounty=unstarted
 questS01OldGuy=unstarted
 questS02Monkees=unstarted
@@ -922,7 +921,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=1485\:The Shore loc\=* shore.php\:dinghy.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
