@@ -1,0 +1,49 @@
+
+equip acc2 pirate fledges
+choice.php?forceoption=0
+
+[1595] Palindome
+Encounter: Sun at Noon, Tan Us
+Took choice 126/1: moxie
+choice.php?pwd&whichchoice=126&option=1
+You gain 123 Smarm
+You gain a Moxie point!
+
+[1596] Palindome
+Encounter: Flock of Stab-bats
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 54 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: flock of stab-bats takes 124 damage.
+You lose 51 hit points
+After Battle: unspecified macro action?
+After Battle: flock of stab-bats takes 120 damage.
+After Battle: fifthtoast wins the fight!
+You gain 8 hit points
+You gain 9 Muscularity Points
+You gain 155 Meat
+You acquire an item: batblade
+You acquire an item: batgut
+You acquire an item: bat wing
+You gain 26 Muscleboundness
+You gain 12 Magicalness
+You gain 6 Cheek
+
+[1597] Palindome
+Encounter: Evil Olive
+Round 0: fifthtoast loses initiative!
+Round 0: fifthtoast casts MIGHTY AXING!
+You lose 44 hit points
+Round 1: fifthtoast casts MIGHTY AXING!
+Round 2: evil olive takes 130 damage.
+You lose 45 hit points
+After Battle: unspecified macro action?
+After Battle: evil olive takes 138 damage.
+After Battle: fifthtoast wins the fight!
+You gain 7 hit points
+You gain 5 Muscularity Points
+You acquire an item: bottle of gin
+You gain 17 Beefiness
+You gain 10 Enchantedness
+You gain 13 Smarm
