@@ -56,7 +56,7 @@ _companionshipCasts=0
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=0
+_demandSandwich=3
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -115,7 +115,7 @@ _smilesOfMrA=0
 _stinkyCheeseCount=0
 _stressBallSqueezes=0
 _syntheticDogHairPillUsed=false
-_templeHiddenPower=true
+_templeHiddenPower=false
 _thingfinderCasts=0
 _timeHelmetAdv=0
 _toastSummons=0
@@ -221,7 +221,7 @@ birdformRoc=0
 birdformSleaze=0
 birdformSpooky=0
 birdformStench=0
-blackPuddingsDefeated=9
+blackPuddingsDefeated=10
 blankOutUsed=0
 bootsCharged=false
 borisPoints=2
@@ -237,7 +237,7 @@ buyScript
 cameraMonster
 camerasUsed=0
 carboLoading=0
-cellarLayout=10929555
+cellarLayout=10999187
 charitableDonations=0
 chatLiterate=false
 chatbotScript
@@ -617,8 +617,8 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=0
-currentFullness=0
+currentBountyItem=2104
+currentFullness=25
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -626,7 +626,7 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=97014
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=4
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -650,7 +650,7 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8
 demonName9
-demonSummoned=false
+demonSummoned=true
 desktopHeight=600
 desktopWidth=800
 discardedKarma=0
@@ -679,7 +679,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=6
@@ -693,7 +693,7 @@ hermitHax0red=false
 heroDonationBoris=11500
 heroDonationJarlsberg=0
 heroDonationSneakyPete=0
-hiddenCityLayout=EEEWEEEEEEFEELTANEEEEEEEE
+hiddenCityLayout=DEEFNAEEEEEEETEWEDEDEEDLD
 hiddenCitySquare=0
 hippiesDefeated=0
 hpAutoRecovery=-0.05
@@ -703,30 +703,30 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=Palindome
+lastAdventure=Dungeons of Doom
 lastArcadeAscension=-1
 lastBadMoonReset=-1
-lastBallroomUnlock=1
+lastBallroomUnlock=2
 lastBangPotion-1=confusion
 lastBangPotion819=ettin strength
 lastBangPotion820=mental acuity
 lastBangPotion821=detection
-lastBangPotion822=confusion
+lastBangPotion822=detection
 lastBangPotion823=teleportitis
-lastBangPotion824=inebriety
+lastBangPotion824=teleportitis
 lastBangPotion825=healing
 lastBangPotion826=sleepiness
 lastBangPotion827=blessing
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=8
+lastBreakfast=9
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=11
-lastCounterDay=8
+lastCouncilVisit=12
+lastCounterDay=9
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=3
@@ -767,7 +767,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=0
-lastEncounter=Evil Olive
+lastEncounter=swarm of killer bees
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=2
@@ -775,7 +775,7 @@ lastGalleryUnlock=2
 lastGuildStoreOpen=1
 lastGuyMadeOfBeesReset=2
 lastHermitReset=2
-lastHiddenCityAscension=1
+lastHiddenCityAscension=2
 lastHippyCall=-1
 lastKingLiberation=2
 lastLouvreMap=2
@@ -808,8 +808,8 @@ lastPirateInsultReset=2
 lastPorkoBoard
 lastPorkoExpected=0.84\:0.70\:0.55\:0.12\:0.12\:0.12\:0.56\:2.50\:2.50
 lastPorkoPayouts=001102322
-lastPyramidReset=1
-lastQuartetAscension=0
+lastPyramidReset=2
+lastQuartetAscension=2
 lastQuartetRequest=3
 lastSecondFloorUnlock=2
 lastSemirareReset=2
@@ -826,16 +826,16 @@ lastSlimeVial3893
 lastSlimeVial3894
 lastSlimeVial3895
 lastSlimeVial3896
-lastStoneSphere2174=lightning
+lastStoneSphere2174=water
 lastStoneSphere2175=fire
-lastStoneSphere2176=water
-lastStoneSphere2177=nature
+lastStoneSphere2176=nature
+lastStoneSphere2177=lightning
 lastStoneSphereReset=2
 lastTavernAscension=2
 lastTavernSquare=16
 lastTelescopeReset=2
-lastTempleAdventures=-1
-lastTempleButtonsUnlock=-1
+lastTempleAdventures=2
+lastTempleButtonsUnlock=2
 lastTempleUnlock=2
 lastTowerClimb=1
 lastTr4pz0rQuest=2
@@ -896,8 +896,8 @@ preAscensionScript
 preBlackbirdFamiliar=Cocoabo
 prismaticSummons=0
 promptAboutCrafting=1
-pyramidBombUsed=true
-pyramidPosition=1
+pyramidBombUsed=false
+pyramidPosition=5
 questF01Primordial=unstarted
 questF01Primordial,=Primordial Fear\=unstarted
 questF02Hyboria=unstarted
@@ -923,15 +923,15 @@ questL08Trapper=finished
 questL09Lol=finished
 questL10Garbage=finished
 questL11MacGuffin=step2
-questL11Manor=started
-questL11Palindome=step2
-questL11Pyramid=step11
-questL11Worship=started
-questL12War=unstarted
+questL11Manor=finished
+questL11Palindome=finished
+questL11Pyramid=step12
+questL11Worship=finished
+questL12War=started
 questL13Final=unstarted
 questM01Untinker=finished
 questM02Artist=finished
-questM03Bugbear=step1
+questM03Bugbear=step2
 questM04Galaktic=finished
 questM05Toot=unstarted
 questM06Gourd=finished
@@ -1007,7 +1007,7 @@ spookyPuttyMonster=something <i>totally</i> unrecognizable
 stationaryButton1=11003
 stationaryButton2=11001
 stationaryButton3=11000
-stationaryButton4
+stationaryButton4=11011
 stationaryButton5
 styxPixieVisited=false
 sugarCounter4178=0
@@ -1079,4 +1079,4 @@ volcanoMaze4
 volcanoMaze5
 warProgress=unstarted
 welcomeBackAdv=0
-wineCellarProgress=0
+wineCellarProgress=3
