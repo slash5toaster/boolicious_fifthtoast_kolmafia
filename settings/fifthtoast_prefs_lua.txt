@@ -56,7 +56,7 @@ _companionshipCasts=0
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=3
+_demandSandwich=0
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -618,7 +618,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2104
-currentFullness=25
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -626,7 +626,7 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=97014
 currentPvpVictories
-currentSpleenUse=4
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -650,7 +650,7 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8
 demonName9
-demonSummoned=true
+demonSummoned=false
 desktopHeight=600
 desktopWidth=800
 discardedKarma=0
@@ -720,13 +720,13 @@ lastBangPotion827=blessing
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=9
+lastBreakfast=10
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=12
-lastCounterDay=9
+lastCounterDay=10
 lastDispensaryOpen=-1
 lastDoorCodeReset=1
 lastDustyBottle2271=3
@@ -886,8 +886,8 @@ pastamancerOrbedName
 pastamancerOrbedType
 pendingMapReflections=0
 photocopyMonster=monster
-plantingDate=4
-plantingDay=0
+plantingDate=10
+plantingDay=1
 plantingLength=8
 plantingScript=Stinky
 poolSharkCount=0
@@ -903,7 +903,7 @@ questF01Primordial,=Primordial Fear\=unstarted
 questF02Hyboria=unstarted
 questF03Future=unstarted
 questF04Elves=unstarted
-questF05Clancy=step3
+questF05Clancy=finished
 questG01Meatcar=unstarted
 questG02Whitecastle=unstarted
 questG03Ego=unstarted
