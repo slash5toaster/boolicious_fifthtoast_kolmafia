@@ -33,7 +33,7 @@ TabbedChatFrame=772,99,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
-_allYearSucker=false
+_allYearSucker=true
 _aprilShower=true
 _astralDrops=0
 _badlyRomanticArrows=0
@@ -70,7 +70,7 @@ _gongDrops=0
 _grooseDrops=0
 _hareAdv=0
 _hipsterAdv=0
-_hotTubSoaks=1
+_hotTubSoaks=2
 _iceballUses=0
 _inigosCasts=0
 _interviewIsabella=false
@@ -100,11 +100,11 @@ _poisonArrows=0
 _poolGames=1
 _precisionCasts=0
 _raindohCopiesMade=0
-_resolutionAdv=4
+_resolutionAdv=0
 _riftletAdv=0
 _romanticFightsLeft=0
 _sealFigurineUses=0
-_sealsSummoned=0
+_sealsSummoned=2
 _sexChanged=false
 _skateBuff1=false
 _skateBuff2=false
@@ -118,7 +118,7 @@ _syntheticDogHairPillUsed=false
 _templeHiddenPower=false
 _thingfinderCasts=0
 _timeHelmetAdv=0
-_toastSummons=0
+_toastSummons=3
 _tokenDrops=0
 _transponderDrops=0
 _trivialAvocationsGame=true
@@ -616,9 +616,9 @@ clanAttacksEnabled=false
 cocktailSummons=0
 concertVisited=false
 counterScript
-crimboTreeDays=1
+crimboTreeDays=6
 currentBountyItem=0
-currentFullness=0
+currentFullness=15
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -626,8 +626,8 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
-currentWheelPosition=muscle
+currentSpleenUse=2
+currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
 cyrptCrannyEvilness=0
@@ -658,7 +658,7 @@ distentionPillActive=false
 dolphinItem
 doorCode
 expressCardUsed=false
-extraRolloverAdventures=4
+extraRolloverAdventures=0
 fistSkillsKnown=0
 fistTeachingsBarroomBrawl=false
 fistTeachingsBatHole=false
@@ -703,10 +703,10 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Frat House
+lastAdventure=Pirate Cove
 lastArcadeAscension=-1
 lastBadMoonReset=-1
-lastBallroomUnlock=1
+lastBallroomUnlock=3
 lastBangPotion819
 lastBangPotion820
 lastBangPotion821=ettin strength
@@ -719,22 +719,22 @@ lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=9
+lastBreakfast=11
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=8
-lastCounterDay=9
+lastCounterDay=11
 lastDispensaryOpen=3
 lastDoorCodeReset=1
-lastDustyBottle2271=0
-lastDustyBottle2272=0
-lastDustyBottle2273=0
-lastDustyBottle2274=0
-lastDustyBottle2275=0
-lastDustyBottle2276=0
-lastDustyBottleReset=1
+lastDustyBottle2271=5
+lastDustyBottle2272=1
+lastDustyBottle2273=4
+lastDustyBottle2274=2
+lastDustyBottle2275=3
+lastDustyBottle2276=6
+lastDustyBottleReset=3
 lastDwarfDiceRolls
 lastDwarfDigitRunes=-------
 lastDwarfEquipmentRunes
@@ -765,8 +765,8 @@ lastDwarfOreRunes
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
-lastEmptiedStorage=2
-lastEncounter=Orcish Frat Boy
+lastEmptiedStorage=3
+lastEncounter=The Arrrbitrator
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -793,8 +793,8 @@ lastPaperStrip4143=fuzzy\:PYEW\:wibbly
 lastPaperStrip4144=sinusoidal\:GORT\:careful
 lastPaperStripReset=1
 lastPastamancerGhostReset=3
-lastPirateEphemera=pirate brochure
-lastPirateEphemeraReset=1
+lastPirateEphemera=pirate pamphlet
+lastPirateEphemeraReset=3
 lastPirateInsult1=false
 lastPirateInsult2=false
 lastPirateInsult3=false
@@ -808,7 +808,7 @@ lastPorkoBoard=11312311222213221133112331132321312313232223311323121313233323331
 lastPorkoExpected=0.84\:0.70\:0.55\:0.12\:0.12\:0.12\:0.56\:2.50\:2.50
 lastPorkoPayouts=001102322
 lastPyramidReset=1
-lastQuartetAscension=1
+lastQuartetAscension=3
 lastQuartetRequest=3
 lastSecondFloorUnlock=3
 lastSemirareReset=3
@@ -841,11 +841,11 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=3
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=9
+libramSummons=8
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
-louvreLayout
+louvreLayout=97,0,0,0,0,97,98,96,97,0,0,0,100,99,93,94,101,102,94,103,104,0,0,94,0,0,94,0,0,94,0,0,94,0,0,94,3,5,94
 louvreOverride
 manaBurnSummonThreshold=10
 manaBurningThreshold=0.5
@@ -920,7 +920,7 @@ questL06Friar=finished
 questL07Cyrptic=finished
 questL08Trapper=finished
 questL09Lol=finished
-questL10Garbage=unstarted
+questL10Garbage=finished
 questL11MacGuffin=unstarted
 questL11Manor=unstarted
 questL11Palindome=unstarted
@@ -939,7 +939,7 @@ questM08Baker=unstarted
 questM09Rocks=finished
 questM10Azazel=started
 questM11Postal=unstarted
-questM12Pirate=unstarted
+questM12Pirate=step3
 questM13Escape=finished
 questM14Bounty=unstarted
 questS01OldGuy=unstarted
@@ -968,7 +968,7 @@ semirareCounter=268
 semirareLocation=Spooky Forest
 serverAddsCustomCombat=false
 sexChanges=0
-showGainsPerUnit=false
+showGainsPerUnit=true
 showTurnFreeOnly=false
 sideDefeated=neither
 sidequestArenaCompleted=none
@@ -1005,7 +1005,7 @@ spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
 stationaryButton1=1022
 stationaryButton2=4009
-stationaryButton3
+stationaryButton3=1003
 stationaryButton4
 stationaryButton5
 styxPixieVisited=false
