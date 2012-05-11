@@ -4,7 +4,7 @@ CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
 KoLDesktop=190,53,-1
-LoginFrame=725,365,0
+LoginFrame=675,365,0
 MaximizerFrame=972,383
 ProfileFrame=2662,409,-1
 RequestFrame=2575,334,-1
@@ -587,7 +587,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=24
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -646,7 +646,7 @@ fossilN=0
 fossilP=0
 fossilS=0
 fossilW=0
-fratboysDefeated=0
+fratboysDefeated=8
 friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
@@ -671,7 +671,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=2
-lastAdventure=Palindome
+lastAdventure=Hatching Chamber
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -686,13 +686,13 @@ lastBangPotion827
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=10
+lastBreakfast=11
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=10
+lastCounterDay=11
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -733,7 +733,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=Racecar Bob
+lastEncounter=larval filthworm
 lastFilthClearance=1
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -774,7 +774,7 @@ lastPorkoBoard
 lastPorkoExpected
 lastPorkoPayouts
 lastPyramidReset=1
-lastQuartetAscension=0
+lastQuartetAscension=2
 lastQuartetRequest=3
 lastSecondFloorUnlock=0
 lastSemirareReset=2
@@ -890,9 +890,9 @@ questL10Garbage=finished
 questL11MacGuffin=step2
 questL11Manor=finished
 questL11Palindome=finished
-questL11Pyramid=step12
+questL11Pyramid=finished
 questL11Worship=finished
-questL12War=started
+questL12War=step1
 questL13Final=unstarted
 questM01Untinker=finished
 questM02Artist=finished
@@ -938,7 +938,7 @@ showGainsPerUnit=false
 showTurnFreeOnly=false
 sideDefeated=neither
 sidequestArenaCompleted=none
-sidequestFarmCompleted=none
+sidequestFarmCompleted=hippy
 sidequestJunkyardCompleted=none
 sidequestLighthouseCompleted=none
 sidequestNunsCompleted=none
@@ -1042,6 +1042,6 @@ volcanoMaze2
 volcanoMaze3
 volcanoMaze4
 volcanoMaze5
-warProgress=unstarted
+warProgress=started
 welcomeBackAdv=0
 wineCellarProgress=0

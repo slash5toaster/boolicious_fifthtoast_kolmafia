@@ -4968,3 +4968,611 @@ You acquire an item: hellseal claw
 You gain 13 Muscleboundness
 You gain 8 Enchantedness
 You gain 6 Sarcasm
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+May 11, 2012 - April 4
+
+Ronald: waxing gibbous
+Grimace: waning gibbous
+Mini-moon: in back, near Grimace
+
+El Dia De Los Muertos Borrachos: 6 days
+Generic Summer Holiday: 15 days
+Dependence Day: 24 days
+Arrrbor Day: 32 days
+Lab&oacute;r Day: 42 days
+Halloween: 52 days
+Feast of Boris: 59 days
+Yuletide: 64 days
+Festival of Jarlsberg: 69 days
+Valentine's Day: 80 days
+St. Sneaky Pete's Day: 87 days
+Oyster Egg Day: 94 days
+
+
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 11
+HP: 616 / 616
+MP: 85 / 287
+
+Mus: 394 (104), tnp = 54
+Mys: 267 (81), tnp = 28
+Mox: 278 (86), tnp = 58
+
+Advs: 34
+Meat: 103,412
+Drunk: 19
+
+
+ > equipment
+
+Hat: mesh cap
+Weapon: Hammer of Smiting
+Off-hand: catskin buckler
+Shirt: astral shirt
+Pants: swashbuckling pants
+
+Acc. 1: Lord Spookyraven's spectacles
+Acc. 2: Mr. Accessory
+Acc. 3: headhunter necktie
+
+Pet: Fancypants Scarecrow (15 lbs)
+Item: trousers of the white knight
+
+ > skills
+
+Uncategorized
+ - Liver of Steel
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Snarl of the Timberwolf
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Having a Ball!
+Hustlin' (5)
+Mental A-cue-ity (5)
+Trivia Master (11)
+Brilliant Resolve (49)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +70.00%
+
+Exp: +1.50
+Meat: +135.24%
+Item: +15.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 2 Summon Resolutions
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be sexier
+
+[1381] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious loses initiative!
+Round 0: boolicious casts LUNGING THRUST-SMACK!
+You lose 235 hit points
+Round 1: unspecified macro action?
+Round 1: boolicious attacks!
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 21 damage? She never saw it coming! How droll."
+Round 2: mother hellseal takes 21 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. She overhears that, and is too demoralized to attack this round.
+Round 2: boolicious casts CLOBBER!
+Round 3: mother hellseal takes 31 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 29 damage? She never saw it coming! How droll."
+Round 3: mother hellseal takes 29 damage.
+Round 3: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. She overhears that, and is too demoralized to attack this round.
+Round 3: boolicious casts CLOBBER!
+Round 4: mother hellseal takes 23 damage.
+Round 4: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 19 damage? She never saw it coming! How droll."
+Round 4: mother hellseal takes 19 damage.
+Round 4: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. She overhears that, and is too demoralized to attack this round.
+Round 4: boolicious casts CLOBBER!
+Round 5: mother hellseal takes 30 damage.
+Round 5: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 25 damage? She never saw it coming! How droll."
+Round 5: mother hellseal takes 25 damage.
+Round 5: boolicious wins the fight!
+You acquire an item: torn hellseal sinew
+You acquire an item: hellseal claw
+You gain 90 Beefiness
+You gain a Muscle point!
+You gain 55 Magicalness
+You gain a Mysticality point!
+You gain 57 Sarcasm
+outfit Filthy Hippy Disguise
+outfit War Hippy Fatigues
+
+equip acc1 heart of the volcano
+
+buy 1 philter of phorce for 495 each from 1699424 on 20120511
+You acquire an item: philter of phorce
+
+use 1 philter of phorce
+You acquire an effect: Phorcefullness (duration: 5 Adventures)
+
+use 1 cold-filtered water
+You acquire an effect: Purity of Spirit (duration: 10 Adventures)
+
+buy 1 blood of the Wereseal for 500 each from Smacketeria
+You acquire an item: blood of the Wereseal
+You spent 500 Meat
+
+use 1 blood of the Wereseal
+You acquire an effect: Temporary Lycanthropy (duration: 10 Adventures)
+
+use 1 seal-brain elixir
+You acquire an effect: Sealed Brain (duration: 20 Adventures)
+
+buy 5 Ben-Gal™ Balm for 24 each from The General Store
+You acquire Ben-Gal&trade; Balm (5)
+You spent 120 Meat
+
+use 5 Ben-Gal&trade; Balm
+You acquire an effect: Go Get 'Em, Tiger! (duration: 15 Adventures)
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+Visiting April Shower in clan VIP lounge
+
+Visiting Relaxing Hot Tub in clan VIP lounge
+You gain 563 hit points
+
+use 4 carbonated soy milk
+You gain 300 Muscularity Points
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+[1382] Hippy Camp In Disguise
+Encounter: Where There's Smoke...
+You gain 20 Magicalness
+You acquire an effect: Confused (duration: 3 Adventures)
+
+[1383] Hippy Camp In Disguise
+Encounter: What's Brown and Sounds Like a Parrot?
+You acquire an item: jug-o-magicalness
+You acquire an item: secret blend of herbs and spices
+You acquire an item: wad of tofu
+
+[1384] Hippy Camp In Disguise
+Encounter: Hippies in the Mist
+You gain 15 Mysteriousness
+
+[1385] Hippy Camp In Disguise
+Encounter: Games Hippies Play
+You gain 17 Mysteriousness
+
+[1386] Black Forest
+Encounter: blackberry bush
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 8 hit points
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 15 damage? It never saw it coming! How droll."
+Round 2: blackberry bush takes 15 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: blackberry bush takes 549 damage.
+You lose 6 hit points
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 25 damage? It never saw it coming! How droll."
+Round 3: blackberry bush takes 25 damage.
+Round 3: boolicious wins the fight!
+You gain 17 Fortitude
+You gain 11 Wizardliness
+You gain 11 Chutzpah
+You gain a Moxie point!
+
+equip hat mesh cap
+
+equip pants cane-mail pants
+
+equip acc1 Slow Talkin' Elliot's dogtags
+
+equip acc3 headhunter necktie
+
+[1387] Black Forest
+Encounter: blackberry bush
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: blackberry bush takes 492 damage.
+You lose 4 hit points
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 26 damage? It never saw it coming! How droll."
+Round 2: blackberry bush takes 26 damage.
+Round 2: boolicious wins the fight!
+You gain 13 Fortitude
+You gain 12 Enchantedness
+You gain 13 Smarm
+
+[1388] Black Forest
+Encounter: black panther
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: black panther takes 484 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 30 damage? It never saw it coming! How droll."
+Round 2: black panther takes 30 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 352 Meat
+You acquire an item: Black No. 2
+You gain 13 Beefiness
+You gain 17 Wizardliness
+You gain 9 Roguishness
+
+[1389] Black Forest
+Encounter: black widow
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: black widow takes 502 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 23 damage? She never saw it coming! How droll."
+Round 2: black widow takes 23 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 129 Meat
+You gain 17 Beefiness
+You gain 15 Magicalness
+You gain 8 Sarcasm
+
+[1390] Black Forest
+Encounter: black adder
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: black adder takes 486 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 21 damage? It never saw it coming! How droll."
+Round 2: black adder takes 21 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 235 Meat
+You gain 18 Strengthliness
+You gain 11 Enchantedness
+You gain 8 Sarcasm
+
+[1391] Black Forest
+Encounter: black adder
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: black adder takes 485 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 16 damage? It never saw it coming! How droll."
+Round 2: black adder takes 16 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 199 Meat
+You acquire an item: adder bladder
+You acquire an item: sunken eyes
+You gain 20 Strengthliness
+You gain 12 Magicalness
+You gain 7 Chutzpah
+
+[1392] Black Forest
+Encounter: black adder
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: black adder takes 212 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 22 damage? It never saw it coming! How droll."
+Round 2: black adder takes 22 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 256 Meat
+You gain 21 Strengthliness
+You gain 12 Magicalness
+You gain a Mysticality point!
+You gain 6 Smarm
+
+[1393] Black Forest
+Encounter: blackberry bush
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: blackberry bush takes 212 damage.
+You lose 6 hit points
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 24 damage? It never saw it coming! How droll."
+Round 2: blackberry bush takes 24 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: blackberry
+You gain 18 Strongness
+You gain 10 Wizardliness
+You gain 9 Sarcasm
+
+[1394] Black Forest
+Encounter: black panther
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: black panther takes 215 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 17 damage? It never saw it coming! How droll."
+Round 2: black panther takes 17 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 350 Meat
+You acquire an item: broken wings
+You gain 17 Muscleboundness
+You gain 13 Magicalness
+You gain 8 Roguishness
+
+[1395] Black Forest
+Encounter: The Black Knight
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: the black knight takes 218 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 29 damage? He never saw it coming! How droll."
+Round 2: the black knight takes 29 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 190 Meat
+You gain 22 Strongness
+You gain a Muscle point!
+You gain 5 Mysteriousness
+You gain 10 Cheek
+
+[1396] Black Forest
+Encounter: black panther
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: black panther takes 224 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 27 damage? It never saw it coming! How droll."
+Round 2: black panther takes 27 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 345 Meat
+You acquire an item: Black No. 2
+You gain 24 Fortitude
+You gain 6 Magicalness
+You gain 8 Roguishness
+
+[1397] Black Forest
+Encounter: A Man in Black
+You acquire an item: black market map
+
+Visiting Innabox
+
+Combine 1 bat wing + 1 batblade
+You acquire an item: one-winged stab bat
+
+Combine 1 broken wings + 1 sunken eyes
+You acquire an item: reassembled blackbird
+
+use 1 reassembled blackbird
+
+familiar Reassembled Blackbird (1 lbs)
+
+use 1 black market map
+
+familiar none
+
+buy 1 forged identification documents for 5000 each from Black Market
+You acquire an item: forged identification documents
+You spent 5,000 Meat
+
+[1398] Muscle Vacation
+Encounter: Covert Operations
+You acquire an item: your father's MacGuffin diary
+
+diary.php?textversion=1
+diary.php?textversion=1&pwd=c8c3e7e226ed48b97e5702304d28a107
+
+familiar Fancypants Scarecrow (20 lbs)
+
+[1401] Hidden Temple
+Encounter: craven carven raven
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: craven carven raven takes 280 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 17 damage? He never saw it coming! How droll."
+Round 2: craven carven raven takes 17 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: shiny stones
+You gain 6 Fortitude
+You gain 7 Wizardliness
+You gain 6 Chutzpah
+choice.php?forceoption=0
+
+[1402] Hidden Temple
+Encounter: Such Great Heights
+Took choice 579/2: gain the Nostril of the Serpent
+choice.php?pwd&whichchoice=579&option=2
+You acquire an item: the Nostril of the Serpent
+
+[1403] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: baa-relief sheep takes 25 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 22 damage? She never saw it coming! How droll."
+Round 2: baa-relief sheep takes 22 damage.
+Round 2: boolicious wins the fight!
+You gain 9 Strengthliness
+You gain 4 Enchantedness
+You gain 5 Cheek
+
+[1404] Hidden Temple
+Encounter: stone temple pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: stone temple pirate takes 29 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 29 damage? He never saw it coming! How droll."
+Round 2: stone temple pirate takes 29 damage.
+Round 2: boolicious wins the fight!
+You gain 5 Beefiness
+You gain 9 Enchantedness
+You gain 4 Cheek
+
+[1405] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: baa-relief sheep takes 33 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 25 damage? She never saw it coming! How droll."
+Round 2: baa-relief sheep takes 25 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: stone wool
+You gain 10 Muscleboundness
+You gain 3 Mysteriousness
+You gain 5 Smarm
+
+[1406] Hidden Temple
+Encounter: craven carven raven
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: craven carven raven takes 30 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 19 damage? He never saw it coming! How droll."
+Round 2: craven carven raven takes 19 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: shiny stones
+You gain 5 Strengthliness
+You gain 7 Enchantedness
+You gain 7 Cheek
+
+[1407] Hidden Temple
+Encounter: craven carven raven
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: craven carven raven takes 26 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 23 damage? He never saw it coming! How droll."
+Round 2: craven carven raven takes 23 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: shiny stones
+You gain 5 Strengthliness
+You gain 7 Magicalness
+You gain 6 Chutzpah
+
+[1408] Hidden Temple
+Encounter: craven carven raven
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: craven carven raven takes 24 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 29 damage? He never saw it coming! How droll."
+Round 2: craven carven raven takes 29 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: shiny stones
+You gain 7 Fortitude
+You gain 6 Magicalness
+You gain 5 Sarcasm
+
+[1409] Hidden Temple
+Encounter: stone temple pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: stone temple pirate takes 27 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 24 damage? He never saw it coming! How droll."
+Round 2: stone temple pirate takes 24 damage.
+Round 2: boolicious wins the fight!
+You gain 8 Strongness
+You gain 5 Magicalness
+You gain 5 Cheek
+
+[1410] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: baa-relief sheep takes 30 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 30 damage? She never saw it coming! How droll."
+Round 2: baa-relief sheep takes 30 damage.
+Round 2: boolicious wins the fight!
+You gain 5 Strongness
+You gain 7 Mysteriousness
+You gain 7 Chutzpah
+
+[1411] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: baa-relief sheep takes 30 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 27 damage? She never saw it coming! How droll."
+Round 2: baa-relief sheep takes 27 damage.
+Round 2: boolicious wins the fight!
+You gain 8 Strengthliness
+You gain 4 Magicalness
+You gain 6 Smarm
+
+[1412] Hidden Temple
+Encounter: stone temple pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: stone temple pirate takes 30 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 25 damage? He never saw it coming! How droll."
+Round 2: stone temple pirate takes 25 damage.
+Round 2: boolicious wins the fight!
+You gain 12 Strongness
+You gain 4 Magicalness
+You gain 3 Roguishness
+
+[1413] Hidden Temple
+Encounter: craven carven raven
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: craven carven raven takes 26 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 26 damage? He never saw it coming! How droll."
+Round 2: craven carven raven takes 26 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: shiny stones
+You gain 9 Muscleboundness
+You gain 6 Enchantedness
+You gain 3 Smarm
+
+[1414] Hidden Temple
+Encounter: craven carven raven
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: craven carven raven takes 27 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 20 damage? He never saw it coming! How droll."
+Round 2: craven carven raven takes 20 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: shiny stones
+You gain 8 Strongness
+You gain 5 Enchantedness
+You gain 5 Cheek
