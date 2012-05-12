@@ -191,3 +191,359 @@ You acquire an item: resolution: be happier
 You acquire an item: resolution: be wealthier
 You acquire an item: resolution: be sexier
 You acquire an item: resolution: be more adventurous
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+May 12, 2012 - April 5
+
+Ronald: full moon
+Grimace: third quarter
+Mini-moon: behind Ronald
+
+El Dia De Los Muertos Borrachos: 5 days
+Generic Summer Holiday: 14 days
+Dependence Day: 23 days
+Arrrbor Day: 31 days
+Lab&oacute;r Day: 41 days
+Halloween: 51 days
+Feast of Boris: 58 days
+Yuletide: 63 days
+Festival of Jarlsberg: 68 days
+Valentine's Day: 79 days
+St. Sneaky Pete's Day: 86 days
+Oyster Egg Day: 93 days
+
+
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 11
+HP: 368 / 368
+MP: 6 / 135
+
+Mus: 229 (106), tnp = 71
+Mys: 115 (83), tnp = 55
+Mox: 112 (87), tnp = 12
+
+Advs: 51
+Meat: 99,661
+Drunk: 0
+
+
+ > equipment
+
+Hat: mesh cap
+Weapon: Hammer of Smiting
+Off-hand: catskin buckler
+Shirt: astral shirt
+Pants: cane-mail pants
+
+Acc. 1: Slow Talkin' Elliot's dogtags
+Acc. 2: Mr. Accessory
+Acc. 3: headhunter necktie
+
+Pet: Fancypants Scarecrow (15 lbs)
+Item: trousers of the white knight
+
+ > skills
+
+Uncategorized
+ - Liver of Steel
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Snarl of the Timberwolf
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Brilliant Resolve (15)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: -10.00%
+
+Exp: +1.50
+Meat: +135.24%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+mallsell: 15 disassembled clover
+
+mallsell: 2 Bright Water, 4 cold-filtered water
+
+manageprices.php?action=update&price542=260&limit542=0&price594=410&limit594=0&price622=272&limit622=0&price432=120&limit432=0&price3858=250&limit3858=0&price834=190&limit834=0&price472=190&limit472=0&price196=2250&limit196=1&price632=264&limit632=0&price541=240&limit541=0&price399=230&limit399=0&price538=260&limit538=0&price3864=164&limit3864=0&price544=200&limit544=0&price616=258&limit616=0&price497=236&limit497=0&price218=155&limit218=0&price395=196&limit395=0&price2093=230&limit2093=0&price3859=170&limit3859=0&price300=150&limit300=0&price776=190&limit776=0&price312=160&limit312=0&price475=130&limit475=0&price2598=300&limit2598=0&price3844=184&limit3844=0&price836=156&limit836=0&price239=160&limit239=0&price393=196&limit393=0&price299=150&limit299=0&price613=256&limit613=0&price614=256&limit614=0&price2613=150&limit2613=0&price1=100&limit1=0&price2680=300&limit2680=0&price356=220&limit356=0&price2687=400&limit2687=0&price4212=380&limit4212=0&price1655=120&limit1655=0&price5259=7900&limit5259=0&price5260=14900&limit5260=0
+mall.php?didadv=0&pudnuggler=cold-filter&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=0&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+manageprices.php?action=update&price5260=14990&limit5260=0&price5259=7950&limit5259=0&price196=2250&limit196=1&price594=410&limit594=0&price2687=400&limit2687=0&price4212=380&limit4212=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price622=272&limit622=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price356=220&limit356=0&price544=200&limit544=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price299=150&limit299=0&price2613=150&limit2613=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price1=100&limit1=0
+mall.php?didadv=0&pudnuggler=water&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=0&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+manageprices.php?action=update&price5260=14990&limit5260=0&price5259=7990&limit5259=0&price196=2250&limit196=1&price594=410&limit594=0&price2687=400&limit2687=0&price4212=380&limit4212=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price622=272&limit622=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price356=220&limit356=0&price544=200&limit544=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price299=150&limit299=0&price2613=150&limit2613=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price1=100&limit1=0
+manageprices.php?action=update&price5260=14990&limit5260=0&price5259=7990&limit5259=0&price196=2180&limit196=1&price594=410&limit594=0&price2687=400&limit2687=0&price4212=380&limit4212=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price622=272&limit622=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price356=220&limit356=0&price544=200&limit544=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price299=150&limit299=0&price2613=150&limit2613=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price1=100&limit1=0
+
+buy 4 carbonated water lily for 261 each from 1105335 on 20120512
+You acquire carbonated water lily (4)
+
+mall.php?justitems=0&pudnuggler=%22Earth%2C+Wind+and+Firewater%22
+
+mallsell: 1 4:20 bomb
+
+mallsell: 2 unbearable light
+
+manageprices.php?action=update&price5260=14990&limit5260=0&price5280=10000&limit5280=0&price5259=7990&limit5259=0&price5229=4200&limit5229=0&price196=2180&limit196=1&price594=410&limit594=0&price2687=400&limit2687=0&price4212=380&limit4212=0&price2598=300&limit2598=0&price2680=300&limit2680=0&price622=272&limit622=0&price632=264&limit632=0&price542=260&limit542=0&price538=260&limit538=0&price616=258&limit616=0&price613=256&limit613=0&price614=256&limit614=0&price3858=250&limit3858=0&price541=240&limit541=0&price497=236&limit497=0&price399=230&limit399=0&price2093=230&limit2093=0&price356=220&limit356=0&price544=200&limit544=0&price395=196&limit395=0&price393=196&limit393=0&price834=190&limit834=0&price472=190&limit472=0&price776=190&limit776=0&price3844=184&limit3844=0&price3859=170&limit3859=0&price3864=164&limit3864=0&price312=160&limit312=0&price239=160&limit239=0&price836=156&limit836=0&price218=155&limit218=0&price300=150&limit300=0&price299=150&limit299=0&price2613=150&limit2613=0&price475=130&limit475=0&price432=120&limit432=0&price1655=120&limit1655=0&price1=100&limit1=0
+
+use 1 Knob Goblin superseltzer
+You gain 26 Muscularity Points
+
+use 1 Knob Goblin superseltzer
+You gain 25 Muscularity Points
+
+equip acc3 pirate fledges
+
+[1415] Poop Deck
+Encounter: witty pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: witty pirate takes 24 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 22 damage? He never saw it coming! How droll."
+Round 2: witty pirate takes 22 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: witty pirate takes 157 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 17 damage? He never saw it coming! How droll."
+Round 3: witty pirate takes 17 damage.
+Round 3: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 216 Meat
+You gain 15 Muscleboundness
+You gain 14 Magicalness
+You gain 9 Sarcasm
+
+buy 1 milk of magnesium for 1000 each from 1877436 on 20120512
+You acquire an item: milk of magnesium
+
+use 1 milk of magnesium
+You acquire an effect: Got Milk (duration: 10 Adventures)
+
+buy 1 milk of magnesium for 1000 each from 1877436 on 20120512
+You acquire an item: milk of magnesium
+
+use 1 milk of magnesium
+You acquire an effect: Got Milk (duration: 10 Adventures)
+
+eat 1 spaghetti with Skullheads
+You gain 31 Adventures
+You gain 52 Beefiness
+You gain 6 Fullness
+You lose some of an effect: Got Milk
+
+eat 1 gnocchetti di Nietzsche
+You gain 32 Adventures
+You gain 60 Enchantedness
+You gain a Mysticality point!
+You gain 6 Fullness
+You lose some of an effect: Got Milk
+
+eat 1 super ka-bob
+You gain 17 Adventures
+You gain 32 Strengthliness
+You gain a Muscle point!
+You gain 3 Fullness
+You lose some of an effect: Got Milk
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[1417] Mix 6 bottle of whiskey + 6 peppermint twist
+You acquire Mint Yulep (6)
+Crafting used 6 each of bottle of whiskey and peppermint twist
+
+drink 6 Mint Yulep
+You gain 12 Adventures
+You gain 32 Fortitude
+You gain 17 Enchantedness
+You gain 19 Smarm
+You gain a Moxie point!
+You gain 2 Drunkenness
+You gain 12 Adventures
+You gain 26 Strengthliness
+You gain 13 Mysteriousness
+You gain 22 Chutzpah
+You gain 2 Drunkenness
+You gain 12 Adventures
+You gain 44 Muscleboundness
+You gain 15 Magicalness
+You gain 20 Smarm
+You gain 2 Drunkenness
+You gain 10 Adventures
+You gain 40 Strengthliness
+You gain 23 Wizardliness
+You gain 14 Chutzpah
+You gain 2 Drunkenness
+You gain 10 Adventures
+You gain 27 Strongness
+You gain 22 Enchantedness
+You gain 12 Smarm
+You gain 2 Drunkenness
+You gain 11 Adventures
+You gain 38 Muscleboundness
+You gain a Muscle point!
+You gain 19 Mysteriousness
+You gain 13 Chutzpah
+You gain 2 Drunkenness
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[1423] Mix 2 boxed wine + 2 peppermint twist
+You acquire Sangria de Menthe (2)
+Crafting used 2 each of boxed wine and peppermint twist
+
+drink 2 Sangria de Menthe
+You gain 12 Adventures
+You gain 10 Strengthliness
+You gain 46 Wizardliness
+You gain a Mysticality point!
+You gain 19 Cheek
+You gain 2 Drunkenness
+You gain 12 Adventures
+You gain 18 Fortitude
+You gain 33 Mysteriousness
+You gain 18 Smarm
+You gain 2 Drunkenness
+
+[1424] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: empty suit of armor takes 32 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 21 damage? It never saw it coming! How droll."
+Round 2: empty suit of armor takes 21 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+You lose 6 hit points
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 29 damage? It never saw it coming! How droll."
+Round 3: empty suit of armor takes 29 damage.
+Round 3: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 3: boolicious attacks!
+Round 4: empty suit of armor takes 163 damage.
+Round 4: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 22 damage? It never saw it coming! How droll."
+Round 4: empty suit of armor takes 22 damage.
+Round 4: boolicious wins the fight!
+You acquire an item: antique greaves
+You acquire an item: antique shield
+You gain 17 Muscleboundness
+You gain 8 Wizardliness
+You gain 14 Sarcasm
+choice.php?forceoption=0
+
+[1424] Haunted Gallery
+Encounter: Louvre It or Leave It 
+Took choice 91/2: skip adventure
+choice.php?pwd&whichchoice=91&option=2
+
+[1425] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 164 damage.
+Round 2: "I daresay these uncultured blackguards have never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab them for 19 damage? They never saw it coming! How droll."
+Round 2: guy with a pitchfork, and his wife takes 19 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 256 Meat
+You gain 17 Strengthliness
+You gain 12 Wizardliness
+You gain 7 Cheek
+
+[1426] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: empty suit of armor takes 31 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 15 damage? It never saw it coming! How droll."
+Round 2: empty suit of armor takes 15 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: empty suit of armor takes 165 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 16 damage? It never saw it coming! How droll."
+Round 3: empty suit of armor takes 16 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: antique greaves
+You gain 16 Muscleboundness
+You gain 12 Enchantedness
+You gain 10 Roguishness
+
+[1427] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: cubist bull takes 23 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 25 damage? It never saw it coming! How droll."
+Round 2: cubist bull takes 25 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: cubist bull takes 168 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 17 damage? It never saw it coming! How droll."
+Round 3: cubist bull takes 17 damage.
+Round 3: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 397 Meat
+You gain 13 Strengthliness
+You gain 14 Wizardliness
+You gain 8 Sarcasm
