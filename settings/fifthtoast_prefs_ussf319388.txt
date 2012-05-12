@@ -3,7 +3,7 @@ CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
 KoLDesktop=232,0,-1
-LoginFrame=425,138,0
+LoginFrame=364,138,0
 MaximizerFrame=364,141
 ProfileFrame=2662,409,-1
 RequestFrame=2575,334,-1
@@ -69,6 +69,7 @@ _madTeaParty=false
 _mayflySummons=0
 _mediumSiphons=0
 _navelRunaways=0
+_olympicSwimmingPool=false
 _pasteDrops=0
 _photocopyUsed=false
 _pieDrops=0
@@ -92,6 +93,7 @@ _smilesOfMrA=0
 _stinkyCheeseCount=0
 _stressBallSqueezes=0
 _syntheticDogHairPillUsed=false
+_templeHiddenPower=false
 _thingfinderCasts=0
 _timeHelmetAdv=0
 _toastSummons=0
@@ -122,6 +124,7 @@ availableCandyCredits=0
 availableDimes=0
 availableQuarters=0
 availableStoreCredits=0
+availableSwagger=0
 badMoonEncounter01=false
 badMoonEncounter02=false
 badMoonEncounter03=false
@@ -171,6 +174,7 @@ badMoonEncounter46=false
 badMoonEncounter47=false
 badMoonEncounter48=false
 ballpitBonus=1
+banishingShoutMonsters
 bankedKarma=0
 barrelGoal=7
 barrelLayout=?????????
@@ -582,13 +586,13 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=15
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
 currentMojoFilters=0
 currentMood=default
-currentNunneryMeat=0
+currentNunneryMeat=29820
 currentPvpVictories
 currentSpleenUse=0
 currentWheelPosition=muscle
@@ -665,30 +669,30 @@ hpAutoRecoveryTarget=1.0
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=false
 kingLiberatedScript
-knownAscensions=1
-lastAdventure=Dungeons of Doom
+knownAscensions=2
+lastAdventure=Themthar Hills
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion-1=confusion
-lastBangPotion819=sleepiness
-lastBangPotion820=mental acuity
-lastBangPotion821=detection
-lastBangPotion822=confusion
-lastBangPotion823=teleportitis
-lastBangPotion824=inebriety
-lastBangPotion825=healing
-lastBangPotion826=ettin strength
-lastBangPotion827=blessing
-lastBangPotionReset=1
+lastBangPotion819
+lastBangPotion820
+lastBangPotion821
+lastBangPotion822
+lastBangPotion823=healing
+lastBangPotion824=teleportitis
+lastBangPotion825=inebriety
+lastBangPotion826
+lastBangPotion827=confusion
+lastBangPotionReset=2
 lastBarrelSmashed=0
-lastBattlefieldReset=1
-lastBreakfast=8
-lastCellarReset=1
+lastBattlefieldReset=2
+lastBreakfast=12
+lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=11
-lastCounterDay=8
+lastCounterDay=12
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -712,7 +716,7 @@ lastDwarfFactoryItem363
 lastDwarfFactoryItem364
 lastDwarfFactoryItem365
 lastDwarfFactoryItem910
-lastDwarfFactoryReset=1
+lastDwarfFactoryReset=2
 lastDwarfHopper1
 lastDwarfHopper2
 lastDwarfHopper3
@@ -729,22 +733,22 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=Quantum Mechanic
+lastEncounter=dirty thieving brigand
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
 lastGalleryUnlock=-1
 lastGuildStoreOpen=0
-lastGuyMadeOfBeesReset=1
+lastGuyMadeOfBeesReset=2
 lastHermitReset=1
 lastHiddenCityAscension=1
 lastHippyCall=-1
-lastKingLiberation=1
-lastLouvreMap=1
+lastKingLiberation=2
+lastLouvreMap=2
 lastManorUnlock=1
 lastMessageId
 lastMiningReset=-1
-lastNemesisReset=1
+lastNemesisReset=2
 lastPaperStrip3144=rough\:BLAG\:careful
 lastPaperStrip4138=curved\:GUG\:dangly
 lastPaperStrip4139=wibbly\:FNORD\:curved
@@ -754,7 +758,7 @@ lastPaperStrip4142=sinusoidal\:MOO\:rough
 lastPaperStrip4143=dangly\:CAD\:sinusoidal
 lastPaperStrip4144=careful\:CTHON\:funny
 lastPaperStripReset=0
-lastPastamancerGhostReset=1
+lastPastamancerGhostReset=2
 lastPirateEphemera=pirate pamphlet
 lastPirateEphemeraReset=0
 lastPirateInsult1=false
@@ -765,16 +769,16 @@ lastPirateInsult5=false
 lastPirateInsult6=false
 lastPirateInsult7=false
 lastPirateInsult8=false
-lastPirateInsultReset=1
+lastPirateInsultReset=2
 lastPorkoBoard
 lastPorkoExpected
 lastPorkoPayouts
 lastPyramidReset=-1
-lastQuartetAscension=-1
-lastQuartetRequest=0
+lastQuartetAscension=2
+lastQuartetRequest=3
 lastSecondFloorUnlock=-1
-lastSemirareReset=1
-lastSkateParkReset=1
+lastSemirareReset=2
+lastSkateParkReset=2
 lastSlimeVial3885
 lastSlimeVial3886
 lastSlimeVial3887
@@ -791,14 +795,16 @@ lastStoneSphere2174
 lastStoneSphere2175
 lastStoneSphere2176
 lastStoneSphere2177
-lastStoneSphereReset=1
+lastStoneSphereReset=2
 lastTavernAscension=0
 lastTavernSquare=0
 lastTelescopeReset=-1
+lastTempleAdventures=-1
+lastTempleButtonsUnlock=-1
 lastTempleUnlock=1
 lastTowerClimb=-1
 lastTr4pz0rQuest=-1
-lastVioletFogMap=1
+lastVioletFogMap=2
 lastWuTangDefeated=-1
 lastZapperWand=1
 libramSummons=0
@@ -859,6 +865,7 @@ pyramidBombUsed=false
 pyramidPosition=0
 questF01Primordial=unstarted
 questF01Primordial,=Primordial Fear\=unstarted
+questF01Primordial, Primordial Fear=unstarted
 questF02Hyboria=unstarted
 questF03Future=unstarted
 questF04Elves=unstarted
@@ -872,35 +879,35 @@ questG06Delivery=unstarted
 questI01Scapegoat=unstarted
 questI02Beat=unstarted
 questI02Beat =unstarted
-questL02Larva=finished
-questL03Rat=finished
-questL04Bat=finished
-questL05Goblin=finished
-questL06Friar=finished
-questL07Cyrptic=finished
-questL08Trapper=finished
-questL09Lol=finished
-questL10Garbage=finished
-questL11MacGuffin=started
-questL11Manor=started
-questL11Palindome=finished
-questL11Pyramid=step5
-questL11Worship=step3
-questL12War=step1
+questL02Larva=unstarted
+questL03Rat=unstarted
+questL04Bat=unstarted
+questL05Goblin=unstarted
+questL06Friar=unstarted
+questL07Cyrptic=unstarted
+questL08Trapper=unstarted
+questL09Lol=unstarted
+questL10Garbage=unstarted
+questL11MacGuffin=unstarted
+questL11Manor=unstarted
+questL11Palindome=unstarted
+questL11Pyramid=unstarted
+questL11Worship=unstarted
+questL12War=unstarted
 questL13Final=unstarted
-questM01Untinker=finished
-questM02Artist=finished
+questM01Untinker=unstarted
+questM02Artist=unstarted
 questM03Bugbear=unstarted
-questM04Galaktic=finished
+questM04Galaktic=unstarted
 questM05Toot=unstarted
-questM06Gourd=finished
-questM07Hammer=finished
-questM08Baker=finished
-questM09Rocks=finished
+questM06Gourd=unstarted
+questM07Hammer=unstarted
+questM08Baker=unstarted
+questM09Rocks=unstarted
 questM10Azazel=unstarted
 questM11Postal=unstarted
-questM12Pirate=finished
-questM13Escape=finished
+questM12Pirate=unstarted
+questM13Escape=unstarted
 questM14Bounty=unstarted
 questS01OldGuy=unstarted
 questS02Monkees=unstarted
@@ -932,7 +939,7 @@ showGainsPerUnit=false
 showTurnFreeOnly=false
 sideDefeated=neither
 sidequestArenaCompleted=none
-sidequestFarmCompleted=hippy
+sidequestFarmCompleted=none
 sidequestJunkyardCompleted=none
 sidequestLighthouseCompleted=none
 sidequestNunsCompleted=none
