@@ -1227,3 +1227,601 @@ Encounter: Louvre It or Leave It (David: The Death of Socrates)
 Took choice 100/1: Manetwich
 choice.php?whichchoice=100&option=1&pwd
 You acquire an item: Manetwich
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+May 12, 2012 - April 5
+
+Ronald: full moon
+Grimace: third quarter
+Mini-moon: behind Ronald
+
+El Dia De Los Muertos Borrachos: 5 days
+Generic Summer Holiday: 14 days
+Dependence Day: 23 days
+Arrrbor Day: 31 days
+Lab&oacute;r Day: 41 days
+Halloween: 51 days
+Feast of Boris: 58 days
+Yuletide: 63 days
+Festival of Jarlsberg: 68 days
+Valentine's Day: 79 days
+St. Sneaky Pete's Day: 86 days
+Oyster Egg Day: 93 days
+
+
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 11
+HP: 364 / 364
+MP: 136 / 147
+
+Mus: 226 (110), tnp = 110
+Mys: 127 (87), tnp = 120
+Mox: 126 (90), tnp = 87
+
+Advs: 177
+Meat: 211,042
+Drunk: 16
+
+
+ > equipment
+
+Hat: mesh cap
+Weapon: Hammer of Smiting
+Off-hand: catskin buckler
+Shirt: astral shirt
+Pants: cane-mail pants
+
+Acc. 1: Slow Talkin' Elliot's dogtags
+Acc. 2: Mr. Accessory
+Acc. 3: pirate fledges
+
+Pet: Fancypants Scarecrow (15 lbs)
+Item: trousers of the white knight
+
+ > skills
+
+Uncategorized
+ - Liver of Steel
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Snarl of the Timberwolf
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: -10.00%
+
+Exp: +1.50
+Meat: +135.24%
+Item: +5.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+Visiting Crimbo Tree in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Looking Glass in clan VIP lounge
+
+use 1 Manual of Labor
+
+use 1 Chester's bag of candy
+
+use 1 Trivial Avocations board game
+
+use 1 creepy voodoo doll
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+Harvesting your garden
+You acquire peppermint sprout (3)
+
+cast 9 Summon Resolutions
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be sexier
+
+[1460] Desert (Unhydrated)
+Encounter: The Far Side of Sanity
+You acquire an effect: Tenuous Grip on Reality (duration: 5 Adventures)
+
+[1461] Desert (Unhydrated)
+Encounter: A Wrong Turn at Albuquerque
+You acquire an effect: Prestidigysfunction (duration: 5 Adventures)
+
+[1462] Desert (Unhydrated)
+Encounter: Doors of Perception
+You acquire an effect: Barking Dogs (duration: 5 Adventures)
+
+[1463] Desert (Unhydrated)
+Encounter: The Far Side of Sanity
+You acquire an effect: Tenuous Grip on Reality (duration: 5 Adventures)
+
+[1464] Desert (Unhydrated)
+Encounter: Still Suits Run Deep
+You lose 32 hit points
+You acquire an effect: Majorly Poisoned (duration: 5 Adventures)
+
+uneffect Majorly Poisoned
+
+[1465] Desert (Unhydrated)
+Encounter: Oh No, Not Raid!
+You lose 115 hit points
+choice.php?forceoption=0
+
+[1466] Desert (Unhydrated)
+Encounter: Let's Make a Deal!
+Took choice 132/2: Unlock Oasis
+choice.php?pwd&whichchoice=132&option=2
+
+[1467] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+uneffect Tenuous Grip on Reality
+
+Visiting Relaxing Hot Tub in clan VIP lounge
+You gain 324 hit points
+
+Visiting April Shower in clan VIP lounge
+
+shower hot
+You gain 115 Muscularity Points
+
+Visiting Pool Table in clan VIP lounge
+
+pool stylish
+You acquire an effect: Hustlin' (duration: 10 Adventures)
+
+Visiting Swimming Pool in clan VIP lounge
+
+swimming pool submarine
+You acquire an effect: Silent Running (duration: 50 Adventures)
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Crimbo Tree in clan VIP lounge
+
+Visiting Looking Glass in clan VIP lounge
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+Jumping into the Awesome Ball Pit in the clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+[1468] Oasis in the Desert
+Encounter: oasis monster
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: oasis monster takes 27 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 25 damage? It never saw it coming! How droll."
+Round 2: oasis monster takes 25 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: oasis monster takes 242 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 22 damage? It never saw it coming! How droll."
+Round 3: oasis monster takes 22 damage.
+Round 3: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 258 Meat
+You gain 14 Muscleboundness
+You gain 13 Magicalness
+You gain 14 Cheek
+
+[1469] Oasis in the Desert
+Encounter: rolling stone
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: rolling stone takes 31 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 17 damage? It never saw it coming! How droll."
+Round 2: rolling stone takes 17 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: rolling stone takes 243 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 28 damage? It never saw it coming! How droll."
+Round 3: rolling stone takes 28 damage.
+Round 3: boolicious wins the fight!
+You gain 17 Beefiness
+You gain 17 Magicalness
+You gain 8 Smarm
+
+[1470] Oasis in the Desert
+Encounter: swarm of scarab beatles
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: swarm of scarab beatles takes 32 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 17 damage? It never saw it coming! How droll."
+Round 2: swarm of scarab beatles takes 17 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: swarm of scarab beatles takes 259 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 18 damage? It never saw it coming! How droll."
+Round 3: swarm of scarab beatles takes 18 damage.
+Round 3: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 364 Meat
+You gain 15 Strengthliness
+You gain 8 Enchantedness
+You gain 18 Chutzpah
+
+[1471] Oasis in the Desert
+Encounter: blur
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: blur takes 25 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 23 damage? It never saw it coming! How droll."
+Round 2: blur takes 23 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: blur takes 260 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 23 damage? It never saw it coming! How droll."
+Round 3: blur takes 23 damage.
+Round 3: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 247 Meat
+You gain 21 Muscleboundness
+You gain 13 Enchantedness
+You gain 8 Cheek
+
+[1472] Oasis in the Desert
+Encounter: swarm of scarab beatles
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: swarm of scarab beatles takes 25 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 23 damage? It never saw it coming! How droll."
+Round 2: swarm of scarab beatles takes 23 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: swarm of scarab beatles takes 252 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 27 damage? It never saw it coming! How droll."
+Round 3: swarm of scarab beatles takes 27 damage.
+Round 3: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 470 Meat
+You gain 20 Beefiness
+You gain 12 Magicalness
+You gain 9 Chutzpah
+
+[1473] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[1474] Desert (Ultrahydrated)
+Encounter: plaque of locusts
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER! (auto-attack)
+Round 2: plaque of locusts takes 29 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 22 damage? It never saw it coming! How droll."
+Round 2: plaque of locusts takes 22 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: plaque of locusts takes 255 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 18 damage? It never saw it coming! How droll."
+Round 3: plaque of locusts takes 18 damage.
+Round 3: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 56 Meat
+You gain 18 Muscleboundness
+You gain 10 Magicalness
+You gain 10 Smarm
+
+[1475] Desert (Ultrahydrated)
+Encounter: cactuary
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: cactuary takes 27 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 25 damage? It never saw it coming! How droll."
+Round 1: cactuary takes 25 damage.
+Round 1: boolicious attacks!
+Round 2: cactuary takes 246 damage.
+You lose 6 hit points
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 28 damage? It never saw it coming! How droll."
+Round 2: cactuary takes 28 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 190 Meat
+You acquire an item: handful of sand
+You acquire an item: bit-o-cactus
+You gain 22 Beefiness
+You gain a Muscle point!
+You gain 8 Magicalness
+You gain 9 Roguishness
+
+[1476] Desert (Ultrahydrated)
+Encounter: plaque of locusts
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: plaque of locusts takes 22 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 22 damage? It never saw it coming! How droll."
+Round 1: plaque of locusts takes 22 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious attacks!
+Round 2: plaque of locusts takes 274 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 16 damage? It never saw it coming! How droll."
+Round 2: plaque of locusts takes 16 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 68 Meat
+You acquire an item: handful of sand
+You gain 17 Fortitude
+You gain 13 Magicalness
+You gain 11 Chutzpah
+You gain a Moxie point!
+
+[1477] Desert (Ultrahydrated)
+Encounter: A Sietch in Time
+
+[1478] Oasis in the Desert
+Encounter: All Across the Sands
+You acquire an item: stone rose
+
+[1479] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[1480] Desert (Ultrahydrated)
+Encounter: No Colors Anymore
+
+buy 1 can of black paint for 1000 each from Black Market
+You acquire an item: can of black paint
+You spent 1,000 Meat
+
+[1481] Desert (Ultrahydrated)
+Encounter: rock scorpion
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: rock scorpion takes 30 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 18 damage? It never saw it coming! How droll."
+Round 1: rock scorpion takes 18 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious attacks!
+Round 2: rock scorpion takes 263 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 17 damage? It never saw it coming! How droll."
+Round 2: rock scorpion takes 17 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 533 Meat
+You acquire an item: handful of sand
+You gain 22 Strengthliness
+You gain 9 Wizardliness
+You gain 10 Roguishness
+
+[1482] Oasis in the Desert
+Encounter: oasis monster
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: oasis monster takes 30 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 27 damage? It never saw it coming! How droll."
+Round 1: oasis monster takes 27 damage.
+Round 1: boolicious attacks!
+Round 2: oasis monster takes 250 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 29 damage? It never saw it coming! How droll."
+Round 2: oasis monster takes 29 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 192 Meat
+You acquire an item: Hugo's Weaving Manual
+You acquire an item: palm frond
+You gain 19 Beefiness
+You gain 12 Enchantedness
+You gain 9 Sarcasm
+
+[1483] Desert (Ultrahydrated)
+Encounter: swarm of fire ants
+Round 0: boolicious loses initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: boolicious attacks!
+Round 2: swarm of fire ants takes 31 damage.
+Round 2: "I daresay these uncultured blackguards have never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab them for 18 damage? They never saw it coming! How droll."
+Round 2: swarm of fire ants takes 18 damage.
+Round 2: "Those ruffians there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. They overhear that, and are too demoralized to attack this round.
+After Battle: unspecified macro action?
+After Battle: swarm of fire ants takes 257 damage.
+After Battle: "I daresay these uncultured blackguards have never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab them for 26 damage? They never saw it coming! How droll."
+After Battle: swarm of fire ants takes 26 damage.
+After Battle: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 112 Meat
+You gain 20 Muscleboundness
+You gain 10 Wizardliness
+You gain a Mysticality point!
+You gain 13 Chutzpah
+
+[1484] Desert (Ultrahydrated)
+Encounter: plaque of locusts
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: plaque of locusts takes 31 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 23 damage? It never saw it coming! How droll."
+Round 1: plaque of locusts takes 23 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious attacks!
+Round 2: plaque of locusts takes 250 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 30 damage? It never saw it coming! How droll."
+Round 2: plaque of locusts takes 30 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 61 Meat
+You gain 21 Muscleboundness
+You gain 10 Enchantedness
+You gain 9 Sarcasm
+
+[1485] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+
+[1486] Desert (Ultrahydrated)
+Encounter: rock scorpion
+Round 0: boolicious loses initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: boolicious attacks!
+Round 2: rock scorpion takes 28 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 28 damage? It never saw it coming! How droll."
+Round 2: rock scorpion takes 28 damage.
+After Battle: unspecified macro action?
+After Battle: rock scorpion takes 247 damage.
+After Battle: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 28 damage? It never saw it coming! How droll."
+After Battle: rock scorpion takes 28 damage.
+After Battle: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 446 Meat
+You gain 14 Muscleboundness
+You gain 18 Wizardliness
+You gain 10 Roguishness
+
+[1487] Desert (Ultrahydrated)
+Encounter: giant giant giant centipede
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: giant giant giant centipede takes 22 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 29 damage? It never saw it coming! How droll."
+Round 1: giant giant giant centipede takes 29 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious attacks!
+Round 2: giant giant giant centipede takes 246 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 18 damage? It never saw it coming! How droll."
+Round 2: giant giant giant centipede takes 18 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 345 Meat
+You gain 25 Beefiness
+You gain 14 Wizardliness
+You gain 4 Roguishness
+
+[1488] Desert (Ultrahydrated)
+Encounter: Still No Colors Anymore
+
+[1489] Poop Deck
+Encounter: wacky pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: wacky pirate takes 31 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 18 damage? He never saw it coming! How droll."
+Round 1: wacky pirate takes 18 damage.
+Round 1: boolicious attacks!
+Round 2: wacky pirate takes 150 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 17 damage? He never saw it coming! How droll."
+Round 2: wacky pirate takes 17 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 183 Meat
+You gain 19 Beefiness
+You gain 7 Mysteriousness
+You gain 9 Chutzpah
+
+[1490] Poop Deck
+Encounter: whiny pirate
+Round 0: boolicious loses initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: boolicious attacks!
+Round 2: whiny pirate takes 25 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 28 damage? He never saw it coming! How droll."
+Round 2: whiny pirate takes 28 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+After Battle: unspecified macro action?
+After Battle: whiny pirate takes 154 damage.
+After Battle: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 22 damage? He never saw it coming! How droll."
+After Battle: whiny pirate takes 22 damage.
+After Battle: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 188 Meat
+You gain 16 Strongness
+You gain 9 Wizardliness
+You gain 11 Roguishness
+
+[1491] Poop Deck
+Encounter: wealthy pirate
+Round 0: boolicious loses initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: boolicious attacks!
+Round 2: wealthy pirate takes 24 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 26 damage? He never saw it coming! How droll."
+Round 2: wealthy pirate takes 26 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+After Battle: unspecified macro action?
+After Battle: wealthy pirate takes 160 damage.
+After Battle: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 23 damage? He never saw it coming! How droll."
+After Battle: wealthy pirate takes 23 damage.
+After Battle: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 456 Meat
+You gain 18 Fortitude
+You gain 12 Wizardliness
+You gain 6 Smarm
+
+[1492] Poop Deck
+Encounter: whiny pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: whiny pirate takes 29 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 23 damage? He never saw it coming! How droll."
+Round 1: whiny pirate takes 23 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 1: boolicious attacks!
+Round 2: whiny pirate takes 161 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 21 damage? He never saw it coming! How droll."
+Round 2: whiny pirate takes 21 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You know, if these trousers were of my own invention, I might have made them from a material more flexible than plastic," Heckel &amp; Jeckyl says, winking.
+You gain 174 Meat
+You acquire an item: bilge wine
+You gain 16 Fortitude
+You gain a Muscle point!
+You gain 13 Wizardliness
+You gain 8 Roguishness
