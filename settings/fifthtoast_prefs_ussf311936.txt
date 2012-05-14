@@ -4,7 +4,7 @@ CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
 KoLDesktop=190,53,-1
-LoginFrame=675,365,0
+LoginFrame=688,365,0
 MaximizerFrame=972,383
 ProfileFrame=2662,409,-1
 RequestFrame=2575,334,-1
@@ -79,6 +79,7 @@ _poisonArrows=0
 _poolGames=0
 _precisionCasts=0
 _raindohCopiesMade=0
+_requestSandwichSucceeded=false
 _resolutionAdv=0
 _riftletAdv=0
 _romanticFightsLeft=0
@@ -208,7 +209,7 @@ camerasUsed=0
 carboLoading=0
 cellarLayout=0
 charitableDonations=0
-chatLiterate=false
+chatLiterate=true
 chatbotScript
 chatbotScriptExecuted=false
 chefTurnsUsed=0
@@ -587,7 +588,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=24
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -686,13 +687,13 @@ lastBangPotion827
 lastBangPotionReset=2
 lastBarrelSmashed=0
 lastBattlefieldReset=2
-lastBreakfast=11
+lastBreakfast=14
 lastCellarReset=2
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=11
+lastCounterDay=14
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0

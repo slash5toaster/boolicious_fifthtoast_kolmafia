@@ -1,10 +1,10 @@
 [ apathetic ]
 
 [ bangpotions ]
-lose_effect izchak's blessing => use 1 potion of blessing
+lose_effect izchak's blessing => use 1 milky potion
 lose_effect song of accompaniment => cast 1 song of accompaniment
-lose_effect strange mental acuity => use 1 potion of teleportitis
-lose_effect strength of ten ettins => use 1 potion of inebriety
+lose_effect strange mental acuity => use 1 effervescent potion
+lose_effect strength of ten ettins => use 1 smoky potion
 
 [ default ]
 
