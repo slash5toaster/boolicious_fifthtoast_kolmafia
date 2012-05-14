@@ -618,7 +618,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=2104
-currentFullness=0
+currentFullness=30
 currentHippyStore=none
 currentJunkyardLocation=next to that barrel with something burning in it
 currentJunkyardTool=molybdenum hammer
@@ -671,7 +671,7 @@ fistTeachingsNinjaSnowmen=false
 fistTeachingsPokerRoom=false
 fistTeachingsRoad=false
 fistTeachingsSlums=false
-flyeredML=0
+flyeredML=2243
 fossilB=0
 fossilD=0
 fossilN=0
@@ -956,7 +956,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=2058\:Semirare window begin\:lparen.gif\:2098\:Semirare window end loc\=*\:rparen.gif
+relayCounters=2229\:Fortune Cookie\:fortune.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
