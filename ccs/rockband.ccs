@@ -1,4 +1,14 @@
 [ default ]
-combo Disco Nirvana
-attack with weapon
+attackattack with weapon
+
+[ magnet ]
+while !hpbelow 20
+    if match "It whips out a hammer" || match "whips out a crescent wrench" || match "whips out a pair of pliers" || match "whips out a screwdriver"
+        item molybdenum magnet
+    endif
+    skill mighty axing
+    skill cleave
+    attack with weapon
+    attack with weapon
+endwhile
 
