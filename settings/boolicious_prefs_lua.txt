@@ -79,7 +79,7 @@ _grooseDrops=0
 _hareAdv=0
 _hipsterAdv=0
 _hobbyHorseUsed=false
-_hotTubSoaks=0
+_hotTubSoaks=1
 _iceballUses=0
 _inigosCasts=0
 _interviewIsabella=false
@@ -631,7 +631,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=1
 currentBountyItem=0
-currentFullness=0
+currentFullness=13
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -854,7 +854,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=3
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=5
+libramSummons=10
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
