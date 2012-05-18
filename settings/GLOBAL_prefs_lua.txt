@@ -27,7 +27,7 @@ chatFontSize=small
 chatLinksUseRelay=false
 chatStyle=0
 cloverProtectActive=true
-coinMasterIndex=9
+coinMasterIndex=10
 combatHotkey0
 combatHotkey1
 combatHotkey2
@@ -86,13 +86,13 @@ initialDesktop=CommandDisplayFrame,ItemManageFrame,GearChangeFrame,MallSearchFra
 initialFrames=ChatManager
 innerChatColor=\#ffa98c
 innerTabColor=\#8ca9ff
-itemManagerIndex=12
+itemManagerIndex=0
 lastBuffRequestType=0
-lastRelayUpdate=KoLmafia v15.2 r10980
+lastRelayUpdate=KoLmafia v15.2 r10986
 lastRssUpdate=0
 lastRssVersion=KoLmafia v15.2
 lastUserAgent=Mozilla/5.0 (X11; Linux i686; rv\:10.0.3) Gecko/20100101 Firefox/10.0.3 Iceweasel/10.0.3
-lastUsername=boolicious
+lastUsername=fifthtoast
 libramSkillsHardcore=all
 libramSkillsSoftcore=all
 logAcquiredItems=true
@@ -125,7 +125,7 @@ pathedSummonsHardcore=true
 pathedSummonsSoftcore=true
 preferredWebBrowser=/usr/bin/google-chrome
 previousNotifyList=<>
-previousUpdateRevision=10980
+previousUpdateRevision=10986
 previousUpdateVersion=KoLmafia v15.2
 protectAgainstOverdrink=true
 proxySet=false
