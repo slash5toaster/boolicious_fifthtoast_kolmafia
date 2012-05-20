@@ -658,3 +658,115 @@ You acquire an effect: Elvish (duration: 20 Adventures)
 
 use 1 tamarind-flavored chewing gum
 You acquire an effect: Tamarind Torment (duration: 5 Adventures)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+May 19, 2012 - Martinus 4
+
+Ronald: waxing gibbous
+Grimace: waxing crescent
+Mini-moon: in front of Ronald, R side
+
+Generic Summer Holiday: 7 days
+Dependence Day: 16 days
+Arrrbor Day: 24 days
+Lab&oacute;r Day: 34 days
+Halloween: 44 days
+Feast of Boris: 51 days
+Yuletide: 56 days
+Festival of Jarlsberg: 61 days
+Valentine's Day: 72 days
+St. Sneaky Pete's Day: 79 days
+Oyster Egg Day: 86 days
+El Dia De Los Muertos Borrachos: 94 days
+
+
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Boris
+
+Lv: 14
+HP: 208 / 605
+MP: 114 / 168
+
+Mus: 319 (194), tnp = 176
+Mys: 168 (130), tnp = 257
+Mox: 168 (134), tnp = 162
+
+Advs: 1
+Meat: 45,794
+Drunk: 0
+
+
+ > equipment
+
+Hat: Knob Goblin elite helm
+Weapon: Trusty
+Off-hand: (none)
+Shirt: (none)
+Pants: black greaves
+
+Acc. 1: rusty chain necklace
+Acc. 2: Zinc Delta of Tranquility
+Acc. 3: pirate fledges
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - Stomach of Steel
+
+Avatar Of Boris
+ - Big Boned
+ - Big Lungs
+ - Broadside
+ - Cleave
+ - Demand Sandwich
+ - Ferocity
+ - Intimidating Bellow
+ - Laugh It Off
+ - Legendary Appetite
+ - Legendary Bravado
+ - Legendary Girth
+ - Legendary Luck
+ - Mighty Axing
+ - Pep Talk
+ - Sick Pythons
+ - Song of Accompaniment
+ - Song of the Glorious Lunch
+ - Throw Trusty
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Song of Accompaniment (5)
+Tamarind Torment (5)
+Strength of Ten Ettins (10)
+Elvish (20)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +96.90%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
