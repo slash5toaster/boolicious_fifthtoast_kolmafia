@@ -6,7 +6,7 @@ CakeArenaFrame=742,435
 CalendarFrame=44,293,1
 CharSheetFrame=382,209,-1
 ClanManageFrame=59,315,4
-CoinmastersFrame=0,0,-1
+CoinmastersFrame=-3,-3,-1
 ContactListFrame=424,246
 CouncilFrame=164,356,-1
 DatabaseFrame=120,142,0
@@ -42,7 +42,7 @@ _bagOTricksUsed=false
 _bagOfCandy=false
 _bagOfCandyUsed=true
 _ballInACupUsed=false
-_ballpit=false
+_ballpit=true
 _banderRunaways=0
 _benettonsCasts=0
 _bonersSummoned=false
@@ -160,7 +160,7 @@ availableCRIMBCOScrip=0
 availableCandyCredits=10
 availableCommendations=0
 availableCrimbux=0
-availableDimes=0
+availableDimes=23
 availableIsotopes=0
 availableLucre=0
 availableMrAccessories=0
@@ -629,17 +629,17 @@ clanAttacksEnabled=false
 cocktailSummons=0
 concertVisited=false
 counterScript
-crimboTreeDays=5
+crimboTreeDays=4
 currentBountyItem=0
 currentFullness=0
-currentHippyStore=none
-currentJunkyardLocation
-currentJunkyardTool
+currentHippyStore=hippy
+currentJunkyardLocation= next to that barrel with something burning in it
+currentJunkyardTool=molybdenum hammer
 currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=1
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -691,7 +691,7 @@ fossilN=0
 fossilP=0
 fossilS=0
 fossilW=0
-fratboysDefeated=13
+fratboysDefeated=302
 friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=10
@@ -716,14 +716,14 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Hatching Chamber
+lastAdventure=Wartime Sonofa Beach
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
 lastBangPotion819
 lastBangPotion820
 lastBangPotion821=ettin strength
-lastBangPotion822
+lastBangPotion822=inebriety
 lastBangPotion823=sleepiness
 lastBangPotion824=teleportitis
 lastBangPotion825=confusion
@@ -732,13 +732,13 @@ lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=3
+lastBreakfast=4
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=11
-lastCounterDay=3
+lastCounterDay=4
 lastDispensaryOpen=3
 lastDoorCodeReset=1
 lastDustyBottle2271=5
@@ -778,9 +778,9 @@ lastDwarfOreRunes
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
-lastEmptiedStorage=-1
-lastEncounter=larval filthworm
-lastFilthClearance=2
+lastEmptiedStorage=3
+lastEncounter=Zerg Rush
+lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
 lastGalleryUnlock=3
@@ -854,7 +854,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=3
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=6
+libramSummons=11
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -882,7 +882,7 @@ mpAutoRecoveryItems=sleep on your clan sofa;rest at your campground;galaktik's f
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
 noodleSummons=0
-nunsVisits=0
+nunsVisits=3
 oceanAction=savecontinue
 oceanDestination=sphere
 olfactedMonster=wabbit
@@ -989,7 +989,7 @@ sidequestFarmCompleted=hippy
 sidequestJunkyardCompleted=none
 sidequestLighthouseCompleted=none
 sidequestNunsCompleted=hippy
-sidequestOrchardCompleted=none
+sidequestOrchardCompleted=hippy
 singleFamiliarRun=152
 skateParkStatus=war
 skillBurn1019=-100
@@ -1037,7 +1037,7 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=false
+telescopeLookedHigh=true
 telescopeUpgrades=1
 tempuraSummons=0
 thanksMessage=Thank you for the donation\!
