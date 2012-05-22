@@ -240,7 +240,7 @@ bootsCharged=false
 borisPoints=4
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=false
+breakfastCompleted=true
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
@@ -631,7 +631,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=7
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -639,7 +639,7 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=2
+currentSpleenUse=0
 currentWheelPosition=muscle
 customCombatScript=rockband
 cyrptAlcoveEvilness=0
@@ -733,13 +733,13 @@ lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=-1
+lastBreakfast=6
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=2
-lastCounterDay=5
+lastCounterDay=6
 lastDispensaryOpen=-1
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -913,12 +913,11 @@ pyramidBombUsed=true
 pyramidPosition=1
 questF01Primordial=unstarted
 questF01Primordial,=Primordial Fear\=unstarted
-questF01Primordial, Primordial Fear=unstarted
 questF02Hyboria=unstarted
 questF03Future=unstarted
 questF04Elves=unstarted
 questF05Clancy=unstarted
-questG01Meatcar=unstarted
+questG01Meatcar=started
 questG02Whitecastle=unstarted
 questG03Ego=unstarted
 questG04Nemesis=unstarted
@@ -948,8 +947,8 @@ questM02Artist=finished
 questM03Bugbear=unstarted
 questM04Galaktic=started
 questM05Toot=unstarted
-questM06Gourd=unstarted
-questM07Hammer=unstarted
+questM06Gourd=started
+questM07Hammer=finished
 questM08Baker=unstarted
 questM09Rocks=unstarted
 questM10Azazel=unstarted
@@ -1042,8 +1041,9 @@ telescope7
 telescopeLookedHigh=false
 telescopeUpgrades=1
 tempuraSummons=0
+textColors=crappy\:\#999999|good\:green|awesome\:blue|epic\:\#8a2be2|junk\:gray|memento\:olive|notavailable\:gray
 thanksMessage=Thank you for the donation\!
-timesRested=1
+timesRested=0
 tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
