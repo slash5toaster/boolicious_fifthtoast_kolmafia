@@ -15,8 +15,8 @@ FamiliarTrainingFrame=260,240
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=223,133,-1
-LoginFrame=404,276,0
+KoLDesktop=0,20,-1
+LoginFrame=452,163,0
 MailboxFrame=289,310,1
 MaximizerFrame=328,275
 MeatManageFrame=475,375
@@ -716,7 +716,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Haunted Pantry
+lastAdventure=Outskirts of The Knob
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -780,7 +780,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=2
-lastEncounter=fiendish can of asparagus
+lastEncounter=Knob Goblin Barbecue Team
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=2
@@ -891,9 +891,9 @@ oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=0
-pastamancerGhostName
+pastamancerGhostName=Titterheap
 pastamancerGhostSummons=0
-pastamancerGhostType
+pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
 pastamancerOrbedType
@@ -942,7 +942,7 @@ questL11Pyramid=unstarted
 questL11Worship=unstarted
 questL12War=unstarted
 questL13Final=unstarted
-questM01Untinker=unstarted
+questM01Untinker=finished
 questM02Artist=finished
 questM03Bugbear=unstarted
 questM04Galaktic=started
