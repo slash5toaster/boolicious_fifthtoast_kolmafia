@@ -4,13 +4,13 @@ ContactListFrame=2663,343
 CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=2502,53,-1
-LoginFrame=725,365,0
+KoLDesktop=247,58,-1
+LoginFrame=711,365,0
 MaximizerFrame=972,383
 ProfileFrame=2662,409,-1
 RequestFrame=2575,334,-1
 RequestSynchFrame=1916,-4,-1
-TabbedChatFrame=2172,607,0
+TabbedChatFrame=1171,66,0
 _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
@@ -42,7 +42,7 @@ _creepyVoodooDollUsed=false
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
-_demandSandwich=3
+_demandSandwich=0
 _distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
@@ -137,7 +137,7 @@ autoSteal=true
 autostartGalaktikQuest=true
 availableCandyCredits=0
 availableDimes=0
-availableQuarters=7
+availableQuarters=0
 availableStoreCredits=0
 availableSwagger=0
 badMoonEncounter01=false
@@ -597,12 +597,12 @@ choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=true
+concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=30
-currentHippyStore=hippy
+currentFullness=0
+currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
 currentMojoFilters=0
@@ -660,7 +660,7 @@ fossilN=0
 fossilP=0
 fossilS=0
 fossilW=0
-fratboysDefeated=80
+fratboysDefeated=0
 friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
@@ -677,19 +677,19 @@ heroDonationJarlsberg=1000
 heroDonationSneakyPete=1200
 hiddenCityLayout=EEEREDEPEEREPRTEREPEEPEEE
 hiddenCitySquare=0
-hippiesDefeated=816
+hippiesDefeated=0
 hpAutoRecovery=0.1
 hpAutoRecoveryItems=sleep on your clan sofa;medicinal herb's medicinal herbs;scroll of drastic healing;cannelloni cocoon;red pixel potion;really thick bandage;pok&euml;mann band-aid;filthy poultice;gauze garter;elven medi-pack;generic healing potion;green pixel potion;phonics down;honey-dipped locust;tongue of the walrus;red paisley oyster egg;tiny house;disco nap;lasagna bandages;tongue of the otter;sugar shard;doc galaktik's ailment ointment;cotton candy pinch;doc galaktik's pungent unguent
 hpAutoRecoveryTarget=0.9
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
 kingLiberated=false
 kingLiberatedScript
-knownAscensions=2
-lastAdventure=Battlefield (Frat Uniform)
+knownAscensions=3
+lastAdventure=Tavern Cellar (row 3, col 2)
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
-lastBangPotion820=blessing
+lastBangPotion820
 lastBangPotion821
 lastBangPotion822
 lastBangPotion823
@@ -697,16 +697,16 @@ lastBangPotion824
 lastBangPotion825
 lastBangPotion826
 lastBangPotion827
-lastBangPotionReset=2
+lastBangPotionReset=3
 lastBarrelSmashed=0
-lastBattlefieldReset=2
-lastBreakfast=1
-lastCellarReset=2
+lastBattlefieldReset=3
+lastBreakfast=7
+lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=14
-lastCounterDay=1
+lastCouncilVisit=3
+lastCounterDay=7
 lastDispensaryOpen=-1
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -730,7 +730,7 @@ lastDwarfFactoryItem363
 lastDwarfFactoryItem364
 lastDwarfFactoryItem365
 lastDwarfFactoryItem910
-lastDwarfFactoryReset=2
+lastDwarfFactoryReset=3
 lastDwarfHopper1
 lastDwarfHopper2
 lastDwarfHopper3
@@ -747,22 +747,22 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=War Hippy Naturopathic Homeopath
+lastEncounter=drunken rat
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
 lastGalleryUnlock=0
-lastGuildStoreOpen=0
-lastGuyMadeOfBeesReset=2
+lastGuildStoreOpen=3
+lastGuyMadeOfBeesReset=3
 lastHermitReset=1
 lastHiddenCityAscension=1
 lastHippyCall=-1
-lastKingLiberation=2
-lastLouvreMap=2
+lastKingLiberation=3
+lastLouvreMap=3
 lastManorUnlock=-1
 lastMessageId
 lastMiningReset=-1
-lastNemesisReset=2
+lastNemesisReset=3
 lastPaperStrip3144=rough\:BLAG\:careful
 lastPaperStrip4138=curved\:GUG\:dangly
 lastPaperStrip4139=wibbly\:FNORD\:curved
@@ -772,7 +772,7 @@ lastPaperStrip4142=sinusoidal\:MOO\:rough
 lastPaperStrip4143=dangly\:CAD\:sinusoidal
 lastPaperStrip4144=careful\:CTHON\:funny
 lastPaperStripReset=0
-lastPastamancerGhostReset=2
+lastPastamancerGhostReset=3
 lastPirateEphemera=pirate tract
 lastPirateEphemeraReset=2
 lastPirateInsult1=false
@@ -783,7 +783,7 @@ lastPirateInsult5=false
 lastPirateInsult6=false
 lastPirateInsult7=false
 lastPirateInsult8=false
-lastPirateInsultReset=2
+lastPirateInsultReset=3
 lastPorkoBoard
 lastPorkoExpected
 lastPorkoPayouts
@@ -791,8 +791,8 @@ lastPyramidReset=1
 lastQuartetAscension=2
 lastQuartetRequest=3
 lastSecondFloorUnlock=0
-lastSemirareReset=2
-lastSkateParkReset=2
+lastSemirareReset=3
+lastSkateParkReset=3
 lastSlimeVial3885
 lastSlimeVial3886
 lastSlimeVial3887
@@ -809,16 +809,16 @@ lastStoneSphere2174
 lastStoneSphere2175
 lastStoneSphere2176
 lastStoneSphere2177
-lastStoneSphereReset=2
-lastTavernAscension=0
-lastTavernSquare=0
+lastStoneSphereReset=3
+lastTavernAscension=3
+lastTavernSquare=12
 lastTelescopeReset=-1
 lastTempleAdventures=-1
 lastTempleButtonsUnlock=-1
 lastTempleUnlock=2
 lastTowerClimb=-1
 lastTr4pz0rQuest=1
-lastVioletFogMap=2
+lastVioletFogMap=3
 lastWuTangDefeated=-1
 lastZapperWand=2
 libramSummons=0
@@ -849,17 +849,17 @@ mpAutoRecoveryItems=sleep on your clan sofa;visit the nuns;oscus's neverending s
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
 noodleSummons=0
-nunsVisits=1
+nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=plinth
 olfactedMonster=wabbit
 oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
-pastamancerGhostExperience=0
-pastamancerGhostName
-pastamancerGhostSummons=0
-pastamancerGhostType
+pastamancerGhostExperience=1
+pastamancerGhostName=Titterheap
+pastamancerGhostSummons=1
+pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
 pastamancerOrbedType
@@ -879,10 +879,11 @@ pyramidBombUsed=true
 pyramidPosition=1
 questF01Primordial=unstarted
 questF01Primordial,=Primordial Fear\=unstarted
+questF01Primordial, Primordial Fear=unstarted
 questF02Hyboria=unstarted
 questF03Future=unstarted
 questF04Elves=unstarted
-questF05Clancy=finished
+questF05Clancy=unstarted
 questG01Meatcar=unstarted
 questG02Whitecastle=unstarted
 questG03Ego=unstarted
@@ -894,33 +895,33 @@ questI02Beat=unstarted
 questI02Beat =unstarted
 questL02Larva=finished
 questL03Rat=finished
-questL04Bat=finished
-questL05Goblin=finished
-questL06Friar=finished
-questL07Cyrptic=finished
-questL08Trapper=finished
-questL09Lol=finished
-questL10Garbage=finished
-questL11MacGuffin=step2
-questL11Manor=finished
-questL11Palindome=finished
-questL11Pyramid=finished
-questL11Worship=finished
-questL12War=step1
+questL04Bat=unstarted
+questL05Goblin=unstarted
+questL06Friar=unstarted
+questL07Cyrptic=unstarted
+questL08Trapper=unstarted
+questL09Lol=unstarted
+questL10Garbage=unstarted
+questL11MacGuffin=unstarted
+questL11Manor=unstarted
+questL11Palindome=unstarted
+questL11Pyramid=unstarted
+questL11Worship=unstarted
+questL12War=unstarted
 questL13Final=unstarted
-questM01Untinker=finished
-questM02Artist=finished
-questM03Bugbear=step2
-questM04Galaktic=finished
+questM01Untinker=unstarted
+questM02Artist=unstarted
+questM03Bugbear=unstarted
+questM04Galaktic=unstarted
 questM05Toot=unstarted
-questM06Gourd=finished
+questM06Gourd=unstarted
 questM07Hammer=unstarted
 questM08Baker=unstarted
 questM09Rocks=unstarted
 questM10Azazel=unstarted
 questM11Postal=unstarted
-questM12Pirate=finished
-questM13Escape=finished
+questM12Pirate=unstarted
+questM13Escape=unstarted
 questM14Bounty=unstarted
 questS01OldGuy=unstarted
 questS02Monkees=unstarted
@@ -951,13 +952,13 @@ sexChanges=0
 showGainsPerUnit=false
 showTurnFreeOnly=false
 sideDefeated=neither
-sidequestArenaCompleted=fratboy
-sidequestFarmCompleted=hippy
-sidequestJunkyardCompleted=fratboy
+sidequestArenaCompleted=none
+sidequestFarmCompleted=none
+sidequestJunkyardCompleted=none
 sidequestLighthouseCompleted=none
-sidequestNunsCompleted=hippy
-sidequestOrchardCompleted=hippy
-singleFamiliarRun=-1
+sidequestNunsCompleted=none
+sidequestOrchardCompleted=none
+singleFamiliarRun=16
 skateParkStatus=war
 skillBurn1019=-100
 skillBurn3=-100
@@ -982,10 +983,10 @@ sortByRoom=true
 spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
-spookyPuttyMonster
-stationaryButton1=11003
-stationaryButton2=11000
-stationaryButton3=11001
+spookyPuttyMonster=something <i>totally</i> unrecognizable
+stationaryButton1=3020
+stationaryButton2=3003
+stationaryButton3
 stationaryButton4
 stationaryButton5
 styxPixieVisited=false
@@ -996,7 +997,7 @@ sugarCounter4181=0
 sugarCounter4182=0
 sugarCounter4183=0
 sugarCounter4191=0
-tavernLayout=0000000000000000000000000
+tavernLayout=2511111110110001000030000
 telescope1
 telescope2
 telescope3
@@ -1007,6 +1008,7 @@ telescope7
 telescopeLookedHigh=false
 telescopeUpgrades=0
 tempuraSummons=0
+textColors=crappy\:\#999999|good\:green|awesome\:blue|epic\:\#8a2be2|junk\:gray|memento\:olive|notavailable\:gray
 thanksMessage=Thank you for the donation\!
 timesRested=0
 tomeSummons=0
@@ -1056,6 +1058,6 @@ volcanoMaze2
 volcanoMaze3
 volcanoMaze4
 volcanoMaze5
-warProgress=started
+warProgress=unstarted
 welcomeBackAdv=0
 wineCellarProgress=0

@@ -1,0 +1,411 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+May 23, 2012 - Martinus 8
+
+Ronald: waning crescent
+Grimace: waxing gibbous
+Mini-moon: behind Ronald
+
+Generic Summer Holiday: 3 days
+Dependence Day: 12 days
+Arrrbor Day: 20 days
+Lab&oacute;r Day: 30 days
+Halloween: 40 days
+Feast of Boris: 47 days
+Yuletide: 52 days
+Festival of Jarlsberg: 57 days
+Valentine's Day: 68 days
+St. Sneaky Pete's Day: 75 days
+Oyster Egg Day: 82 days
+El Dia De Los Muertos Borrachos: 90 days
+
+
+Muscle bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Pastamancer
+
+Lv: 3
+HP: 14 / 14
+MP: 15 / 15
+
+Mus: 11 (8), tnp = 11
+Mys: 10 (11), tnp = 14
+Mox: 10 (9), tnp = 8
+
+Advs: 108
+Meat: 4,907
+Drunk: 0
+
+
+ > equipment
+
+Hat: ravioli hat
+Weapon: pasta spoon
+Off-hand: astral shield
+Shirt: (none)
+Pants: old sweatpants
+
+Acc. 1: (none)
+Acc. 2: (none)
+Acc. 3: (none)
+
+Pet: Cocoabo (4 lbs)
+Item: (none)
+
+ > skills
+
+Pastamancer
+ - Cannelloni Cocoon
+ - Entangling Noodles
+ - Lasagna Bandages
+ - Manicotti Meditation
+ - Ravioli Shurikens
+ - Spaghetti Spear
+
+Disco Bandit
+ - Ambidextrous Funkslinging
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Sugar Rush (8)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+add to closet: 3 worthless knick-knack
+
+use 1 chewing gum on a string
+You acquire an item: worthless trinket
+
+take from closet: 3 worthless knick-knack
+You acquire worthless knick-knack (3)
+
+trading 4 worthless items for 4 ten-leaf clovers
+You acquire ten-leaf clover (4)
+
+Visiting Brie, the Trainer
+
+Visiting Blaine
+
+Visiting Gorgonzola, the Chief Chef
+
+[33] Spooky Forest
+Encounter: Lucky, Lucky!
+You acquire an item: bowl of lucky charms
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+Use 2 ten-leaf clover
+You acquire disassembled clover (2)
+
+[34] Spooky Forest
+Encounter: spooky mummy
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: spooky mummy takes 5 damage.
+Round 2: fifthtoast wins the fight!
+Your familiar gains a pound: cocopuf, the 5 lb. Cocoabo
+You gain 10 Meat
+You gain 1 Fortitude
+
+[36] Spooky Forest
+Encounter: warwelf
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: warwelf takes 4 damage.
+Round 2: fifthtoast wins the fight!
+You gain 10 Meat
+You gain 1 Chutzpah
+
+[36] Spooky Forest
+Encounter: hypodermic bugbear
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: hypodermic bugbear takes 5 damage.
+Round 2: fifthtoast attacks!
+Round 3: fifthtoast summons  the !
+Round 4: You focus your thoughts and call out to Titterheap.  He claws his way up from beneath the ground at your feet.
+Round 4: Titterheap bites your opponent for 7 damage.
+Round 4: hypodermic bugbear takes 7 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: BURT
+You gain 3 Wizardliness
+
+[37] Spooky Forest
+Encounter: spooky vampire
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: spooky vampire takes 4 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Meat
+You gain 1 Fortitude
+
+[38] Spooky Forest
+Encounter: bar
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: bar takes 5 damage.
+Round 2: fifthtoast wins the fight!
+You gain 13 Meat
+You gain 1 Sarcasm
+
+[39] Spooky Forest
+Encounter: warwelf
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: warwelf takes 10 damage.
+Round 2: fifthtoast wins the fight!
+You gain 12 Meat
+You gain 2 Wizardliness
+choice.php?forceoption=0
+
+[40] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/2: gain mosquito larva or spooky mushrooms, gain quest coin, get stats or fight a vampire
+choice.php?pwd&whichchoice=502&option=2
+Encounter: Consciousness of a Stream
+Took choice 505/1: gain mosquito larva then 3 spooky mushrooms
+choice.php?pwd&whichchoice=505&option=1
+You acquire an item: mosquito larva
+You gain 500 Meat
+
+Visiting Bart Ender
+
+[41] Tavern Cellar (row 1, col 4)
+Encounter: drunken rat
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: drunken rat takes 5 damage.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 7 damage.
+Round 2: drunken rat takes 7 damage.
+Round 2: fifthtoast wins the fight!
+You gain 9 Meat
+You acquire an item: rat whisker
+You gain 3 Enchantedness
+You gain 1 Chutzpah
+
+[42] Tavern Cellar (row 1, col 4)
+Encounter: The Tavern Cellar
+
+[42] Tavern Cellar (row 2, col 4)
+Encounter: drunken rat
+Round 0: fifthtoast loses initiative!
+You lose 1 hit point
+Round 1: fifthtoast attacks!
+You lose 1 hit point
+Round 2: fifthtoast attacks!
+Round 3: cocopuf coos softly, and nuzzles you with his beak.
+You gain 12 hit points
+You gain 12 Mana Points
+You lose 1 hit point
+Round 3: fifthtoast casts SPAGHETTI SPEAR!
+Round 4: drunken rat takes 5 damage.
+You lose 1 hit point
+Round 4: fifthtoast casts SPAGHETTI SPEAR!
+Round 5: drunken rat takes 4 damage.
+Round 5: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 8 damage.
+Round 5: drunken rat takes 8 damage.
+Round 5: fifthtoast wins the fight!
+You gain 12 Meat
+You acquire an item: rat whisker
+You gain 1 Strongness
+You gain 1 Sarcasm
+
+[43] Tavern Cellar (row 1, col 3)
+Encounter: drunken rat
+Round 0: fifthtoast loses initiative!
+You lose 1 hit point
+Round 1: fifthtoast casts SPAGHETTI SPEAR!
+Round 2: drunken rat takes 4 damage.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 8 damage.
+Round 2: drunken rat takes 8 damage.
+Round 2: fifthtoast wins the fight!
+You gain 11 Meat
+You acquire an item: rat whisker
+You gain 1 Strengthliness
+You gain 2 Wizardliness
+You gain 1 Roguishness
+choice.php?forceoption=0
+
+[44] Tavern Cellar (row 1, col 2)
+Encounter: Staring Down the Barrel
+Took choice 513/1: unknown
+choice.php?pwd&whichchoice=513&option=1
+You acquire ice-cold Willer (5)
+choice.php?forceoption=0
+
+[45] Tavern Cellar (row 1, col 1)
+Encounter: Those Who Came Before You
+Took choice 510/1: unknown
+choice.php?pwd&whichchoice=510&option=1
+You acquire magical mystery juice (3)
+You acquire an item: glittery mascara
+You acquire an item: shiny ring
+
+equip hat chef's hat
+
+equip weapon asparagus knife
+
+equip acc1 shiny ring
+
+equip acc2 continuum transfunctioner
+
+buy 4 glittery mascara for 24 each from The General Store
+You acquire glittery mascara (4)
+You spent 96 Meat
+
+use 5 glittery mascara
+You acquire an effect: Glittering Eyelashes (duration: 15 Adventures)
+
+cast 1 Manicotti Meditation
+You acquire an effect: Pasta Oneness (duration: 5 Adventures)
+
+[46] Tavern Cellar (row 2, col 1)
+Encounter: drunken rat
+Round 0: fifthtoast loses initiative!
+You lose 1 hit point
+Round 1: fifthtoast attacks!
+Round 2: drunken rat takes 6 damage.
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 2: drunken rat drops 2 attack power.
+Round 2: drunken rat drops 2 defense.
+Round 2: fifthtoast attacks!
+Round 3: drunken rat takes 8 damage.
+Round 3: fifthtoast wins the fight!
+You gain 10 Meat
+You acquire an item: rat whisker
+You gain 1 Strengthliness
+You gain 1 Roguishness
+
+[47] Tavern Cellar (row 2, col 1)
+Encounter: The Tavern Cellar
+
+[47] Tavern Cellar (row 2, col 3)
+Encounter: drunken rat
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast casts SPAGHETTI SPEAR!
+Round 2: drunken rat takes 3 damage.
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: drunken rat takes 4 damage.
+You lose 1 hit point
+Round 3: fifthtoast casts RAVIOLI SHURIKENS!
+Round 4: drunken rat takes 5 damage.
+Round 4: fifthtoast wins the fight!
+You gain 10 Meat
+You acquire an item: rat whisker
+You acquire an item: rat appendix
+You gain 1 Muscleboundness
+You gain 2 Wizardliness
+You gain 1 Cheek
+
+[48] Tavern Cellar (row 3, col 1)
+Encounter: drunken rat
+Round 0: fifthtoast loses initiative!
+You lose 1 hit point
+Round 1: fifthtoast attacks!
+Round 2: drunken rat takes 7 damage.
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 2: drunken rat drops 2 attack power.
+Round 2: drunken rat drops 2 defense.
+Round 2: fifthtoast casts RAVIOLI SHURIKENS!
+Round 3: drunken rat takes 11 damage.
+Round 3: fifthtoast wins the fight!
+Your familiar gains a pound: cocopuf, the 6 lb. Cocoabo
+You gain 9 Meat
+You acquire an item: rat whisker
+You gain 1 Beefiness
+You gain 2 Wizardliness
+You gain a Mysticality point!
+You gain 1 Chutzpah
+You gain a Moxie point!
+
+[50] Tavern Cellar (row 3, col 1)
+Encounter: The Tavern Cellar
+
+[50] Tavern Cellar (row 2, col 2)
+Encounter: drunken rat
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast casts RAVIOLI SHURIKENS!
+Round 2: drunken rat takes 6 damage.
+Round 2: fifthtoast casts RAVIOLI SHURIKENS!
+Round 3: drunken rat takes 10 damage.
+Round 3: fifthtoast wins the fight!
+You gain 9 Meat
+You acquire an item: rat whisker
+You acquire an item: rat appendix
+You gain 3 Magicalness
+
+[50] Tavern Cellar (row 4, col 1)
+Encounter: drunken rat
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast casts SPAGHETTI SPEAR!
+Round 2: drunken rat takes 3 damage.
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: drunken rat takes 3 damage.
+Round 3: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 3: drunken rat drops 2 attack power.
+Round 3: drunken rat drops 2 defense.
+Round 3: fifthtoast casts SPAGHETTI SPEAR!
+Round 4: drunken rat takes 3 damage.
+Round 4: fifthtoast wins the fight!
+You gain 10 Meat
+You acquire an item: rat whisker
+You gain 2 Strongness
+You gain 1 Chutzpah
+choice.php?forceoption=0
+
+[51] Tavern Cellar (row 5, col 1)
+Encounter: Of Course!
+Took choice 509/1: unknown
+choice.php?pwd&whichchoice=509&option=1
+
+Visiting Bart Ender
+You acquire Typical Tavern swill (3)
+
+[52] Tavern Cellar (row 3, col 2)
+Encounter: drunken rat
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast casts SPAGHETTI SPEAR!
+Round 2: drunken rat takes 4 damage.
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: drunken rat takes 3 damage.
+Round 3: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 3: drunken rat drops 2 attack power.
+Round 3: drunken rat drops 2 defense.
+You lose 1 hit point
+Round 3: fifthtoast attacks!
+Round 4: drunken rat takes 9 damage.
+Round 4: fifthtoast wins the fight!
+You gain 10 Meat
+You acquire an item: rat whisker
+You acquire an item: rat appendix
+You gain 3 Enchantedness
