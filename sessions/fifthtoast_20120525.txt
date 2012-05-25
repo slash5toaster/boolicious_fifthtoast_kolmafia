@@ -1,0 +1,548 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+May 25, 2012 - Bill 2
+
+Ronald: waxing crescent
+Grimace: full moon
+Mini-moon: front center
+
+Generic Summer Holiday: tomorrow
+Dependence Day: 10 days
+Arrrbor Day: 18 days
+Lab&oacute;r Day: 28 days
+Halloween: 38 days
+Feast of Boris: 45 days
+Yuletide: 50 days
+Festival of Jarlsberg: 55 days
+Valentine's Day: 66 days
+St. Sneaky Pete's Day: 73 days
+Oyster Egg Day: 80 days
+El Dia De Los Muertos Borrachos: 88 days
+
+
+Muscle bonus today and yesterday.
+
+
+ > status
+
+Name: fifthtoast
+Class: Pastamancer
+
+Lv: 3
+HP: 16 / 16
+MP: 27 / 29
+
+Mus: 13 (8), tnp = 2
+Mys: 19 (12), tnp = 19
+Mox: 13 (10), tnp = 20
+
+Advs: 168
+Meat: 5,052
+Drunk: 0
+
+
+ > equipment
+
+Hat: chef's hat
+Weapon: asparagus knife
+Off-hand: astral shield
+Shirt: (none)
+Pants: old sweatpants
+
+Acc. 1: shiny ring
+Acc. 2: continuum transfunctioner
+Acc. 3: (none)
+
+Pet: Cocoabo (6 lbs)
+Item: (none)
+
+ > skills
+
+Pastamancer
+ - Cannelloni Cocoon
+ - Entangling Noodles
+ - Lasagna Bandages
+ - Manicotti Meditation
+ - Ravioli Shurikens
+ - Spaghetti Spear
+
+Disco Bandit
+ - Ambidextrous Funkslinging
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Glittering Eyelashes (8)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+buy 5 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (5)
+You spent 250 Meat
+
+use 5 chewing gum on a string
+You acquire an item: worthless knick-knack
+You acquire an item: worthless gewgaw
+You acquire an item: worthless trinket
+You acquire an item: seal-clubbing club
+You acquire an item: turtle totem
+
+trading 3 worthless items for 3 ten-leaf clovers
+You acquire ten-leaf clover (3)
+
+Use 6 ten-leaf clover
+You acquire disassembled clover (6)
+
+[53] Haunted Pantry
+Encounter: The Manor in Which You're Accustomed
+choice.php?forceoption=0
+
+[54] Haunted Pantry
+Encounter: The Singing Tree
+Took choice 116/2: moxie substats
+choice.php?pwd&whichchoice=116&option=2
+You gain 4 Smarm
+
+[55] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: undead elbow macaroni takes 16 damage.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 25 Meat.
+Round 2: fifthtoast wins the fight!
+You gain 4 Meat
+You gain 1 Fortitude
+choice.php?forceoption=0
+
+[56] Haunted Pantry
+Encounter: The Baker's Dilemma
+Took choice 114/1: accept cake quest
+choice.php?pwd&whichchoice=114&option=1
+You acquire an item: unlit birthday cake
+
+[56] Haunted Pantry
+Encounter: possessed can of tomatoes
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: possessed can of tomatoes takes 3 damage.
+Round 2: fifthtoast wins the fight!
+You gain 2 Meat
+You acquire an item: razor-sharp can lid
+You acquire an item: tomato
+You gain 2 Mysteriousness
+
+[57] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: undead elbow macaroni takes 3 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 Meat
+You gain 2 Mysteriousness
+
+[58] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: undead elbow macaroni takes 3 damage.
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 2: undead elbow macaroni drops 2 attack power.
+Round 2: undead elbow macaroni drops 2 defense.
+Round 2: fifthtoast wins the fight!
+You gain 5 Meat
+You acquire an item: quasi-ethereal macaroni fragments
+You gain 1 Sarcasm
+
+[59] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: undead elbow macaroni takes 3 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 Meat
+You acquire an item: magicalness-in-a-can
+You gain 1 Roguishness
+
+[60] Haunted Pantry
+Encounter: fiendish can of asparagus
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: fiendish can of asparagus takes 3 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 Meat
+You acquire an item: razor-sharp can lid
+You acquire an item: stalk of asparagus
+You gain 1 Muscleboundness
+You gain a Muscle point!
+
+[61] Haunted Pantry
+Encounter: overdone flame-broiled meat blob
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: overdone flame-broiled meat blob takes 3 damage.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 7 damage.
+Round 2: overdone flame-broiled meat blob takes 7 damage.
+Round 2: fifthtoast wins the fight!
+You gain 18 Meat
+You acquire an item: meat paste
+You acquire an item: meat paste
+You gain 2 Magicalness
+
+[62] Haunted Pantry
+Encounter: possessed can of tomatoes
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: possessed can of tomatoes takes 4 damage.
+Round 2: fifthtoast wins the fight!
+You gain 3 Meat
+You acquire an item: tomato
+You gain 2 Mysteriousness
+
+[63] Haunted Pantry
+Encounter: Spirit of the Dolphin King
+You acquire an item: Dolphin King's map
+
+use 1 Dolphin King's map
+
+[64] Haunted Pantry
+Encounter: possessed can of tomatoes
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: possessed can of tomatoes takes 4 damage.
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 2: possessed can of tomatoes drops 2 attack power.
+Round 2: possessed can of tomatoes drops 2 defense.
+Round 2: fifthtoast wins the fight!
+You gain 2 Meat
+You acquire an item: tomato
+You gain 2 Magicalness
+choice.php?forceoption=0
+
+[65] Haunted Pantry
+Encounter: The Singing Tree
+Took choice 116/1: mysticality substats
+choice.php?pwd&whichchoice=116&option=1
+You gain 5 Enchantedness
+
+[66] Haunted Pantry
+Encounter: fiendish can of asparagus
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: fiendish can of asparagus takes 18 damage.
+Round 2: fifthtoast wins the fight!
+Your familiar gains a pound: cocopuf, the 7 lb. Cocoabo
+You gain 4 Meat
+You gain 1 Cheek
+
+[67] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: undead elbow macaroni takes 8 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Meat
+You acquire an item: magicalness-in-a-can
+You gain 2 Magicalness
+
+[68] Haunted Pantry
+Encounter: overdone flame-broiled meat blob
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: overdone flame-broiled meat blob takes 17 damage.
+Round 2: fifthtoast wins the fight!
+You gain 18 Meat
+You acquire an item: meat paste
+You acquire an item: meat paste
+You gain 1 Fortitude
+
+[69] Haunted Pantry
+Encounter: fiendish can of asparagus
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: fiendish can of asparagus takes 4 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 Meat
+You acquire an item: asparagus knife
+You gain 2 Wizardliness
+You gain a Mysticality point!
+You gain a Level!
+
+[70] Haunted Pantry
+Encounter: fiendish can of asparagus
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: fiendish can of asparagus takes 3 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 Meat
+You acquire an item: stalk of asparagus
+You gain 2 Mysteriousness
+
+[71] Haunted Pantry
+Encounter: Cut Down in His Prime
+You acquire an item: razor-sharp can lid
+You gain 50 Meat
+choice.php?forceoption=0
+
+[72] Tavern Cellar (row 3, col 3)
+Encounter: 1984 Had Nothing on This Cellar
+Took choice 514/1: unknown
+choice.php?pwd&whichchoice=514&option=1
+You acquire rat whisker (5)
+
+[73] Tavern Cellar (row 5, col 2)
+Encounter: drunken rat
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: drunken rat takes 12 damage.
+Round 2: fifthtoast wins the fight!
+You gain 10 Meat
+You acquire an item: rat whisker
+You gain 1 Beefiness
+You gain 2 Wizardliness
+
+cellar.php?action=autofaucet
+choice.php?forceoption=1
+Encounter: drunken rat
+Round 0: fifthtoast loses initiative!
+You lose 1 hit point
+Round 1: fifthtoast summons Titterheap the Undead Elbow Macaroni!
+Round 2: You focus your thoughts and call out to Titterheap.  He claws his way up from beneath the ground at your feet.
+Round 2: Titterheap bites your opponent for 6 damage.
+Round 2: drunken rat takes 6 damage.
+Round 2: fifthtoast attacks!
+Round 3: drunken rat takes 8 damage.
+Round 3: Titterheap bites your opponent for 7 damage.
+Round 3: drunken rat takes 7 damage.
+Round 3: fifthtoast wins the fight!
+You gain 11 Meat
+You acquire an item: rat whisker
+You gain 3 Magicalness
+You gain 1 Smarm
+
+[75] Tavern Cellar (row 4, col 2)
+Encounter: drunken rat
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: drunken rat takes 4 damage.
+Round 2: fifthtoast summons Titterheap the Undead Elbow Macaroni!
+Round 3: You focus your thoughts and call out to Titterheap.  He claws his way up from beneath the ground at your feet.
+Round 3: Titterheap bites your opponent for 6 damage.
+Round 3: drunken rat takes 6 damage.
+Round 3: fifthtoast wins the fight!
+You gain 10 Meat
+You acquire an item: rat whisker
+You gain 2 Muscleboundness
+You gain 1 Roguishness
+
+[76] Tavern Cellar (row 5, col 3)
+Encounter: drunken rat
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: drunken rat takes 3 damage.
+Round 2: fifthtoast summons Titterheap the Undead Elbow Macaroni!
+Round 3: You focus your thoughts and call out to Titterheap.  He claws his way up from beneath the ground at your feet.
+Round 3: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 37 Meat.
+Round 3: Titterheap bites your opponent for 7 damage.
+Round 3: drunken rat takes 7 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Titterheap looks stronger...
+You gain 11 Meat
+You acquire an item: rat whisker
+You gain 1 Beefiness
+You gain 3 Enchantedness
+
+[77] Tavern Cellar (row 5, col 4)
+Encounter: drunken rat
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast summons Titterheap the Undead Elbow Macaroni!
+Round 2: You focus your thoughts and call out to Titterheap.  He claws his way up from beneath the ground at your feet.
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 2: drunken rat drops 2 attack power.
+Round 2: drunken rat drops 2 defense.
+Round 2: Titterheap bites your opponent for 8 damage.
+Round 2: drunken rat takes 8 damage.
+Round 2: fifthtoast wins the fight!
+You gain 8 Meat
+You acquire an item: rat whisker
+You acquire an item: rat appendix
+You gain 3 Enchantedness
+choice.php?forceoption=0
+
+[78] Tavern Cellar (row 5, col 5)
+Encounter: If it's Tiny, is it Still a Mansion?
+Took choice 511/1: Baron von Ratsworth
+choice.php?pwd&whichchoice=511&option=1
+Encounter: Baron von Ratsworth
+Round 0: fifthtoast loses initiative!
+You lose 1 hit point
+Round 1: fifthtoast summons Titterheap the Undead Elbow Macaroni!
+Round 2: You focus your thoughts and call out to Titterheap.  He claws his way up from beneath the ground at your feet.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 9 damage.
+Round 2: baron von ratsworth takes 9 damage.
+Round 2: Titterheap bites your opponent for 6 damage.
+Round 2: baron von ratsworth takes 6 damage.
+You lose 1 hit point
+Round 2: fifthtoast attacks!
+Round 3: Titterheap bites your opponent for 8 damage.
+Round 3: baron von ratsworth takes 8 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: Baron von Ratsworth's monocle
+You gain 7 Strengthliness
+You gain 16 Mysteriousness
+You gain a Mysticality point!
+You gain 3 Smarm
+
+equip acc3 Baron von Ratsworth's monocle
+
+[79] Tavern Cellar (row 4, col 3)
+Encounter: drunken rat
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast summons Titterheap the Undead Elbow Macaroni!
+Round 2: You focus your thoughts and call out to Titterheap.  He claws his way up from beneath the ground at your feet.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 41 Meat.
+Round 2: Titterheap bites your opponent for 6 damage.
+Round 2: drunken rat takes 6 damage.
+You lose 1 hit point
+Round 2: fifthtoast attacks!
+Round 3: drunken rat takes 9 damage.
+Round 3: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 3: drunken rat drops 3 attack power.
+Round 3: drunken rat drops 3 defense.
+Round 3: Titterheap bites your opponent for 6 damage.
+Round 3: drunken rat takes 6 damage.
+Round 3: fifthtoast wins the fight!
+You gain 10 Meat
+You acquire an item: rat whisker
+You gain 1 Strengthliness
+You gain 2 Sarcasm
+
+[80] Tavern Cellar (row 4, col 4)
+Encounter: drunken rat
+Round 0: fifthtoast loses initiative!
+You lose 1 hit point
+Round 1: fifthtoast summons Titterheap the Undead Elbow Macaroni!
+Round 2: You focus your thoughts and call out to Titterheap.  He claws his way up from beneath the ground at your feet.
+Round 2: Titterheap bites your opponent for 6 damage.
+Round 2: drunken rat takes 6 damage.
+You lose 1 hit point
+Round 2: fifthtoast attacks!
+Round 3: drunken rat takes 9 damage.
+Round 3: Titterheap bites your opponent for 9 damage.
+Round 3: drunken rat takes 9 damage.
+Round 3: fifthtoast wins the fight!
+You gain 9 Meat
+You acquire an item: rat whisker
+You acquire an item: rat appendix
+You gain 2 Enchantedness
+You gain 1 Cheek
+
+[81] Tavern Cellar (row 3, col 4)
+Encounter: drunken rat
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast summons Titterheap the Undead Elbow Macaroni!
+Round 2: You focus your thoughts and call out to Titterheap.  He claws his way up from beneath the ground at your feet.
+Round 2: Titterheap bites your opponent for 9 damage.
+Round 2: drunken rat takes 9 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: Titterheap looks stronger...
+You gain 10 Meat
+You acquire an item: rat whisker
+You gain 1 Strengthliness
+You gain 3 Enchantedness
+choice.php?forceoption=0
+
+[82] Tavern Cellar (row 2, col 5)
+Encounter: Staring Down the Barrel
+Took choice 513/1: unknown
+choice.php?pwd&whichchoice=513&option=1
+You acquire ice-cold Willer (3)
+Took choice 513/1: unknown
+choice.php?pwd&whichchoice=513&option=1
+
+[83] Tavern Cellar (row 3, col 5)
+Encounter: drunken rat
+Round 0: fifthtoast loses initiative!
+You lose 1 hit point
+Round 1: fifthtoast summons Titterheap the Undead Elbow Macaroni!
+Round 2: You focus your thoughts and call out to Titterheap.  He claws his way up from beneath the ground at your feet.
+Round 2: Titterheap bites your opponent for 9 damage.
+Round 2: drunken rat takes 9 damage.
+Round 2: fifthtoast wins the fight!
+You gain 9 Meat
+You acquire an item: rat whisker
+You gain 2 Wizardliness
+You gain 1 Chutzpah
+
+[84] Tavern Cellar (row 4, col 5)
+Encounter: drunken rat
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: drunken rat takes 4 damage.
+Round 2: cocopuf coos softly, and nuzzles you with his beak.
+You gain 15 hit points
+You gain 15 Mana Points
+Round 2: fifthtoast summons Titterheap the Undead Elbow Macaroni!
+Round 3: You focus your thoughts and call out to Titterheap.  He claws his way up from beneath the ground at your feet.
+Round 3: You are mentally exhausted by the effort of summoning Titterheap.
+Round 3: Titterheap bites your opponent for 7 damage.
+Round 3: drunken rat takes 7 damage.
+Round 3: fifthtoast wins the fight!
+Your familiar gains a pound: cocopuf, the 8 lb. Cocoabo
+You gain 10 Meat
+You acquire an item: rat whisker
+You gain 1 Strongness
+You gain 3 Magicalness
+
+Visiting the pretentious artist
+Selling 24 rat whiskers to the pretentious artist
+You gain 1,200 Meat
+
+manor.php?place=library
+
+[85] Haunted Billiards Room
+Encounter: pooltergeist
+Round 0: fifthtoast loses initiative!
+You lose 1 hit point
+Round 1: fifthtoast attacks!
+Round 2: pooltergeist takes 4 damage.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 36 Meat.
+You lose 1 hit point
+Round 2: fifthtoast casts RAVIOLI SHURIKENS!
+Round 3: pooltergeist takes 10 damage.
+You lose 1 hit point
+Round 3: fifthtoast casts RAVIOLI SHURIKENS!
+Round 4: pooltergeist takes 6 damage.
+You lose 1 hit point
+Round 4: fifthtoast casts RAVIOLI SHURIKENS!
+Round 5: pooltergeist takes 5 damage.
+Round 5: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 34 Meat.
+Round 5: fifthtoast wins the fight!
+You acquire an item: 4-ball
+You gain 2 Strengthliness
+You gain 2 Magicalness
+You gain 2 Chutzpah
