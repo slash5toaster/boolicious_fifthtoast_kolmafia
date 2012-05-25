@@ -409,3 +409,100 @@ You gain 10 Meat
 You acquire an item: rat whisker
 You acquire an item: rat appendix
 You gain 3 Enchantedness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+May 23, 2012 - Martinus 8
+
+Ronald: waning crescent
+Grimace: waxing gibbous
+Mini-moon: behind Ronald
+
+Generic Summer Holiday: 3 days
+Dependence Day: 12 days
+Arrrbor Day: 20 days
+Lab&oacute;r Day: 30 days
+Halloween: 40 days
+Feast of Boris: 47 days
+Yuletide: 52 days
+Festival of Jarlsberg: 57 days
+Valentine's Day: 68 days
+St. Sneaky Pete's Day: 75 days
+Oyster Egg Day: 82 days
+El Dia De Los Muertos Borrachos: 90 days
+
+
+Muscle bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Pastamancer
+
+Lv: 3
+HP: 16 / 16
+MP: 7 / 29
+
+Mus: 13 (8), tnp = 2
+Mys: 19 (12), tnp = 19
+Mox: 13 (10), tnp = 20
+
+Advs: 88
+Meat: 5,402
+Drunk: 0
+
+
+ > equipment
+
+Hat: chef's hat
+Weapon: asparagus knife
+Off-hand: astral shield
+Shirt: (none)
+Pants: old sweatpants
+
+Acc. 1: shiny ring
+Acc. 2: continuum transfunctioner
+Acc. 3: (none)
+
+Pet: Cocoabo (6 lbs)
+Item: (none)
+
+ > skills
+
+Pastamancer
+ - Cannelloni Cocoon
+ - Entangling Noodles
+ - Lasagna Bandages
+ - Manicotti Meditation
+ - Ravioli Shurikens
+ - Spaghetti Spear
+
+Disco Bandit
+ - Ambidextrous Funkslinging
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Glittering Eyelashes (8)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
