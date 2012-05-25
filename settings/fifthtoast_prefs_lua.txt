@@ -15,8 +15,8 @@ FamiliarTrainingFrame=260,240
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=223,133,-1
-LoginFrame=390,276,0
+KoLDesktop=97,19,-1
+LoginFrame=417,164,0
 MailboxFrame=289,310,1
 MaximizerFrame=328,275
 MeatManageFrame=475,375
@@ -228,6 +228,15 @@ basementMallPrices=1
 battleAction=custom combat script
 beeCounter=0
 betweenBattleScript
+biodataEngineering=0
+biodataGalley=0
+biodataMedbay=0
+biodataMorgue=0
+biodataNavigation=0
+biodataScienceLab=0
+biodataSonar=0
+biodataSpecialOps=0
+biodataWasteProcessing=0
 birdformCold=0
 birdformHot=0
 birdformRoc=0
@@ -716,7 +725,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Outskirts of The Knob
+lastAdventure=Haunted Billiards Room
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -733,13 +742,13 @@ lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=7
+lastBreakfast=9
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=2
-lastCounterDay=7
+lastCouncilVisit=4
+lastCounterDay=9
 lastDispensaryOpen=-1
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -780,7 +789,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=2
-lastEncounter=Knob Goblin Barbecue Team
+lastEncounter=pooltergeist
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=2
@@ -790,9 +799,10 @@ lastGuyMadeOfBeesReset=3
 lastHermitReset=2
 lastHiddenCityAscension=2
 lastHippyCall=-1
+lastKeyotronUse=-1
 lastKingLiberation=3
 lastLouvreMap=3
-lastManorUnlock=2
+lastManorUnlock=3
 lastMessageCount=15
 lastMessageId
 lastMiningReset=1
@@ -844,8 +854,8 @@ lastStoneSphere2175
 lastStoneSphere2176
 lastStoneSphere2177
 lastStoneSphereReset=3
-lastTavernAscension=2
-lastTavernSquare=16
+lastTavernAscension=3
+lastTavernSquare=20
 lastTelescopeReset=2
 lastTempleAdventures=2
 lastTempleButtonsUnlock=2
@@ -890,15 +900,15 @@ olfactedMonster=wabbit
 oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
-pastamancerGhostExperience=0
+pastamancerGhostExperience=10
 pastamancerGhostName=Titterheap
-pastamancerGhostSummons=0
+pastamancerGhostSummons=10
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
 pastamancerOrbedType
 pendingMapReflections=0
-photocopyMonster
+photocopyMonster=monster
 plantingDate
 plantingDay=-1
 plantingLength=7
@@ -928,7 +938,7 @@ questI02Beat=unstarted
 questI02Beat =unstarted
 questL02Larva=finished
 questL03Rat=finished
-questL04Bat=unstarted
+questL04Bat=started
 questL05Goblin=unstarted
 questL06Friar=unstarted
 questL07Cyrptic=unstarted
@@ -969,7 +979,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=70\:Semirare window begin\:lparen.gif\:80\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1030,7 +1040,7 @@ sugarCounter4181=0
 sugarCounter4182=0
 sugarCounter4183=0
 sugarCounter4191=0
-tavernLayout=1115121511111553155551611
+tavernLayout=1111111115115111111131116
 telescope1
 telescope2
 telescope3
