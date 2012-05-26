@@ -2,10 +2,10 @@
 
 HOST=$(hostname -s)
 case $HOST in
-  "lua" )
-       echo $HOST
-       JAVABIN=/usr/lib/jvm/java-1.5.0-sun-1.5.0.19/bin/java
-       ;;
+  #"lua" )
+       #echo $HOST
+       #JAVABIN=/usr/local/jdk1.7.0_01/jre/bin/java
+       #;;
   "ussf319388" )
        echo $HOST
        JAVABIN=/usr/lib/jvm/java-6-openjdk/jre/bin/java
