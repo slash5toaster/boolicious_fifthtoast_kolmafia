@@ -35,7 +35,7 @@ _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
 _allYearSucker=false
-_aprilShower=false
+_aprilShower=true
 _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
@@ -79,7 +79,7 @@ _grooseDrops=0
 _hareAdv=0
 _hipsterAdv=0
 _hobbyHorseUsed=false
-_hotTubSoaks=0
+_hotTubSoaks=2
 _iceballUses=0
 _inigosCasts=0
 _interviewIsabella=false
@@ -107,7 +107,7 @@ _photocopyUsed=false
 _pieDrops=0
 _piePartsCount=0
 _poisonArrows=0
-_poolGames=0
+_poolGames=1
 _precisionCasts=0
 _raindohCopiesMade=0
 _requestSandwichSucceeded=false
@@ -648,7 +648,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=1
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -725,7 +725,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Fantasy Airship
+lastAdventure=The Broodling Grounds
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -787,8 +787,8 @@ lastDwarfOreRunes
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
-lastEmptiedStorage=3
-lastEncounter=MagiMechTech MechaMech
+lastEmptiedStorage=-1
+lastEncounter=mother hellseal
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -864,7 +864,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=3
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=9
+libramSummons=11
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -896,7 +896,7 @@ nunsVisits=1
 oceanAction=savecontinue
 oceanDestination=sphere
 olfactedMonster=wabbit
-oscusSodaUsed=false
+oscusSodaUsed=true
 outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=0
@@ -1026,10 +1026,10 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=1022
-stationaryButton2=4009
-stationaryButton3=1003
-stationaryButton4=1005
+stationaryButton1
+stationaryButton2
+stationaryButton3
+stationaryButton4
 stationaryButton5
 styxPixieVisited=false
 sugarCounter4178=0
