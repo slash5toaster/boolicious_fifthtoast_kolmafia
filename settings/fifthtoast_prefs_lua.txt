@@ -725,7 +725,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Daily Dungeon (Room 1)
+lastAdventure=Noob Cave
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -742,13 +742,13 @@ lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=10
+lastBreakfast=11
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=4
-lastCounterDay=10
+lastCouncilVisit=5
+lastCounterDay=11
 lastDispensaryOpen=-1
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -789,7 +789,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=2
-lastEncounter=tonic water elemental
+lastEncounter=crate
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=2
@@ -900,9 +900,9 @@ olfactedMonster=wabbit
 oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
-pastamancerGhostExperience=19
+pastamancerGhostExperience=21
 pastamancerGhostName=Titterheap
-pastamancerGhostSummons=10
+pastamancerGhostSummons=2
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
@@ -938,7 +938,7 @@ questI02Beat=unstarted
 questI02Beat =unstarted
 questL02Larva=finished
 questL03Rat=finished
-questL04Bat=step3
+questL04Bat=finished
 questL05Goblin=unstarted
 questL06Friar=unstarted
 questL07Cyrptic=unstarted
