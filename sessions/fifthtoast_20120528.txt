@@ -1,0 +1,401 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+May 28, 2012 - Bill 5
+
+Ronald: full moon
+Grimace: third quarter
+Mini-moon: in back, near Ronald
+
+Dependence Day: 7 days
+Arrrbor Day: 15 days
+Lab&oacute;r Day: 25 days
+Halloween: 35 days
+Feast of Boris: 42 days
+Yuletide: 47 days
+Festival of Jarlsberg: 52 days
+Valentine's Day: 63 days
+St. Sneaky Pete's Day: 70 days
+Oyster Egg Day: 77 days
+El Dia De Los Muertos Borrachos: 85 days
+Generic Summer Holiday: 94 days
+
+
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: fifthtoast
+Class: Pastamancer
+
+Lv: 5
+HP: 27 / 27
+MP: 90 / 96
+
+Mus: 21 (15), tnp = 8
+Mys: 62 (22), tnp = 7
+Mox: 19 (16), tnp = 18
+
+Advs: 120
+Meat: 2,427
+Drunk: 0
+
+
+ > equipment
+
+Hat: goat beard
+Weapon: dented harmonica
+Off-hand: Glass Balls of the Goblin King
+Shirt: (none)
+Pants: filthy corduroys
+
+Acc. 1: arrrgyle socks
+Acc. 2: tiny plastic Big Candy
+Acc. 3: shiny ring
+
+Pet: Cocoabo (13 lbs)
+Item: (none)
+
+ > skills
+
+Pastamancer
+ - Cannelloni Cannon
+ - Cannelloni Cocoon
+ - Entangling Noodles
+ - Lasagna Bandages
+ - Manicotti Meditation
+ - Ravioli Shurikens
+ - Spaghetti Spear
+
+Disco Bandit
+ - Ambidextrous Funkslinging
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Good Karma (2)
+Pasta Oneness (30)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+buy 5 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (5)
+You spent 250 Meat
+
+use 5 chewing gum on a string
+You acquire an item: worthless gewgaw
+You acquire an item: worthless trinket
+You acquire an item: worthless knick-knack
+You acquire an item: stolen accordion
+You acquire an item: old sweatpants
+
+trading 3 worthless items for 3 ten-leaf clovers
+You acquire ten-leaf clover (3)
+
+Use 3 ten-leaf clover
+You acquire disassembled clover (3)
+
+place.php?whichplace=bugbearship_outside
+place.php?whichplace=bugbearship
+choice.php?forceoption=0
+
+[221] Sonar
+Encounter: Machines!
+Took choice 588/2: unknown
+choice.php?whichchoice=588&pwd=350d2352c70749939474ceec4c30cec3&option=2&whurmvalue=3
+choice.php?forceoption=0
+
+[222] Sonar
+Encounter: Machines!
+Took choice 588/1: unknown
+choice.php?whichchoice=588&pwd=350d2352c70749939474ceec4c30cec3&option=1&pingvalue=3
+
+[223] Sonar
+Encounter: batbugbear
+Round 0: fifthtoast loses initiative!
+You lose 9 hit points
+Round 1: fifthtoast attacks!
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 2: batbugbear drops 5 attack power.
+Round 2: batbugbear drops 5 defense.
+Round 2: fifthtoast summons Titterheap the Undead Elbow Macaroni!
+Round 3: You focus your thoughts and call out to Titterheap.  He claws his way up from beneath the ground at your feet.
+Round 3: Titterheap bites your opponent for 7 damage.
+Round 3: batbugbear takes 7 damage.
+You lose 5 hit points
+Round 3: fifthtoast casts RAVIOLI SHURIKENS!
+Round 4: batbugbear takes 14 damage.
+Round 4: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 4: batbugbear drops 5 attack power.
+Round 4: batbugbear drops 5 defense.
+Round 4: Titterheap bites your opponent for 11 damage.
+Round 4: batbugbear takes 11 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: BURT
+You gain 1 Strengthliness
+You gain 4 Wizardliness
+You gain 2 Sarcasm
+
+[224] Sonar
+Encounter: batbugbear
+Round 0: fifthtoast loses initiative!
+You lose 8 hit points
+Round 1: fifthtoast casts RAVIOLI SHURIKENS!
+Round 2: batbugbear takes 10 damage.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 56 Meat.
+You lose 8 hit points
+
+cast 1 Lasagna Bandages
+You gain 12 hit points
+
+cast 1 Lasagna Bandages
+You gain 17 hit points
+
+[225] Outskirts of The Knob
+Encounter: Knob Goblin Assistant Chef
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: knob goblin assistant chef takes 4 damage.
+Round 2: fifthtoast wins the fight!
+You gain 7 Meat
+You gain 1 Strengthliness
+
+buy 1 cog for 20 each from Degrassi Knoll General Store
+You acquire an item: cog
+You spent 20 Meat
+
+buy 1 spring for 20 each from Degrassi Knoll General Store
+You acquire an item: spring
+You spent 20 Meat
+
+buy 1 tires for 28 each from Degrassi Knoll General Store
+You acquire an item: tires
+You spent 28 Meat
+
+Visiting Innabox
+
+buy 1 empty meat tank for 20 each from Degrassi Knoll General Store
+You acquire an item: empty meat tank
+You spent 20 Meat
+
+pull: 1 sprocket assembly
+
+pull: 1 Trivial Avocations board game
+
+pull: 1 big boom
+
+Create 1 meat stack
+You acquire an item: meat stack
+You lose 100 Meat
+
+Combine 1 empty meat tank + 1 meat stack
+You acquire an item: full meat tank
+
+Combine 1 cog + 1 sprocket assembly
+You acquire an item: cog and sprocket assembly
+
+Combine 1 full meat tank + 1 cog and sprocket assembly
+You acquire an item: meat engine
+
+Visiting Blaine
+
+use 1 Degrassi Knoll shopping list
+
+use 1 Cobb's Knob map
+
+[226] Outskirts of The Knob
+Encounter: Sub-Assistant Knob Mad Scientist
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: sub-assistant knob mad scientist takes 10 damage.
+Round 2: fifthtoast wins the fight!
+You gain 7 Meat
+You acquire an item: strongness elixir
+You acquire an item: Knob Goblin firecracker
+You gain 2 Enchantedness
+
+[227] Outskirts of The Knob
+Encounter: sleeping Knob Goblin Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: sleeping knob goblin guard takes 5 damage.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 16 damage.
+Round 2: sleeping knob goblin guard takes 16 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 Meat
+You gain 1 Muscleboundness
+
+[228] Outskirts of The Knob
+Encounter: Knob Goblin Assistant Chef
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: knob goblin assistant chef takes 17 damage.
+Round 2: fifthtoast wins the fight!
+You gain 7 Meat
+You acquire an item: Knob Goblin pants
+You gain 1 Roguishness
+
+[229] Outskirts of The Knob
+Encounter: Knob Goblin Barbecue Team
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: knob goblin barbecue team takes 3 damage.
+Round 2: fifthtoast wins the fight!
+You gain 10 Meat
+You acquire an item: bowl of cottage cheese
+You acquire an item: Knob Goblin pants
+You gain 2 Wizardliness
+You gain a Mysticality point!
+
+[230] Outskirts of The Knob
+Encounter: Knob Goblin Assistant Chef
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: knob goblin assistant chef takes 3 damage.
+Round 2: fifthtoast wins the fight!
+You gain 8 Meat
+You acquire an item: chef's hat
+You gain 2 Enchantedness
+
+[231] Outskirts of The Knob
+Encounter: Knob Goblin Assistant Chef
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: knob goblin assistant chef takes 18 damage.
+Round 2: fifthtoast wins the fight!
+You gain 8 Meat
+You acquire an item: chef's hat
+You gain 2 Magicalness
+
+[232] Outskirts of The Knob
+Encounter: Code Red
+You acquire an item: Knob Goblin encryption key
+
+use 1 Cobb's Knob map
+
+[233] Cobb's Knob Barracks
+Encounter: Knob Goblin Elite Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: knob goblin elite guard takes 4 damage.
+You lose 8 hit points
+Round 2: fifthtoast attacks!
+Round 3: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 42 Meat.
+You lose 7 hit points
+Round 3: fifthtoast attacks!
+Round 4: cocopuf coos softly, and nuzzles you with his beak.
+You gain 19 hit points
+You gain 19 Mana Points
+You lose 8 hit points
+Round 4: fifthtoast summons Titterheap the Undead Elbow Macaroni!
+Round 5: You focus your thoughts and call out to Titterheap.  He claws his way up from beneath the ground at your feet.
+Round 5: cocopuf coos softly, and nuzzles you with his beak.
+You gain 20 hit points
+You gain 20 Mana Points
+Round 5: Titterheap bites your opponent for 12 damage.
+Round 5: knob goblin elite guard takes 12 damage.
+You lose 8 hit points
+Round 5: fifthtoast casts RAVIOLI SHURIKENS!
+Round 6: knob goblin elite guard takes 9 damage.
+Round 6: Titterheap bites your opponent for 12 damage.
+Round 6: knob goblin elite guard takes 12 damage.
+Round 6: fifthtoast wins the fight!
+You gain 42 Meat
+You gain 1 Strengthliness
+You gain 4 Enchantedness
+You gain 2 Cheek
+
+Use 1 disassembled clover
+You acquire an item: ten-leaf clover
+
+[234] Cobb's Knob Barracks
+Encounter: swarm of Knob lice
+Round 0: fifthtoast loses initiative!
+You lose 8 hit points
+Round 1: fifthtoast attacks!
+You lose 9 hit points
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: swarm of knob lice takes 2 damage.
+You lose 8 hit points
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+Visiting Comfy Sofa in clan rumpus room
+
+[235] Rest in Clan Sofa (1 turns)
+You gain 20 hit points
+
+[236] Haiku Dungeon
+Encounter: ferocious bugbear
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: ferocious bugbear takes 4 damage.
+Round 2: Your familiar strikes / just like a tiny ninja / (you missed what it did).
+You gain 21 hit points
+You gain 21 Mojo points
+Round 2: fifthtoast summons Titterheap the Undead Elbow Macaroni!
+Round 3: While you're not looking, / your familiar does something. / Wonder what it was.
+You gain 21 hit points
+You gain 21 Mojo points
+Round 3: fifthtoast wins the fight!
+You gain 19 Meat
+You acquire an item: bugbear bungguard
+You gain 1 Roguishness
+choice.php?forceoption=0
+
+[237] Haiku Dungeon
+Encounter: Gravy Fairy Ring
+Took choice 297/1: mushrooms
+choice.php?pwd&whichchoice=297&option=1
+
+[238] Haiku Dungeon
+Encounter: gelatinous cube
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: gelatinous cube takes 4 damage.
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: gelatinous cube takes 3 damage.
+Round 3: Aw, that was so cute! / I wish you had just seen what / your buddy just did.
+You gain 68 Meat
+Round 3: fifthtoast wins the fight!
+You gain 27 Meat
+You acquire an item: rusty metal shaft
+You gain 2 Magicalness
+choice.php?forceoption=0
+
+[239] Cobb's Knob Barracks
+Encounter: Welcome to the Footlocker
+Took choice 522/1: knob goblin elite polearm
+choice.php?pwd&whichchoice=522&option=1
+You acquire an item: Knob Goblin elite polearm
+
+[240] Cobb's Knob Barracks
+Encounter: off-duty Knob Goblin Elite Guard
+Round 0: fifthtoast loses initiative!
+You lose 12 hit points
+Round 1: fifthtoast attacks!
+You lose 12 hit points

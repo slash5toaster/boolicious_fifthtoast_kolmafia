@@ -725,7 +725,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Noob Cave
+lastAdventure=Cobb's Knob Barracks
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -742,13 +742,13 @@ lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=11
+lastBreakfast=12
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=5
-lastCounterDay=11
+lastCounterDay=12
 lastDispensaryOpen=-1
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -789,7 +789,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=2
-lastEncounter=crate
+lastEncounter=off-duty Knob Goblin Elite Guard
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=2
@@ -900,7 +900,7 @@ olfactedMonster=wabbit
 oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
-pastamancerGhostExperience=21
+pastamancerGhostExperience=23
 pastamancerGhostName=Titterheap
 pastamancerGhostSummons=2
 pastamancerGhostType=Undead Elbow Macaroni

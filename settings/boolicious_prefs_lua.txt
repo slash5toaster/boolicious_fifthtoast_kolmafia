@@ -28,7 +28,7 @@ RequestFrame=-3,-3,-1
 RequestSynchFrame=-3,-3,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
-StoreManageFrame=-3,-3,0
+StoreManageFrame=292,223,0
 TabbedChatFrame=772,99,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
@@ -638,8 +638,8 @@ clanAttacksEnabled=false
 cocktailSummons=0
 concertVisited=false
 counterScript
-crimboTreeDays=4
-currentBountyItem=2411
+crimboTreeDays=3
+currentBountyItem=0
 currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
@@ -741,13 +741,13 @@ lastBangPotion827=healing
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=11
+lastBreakfast=12
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=13
-lastCounterDay=11
+lastCounterDay=12
 lastDispensaryOpen=3
 lastDoorCodeReset=1
 lastDustyBottle2271=5
@@ -787,7 +787,7 @@ lastDwarfOreRunes
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
-lastEmptiedStorage=3
+lastEmptiedStorage=-1
 lastEncounter=mother hellseal
 lastFilthClearance=3
 lastFratboyCall=-1
@@ -864,7 +864,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=3
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=9
+libramSummons=8
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -892,7 +892,7 @@ mpAutoRecoveryItems=sleep on your clan sofa;rest at your campground;galaktik's f
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
 noodleSummons=0
-nunsVisits=0
+nunsVisits=1
 oceanAction=savecontinue
 oceanDestination=sphere
 olfactedMonster=wabbit
@@ -1026,7 +1026,7 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1
+stationaryButton1=1005
 stationaryButton2
 stationaryButton3
 stationaryButton4
@@ -1053,7 +1053,7 @@ tempuraSummons=0
 textColors=crappy\:\#999999|good\:green|awesome\:blue|epic\:\#8a2be2|junk\:gray|memento\:olive|notavailable\:gray
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=0
+tomeSummons=3
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
