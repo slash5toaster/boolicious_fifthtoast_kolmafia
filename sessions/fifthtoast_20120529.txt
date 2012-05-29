@@ -118,3 +118,665 @@ You acquire ten-leaf clover (3)
 
 Use 3 ten-leaf clover
 You acquire disassembled clover (3)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+May 29, 2012 - Bill 6
+
+Ronald: waning gibbous
+Grimace: third quarter
+Mini-moon: far left
+
+Dependence Day: 6 days
+Arrrbor Day: 14 days
+Lab&oacute;r Day: 24 days
+Halloween: 34 days
+Feast of Boris: 41 days
+Yuletide: 46 days
+Festival of Jarlsberg: 51 days
+Valentine's Day: 62 days
+St. Sneaky Pete's Day: 69 days
+Oyster Egg Day: 76 days
+El Dia De Los Muertos Borrachos: 84 days
+Generic Summer Holiday: 93 days
+
+
+2 days until Moxie.
+
+
+ > status
+
+Name: fifthtoast
+Class: Pastamancer
+
+Lv: 5
+HP: 10 / 27
+MP: 84 / 90
+
+Mus: 21 (15), tnp = 4
+Mys: 58 (23), tnp = 36
+Mox: 19 (16), tnp = 12
+
+Advs: 140
+Meat: 2,044
+Drunk: 0
+
+
+ > equipment
+
+Hat: goat beard
+Weapon: dented harmonica
+Off-hand: Glass Balls of the Goblin King
+Shirt: (none)
+Pants: filthy corduroys
+
+Acc. 1: arrrgyle socks
+Acc. 2: tiny plastic Big Candy
+Acc. 3: shiny ring
+
+Pet: Cocoabo (13 lbs)
+Item: (none)
+
+ > skills
+
+Pastamancer
+ - Cannelloni Cannon
+ - Cannelloni Cocoon
+ - Entangling Noodles
+ - Lasagna Bandages
+ - Manicotti Meditation
+ - Ravioli Shurikens
+ - Spaghetti Spear
+
+Disco Bandit
+ - Ambidextrous Funkslinging
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Pasta Oneness (10)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+Visiting Comfy Sofa in clan rumpus room
+
+[241] Rest in Clan Sofa (1 turns)
+You gain 17 hit points
+You gain 6 Mana Points
+
+[242] Cobb's Knob Barracks
+Encounter: Knob Goblin Elite Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: knob goblin elite guard takes 4 damage.
+You lose 9 hit points
+Round 2: fifthtoast attacks!
+Round 3: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 14 damage.
+Round 3: knob goblin elite guard takes 14 damage.
+Round 3: fifthtoast summons Titterheap the Undead Elbow Macaroni!
+Round 4: You focus your thoughts and call out to Titterheap.  He claws his way up from beneath the ground at your feet.
+Round 4: cocopuf coos softly, and nuzzles you with his beak.
+You gain 19 hit points
+You gain 19 Mana Points
+Round 4: Titterheap bites your opponent for 15 damage.
+Round 4: knob goblin elite guard takes 15 damage.
+Round 4: fifthtoast wins the fight!
+You gain 47 Meat
+You gain 1 Muscleboundness
+You gain 5 Mysteriousness
+You gain 1 Smarm
+
+cast 15 Manicotti Meditation
+You acquire an effect: Pasta Oneness (duration: 75 Adventures)
+
+[243] Cobb's Knob Barracks
+Encounter: off-duty Knob Goblin Elite Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: off-duty knob goblin elite guard takes 3 damage.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 64 Meat.
+You lose 12 hit points
+Round 2: fifthtoast attacks!
+You lose 13 hit points
+Round 3: fifthtoast casts SPAGHETTI SPEAR!
+Round 4: off-duty knob goblin elite guard takes 3 damage.
+You lose 12 hit points
+
+cast 1 Lasagna Bandages
+You gain 11 hit points
+
+cast 1 Lasagna Bandages
+You gain 27 hit points
+
+equip weapon Knob Goblin elite polearm
+
+[244] Cobb's Knob Barracks
+Encounter: swarm of Knob lice
+Round 0: fifthtoast loses initiative!
+You lose 14 hit points
+Round 1: fifthtoast attacks!
+Round 2: cocopuf coos softly, and nuzzles you with his beak.
+You gain 19 hit points
+You gain 19 Mana Points
+You lose 13 hit points
+Round 2: fifthtoast casts RAVIOLI SHURIKENS!
+Round 3: swarm of knob lice takes 3 damage.
+Round 3: cocopuf paws at the ground for a second, and then charges your opponent, bashing them for 7 damage.
+Round 3: swarm of knob lice takes 7 damage.
+You lose 12 hit points
+
+cast 1 Lasagna Bandages
+You gain 28 hit points
+
+[245] Sleazy Back Alley
+Encounter: big creepy spider
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: big creepy spider takes 5 damage.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 14 damage.
+Round 2: big creepy spider takes 14 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 Meat
+You acquire an item: spider web
+You gain 2 Mysteriousness
+
+[246] Sleazy Back Alley
+Encounter: rushing bum
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: rushing bum takes 3 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: Mad Train wine
+You gain 2 Mysteriousness
+
+[247] Sleazy Back Alley
+Encounter: completely different spider
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: completely different spider takes 4 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 Meat
+You acquire an item: spider web
+You gain 1 Smarm
+
+Visiting the pretentious artist
+
+[248] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: undead elbow macaroni takes 3 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 Meat
+You acquire an item: magicalness-in-a-can
+You gain 1 Roguishness
+
+[249] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: undead elbow macaroni takes 4 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 Meat
+You gain 1 Muscleboundness
+
+[250] Haunted Pantry
+Encounter: overdone flame-broiled meat blob
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: overdone flame-broiled meat blob takes 4 damage.
+Round 2: fifthtoast wins the fight!
+You gain 23 Meat
+You gain 1 Muscleboundness
+
+[251] Haunted Kitchen
+Encounter: paper towelgeist
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: paper towelgeist takes 4 damage.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 56 Meat.
+Round 2: fifthtoast attacks!
+Round 3: paper towelgeist takes 32 damage.
+Round 3: fifthtoast wins the fight!
+You gain 1 Cheek
+
+[252] Haunted Kitchen
+Encounter: paper towelgeist
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: paper towelgeist takes 3 damage.
+Round 2: fifthtoast attacks!
+Round 3: paper towelgeist takes 30 damage.
+Round 3: cocopuf coos softly, and nuzzles you with his beak.
+You gain 20 hit points
+You gain 20 Mana Points
+Round 3: fifthtoast wins the fight!
+You gain 1 Smarm
+
+[253] Haunted Conservatory
+Encounter: man-eating plant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: man-eating plant takes 3 damage.
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 2: man-eating plant drops 5 attack power.
+Round 2: man-eating plant drops 5 defense.
+Round 2: fifthtoast attacks!
+Round 3: man-eating plant takes 26 damage.
+Round 3: fifthtoast wins the fight!
+You gain 1 Strongness
+You gain a Muscle point!
+
+[254] Haunted Conservatory
+Encounter: skeletal cat
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: skeletal cat takes 28 damage.
+Round 2: fifthtoast wins the fight!
+Your familiar gains a pound: cocopuf, the 14 lb. Cocoabo
+You acquire an item: pile of dusty animal bones
+You gain 3 Enchantedness
+
+manor.php?place=library
+
+[255] Haunted Billiards Room
+Encounter: pooltergeist
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: pooltergeist takes 4 damage.
+Round 2: fifthtoast attacks!
+Round 3: pooltergeist takes 19 damage.
+Round 3: fifthtoast attacks!
+Round 4: pooltergeist takes 13 damage.
+Round 4: fifthtoast wins the fight!
+You gain 1 Muscleboundness
+You gain 4 Mysteriousness
+You gain 1 Smarm
+
+[256] Haunted Billiards Room
+Encounter: chalkdust wraith
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: chalkdust wraith takes 1 damage.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 1 damage.
+Round 2: chalkdust wraith takes 1 damage.
+Round 2: fifthtoast attacks!
+Round 3: chalkdust wraith takes 1 damage.
+Round 3: fifthtoast attacks!
+Round 4: chalkdust wraith takes 1 damage.
+Round 4: fifthtoast attacks!
+Round 5: chalkdust wraith takes 1 damage.
+Round 5: cocopuf coos softly, and nuzzles you with his beak.
+You gain 21 hit points
+You gain 21 Mana Points
+You lose 5 hit points
+Round 5: fifthtoast casts SPAGHETTI SPEAR!
+Round 6: chalkdust wraith takes 1 damage.
+Round 6: cocopuf coos softly, and nuzzles you with his beak.
+You gain 20 hit points
+You gain 20 Mana Points
+You lose 5 hit points
+Round 6: fifthtoast casts SPAGHETTI SPEAR!
+Round 7: chalkdust wraith takes 1 damage.
+You lose 4 hit points
+Round 7: fifthtoast casts SPAGHETTI SPEAR!
+Round 8: chalkdust wraith takes 1 damage.
+Round 8: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 8: chalkdust wraith drops 5 attack power.
+Round 8: chalkdust wraith drops 5 defense.
+You lose 4 hit points
+Round 8: fifthtoast casts SPAGHETTI SPEAR!
+Round 9: chalkdust wraith takes 1 damage.
+Round 9: cocopuf coos softly, and nuzzles you with his beak.
+You gain 21 hit points
+You gain 21 Mana Points
+Round 9: fifthtoast casts SPAGHETTI SPEAR!
+Round 10: chalkdust wraith takes 1 damage.
+Round 10: fifthtoast wins the fight!
+You acquire an item: handful of hand chalk
+You gain 1 Fortitude
+You gain 3 Enchantedness
+You gain 2 Sarcasm
+
+multiuse.php?passitem=1794&pwd=9942de886af5fc6cd919aef0b66bfeb5
+
+use 1 handful of hand chalk
+You acquire an effect: Chalky Hand (duration: 5 Adventures)
+
+[257] Haunted Billiards Room
+Encounter: chalkdust wraith
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: chalkdust wraith takes 1 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: chalkdust wraith takes 1 damage.
+You lose 4 hit points
+Round 3: fifthtoast attacks!
+Round 4: chalkdust wraith takes 1 damage.
+Round 4: fifthtoast attacks!
+Round 5: chalkdust wraith takes 1 damage.
+Round 5: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 5: chalkdust wraith drops 5 attack power.
+Round 5: chalkdust wraith drops 5 defense.
+Round 5: fifthtoast attacks!
+Round 6: chalkdust wraith takes 1 damage.
+Round 6: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 6: chalkdust wraith drops 5 attack power.
+Round 6: chalkdust wraith drops 5 defense.
+Round 6: fifthtoast attacks!
+Round 7: chalkdust wraith takes 1 damage.
+Round 7: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 1 damage.
+Round 7: chalkdust wraith takes 1 damage.
+Round 7: fifthtoast attacks!
+Round 8: chalkdust wraith takes 1 damage.
+Round 8: fifthtoast attacks!
+Round 9: chalkdust wraith takes 1 damage.
+Round 9: fifthtoast attacks!
+Round 10: chalkdust wraith takes 1 damage.
+Round 10: fifthtoast wins the fight!
+You acquire an item: handful of hand chalk
+You gain 1 Strengthliness
+You gain 4 Magicalness
+
+[258] Haunted Billiards Room
+Encounter: pooltergeist
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: pooltergeist takes 3 damage.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 60 Meat.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: pooltergeist takes 20 damage.
+Round 3: fifthtoast attacks!
+Round 4: pooltergeist takes 18 damage.
+Round 4: fifthtoast wins the fight!
+You gain 1 Beefiness
+You gain 4 Enchantedness
+You gain 1 Cheek
+
+[259] Haunted Billiards Room
+Encounter: chalkdust wraith
+Round 0: fifthtoast loses initiative!
+You lose 5 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+You lose 4 hit points
+Round 2: fifthtoast attacks!
+Round 3: chalkdust wraith takes 1 damage.
+Round 3: fifthtoast attacks!
+Round 4: chalkdust wraith takes 1 damage.
+Round 4: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 1 damage.
+Round 4: chalkdust wraith takes 1 damage.
+Round 4: fifthtoast attacks!
+Round 5: chalkdust wraith takes 1 damage.
+Round 5: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 5: chalkdust wraith drops 5 attack power.
+Round 5: chalkdust wraith drops 5 defense.
+Round 5: fifthtoast attacks!
+Round 6: chalkdust wraith takes 1 damage.
+Round 6: fifthtoast attacks!
+Round 7: chalkdust wraith takes 1 damage.
+You lose 4 hit points
+Round 7: fifthtoast attacks!
+Round 8: chalkdust wraith takes 1 damage.
+Round 8: fifthtoast attacks!
+Round 9: chalkdust wraith takes 1 damage.
+Round 9: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 1 damage.
+Round 9: chalkdust wraith takes 1 damage.
+You lose 3 hit points
+Round 9: fifthtoast attacks!
+Round 10: chalkdust wraith takes 1 damage.
+Round 10: fifthtoast wins the fight!
+You acquire an item: handful of hand chalk
+You gain 1 Beefiness
+You gain 2 Enchantedness
+You gain 3 Sarcasm
+You gain a Moxie point!
+
+[260] Haunted Billiards Room
+Encounter: That's your cue
+You acquire an item: pool cue
+
+equip weapon dented harmonica
+
+equip off-hand Glass Balls of the Goblin King
+
+[261] Haunted Billiards Room
+Encounter: chalkdust wraith
+Round 0: fifthtoast loses initiative!
+You lose 4 hit points
+Round 1: fifthtoast summons Titterheap the Undead Elbow Macaroni!
+Round 2: You focus your thoughts and call out to Titterheap.  He claws his way up from beneath the ground at your feet.
+Round 2: cocopuf coos softly, and nuzzles you with his beak.
+You gain 20 hit points
+You gain 20 Mana Points
+Round 2: Titterheap bites your opponent for 1 damage.
+Round 2: chalkdust wraith takes 1 damage.
+You lose 4 hit points
+Round 2: fifthtoast attacks!
+Round 3: chalkdust wraith takes 1 damage.
+Round 3: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 3: chalkdust wraith drops 5 attack power.
+Round 3: chalkdust wraith drops 5 defense.
+Round 3: Titterheap bites your opponent for 1 damage.
+Round 3: chalkdust wraith takes 1 damage.
+You lose 3 hit points
+Round 3: fifthtoast attacks!
+Round 4: chalkdust wraith takes 1 damage.
+Round 4: Titterheap bites your opponent for 1 damage.
+Round 4: chalkdust wraith takes 1 damage.
+Round 4: fifthtoast attacks!
+Round 5: chalkdust wraith takes 1 damage.
+Round 5: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 1 damage.
+Round 5: chalkdust wraith takes 1 damage.
+Round 5: Titterheap bites your opponent for 1 damage.
+Round 5: chalkdust wraith takes 1 damage.
+Round 5: fifthtoast attacks!
+Round 6: chalkdust wraith takes 1 damage.
+Round 6: cocopuf coos softly, and nuzzles you with his beak.
+You gain 20 hit points
+You gain 20 Mana Points
+Round 6: Titterheap bites your opponent for 1 damage.
+Round 6: chalkdust wraith takes 1 damage.
+Round 6: fifthtoast wins the fight!
+You acquire an item: handful of hand chalk
+You gain 4 Magicalness
+You gain 2 Cheek
+choice.php?forceoption=0
+
+[262] Haunted Billiards Room
+Encounter: Minnesota Incorporeals
+Took choice 77/2: other options
+choice.php?pwd&whichchoice=77&option=2
+Encounter: Broken
+Took choice 78/1: other options
+choice.php?pwd&whichchoice=78&option=1
+Encounter: A Hustle Here, a Hustle There
+Took choice 79/1: Spookyraven library key
+choice.php?pwd&whichchoice=79&option=1
+
+use 2 handful of hand chalk
+You acquire an effect: Chalky Hand (duration: 10 Adventures)
+choice.php?forceoption=0
+
+[263] Haunted Billiards Room
+Encounter: Minnesota Incorporeals
+Took choice 77/2: other options
+choice.php?pwd&whichchoice=77&option=2
+Encounter: Broken
+Took choice 78/1: other options
+choice.php?pwd&whichchoice=78&option=1
+Encounter: A Hustle Here, a Hustle There
+Took choice 79/1: Spookyraven library key
+choice.php?pwd&whichchoice=79&option=1
+You acquire an item: Spookyraven library key
+
+[264] Haunted Library
+Encounter: banshee librarian
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: banshee librarian takes 4 damage.
+Round 2: fifthtoast attacks!
+Round 3: banshee librarian takes 7 damage.
+You lose 36 hit points
+
+cast 1 Lasagna Bandages
+You gain 14 hit points
+
+cast 1 Lasagna Bandages
+You gain 29 hit points
+
+[265] Haunted Conservatory
+Encounter: skeletal hamster
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: skeletal hamster takes 3 damage.
+You lose 2 hit points
+Round 2: fifthtoast attacks!
+Round 3: skeletal hamster takes 11 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: pile of dusty animal bones
+You gain 2 Enchantedness
+You gain 1 Roguishness
+
+[266] Haunted Conservatory
+Encounter: skeletal monkey
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: skeletal monkey takes 8 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: pile of dusty animal bones
+You gain 2 Enchantedness
+You gain a Mysticality point!
+You gain 1 Cheek
+
+[267] Haunted Conservatory
+Encounter: man-eating plant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: man-eating plant takes 5 damage.
+Round 2: cocopuf coos softly, and nuzzles you with his beak.
+You gain 22 hit points
+You gain 22 Mana Points
+Round 2: fifthtoast attacks!
+Round 3: man-eating plant takes 8 damage.
+Round 3: fifthtoast wins the fight!
+You gain 2 Enchantedness
+You gain 1 Roguishness
+
+plant 1 spooky mushroom
+
+plant 6 Knob mushroom
+
+plant 11 Knoll mushroom
+
+Combine 1 spider web + 1 spider web
+You acquire an item: really sticky spider web
+
+Visiting Innabox
+
+[268] Cobb's Knob Kitchens
+Encounter: Knob Goblin Elite Guard Captain
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: knob goblin elite guard captain takes 3 damage.
+You lose 12 hit points
+Round 2: fifthtoast summons Titterheap the Undead Elbow Macaroni!
+Round 3: You focus your thoughts and call out to Titterheap.  He claws his way up from beneath the ground at your feet.
+Round 3: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 3: knob goblin elite guard captain drops 5 attack power.
+Round 3: knob goblin elite guard captain drops 5 defense.
+Round 3: Titterheap bites your opponent for 7 damage.
+Round 3: knob goblin elite guard captain takes 7 damage.
+Round 3: fifthtoast attacks!
+Round 4: knob goblin elite guard captain takes 6 damage.
+Round 4: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 13 damage.
+Round 4: knob goblin elite guard captain takes 13 damage.
+Round 4: Titterheap bites your opponent for 12 damage.
+Round 4: knob goblin elite guard captain takes 12 damage.
+Round 4: fifthtoast wins the fight!
+You gain 288 Meat
+You acquire an item: Knob Goblin elite helm
+You acquire an item: Knob Goblin elite pants
+You acquire an item: Knob Goblin elite polearm
+You gain 12 Strengthliness
+You gain 19 Magicalness
+You gain 9 Roguishness
+outfit Knob Goblin Elite Guard Uniform
+
+[269] Cobb's Knob Kitchens
+Encounter: The Cake Boss
+You acquire an item: Knob cake pan
+
+[270] Cobb's Knob Kitchens
+Encounter: Batter Up!
+You acquire an item: Knob batter
+
+[271] Cobb's Knob Kitchens
+Encounter: Cobb's Knob lab key
+You acquire an item: Cobb's Knob lab key
+
+[271] Cobb's Knob Barracks
+Encounter: It's Time to Play...  Password!
+
+[272] Cobb's Knob Barracks
+Encounter: Sleeping Near the Enemy
+You gain 30 hit points
+You gain 1 Mana Point
+
+[273] Cobb's Knob Barracks
+Encounter: Sleeping Near the Enemy
+You gain 1 hit point
+You gain 1 Mana Point
+
+[274] Cobb's Knob Treasury
+Encounter: Meat For Nothing and the Harem for Free
+You gain 300 Meat
+
+[275] Cobb's Knob Harem
+Encounter: A Massage with a Message
+You gain 25 Strongness
+You gain a Muscle point!
+You gain 28 Mysteriousness
+You gain a Mysticality point!
+You gain 25 Sarcasm
+You gain a Moxie point!
+
+cobbsknob.php?action=tolabs
+cobbsknob.php?action=dispensary
+
+buy 1 Knob Goblin learning pill for 300 each from The Knob Dispensary
+You acquire an item: Knob Goblin learning pill
+You spent 300 Meat
+
+buy 1 Knob Goblin sharpening spray for 230 each from The Knob Dispensary
+You acquire an item: Knob Goblin sharpening spray
+You spent 230 Meat
+
+use 1 Knob Goblin sharpening spray
+You acquire an effect: Sharp Weapon (duration: 5 Adventures)
+
+[276] Cobb's Knob Harem
+Encounter: Therein Lies the Rub
