@@ -133,7 +133,7 @@ _timeHelmetAdv=0
 _toastSummons=0
 _tokenDrops=0
 _transponderDrops=0
-_trivialAvocationsGame=false
+_trivialAvocationsGame=true
 _userMods
 _vitachocCapsulesUsed=3
 _vmaskAdv=0
@@ -742,13 +742,13 @@ lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=12
+lastBreakfast=13
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=5
-lastCounterDay=12
+lastCounterDay=13
 lastDispensaryOpen=-1
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -902,7 +902,7 @@ outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=23
 pastamancerGhostName=Titterheap
-pastamancerGhostSummons=2
+pastamancerGhostSummons=0
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
@@ -939,7 +939,7 @@ questI02Beat =unstarted
 questL02Larva=finished
 questL03Rat=finished
 questL04Bat=finished
-questL05Goblin=unstarted
+questL05Goblin=started
 questL06Friar=unstarted
 questL07Cyrptic=unstarted
 questL08Trapper=unstarted
