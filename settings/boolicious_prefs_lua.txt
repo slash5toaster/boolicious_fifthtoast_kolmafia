@@ -42,21 +42,26 @@ _bagOTricksUsed=false
 _bagOfCandy=false
 _bagOfCandyUsed=true
 _ballInACupUsed=false
+_ballastTurtleUsed=false
 _ballpit=false
 _banderRunaways=0
+_beerLensDrops=0
 _benettonsCasts=0
 _bonersSummoned=false
 _bootStomps=0
 _borrowedTimeUsed=false
+_boxOfHammersUsed=false
 _boxingGloveArrows=0
 _brickoEyeSummons=0
 _brickoFights=0
 _cameraUsed=false
 _candySummons=0
 _carboLoaded=false
+_carnieCandyDrops=0
 _chipBags=0
 _chocolateCigarsUsed=0
 _chocolatesUsed=0
+_coalPaperweightUsed=false
 _companionshipCasts=0
 _creepyVoodooDollUsed=true
 _crimboTree=true
@@ -76,10 +81,14 @@ _gibbererAdv=0
 _gnollEyeUsed=false
 _gongDrops=0
 _grooseDrops=0
+_guildManualUsed=true
 _hareAdv=0
+_hippyMeatCollected=true
 _hipsterAdv=0
 _hobbyHorseUsed=false
+_hoboUnderlingSummons=0
 _hotTubSoaks=0
+_hyperinflatedSealLungUsed=false
 _iceballUses=0
 _inigosCasts=0
 _interviewIsabella=false
@@ -88,6 +97,7 @@ _interviewVlad=false
 _ironicMoustache=false
 _jackassPlumberGame=false
 _jackassePlumberGame
+_jingleBellUsed=false
 _jukebox=false
 _klawSummons=0
 _kloopDrops=0
@@ -98,6 +108,7 @@ _legendaryBeat=false
 _lookingGlass=true
 _lunchBreak=false
 _madTeaParty=false
+_mayflowerDrops=0
 _mayflySummons=0
 _mediumSiphons=0
 _navelRunaways=0
@@ -106,6 +117,7 @@ _pasteDrops=0
 _photocopyUsed=false
 _pieDrops=0
 _piePartsCount=0
+_pneumaticityPotionUsed=false
 _poisonArrows=0
 _poolGames=0
 _precisionCasts=0
@@ -124,19 +136,29 @@ _skateBuff3=false
 _skateBuff4=false
 _skateBuff5=false
 _smilesOfMrA=0
+_softwareGlitchTurnReceived=false
+_stabonicScrollUsed=false
+_stinkyCheeseBanisherUsed=false
 _stinkyCheeseCount=0
 _stressBallSqueezes=0
+_stuffedPocketwatchUsed=false
+_styxSprayUsed=false
 _syntheticDogHairPillUsed=false
 _templeHiddenPower=false
+_tempuraAirUsed=false
 _thingfinderCasts=0
 _timeHelmetAdv=0
 _toastSummons=3
 _tokenDrops=0
 _transponderDrops=0
+_treasuryEliteMeatCollected=false
+_treasuryHaremMeatCollected=false
 _trivialAvocationsGame=true
 _userMods
 _vitachocCapsulesUsed=3
 _vmaskAdv=0
+_vmaskBanisherUsed=false
+_whiteRiceDrops=0
 _zapCount=0
 addingScrolls=2
 afterAdventureScript
@@ -638,7 +660,7 @@ clanAttacksEnabled=false
 cocktailSummons=0
 concertVisited=false
 counterScript
-crimboTreeDays=2
+crimboTreeDays=4
 currentBountyItem=0
 currentFullness=0
 currentHippyStore=hippy
@@ -725,7 +747,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=The Broodling Grounds
+lastAdventure=Mysticality Vacation
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -741,15 +763,15 @@ lastBangPotion827=healing
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=13
+lastBreakfast=3
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=13
+lastCounterDay=3
 lastDispensaryOpen=3
-lastDoorCodeReset=1
+lastDoorCodeReset=3
 lastDustyBottle2271=5
 lastDustyBottle2272=1
 lastDustyBottle2273=4
@@ -787,8 +809,8 @@ lastDwarfOreRunes
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
-lastEmptiedStorage=3
-lastEncounter=hellseal pup
+lastEmptiedStorage=-1
+lastEncounter=A Beach
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -864,7 +886,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=3
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=9
+libramSummons=8
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -950,7 +972,7 @@ questL11Palindome=finished
 questL11Pyramid=finished
 questL11Worship=finished
 questL12War=finished
-questL13Final=unstarted
+questL13Final=step2
 questM01Untinker=finished
 questM02Artist=finished
 questM03Bugbear=step2
@@ -978,7 +1000,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=2816\:The Shore loc\=* shore.php\:dinghy.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1027,7 +1049,7 @@ spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
 stationaryButton1=1005
-stationaryButton2
+stationaryButton2=15
 stationaryButton3
 stationaryButton4
 stationaryButton5
@@ -1079,6 +1101,7 @@ unknownRecipe5069=true
 unknownRecipe5070=true
 unknownRecipe5072=true
 unknownRecipe5073=true
+unknownRecipe5671=true
 usable1HWeapons=3
 usable1xAccs=1
 usable2HWeapons=1
@@ -1101,5 +1124,6 @@ volcanoMaze3
 volcanoMaze4
 volcanoMaze5
 warProgress=finished
+waxMonster
 welcomeBackAdv=0
 wineCellarProgress=0
