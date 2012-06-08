@@ -151,8 +151,8 @@ _timeHelmetAdv=0
 _toastSummons=0
 _tokenDrops=0
 _transponderDrops=0
-_treasuryEliteMeatCollected=false
-_treasuryHaremMeatCollected=false
+_treasuryEliteMeatCollected=true
+_treasuryHaremMeatCollected=true
 _trivialAvocationsGame=true
 _userMods
 _vitachocCapsulesUsed=3
@@ -252,7 +252,7 @@ beeCounter=0
 betweenBattleScript
 biodataEngineering=0
 biodataGalley=0
-biodataMedbay=2
+biodataMedbay=3
 biodataMorgue=0
 biodataNavigation=0
 biodataScienceLab=0
@@ -747,14 +747,14 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Spooky Forest
+lastAdventure=Outskirts of The Knob
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
 lastBangPotion-1=confusion
 lastBangPotion819
 lastBangPotion820
-lastBangPotion821
+lastBangPotion821=confusion
 lastBangPotion822
 lastBangPotion823
 lastBangPotion824
@@ -764,13 +764,13 @@ lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=6
+lastBreakfast=7
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=6
-lastCounterDay=6
+lastCounterDay=7
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -811,7 +811,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=2
-lastEncounter=An Interesting Choice
+lastEncounter=Malice in Chains
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=2
@@ -922,9 +922,9 @@ olfactedMonster=wabbit
 oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
-pastamancerGhostExperience=30
+pastamancerGhostExperience=35
 pastamancerGhostName=Titterheap
-pastamancerGhostSummons=0
+pastamancerGhostSummons=5
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
@@ -1001,7 +1001,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=428\:Semirare window begin\:lparen.gif\:468\:Semirare window end loc\=*\:rparen.gif
+relayCounters=613\:Semirare window begin\:lparen.gif\:653\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1010,8 +1010,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=268
-semirareLocation=Cobb's Knob Kitchens
+semirareCounter=453
+semirareLocation=Outskirts of The Knob
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
