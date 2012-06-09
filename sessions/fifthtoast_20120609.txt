@@ -1,0 +1,201 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+June 9, 2012 - Petember 1
+
+Ronald: new moon
+Grimace: full moon
+Mini-moon: far left
+
+Arrrbor Day: 3 days
+Lab&oacute;r Day: 13 days
+Halloween: 23 days
+Feast of Boris: 30 days
+Yuletide: 35 days
+Festival of Jarlsberg: 40 days
+Valentine's Day: 51 days
+St. Sneaky Pete's Day: 58 days
+Oyster Egg Day: 65 days
+El Dia De Los Muertos Borrachos: 73 days
+Generic Summer Holiday: 82 days
+Dependence Day: 91 days
+
+
+Muscle bonus today and tomorrow.
+
+
+ > status
+
+Name: fifthtoast
+Class: Pastamancer
+
+Lv: 6
+HP: 31 / 31
+MP: 111 / 111
+
+Mus: 25 (22), tnp = 31
+Mys: 72 (30), tnp = 39
+Mox: 21, tnp = 8
+
+Advs: 180
+Meat: 2,348
+Drunk: 0
+
+
+ > equipment
+
+Hat: goat beard
+Weapon: dented harmonica
+Off-hand: Glass Balls of the Goblin King
+Shirt: (none)
+Pants: filthy corduroys
+
+Acc. 1: arrrgyle socks
+Acc. 2: Jarlsberg's earring
+Acc. 3: tiny plastic Big Candy
+
+Pet: Cocoabo (17 lbs)
+Item: (none)
+
+ > skills
+
+Pastamancer
+ - Cannelloni Cannon
+ - Cannelloni Cocoon
+ - Entangling Noodles
+ - Lasagna Bandages
+ - Manicotti Meditation
+ - Pastamastery
+ - Ravioli Shurikens
+ - Spaghetti Spear
+ - Springy Fusilli
+
+Disco Bandit
+ - Ambidextrous Funkslinging
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Pasta Oneness (82)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: Where?
+
+trading 1 worthless item for 1 ten-leaf clover
+You acquire an item: ten-leaf clover
+
+cast 3 Pastamastery
+You acquire dry noodles (3)
+
+buy 5 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (5)
+You spent 250 Meat
+
+use 5 chewing gum on a string
+You acquire an item: worthless trinket
+You acquire an item: stolen accordion
+You acquire an item: worthless knick-knack
+You acquire worthless gewgaw (2)
+
+trading 3 worthless items for 3 ten-leaf clovers
+
+[460] Dark Neck of the Woods
+Encounter: P imp
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: p imp takes 3 damage.
+You lose 20 hit points
+Round 2: fifthtoast summons Titterheap the Undead Elbow Macaroni!
+Round 3: You focus your thoughts and call out to Titterheap.  He claws his way up from beneath the ground at your feet.
+Round 3: Titterheap bites your opponent for 9 damage.
+Round 3: p imp takes 9 damage.
+You lose 20 hit points
+
+cast 1 Lasagna Bandages
+You gain 11 hit points
+
+cast 1 Lasagna Bandages
+You gain 18 hit points
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+[461] Outskirts of The Knob
+Encounter: sleeping Knob Goblin Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: sleeping knob goblin guard takes 4 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 Meat
+You acquire an item: viking helmet
+You acquire an item: Knob Goblin pants
+You gain 2 Enchantedness
+
+[462] Outskirts of The Knob
+Encounter: sleeping Knob Goblin Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: sleeping knob goblin guard takes 4 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 Meat
+You gain 2 Enchantedness
+
+[463] Outskirts of The Knob
+Encounter: Knob Goblin Barbecue Team
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: knob goblin barbecue team takes 3 damage.
+Round 2: fifthtoast wins the fight!
+You gain 12 Meat
+You acquire an item: bowl of cottage cheese
+You gain 2 Mysteriousness
+choice.php?forceoption=0
+
+[464] Outskirts of The Knob
+Encounter: When Rocks Attack
+Took choice 118/1: accept unguent quest
+choice.php?pwd&whichchoice=118&option=1
+You gain 30 Meat
+
+Visiting Doc Galaktik
+
+Visiting Doc Galaktik
+You acquire an item: Doc Galaktik's Pungent Unguent
+You spent 30 Meat
+
+[464] Outskirts of The Knob
+Encounter: Unstubbed
+You acquire an item: ring of half-assed regeneration
+
+pull: 1 Trivial Avocations Card: Where?
+
+pull: 2 Trivial Avocations Card: What?, 2 Trivial Avocations Card: When?, 2 Trivial Avocations Card: Where?, 2 Trivial Avocations Card: Who?
+
+pull: 1 gilded ancient cursed chest
+
+pull: 2 resolution: be feistier, 2 resolution: be happier, 2 resolution: be sexier, 2 resolution: be smarter
+
+pull: 1 Doc Galaktik's Restorative Balm, 1 Pine-Fresh air freshener

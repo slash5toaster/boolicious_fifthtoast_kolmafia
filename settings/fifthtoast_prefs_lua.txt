@@ -151,8 +151,8 @@ _timeHelmetAdv=0
 _toastSummons=0
 _tokenDrops=0
 _transponderDrops=0
-_treasuryEliteMeatCollected=true
-_treasuryHaremMeatCollected=true
+_treasuryEliteMeatCollected=false
+_treasuryHaremMeatCollected=false
 _trivialAvocationsGame=true
 _userMods
 _vitachocCapsulesUsed=3
@@ -764,13 +764,13 @@ lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=7
+lastBreakfast=8
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=6
-lastCounterDay=7
+lastCounterDay=8
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -811,7 +811,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=2
-lastEncounter=Malice in Chains
+lastEncounter=Unstubbed
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=2
@@ -924,7 +924,7 @@ outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=35
 pastamancerGhostName=Titterheap
-pastamancerGhostSummons=5
+pastamancerGhostSummons=1
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
