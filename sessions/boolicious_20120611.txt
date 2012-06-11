@@ -468,3 +468,1305 @@ You acquire an item: hellseal whisker
 You gain 54 Strongness
 You gain 22 Enchantedness
 You gain 36 Smarm
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+June 11, 2012 - Petember 3
+
+Ronald: first quarter
+Grimace: waning gibbous
+Mini-moon: in front of Grimace, L side
+
+Arrrbor Day: tomorrow
+Lab&oacute;r Day: 11 days
+Halloween: 21 days
+Feast of Boris: 28 days
+Yuletide: 33 days
+Festival of Jarlsberg: 38 days
+Valentine's Day: 49 days
+St. Sneaky Pete's Day: 56 days
+Oyster Egg Day: 63 days
+El Dia De Los Muertos Borrachos: 71 days
+Generic Summer Holiday: 80 days
+Dependence Day: 89 days
+
+
+2 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 14
+HP: 203 / 503
+MP: 160 / 200
+
+Mus: 299 (198), tnp = 190
+Mys: 180 (150), tnp = 35
+Mox: 189 (158), tnp = 197
+
+Advs: 187
+Meat: 395,369
+Drunk: 0
+
+
+ > equipment
+
+Hat: moist sailor's cap
+Weapon: brand new key
+Off-hand: Hammer of Smiting
+Shirt: astral shirt
+Pants: (none)
+
+Acc. 1: furniture dolly
+Acc. 2: Pok&euml;mann figurine: Frank
+Acc. 3: Mr. Accessory
+
+Pet: Fancypants Scarecrow (15 lbs)
+Item: trousers of the white knight
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Double-Fisted Skull Smashing
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Snarl of the Timberwolf
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+2 of 3 AT buffs active.
+Joyful Resolve (7)
+Kindly Resolve (27)
+Brilliant Resolve (27)
+Silent Running (35)
+Destructive Resolve (47)
+Fortunate Resolve (47)
+Everything Looks Yellow (141)
+Strong Resolve (167)
+Greedy Resolve (187)
+Irresistible Resolve (207)
+♫ The Sonata of Sneakiness (273)
+Scarysauce (273)
+Ghostly Shell (273)
+Jingle Jangle Jingle (273)
+Astral Shell (273)
+Reptilian Fortitude (273)
+Empathy (273)
+♫ Cringle's Curative Carol (273)
+
+
+ > modifiers
+
+ML: +0
+Enc: -10.00%
+Init: +50.00%
+
+Exp: +3.50
+Meat: +165.24%
+Item: +20.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 2 Summon Resolutions
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be more adventurous
+
+equip hat Mer-kin sneakmask
+
+equip weapon costume sword
+
+equip off-hand rusty compass
+
+equip pants star pants
+
+equip acc2 blackberry moccasins
+
+equip acc3 Lord Spookyraven's ear trumpet
+
+pool stylish
+You acquire an effect: Hustlin' (duration: 10 Adventures)
+
+swimming pool laps
+You acquire an effect: Lapdog (duration: 50 Adventures)
+
+use 1 Swabbie&trade; swab
+You acquire an effect: Well-Swabbed Ear (duration: 10 Adventures)
+
+use 1 ant agonist
+You acquire an effect: All Fired Up (duration: 10 Adventures)
+
+buy 1 cheap wind-up clock for 200 each from Smacketeria
+You acquire an item: cheap wind-up clock
+You spent 200 Meat
+
+use 1 cheap wind-up clock
+You acquire an effect: Ticking Clock (duration: 10 Adventures)
+
+uneffect Everything Looks Yellow
+
+cast 1 Snarl of the Timberwolf
+You acquire an effect: Snarl of the Timberwolf (duration: 10 Adventures)
+
+[2929] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 22 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 29 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 29 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 23 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 17 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 17 damage.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 192 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 15 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 15 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: hellseal claw
+You gain 18 Fortitude
+You gain 9 Wizardliness
+You gain 10 Sarcasm
+
+[2930] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 22 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 16 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 16 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 23 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 18 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 18 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 194 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 27 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 27 damage.
+Round 3: boolicious wins the fight!
+You gain 17 Beefiness
+You gain 10 Mysteriousness
+You gain 9 Sarcasm
+
+use 4 Marquis de Poivre soda
+You gain 132 Muscularity Points
+
+[2931] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 22 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 19 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 19 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 22 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 19 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 19 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 190 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 16 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 16 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: hellseal whisker
+You acquire an item: hellseal claw
+You gain 16 Strengthliness
+You gain 9 Mysteriousness
+You gain 11 Cheek
+
+[2932] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 23 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 29 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 29 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 22 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 24 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 24 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 193 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 24 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 24 damage.
+Round 3: boolicious wins the fight!
+You gain 18 Muscleboundness
+You gain 11 Magicalness
+You gain a Mysticality point!
+You gain 9 Roguishness
+
+[2933] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 22 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 24 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 24 damage.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 23 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 27 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 27 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 192 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 15 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 15 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: hellseal whisker
+You gain 14 Beefiness
+You gain 9 Wizardliness
+You gain 15 Sarcasm
+
+[2934] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts LUNGING THRUST-SMACK!
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 28 damage? She never saw it coming! How droll."
+Round 1: mother hellseal takes 28 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. She overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts LUNGING THRUST-SMACK!
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 16 damage? She never saw it coming! How droll."
+Round 2: mother hellseal takes 16 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. She overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 21 damage? She never saw it coming! How droll."
+Round 3: mother hellseal takes 21 damage.
+Round 3: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. She overhears that, and is too demoralized to attack this round.
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: mother hellseal takes 72 damage.
+Round 4: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 29 damage? She never saw it coming! How droll."
+Round 4: mother hellseal takes 29 damage.
+You lose 185 hit points
+Round 4: boolicious casts LUNGING THRUST-SMACK!
+Round 5: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 20 damage? She never saw it coming! How droll."
+Round 5: mother hellseal takes 20 damage.
+Round 5: boolicious wins the fight!
+You acquire an item: burst hellseal brain
+You acquire an item: hellseal whisker
+You acquire an item: hellseal claw
+You gain 100 Muscleboundness
+You gain 46 Mysteriousness
+You gain 60 Roguishness
+
+uneffect Snarl of the Timberwolf
+
+uneffect Destructive Resolve
+
+uneffect Everything Looks Yellow
+
+uneffect Strong Resolve
+
+[2935] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 16 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 16 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 16 damage.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 15 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 30 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 30 damage.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 157 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 17 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 17 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: hellseal whisker
+You acquire an item: hellseal claw
+You gain 13 Fortitude
+You gain a Muscle point!
+You gain 7 Magicalness
+You gain 14 Chutzpah
+
+[2936] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 16 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 23 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 23 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 16 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 27 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 27 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 159 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 25 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 25 damage.
+Round 3: boolicious wins the fight!
+You gain 11 Strongness
+You gain 8 Magicalness
+You gain 16 Chutzpah
+
+[2937] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 15 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 20 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 20 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 16 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 19 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 19 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 166 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 25 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 25 damage.
+Round 3: boolicious wins the fight!
+You gain 16 Strongness
+You gain 6 Mysteriousness
+You gain 14 Smarm
+
+[2938] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 15 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 21 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 21 damage.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 15 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 17 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 17 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 160 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 21 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 21 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: hellseal claw
+You gain 15 Strengthliness
+You gain 10 Mysteriousness
+You gain 10 Roguishness
+
+[2939] The Broodling Grounds
+
+[2940] The Broodling Grounds
+
+[2941] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 16 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 25 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 25 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 15 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 18 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 18 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 63 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 22 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 22 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: hellseal claw
+You gain 14 Beefiness
+You gain 8 Mysteriousness
+You gain 14 Sarcasm
+
+[2942] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 15 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 21 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 21 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 15 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 18 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 18 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 62 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 30 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 30 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: hellseal claw
+You gain 15 Muscleboundness
+You gain 9 Mysteriousness
+You gain 10 Roguishness
+
+[2943] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 15 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 19 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 19 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 15 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 19 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 19 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 64 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 15 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 15 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: hellseal claw
+You gain 13 Beefiness
+You gain 13 Enchantedness
+You gain 8 Chutzpah
+You gain a Moxie point!
+
+[2944] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 15 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 23 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 23 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 16 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 30 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 30 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+You lose 1 hit point
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 20 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 20 damage.
+Round 3: boolicious wins the fight!
+You gain 11 Fortitude
+You gain 11 Wizardliness
+You gain 13 Roguishness
+
+[2945] The Broodling Grounds
+
+[2946] The Broodling Grounds
+
+cast 1 Tongue of the Walrus
+
+[2947] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 16 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 24 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 24 damage.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 15 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 16 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 16 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 65 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 25 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 25 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: hellseal claw
+You gain 14 Strongness
+You gain 10 Enchantedness
+You gain 11 Cheek
+You gain 37 hit points
+You lose an effect: Beaten Up
+
+[2948] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 16 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 17 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 17 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 16 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 26 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 26 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 165 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 29 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 29 damage.
+Round 3: boolicious wins the fight!
+You gain 22 Fortitude
+You gain 8 Enchantedness
+You gain 4 Chutzpah
+
+[2949] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 15 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 18 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 18 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 16 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 28 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 28 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 160 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 25 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 25 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: hellseal whisker
+You gain 19 Muscleboundness
+You gain 8 Wizardliness
+You gain 7 Smarm
+
+[2950] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 16 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 28 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 28 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 16 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 29 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 29 damage.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 164 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 26 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 26 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: hellseal claw
+You gain 18 Strengthliness
+You gain 10 Enchantedness
+You gain 7 Roguishness
+
+cast 1 Tongue of the Walrus
+
+[2951] The Broodling Grounds
+You gain 31 hit points
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 16 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 26 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 26 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 15 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 26 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 26 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 165 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 22 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 22 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: hellseal whisker
+You gain 19 Beefiness
+You gain 7 Wizardliness
+You gain 8 Chutzpah
+
+[2952] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 15 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 26 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 26 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 15 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 16 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 16 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 161 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 24 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 24 damage.
+Round 3: boolicious wins the fight!
+You gain 12 Strongness
+You gain 12 Magicalness
+You gain 10 Sarcasm
+
+[2953] The Broodling Grounds
+
+[2954] The Broodling Grounds
+
+cast 1 Tongue of the Walrus
+
+[2955] The Broodling Grounds
+You gain 30 hit points
+You lose an effect: Beaten Up
+Encounter: mother hellseal
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts LUNGING THRUST-SMACK!
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 30 damage? She never saw it coming! How droll."
+Round 1: mother hellseal takes 30 damage.
+You lose 97 hit points
+
+[2956] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts LUNGING THRUST-SMACK!
+Round 1: mother hellseal takes 68 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 21 damage? She never saw it coming! How droll."
+Round 1: mother hellseal takes 21 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. She overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts LUNGING THRUST-SMACK!
+Round 2: mother hellseal takes 68 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 21 damage? She never saw it coming! How droll."
+Round 2: mother hellseal takes 21 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: torn hellseal sinew
+You acquire an item: hellseal whisker
+You gain 43 Beefiness
+You gain 13 Wizardliness
+You gain 22 Sarcasm
+
+[2957] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 16 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 20 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 20 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 16 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 16 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 16 damage.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 163 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 21 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 21 damage.
+Round 3: boolicious wins the fight!
+You gain 19 Beefiness
+You gain 9 Wizardliness
+You gain 4 Chutzpah
+
+[2958] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 16 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 22 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 22 damage.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 15 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 20 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 20 damage.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 162 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 27 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 27 damage.
+Round 3: boolicious wins the fight!
+You gain 16 Muscleboundness
+You gain 6 Wizardliness
+You gain 10 Sarcasm
+
+[2959] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts LUNGING THRUST-SMACK!
+Round 1: mother hellseal takes 49 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 17 damage? She never saw it coming! How droll."
+Round 1: mother hellseal takes 17 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. She overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts LUNGING THRUST-SMACK!
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 18 damage? She never saw it coming! How droll."
+Round 2: mother hellseal takes 18 damage.
+You lose 119 hit points
+
+[2960] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts LUNGING THRUST-SMACK!
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 28 damage? She never saw it coming! How droll."
+Round 1: mother hellseal takes 28 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. She overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts LUNGING THRUST-SMACK!
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 15 damage? She never saw it coming! How droll."
+Round 2: mother hellseal takes 15 damage.
+You lose 96 hit points
+
+[2961] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 15 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 25 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 25 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 15 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 16 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 16 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 61 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 23 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 23 damage.
+Round 3: boolicious wins the fight!
+You gain 13 Beefiness
+You gain 10 Enchantedness
+You gain 10 Cheek
+
+[2962] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 15 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 20 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 20 damage.
+You lose 6 hit points
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 16 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 19 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 19 damage.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 66 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 26 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 26 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: hellseal whisker
+You acquire an item: hellseal claw
+You gain 15 Muscleboundness
+You gain 9 Enchantedness
+You gain 8 Cheek
+
+[2963] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts LUNGING THRUST-SMACK!
+
+cast 1 Tongue of the Walrus
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 17 damage? She never saw it coming! How droll."
+Round 1: mother hellseal takes 17 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. She overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts LUNGING THRUST-SMACK!
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 27 damage? She never saw it coming! How droll."
+Round 2: mother hellseal takes 27 damage.
+You lose 97 hit points
+You gain 34 hit points
+You lose an effect: Beaten Up
+
+[2964] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts LUNGING THRUST-SMACK!
+Round 1: mother hellseal takes 65 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 23 damage? She never saw it coming! How droll."
+Round 1: mother hellseal takes 23 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. She overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts LUNGING THRUST-SMACK!
+Round 2: mother hellseal takes 65 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 26 damage? She never saw it coming! How droll."
+Round 2: mother hellseal takes 26 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: burst hellseal brain
+You acquire an item: hellseal claw
+You gain 35 Muscleboundness
+You gain 21 Enchantedness
+You gain 24 Cheek
+
+[2965] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 16 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 24 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 24 damage.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 15 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 22 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 22 damage.
+Round 2: boolicious attacks!
+Round 3: hellseal pup takes 162 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 16 damage? It never saw it coming! How droll."
+Round 3: hellseal pup takes 16 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: hellseal whisker
+You acquire an item: hellseal claw
+You gain 18 Muscleboundness
+You gain 5 Mysteriousness
+You gain 10 Roguishness
+
+cast 1 Tongue of the Walrus
+You gain 40 hit points
+
+equip off-hand Hammer of Smiting
+
+equip weapon brand new key
+
+equip acc3 Mr. Accessory
+
+Visiting Relaxing Hot Tub in clan VIP lounge
+You gain 348 hit points
+
+Visiting April Shower in clan VIP lounge
+
+shower warm
+You acquire an effect: Muscle Unbound (duration: 50 Adventures)
+
+Visiting Looking Glass in clan VIP lounge
+
+Visiting Fax Machine in clan VIP lounge
+
+fax receive
+You acquire an item: photocopied monster
+
+use 1 photocopied monster
+
+[2966] photocopied monster
+Encounter: four-shadowed mime
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: four-shadowed mime takes 306 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 22 damage? He never saw it coming! How droll."
+Round 2: four-shadowed mime takes 22 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: mime soul fragment
+You gain 10 Fortitude
+You gain 7 Enchantedness
+You gain 7 Sarcasm
+
+eat 1 bucket of honey
+You gain 3 Adventures
+You acquire an effect: Sugar Rush (duration: 50 Adventures)
+You gain 1 Fullness
+
+eat 1 yellow matter custard
+You gain 6 Adventures
+You gain 14 Strongness
+You gain 11 Magicalness
+You gain 16 Sarcasm
+You gain 2 Fullness
+Buying trophy #9 at the Trophy Hut
+You spent 10,000 Meat
+
+postwarisland.php?place=concert
+concert 1
+You acquire an effect: Moon'd (duration: 20 Adventures)
+
+[2967] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 56 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 27 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 27 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 59 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 19 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 19 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: hellseal whisker
+You gain 17 Strengthliness
+You gain a Muscle point!
+You gain a Level!
+You gain 10 Magicalness
+You gain 13 Cheek
+
+Visiting Torg, the Trainer
+
+guild.php?action=buyskill&skillid=18
+You learned a new skill: Northern Exposure
+guild.php?action=buyskill&skillid=19
+You learned a new skill: Musk of the Moose
+guild.php?action=buyskill&skillid=16
+You learned a new skill: Pulverize
+
+telescope look 
+
+telescope look low
+
+Pulverize 5 twinkly powder
+You acquire an item: twinkly nuggets
+
+Pulverize 5 hot powder
+You acquire an item: hot nuggets
+
+Pulverize 5 spooky powder
+You acquire an item: spooky nuggets
+
+Pulverize 5 stench powder
+You acquire an item: stench nuggets
+
+Pulverize 5 twinkly nuggets
+You acquire an item: twinkly wad
+
+Pulverize 15 twinkly nuggets
+You acquire twinkly wad (3)
+
+Pulverize 5 hot nuggets
+You acquire an item: hot wad
+
+Pulverize 10 spooky nuggets
+You acquire spooky wad (2)
+
+Pulverize 5 stench nuggets
+You acquire an item: stench wad
+
+Pulverize 5 sleaze nuggets
+You acquire an item: sleaze wad
+
+Pulverize 5 sewer nuggets
+You acquire an item: sewer wad
+
+Combine 1 meat engine + 1 frilly skirt
+You acquire an item: Meat maid body
+Crafting used 1 each of meat engine and frilly skirt
+
+[2969] Cook 
+You acquire an item: large cocoa eggshell fragment
+You acquire an item: large cocoa eggshell fragment
+You acquire an item: cocoa egg
+You acquire an item: Lucky Surprise Egg
+Crafting used 1 each of cocoa eggshell fragment and cocoa eggshell fragment
+Crafting used 1 each of cocoa eggshell fragment and cocoa eggshell fragment
+Crafting used 1 each of large cocoa eggshell fragment and large cocoa eggshell fragment
+Crafting used 1 each of ten-leaf clover and cocoa egg
+
+[2969] Cook 
+You acquire an item: large cocoa eggshell fragment
+You acquire an item: large cocoa eggshell fragment
+You acquire an item: cocoa egg
+You acquire an item: Lucky Surprise Egg
+Crafting used 1 each of cocoa eggshell fragment and cocoa eggshell fragment
+Crafting used 1 each of cocoa eggshell fragment and cocoa eggshell fragment
+Crafting used 1 each of large cocoa eggshell fragment and large cocoa eggshell fragment
+Crafting used 1 each of ten-leaf clover and cocoa egg
+
+[2968] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 55 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 17 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 17 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 51 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 28 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 28 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: hellseal whisker
+You gain 19 Fortitude
+You gain 10 Mysteriousness
+You gain 9 Cheek
+
+[2969] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 60 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 18 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 18 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 50 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 21 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 21 damage.
+Round 2: boolicious wins the fight!
+You gain 23 Strengthliness
+You gain 8 Enchantedness
+You gain a Mysticality point!
+You gain 9 Sarcasm
+
+[2971] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 48 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 23 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 23 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 48 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 20 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 20 damage.
+Round 2: boolicious wins the fight!
+You gain 14 Strengthliness
+You gain 10 Enchantedness
+You gain 15 Sarcasm
+
+[2971] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 52 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 17 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 17 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 54 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 22 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 22 damage.
+Round 2: boolicious wins the fight!
+You gain 17 Muscleboundness
+You gain 9 Enchantedness
+You gain 13 Roguishness
+
+[2972] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 41 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 26 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 26 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 45 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 28 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 28 damage.
+Round 2: boolicious wins the fight!
+You gain 20 Muscleboundness
+You gain 7 Magicalness
+You gain 13 Sarcasm
+
+[2973] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts LUNGING THRUST-SMACK!
+Round 1: boolicious attacks!
+Round 2: mother hellseal takes 139 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 22 damage? She never saw it coming! How droll."
+Round 2: mother hellseal takes 22 damage.
+You lose 64 hit points
+Round 2: boolicious uses the unbearable light!
+Adjusted combat item count: unbearable light
+Round 3: boolicious uses the Mer-kin pinkslip!
+Round 4: boolicious uses the Mer-kin killscroll!
+Round 5: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 20 damage? She never saw it coming! How droll."
+Round 5: mother hellseal takes 20 damage.
+Round 5: boolicious wins the fight!
+You acquire an item: burst hellseal brain
+You acquire an item: hellseal claw
+You gain 59 Beefiness
+You gain 23 Wizardliness
+You gain 33 Smarm
+
+[2974] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts LUNGING THRUST-SMACK!
+Adjusted combat item count: Mer-kin killscroll
+Round 1: boolicious uses the fizzy potion!
+Round 2: mother hellseal drops 3 attack power.
+Round 2: mother hellseal drops 2 defense.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 22 damage? She never saw it coming! How droll."
+Round 2: mother hellseal takes 22 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. She overhears that, and is too demoralized to attack this round.
+Round 2: boolicious uses the 4:20 bomb!
+Round 3: mother hellseal takes 434 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 17 damage? She never saw it coming! How droll."
+Round 3: mother hellseal takes 17 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: hellseal sinew
+You acquire an item: hellseal whisker
+You gain 52 Strengthliness
+You gain 29 Enchantedness
+You gain 36 Roguishness
+
+[2975] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts LUNGING THRUST-SMACK!
+Round 1: boolicious uses the ancient poisoned dart!
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 21 damage? She never saw it coming! How droll."
+Round 2: mother hellseal takes 21 damage.
+Round 2: mother hellseal takes 9 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. She overhears that, and is too demoralized to attack this round.
+Round 2: boolicious uses the boozebomb!
+Round 3: mother hellseal takes 446 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 23 damage? She never saw it coming! How droll."
+Round 3: mother hellseal takes 23 damage.
+Round 3: mother hellseal takes 4 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: shredded hellseal hide
+You gain 58 Strengthliness
+You gain 24 Magicalness
+You gain 35 Roguishness
+You gain a Moxie point!
+
+[2976] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts LUNGING THRUST-SMACK!
+Round 1: boolicious uses the ancient poisoned dart!
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 18 damage? She never saw it coming! How droll."
+Round 2: mother hellseal takes 18 damage.
+Round 2: mother hellseal takes 9 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. She overhears that, and is too demoralized to attack this round.
+Round 2: boolicious uses the gob of wet hair!
+Round 3: mother hellseal drops 2 attack power.
+Round 3: mother hellseal drops 2 defense.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 18 damage? She never saw it coming! How droll."
+Round 3: mother hellseal takes 18 damage.
+Round 3: mother hellseal takes 4 damage.
+Round 3: boolicious uses the paint bomb!
+Round 4: mother hellseal takes 36 damage.
+Round 4: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 26 damage? She never saw it coming! How droll."
+Round 4: mother hellseal takes 26 damage.
+Round 4: mother hellseal takes 2 damage.
+Round 4: mother hellseal takes 37 damage.
+Round 4: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. She overhears that, and is too demoralized to attack this round.
+Round 4: boolicious casts CLOBBER!
+Round 5: mother hellseal takes 58 damage.
+Round 5: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 16 damage? She never saw it coming! How droll."
+Round 5: mother hellseal takes 16 damage.
+Round 5: mother hellseal takes 1 damage.
+Round 5: mother hellseal takes 29 damage.
+Round 5: boolicious wins the fight!
+You acquire an item: shredded hellseal hide
+You acquire an item: hellseal claw
+You gain 54 Fortitude
+You gain 29 Magicalness
+You gain 32 Roguishness
+
+[2977] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts LUNGING THRUST-SMACK!
+Round 1: boolicious uses the half-empty carton of milk!
+Round 2: mother hellseal takes 73 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 23 damage? She never saw it coming! How droll."
+Round 2: mother hellseal takes 23 damage.
+Round 2: boolicious casts CLOBBER!
+Round 3: mother hellseal takes 53 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 27 damage? She never saw it coming! How droll."
+Round 3: mother hellseal takes 27 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: shredded hellseal hide
+You gain 53 Strengthliness
+You gain 27 Enchantedness
+You gain 36 Roguishness
+
+[2978] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts LUNGING THRUST-SMACK!
+Round 1: boolicious uses the chocolate frosted sugar bomb!
+Round 2: mother hellseal drops 20 attack power.
+Round 2: mother hellseal drops 20 defense.
+You acquire an effect: Sugar Rush (duration: 10 Adventures)
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 16 damage? She never saw it coming! How droll."
+Round 2: mother hellseal takes 16 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: shredded hellseal hide
+You acquire an item: hellseal whisker
+You gain 54 Strongness
+You gain a Muscle point!
+You gain 24 Wizardliness
+You gain 39 Sarcasm
+
+use 6 Marquis de Poivre soda
+You gain 207 Muscularity Points
+
+[2979] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 55 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 28 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 28 damage.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 46 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 26 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 26 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: hellseal whisker
+You acquire an item: hellseal claw
+You gain 13 Muscleboundness
+You gain 12 Wizardliness
+You gain 8 Roguishness
+
+[2980] The Broodling Grounds
+Encounter: hellseal pup
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts CLOBBER!
+Round 1: hellseal pup takes 51 damage.
+Round 1: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 22 damage? It never saw it coming! How droll."
+Round 1: hellseal pup takes 22 damage.
+Round 1: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 1: boolicious casts CLOBBER!
+Round 2: hellseal pup takes 47 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 19 damage? It never saw it coming! How droll."
+Round 2: hellseal pup takes 19 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: hellseal whisker
+You gain 15 Fortitude
+You gain 8 Wizardliness
+You gain 11 Smarm
+
+[2981] The Broodling Grounds
+Encounter: mother hellseal
+Round 0: boolicious loses initiative!
+Round 0: boolicious casts LUNGING THRUST-SMACK!
+You lose 110 hit points
+Round 1: boolicious casts LUNGING THRUST-SMACK!
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 30 damage? She never saw it coming! How droll."
+Round 2: mother hellseal takes 30 damage.
+You lose 112 hit points
+Round 2: unspecified macro action?
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 21 damage? She never saw it coming! How droll."
+Round 2: mother hellseal takes 21 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. She overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 23 damage? She never saw it coming! How droll."
+Round 3: mother hellseal takes 23 damage.
+You lose 111 hit points
+Round 3: boolicious attacks!
+Round 4: mother hellseal takes 106 damage.
+Round 4: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab her for 24 damage? She never saw it coming! How droll."
+Round 4: mother hellseal takes 24 damage.
+Round 4: boolicious wins the fight!
+You acquire an item: torn hellseal sinew
+You gain 76 Fortitude
+You gain 40 Enchantedness
+You gain 39 Cheek
+
+equip shirt star shirt
+
+equip pants Krakrox's Loincloth
