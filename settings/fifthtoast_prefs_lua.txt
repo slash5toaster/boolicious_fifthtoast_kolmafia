@@ -155,7 +155,7 @@ _treasuryEliteMeatCollected=false
 _treasuryHaremMeatCollected=false
 _trivialAvocationsGame=true
 _userMods
-_vitachocCapsulesUsed=3
+_vitachocCapsulesUsed=0
 _vmaskAdv=0
 _vmaskBanisherUsed=false
 _whiteRiceDrops=0
@@ -249,6 +249,7 @@ bartenderTurnsUsed=27
 basementMallPrices=1
 battleAction=custom combat script
 beeCounter=0
+beforePVPScript
 betweenBattleScript
 biodataEngineering=0
 biodataGalley=0
@@ -723,7 +724,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=6
@@ -747,7 +748,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Outskirts of The Knob
+lastAdventure=South of the Border
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -764,13 +765,13 @@ lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=8
+lastBreakfast=11
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=6
-lastCounterDay=8
+lastCounterDay=11
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -811,10 +812,10 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=2
-lastEncounter=Unstubbed
+lastEncounter=raging bull
 lastFilthClearance=2
 lastFratboyCall=-1
-lastFriarCeremonyAscension=2
+lastFriarCeremonyAscension=3
 lastGalleryUnlock=2
 lastGuildStoreOpen=3
 lastGuyMadeOfBeesReset=3
@@ -922,9 +923,9 @@ olfactedMonster=wabbit
 oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
-pastamancerGhostExperience=35
+pastamancerGhostExperience=45
 pastamancerGhostName=Titterheap
-pastamancerGhostSummons=1
+pastamancerGhostSummons=10
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
@@ -962,7 +963,7 @@ questL02Larva=finished
 questL03Rat=finished
 questL04Bat=finished
 questL05Goblin=finished
-questL06Friar=started
+questL06Friar=finished
 questL07Cyrptic=unstarted
 questL08Trapper=unstarted
 questL09Lol=unstarted
@@ -982,8 +983,8 @@ questM05Toot=unstarted
 questM06Gourd=finished
 questM07Hammer=finished
 questM08Baker=started
-questM09Rocks=unstarted
-questM10Azazel=unstarted
+questM09Rocks=finished
+questM10Azazel=started
 questM11Postal=unstarted
 questM12Pirate=unstarted
 questM13Escape=unstarted
@@ -1001,7 +1002,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=613\:Semirare window begin\:lparen.gif\:653\:Semirare window end loc\=*\:rparen.gif
+relayCounters=571\:The Shore loc\=* shore.php\:dinghy.gif\:613\:Semirare window begin\:lparen.gif\:653\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
