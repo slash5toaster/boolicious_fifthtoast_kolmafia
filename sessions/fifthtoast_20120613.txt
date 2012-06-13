@@ -1,0 +1,310 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+June 13, 2012 - Petember 5
+
+Ronald: full moon
+Grimace: third quarter
+Mini-moon: in back, near Grimace
+
+Lab&oacute;r Day: 9 days
+Halloween: 19 days
+Feast of Boris: 26 days
+Yuletide: 31 days
+Festival of Jarlsberg: 36 days
+Valentine's Day: 47 days
+St. Sneaky Pete's Day: 54 days
+Oyster Egg Day: 61 days
+El Dia De Los Muertos Borrachos: 69 days
+Generic Summer Holiday: 78 days
+Dependence Day: 87 days
+Arrrbor Day: 95 days
+
+
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: fifthtoast
+Class: Pastamancer
+
+Lv: 6
+HP: 39 / 39
+MP: 117 / 117
+
+Mus: 33 (25), tnp = 24
+Mys: 76 (35), tnp = 59
+Mox: 25, tnp = 49
+
+Advs: 166
+Meat: 3,999
+Drunk: 0
+
+
+ > equipment
+
+Hat: goat beard
+Weapon: Knob Goblin deluxe scimitar
+Off-hand: Glass Balls of the Goblin King
+Shirt: (none)
+Pants: filthy corduroys
+
+Acc. 1: arrrgyle socks
+Acc. 2: Jarlsberg's earring
+Acc. 3: tiny plastic Big Candy
+
+Pet: Cocoabo (19 lbs)
+Item: (none)
+
+ > skills
+
+Pastamancer
+ - Cannelloni Cannon
+ - Cannelloni Cocoon
+ - Entangling Noodles
+ - Lasagna Bandages
+ - Manicotti Meditation
+ - Pastamastery
+ - Ravioli Shurikens
+ - Spaghetti Spear
+ - Springy Fusilli
+
+Disco Bandit
+ - Ambidextrous Funkslinging
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Pasta Oneness (3)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Who?
+You acquire an item: Trivial Avocations Card: Who?
+You acquire an item: Trivial Avocations Card: When?
+
+trading 1 worthless item for 1 ten-leaf clover
+You acquire an item: ten-leaf clover
+
+cast 3 Pastamastery
+You acquire dry noodles (3)
+
+[539] Pandamonium Slums
+Encounter: W imp
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: w imp takes 3 damage.
+You lose 16 hit points
+Round 2: fifthtoast attacks!
+You lose 16 hit points
+Round 3: fifthtoast summons Titterheap the Undead Elbow Macaroni!
+Round 4: You focus your thoughts and call out to Titterheap.  He claws his way up from beneath the ground at your feet.
+Round 4: Titterheap bites your opponent for 14 damage.
+Round 4: w imp takes 14 damage.
+You lose 17 hit points
+
+cast 1 Lasagna Bandages
+You gain 10 hit points
+
+cast 1 Lasagna Bandages
+You gain 27 hit points
+
+plains.php?action=brushfire
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+[540] South of the Border
+Encounter: angry piñata
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: angry pi&ntilde;ata takes 3 damage.
+You lose 10 hit points
+Round 2: fifthtoast attacks!
+Round 3: angry pi&ntilde;ata takes 22 damage.
+Round 3: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 22 damage.
+Round 3: angry pi&ntilde;ata takes 22 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: pile of candy
+You gain 3 Muscleboundness
+You gain 4 Wizardliness
+
+use 1 pile of candy
+You acquire an item: marzipan skull
+You acquire an item: Angry Farmer candy
+You acquire an item: Yummy Tummy bean
+
+use 1 Knob Goblin lunchbox
+You acquire an item: Knob pasty
+You acquire thermos full of Knob coffee (2)
+
+drink 1 thermos full of Knob coffee
+You gain 6 Adventures
+You gain 5 Strongness
+You gain 6 Mysteriousness
+You gain 6 Chutzpah
+You lose 1 hit point
+You gain 1 Drunkenness
+
+[541] Pandamonium Slums
+Encounter: G imp
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: g imp takes 4 damage.
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: g imp drops 6 attack power.
+Round 2: g imp drops 6 defense.
+You lose 26 hit points
+
+cast 1 Lasagna Bandages
+You gain 11 hit points
+
+cast 1 Lasagna Bandages
+You gain 16 hit points
+
+[542] South of the Border
+Encounter: handsome mariachi
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: handsome mariachi takes 3 damage.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 75 Meat.
+Round 2: fifthtoast attacks!
+Round 3: handsome mariachi takes 14 damage.
+Round 3: fifthtoast wins the fight!
+You gain 6 Meat
+You acquire an item: chorizo taco
+You gain 1 Fortitude
+You gain 3 Magicalness
+You gain 1 Smarm
+choice.php?forceoption=0
+
+[543] South of the Border
+Encounter: Finger-Lickin'... Death.
+Took choice 4/3: skip adventure
+choice.php?pwd&whichchoice=4&option=3
+
+[543] South of the Border
+Encounter: irate mariachi
+Round 0: fifthtoast loses initiative!
+You lose 9 hit points
+Round 1: fifthtoast attacks!
+Round 2: fifthtoast attacks!
+Round 3: irate mariachi takes 11 damage.
+Round 3: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 20 damage.
+Round 3: irate mariachi takes 20 damage.
+Round 3: fifthtoast wins the fight!
+You gain 5 Meat
+You acquire an item: half-sized guitar
+You gain 2 Fortitude
+You gain 3 Mysteriousness
+You gain 1 Sarcasm
+
+[544] South of the Border
+Encounter: A Chewy Encounter
+You acquire an item: jaba&ntilde;ero-flavored chewing gum
+You lose 30 Meat
+
+[545] Moxie Vacation
+Encounter: The Dinner Party
+You gain 15 Smarm
+
+[548] Mysticality Vacation
+Encounter: A Flaming Encounter
+You gain 19 Enchantedness
+
+[551] Mysticality Vacation
+Encounter: A Fateful Trip 
+You gain 19 Wizardliness
+
+[554] Muscle Vacation
+Encounter: In the Desert
+You gain 11 Beefiness
+
+[557] Muscle Vacation
+Encounter: In the Desert
+You gain 14 Fortitude
+You gain a Muscle point!
+You acquire an item: dinghy plans
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+trading 1 worthless item for 1 dingy planks
+You acquire an item: dingy planks
+
+use 1 dinghy plans
+You acquire an item: dingy dinghy
+
+[560] Pirate Cove
+Encounter: shady pirate
+Round 0: fifthtoast loses initiative!
+You lose 42 hit points
+
+cast 1 Lasagna Bandages
+You gain 23 hit points
+
+cast 1 Lasagna Bandages
+You gain 24 hit points
+
+[561] Muscle Vacation
+Encounter: Bang!
+You acquire an item: stick of dynamite
+
+use 1 pickle-flavored chewing gum
+You acquire an effect: Mystic Pickleness (duration: 5 Adventures)
+
+use 1 jaba&ntilde;ero-flavored chewing gum
+You acquire an effect: Spicy Mouth (duration: 5 Adventures)
+
+cast 1 Manicotti Meditation
+You acquire an effect: Pasta Oneness (duration: 5 Adventures)
+
+pull: 1 cool whip
+
+pull: 1 Boris's key lime pie, 1 digital key lime pie, 1 Jarlsberg's key lime pie, 1 lemon meringue pie, 1 lihc eye pie, 1 Sneaky Pete's key lime pie, 1 star key lime pie
+
+pull: 2 Trivial Avocations Card: What?, 2 Trivial Avocations Card: When?, 2 Trivial Avocations Card: Where?, 2 Trivial Avocations Card: Who?
+
+eat 1 boring spaghetti
+You gain 8 Adventures
+You gain 6 Fortitude
+You gain 7 Enchantedness
+You gain a Mysticality point!
+You gain 7 Cheek
+You gain 3 Fullness
+You gain 20 Mana Points
+
+plains.php?action=brushfire
+cobbsknob.php?action=tolabs
+cobbsknob.php?action=tomenagerie
+
+[564] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: fifthtoast loses initiative!
+You lose 27 hit points
