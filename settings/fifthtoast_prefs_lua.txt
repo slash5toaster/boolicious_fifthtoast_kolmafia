@@ -15,7 +15,7 @@ FamiliarTrainingFrame=260,240
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=263,50,-1
+KoLDesktop=19,104,-1
 LoginFrame=405,277,0
 MailboxFrame=289,310,1
 MaximizerFrame=273,243
@@ -244,7 +244,7 @@ ballpitBonus=100
 banishingShoutMonsters
 bankedKarma=200
 barrelGoal=1
-barrelLayout=?????????
+barrelLayout=??B??????
 bartenderTurnsUsed=27
 basementMallPrices=1
 battleAction=custom combat script
@@ -663,7 +663,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=3
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -748,7 +748,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Cobb's Knob Laboratory
+lastAdventure=Haunted Kitchen
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -763,15 +763,15 @@ lastBangPotion825
 lastBangPotion826
 lastBangPotion827
 lastBangPotionReset=3
-lastBarrelSmashed=0
+lastBarrelSmashed=12
 lastBattlefieldReset=3
-lastBreakfast=12
+lastBreakfast=13
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=6
-lastCounterDay=12
+lastCounterDay=13
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -812,7 +812,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=2
-lastEncounter=Knob Goblin Very Mad Scientist
+lastEncounter=Nice Rack\!
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -923,9 +923,9 @@ olfactedMonster=wabbit
 oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
-pastamancerGhostExperience=45
+pastamancerGhostExperience=46
 pastamancerGhostName=Titterheap
-pastamancerGhostSummons=1
+pastamancerGhostSummons=2
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
