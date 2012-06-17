@@ -244,7 +244,7 @@ ballpitBonus=100
 banishingShoutMonsters
 bankedKarma=200
 barrelGoal=1
-barrelLayout=??B??????
+barrelLayout=?????????
 bartenderTurnsUsed=27
 basementMallPrices=1
 battleAction=custom combat script
@@ -748,7 +748,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Haunted Kitchen
+lastAdventure=Pandamonium Slums
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -763,15 +763,15 @@ lastBangPotion825
 lastBangPotion826
 lastBangPotion827
 lastBangPotionReset=3
-lastBarrelSmashed=12
+lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=13
+lastBreakfast=0
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=6
-lastCounterDay=13
+lastCounterDay=0
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -812,7 +812,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=2
-lastEncounter=Nice Rack\!
+lastEncounter=P imp
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -925,7 +925,7 @@ outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=46
 pastamancerGhostName=Titterheap
-pastamancerGhostSummons=2
+pastamancerGhostSummons=1
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
@@ -1002,7 +1002,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=598\:The Shore loc\=* shore.php\:dinghy.gif\:613\:Semirare window begin\:lparen.gif\:653\:Semirare window end loc\=*\:rparen.gif
+relayCounters=613\:Semirare window begin\:lparen.gif\:653\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
