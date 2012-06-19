@@ -15,7 +15,7 @@ FamiliarTrainingFrame=260,240
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=19,104,-1
+KoLDesktop=25,104,-1
 LoginFrame=405,277,0
 MailboxFrame=289,310,1
 MaximizerFrame=273,243
@@ -748,7 +748,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Pandamonium Slums
+lastAdventure=Pirate Cove
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -765,13 +765,13 @@ lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=0
+lastBreakfast=2
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=6
-lastCounterDay=0
+lastCounterDay=2
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -812,7 +812,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=2
-lastEncounter=P imp
+lastEncounter=shifty pirate
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -925,7 +925,7 @@ outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=46
 pastamancerGhostName=Titterheap
-pastamancerGhostSummons=1
+pastamancerGhostSummons=0
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
@@ -1002,7 +1002,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=613\:Semirare window begin\:lparen.gif\:653\:Semirare window end loc\=*\:rparen.gif
+relayCounters=653\:Semirare window end loc\=*\:rparen.gif\:654\:The Shore loc\=* shore.php\:dinghy.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
