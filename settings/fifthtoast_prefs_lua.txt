@@ -153,7 +153,7 @@ _tokenDrops=0
 _transponderDrops=0
 _treasuryEliteMeatCollected=false
 _treasuryHaremMeatCollected=false
-_trivialAvocationsGame=true
+_trivialAvocationsGame=false
 _userMods
 _vitachocCapsulesUsed=0
 _vmaskAdv=0
@@ -771,7 +771,7 @@ lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=6
-lastCounterDay=2
+lastCounterDay=9
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -915,7 +915,7 @@ mpAutoRecovery=-0.05
 mpAutoRecoveryItems=sleep on your clan sofa;galaktik's fizzy invigorating tonic;visit the nuns;oscus's neverending soda;high-pressure seltzer bottle;monstar energy beverage;carbonated soy milk;carbonated water lily;blue pixel potion;phonics down;knob goblin superseltzer;mountain stream soda;magical mystery juice;knob goblin seltzer;cherry cloaca cola;soda water
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
-noodleSummons=3
+noodleSummons=0
 nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=plinth
