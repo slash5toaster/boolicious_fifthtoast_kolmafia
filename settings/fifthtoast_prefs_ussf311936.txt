@@ -135,7 +135,7 @@ _treasuryEliteMeatCollected=false
 _treasuryHaremMeatCollected=false
 _trivialAvocationsGame=true
 _userMods
-_vitachocCapsulesUsed=3
+_vitachocCapsulesUsed=0
 _vmaskAdv=0
 _vmaskBanisherUsed=false
 _whiteRiceDrops=0
@@ -214,11 +214,12 @@ ballpitBonus=1
 banishingShoutMonsters
 bankedKarma=0
 barrelGoal=1
-barrelLayout=RB?SR???S
+barrelLayout=?????????
 bartenderTurnsUsed=5
 basementMallPrices=1
 battleAction=attack with weapon
 beeCounter=0
+beforePVPScript
 betweenBattleScript
 biodataEngineering=0
 biodataGalley=0
@@ -241,7 +242,7 @@ bootsCharged=false
 borisPoints=0
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=true
+breakfastCompleted=false
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
@@ -716,7 +717,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Cobb's Knob Laboratory
+lastAdventure=Limerick Dungeon
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -729,15 +730,15 @@ lastBangPotion825
 lastBangPotion826
 lastBangPotion827
 lastBangPotionReset=3
-lastBarrelSmashed=29
+lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=5
+lastBreakfast=10
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=6
-lastCounterDay=5
+lastCounterDay=10
 lastDispensaryOpen=3
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -778,7 +779,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=Knob Goblin Mad Scientist
+lastEncounter=The Crotchety Wizard
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -873,6 +874,7 @@ mineLayout2
 mineLayout3
 mineLayout4
 mmgAutoConfirmBets=false
+mmgDisabled=false
 mmgSearchMaximum=10000
 mmgSearchMinimum=5000
 moleTunnelLevel=0
@@ -880,7 +882,7 @@ mpAutoRecovery=0.0
 mpAutoRecoveryItems=sleep on your clan sofa;visit the nuns;oscus's neverending soda;monstar energy beverage;carbonated soy milk;carbonated water lily;blue pixel potion;cotton candy bale;bottle of monsieur bubble;ancient magi-wipes;unrefined mountain stream syrup;phonics down;elven magi-pack;generic mana potion;tonic water;palm-frond fan;honey-dipped locust;marquis de poivre soda;green pixel potion;blue polka-dot oyster egg;blue striped oyster egg;knob goblin superseltzer;blatantly canadian;tiny house;cloaca-cola;cotton candy pinch;sugar shard;mountain stream soda;magical mystery juice;black cherry soda;knob goblin seltzer;cherry cloaca cola;soda water
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
-noodleSummons=3
+noodleSummons=1
 nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=plinth
@@ -915,7 +917,7 @@ questF02Hyboria=unstarted
 questF03Future=unstarted
 questF04Elves=unstarted
 questF05Clancy=unstarted
-questG01Meatcar=started
+questG01Meatcar=finished
 questG02Whitecastle=unstarted
 questG03Ego=unstarted
 questG04Nemesis=unstarted
@@ -928,7 +930,7 @@ questL02Larva=finished
 questL03Rat=finished
 questL04Bat=finished
 questL05Goblin=finished
-questL06Friar=started
+questL06Friar=finished
 questL07Cyrptic=unstarted
 questL08Trapper=unstarted
 questL09Lol=unstarted
@@ -948,8 +950,8 @@ questM05Toot=unstarted
 questM06Gourd=finished
 questM07Hammer=finished
 questM08Baker=started
-questM09Rocks=unstarted
-questM10Azazel=unstarted
+questM09Rocks=finished
+questM10Azazel=started
 questM11Postal=unstarted
 questM12Pirate=unstarted
 questM13Escape=unstarted
