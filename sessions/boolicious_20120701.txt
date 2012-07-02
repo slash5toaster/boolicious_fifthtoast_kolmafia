@@ -698,3 +698,504 @@ You spent 500 Meat
 
 use 1 blood of the Wereseal
 You acquire an effect: Temporary Lycanthropy (duration: 10 Adventures)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+July 1, 2012 - Porktober 7
+
+Ronald: third quarter
+Grimace: waning crescent
+Mini-moon: far left
+
+Halloween: tomorrow
+Feast of Boris: 8 days
+Yuletide: 13 days
+Festival of Jarlsberg: 18 days
+Valentine's Day: 29 days
+St. Sneaky Pete's Day: 36 days
+Oyster Egg Day: 43 days
+El Dia De Los Muertos Borrachos: 51 days
+Generic Summer Holiday: 60 days
+Dependence Day: 69 days
+Arrrbor Day: 77 days
+Lab&oacute;r Day: 87 days
+
+
+Moxie bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 15
+HP: 854 / 1,297
+MP: 108 / 499
+
+Mus: 828 (202), tnp = 74
+Mys: 479 (153), tnp = 43
+Mox: 508 (161), tnp = 26
+
+Advs: 190
+Meat: 462,894
+
+Full: 0 / 15
+Drunk: 0 / 19
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Frosty's old silk hat
+Weapon: Frosty's nailbat
+Off-hand: (none)
+Shirt: bat-ass leather jacket
+Pants: demonskin trousers
+
+Acc. 1: blackberry slippers
+Acc. 2: ring of increase damage
+Acc. 3: ring of increase damage
+
+Pet: Fancypants Scarecrow (15 lbs)
+Item: trousers of the white knight
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Double-Fisted Skull Smashing
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Musk of the Moose
+ - Northern Exposure
+ - Pulverize
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Snarl of the Timberwolf
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Sugar Rush (4)
+Filled with Magic (6)
+Dilated Pupils (8)
+Having a Ball! (8)
+Temporary Lycanthropy (10)
+Trivia Master (14)
+Silent Running (20)
+Greedy Resolve (82)
+Irresistible Resolve (102)
+Scarysauce (348)
+Tenacity of the Snapper (348)
+Elemental Saucesphere (348)
+Jabañero Saucesphere (348)
+Jalapeño Saucesphere (348)
+♫ Stevedave's Shanty of Superiority (348)
+♫ The Sonata of Sneakiness (543)
+Ghostly Shell (543)
+Jingle Jangle Jingle (543)
+Astral Shell (543)
+Reptilian Fortitude (543)
+♫ Cringle's Curative Carol (543)
+Empathy (543)
+
+
+ > modifiers
+
+ML: +0
+Enc: -10.00%
+Init: +40.00%
+
+Exp: +0.00
+Meat: +165.24%
+Item: +25.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+Visiting Crimbo Tree in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Looking Glass in clan VIP lounge
+
+use 1 Manual of Labor
+
+use 1 Chester's bag of candy
+
+use 1 Trivial Avocations board game
+
+use 1 creepy voodoo doll
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+cast 8 Summon Resolutions
+You acquire an item: resolution: be kinder
+You acquire an item: resolution: be more adventurous
+
+postwarisland.php?place=nunnery
+postwarisland.php?action=nuns&pwd&place=nunnery
+You gain 443 hit points
+
+use 1 Oscus's neverending soda
+You gain 255 Muscularity Points
+
+Visiting Relaxing Hot Tub in clan VIP lounge
+You gain 1 hit point
+
+Visiting April Shower in clan VIP lounge
+
+Visiting Swimming Pool in clan VIP lounge
+
+swimming pool submarine
+You acquire an effect: Silent Running (duration: 50 Adventures)
+
+Visiting Looking Glass in clan VIP lounge
+
+Visiting Crimbo Tree in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Pool Table in clan VIP lounge
+
+pool aggressive
+You acquire an effect: Billiards Belligerence (duration: 10 Adventures)
+Jumping into the Awesome Ball Pit in the clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+Visiting Potted Meat Tree in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Girls of Loathing Calendar in clan rumpus room
+
+place.php?whichplace=flamefacecastle
+
+[3034] Lord Flameface's Castle Entryway
+Encounter: Raggor Emberdestroyer
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 19 hit points
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 2: servant of lord flameface takes 1 damage.
+Round 2: boolicious attacks!
+Round 3: servant of lord flameface takes 61 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 3: servant of lord flameface takes 1 damage.
+Round 3: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 3: boolicious attacks!
+Round 4: servant of lord flameface takes 61 damage.
+Round 4: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 4: servant of lord flameface takes 1 damage.
+Round 4: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 4: boolicious attacks!
+Round 5: servant of lord flameface takes 61 damage.
+Round 5: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 5: servant of lord flameface takes 1 damage.
+Round 5: boolicious wins the fight!
+You acquire an item: molten brick
+You gain 11 Beefiness
+You gain 9 Enchantedness
+You gain 7 Chutzpah
+
+Visiting The Plunger
+
+[3035] Lord Flameface's Castle Entryway
+Encounter: Tor the Singe Lord
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: servant of lord flameface takes 61 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 2: servant of lord flameface takes 1 damage.
+Round 2: boolicious attacks!
+Round 3: servant of lord flameface takes 61 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 3: servant of lord flameface takes 1 damage.
+Round 3: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 3: boolicious attacks!
+You lose 4 hit points
+Round 4: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 4: servant of lord flameface takes 1 damage.
+Round 4: boolicious attacks!
+Round 5: servant of lord flameface takes 61 damage.
+Round 5: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 5: servant of lord flameface takes 1 damage.
+Round 5: boolicious wins the fight!
+You gain 11 Fortitude
+You gain 7 Enchantedness
+You gain 10 Roguishness
+
+[3036] Lord Flameface's Castle Entryway
+Encounter: Kora of Boilheat Stand
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: servant of lord flameface takes 61 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 2: servant of lord flameface takes 1 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: servant of lord flameface takes 61 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 3: servant of lord flameface takes 1 damage.
+Round 3: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 3: boolicious attacks!
+Round 4: servant of lord flameface takes 61 damage.
+Round 4: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 4: servant of lord flameface takes 1 damage.
+Round 4: boolicious wins the fight!
+You gain 11 Muscleboundness
+You gain 10 Enchantedness
+You gain 7 Chutzpah
+
+place.php?whichplace=flamefacecastle
+
+[3037] Lord Flameface's Castle Belfry
+Encounter: blazing bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 1 damage? It never saw it coming! How droll."
+Round 2: blazing bat takes 1 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 2: boolicious uses the star throwing star!
+Round 3: blazing bat takes 1 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 1 damage? It never saw it coming! How droll."
+Round 3: blazing bat takes 1 damage.
+Round 3: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. It overhears that, and is too demoralized to attack this round.
+Round 3: boolicious uses the unbearable light!
+You acquire an effect: Everything Looks Yellow (duration: 149 Adventures)
+Round 4: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab it for 1 damage? It never saw it coming! How droll."
+Round 4: blazing bat takes 1 damage.
+Round 4: boolicious wins the fight!
+You acquire an item: FDKOL commendation (3)
+You acquire an item: fiery wing
+You gain 24 Fortitude
+You gain 12 Magicalness
+You gain 18 Sarcasm
+You gain a Moxie point!
+
+place.php?whichplace=flamefacecastle
+
+[3038] Lord Flameface's Castle Entryway
+Encounter: Hjal Pyreroaster
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: servant of lord flameface takes 61 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 2: servant of lord flameface takes 1 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: servant of lord flameface takes 61 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 3: servant of lord flameface takes 1 damage.
+Round 3: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 3: boolicious attacks!
+Round 4: servant of lord flameface takes 61 damage.
+Round 4: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 4: servant of lord flameface takes 1 damage.
+Round 4: boolicious wins the fight!
+You acquire an item: molten brick
+You gain 19 Muscleboundness
+You gain a Muscle point!
+You gain 2 Wizardliness
+You gain 7 Chutzpah
+
+Visiting The Plunger
+
+[3039] Lord Flameface's Castle Entryway
+Encounter: Tanratar the Lord of Heatpyro Inn
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: servant of lord flameface takes 61 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 2: servant of lord flameface takes 1 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: servant of lord flameface takes 61 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 3: servant of lord flameface takes 1 damage.
+Round 3: boolicious attacks!
+Round 4: servant of lord flameface takes 61 damage.
+Round 4: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 4: servant of lord flameface takes 1 damage.
+Round 4: boolicious wins the fight!
+You gain 11 Muscleboundness
+You gain 5 Mysteriousness
+You gain a Mysticality point!
+You gain 13 Cheek
+
+[3040] Lord Flameface's Castle Entryway
+Encounter: Martytor Sizzleavenger
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: servant of lord flameface takes 61 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 2: servant of lord flameface takes 1 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: servant of lord flameface takes 61 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 3: servant of lord flameface takes 1 damage.
+Round 3: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 3: boolicious attacks!
+Round 4: servant of lord flameface takes 61 damage.
+Round 4: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 4: servant of lord flameface takes 1 damage.
+Round 4: boolicious wins the fight!
+You gain 10 Strongness
+You gain 9 Magicalness
+You gain 8 Smarm
+
+[3041] Lord Flameface's Castle Entryway
+Encounter: Rag of Pyropyro Cliffs
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: servant of lord flameface takes 61 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 2: servant of lord flameface takes 1 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: servant of lord flameface takes 61 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 3: servant of lord flameface takes 1 damage.
+Round 3: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 3: boolicious attacks!
+Round 4: servant of lord flameface takes 61 damage.
+Round 4: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 4: servant of lord flameface takes 1 damage.
+Round 4: boolicious wins the fight!
+You gain 11 Muscleboundness
+You gain 5 Mysteriousness
+You gain 13 Smarm
+
+[3042] Lord Flameface's Castle Entryway
+Encounter: Mogthor Firewarlord
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: servant of lord flameface takes 61 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 2: servant of lord flameface takes 1 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: servant of lord flameface takes 61 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 3: servant of lord flameface takes 1 damage.
+Round 3: boolicious attacks!
+Round 4: servant of lord flameface takes 61 damage.
+Round 4: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 4: servant of lord flameface takes 1 damage.
+Round 4: boolicious wins the fight!
+You gain 12 Strongness
+You gain 9 Magicalness
+You gain 8 Chutzpah
+
+[3043] Lord Flameface's Castle Entryway
+Encounter: Dogtardax of Sizzlingsizzling Mine
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: servant of lord flameface takes 61 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 2: servant of lord flameface takes 1 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: servant of lord flameface takes 61 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 3: servant of lord flameface takes 1 damage.
+Round 3: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 3: boolicious attacks!
+Round 4: servant of lord flameface takes 61 damage.
+Round 4: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 4: servant of lord flameface takes 1 damage.
+Round 4: boolicious wins the fight!
+You gain 9 Muscleboundness
+You gain 14 Wizardliness
+You gain 6 Smarm
+
+[3044] Lord Flameface's Castle Entryway
+Encounter: Thagtong the Magma Incinerator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: servant of lord flameface takes 61 damage.
+Round 2: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 2: servant of lord flameface takes 1 damage.
+Round 2: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 2: boolicious attacks!
+Round 3: servant of lord flameface takes 61 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 3: servant of lord flameface takes 1 damage.
+Round 3: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 3: boolicious attacks!
+Round 4: servant of lord flameface takes 61 damage.
+Round 4: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 4: servant of lord flameface takes 1 damage.
+Round 4: boolicious wins the fight!
+You gain 13 Strengthliness
+You gain 6 Magicalness
+You gain 10 Smarm
+
+[3045] Lord Flameface's Castle Entryway
+Encounter: Rag Ashroaster
+Round 0: boolicious wins initiative!
+
+[3045] Lord Flameface's Castle Entryway
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: servant of lord flameface takes 61 damage.
+Round 3: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 3: servant of lord flameface takes 1 damage.
+Round 3: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 3: boolicious attacks!
+Round 4: servant of lord flameface takes 61 damage.
+Round 4: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 4: servant of lord flameface takes 1 damage.
+Round 4: "That ruffian there seem blissfully unaware that they are the pawns in this conflict, first to be sacrificed!" Heckel &amp; Jeckyl says. He overhears that, and is too demoralized to attack this round.
+Round 4: boolicious attacks!
+Round 5: servant of lord flameface takes 61 damage.
+Round 5: "I daresay this uncultured blackguard has never learned proper strategy from the chess board!" Heckel &amp; Jeckyl says. "See how easy it is for me to stab him for 1 damage? He never saw it coming! How droll."
+Round 5: servant of lord flameface takes 1 damage.
+Round 5: boolicious wins the fight!
+You acquire an item: molten brick
+You gain 13 Strengthliness
+You gain 9 Magicalness
+You gain 6 Cheek
+
+Visiting The Plunger
