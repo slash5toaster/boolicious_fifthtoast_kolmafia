@@ -765,13 +765,13 @@ lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=4
+lastBreakfast=5
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=6
-lastCounterDay=4
+lastCounterDay=5
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
