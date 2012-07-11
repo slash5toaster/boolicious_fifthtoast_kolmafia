@@ -98,6 +98,7 @@ _ironicMoustache=false
 _jackassPlumberGame=false
 _jackassePlumberGame
 _jingleBellUsed=false
+_jitbCharge=0
 _jukebox=false
 _klawSummons=0
 _kloopDrops=0
@@ -631,6 +632,7 @@ choiceAdventure581=0
 choiceAdventure582=0
 choiceAdventure583=1
 choiceAdventure584=0
+choiceAdventure595=0
 choiceAdventure6=1
 choiceAdventure7=1
 choiceAdventure71=1
@@ -748,7 +750,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Pandamonium Slums
+lastAdventure=South of the Border
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -765,13 +767,13 @@ lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=6
+lastBreakfast=8
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=6
-lastCounterDay=6
+lastCounterDay=8
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -812,7 +814,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=2
-lastEncounter=W imp
+lastEncounter=mariachi calavera
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -926,7 +928,7 @@ outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=47
 pastamancerGhostName=Bufferhams
-pastamancerGhostSummons=0
+pastamancerGhostSummons=1
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
