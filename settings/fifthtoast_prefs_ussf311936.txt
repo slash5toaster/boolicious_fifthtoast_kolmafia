@@ -231,7 +231,7 @@ betweenBattleScript
 biodataEngineering=0
 biodataGalley=0
 biodataMedbay=3
-biodataMorgue=0
+biodataMorgue=2
 biodataNavigation=0
 biodataScienceLab=0
 biodataSonar=3
@@ -249,7 +249,7 @@ bootsCharged=false
 borisPoints=0
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=false
+breakfastCompleted=true
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
@@ -654,9 +654,9 @@ currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=50
 cyrptCrannyEvilness=50
-cyrptNicheEvilness=50
-cyrptNookEvilness=50
-cyrptTotalEvilness=200
+cyrptNicheEvilness=38
+cyrptNookEvilness=43
+cyrptTotalEvilness=181
 dailyDungeonDone=false
 dbNemesisSkill1=0
 dbNemesisSkill2=0
@@ -725,7 +725,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Defiled Nook
+lastAdventure=Defiled Niche
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819
@@ -740,13 +740,13 @@ lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=13
+lastBreakfast=15
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=7
-lastCounterDay=13
+lastCounterDay=15
 lastDispensaryOpen=3
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -787,7 +787,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=0
-lastEncounter=toothy sklelton
+lastEncounter=senile lihc
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -890,7 +890,7 @@ mpAutoRecovery=0.0
 mpAutoRecoveryItems=sleep on your clan sofa;visit the nuns;oscus's neverending soda;monstar energy beverage;carbonated soy milk;carbonated water lily;blue pixel potion;cotton candy bale;bottle of monsieur bubble;ancient magi-wipes;unrefined mountain stream syrup;phonics down;elven magi-pack;generic mana potion;tonic water;palm-frond fan;honey-dipped locust;marquis de poivre soda;green pixel potion;blue polka-dot oyster egg;blue striped oyster egg;knob goblin superseltzer;blatantly canadian;tiny house;cloaca-cola;cotton candy pinch;sugar shard;mountain stream soda;magical mystery juice;black cherry soda;knob goblin seltzer;cherry cloaca cola;soda water
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
-noodleSummons=1
+noodleSummons=3
 nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=plinth
@@ -900,7 +900,7 @@ outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=2
 pastamancerGhostName=Bufferhams
-pastamancerGhostSummons=1
+pastamancerGhostSummons=0
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
