@@ -25,7 +25,7 @@ OptionsFrame=354,275,5
 ProfileFrame=425,323,-1
 RecentEventsFrame=474,284
 RequestFrame=338,248,-1
-RequestSynchFrame=0,14,-1
+RequestSynchFrame=-2,-3,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=293,225,3
@@ -159,7 +159,7 @@ _toastSummons=0
 _tokenDrops=0
 _transponderDrops=0
 _treasuryEliteMeatCollected=false
-_treasuryHaremMeatCollected=false
+_treasuryHaremMeatCollected=true
 _trivialAvocationsGame=true
 _userMods
 _vitachocCapsulesUsed=0
@@ -261,7 +261,7 @@ betweenBattleScript
 biodataEngineering=0
 biodataGalley=0
 biodataMedbay=3
-biodataMorgue=1
+biodataMorgue=6
 biodataNavigation=0
 biodataScienceLab=0
 biodataSonar=3
@@ -670,7 +670,7 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=0
+currentBountyItem=2472
 currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
@@ -685,8 +685,8 @@ customCombatScript=default
 cyrptAlcoveEvilness=50
 cyrptCrannyEvilness=50
 cyrptNicheEvilness=50
-cyrptNookEvilness=49
-cyrptTotalEvilness=199
+cyrptNookEvilness=33
+cyrptTotalEvilness=183
 dailyDungeonDone=false
 dbNemesisSkill1=0
 dbNemesisSkill2=0
@@ -756,7 +756,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Defiled Nook
+lastAdventure=Hey Deze Arena
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -773,13 +773,13 @@ lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=14
+lastBreakfast=0
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=6
-lastCounterDay=14
+lastCouncilVisit=7
+lastCounterDay=0
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -820,7 +820,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=2
-lastEncounter=bugaboo
+lastEncounter=serialbus
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -934,7 +934,7 @@ outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=49
 pastamancerGhostName=Bufferhams
-pastamancerGhostSummons=2
+pastamancerGhostSummons=0
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
