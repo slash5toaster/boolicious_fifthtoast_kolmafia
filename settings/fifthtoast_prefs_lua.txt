@@ -1,5 +1,5 @@
 =4
-AdventureFrame=364,110,4
+AdventureFrame=269,306,1
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=424,348
@@ -15,7 +15,7 @@ FamiliarTrainingFrame=260,240
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=25,104,-1
+KoLDesktop=461,121,-1
 LoginFrame=405,277,0
 MailboxFrame=289,310,1
 MaximizerFrame=273,243
@@ -43,7 +43,7 @@ _bagOfCandy=false
 _bagOfCandyUsed=false
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=false
+_ballpit=true
 _banderRunaways=0
 _beerLensDrops=0
 _benettonsCasts=0
@@ -63,7 +63,7 @@ _chocolateCigarsUsed=0
 _chocolatesUsed=0
 _coalPaperweightUsed=false
 _companionshipCasts=0
-_creepyVoodooDollUsed=false
+_creepyVoodooDollUsed=true
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
@@ -263,7 +263,7 @@ biodataGalley=0
 biodataMedbay=3
 biodataMorgue=6
 biodataNavigation=0
-biodataScienceLab=3
+biodataScienceLab=6
 biodataSonar=3
 biodataSpecialOps=0
 biodataWasteProcessing=3
@@ -342,11 +342,11 @@ choiceAdventure149=2
 choiceAdventure15=4
 choiceAdventure151=2
 choiceAdventure152=1
-choiceAdventure153=4
+choiceAdventure153=3
 choiceAdventure154=1
-choiceAdventure155=4
+choiceAdventure155=3
 choiceAdventure156=1
-choiceAdventure157=4
+choiceAdventure157=2
 choiceAdventure158=1
 choiceAdventure159=4
 choiceAdventure16=4
@@ -571,9 +571,9 @@ choiceAdventure491=0
 choiceAdventure496=1
 choiceAdventure497=0
 choiceAdventure5=0
-choiceAdventure502=2
-choiceAdventure503=1
-choiceAdventure504=0
+choiceAdventure502=1
+choiceAdventure503=3
+choiceAdventure504=4
 choiceAdventure505=2
 choiceAdventure506=3
 choiceAdventure507=1
@@ -589,7 +589,7 @@ choiceAdventure518=0
 choiceAdventure519=0
 choiceAdventure521=1
 choiceAdventure522=2
-choiceAdventure523=5
+choiceAdventure523=3
 choiceAdventure527=1
 choiceAdventure528=1
 choiceAdventure529=0
@@ -671,7 +671,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=3
+currentFullness=12
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -679,14 +679,14 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=2
 currentWheelPosition=muscle
 customCombatScript=default
-cyrptAlcoveEvilness=46
-cyrptCrannyEvilness=50
-cyrptNicheEvilness=35
-cyrptNookEvilness=33
-cyrptTotalEvilness=164
+cyrptAlcoveEvilness=0
+cyrptCrannyEvilness=0
+cyrptNicheEvilness=0
+cyrptNookEvilness=0
+cyrptTotalEvilness=0
 dailyDungeonDone=false
 dbNemesisSkill1=0
 dbNemesisSkill2=0
@@ -732,7 +732,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=6
@@ -756,30 +756,30 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Menagerie 3
+lastAdventure=Goatlet
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
 lastBangPotion-1=confusion
-lastBangPotion819
-lastBangPotion820
+lastBangPotion819=ettin strength
+lastBangPotion820=inebriety
 lastBangPotion821=confusion
-lastBangPotion822
-lastBangPotion823
-lastBangPotion824
-lastBangPotion825
-lastBangPotion826
-lastBangPotion827
+lastBangPotion822=healing
+lastBangPotion823=detection
+lastBangPotion824=teleportitis
+lastBangPotion825=mental acuity
+lastBangPotion826=blessing
+lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=3
+lastBreakfast=4
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=8
-lastCounterDay=3
+lastCouncilVisit=9
+lastCounterDay=4
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -819,8 +819,8 @@ lastDwarfOreRunes
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
-lastEmptiedStorage=2
-lastEncounter=Portly Abomination
+lastEmptiedStorage=3
+lastEncounter=drunk goat
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -836,7 +836,7 @@ lastLouvreMap=3
 lastManorUnlock=3
 lastMessageCount=15
 lastMessageId
-lastMiningReset=1
+lastMiningReset=3
 lastNemesisReset=3
 lastPaperStrip3144=rough\:BLAG\:careful
 lastPaperStrip4138=dangly\:THWAIT\:sinusoidal
@@ -848,8 +848,8 @@ lastPaperStrip4143=fuzzy\:PYEW\:wibbly
 lastPaperStrip4144=sinusoidal\:GORT\:careful
 lastPaperStripReset=1
 lastPastamancerGhostReset=3
-lastPirateEphemera=pirate tract
-lastPirateEphemeraReset=2
+lastPirateEphemera=pirate pamphlet
+lastPirateEphemeraReset=3
 lastPirateInsult1=false
 lastPirateInsult2=false
 lastPirateInsult3=false
@@ -911,8 +911,8 @@ maximizerMRUList=mainstat;mus;mys;mox;familiar weight;HP;MP;ML;DA;DR;+combat -ti
 mayflyExperience=0
 meansuckerPrice=400
 meatDropSpading=false
-mineLayout1=\#52<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#53<img src\="http\://images.kingdomofloathing.com/itemimages/jewel.gif" alt\="stone of eXtreme power" title\="stone of eXtreme power" class\=hand onClick\='descitem(376860845)'>\#51<img src\="http\://images.kingdomofloathing.com/itemimages/meatstack.gif" alt\="meat stack" title\="meat stack" class\=hand onClick\='descitem(814092432)'>\#49<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#45<img src\="http\://images.kingdomofloathing.com/itemimages/jewel.gif" alt\="stone of eXtreme power" title\="stone of eXtreme power" class\=hand onClick\='descitem(376860845)'>\#43<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#37<img src\="http\://images.kingdomofloathing.com/itemimages/core.gif" alt\="chrome ore" title\="chrome ore" class\=hand onClick\='descitem(742497802)'>\#38<img src\="http\://images.kingdomofloathing.com/itemimages/baconstone.gif" alt\="lump of diamond" title\="lump of diamond" class\=hand onClick\='descitem(496172764)'>\#46<img src\="http\://images.kingdomofloathing.com/itemimages/meatstack.gif" alt\="meat stack" title\="meat stack" class\=hand onClick\='descitem(814092432)'>\#30<img src\="http\://images.kingdomofloathing.com/itemimages/baconstone.gif" alt\="lump of diamond" title\="lump of diamond" class\=hand onClick\='descitem(496172764)'>\#29<img src\="http\://images.kingdomofloathing.com/itemimages/core.gif" alt\="chrome ore" title\="chrome ore" class\=hand onClick\='descitem(742497802)'>\#36<img src\="http\://images.kingdomofloathing.com/itemimages/core.gif" alt\="chrome ore" title\="chrome ore" class\=hand onClick\='descitem(742497802)'>\#28<img src\="http\://images.kingdomofloathing.com/itemimages/core.gif" alt\="chrome ore" title\="chrome ore" class\=hand onClick\='descitem(742497802)'>\#20<img src\="http\://images.kingdomofloathing.com/itemimages/aore.gif" alt\="asbestos ore" title\="asbestos ore" class\=hand onClick\='descitem(873673118)'>\#21<img src\="http\://images.kingdomofloathing.com/itemimages/aore.gif" alt\="asbestos ore" title\="asbestos ore" class\=hand onClick\='descitem(873673118)'>\#22<img src\="http\://images.kingdomofloathing.com/itemimages/baconstone.gif" alt\="lump of diamond" title\="lump of diamond" class\=hand onClick\='descitem(496172764)'>\#13<img src\="http\://images.kingdomofloathing.com/itemimages/aore.gif" alt\="asbestos ore" title\="asbestos ore" class\=hand onClick\='descitem(873673118)'>\#14<img src\="http\://images.kingdomofloathing.com/itemimages/baconstone.gif" alt\="lump of diamond" title\="lump of diamond" class\=hand onClick\='descitem(496172764)'>\#12<img src\="http\://images.kingdomofloathing.com/itemimages/aore.gif" alt\="asbestos ore" title\="asbestos ore" class\=hand onClick\='descitem(873673118)'>\#19<img src\="http\://images.kingdomofloathing.com/itemimages/lore.gif" alt\="linoleum ore" title\="linoleum ore" class\=hand onClick\='descitem(122957072)'>\#11<img src\="http\://images.kingdomofloathing.com/itemimages/lore.gif" alt\="linoleum ore" title\="linoleum ore" class\=hand onClick\='descitem(122957072)'>\#18<img src\="http\://images.kingdomofloathing.com/itemimages/lore.gif" alt\="linoleum ore" title\="linoleum ore" class\=hand onClick\='descitem(122957072)'>\#10<img src\="http\://images.kingdomofloathing.com/itemimages/lore.gif" alt\="linoleum ore" title\="linoleum ore" class\=hand onClick\='descitem(122957072)'>\#42<img src\="http\://images.kingdomofloathing.com/itemimages/meatstack.gif" alt\="meat stack" title\="meat stack" class\=hand onClick\='descitem(814092432)'>\#41<img src\="http\://images.kingdomofloathing.com/itemimages/jewel.gif" alt\="stone of eXtreme power" title\="stone of eXtreme power" class\=hand onClick\='descitem(376860845)'>\#34<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>
-mineLayout2=\#43<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#42<img src\="http\://images.kingdomofloathing.com/itemimages/meatstack.gif" alt\="meat stack" title\="meat stack" class\=hand onClick\='descitem(814092432)'>\#41<img src\="http\://images.kingdomofloathing.com/itemimages/meatstack.gif" alt\="meat stack" title\="meat stack" class\=hand onClick\='descitem(814092432)'>\#26<img src\="http\://images.kingdomofloathing.com/itemimages/cardore.gif" alt\="cardboard ore" title\="cardboard ore" class\=hand onClick\='descitem(582580469)'>\#25<img src\="http\://images.kingdomofloathing.com/itemimages/cardore.gif" alt\="cardboard ore" title\="cardboard ore" class\=hand onClick\='descitem(582580469)'>\#18<img src\="http\://images.kingdomofloathing.com/itemimages/cardore.gif" alt\="cardboard ore" title\="cardboard ore" class\=hand onClick\='descitem(582580469)'>\#17<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#19<img src\="http\://images.kingdomofloathing.com/itemimages/styore.gif" alt\="styrofoam ore" title\="styrofoam ore" class\=hand onClick\='descitem(614466541)'>\#27<img src\="http\://images.kingdomofloathing.com/itemimages/cardore.gif" alt\="cardboard ore" title\="cardboard ore" class\=hand onClick\='descitem(582580469)'>\#20<img src\="http\://images.kingdomofloathing.com/itemimages/styore.gif" alt\="styrofoam ore" title\="styrofoam ore" class\=hand onClick\='descitem(614466541)'>\#28<img src\="http\://images.kingdomofloathing.com/itemimages/styore.gif" alt\="styrofoam ore" title\="styrofoam ore" class\=hand onClick\='descitem(614466541)'>\#29<img src\="http\://images.kingdomofloathing.com/itemimages/bubbleore.gif" alt\="bubblewrap ore" title\="bubblewrap ore" class\=hand onClick\='descitem(571478721)'>\#37<img src\="http\://images.kingdomofloathing.com/itemimages/bubbleore.gif" alt\="bubblewrap ore" title\="bubblewrap ore" class\=hand onClick\='descitem(571478721)'>\#38<img src\="http\://images.kingdomofloathing.com/itemimages/meatstack.gif" alt\="meat stack" title\="meat stack" class\=hand onClick\='descitem(814092432)'>\#21<img src\="http\://images.kingdomofloathing.com/itemimages/bubbleore.gif" alt\="bubblewrap ore" title\="bubblewrap ore" class\=hand onClick\='descitem(571478721)'>\#22<img src\="http\://images.kingdomofloathing.com/itemimages/jewel.gif" alt\="stone of eXtreme power" title\="stone of eXtreme power" class\=hand onClick\='descitem(376860845)'>\#13<img src\="http\://images.kingdomofloathing.com/itemimages/bubbleore.gif" alt\="bubblewrap ore" title\="bubblewrap ore" class\=hand onClick\='descitem(571478721)'>\#11<img src\="http\://images.kingdomofloathing.com/itemimages/styore.gif" alt\="styrofoam ore" title\="styrofoam ore" class\=hand onClick\='descitem(614466541)'>
+mineLayout1=\#50<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#52<img src\="http\://images.kingdomofloathing.com/itemimages/meatstack.gif" alt\="meat stack" title\="meat stack" class\=hand onClick\='descitem(814092432)'>\#44<img src\="http\://images.kingdomofloathing.com/itemimages/meatstack.gif" alt\="meat stack" title\="meat stack" class\=hand onClick\='descitem(814092432)'>\#36<img src\="http\://images.kingdomofloathing.com/itemimages/lore.gif" alt\="linoleum ore" title\="linoleum ore" class\=hand onClick\='descitem(122957072)'>\#37<img src\="http\://images.kingdomofloathing.com/itemimages/jewel.gif" alt\="stone of eXtreme power" title\="stone of eXtreme power" class\=hand onClick\='descitem(376860845)'>\#28<img src\="http\://images.kingdomofloathing.com/itemimages/lore.gif" alt\="linoleum ore" title\="linoleum ore" class\=hand onClick\='descitem(122957072)'>\#29<img src\="http\://images.kingdomofloathing.com/itemimages/hp.gif" height\=30 width\=30>\#38<img src\="http\://images.kingdomofloathing.com/itemimages/baconstone.gif" alt\="lump of diamond" title\="lump of diamond" class\=hand onClick\='descitem(496172764)'>\#30<img src\="http\://images.kingdomofloathing.com/itemimages/baconstone.gif" alt\="lump of diamond" title\="lump of diamond" class\=hand onClick\='descitem(496172764)'>\#22<img src\="http\://images.kingdomofloathing.com/itemimages/baconstone.gif" alt\="lump of diamond" title\="lump of diamond" class\=hand onClick\='descitem(496172764)'>\#21<img src\="http\://images.kingdomofloathing.com/itemimages/jewel.gif" alt\="stone of eXtreme power" title\="stone of eXtreme power" class\=hand onClick\='descitem(376860845)'>\#20<img src\="http\://images.kingdomofloathing.com/itemimages/lore.gif" alt\="linoleum ore" title\="linoleum ore" class\=hand onClick\='descitem(122957072)'>\#27<img src\="http\://images.kingdomofloathing.com/itemimages/lore.gif" alt\="linoleum ore" title\="linoleum ore" class\=hand onClick\='descitem(122957072)'>
+mineLayout2
 mineLayout3
 mineLayout4
 mmgAutoConfirmBets=false
@@ -973,9 +973,9 @@ questL03Rat=finished
 questL04Bat=finished
 questL05Goblin=finished
 questL06Friar=finished
-questL07Cyrptic=started
-questL08Trapper=unstarted
-questL09Lol=unstarted
+questL07Cyrptic=finished
+questL08Trapper=step2
+questL09Lol=started
 questL10Garbage=unstarted
 questL11MacGuffin=unstarted
 questL11Manor=unstarted
@@ -1011,7 +1011,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=1153\:Semirare window begin\:lparen.gif\:1193\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1088,7 +1088,7 @@ thanksMessage=Thank you for the donation\!
 timesRested=0
 tomeSummons=0
 totalCharitableDonations=0
-trapperOre=chrome
+trapperOre=asbestos ore
 unknownRecipe3542=true
 unknownRecipe3543=true
 unknownRecipe3544=true
