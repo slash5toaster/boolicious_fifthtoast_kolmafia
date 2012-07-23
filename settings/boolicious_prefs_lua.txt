@@ -28,8 +28,8 @@ RequestFrame=-3,-3,-1
 RequestSynchFrame=-2,-3,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
-StoreManageFrame=-2,-3,3
-TabbedChatFrame=772,99,1
+StoreManageFrame=-2,-3,0
+TabbedChatFrame=772,99,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -43,7 +43,7 @@ _bagOfCandy=false
 _bagOfCandyUsed=true
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=true
+_ballpit=false
 _banderRunaways=0
 _beerLensDrops=0
 _benettonsCasts=0
@@ -667,9 +667,9 @@ choiceAdventure91=2
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=false
+concertVisited=true
 counterScript
-crimboTreeDays=3
+crimboTreeDays=7
 currentBountyItem=0
 currentFullness=0
 currentHippyStore=hippy
@@ -756,7 +756,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=The Ancient Hobo Burial Ground
+lastAdventure=Hole in the Sky
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -772,13 +772,13 @@ lastBangPotion827=healing
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=0
+lastBreakfast=3
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=0
+lastCounterDay=3
 lastDispensaryOpen=3
 lastDoorCodeReset=3
 lastDustyBottle2271=5
@@ -818,8 +818,8 @@ lastDwarfOreRunes
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
-lastEmptiedStorage=-1
-lastEncounter=Achilles Jackson, the Boogity Man
+lastEmptiedStorage=3
+lastEncounter=The Astronomer
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -895,7 +895,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=3
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=11
+libramSummons=10
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -924,7 +924,7 @@ mpAutoRecoveryItems=sleep on your clan sofa;rest at your campground;galaktik's f
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
 noodleSummons=0
-nunsVisits=1
+nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=sphere
 olfactedMonster=wabbit
@@ -939,7 +939,7 @@ pastamancerOrbedExperience=0
 pastamancerOrbedName
 pastamancerOrbedType
 pendingMapReflections=0
-photocopyMonster
+photocopyMonster=monster
 plantingDate=8
 plantingDay=0
 plantingLength=1
@@ -1010,7 +1010,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=3525\:Semirare window begin loc\=*\:lparen.gif\:3565\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1085,7 +1085,7 @@ tempuraSummons=0
 textColors=crappy\:\#999999|good\:green|awesome\:blue|epic\:\#8a2be2|junk\:gray|memento\:olive|notavailable\:gray
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=3
+tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true

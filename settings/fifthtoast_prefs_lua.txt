@@ -159,7 +159,7 @@ _toastSummons=0
 _tokenDrops=0
 _transponderDrops=0
 _treasuryEliteMeatCollected=false
-_treasuryHaremMeatCollected=true
+_treasuryHaremMeatCollected=false
 _trivialAvocationsGame=true
 _userMods
 _vitachocCapsulesUsed=0
@@ -263,7 +263,7 @@ biodataGalley=0
 biodataMedbay=3
 biodataMorgue=6
 biodataNavigation=0
-biodataScienceLab=0
+biodataScienceLab=3
 biodataSonar=3
 biodataSpecialOps=0
 biodataWasteProcessing=3
@@ -670,8 +670,8 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=2472
-currentFullness=0
+currentBountyItem=0
+currentFullness=3
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -682,11 +682,11 @@ currentPvpVictories
 currentSpleenUse=0
 currentWheelPosition=muscle
 customCombatScript=default
-cyrptAlcoveEvilness=50
+cyrptAlcoveEvilness=46
 cyrptCrannyEvilness=50
-cyrptNicheEvilness=50
+cyrptNicheEvilness=35
 cyrptNookEvilness=33
-cyrptTotalEvilness=183
+cyrptTotalEvilness=164
 dailyDungeonDone=false
 dbNemesisSkill1=0
 dbNemesisSkill2=0
@@ -732,7 +732,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=6
@@ -756,7 +756,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Hey Deze Arena
+lastAdventure=Menagerie 3
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -773,13 +773,13 @@ lastBangPotion827
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=0
+lastBreakfast=3
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=7
-lastCounterDay=0
+lastCouncilVisit=8
+lastCounterDay=3
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -820,7 +820,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=2
-lastEncounter=serialbus
+lastEncounter=Portly Abomination
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -993,7 +993,7 @@ questM06Gourd=finished
 questM07Hammer=finished
 questM08Baker=started
 questM09Rocks=finished
-questM10Azazel=started
+questM10Azazel=finished
 questM11Postal=unstarted
 questM12Pirate=unstarted
 questM13Escape=unstarted
@@ -1011,7 +1011,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=1153\:Semirare window begin\:lparen.gif\:1193\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1020,8 +1020,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=453
-semirareLocation=Outskirts of The Knob
+semirareCounter=993
+semirareLocation=South of the Border
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
