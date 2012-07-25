@@ -1,5 +1,5 @@
 =4
-AdventureFrame=269,193,1
+AdventureFrame=269,193,0
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=742,435
@@ -165,7 +165,7 @@ _userMods
 _vitachocCapsulesUsed=0
 _vmaskAdv=0
 _vmaskBanisherUsed=false
-_whiteRiceDrops=0
+_whiteRiceDrops=3
 _zapCount=0
 addingScrolls=2
 afterAdventureScript
@@ -669,9 +669,9 @@ clanAttacksEnabled=false
 cocktailSummons=0
 concertVisited=false
 counterScript
-crimboTreeDays=5
+crimboTreeDays=4
 currentBountyItem=0
-currentFullness=5
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -679,7 +679,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=11
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -756,7 +756,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Fantasy Airship
+lastAdventure=Whitey's Grove
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -772,13 +772,13 @@ lastBangPotion827=healing
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=5
+lastBreakfast=6
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=5
+lastCounterDay=6
 lastDispensaryOpen=3
 lastDoorCodeReset=3
 lastDustyBottle2271=5
@@ -819,7 +819,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=3
-lastEncounter=MagiMechTech MechaMech
+lastEncounter=Knight in White Satin
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -895,7 +895,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=3
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=12
+libramSummons=9
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -928,7 +928,7 @@ nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=sphere
 olfactedMonster=wabbit
-oscusSodaUsed=true
+oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=0

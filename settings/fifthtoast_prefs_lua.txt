@@ -15,7 +15,7 @@ FamiliarTrainingFrame=260,240
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=461,121,-1
+KoLDesktop=246,121,-1
 LoginFrame=725,305,0
 MailboxFrame=289,310,1
 MaximizerFrame=273,243
@@ -159,7 +159,7 @@ _toastSummons=0
 _tokenDrops=0
 _transponderDrops=0
 _treasuryEliteMeatCollected=false
-_treasuryHaremMeatCollected=false
+_treasuryHaremMeatCollected=true
 _trivialAvocationsGame=true
 _userMods
 _vitachocCapsulesUsed=0
@@ -251,7 +251,7 @@ ballpitBonus=100
 banishingShoutMonsters
 bankedKarma=200
 barrelGoal=1
-barrelLayout=?????????
+barrelLayout=??S?SB??R
 bartenderTurnsUsed=27
 basementMallPrices=1
 battleAction=custom combat script
@@ -671,7 +671,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=4
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -679,7 +679,7 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=2
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -756,7 +756,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Cobb's Knob Treasury
+lastAdventure=Barrel Full of Barrels
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -771,15 +771,15 @@ lastBangPotion825=mental acuity
 lastBangPotion826=blessing
 lastBangPotion827=sleepiness
 lastBangPotionReset=3
-lastBarrelSmashed=0
+lastBarrelSmashed=36
 lastBattlefieldReset=3
-lastBreakfast=5
+lastBreakfast=6
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=9
-lastCounterDay=5
+lastCounterDay=6
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -820,7 +820,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=3
-lastEncounter=Knob Goblin Bean Counter
+lastEncounter=Barrel Smash
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -975,7 +975,7 @@ questL05Goblin=finished
 questL06Friar=finished
 questL07Cyrptic=finished
 questL08Trapper=step2
-questL09Lol=started
+questL09Lol=step1
 questL10Garbage=unstarted
 questL11MacGuffin=unstarted
 questL11Manor=unstarted
