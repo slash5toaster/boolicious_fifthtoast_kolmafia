@@ -756,7 +756,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Waste Processing
+lastAdventure=Sleazy Back Alley
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -773,13 +773,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=8
+lastBreakfast=9
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=9
-lastCounterDay=8
+lastCounterDay=9
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -820,7 +820,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=3
-lastEncounter=scavenger bugbear
+lastEncounter=hung-over half-orc hobo
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
