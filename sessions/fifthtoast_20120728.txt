@@ -1071,3 +1071,824 @@ Item: +0.00%
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+July 28, 2012 - Frankruary 2
+
+Ronald: waxing crescent
+Grimace: full moon
+Mini-moon: behind Ronald
+
+Valentine's Day: 2 days
+St. Sneaky Pete's Day: 9 days
+Oyster Egg Day: 16 days
+El Dia De Los Muertos Borrachos: 24 days
+Generic Summer Holiday: 33 days
+Dependence Day: 42 days
+Arrrbor Day: 50 days
+Lab&oacute;r Day: 60 days
+Halloween: 70 days
+Feast of Boris: 77 days
+Yuletide: 82 days
+Festival of Jarlsberg: 87 days
+
+
+Muscle bonus today and yesterday.
+
+
+ > status
+
+Name: fifthtoast
+Class: Pastamancer
+
+Lv: 9
+HP: 93 / 93
+MP: 180 / 180
+
+Mus: 60 (54), tnp = 21
+Mys: 120 (79), tnp = 75
+Mox: 66 (54), tnp = 58
+
+Advs: 96
+Meat: 29,105
+
+Full: 0 / 15
+Drunk: 0 / 19
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: eyepatch
+Weapon: Pasta of Peril
+Off-hand: Glass Balls of the Goblin King
+Shirt: (none)
+Pants: swashbuckling pants
+
+Acc. 1: Jarlsberg's earring
+Acc. 2: bugbear detector
+Acc. 3: ring of conflict
+
+Pet: Cocoabo (25 lbs)
+Item: annoying pitchfork
+
+ > skills
+
+Uncategorized
+ - Liver of Steel
+
+Pastamancer
+ - Cannelloni Cannon
+ - Cannelloni Cocoon
+ - Entangling Noodles
+ - Lasagna Bandages
+ - Manicotti Meditation
+ - Pastamastery
+ - Ravioli Shurikens
+ - Spaghetti Spear
+ - Spirit of Rigatoni
+ - Springy Fusilli
+
+Disco Bandit
+ - Ambidextrous Funkslinging
+
+
+ > effects
+
+3 of 3 AT buffs active.
+♫ Aloysius' Antiphon of Aptitude (84)
+♫ Cringle's Curative Carol (84)
+Springy Fusilli (107)
+Pasta Oneness (107)
+Scarysauce (459)
+Ghostly Shell (459)
+Tenacity of the Snapper (459)
+Jingle Jangle Jingle (459)
+Elemental Saucesphere (459)
+Astral Shell (459)
+Reptilian Fortitude (459)
+Jabañero Saucesphere (459)
+Jalapeño Saucesphere (459)
+♫ Stevedave's Shanty of Superiority (459)
+Empathy (459)
+
+
+ > modifiers
+
+ML: +5
+Enc: -5.00%
+Init: +55.00%
+
+Exp: +1.62
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+place.php?whichplace=mclargehuge
+place.php?whichplace=mclargehuge&action=trappercabin
+place.php?whichplace=mclargehuge&action=trappercabin
+
+[1512] eXtreme Slope
+Encounter: eXtreme Orcish snowboarder
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: extreme orcish snowboarder takes 4 damage.
+Round 2: extreme orcish snowboarder takes 3 damage.
+Round 2: extreme orcish snowboarder takes 14 damage.
+Round 2: extreme orcish snowboarder takes 5 damage.
+You lose 3 hit points
+Round 2: fifthtoast attacks!
+Round 3: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 103 Meat.
+Round 3: extreme orcish snowboarder takes 2 damage.
+Round 3: extreme orcish snowboarder takes 20 damage.
+Round 3: extreme orcish snowboarder takes 5 damage.
+You lose 4 hit points
+Round 3: fifthtoast executes a macro!
+Round 3: fifthtoast casts SPAGHETTI SPEAR!
+Round 4: extreme orcish snowboarder takes 3 damage.
+Round 4: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 4: extreme orcish snowboarder drops 8 attack power.
+Round 4: extreme orcish snowboarder drops 8 defense.
+Round 4: extreme orcish snowboarder takes 3 damage.
+Round 4: extreme orcish snowboarder takes 4 damage.
+Round 4: extreme orcish snowboarder takes 3 damage.
+You lose 1 hit point
+Round 4: fifthtoast casts RAVIOLI SHURIKENS!
+Round 5: extreme orcish snowboarder takes 20 damage.
+Round 5: fifthtoast wins the fight!
+You gain 43 Meat
+You gain 5 Muscleboundness
+You gain 11 Mysteriousness
+You gain 9 Chutzpah
+
+[1513] eXtreme Slope
+Encounter: eXtreme cross-country hippy
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: extreme cross-country hippy takes 5 damage.
+Round 2: extreme cross-country hippy takes 2 damage.
+Round 2: extreme cross-country hippy takes 6 damage.
+Round 2: extreme cross-country hippy takes 5 damage.
+You lose 9 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: extreme cross-country hippy takes 8 damage.
+Round 3: cocopuf coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mana Points
+Round 3: extreme cross-country hippy takes 1 damage.
+Round 3: extreme cross-country hippy takes 2 damage.
+Round 3: extreme cross-country hippy takes 4 damage.
+You lose 7 hit points
+Round 3: fifthtoast casts RAVIOLI SHURIKENS!
+Round 4: extreme cross-country hippy takes 36 damage.
+Round 4: cocopuf's bells jingle merrily.
+Round 4: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 109 Meat.
+Round 4: fifthtoast wins the fight!
+You gain 8 Beefiness
+You gain 11 Wizardliness
+You gain 7 Chutzpah
+outfit eXtreme Cold-Weather Gear
+
+place.php?whichplace=mclargehuge
+place.php?whichplace=mclargehuge&action=cloudypeak
+
+[1514] eXtreme Slope
+Encounter: Discovering Your Extremity
+
+[1515] eXtreme Slope
+Encounter: eXtreme Orcish snowboarder
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: extreme orcish snowboarder takes 3 damage.
+Round 2: extreme orcish snowboarder takes 2 damage.
+Round 2: extreme orcish snowboarder takes 18 damage.
+Round 2: extreme orcish snowboarder takes 4 damage.
+You lose 7 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: extreme orcish snowboarder takes 4 damage.
+Round 3: extreme orcish snowboarder takes 2 damage.
+Round 3: extreme orcish snowboarder takes 20 damage.
+Round 3: extreme orcish snowboarder takes 5 damage.
+You lose 15 hit points
+Round 3: fifthtoast casts RAVIOLI SHURIKENS!
+Round 4: extreme orcish snowboarder takes 40 damage.
+Round 4: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused. LIMIT BREAK!
+Round 4: extreme orcish snowboarder drops 18 attack power.
+Round 4: extreme orcish snowboarder drops 18 defense.
+Round 4: fifthtoast wins the fight!
+After Battle: You quickly do a Cross-Killer Instinct-Block-style A B C off of a nearby rock.  You're getting better at this!
+You gain 41 Meat
+You acquire an item: Mountain Stream soda
+You gain 10 Muscleboundness
+You gain a Muscle point!
+You gain 8 Mysteriousness
+You gain 8 Sarcasm
+
+[1516] eXtreme Slope
+Encounter: eXtreme Orcish snowboarder
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: extreme orcish snowboarder takes 3 damage.
+Round 2: extreme orcish snowboarder takes 2 damage.
+Round 2: extreme orcish snowboarder takes 4 damage.
+Round 2: extreme orcish snowboarder takes 4 damage.
+You lose 6 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: extreme orcish snowboarder takes 4 damage.
+Round 3: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 118 Meat.
+Round 3: extreme orcish snowboarder takes 3 damage.
+Round 3: extreme orcish snowboarder takes 12 damage.
+Round 3: extreme orcish snowboarder takes 5 damage.
+You lose 6 hit points
+Round 3: fifthtoast casts RAVIOLI SHURIKENS!
+Round 4: extreme orcish snowboarder takes 17 damage.
+Round 4: extreme orcish snowboarder takes 2 damage.
+Round 4: extreme orcish snowboarder takes 14 damage.
+Round 4: extreme orcish snowboarder takes 3 damage.
+You lose 7 hit points
+Round 4: fifthtoast wins the fight!
+After Battle: You quickly do a Fast Bali off of a nearby rock.  You're getting better at this!
+You gain 44 Meat
+You gain 7 Strengthliness
+You gain 15 Enchantedness
+You gain 6 Sarcasm
+
+[1517] eXtreme Slope
+Encounter: sk8 gnome
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: sk8 gnome takes 4 damage.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 52 damage. LIMIT BREAK!
+Round 2: sk8 gnome takes 52 damage.
+Round 2: sk8 gnome takes 2 damage.
+Round 2: sk8 gnome takes 6 damage.
+Round 2: sk8 gnome takes 3 damage.
+You lose 15 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: sk8 gnome takes 8 damage.
+Round 3: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 256 Meat.
+Round 3: fifthtoast wins the fight!
+After Battle: You quickly do a Clamato-style Rusty Trombone off of a nearby rock.  You're getting better at this!
+You gain 71 Meat
+You acquire an item: Mountain Stream soda
+You gain 9 Fortitude
+You gain 13 Wizardliness
+You gain 6 Cheek
+
+[1518] eXtreme Slope
+Encounter: sk8 gnome
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: sk8 gnome takes 4 damage.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 200 Meat.
+Round 2: sk8 gnome takes 2 damage.
+Round 2: sk8 gnome takes 4 damage.
+Round 2: sk8 gnome takes 5 damage.
+You lose 14 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: sk8 gnome takes 4 damage.
+Round 3: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 171 Meat.
+Round 3: sk8 gnome takes 3 damage.
+Round 3: sk8 gnome takes 4 damage.
+Round 3: sk8 gnome takes 5 damage.
+You lose 15 hit points
+Round 3: fifthtoast casts RAVIOLI SHURIKENS!
+Round 4: sk8 gnome takes 17 damage.
+Round 4: sk8 gnome takes 1 damage.
+Round 4: sk8 gnome takes 5 damage.
+Round 4: sk8 gnome takes 5 damage.
+You lose 14 hit points
+Round 4: fifthtoast casts SPAGHETTI SPEAR!
+Round 5: sk8 gnome takes 3 damage.
+Round 5: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 5: sk8 gnome drops 9 attack power.
+Round 5: sk8 gnome drops 9 defense.
+Round 5: sk8 gnome takes 3 damage.
+Round 5: sk8 gnome takes 3 damage.
+Round 5: sk8 gnome takes 5 damage.
+You lose 11 hit points
+Round 5: fifthtoast wins the fight!
+After Battle: You quickly do a Slappy Tailspin off of a nearby rock.  You're getting better at this!
+You gain 81 Meat
+You acquire an item: gr8ps
+You gain 9 Strengthliness
+You gain 9 Mysteriousness
+You gain 8 Cheek
+
+cast 1 Cannelloni Cocoon
+You gain 82 hit points
+
+[1519] eXtreme Slope
+Encounter: eXtreme cross-country hippy
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: extreme cross-country hippy takes 3 damage.
+Round 2: extreme cross-country hippy takes 3 damage.
+Round 2: extreme cross-country hippy takes 6 damage.
+Round 2: extreme cross-country hippy takes 3 damage.
+You lose 8 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: extreme cross-country hippy takes 4 damage.
+Round 3: cocopuf coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mana Points
+Round 3: extreme cross-country hippy takes 3 damage.
+Round 3: extreme cross-country hippy takes 10 damage.
+Round 3: extreme cross-country hippy takes 3 damage.
+You lose 7 hit points
+Round 3: fifthtoast casts RAVIOLI SHURIKENS!
+Round 4: extreme cross-country hippy takes 16 damage.
+Round 4: fifthtoast casts SPAGHETTI SPEAR!
+Round 5: extreme cross-country hippy takes 4 damage.
+Round 5: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 5: extreme cross-country hippy drops 9 attack power.
+Round 5: extreme cross-country hippy drops 9 defense.
+Round 5: extreme cross-country hippy takes 1 damage.
+Round 5: extreme cross-country hippy takes 2 damage.
+Round 5: extreme cross-country hippy takes 5 damage.
+You lose 2 hit points
+Round 5: fifthtoast casts RAVIOLI SHURIKENS!
+Round 6: extreme cross-country hippy takes 17 damage.
+Round 6: cocopuf's bells jingle merrily.
+Round 6: cocopuf coos softly, and nuzzles you with his beak.
+You gain 32 hit points
+You gain 32 Mana Points
+Round 6: fifthtoast wins the fight!
+After Battle: You quickly do an Economy Salad-style Chicano off of a nearby rock.  You're getting better at this!
+You acquire an item: Mountain Stream soda
+You gain 5 Muscleboundness
+You gain 11 Mysteriousness
+You gain a Mysticality point!
+You gain 8 Smarm
+
+[1520] eXtreme Slope
+Encounter: 2 eXXtreme 4 U
+
+[1521] eXtreme Slope
+Encounter: eXtreme cross-country hippy
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: extreme cross-country hippy takes 4 damage.
+Round 2: cocopuf coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 61 hit points
+You gain 61 Mana Points
+Round 2: extreme cross-country hippy takes 3 damage.
+Round 2: extreme cross-country hippy takes 6 damage.
+Round 2: extreme cross-country hippy takes 3 damage.
+You lose 9 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: extreme cross-country hippy takes 4 damage.
+Round 3: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 26 damage.
+Round 3: extreme cross-country hippy takes 26 damage.
+Round 3: extreme cross-country hippy takes 1 damage.
+Round 3: extreme cross-country hippy takes 2 damage.
+Round 3: extreme cross-country hippy takes 5 damage.
+You lose 9 hit points
+Round 3: fifthtoast casts RAVIOLI SHURIKENS!
+Round 4: extreme cross-country hippy takes 16 damage.
+Round 4: cocopuf's bells jingle merrily.
+Round 4: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 27 damage.
+Round 4: extreme cross-country hippy takes 27 damage.
+Round 4: fifthtoast wins the fight!
+After Battle: You do a Poptart Chicken off of a nearby log.  Sick!  Keep it up!
+You acquire an item: Mountain Stream soda
+You gain 10 Strongness
+You gain 11 Enchantedness
+You gain 4 Sarcasm
+
+[1522] eXtreme Slope
+Encounter: 3 eXXXtreme 4ever 6pack
+
+place.php?whichplace=mclargehuge
+place.php?whichplace=mclargehuge&action=cloudypeak
+place.php?whichplace=mclargehuge&action=cloudypeak2
+Encounter: panicking Knott Yeti
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: panicking knott yeti takes 4 damage.
+Round 3: cocopuf's bells jingle merrily.
+Round 3: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 100 Meat.
+Round 3: panicking knott yeti takes 1 damage.
+Round 3: panicking knott yeti takes 14 damage.
+Round 3: panicking knott yeti takes 4 damage.
+You lose 7 hit points
+Round 3: fifthtoast casts RAVIOLI SHURIKENS!
+Round 4: panicking knott yeti takes 16 damage.
+Round 4: panicking knott yeti takes 2 damage.
+Round 4: panicking knott yeti takes 8 damage.
+Round 4: panicking knott yeti takes 3 damage.
+You lose 8 hit points
+Round 4: fifthtoast casts SPAGHETTI SPEAR!
+Round 5: panicking knott yeti takes 4 damage.
+Round 5: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused. LIMIT BREAK!
+Round 5: panicking knott yeti drops 18 attack power.
+Round 5: panicking knott yeti drops 18 defense.
+Round 5: panicking knott yeti takes 3 damage.
+Round 5: panicking knott yeti takes 16 damage.
+Round 5: panicking knott yeti takes 3 damage.
+You lose 5 hit points
+Round 5: fifthtoast casts RAVIOLI SHURIKENS!
+Round 6: panicking knott yeti takes 14 damage.
+Round 6: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 27 damage.
+Round 6: panicking knott yeti takes 27 damage.
+Round 6: fifthtoast wins the fight!
+You gain 196 Meat
+You gain 8 Muscleboundness
+You gain 21 Mysteriousness
+You gain 6 Chutzpah
+You gain a Moxie point!
+
+place.php?whichplace=mclargehuge&action=cloudypeak2
+Encounter: panicking Knott Yeti
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: panicking knott yeti takes 5 damage.
+Round 3: panicking knott yeti takes 2 damage.
+Round 3: panicking knott yeti takes 20 damage.
+Round 3: panicking knott yeti takes 4 damage.
+You lose 20 hit points
+Round 3: fifthtoast casts RAVIOLI SHURIKENS!
+Round 4: panicking knott yeti takes 58 damage.
+Round 4: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 28 damage.
+Round 4: panicking knott yeti takes 28 damage.
+Round 4: fifthtoast wins the fight!
+You gain 190 Meat
+You acquire an item: yeti fur
+You gain 5 Muscleboundness
+You gain 24 Mysteriousness
+You gain 5 Cheek
+
+place.php?whichplace=mclargehuge&action=cloudypeak2
+Encounter: panicking Knott Yeti
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: panicking knott yeti takes 3 damage.
+Round 3: panicking knott yeti takes 1 damage.
+Round 3: panicking knott yeti takes 16 damage.
+Round 3: panicking knott yeti takes 5 damage.
+You lose 32 hit points
+Round 3: fifthtoast casts RAVIOLI SHURIKENS!
+Round 4: panicking knott yeti takes 30 damage.
+Round 4: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 4: panicking knott yeti drops 9 attack power.
+Round 4: panicking knott yeti drops 9 defense.
+Round 4: panicking knott yeti takes 3 damage.
+Round 4: panicking knott yeti takes 8 damage.
+Round 4: panicking knott yeti takes 5 damage.
+You lose 18 hit points
+Round 4: fifthtoast casts SPAGHETTI SPEAR!
+Round 5: panicking knott yeti takes 4 damage.
+Round 5: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 5: panicking knott yeti drops 9 attack power.
+Round 5: panicking knott yeti drops 9 defense.
+Round 5: panicking knott yeti takes 3 damage.
+Round 5: panicking knott yeti takes 6 damage.
+Round 5: panicking knott yeti takes 3 damage.
+You lose 15 hit points
+
+cast 2 Lasagna Bandages
+You gain 27 hit points
+
+cast 1 Lasagna Bandages
+You gain 20 hit points
+
+cast 1 Lasagna Bandages
+You gain 24 hit points
+
+place.php?whichplace=plains
+
+[1526] Pump Up Muscle (3 turns)
+You gain 38 Strongness
+
+place.php?whichplace=mclargehuge
+place.php?whichplace=mclargehuge&action=cloudypeak2
+Encounter: panicking Knott Yeti
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: panicking knott yeti takes 3 damage.
+Round 3: panicking knott yeti takes 1 damage.
+Round 3: panicking knott yeti takes 16 damage.
+Round 3: panicking knott yeti takes 4 damage.
+You lose 7 hit points
+Round 3: fifthtoast casts RAVIOLI SHURIKENS!
+Round 4: panicking knott yeti takes 32 damage.
+Round 4: panicking knott yeti takes 2 damage.
+Round 4: panicking knott yeti takes 6 damage.
+Round 4: panicking knott yeti takes 3 damage.
+You lose 7 hit points
+Round 4: fifthtoast casts SPAGHETTI SPEAR!
+Round 5: panicking knott yeti takes 4 damage.
+Round 5: panicking knott yeti takes 3 damage.
+Round 5: panicking knott yeti takes 6 damage.
+Round 5: panicking knott yeti takes 3 damage.
+You lose 7 hit points
+Round 5: fifthtoast casts RAVIOLI SHURIKENS!
+Round 6: panicking knott yeti takes 40 damage.
+Round 6: fifthtoast wins the fight!
+You gain 220 Meat
+You gain 9 Strongness
+You gain 16 Magicalness
+You gain 9 Roguishness
+
+place.php?whichplace=mclargehuge&action=cloudypeak2
+Encounter: Groar
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: fifthtoast uses the ancient poisoned dart and uses the photoprotoneutron torpedo!
+Round 3: groar takes 36 damage.
+Round 3: cocopuf's bells jingle merrily.
+Round 3: cocopuf coos softly, and nuzzles you with his beak.
+You gain 31 hit points
+You gain 31 Mana Points
+Round 3: groar takes 9 damage.
+Round 3: groar takes 3 damage.
+Round 3: groar takes 16 damage.
+Round 3: groar takes 4 damage.
+You lose 39 hit points
+Round 3: fifthtoast casts ENTANGLING NOODLES!
+Round 4: groar takes 4 damage.
+Round 4: fifthtoast casts LASAGNA BANDAGES!
+You gain 10 hit points
+Round 5: groar takes 2 damage.
+Round 5: fifthtoast uses the big boom and uses the beer bomb!
+Round 6: groar takes 81 damage.
+Round 6: groar takes 73 damage.
+Round 6: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused. LIMIT BREAK!
+Round 6: groar drops 18 attack power.
+Round 6: groar drops 18 defense.
+Round 6: groar takes 1 damage.
+Round 6: fifthtoast uses the big boom and uses the beer bomb!
+Round 7: groar takes 81 damage.
+Round 7: fifthtoast wins the fight!
+You acquire an item: Groar's fur
+You acquire an item: dense meat stack (5)
+You gain 13 Strengthliness
+You gain a Muscle point!
+You gain 19 Mysteriousness
+You gain 7 Cheek
+
+place.php?whichplace=mclargehuge
+place.php?whichplace=mclargehuge&action=trappercabin
+You acquire an item: fuzzy earmuffs
+
+[1531] Ninja Snowmen
+Encounter: Ninja Snowman
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: ninja snowman (hilt/mask) takes 3 damage.
+Round 2: ninja snowman (hilt/mask) takes 1 damage.
+Round 2: ninja snowman (hilt/mask) takes 10 damage.
+Round 2: ninja snowman (hilt/mask) takes 5 damage.
+You lose 5 hit points
+Adjusted combat item count: beer bomb
+Round 2: fifthtoast summons Bufferhams the Undead Elbow Macaroni!
+Round 3: You focus your thoughts and call out to Bufferhams.  He claws his way up from beneath the ground at your feet.
+Round 3: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 82 Meat.
+Round 3: Bufferhams bites your opponent for 36 damage.
+Round 3: ninja snowman (hilt/mask) takes 36 damage.
+Round 3: ninja snowman (hilt/mask) takes 2 damage.
+Round 3: Bufferhams glares at your opponent with malice in his beady, starchy, undead little eyes.
+Round 3: ninja snowman (hilt/mask) takes 48 damage.
+Round 3: ninja snowman (hilt/mask) takes 5 damage.
+You lose 4 hit points
+Round 3: fifthtoast wins the fight!
+You gain 8 Fortitude
+You gain 15 Enchantedness
+You gain 6 Chutzpah
+
+[1532] Ninja Snowmen
+Encounter: Black Ops Bugbear
+Round 0: fifthtoast loses initiative!
+Round 1: black ops bugbear takes 3 damage.
+Round 1: black ops bugbear takes 7 damage.
+Round 1: black ops bugbear takes 3 damage.
+You lose 23 hit points
+Round 1: fifthtoast summons Bufferhams the Undead Elbow Macaroni!
+Round 2: You focus your thoughts and call out to Bufferhams.  He claws his way up from beneath the ground at your feet.
+Round 2: cocopuf coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mana Points
+Round 2: Bufferhams bites your opponent for 9 damage.
+Round 2: black ops bugbear takes 9 damage.
+Round 2: black ops bugbear takes 2 damage.
+Round 2: Bufferhams glares at your opponent with malice in his beady, starchy, undead little eyes.
+Round 2: black ops bugbear takes 14 damage.
+Round 2: black ops bugbear takes 3 damage.
+You lose 26 hit points
+Round 2: fifthtoast uses the big boom and uses the beer bomb!
+Round 3: black ops bugbear takes 69 damage.
+Round 3: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 115 Meat.
+Round 3: Bufferhams bites your opponent for 14 damage.
+Round 3: black ops bugbear takes 14 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your key-o-tron emits 1 short tone, indicating that it has successfully processed biometric data from this subject.
+You acquire an item: BURT
+You gain 9 Beefiness
+You gain 14 Mysteriousness
+You gain 9 Smarm
+
+[1533] Ninja Snowmen
+Encounter: Black Ops Bugbear
+Round 0: fifthtoast loses initiative!
+Round 1: black ops bugbear takes 2 damage.
+Round 1: black ops bugbear takes 8 damage.
+Round 1: black ops bugbear takes 4 damage.
+You lose 23 hit points
+Adjusted combat item count: beer bomb
+Round 1: fifthtoast uses the bubbly potion and uses the beer bomb!
+Round 2: black ops bugbear drops 3 attack power.
+Round 2: black ops bugbear drops 3 defense.
+Round 2: black ops bugbear takes 48 damage.
+Round 2: black ops bugbear takes 1 damage.
+Round 2: black ops bugbear takes 4 damage.
+Round 2: black ops bugbear takes 3 damage.
+You lose 22 hit points
+Round 2: fifthtoast casts CANNELLONI CANNON!
+Round 3: black ops bugbear takes 25 damage.
+Round 3: cocopuf coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 59 hit points
+You gain 59 Mana Points
+Round 3: fifthtoast casts CANNELLONI CANNON!
+Round 4: black ops bugbear takes 62 damage.
+Round 4: fifthtoast wins the fight!
+After Battle: Your key-o-tron emits 2 short tones, indicating that it has successfully processed biometric data from this subject.
+You acquire an item: BURT
+You gain 7 Strengthliness
+You gain 16 Mysteriousness
+You gain 8 Smarm
+
+[1534] Ninja Snowmen
+Encounter: Black Ops Bugbear
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: black ops bugbear takes 3 damage.
+Round 2: black ops bugbear takes 3 damage.
+Round 2: black ops bugbear takes 2 damage.
+Round 2: black ops bugbear takes 3 damage.
+You lose 24 hit points
+Round 2: fifthtoast casts ENTANGLING NOODLES!
+Round 3: black ops bugbear takes 3 damage.
+Round 3: black ops bugbear takes 3 damage.
+Round 3: black ops bugbear takes 3 damage.
+You lose 25 hit points
+Round 3: fifthtoast uses the bubbly potion and uses the beer bomb!
+Round 4: black ops bugbear drops 2 attack power.
+Round 4: black ops bugbear drops 2 defense.
+Round 4: black ops bugbear takes 46 damage.
+Round 4: cocopuf's bells jingle merrily.
+Round 4: cocopuf coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mana Points
+Round 4: black ops bugbear takes 3 damage.
+Round 4: black ops bugbear takes 2 damage.
+Round 4: black ops bugbear takes 3 damage.
+You lose 23 hit points
+Round 4: fifthtoast casts CANNELLONI CANNON!
+Round 5: black ops bugbear takes 30 damage.
+Round 5: cocopuf's bells jingle merrily.
+Round 5: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 133 Meat.
+Round 5: black ops bugbear takes 2 damage.
+Round 5: black ops bugbear takes 8 damage.
+Round 5: black ops bugbear takes 4 damage.
+You lose 22 hit points
+Round 5: fifthtoast wins the fight!
+After Battle: Your key-o-tron emits 3 short tones, indicating that it has successfully processed biometric data from this subject.
+You acquire an item: BURT
+You gain 9 Strengthliness
+You gain 13 Mysteriousness
+You gain 10 Roguishness
+
+cast 1 Cannelloni Cocoon
+You gain 62 hit points
+
+place.php?whichplace=bugbearship_outside
+place.php?whichplace=bugbearship
+
+[1535] Waste Processing
+Encounter: grouchy furry monster
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: grouchy furry monster takes 4 damage.
+Round 2: fifthtoast uses the bubbly potion and uses the beer bomb!
+Round 3: grouchy furry monster drops 2 attack power.
+Round 3: grouchy furry monster drops 2 defense.
+Round 3: grouchy furry monster takes 72 damage.
+Round 3: fifthtoast wins the fight!
+You lose 380 hit points
+You gain 3 Beefiness
+You gain 3 Mysteriousness
+You gain 2 Cheek
+
+[1536] Greater-Than Sign
+Encounter: lowercase H
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: lowercase h takes 4 damage.
+Round 2: lowercase h takes 1 damage.
+Round 2: lowercase h takes 9 damage.
+Round 2: lowercase h takes 4 damage.
+You lose 17 hit points
+
+[1537] Haiku Dungeon
+Encounter: ancient insane monk
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: ancient insane monk takes 3 damage.
+Round 2: fifthtoast attacks!
+Round 3: ancient insane monk takes 47 damage.
+Round 3: Stars in the night sky / too many to be counted / like your pet's attack.
+Round 3: ancient insane monk takes 27 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: Bash-&#332;s cereal
+You gain 2 Strongness
+You gain 4 Magicalness
+You gain 1 Roguishness
+
+[1538] Haiku Dungeon
+Encounter: ferocious bugbear
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: ferocious bugbear takes 3 damage.
+Round 2: fifthtoast casts CANNELLONI CANNON!
+Round 3: ferocious bugbear takes 32 damage.
+Round 3: fifthtoast wins the fight!
+You gain 18 Meat
+You gain 2 Strongness
+You gain 3 Magicalness
+You gain a Mysticality point!
+You gain 2 Roguishness
+
+[1539] Haiku Dungeon
+Encounter: gelatinous cube
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: gelatinous cube takes 3 damage.
+Round 2: fifthtoast attacks!
+Round 3: gelatinous cube takes 45 damage.
+Round 3: fifthtoast wins the fight!
+You gain 25 Meat
+You gain 2 Strongness
+You gain 4 Magicalness
+You gain 1 Roguishness
+
+[1540] Greater-Than Sign
+Encounter: lowercase B
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: lowercase b takes 3 damage.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 267 Meat.
+Round 2: lowercase b takes 2 damage.
+Round 2: lowercase b takes 6 damage.
+Round 2: lowercase b takes 5 damage.
+You lose 3 hit points
+Round 2: fifthtoast casts CANNELLONI CANNON!
+Round 3: lowercase b takes 36 damage.
+Round 3: lowercase b takes 3 damage.
+Round 3: lowercase b takes 10 damage.
+Round 3: lowercase b takes 3 damage.
+You lose 3 hit points
+Round 3: fifthtoast attacks!
+Round 4: lowercase b takes 25 damage.
+Round 4: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 4: lowercase b drops 8 attack power.
+Round 4: lowercase b drops 8 defense.
+Round 4: fifthtoast wins the fight!
+You acquire an item: left parenthesis
+You gain 4 Strengthliness
+You gain 9 Mysteriousness
+You gain 8 Smarm

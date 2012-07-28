@@ -265,7 +265,7 @@ biodataMorgue=6
 biodataNavigation=0
 biodataScienceLab=6
 biodataSonar=3
-biodataSpecialOps=0
+biodataSpecialOps=3
 biodataWasteProcessing=3
 birdformCold=0
 birdformHot=0
@@ -756,7 +756,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Sleazy Back Alley
+lastAdventure=Greater-Than Sign
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -820,7 +820,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=3
-lastEncounter=hung-over half-orc hobo
+lastEncounter=lowercase B
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -932,9 +932,9 @@ olfactedMonster=wabbit
 oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
-pastamancerGhostExperience=49
+pastamancerGhostExperience=51
 pastamancerGhostName=Bufferhams
-pastamancerGhostSummons=0
+pastamancerGhostSummons=2
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
@@ -1062,7 +1062,7 @@ spookyPuttyMonster=something <i>totally</i> unrecognizable
 stationaryButton1=3020
 stationaryButton2=3003
 stationaryButton3=3005
-stationaryButton4
+stationaryButton4=3009
 stationaryButton5
 styxPixieVisited=false
 sugarCounter4178=0
