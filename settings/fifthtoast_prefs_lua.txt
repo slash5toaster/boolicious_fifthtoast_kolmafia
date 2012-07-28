@@ -1112,6 +1112,7 @@ unknownRecipe5069=true
 unknownRecipe5070=true
 unknownRecipe5072=true
 unknownRecipe5073=true
+unknownRecipe5670=true
 unknownRecipe5671=true
 usable1HWeapons=3
 usable1xAccs=1
