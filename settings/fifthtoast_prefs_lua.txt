@@ -773,13 +773,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=9
+lastBreakfast=10
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=9
-lastCounterDay=9
+lastCounterDay=10
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -934,7 +934,7 @@ outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=51
 pastamancerGhostName=Bufferhams
-pastamancerGhostSummons=2
+pastamancerGhostSummons=0
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
