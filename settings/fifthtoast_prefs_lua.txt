@@ -43,7 +43,7 @@ _bagOfCandy=false
 _bagOfCandyUsed=false
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=true
+_ballpit=false
 _banderRunaways=0
 _beerLensDrops=0
 _benettonsCasts=0
@@ -671,7 +671,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=15
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -679,7 +679,7 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=1
+currentSpleenUse=0
 currentWheelPosition=muscle
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -773,13 +773,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=10
+lastBreakfast=11
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=10
-lastCounterDay=10
+lastCounterDay=11
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -934,7 +934,7 @@ outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=53
 pastamancerGhostName=Bufferhams
-pastamancerGhostSummons=2
+pastamancerGhostSummons=0
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
@@ -991,7 +991,7 @@ questM04Galaktic=finished
 questM05Toot=unstarted
 questM06Gourd=finished
 questM07Hammer=finished
-questM08Baker=started
+questM08Baker=finished
 questM09Rocks=finished
 questM10Azazel=finished
 questM11Postal=unstarted
