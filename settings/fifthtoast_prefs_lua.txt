@@ -16,7 +16,7 @@ FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
 KoLDesktop=947,118,-1
-LoginFrame=725,305,0
+LoginFrame=711,305,0
 MailboxFrame=289,310,1
 MaximizerFrame=837,239
 MeatManageFrame=475,375
@@ -779,7 +779,7 @@ lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=10
-lastCounterDay=11
+lastCounterDay=12
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -1011,7 +1011,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=1721\:Semirare window begin loc\=*\:lparen.gif\:1761\:Semirare window end loc\=*\:rparen.gif
+relayCounters=1761\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
