@@ -1,11 +1,11 @@
-AdventureFrame=484,215,1
+AdventureFrame=1123,385,1
 CoinmastersFrame=593,404,-1
 ContactListFrame=2663,343
 CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=1985,156,-1
-LoginFrame=2278,153,0
+KoLDesktop=280,224,-1
+LoginFrame=2465,340,0
 MaximizerFrame=972,383
 ProfileFrame=2662,409,-1
 RequestFrame=-4,-4,-1
@@ -249,7 +249,7 @@ bootsCharged=false
 borisPoints=0
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=false
+breakfastCompleted=true
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
@@ -725,28 +725,28 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Outskirts of The Knob
+lastAdventure=None
 lastArcadeAscension=-1
 lastBadMoonReset=-1
-lastBangPotion819
-lastBangPotion820
-lastBangPotion821
-lastBangPotion822
-lastBangPotion823
-lastBangPotion824
-lastBangPotion825
-lastBangPotion826
-lastBangPotion827
+lastBangPotion819=ettin strength
+lastBangPotion820=inebriety
+lastBangPotion821=confusion
+lastBangPotion822=healing
+lastBangPotion823=detection
+lastBangPotion824=teleportitis
+lastBangPotion825=mental acuity
+lastBangPotion826=blessing
+lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=11
+lastBreakfast=15
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=9
-lastCounterDay=11
+lastCounterDay=15
 lastDispensaryOpen=3
 lastDoorCodeReset=0
 lastDustyBottle2271=0
@@ -787,12 +787,12 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=3
-lastEncounter=Knob Goblin Assistant Chef
+lastEncounter=The Infiltrationist
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
 lastGalleryUnlock=0
-lastGuildStoreOpen=3
+lastGuildStoreOpen=0
 lastGuyMadeOfBeesReset=3
 lastHermitReset=1
 lastHiddenCityAscension=1
@@ -814,15 +814,15 @@ lastPaperStrip4143=dangly\:CAD\:sinusoidal
 lastPaperStrip4144=careful\:CTHON\:funny
 lastPaperStripReset=0
 lastPastamancerGhostReset=3
-lastPirateEphemera=pirate tract
-lastPirateEphemeraReset=2
+lastPirateEphemera=pirate pamphlet
+lastPirateEphemeraReset=3
 lastPirateInsult1=false
 lastPirateInsult2=false
 lastPirateInsult3=false
-lastPirateInsult4=false
+lastPirateInsult4=true
 lastPirateInsult5=false
 lastPirateInsult6=false
-lastPirateInsult7=false
+lastPirateInsult7=true
 lastPirateInsult8=false
 lastPirateInsultReset=3
 lastPorkoBoard
@@ -861,7 +861,7 @@ lastTowerClimb=-1
 lastTr4pz0rQuest=1
 lastVioletFogMap=3
 lastWuTangDefeated=-1
-lastZapperWand=2
+lastZapperWand=3
 libramSummons=0
 libraryCardUsed=false
 louvreDesiredGoal=7
@@ -890,7 +890,7 @@ mpAutoRecovery=0.0
 mpAutoRecoveryItems=sleep on your clan sofa;visit the nuns;oscus's neverending soda;monstar energy beverage;carbonated soy milk;carbonated water lily;blue pixel potion;cotton candy bale;bottle of monsieur bubble;ancient magi-wipes;unrefined mountain stream syrup;phonics down;elven magi-pack;generic mana potion;tonic water;palm-frond fan;honey-dipped locust;marquis de poivre soda;green pixel potion;blue polka-dot oyster egg;blue striped oyster egg;knob goblin superseltzer;blatantly canadian;tiny house;cloaca-cola;cotton candy pinch;sugar shard;mountain stream soda;magical mystery juice;black cherry soda;knob goblin seltzer;cherry cloaca cola;soda water
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
-noodleSummons=1
+noodleSummons=3
 nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=plinth
@@ -940,9 +940,9 @@ questL04Bat=finished
 questL05Goblin=finished
 questL06Friar=finished
 questL07Cyrptic=finished
-questL08Trapper=started
+questL08Trapper=finished
 questL09Lol=finished
-questL10Garbage=started
+questL10Garbage=finished
 questL11MacGuffin=unstarted
 questL11Manor=unstarted
 questL11Palindome=unstarted
@@ -952,7 +952,7 @@ questL12War=unstarted
 questL13Final=unstarted
 questM01Untinker=finished
 questM02Artist=finished
-questM03Bugbear=started
+questM03Bugbear=step1
 questM04Galaktic=finished
 questM05Toot=unstarted
 questM06Gourd=finished
@@ -961,7 +961,7 @@ questM08Baker=finished
 questM09Rocks=finished
 questM10Azazel=finished
 questM11Postal=unstarted
-questM12Pirate=unstarted
+questM12Pirate=step2
 questM13Escape=finished
 questM14Bounty=unstarted
 questS01OldGuy=unstarted
@@ -1027,7 +1027,7 @@ spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
 stationaryButton1=3020
 stationaryButton2=3003
-stationaryButton3
+stationaryButton3=3005
 stationaryButton4
 stationaryButton5
 styxPixieVisited=false
