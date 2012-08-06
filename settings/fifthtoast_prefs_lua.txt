@@ -1,5 +1,5 @@
 =4
-AdventureFrame=269,306,1
+AdventureFrame=729,333,1
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=424,348
@@ -670,7 +670,7 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=0
+currentBountyItem=2408
 currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
@@ -756,7 +756,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Barrrney's Barrr
+lastAdventure=Dungeons of Doom
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -773,13 +773,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=0
+lastBreakfast=1
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=10
-lastCounterDay=0
+lastCounterDay=1
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -820,7 +820,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=3
-lastEncounter=tetchy pirate
+lastEncounter=bugaboo
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
