@@ -136,3 +136,1374 @@ You acquire an item: Trivial Avocations Card: Where?
 You acquire an item: Trivial Avocations Card: What?
 
 use 1 creepy voodoo doll
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+August 6, 2012 - Starch 3
+
+Ronald: first quarter
+Grimace: waxing crescent
+Mini-moon: far right
+
+St. Sneaky Pete's Day: today
+Oyster Egg Day: 7 days
+El Dia De Los Muertos Borrachos: 15 days
+Generic Summer Holiday: 24 days
+Dependence Day: 33 days
+Arrrbor Day: 41 days
+Lab&oacute;r Day: 51 days
+Halloween: 61 days
+Feast of Boris: 68 days
+Yuletide: 73 days
+Festival of Jarlsberg: 78 days
+Valentine's Day: 89 days
+
+St. Sneaky Pete's Day
+2 days until Mysticism.
+
+
+ > status
+
+Name: fifthtoast
+Class: Pastamancer
+
+Lv: 10
+HP: 73 / 73
+MP: 198 / 198
+
+Mus: 37 (73), tnp = 85
+Mys: 95 (100), tnp = 75
+Mox: 50 (72), tnp = 11
+
+Advs: 200
+Meat: 58,049
+
+Full: 0 / 15
+Drunk: 0 / 19
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: eyepatch
+Weapon: Pasta of Peril
+Off-hand: Glass Balls of the Goblin King
+Shirt: (none)
+Pants: swashbuckling pants
+
+Acc. 1: gearbox necklace
+Acc. 2: blackberry slippers
+Acc. 3: stuffed shoulder parrot
+
+Pet: Cocoabo (25 lbs)
+Item: annoying pitchfork
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+
+Pastamancer
+ - Cannelloni Cannon
+ - Cannelloni Cocoon
+ - Entangling Noodles
+ - Lasagna Bandages
+ - Manicotti Meditation
+ - Pastamastery
+ - Ravioli Shurikens
+ - Spaghetti Spear
+ - Spirit of Rigatoni
+ - Springy Fusilli
+
+Disco Bandit
+ - Ambidextrous Funkslinging
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Somewhat Poisoned (6)
+Teleportitis (7)
+Springy Fusilli (39)
+♫ Aloysius' Antiphon of Aptitude (71)
+♫ Stevedave's Shanty of Superiority (71)
+♫ Cringle's Curative Carol (71)
+Scarysauce (446)
+Ghostly Shell (446)
+Tenacity of the Snapper (446)
+Jingle Jangle Jingle (446)
+Elemental Saucesphere (446)
+Astral Shell (446)
+Reptilian Fortitude (446)
+Jabañero Saucesphere (446)
+Jalapeño Saucesphere (446)
+Empathy (446)
+
+
+ > modifiers
+
+ML: +5
+Enc: +0.00%
+Init: +55.00%
+
+Exp: +1.62
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+use 1 creepy voodoo doll
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 5 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (5)
+You spent 250 Meat
+
+add to closet: 1 worthless gewgaw
+
+use 3 chewing gum on a string
+You acquire an item: worthless knick-knack
+You acquire an item: worthless gewgaw
+You acquire an item: worthless trinket
+
+add to closet: 1 worthless trinket
+
+add to closet: 1 worthless gewgaw
+
+add to closet: 1 worthless knick-knack
+
+use 2 chewing gum on a string
+You acquire an item: worthless trinket
+You acquire an item: worthless knick-knack
+
+take from closet: 1 worthless trinket
+You acquire an item: worthless trinket
+
+take from closet: 2 worthless gewgaw
+You acquire worthless gewgaw (2)
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 6 worthless items for 6 ten-leaf clovers
+You acquire ten-leaf clover (6)
+
+Use 6 ten-leaf clover
+You acquire disassembled clover (6)
+
+cast 3 Pastamastery
+You acquire dry noodles (3)
+
+use 1 anti-anti-antidote
+
+[1900] Barrrney's Barrr
+Encounter: angry bugbear
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: angry bugbear takes 10 damage.
+Round 2: fifthtoast attacks!
+Round 3: angry bugbear takes 75 damage.
+Round 3: fifthtoast wins the fight!
+You gain 3 Muscleboundness
+You gain 4 Enchantedness
+You gain 2 Roguishness
+
+[1901] Bugbear Pens
+Encounter: hypodermic bugbear
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: hypodermic bugbear takes 9 damage.
+Round 2: fifthtoast attacks!
+Round 3: hypodermic bugbear takes 84 damage.
+Round 3: cocopuf paws at the ground for a second, and then charges your opponent, bashing her for 52 damage. LIMIT BREAK!
+Round 3: hypodermic bugbear takes 52 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: BURT
+You gain 1 Strengthliness
+You gain 5 Magicalness
+You gain 1 Sarcasm
+
+[1902] Medbay
+Encounter: raging bull
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: raging bull takes 10 damage.
+Round 2: fifthtoast attacks!
+Round 3: raging bull takes 71 damage.
+Round 3: cocopuf's bells jingle merrily.
+Round 3: cocopuf coos softly, and nuzzles you with his beak.
+You gain 31 hit points
+You gain 31 Mana Points
+Round 3: fifthtoast wins the fight!
+You gain 28 Meat
+You acquire an item: can of Red Minotaur
+You gain 2 Strongness
+You gain 8 Wizardliness
+You gain 2 Cheek
+
+uneffect Teleportitis
+
+cast 1 Springy Fusilli
+You acquire an effect: Springy Fusilli (duration: 10 Adventures)
+choice.php?forceoption=0
+
+[1903] Barrrney's Barrr
+Encounter: Arrr You Man Enough?
+Took choice 187/2: Try later
+choice.php?pwd&whichchoice=187&option=2
+choice.php?forceoption=0
+
+[1903] Barrrney's Barrr
+Encounter: Yes, You're a Rock Starrr
+Took choice 185/2: mixed booze
+choice.php?pwd&whichchoice=185&option=2
+You acquire an item: spiced rum
+You acquire an item: redrum
+choice.php?forceoption=0
+
+[1904] Barrrney's Barrr
+Encounter: Yes, You're a Rock Starrr
+Took choice 185/1: base booze
+choice.php?pwd&whichchoice=185&option=1
+You acquire an item: bottle of rum
+You acquire an item: bottle of gin
+You acquire an item: bottle of whiskey
+You acquire an item: bottle of gin
+
+[1905] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: tetchy pirate takes 14 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: tetchy pirate takes 1 damage.
+Round 3: tetchy pirate takes 4 damage.
+Round 3: tetchy pirate takes 5 damage.
+You lose 8 hit points
+Round 3: fifthtoast attacks!
+Round 4: tetchy pirate takes 17 damage.
+Round 4: cocopuf's bells jingle merrily.
+Round 4: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 28 damage.
+Round 4: tetchy pirate takes 28 damage.
+Round 4: tetchy pirate takes 1 damage.
+Round 4: tetchy pirate takes 3 damage.
+Round 4: tetchy pirate takes 3 damage.
+You lose 16 hit points
+Round 4: fifthtoast wins the fight!
+You gain 37 Meat
+You acquire an item: bottle of rum
+You gain 5 Fortitude
+You gain 13 Magicalness
+You gain 9 Sarcasm
+You gain a Moxie point!
+
+[1906] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: tetchy pirate takes 9 damage.
+Round 2: cocopuf coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 57 hit points
+You gain 57 Mana Points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: tetchy pirate takes 1 damage.
+Round 3: tetchy pirate takes 8 damage.
+Round 3: tetchy pirate takes 4 damage.
+You lose 8 hit points
+Round 3: fifthtoast casts RAVIOLI SHURIKENS!
+Round 4: tetchy pirate takes 35 damage.
+Round 4: cocopuf's bells jingle merrily.
+Round 4: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 4: tetchy pirate drops 8 attack power.
+Round 4: tetchy pirate drops 8 defense.
+Round 4: tetchy pirate takes 1 damage.
+Round 4: tetchy pirate takes 10 damage.
+Round 4: tetchy pirate takes 4 damage.
+You lose 10 hit points
+Round 4: fifthtoast casts CANNELLONI CANNON!
+Round 5: tetchy pirate takes 49 damage.
+Round 5: fifthtoast wins the fight!
+You gain 39 Meat
+You gain 10 Beefiness
+You gain 9 Wizardliness
+You gain 7 Smarm
+choice.php?forceoption=0
+
+[1907] Barrrney's Barrr
+Encounter: That Explains All The Eyepatches
+Took choice 184/2: shot of rotgut (varies by class)
+choice.php?pwd&whichchoice=184&option=2
+You acquire an item: shot of rotgut
+
+[1908] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: tetchy pirate takes 10 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 3: tetchy pirate drops 8 attack power.
+Round 3: tetchy pirate drops 8 defense.
+Round 3: fifthtoast casts RAVIOLI SHURIKENS!
+Round 4: tetchy pirate takes 32 damage.
+Round 4: tetchy pirate takes 1 damage.
+Round 4: tetchy pirate takes 2 damage.
+Round 4: tetchy pirate takes 5 damage.
+You lose 13 hit points
+Round 4: fifthtoast casts CANNELLONI CANNON!
+Round 5: tetchy pirate takes 53 damage.
+Round 5: fifthtoast wins the fight!
+You gain 45 Meat
+You gain 4 Muscleboundness
+You gain 16 Magicalness
+You gain 8 Cheek
+
+[1909] Barrrney's Barrr
+Encounter: toothy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: toothy pirate takes 10 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+Round 3: toothy pirate drops 10 attack power.
+Round 3: toothy pirate drops 10 defense.
+Round 3: fifthtoast casts RAVIOLI SHURIKENS!
+Round 4: toothy pirate takes 29 damage.
+Round 4: fifthtoast casts CANNELLONI CANNON!
+Round 5: toothy pirate takes 58 damage.
+Round 5: fifthtoast wins the fight!
+You gain 52 Meat
+You gain 5 Strengthliness
+You gain 15 Enchantedness
+You gain 7 Sarcasm
+choice.php?forceoption=0
+
+[1910] Barrrney's Barrr
+Encounter: A Test of Testarrrsterone
+Took choice 186/1: stats
+choice.php?pwd&whichchoice=186&option=1
+You gain 70 Muscleboundness
+You gain a Muscle point!
+You gain 86 Enchantedness
+You gain a Mysticality point!
+You gain 72 Smarm
+
+[1911] Barrrney's Barrr
+Encounter: tipsy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: tipsy pirate takes 10 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 3: tipsy pirate drops 9 attack power.
+Round 3: tipsy pirate drops 9 defense.
+Round 3: fifthtoast casts RAVIOLI SHURIKENS!
+Round 4: tipsy pirate takes 34 damage.
+Round 4: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 4: tipsy pirate drops 9 attack power.
+Round 4: tipsy pirate drops 9 defense.
+Round 4: fifthtoast casts CANNELLONI CANNON!
+Round 5: tipsy pirate takes 53 damage.
+Round 5: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 86 Meat.
+Round 5: fifthtoast wins the fight!
+You gain 42 Meat
+You acquire an item: bottle of rum
+You gain 7 Beefiness
+You gain 11 Mysteriousness
+You gain 7 Smarm
+
+[1912] Barrrney's Barrr
+Encounter: toothy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: toothy pirate takes 10 damage.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 105 Meat.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: fifthtoast casts RAVIOLI SHURIKENS!
+Round 4: toothy pirate takes 32 damage.
+Round 4: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 4: toothy pirate drops 9 attack power.
+Round 4: toothy pirate drops 9 defense.
+Round 4: toothy pirate takes 2 damage.
+Round 4: toothy pirate takes 7 damage.
+Round 4: toothy pirate takes 4 damage.
+You lose 10 hit points
+Round 4: fifthtoast casts CANNELLONI CANNON!
+Round 5: toothy pirate takes 57 damage.
+Round 5: fifthtoast wins the fight!
+You gain 40 Meat
+You gain 9 Strengthliness
+You gain 11 Enchantedness
+You gain 7 Sarcasm
+choice.php?forceoption=0
+
+[1913] Barrrney's Barrr
+Encounter: Arrr You Man Enough?
+Took choice 187/1: 7.14% chance of winning
+choice.php?pwd&whichchoice=187&option=1
+Insult: Suck on <i>this</i>, ye miserable, pestilent wretch!
+Retort: I'd've thought yellow would be more your color.
+
+Visiting Mr. Store
+
+cast 1 Springy Fusilli
+You acquire an effect: Springy Fusilli (duration: 10 Adventures)
+
+Visiting the Bounty Hunter Hunter
+
+[1914] Dungeons of Doom
+Encounter: swarm of killer bees
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: swarm of killer bees takes 9 damage.
+Round 2: cocopuf's bells jingle merrily.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 115 Meat.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: swarm of killer bees takes 10 damage.
+Round 3: cocopuf coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 59 hit points
+You gain 59 Mana Points
+Round 3: fifthtoast attacks!
+Round 4: swarm of killer bees takes 38 damage.
+Round 4: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 237 Meat.
+Round 4: fifthtoast attacks!
+Round 5: swarm of killer bees takes 38 damage.
+Round 5: cocopuf squawks loudly and runs in a circle around your opponent.  They look a little bit confused.
+Round 5: swarm of killer bees drops 9 attack power.
+Round 5: swarm of killer bees drops 9 defense.
+Round 5: fifthtoast wins the fight!
+You gain 5 Fortitude
+You gain 9 Wizardliness
+You gain 6 Roguishness
+
+[1915] Dungeons of Doom
+Encounter: acid blob
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: acid blob takes 9 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: acid blob takes 10 damage.
+Round 3: fifthtoast attacks!
+Round 4: acid blob takes 39 damage.
+Round 4: cocopuf's bells jingle merrily.
+Round 4: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 109 Meat.
+Round 4: fifthtoast attacks!
+Round 5: acid blob takes 41 damage.
+Round 5: fifthtoast wins the fight!
+You gain 2 Beefiness
+You gain 13 Magicalness
+You gain 5 Smarm
+
+[1916] Dungeons of Doom
+Encounter: acid blob
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: acid blob takes 9 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: acid blob takes 9 damage.
+Round 3: fifthtoast attacks!
+Round 4: acid blob takes 42 damage.
+Round 4: cocopuf's bells jingle merrily.
+Round 4: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 4: acid blob drops 9 attack power.
+Round 4: acid blob drops 9 defense.
+Round 4: fifthtoast attacks!
+Round 5: acid blob takes 49 damage.
+You acquire an effect: Corroded Weapon (duration: 5 Adventures)
+Round 5: fifthtoast wins the fight!
+You gain 3 Beefiness
+You gain 16 Magicalness
+You gain 2 Cheek
+
+[1917] Dungeons of Doom
+Encounter: acid blob
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: acid blob takes 9 damage.
+Round 2: cocopuf coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mana Points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: acid blob takes 10 damage.
+Round 3: acid blob takes 3 damage.
+Round 3: acid blob takes 9 damage.
+Round 3: acid blob takes 4 damage.
+You lose 2 hit points
+Round 3: fifthtoast attacks!
+Round 4: acid blob takes 35 damage.
+Round 4: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 4: acid blob drops 8 attack power.
+Round 4: acid blob drops 8 defense.
+Round 4: fifthtoast attacks!
+Round 5: acid blob takes 44 damage.
+Round 5: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 96 Meat.
+Round 5: fifthtoast wins the fight!
+You gain 5 Strengthliness
+You gain 11 Magicalness
+You gain 4 Roguishness
+
+[1918] Dungeons of Doom
+Encounter: swarm of killer bees
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: swarm of killer bees takes 10 damage.
+Round 2: cocopuf's bells jingle merrily.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing them for 27 damage.
+Round 2: swarm of killer bees takes 27 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: swarm of killer bees takes 10 damage.
+Round 3: cocopuf paws at the ground for a second, and then charges your opponent, bashing them for 52 damage. LIMIT BREAK!
+Round 3: swarm of killer bees takes 52 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: royal jelly
+You gain 9 Muscleboundness
+You gain 5 Mysteriousness
+You gain 6 Roguishness
+
+[1919] Dungeons of Doom
+Encounter: Ouch!  You bump into a door!
+Took choice 25/2: dead mimic
+choice.php?whichchoice=25&option=2&pwd
+Encounter: mimic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: mimic takes 9 damage.
+Round 3: cocopuf's bells jingle merrily.
+Round 3: cocopuf coos softly, and nuzzles you with his beak.
+You gain 31 hit points
+You gain 31 Mana Points
+Round 3: fifthtoast attacks!
+Round 4: mimic takes 48 damage.
+Round 4: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 27 damage.
+Round 4: mimic takes 27 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: dead mimic
+You gain 6 Beefiness
+You gain 5 Mysteriousness
+You gain 6 Cheek
+
+[1920] Dungeons of Doom
+Encounter: mind flayer
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: mind flayer takes 9 damage.
+Round 2: cocopuf coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mana Points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: mind flayer takes 9 damage.
+Round 3: fifthtoast attacks!
+Round 4: mind flayer takes 33 damage.
+Round 4: fifthtoast attacks!
+Round 5: mind flayer takes 36 damage.
+Round 5: cocopuf coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mana Points
+Round 5: fifthtoast wins the fight!
+You acquire an item: cornuthaum
+You gain 3 Beefiness
+You gain 8 Enchantedness
+You gain 8 Cheek
+You gain a Moxie point!
+
+[1921] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: quantum mechanic takes 9 damage.
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused. LIMIT BREAK!
+Round 2: quantum mechanic drops 17 attack power.
+Round 2: quantum mechanic drops 17 defense.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: quantum mechanic takes 14 damage.
+Round 3: fifthtoast attacks!
+You lose 4 hit points
+Round 4: cocopuf's bells jingle merrily.
+Round 4: cocopuf coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 61 hit points
+You gain 61 Mana Points
+Round 4: fifthtoast attacks!
+Round 5: quantum mechanic takes 52 damage.
+Round 5: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 28 damage.
+Round 5: quantum mechanic takes 28 damage.
+Round 5: fifthtoast wins the fight!
+You gain 5 Strengthliness
+You gain 10 Magicalness
+You gain 6 Roguishness
+
+[1922] Dungeons of Doom
+Encounter: acid blob
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: acid blob takes 10 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: acid blob takes 14 damage.
+Round 3: fifthtoast attacks!
+Round 4: acid blob takes 42 damage.
+You acquire an effect: Corroded Weapon (duration: 5 Adventures)
+Round 4: cocopuf's bells jingle merrily.
+Round 4: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 4: acid blob drops 8 attack power.
+Round 4: acid blob drops 8 defense.
+Round 4: fifthtoast attacks!
+Round 5: acid blob takes 40 damage.
+Round 5: fifthtoast wins the fight!
+You gain 3 Fortitude
+You gain 13 Enchantedness
+You gain 4 Cheek
+
+[1923] Dungeons of Doom
+Encounter: The Return of the Dishwasher
+You gain 24 Mysteriousness
+You gain a Mysticality point!
+
+[1924] Dungeons of Doom
+Encounter: The Return of the Dishwasher
+You gain 24 Magicalness
+
+[1925] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: quantum mechanic takes 9 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: quantum mechanic takes 9 damage.
+Round 3: cocopuf's bells jingle merrily.
+Round 3: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 26 damage.
+Round 3: quantum mechanic takes 26 damage.
+Round 3: fifthtoast attacks!
+Round 4: quantum mechanic takes 33 damage.
+Round 4: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 26 damage.
+Round 4: quantum mechanic takes 26 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: large box
+You gain 9 Strengthliness
+You gain 9 Enchantedness
+You gain 2 Chutzpah
+
+[1926] Dungeons of Doom
+Encounter: large kobold
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: large kobold takes 9 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: large kobold takes 14 damage.
+Round 3: fifthtoast attacks!
+Round 4: large kobold takes 38 damage.
+Round 4: cocopuf's bells jingle merrily.
+Round 4: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 4: large kobold drops 8 attack power.
+Round 4: large kobold drops 8 defense.
+Round 4: fifthtoast attacks!
+Round 5: large kobold takes 45 damage.
+Round 5: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 54 damage. LIMIT BREAK!
+Round 5: large kobold takes 54 damage.
+Round 5: fifthtoast wins the fight!
+You acquire an item: worthless piece of yellow glass
+You gain 9 Fortitude
+You gain 7 Magicalness
+You gain 4 Roguishness
+
+[1927] Dungeons of Doom
+Encounter: swarm of killer bees
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: swarm of killer bees takes 9 damage.
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent.  They look a little bit confused.
+Round 2: swarm of killer bees drops 8 attack power.
+Round 2: swarm of killer bees drops 8 defense.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: swarm of killer bees takes 10 damage.
+Round 3: fifthtoast attacks!
+Round 4: swarm of killer bees takes 40 damage.
+Round 4: cocopuf paws at the ground for a second, and then charges your opponent, bashing them for 26 damage.
+Round 4: swarm of killer bees takes 26 damage.
+Round 4: fifthtoast wins the fight!
+You gain 3 Beefiness
+You gain 13 Magicalness
+You gain 5 Roguishness
+
+[1928] Dungeons of Doom
+Encounter: mind flayer
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: mind flayer takes 10 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: mind flayer takes 14 damage.
+Round 3: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 3: mind flayer drops 8 attack power.
+Round 3: mind flayer drops 8 defense.
+Round 3: fifthtoast attacks!
+Round 4: mind flayer takes 51 damage.
+Round 4: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 26 damage.
+Round 4: mind flayer takes 26 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: cornuthaum
+You gain 5 Beefiness
+You gain 9 Enchantedness
+You gain 6 Roguishness
+
+[1929] Dungeons of Doom
+Encounter: large kobold
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: large kobold takes 9 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: large kobold takes 12 damage.
+Round 3: fifthtoast attacks!
+Round 4: large kobold takes 43 damage.
+Round 4: fifthtoast attacks!
+Round 5: large kobold takes 42 damage.
+Round 5: fifthtoast wins the fight!
+You acquire an item: worthless piece of yellow glass
+You gain 6 Fortitude
+You gain 10 Mysteriousness
+You gain 4 Chutzpah
+
+[1930] Dungeons of Doom
+Encounter: The Hunger
+You gain 21 Chutzpah
+
+[1931] Dungeons of Doom
+Encounter: Ouch!  You bump into a door!
+Took choice 25/2: dead mimic
+choice.php?whichchoice=25&option=2&pwd
+Encounter: mimic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: mimic takes 10 damage.
+Round 3: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 26 damage.
+Round 3: mimic takes 26 damage.
+Round 3: fifthtoast attacks!
+Round 4: mimic takes 50 damage.
+Round 4: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 26 damage.
+Round 4: mimic takes 26 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: dead mimic
+You gain 4 Beefiness
+You gain 11 Mysteriousness
+You gain 2 Smarm
+
+[1932] Dungeons of Doom
+Encounter: A Dash of Boulder
+You gain 21 Strengthliness
+
+[1933] Dungeons of Doom
+Encounter: A Dash of Boulder
+You gain 21 Strengthliness
+You gain a Muscle point!
+
+[1934] Dungeons of Doom
+Encounter: A Dash of Boulder
+You gain 21 Strengthliness
+
+[1935] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: quantum mechanic takes 10 damage.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 125 Meat.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: quantum mechanic takes 10 damage.
+Round 3: fifthtoast attacks!
+Round 4: quantum mechanic takes 46 damage.
+Round 4: fifthtoast attacks!
+Round 5: quantum mechanic takes 56 damage.
+Round 5: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 183 Meat.
+Round 5: fifthtoast wins the fight!
+You gain 5 Strengthliness
+You gain 10 Magicalness
+You gain 5 Sarcasm
+
+[1936] Dungeons of Doom
+Encounter: acid blob
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: acid blob takes 10 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: acid blob takes 10 damage.
+Round 3: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused. LIMIT BREAK!
+Round 3: acid blob drops 18 attack power.
+Round 3: acid blob drops 18 defense.
+Round 3: fifthtoast attacks!
+Round 4: acid blob takes 62 damage.
+You acquire an effect: Corroded Weapon (duration: 5 Adventures)
+Round 4: fifthtoast wins the fight!
+You gain 5 Strongness
+You gain 10 Wizardliness
+You gain 5 Cheek
+
+[1937] Dungeons of Doom
+Encounter: The Hunger
+You gain 21 Roguishness
+
+[1938] Dungeons of Doom
+Encounter: The Hunger
+You gain 21 Chutzpah
+
+[1939] Dungeons of Doom
+Encounter: acid blob
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: acid blob takes 10 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: acid blob takes 9 damage.
+Round 3: cocopuf coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mana Points
+Round 3: fifthtoast attacks!
+Round 4: acid blob takes 34 damage.
+Round 4: cocopuf's bells jingle merrily.
+Round 4: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 54 damage. LIMIT BREAK!
+Round 4: acid blob takes 54 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: magic whistle
+You gain 6 Beefiness
+You gain 9 Wizardliness
+You gain 5 Roguishness
+
+[1940] Dungeons of Doom
+Encounter: acid blob
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: acid blob takes 10 damage.
+Round 2: cocopuf coos softly, and nuzzles you with his beak.
+You gain 32 hit points
+You gain 32 Mana Points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: acid blob takes 9 damage.
+Round 3: fifthtoast attacks!
+Round 4: acid blob takes 36 damage.
+Round 4: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 27 damage.
+Round 4: acid blob takes 27 damage.
+Round 4: fifthtoast wins the fight!
+You gain 6 Fortitude
+You gain 11 Magicalness
+You gain 3 Roguishness
+
+[1941] Dungeons of Doom
+Encounter: swarm of killer bees
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: swarm of killer bees takes 9 damage.
+Round 2: cocopuf's bells jingle merrily.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 112 Meat.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: swarm of killer bees takes 14 damage.
+Round 3: fifthtoast attacks!
+Round 4: swarm of killer bees takes 35 damage.
+Round 4: swarm of killer bees takes 2 damage.
+Round 4: swarm of killer bees takes 10 damage.
+Round 4: swarm of killer bees takes 4 damage.
+You lose 3 hit points
+Round 4: fifthtoast attacks!
+Round 5: swarm of killer bees takes 34 damage.
+Round 5: fifthtoast wins the fight!
+You gain 5 Muscleboundness
+You gain 11 Magicalness
+You gain 4 Cheek
+
+[1942] Dungeons of Doom
+Encounter: Ouch!  You bump into a door!
+Took choice 25/2: dead mimic
+choice.php?whichchoice=25&option=2&pwd
+Encounter: mimic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: mimic takes 10 damage.
+Round 3: cocopuf coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mana Points
+Round 3: fifthtoast attacks!
+Round 4: mimic takes 58 damage.
+Round 4: cocopuf coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 61 hit points
+You gain 61 Mana Points
+Round 4: fifthtoast wins the fight!
+You acquire an item: dead mimic
+You gain 3 Muscleboundness
+You gain 9 Magicalness
+You gain 4 Cheek
+
+[1943] Dungeons of Doom
+Encounter: mind flayer
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: mind flayer takes 10 damage.
+Round 2: cocopuf coos softly, and nuzzles you with his beak.
+You gain 31 hit points
+You gain 31 Mana Points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: mind flayer takes 9 damage.
+Round 3: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 3: mind flayer drops 9 attack power.
+Round 3: mind flayer drops 9 defense.
+Round 3: fifthtoast attacks!
+Round 4: mind flayer takes 44 damage.
+Round 4: fifthtoast attacks!
+Round 5: mind flayer takes 48 damage.
+Round 5: fifthtoast wins the fight!
+You gain 8 Fortitude
+You gain 8 Wizardliness
+You gain 4 Chutzpah
+
+[1944] Dungeons of Doom
+Encounter: large kobold
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: large kobold takes 10 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: large kobold takes 9 damage.
+Round 3: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 115 Meat.
+Round 3: fifthtoast attacks!
+Round 4: large kobold takes 48 damage.
+Round 4: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 268 Meat.
+Round 4: fifthtoast wins the fight!
+You acquire an item: ring of aggravate monster
+You acquire an item: small box
+You acquire an item: worthless piece of yellow glass
+You gain 7 Muscleboundness
+You gain 9 Magicalness
+You gain 4 Chutzpah
+
+[1945] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: quantum mechanic takes 14 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: quantum mechanic takes 10 damage.
+Round 3: cocopuf's bells jingle merrily.
+Round 3: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 3: quantum mechanic drops 9 attack power.
+Round 3: quantum mechanic drops 9 defense.
+Round 3: fifthtoast attacks!
+Round 4: quantum mechanic takes 49 damage.
+Round 4: fifthtoast attacks!
+You lose 3 hit points
+Round 5: cocopuf coos softly, and nuzzles you with his beak.
+You gain 31 hit points
+You gain 31 Mana Points
+Round 5: fifthtoast attacks!
+Round 6: quantum mechanic takes 53 damage.
+Round 6: fifthtoast wins the fight!
+You acquire an item: large box
+You gain 4 Muscleboundness
+You gain 11 Enchantedness
+You gain 6 Sarcasm
+
+[1946] Dungeons of Doom
+Encounter: The Return of the Dishwasher
+You gain 24 Wizardliness
+You gain a Mysticality point!
+
+[1947] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: quantum mechanic takes 10 damage.
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused. LIMIT BREAK!
+Round 2: quantum mechanic drops 18 attack power.
+Round 2: quantum mechanic drops 18 defense.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: quantum mechanic takes 9 damage.
+Round 3: fifthtoast attacks!
+You lose 2 hit points
+Round 4: cocopuf's bells jingle merrily.
+Round 4: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 27 damage.
+Round 4: quantum mechanic takes 27 damage.
+Round 4: fifthtoast attacks!
+Round 5: quantum mechanic takes 64 damage.
+Round 5: cocopuf's bells jingle merrily.
+Round 5: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused. LIMIT BREAK!
+Round 5: quantum mechanic drops 18 attack power.
+Round 5: quantum mechanic drops 18 defense.
+Round 5: fifthtoast wins the fight!
+You acquire an item: large box
+You gain 7 Strengthliness
+You gain 9 Magicalness
+You gain 5 Smarm
+
+[1948] Dungeons of Doom
+Encounter: The Return of the Dishwasher
+You gain 24 Enchantedness
+
+[1949] Dungeons of Doom
+Encounter: swarm of killer bees
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: swarm of killer bees takes 9 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: swarm of killer bees takes 10 damage.
+Round 3: cocopuf coos softly, and nuzzles you with his beak.
+You gain 32 hit points
+You gain 32 Mana Points
+Round 3: fifthtoast attacks!
+Round 4: swarm of killer bees takes 37 damage.
+Round 4: fifthtoast attacks!
+Round 5: swarm of killer bees takes 39 damage.
+Round 5: fifthtoast wins the fight!
+You gain 4 Beefiness
+You gain 9 Wizardliness
+You gain 7 Smarm
+You gain a Moxie point!
+
+[1950] Dungeons of Doom
+Encounter: acid blob
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: acid blob takes 10 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: acid blob takes 10 damage.
+Round 3: cocopuf coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mana Points
+Round 3: fifthtoast attacks!
+Round 4: acid blob takes 47 damage.
+Round 4: fifthtoast attacks!
+Round 5: acid blob takes 45 damage.
+Round 5: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 56 damage. LIMIT BREAK!
+Round 5: acid blob takes 56 damage.
+Round 5: fifthtoast wins the fight!
+You gain 7 Beefiness
+You gain 11 Enchantedness
+You gain 2 Chutzpah
+
+[1951] Dungeons of Doom
+Encounter: The Return of the Dishwasher
+You gain 24 Enchantedness
+
+[1952] Dungeons of Doom
+Encounter: mind flayer
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: mind flayer takes 9 damage.
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused. LIMIT BREAK!
+Round 2: mind flayer drops 18 attack power.
+Round 2: mind flayer drops 18 defense.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: mind flayer takes 9 damage.
+Round 3: cocopuf's bells jingle merrily.
+Round 3: cocopuf coos softly, and nuzzles you with his beak.
+You gain 32 hit points
+You gain 32 Mana Points
+Round 3: fifthtoast attacks!
+Round 4: mind flayer takes 55 damage.
+Round 4: fifthtoast attacks!
+Round 5: mind flayer takes 54 damage.
+Round 5: fifthtoast wins the fight!
+You acquire an item: cornuthaum
+You gain 5 Strongness
+You gain 11 Magicalness
+You gain 4 Cheek
+
+[1953] Dungeons of Doom
+Encounter: large kobold
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: large kobold takes 10 damage.
+Round 2: large kobold takes 3 damage.
+Round 2: large kobold takes 6 damage.
+Round 2: large kobold takes 3 damage.
+You lose 3 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: large kobold takes 9 damage.
+Round 3: fifthtoast attacks!
+Round 4: large kobold takes 45 damage.
+Round 4: cocopuf's bells jingle merrily.
+Round 4: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 4: large kobold drops 9 attack power.
+Round 4: large kobold drops 9 defense.
+Round 4: fifthtoast wins the fight!
+You acquire an item: worthless piece of yellow glass
+You gain 6 Strongness
+You gain 10 Magicalness
+You gain 4 Sarcasm
+
+[1954] Dungeons of Doom
+Encounter: swarm of killer bees
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: swarm of killer bees takes 9 damage.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 87 Meat.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: swarm of killer bees takes 9 damage.
+Round 3: fifthtoast attacks!
+Round 4: swarm of killer bees takes 39 damage.
+Round 4: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 99 Meat.
+Round 4: fifthtoast attacks!
+Round 5: swarm of killer bees takes 43 damage.
+Round 5: fifthtoast wins the fight!
+You gain 3 Beefiness
+You gain 11 Mysteriousness
+You gain 5 Sarcasm
+
+[1955] Dungeons of Doom
+Encounter: large kobold
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: large kobold takes 9 damage.
+Round 2: cocopuf coos softly, and nuzzles you with his beak.
+You gain 31 hit points
+You gain 31 Mana Points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: large kobold takes 9 damage.
+Round 3: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 3: large kobold drops 9 attack power.
+Round 3: large kobold drops 9 defense.
+Round 3: fifthtoast attacks!
+Round 4: large kobold takes 54 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: worthless piece of yellow glass
+You gain 9 Muscleboundness
+You gain 5 Enchantedness
+You gain 5 Cheek
+
+[1956] Dungeons of Doom
+Encounter: acid blob
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: acid blob takes 9 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: acid blob takes 10 damage.
+Round 3: fifthtoast attacks!
+Round 4: acid blob takes 38 damage.
+You acquire an effect: Corroded Weapon (duration: 5 Adventures)
+Round 4: fifthtoast attacks!
+Round 5: acid blob takes 38 damage.
+Round 5: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 28 damage.
+Round 5: acid blob takes 28 damage.
+Round 5: fifthtoast wins the fight!
+You gain 5 Strongness
+You gain 13 Mysteriousness
+You gain 3 Cheek
+
+[1957] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: quantum mechanic takes 10 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: quantum mechanic takes 10 damage.
+Round 3: fifthtoast attacks!
+Round 4: quantum mechanic takes 36 damage.
+Round 4: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 4: quantum mechanic drops 9 attack power.
+Round 4: quantum mechanic drops 9 defense.
+Round 4: fifthtoast attacks!
+Round 5: quantum mechanic takes 44 damage.
+Round 5: cocopuf coos softly, and nuzzles you with his beak.
+You gain 31 hit points
+You gain 31 Mana Points
+Round 5: fifthtoast wins the fight!
+You acquire an item: vorpal blade
+You acquire an item: large box
+You gain 6 Fortitude
+You gain 8 Enchantedness
+You gain 7 Cheek
+
+[1958] Dungeons of Doom
+Encounter: Quantum Mechanic
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: quantum mechanic takes 14 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: quantum mechanic takes 10 damage.
+Round 3: fifthtoast attacks!
+You lose 5 hit points
+Round 4: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 27 damage.
+Round 4: quantum mechanic takes 27 damage.
+Round 4: fifthtoast attacks!
+Round 5: quantum mechanic takes 39 damage.
+Round 5: cocopuf's bells jingle merrily.
+Round 5: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 26 damage.
+Round 5: quantum mechanic takes 26 damage.
+Round 5: fifthtoast wins the fight!
+You gain 5 Strongness
+You gain 9 Enchantedness
+You gain 6 Sarcasm
+
+[1959] Dungeons of Doom
+Encounter: The Hunger
+You gain 21 Smarm
+
+[1960] Dungeons of Doom
+Encounter: acid blob
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: acid blob takes 9 damage.
+Round 2: cocopuf's bells jingle merrily.
+Round 2: cocopuf coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mana Points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: acid blob takes 10 damage.
+Round 3: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 28 damage.
+Round 3: acid blob takes 28 damage.
+Round 3: fifthtoast attacks!
+Round 4: acid blob takes 37 damage.
+Round 4: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 104 Meat.
+Round 4: fifthtoast wins the fight!
+You gain 2 Fortitude
+You gain 13 Enchantedness
+You gain 6 Roguishness
+
+[1961] Dungeons of Doom
+Encounter: A Dash of Boulder
+You gain 21 Strongness
+You gain a Muscle point!
+
+[1962] Dungeons of Doom
+Encounter: The Hunger
+You gain 21 Cheek
+
+[1963] Dungeons of Doom
+Encounter: mind flayer
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: mind flayer takes 12 damage.
+Round 2: mind flayer takes 2 damage.
+Round 2: mind flayer takes 10 damage.
+Round 2: mind flayer takes 4 damage.
+You lose 3 hit points
+You acquire an effect: Confused (duration: 10 Adventures)
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: mind flayer takes 10 damage.
+Round 3: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 3: mind flayer drops 8 attack power.
+Round 3: mind flayer drops 8 defense.
+Round 3: fifthtoast attacks!
+Round 4: mind flayer takes 49 damage.
+Round 4: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 132 Meat.
+Round 4: fifthtoast wins the fight!
+You gain 4 Strengthliness
+You gain 9 Enchantedness
+You gain 6 Smarm
+
+[1964] Dungeons of Doom
+Encounter: large kobold
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts SPAGHETTI SPEAR! (auto-attack)
+Round 2: large kobold takes 9 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts SPAGHETTI SPEAR!
+Round 3: large kobold takes 10 damage.
+Round 3: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 27 damage.
+Round 3: large kobold takes 27 damage.
+Round 3: fifthtoast attacks!
+Round 4: large kobold takes 48 damage.
+Round 4: cocopuf's bells jingle merrily.
+Round 4: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 28 damage.
+Round 4: large kobold takes 28 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: worthless piece of yellow glass
+You gain 4 Muscleboundness
+You gain 10 Wizardliness
+You gain 5 Chutzpah
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+sendmessage.php?toid=1889009
+
+send a kmail to Buffy: 5000 Meat
+
+send a kmail to boolicious: 100 disassembled clover
+
+mall.php?didadv=0&pudnuggler=colver&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+mall.php?didadv=0&pudnuggler=clover&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+
+buy 1 disassembled clover for 500 each from 1091878 on 20120806
+You acquire an item: disassembled clover
+
+mall.php?didadv=0&pudnuggler=ducha&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+mall.php?didadv=0&pudnuggler=pony&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+
+buy 1 pink pony for 555 each from 1304185 on 20120806
+You acquire an item: pink pony

@@ -1,5 +1,5 @@
 =4
-AdventureFrame=729,333,1
+AdventureFrame=349,319,0
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=424,348
@@ -63,7 +63,7 @@ _chocolateCigarsUsed=0
 _chocolatesUsed=0
 _coalPaperweightUsed=false
 _companionshipCasts=0
-_creepyVoodooDollUsed=false
+_creepyVoodooDollUsed=true
 _crimboTree=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=0
@@ -279,7 +279,7 @@ bootsCharged=false
 borisPoints=4
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=false
+breakfastCompleted=true
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
@@ -674,7 +674,7 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=2408
+currentBountyItem=0
 currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
@@ -777,7 +777,7 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=1
+lastBreakfast=2
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
@@ -824,7 +824,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=3
-lastEncounter=bugaboo
+lastEncounter=large kobold
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -857,11 +857,11 @@ lastPirateEphemeraReset=3
 lastPirateInsult1=false
 lastPirateInsult2=false
 lastPirateInsult3=false
-lastPirateInsult4=false
+lastPirateInsult4=true
 lastPirateInsult5=true
-lastPirateInsult6=false
-lastPirateInsult7=false
-lastPirateInsult8=false
+lastPirateInsult6=true
+lastPirateInsult7=true
+lastPirateInsult8=true
 lastPirateInsultReset=3
 lastPorkoBoard
 lastPorkoExpected=0.84\:0.70\:0.55\:0.12\:0.12\:0.12\:0.56\:2.50\:2.50
@@ -928,7 +928,7 @@ mpAutoRecovery=-0.05
 mpAutoRecoveryItems=sleep on your clan sofa;galaktik's fizzy invigorating tonic;visit the nuns;oscus's neverending soda;high-pressure seltzer bottle;monstar energy beverage;carbonated soy milk;carbonated water lily;blue pixel potion;phonics down;knob goblin superseltzer;mountain stream soda;magical mystery juice;knob goblin seltzer;cherry cloaca cola;soda water
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
-noodleSummons=0
+noodleSummons=3
 nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=plinth
@@ -1015,7 +1015,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=1901\:Semirare window begin loc\=*\:lparen.gif\:1941\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
