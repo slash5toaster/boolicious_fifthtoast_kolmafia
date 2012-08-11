@@ -92,7 +92,7 @@ _hippyMeatCollected=true
 _hipsterAdv=0
 _hobbyHorseUsed=false
 _hoboUnderlingSummons=0
-_hotTubSoaks=3
+_hotTubSoaks=0
 _hyperinflatedSealLungUsed=false
 _iceballUses=0
 _inigosCasts=0
@@ -119,14 +119,14 @@ _mayflySummons=0
 _mediumSiphons=0
 _navelRunaways=0
 _olympicSwimmingPool=false
-_olympicSwimmingPoolItemFound=false
+_olympicSwimmingPoolItemFound=true
 _pasteDrops=0
 _photocopyUsed=false
 _pieDrops=0
 _piePartsCount=0
 _pneumaticityPotionUsed=false
 _poisonArrows=0
-_poolGames=1
+_poolGames=0
 _precisionCasts=0
 _raindohCopiesMade=0
 _requestSandwichSucceeded=false
@@ -165,7 +165,7 @@ _userMods
 _vitachocCapsulesUsed=0
 _vmaskAdv=0
 _vmaskBanisherUsed=false
-_whiteRiceDrops=3
+_whiteRiceDrops=0
 _zapCount=0
 addingScrolls=2
 afterAdventureScript
@@ -673,7 +673,7 @@ clanAttacksEnabled=false
 cocktailSummons=0
 concertVisited=false
 counterScript
-crimboTreeDays=4
+crimboTreeDays=1
 currentBountyItem=0
 currentFullness=0
 currentHippyStore=hippy
@@ -776,13 +776,13 @@ lastBangPotion827=healing
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=4
+lastBreakfast=7
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=4
+lastCounterDay=7
 lastDispensaryOpen=3
 lastDoorCodeReset=3
 lastDustyBottle2271=5
@@ -823,7 +823,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=3
-lastEncounter=Ricky &quot;Pelican&quot; O'Mally
+lastEncounter=Screwing Around\!
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -944,7 +944,7 @@ pastamancerOrbedName
 pastamancerOrbedType
 pendingMapReflections=0
 photocopyMonster
-plantingDate=4
+plantingDate=7
 plantingDay=0
 plantingLength=1
 plantingScript=spooky
@@ -1089,7 +1089,7 @@ tempuraSummons=0
 textColors=crappy\:\#999999|good\:green|awesome\:blue|epic\:\#8a2be2|junk\:gray|memento\:olive|notavailable\:gray
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=0
+tomeSummons=3
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
