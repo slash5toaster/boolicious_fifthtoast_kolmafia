@@ -43,7 +43,7 @@ _bagOfCandy=false
 _bagOfCandyUsed=false
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=true
+_ballpit=false
 _banderRunaways=0
 _beerLensDrops=0
 _benettonsCasts=0
@@ -58,7 +58,7 @@ _cameraUsed=false
 _candySummons=0
 _carboLoaded=false
 _carnieCandyDrops=0
-_chipBags=3
+_chipBags=0
 _chocolateCigarsUsed=0
 _chocolatesUsed=0
 _coalPaperweightUsed=false
@@ -675,7 +675,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=15
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -683,7 +683,7 @@ currentMojoFilters=0
 currentMood=apathetic
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=8
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -691,7 +691,7 @@ cyrptCrannyEvilness=0
 cyrptNicheEvilness=0
 cyrptNookEvilness=0
 cyrptTotalEvilness=0
-dailyDungeonDone=true
+dailyDungeonDone=false
 dbNemesisSkill1=0
 dbNemesisSkill2=0
 dbNemesisSkill3=0
@@ -736,10 +736,10 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=0
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
-gourdItemCount=6
+gourdItemCount=12
 grimoire1Summons=0
 grimoire2Summons=0
 grimoire3Summons=0
@@ -760,7 +760,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Hidden Temple
+lastAdventure=Haunted Pantry
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -777,13 +777,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=7
+lastBreakfast=9
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=11
-lastCounterDay=7
+lastCounterDay=9
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -824,7 +824,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=3
-lastEncounter=baa-relief sheep
+lastEncounter=possessed can of tomatoes
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -945,8 +945,8 @@ pastamancerOrbedName
 pastamancerOrbedType
 pendingMapReflections=0
 photocopyMonster=monster
-plantingDate=7
-plantingDay=2
+plantingDate=9
+plantingDay=3
 plantingLength=5
 plantingScript=frozen
 poolSharkCount=0
@@ -1084,7 +1084,7 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=true
+telescopeLookedHigh=false
 telescopeUpgrades=1
 tempuraSummons=0
 textColors=crappy\:\#999999|good\:green|awesome\:blue|epic\:\#8a2be2|junk\:gray|memento\:olive|notavailable\:gray
