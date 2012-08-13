@@ -673,7 +673,7 @@ clanAttacksEnabled=false
 cocktailSummons=0
 concertVisited=false
 counterScript
-crimboTreeDays=1
+crimboTreeDays=7
 currentBountyItem=0
 currentFullness=0
 currentHippyStore=hippy
@@ -776,13 +776,13 @@ lastBangPotion827=healing
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=7
+lastBreakfast=9
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=7
+lastCounterDay=9
 lastDispensaryOpen=3
 lastDoorCodeReset=3
 lastDustyBottle2271=5
@@ -899,7 +899,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=3
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=13
+libramSummons=7
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -944,7 +944,7 @@ pastamancerOrbedName
 pastamancerOrbedType
 pendingMapReflections=0
 photocopyMonster
-plantingDate=7
+plantingDate=9
 plantingDay=0
 plantingLength=1
 plantingScript=spooky
@@ -1089,7 +1089,7 @@ tempuraSummons=0
 textColors=crappy\:\#999999|good\:green|awesome\:blue|epic\:\#8a2be2|junk\:gray|memento\:olive|notavailable\:gray
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=3
+tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
