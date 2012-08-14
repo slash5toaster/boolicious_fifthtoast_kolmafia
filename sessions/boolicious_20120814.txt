@@ -1092,3 +1092,183 @@ You acquire an item: filthy lucre
 postwarisland.php?place=concert
 concert 1
 You acquire an effect: Moon'd (duration: 20 Adventures)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+August 14, 2012 - April 3
+
+Ronald: first quarter
+Grimace: waning gibbous
+Mini-moon: far left
+
+El Dia De Los Muertos Borrachos: 7 days
+Generic Summer Holiday: 16 days
+Dependence Day: 25 days
+Arrrbor Day: 33 days
+Lab&oacute;r Day: 43 days
+Halloween: 53 days
+Feast of Boris: 60 days
+Yuletide: 65 days
+Festival of Jarlsberg: 70 days
+Valentine's Day: 81 days
+St. Sneaky Pete's Day: 88 days
+Oyster Egg Day: 95 days
+
+
+2 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 18
+HP: 760 / 760
+MP: 338 / 338
+
+Mus: 470 (324), tnp = 29
+Mys: 318 (244), tnp = 415
+Mox: 336 (258), tnp = 113
+
+Advs: 157
+Meat: 562,654
+
+Full: 0 / 15
+Drunk: 0 / 19
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Ol' Scratch's stovepipe hat
+Weapon: hilarious comedy prop
+Off-hand: Ol' Scratch's ash can
+Shirt: astral shirt
+Pants: Ol' Scratch's ol' britches
+Container: makeshift cape
+
+Acc. 1: Hodgman's bow tie
+Acc. 2: fancy black tie
+Acc. 3: Hodgman's lucky sock
+
+Pet: Fancypants Scarecrow (17 lbs)
+Item: double-ice britches
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Double-Fisted Skull Smashing
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Musk of the Moose
+ - Northern Exposure
+ - Pulverize
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Snarl of the Timberwolf
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Thaumodynamic (6)
+Moon'd (20)
+Scarysauce (44)
+Tenacity of the Snapper (44)
+Elemental Saucesphere (44)
+Jabañero Saucesphere (44)
+Jalapeño Saucesphere (44)
+Ghostly Shell (71)
+Jingle Jangle Jingle (71)
+Astral Shell (71)
+Reptilian Fortitude (71)
+Empathy (71)
+Strong Resolve (73)
+Brilliant Resolve (93)
+Greedy Resolve (113)
+Irresistible Resolve (113)
+Destructive Resolve (133)
+Joyful Resolve (133)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +9.57
+Meat: +231.92%
+Item: +25.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be feistier
+
+Use 15 peppermint sprout
+You acquire an item: cane-mail shirt
+
+Use 2 jet bennie marble
+You acquire an item: beige clambroth marble
+
+Use 2 beige clambroth marble
+You acquire an item: steely marble
+
+[5382] Smith 1 chrome ore + 1 dense meat stack
+You acquire an item: chrome meat stack
+Crafting used 1 each of dense meat stack and chrome ore
+
+Use 10 peppermint sprout
+You acquire an item: cane-mail pants
+
+Combine 1 peppermint crook + 1 peppermint crook
+You acquire an item: candy cane candygram
+Crafting used 1 each of peppermint crook and peppermint crook
+
+mallsell: 1 candy cane candygram, 3 cane-mail pants, 2 cane-mail shirt, 1 chrome meat stack, 14 resolution: be feistier, 1 steely marble
+
+managestore.php?action=take&whichitem=5406
+You acquire an item: cane-mail pants
+managestore.php?action=take&whichitem=5405
+You acquire an item: cane-mail shirt
+managestore.php?action=take&whichitem=4102
+You acquire an item: steely marble
+manageprices.php?action=update&price[5405]=109990&limit[5405]=0&price[5406]=45000&limit[5406]=0&price[5400]=29999&limit[5400]=0&price[5398]=17000&limit[5398]=0&price[5397]=13700&limit[5397]=0&price[5280]=10000&limit[5280]=0&price[5274]=10000&limit[5274]=0&price[5270]=8888&limit[5270]=0&price[377]=6000&limit[377]=0&price[5100]=5960&limit[5100]=1&price[5245]=4500&limit[5245]=0&price[5105]=941&limit[5105]=0&price[5097]=594&limit[5097]=0&price[594]=410&limit[594]=0&price[2687]=400&limit[2687]=0&price[2680]=300&limit[2680]=0&price[617]=274&limit[617]=2&price[622]=272&limit[622]=1&price[632]=264&limit[632]=0&price[542]=260&limit[542]=2&price[538]=260&limit[538]=0&price[616]=258&limit[616]=0&price[613]=256&limit[613]=0&price[614]=256&limit[614]=0&price[3858]=250&limit[3858]=0&price[541]=240&limit[541]=0&price[497]=236&limit[497]=0&price[399]=230&limit[399]=0&price[2093]=230&limit[2093]=0&price[356]=220&limit[356]=0&price[834]=190&limit[834]=0&price[472]=190&limit[472]=0&price[776]=190&limit[776]=0&price[3864]=164&limit[3864]=0&price[312]=160&limit[312]=2&price[836]=156&limit[836]=0&price[218]=155&limit[218]=0&price[299]=150&limit[299]=0&price[2613]=150&limit[2613]=0&price[475]=130&limit[475]=0&price[1655]=120&limit[1655]=0&price[540]=108&limit[540]=0&price[5091]=100&limit[5091]=0&price[5469]=100&limit[5469]=0&price[5467]=100&limit[5467]=0&price[5466]=100&limit[5466]=0&price[1]=100&limit[1]=0
+
+mallsell: 14 disassembled clover, 4 ten-leaf clover
+
+manageprices.php?action=update&price[5405]=109990&limit[5405]=2&price[5406]=45000&limit[5406]=0&price[5400]=29999&limit[5400]=0&price[5398]=17000&limit[5398]=2&price[5397]=13700&limit[5397]=1&price[5280]=10000&limit[5280]=0&price[5274]=10000&limit[5274]=0&price[5270]=8888&limit[5270]=0&price[377]=6000&limit[377]=0&price[5100]=5960&limit[5100]=0&price[5245]=4500&limit[5245]=0&price[24]=1650&limit[24]=0&price[196]=1600&limit[196]=0&price[5105]=941&limit[5105]=0&price[5097]=594&limit[5097]=0&price[594]=410&limit[594]=0&price[2687]=400&limit[2687]=0&price[2680]=300&limit[2680]=0&price[617]=274&limit[617]=0&price[622]=272&limit[622]=0&price[632]=264&limit[632]=0&price[542]=260&limit[542]=0&price[538]=260&limit[538]=0&price[616]=258&limit[616]=0&price[613]=256&limit[613]=0&price[614]=256&limit[614]=2&price[3858]=250&limit[3858]=0&price[541]=240&limit[541]=0&price[497]=236&limit[497]=0&price[399]=230&limit[399]=0&price[2093]=230&limit[2093]=0&price[356]=220&limit[356]=0&price[834]=190&limit[834]=0&price[472]=190&limit[472]=1&price[776]=190&limit[776]=0&price[3864]=164&limit[3864]=0&price[312]=160&limit[312]=0&price[836]=156&limit[836]=0&price[218]=155&limit[218]=0&price[299]=150&limit[299]=0&price[2613]=150&limit[2613]=0&price[475]=130&limit[475]=0&price[1655]=120&limit[1655]=0&price[540]=108&limit[540]=0&price[5091]=100&limit[5091]=0&price[5469]=100&limit[5469]=0&price[5467]=100&limit[5467]=0&price[5466]=100&limit[5466]=0&price[1]=100&limit[1]=0
+manageprices.php?action=update&price[5405]=109990&limit[5405]=0&price[5406]=45000&limit[5406]=0&price[5400]=29999&limit[5400]=0&price[5398]=15000&limit[5398]=0&price[5397]=10600&limit[5397]=0&price[5280]=9230&limit[5280]=0&price[5274]=9100&limit[5274]=0&price[5270]=8300&limit[5270]=0&price[377]=6000&limit[377]=0&price[5100]=4850&limit[5100]=2&price[5245]=4100&limit[5245]=0&price[24]=1650&limit[24]=0&price[196]=1600&limit[196]=0&price[5105]=941&limit[5105]=0&price[5097]=594&limit[5097]=1&price[594]=410&limit[594]=0&price[2687]=400&limit[2687]=0&price[2680]=300&limit[2680]=0&price[617]=274&limit[617]=0&price[622]=272&limit[622]=0&price[632]=264&limit[632]=0&price[542]=260&limit[542]=0&price[538]=260&limit[538]=0&price[616]=258&limit[616]=0&price[613]=256&limit[613]=0&price[614]=256&limit[614]=0&price[3858]=250&limit[3858]=0&price[541]=240&limit[541]=0&price[497]=236&limit[497]=0&price[399]=230&limit[399]=0&price[2093]=230&limit[2093]=2&price[356]=220&limit[356]=1&price[834]=190&limit[834]=0&price[472]=190&limit[472]=0&price[776]=190&limit[776]=0&price[3864]=164&limit[3864]=0&price[312]=160&limit[312]=0&price[836]=156&limit[836]=2&price[218]=155&limit[218]=0&price[299]=150&limit[299]=0&price[2613]=150&limit[2613]=0&price[475]=130&limit[475]=0&price[1655]=120&limit[1655]=0&price[540]=108&limit[540]=0&price[5091]=100&limit[5091]=0&price[5469]=100&limit[5469]=0&price[5467]=100&limit[5467]=0&price[5466]=100&limit[5466]=0&price[1]=100&limit[1]=0
+managestore.php?howmuch=1500&action=addad&pwd
