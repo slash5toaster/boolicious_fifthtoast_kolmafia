@@ -671,9 +671,9 @@ choiceAdventure91=2
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=false
+concertVisited=true
 counterScript
-crimboTreeDays=7
+crimboTreeDays=6
 currentBountyItem=0
 currentFullness=0
 currentHippyStore=hippy
@@ -760,7 +760,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Hobopolis Town Square
+lastAdventure=Ninja Snowmen
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -776,13 +776,13 @@ lastBangPotion827=healing
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=9
+lastBreakfast=10
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=9
+lastCounterDay=10
 lastDispensaryOpen=3
 lastDoorCodeReset=3
 lastDustyBottle2271=5
@@ -823,7 +823,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=1
 lastEmptiedStorage=3
-lastEncounter=Screwing Around\!
+lastEncounter=Ninja Snowman
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -899,7 +899,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=3
 lastWuTangDefeated=1
 lastZapperWand=1
-libramSummons=7
+libramSummons=18
 libraryCardUsed=false
 louvreDesiredGoal=0
 louvreGoal=0
@@ -944,10 +944,10 @@ pastamancerOrbedName
 pastamancerOrbedType
 pendingMapReflections=0
 photocopyMonster
-plantingDate=9
+plantingDate=10
 plantingDay=0
 plantingLength=1
-plantingScript=spooky
+plantingScript=unknown
 poolSharkCount=0
 postAscensionScript
 preAscensionScript
@@ -1014,7 +1014,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=5539\:Semirare window begin loc\=*\:lparen.gif\:5579\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1023,8 +1023,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=3365
-semirareLocation=Hippy Camp
+semirareCounter=5379
+semirareLocation=Ninja Snowmen
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=true

@@ -824,7 +824,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=3
-lastEncounter=spooky gravy fairy ninja
+lastEncounter=spooky gravy fairy guard
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -938,7 +938,7 @@ outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=53
 pastamancerGhostName=Bufferhams
-pastamancerGhostSummons=0
+pastamancerGhostSummons=1
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
@@ -1063,11 +1063,11 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=3003
-stationaryButton2=3005
-stationaryButton3=3009
-stationaryButton4=3008
-stationaryButton5=3007
+stationaryButton1
+stationaryButton2
+stationaryButton3
+stationaryButton4
+stationaryButton5
 styxPixieVisited=false
 sugarCounter4178=0
 sugarCounter4179=0
