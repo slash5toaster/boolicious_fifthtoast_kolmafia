@@ -760,7 +760,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Haunted Pantry
+lastAdventure=Spooky Gravy Barrow
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -777,13 +777,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=9
+lastBreakfast=10
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=11
-lastCounterDay=9
+lastCounterDay=10
 lastDispensaryOpen=3
 lastDoorCodeReset=2
 lastDustyBottle2271=0
@@ -824,7 +824,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=3
-lastEncounter=possessed can of tomatoes
+lastEncounter=spooky gravy fairy ninja
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -945,8 +945,8 @@ pastamancerOrbedName
 pastamancerOrbedType
 pendingMapReflections=0
 photocopyMonster=monster
-plantingDate=9
-plantingDay=3
+plantingDate=10
+plantingDay=4
 plantingLength=5
 plantingScript=frozen
 poolSharkCount=0
@@ -990,7 +990,7 @@ questL12War=unstarted
 questL13Final=unstarted
 questM01Untinker=finished
 questM02Artist=finished
-questM03Bugbear=step1
+questM03Bugbear=step2
 questM04Galaktic=finished
 questM05Toot=unstarted
 questM06Gourd=finished
