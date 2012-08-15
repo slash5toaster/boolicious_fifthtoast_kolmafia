@@ -287,3 +287,554 @@ manageprices.php?action=update&price[5405]=109950&limit[5405]=0&price[5406]=4500
 mallsell: 1 cool jelly donut, 1 occult jelly donut, 1 thyme jelly donut, 3 Ur-Donut
 
 manageprices.php?action=update&price[5405]=109950&limit[5405]=2&price[5406]=45000&limit[5406]=0&price[5400]=29999&limit[5400]=0&price[1143]=14500&limit[1143]=0&price[5397]=10600&limit[5397]=0&price[5269]=9400&limit[5269]=0&price[5248]=9000&limit[5248]=0&price[5270]=8300&limit[5270]=0&price[5272]=8300&limit[5272]=0&price[5271]=6900&limit[5271]=0&price[5247]=6200&limit[5247]=0&price[377]=6000&limit[377]=0&price[5224]=5600&limit[5224]=0&price[5100]=4850&limit[5100]=0&price[5245]=4100&limit[5245]=0&price[24]=1650&limit[24]=0&price[5105]=941&limit[5105]=0&price[5097]=594&limit[5097]=0&price[594]=410&limit[594]=0&price[2687]=400&limit[2687]=0&price[2680]=300&limit[2680]=0&price[617]=274&limit[617]=0&price[622]=272&limit[622]=0&price[632]=264&limit[632]=0&price[542]=260&limit[542]=2&price[538]=260&limit[538]=0&price[616]=258&limit[616]=0&price[613]=256&limit[613]=0&price[614]=256&limit[614]=0&price[3858]=250&limit[3858]=0&price[541]=240&limit[541]=0&price[497]=236&limit[497]=0&price[399]=230&limit[399]=1&price[2093]=230&limit[2093]=0&price[356]=220&limit[356]=0&price[834]=190&limit[834]=0&price[472]=190&limit[472]=2&price[776]=190&limit[776]=0&price[3864]=164&limit[3864]=0&price[312]=160&limit[312]=0&price[836]=156&limit[836]=0&price[218]=155&limit[218]=0&price[299]=150&limit[299]=0&price[2613]=150&limit[2613]=1&price[475]=130&limit[475]=0&price[1655]=120&limit[1655]=0&price[540]=108&limit[540]=0&price[5469]=100&limit[5469]=0&price[5467]=100&limit[5467]=0&price[5466]=100&limit[5466]=0&price[1]=100&limit[1]=0
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+August 15, 2012 - April 4
+
+Ronald: waxing gibbous
+Grimace: waning gibbous
+Mini-moon: in front of Ronald, R side
+
+El Dia De Los Muertos Borrachos: 6 days
+Generic Summer Holiday: 15 days
+Dependence Day: 24 days
+Arrrbor Day: 32 days
+Lab&oacute;r Day: 42 days
+Halloween: 52 days
+Feast of Boris: 59 days
+Yuletide: 64 days
+Festival of Jarlsberg: 69 days
+Valentine's Day: 80 days
+St. Sneaky Pete's Day: 87 days
+Oyster Egg Day: 94 days
+
+
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 18
+HP: 760 / 760
+MP: 107 / 338
+
+Mus: 470 (324), tnp = 29
+Mys: 318 (244), tnp = 415
+Mox: 336 (258), tnp = 113
+
+Advs: 198
+Meat: 656,901
+
+Full: 0 / 15
+Drunk: 0 / 19
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Ol' Scratch's stovepipe hat
+Weapon: hilarious comedy prop
+Off-hand: Ol' Scratch's ash can
+Shirt: astral shirt
+Pants: Ol' Scratch's ol' britches
+Container: makeshift cape
+
+Acc. 1: Hodgman's bow tie
+Acc. 2: fancy black tie
+Acc. 3: Hodgman's lucky sock
+
+Pet: Fancypants Scarecrow (17 lbs)
+Item: double-ice britches
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Double-Fisted Skull Smashing
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Musk of the Moose
+ - Northern Exposure
+ - Pulverize
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Snarl of the Timberwolf
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Thaumodynamic (3)
+Moon'd (17)
+Scarysauce (41)
+Tenacity of the Snapper (41)
+Elemental Saucesphere (41)
+Jabañero Saucesphere (41)
+Jalapeño Saucesphere (41)
+Ghostly Shell (68)
+Jingle Jangle Jingle (68)
+Astral Shell (68)
+Reptilian Fortitude (68)
+Empathy (68)
+Strong Resolve (70)
+Brilliant Resolve (90)
+Greedy Resolve (110)
+Irresistible Resolve (110)
+Destructive Resolve (130)
+Joyful Resolve (130)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +9.57
+Meat: +231.92%
+Item: +25.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be feistier
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 5 burned-out arcanodiodes
+
+[5384] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Protagonist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: protagonist takes 430 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 49 damage.
+Round 2: protagonist takes 49 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 361 Meat
+You acquire an item: phonics down
+You gain 27 Fortitude
+You gain 15 Magicalness
+You gain 8 Smarm
+
+[5385] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Protagonist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: protagonist takes 431 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 42 damage.
+Round 2: protagonist takes 42 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 288 Meat
+You acquire an item: ridiculously huge sword
+You acquire an item: phonics down
+You gain 23 Muscleboundness
+You gain a Muscle point!
+You gain 13 Mysteriousness
+You gain 13 Chutzpah
+
+[5386] Fantasy Airship
+Encounter: MagiMechTech MechaMech
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: magimechtech mechamech takes 418 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 37 damage.
+Round 2: magimechtech mechamech takes 37 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: metallic A
+You acquire an item: glowing red eye
+You acquire an item: photoprotoneutron torpedo
+You acquire an item: burned-out arcanodiode
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 22 Beefiness
+You gain 12 Wizardliness
+You gain 21 Cheek
+
+[5387] Fantasy Airship
+Encounter: MagiMechTech MechaMech
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: magimechtech mechamech takes 414 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 37 damage.
+Round 2: magimechtech mechamech takes 37 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: burned-out arcanodiode
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 25 Beefiness
+You gain 14 Wizardliness
+You gain 15 Sarcasm
+
+[5388] Fantasy Airship
+Encounter: Protagonist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: protagonist takes 431 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 39 damage.
+Round 2: protagonist takes 39 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 358 Meat
+You gain 23 Strongness
+You gain 11 Wizardliness
+You gain 14 Sarcasm
+
+[5389] Fantasy Airship
+Encounter: Quiet Healer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: quiet healer takes 433 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking her for 48 damage.
+Round 2: quiet healer takes 48 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 331 Meat
+You acquire an item: scroll of drastic healing
+You acquire an item: soft green echo eyedrop antidote
+You gain 27 Fortitude
+You gain 12 Wizardliness
+You gain 6 Smarm
+
+[5390] Fantasy Airship
+Encounter: Quiet Healer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: quiet healer takes 438 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking her for 40 damage.
+Round 2: quiet healer takes 40 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 424 Meat
+You acquire an item: amulet of extreme plot significance
+You gain 19 Fortitude
+You gain 13 Mysteriousness
+You gain 15 Sarcasm
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be smarter
+
+[5391] Fantasy Airship
+Encounter: Burly Sidekick
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: burly sidekick takes 432 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 40 damage.
+Round 2: burly sidekick takes 40 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 401 Meat
+You gain 22 Muscleboundness
+You gain 11 Wizardliness
+You gain 14 Roguishness
+
+[5392] Fantasy Airship
+Encounter: Irritating Series of Random Encounters
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: irritating series of random encounters takes 429 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 37 damage.
+Round 2: irritating series of random encounters takes 37 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 507 Meat
+You gain 23 Beefiness
+You gain 10 Enchantedness
+You gain 16 Roguishness
+You gain a Moxie point!
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be happier
+
+[5393] Fantasy Airship
+Encounter: MagiMechTech MechaMech
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: magimechtech mechamech takes 414 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 46 damage.
+Round 2: magimechtech mechamech takes 46 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: burned-out arcanodiode
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 32 Beefiness
+You gain 11 Wizardliness
+You gain 9 Sarcasm
+
+[5394] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Spunky Princess
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spunky princess takes 441 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking her for 44 damage.
+Round 2: spunky princess takes 44 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 404 Meat
+You acquire an item: tiny house
+You acquire an item: cocoa eggshell fragment
+You gain 21 Fortitude
+You gain 11 Mysteriousness
+You gain 13 Roguishness
+
+[5395] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Protagonist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: protagonist takes 438 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 51 damage.
+Round 2: protagonist takes 51 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 325 Meat
+You acquire an item: super-spiky hair gel
+You acquire an item: phonics down
+You gain 25 Beefiness
+You gain 11 Mysteriousness
+You gain 11 Cheek
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be wealthier
+
+[5396] Fantasy Airship
+Encounter: Protagonist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: protagonist takes 430 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 40 damage.
+Round 2: protagonist takes 40 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 315 Meat
+You acquire an item: phonics down
+You gain 27 Strengthliness
+You gain 12 Enchantedness
+You gain 8 Cheek
+
+[5397] Fantasy Airship
+Encounter: MagiMechTech MechaMech
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: magimechtech mechamech takes 412 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 50 damage.
+Round 2: magimechtech mechamech takes 50 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: metallic A
+You acquire an item: photoprotoneutron torpedo
+You acquire an item: burned-out arcanodiode
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 24 Muscleboundness
+You gain 12 Enchantedness
+You gain 17 Smarm
+
+[5398] Fantasy Airship
+Encounter: Protagonist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: protagonist takes 434 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 40 damage.
+Round 2: protagonist takes 40 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 298 Meat
+You gain 26 Beefiness
+You gain 11 Wizardliness
+You gain 10 Roguishness
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be smarter
+
+[5399] Fantasy Airship
+Encounter: Spunky Princess
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spunky princess takes 440 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking her for 36 damage.
+Round 2: spunky princess takes 36 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 368 Meat
+You acquire an item: titanium assault umbrella
+You gain 22 Strongness
+You gain 8 Wizardliness
+You gain 16 Sarcasm
+
+[5400] Fantasy Airship
+Encounter: Spunky Princess
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spunky princess takes 447 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking her for 45 damage.
+Round 2: spunky princess takes 45 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 431 Meat
+You gain 20 Fortitude
+You gain 13 Wizardliness
+You gain 10 Sarcasm
+
+[5401] Fantasy Airship
+Encounter: Irritating Series of Random Encounters
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: irritating series of random encounters takes 431 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 48 damage.
+Round 2: irritating series of random encounters takes 48 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 484 Meat
+You acquire an item: cocoa eggshell fragment
+You gain 16 Strengthliness
+You gain 11 Magicalness
+You gain 18 Sarcasm
+
+[5402] Fantasy Airship
+Encounter: Burly Sidekick
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: burly sidekick takes 434 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 42 damage.
+Round 2: burly sidekick takes 42 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 438 Meat
+You acquire an item: Mohawk wig
+You acquire an item: tiny house
+You gain 17 Strengthliness
+You gain 15 Magicalness
+You gain 8 Smarm
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be sexier
+
+[5403] Fantasy Airship
+Encounter: Burly Sidekick
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: burly sidekick takes 433 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 45 damage.
+Round 2: burly sidekick takes 45 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 414 Meat
+You acquire an item: tiny house
+You gain 18 Strengthliness
+You gain 10 Mysteriousness
+You gain 15 Sarcasm
+
+[5404] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Spunky Princess
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spunky princess takes 443 damage.
+Round 2: Heckel &amp; Jeckyl's bells jingle merrily.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking her for 43 damage.
+Round 2: spunky princess takes 43 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 394 Meat
+You gain 23 Muscleboundness
+You gain 11 Wizardliness
+You gain 6 Smarm
+
+[5405] Fantasy Airship
+Encounter: Protagonist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: protagonist takes 435 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 39 damage.
+Round 2: protagonist takes 39 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 355 Meat
+You acquire an item: phonics down
+You gain 20 Beefiness
+You gain 12 Mysteriousness
+You gain 9 Cheek
+
+[5406] Fantasy Airship
+Encounter: MagiMechTech MechaMech
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: magimechtech mechamech takes 416 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 46 damage.
+Round 2: magimechtech mechamech takes 46 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: burned-out arcanodiode
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 22 Fortitude
+You gain 13 Magicalness
+You gain 14 Sarcasm
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
