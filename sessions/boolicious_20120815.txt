@@ -838,3 +838,155 @@ You gain 14 Sarcasm
 
 Visiting the Bounty Hunter Hunter
 You acquire an item: filthy lucre
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+August 15, 2012 - April 4
+
+Ronald: waxing gibbous
+Grimace: waning gibbous
+Mini-moon: in front of Ronald, R side
+
+El Dia De Los Muertos Borrachos: 6 days
+Generic Summer Holiday: 15 days
+Dependence Day: 24 days
+Arrrbor Day: 32 days
+Lab&oacute;r Day: 42 days
+Halloween: 52 days
+Feast of Boris: 59 days
+Yuletide: 64 days
+Festival of Jarlsberg: 69 days
+Valentine's Day: 80 days
+St. Sneaky Pete's Day: 87 days
+Oyster Egg Day: 94 days
+
+
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 18
+HP: 763 / 763
+MP: 293 / 338
+
+Mus: 472 (325), tnp = 156
+Mys: 318 (244), tnp = 143
+Mox: 337 (259), tnp = 346
+
+Advs: 175
+Meat: 663,797
+
+Full: 0 / 15
+Drunk: 0 / 19
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Ol' Scratch's stovepipe hat
+Weapon: hilarious comedy prop
+Off-hand: Ol' Scratch's ash can
+Shirt: astral shirt
+Pants: Ol' Scratch's ol' britches
+Container: makeshift cape
+
+Acc. 1: Hodgman's bow tie
+Acc. 2: fancy black tie
+Acc. 3: Hodgman's lucky sock
+
+Pet: Fancypants Scarecrow (17 lbs)
+Item: double-ice britches
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Double-Fisted Skull Smashing
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Musk of the Moose
+ - Northern Exposure
+ - Pulverize
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Snarl of the Timberwolf
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Scarysauce (18)
+Tenacity of the Snapper (18)
+Elemental Saucesphere (18)
+Jabañero Saucesphere (18)
+Jalapeño Saucesphere (18)
+Ghostly Shell (45)
+Jingle Jangle Jingle (45)
+Astral Shell (45)
+Reptilian Fortitude (45)
+Empathy (45)
+Strong Resolve (47)
+Brilliant Resolve (67)
+Greedy Resolve (87)
+Irresistible Resolve (87)
+Destructive Resolve (107)
+Joyful Resolve (107)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +7.07
+Meat: +231.92%
+Item: +25.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 2 Summon Resolutions
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be kinder
+
+use 1 Oscus's neverending soda
+You gain 274 Muscularity Points
+
+Visiting the Bounty Hunter Hunter
+
+mallsell: 1 Pok&euml;mann figurine: Bloodkip, 1 Pok&euml;mann figurine: Galumpagump, 1 Pok&euml;mann figurine: Moog, 1 Pok&euml;mann figurine: Porkachu, 1 Pok&euml;mann figurine: Smugleaf, 1 Pok&euml;mann figurine: Twitter, 1 Pok&euml;mann figurine: Vermouth
+
+manageprices.php?action=update&price[5405]=100000&limit[5405]=2&price[5406]=35000&limit[5406]=0&price[5400]=29999&limit[5400]=0&price[1143]=14500&limit[1143]=0&price[5101]=10900&limit[5101]=0&price[5397]=10600&limit[5397]=0&price[5269]=9400&limit[5269]=0&price[5248]=9000&limit[5248]=0&price[5270]=8300&limit[5270]=0&price[5272]=8300&limit[5272]=2&price[5271]=6900&limit[5271]=0&price[5247]=6200&limit[5247]=0&price[377]=6000&limit[377]=0&price[5224]=5600&limit[5224]=0&price[5100]=4850&limit[5100]=2&price[5245]=4100&limit[5245]=0&price[24]=1650&limit[24]=0&price[5092]=1100&limit[5092]=1&price[5105]=941&limit[5105]=0&price[5087]=746&limit[5087]=0&price[5090]=700&limit[5090]=0&price[5097]=594&limit[5097]=0&price[594]=410&limit[594]=0&price[2687]=400&limit[2687]=0&price[2680]=300&limit[2680]=0&price[617]=274&limit[617]=0&price[622]=272&limit[622]=0&price[632]=264&limit[632]=0&price[542]=260&limit[542]=0&price[538]=260&limit[538]=0&price[616]=258&limit[616]=0&price[613]=256&limit[613]=0&price[614]=256&limit[614]=0&price[3858]=250&limit[3858]=0&price[541]=240&limit[541]=0&price[497]=236&limit[497]=0&price[399]=230&limit[399]=0&price[2093]=230&limit[2093]=0&price[356]=220&limit[356]=0&price[5093]=200&limit[5093]=0&price[5098]=200&limit[5098]=0&price[834]=190&limit[834]=1&price[472]=190&limit[472]=0&price[776]=190&limit[776]=0&price[3864]=164&limit[3864]=0&price[312]=160&limit[312]=0&price[836]=156&limit[836]=0&price[218]=155&limit[218]=0&price[299]=150&limit[299]=0&price[2613]=150&limit[2613]=0&price[475]=130&limit[475]=0&price[1655]=120&limit[1655]=0&price[540]=108&limit[540]=0&price[5469]=100&limit[5469]=0&price[5467]=100&limit[5467]=0&price[5466]=100&limit[5466]=0&price[1]=100&limit[1]=0&price[5091]=100&limit[5091]=0

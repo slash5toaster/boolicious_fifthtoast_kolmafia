@@ -1,5 +1,5 @@
 =4
-AdventureFrame=197,160,0
+AdventureFrame=99,182,0
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=424,348
@@ -25,7 +25,7 @@ OptionsFrame=354,275,-1
 ProfileFrame=425,323,-1
 RecentEventsFrame=474,284
 RequestFrame=-2,-3,-1
-RequestSynchFrame=-2,-3,-1
+RequestSynchFrame=0,14,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=293,225,3
@@ -151,7 +151,7 @@ _stressBallSqueezes=0
 _stuffedPocketwatchUsed=false
 _styxSprayUsed=false
 _syntheticDogHairPillUsed=false
-_templeHiddenPower=false
+_templeHiddenPower=true
 _tempuraAirUsed=false
 _thingfinderCasts=0
 _timeHelmetAdv=0
@@ -750,7 +750,7 @@ hermitHax0red=false
 heroDonationBoris=11500
 heroDonationJarlsberg=0
 heroDonationSneakyPete=0
-hiddenCityLayout=DEEFNAEEEEEEETEWEDEDEEDLD
+hiddenCityLayout=DENEEWEEDDDDAEFEEEELEEEET
 hiddenCitySquare=0
 hippiesDefeated=0
 hpAutoRecovery=-0.05
@@ -760,7 +760,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=None
+lastAdventure=Poop Deck
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=2
@@ -824,7 +824,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=2
 lastEmptiedStorage=3
-lastEncounter=black pudding
+lastEncounter=wacky pirate
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -832,7 +832,7 @@ lastGalleryUnlock=2
 lastGuildStoreOpen=3
 lastGuyMadeOfBeesReset=3
 lastHermitReset=2
-lastHiddenCityAscension=2
+lastHiddenCityAscension=3
 lastHippyCall=-1
 lastKeyotronUse=3
 lastKingLiberation=3
@@ -854,7 +854,7 @@ lastPaperStripReset=1
 lastPastamancerGhostReset=3
 lastPirateEphemera=pirate pamphlet
 lastPirateEphemeraReset=3
-lastPirateInsult1=false
+lastPirateInsult1=true
 lastPirateInsult2=true
 lastPirateInsult3=false
 lastPirateInsult4=true
@@ -884,16 +884,16 @@ lastSlimeVial3893
 lastSlimeVial3894
 lastSlimeVial3895
 lastSlimeVial3896
-lastStoneSphere2174
-lastStoneSphere2175
-lastStoneSphere2176
-lastStoneSphere2177
+lastStoneSphere2174=nature
+lastStoneSphere2175=water
+lastStoneSphere2176=fire
+lastStoneSphere2177=lightning
 lastStoneSphereReset=3
 lastTavernAscension=3
 lastTavernSquare=20
 lastTelescopeReset=2
 lastTempleAdventures=3
-lastTempleButtonsUnlock=2
+lastTempleButtonsUnlock=3
 lastTempleUnlock=3
 lastTowerClimb=2
 lastTr4pz0rQuest=2
@@ -985,7 +985,7 @@ questL11MacGuffin=step2
 questL11Manor=started
 questL11Palindome=started
 questL11Pyramid=started
-questL11Worship=started
+questL11Worship=finished
 questL12War=unstarted
 questL13Final=unstarted
 questM01Untinker=finished
@@ -999,7 +999,7 @@ questM08Baker=finished
 questM09Rocks=finished
 questM10Azazel=finished
 questM11Postal=unstarted
-questM12Pirate=step4
+questM12Pirate=finished
 questM13Escape=finished
 questM14Bounty=unstarted
 questS01OldGuy=unstarted
@@ -1015,7 +1015,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=2610\:The Shore loc\=* shore.php\:dinghy.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
