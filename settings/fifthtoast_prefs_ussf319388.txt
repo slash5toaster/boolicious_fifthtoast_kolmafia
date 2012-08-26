@@ -728,7 +728,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Oasis in the Desert
+lastAdventure=Desert (Ultrahydrated)
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -792,7 +792,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=3
-lastEncounter=rolling stone
+lastEncounter=The Sleeper Has Awakened
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -904,9 +904,9 @@ oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=0
-pastamancerGhostName
-pastamancerGhostSummons=0
-pastamancerGhostType
+pastamancerGhostName=Bufferhams
+pastamancerGhostSummons=1
+pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
 pastamancerOrbedType
@@ -951,7 +951,7 @@ questL10Garbage=finished
 questL11MacGuffin=step2
 questL11Manor=started
 questL11Palindome=started
-questL11Pyramid=step7
+questL11Pyramid=step11
 questL11Worship=finished
 questL12War=unstarted
 questL13Final=unstarted
