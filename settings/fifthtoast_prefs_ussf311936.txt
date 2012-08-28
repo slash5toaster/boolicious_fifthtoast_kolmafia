@@ -4,8 +4,8 @@ ContactListFrame=2663,343
 CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=280,224,-1
-LoginFrame=725,365,0
+KoLDesktop=2486,0,-1
+LoginFrame=2846,150,0
 MaximizerFrame=972,383
 ProfileFrame=2662,409,-1
 RequestFrame=-4,-4,-1
@@ -612,8 +612,12 @@ choiceAdventure582=0
 choiceAdventure583=1
 choiceAdventure584=0
 choiceAdventure595=0
+choiceAdventure596=0
 choiceAdventure597=0
+choiceAdventure598=0
+choiceAdventure599=0
 choiceAdventure6=1
+choiceAdventure600=0
 choiceAdventure7=1
 choiceAdventure71=1
 choiceAdventure72=2
@@ -644,7 +648,7 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=0
+currentBountyItem=2415
 currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
@@ -654,7 +658,7 @@ currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
 currentSpleenUse=0
-currentWheelPosition=muscle
+currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=50
 cyrptCrannyEvilness=50
@@ -729,7 +733,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=South of the Border
+lastAdventure=Giant's Castle
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=ettin strength
@@ -744,13 +748,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=6
+lastBreakfast=7
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=9
-lastCounterDay=6
+lastCounterDay=7
 lastDispensaryOpen=3
 lastDoorCodeReset=0
 lastDustyBottle2271=6
@@ -791,7 +795,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=3
-lastEncounter=mariachi calavera
+lastEncounter=Raver Giant
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -904,7 +908,7 @@ outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=5
 pastamancerGhostName=Bufferhams
-pastamancerGhostSummons=1
+pastamancerGhostSummons=0
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
@@ -950,13 +954,13 @@ questL10Garbage=finished
 questL11MacGuffin=step2
 questL11Manor=started
 questL11Palindome=started
-questL11Pyramid=started
-questL11Worship=started
+questL11Pyramid=step11
+questL11Worship=finished
 questL12War=unstarted
 questL13Final=unstarted
 questM01Untinker=finished
 questM02Artist=finished
-questM03Bugbear=step1
+questM03Bugbear=step2
 questM04Galaktic=finished
 questM05Toot=unstarted
 questM06Gourd=finished
@@ -965,7 +969,7 @@ questM08Baker=finished
 questM09Rocks=finished
 questM10Azazel=finished
 questM11Postal=unstarted
-questM12Pirate=step4
+questM12Pirate=finished
 questM13Escape=finished
 questM14Bounty=unstarted
 questS01OldGuy=unstarted
@@ -981,7 +985,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=3197\:Semirare window begin loc\=*\:lparen.gif\:3237\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -990,8 +994,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=0
-semirareLocation=South of the Border
+semirareCounter=3037
+semirareLocation=Giant's Castle
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
@@ -1109,3 +1113,4 @@ warProgress=unstarted
 waxMonster
 welcomeBackAdv=0
 wineCellarProgress=0
+zombiePoints=0
