@@ -3,7 +3,7 @@ CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
 KoLDesktop=242,0,-1
-LoginFrame=407,136,0
+LoginFrame=412,136,0
 MaximizerFrame=364,141
 OptionsFrame=337,159,-1
 ProfileFrame=2662,409,-1
@@ -22,7 +22,7 @@ _bagOfCandy=false
 _bagOfCandyUsed=false
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=true
+_ballpit=false
 _banderRunaways=0
 _beerLensDrops=0
 _benettonsCasts=0
@@ -749,13 +749,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=8
+lastBreakfast=9
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=11
-lastCounterDay=8
+lastCounterDay=9
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -801,7 +801,7 @@ lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
 lastGalleryUnlock=3
-lastGuildStoreOpen=0
+lastGuildStoreOpen=3
 lastGuyMadeOfBeesReset=3
 lastHermitReset=1
 lastHiddenCityAscension=1
@@ -915,7 +915,7 @@ pastamancerOrbedExperience=0
 pastamancerOrbedName
 pastamancerOrbedType
 pendingMapReflections=0
-photocopyMonster
+photocopyMonster=monster
 plantingDate
 plantingDay=-1
 plantingLength
