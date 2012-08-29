@@ -2446,3 +2446,187 @@ Encounter: Sewage Moat
 [6322] Daily Dungeon (Room 10)
 Encounter: Treasure!
 You acquire an item: fat loot token
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+August 29, 2012 - Bill 2
+
+Ronald: waxing crescent
+Grimace: full moon
+Mini-moon: in back, near Grimace
+
+Generic Summer Holiday: tomorrow
+Dependence Day: 10 days
+Arrrbor Day: 18 days
+Lab&oacute;r Day: 28 days
+Halloween: 38 days
+Feast of Boris: 45 days
+Yuletide: 50 days
+Festival of Jarlsberg: 55 days
+Valentine's Day: 66 days
+St. Sneaky Pete's Day: 73 days
+Oyster Egg Day: 80 days
+El Dia De Los Muertos Borrachos: 88 days
+
+
+Muscle bonus today and yesterday.
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 20
+HP: 937 / 937
+MP: 407 / 407
+
+Mus: 588 (369), tnp = 100
+Mys: 387 (276), tnp = 530
+Mox: 402 (287), tnp = 315
+
+Advs: 28
+Meat: 402,369
+
+Full: 0 / 15
+Drunk: 8 / 19
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Ol' Scratch's stovepipe hat
+Weapon: Hammer of Smiting
+Off-hand: Ol' Scratch's ash can
+Shirt: astral shirt
+Pants: Ol' Scratch's ol' britches
+Container: Rain-Doh red wings
+
+Acc. 1: Hodgman's bow tie
+Acc. 2: fancy black tie
+Acc. 3: cursed scrunchie
+
+Pet: Fancypants Scarecrow (17 lbs)
+Item: double-ice britches
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+ - Summon Crimbo Candy
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Double-Fisted Skull Smashing
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Musk of the Moose
+ - Northern Exposure
+ - Pulverize
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Snarl of the Timberwolf
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+1 of 3 AT buffs active.
+Yes, Can Haz (7)
+Silent Running (13)
+Scarysauce (241)
+Elemental Saucesphere (241)
+Jabañero Saucesphere (241)
+Jalapeño Saucesphere (241)
+Tenacity of the Snapper (241)
+♫ Polka of Plenty (241)
+Ghostly Shell (254)
+Astral Shell (254)
+Reptilian Fortitude (254)
+Jingle Jangle Jingle (254)
+Empathy (254)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: +40.00%
+
+Exp: +5.07
+Meat: +251.92%
+Item: +5.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+Visiting Crimbo Tree in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Looking Glass in clan VIP lounge
+
+swimming pool screwaround
+
+Doing handstand in clan VIP swimming pool
+
+Diving for treasure in clan VIP swimming pool
+
+Getting out of clan VIP swimming pool
+
+use 1 Manual of Labor
+
+use 1 Chester's bag of candy
+
+use 1 Trivial Avocations board game
+
+use 1 creepy voodoo doll
+
+Harvesting your garden
+You acquire peppermint sprout (3)
+
+cast 13 Summon Resolutions
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be more adventurous
+
+use 4 Marquis de Poivre soda
+You gain 141 Muscularity Points
+
+manageprices.php?action=update&price[5400]=30000&limit[5400]=0&price[1745]=26900&limit[1745]=0&price[5680]=20000&limit[5680]=0&price[1141]=14700&limit[1141]=0&price[5101]=10900&limit[5101]=0&price[5269]=9400&limit[5269]=0&price[3301]=8995&limit[3301]=0&price[5270]=8300&limit[5270]=0&price[5272]=8300&limit[5272]=0&price[5274]=7900&limit[5274]=0&price[5243]=7300&limit[5243]=0&price[5271]=6900&limit[5271]=0&price[5268]=6900&limit[5268]=0&price[5247]=6200&limit[5247]=0&price[377]=6000&limit[377]=0&price[5110]=4990&limit[5110]=1&price[5245]=4100&limit[5245]=0&price[5471]=3900&limit[5471]=0&price[5402]=2200&limit[5402]=0&price[196]=1625&limit[196]=0&price[5109]=1500&limit[5109]=0&price[5092]=1100&limit[5092]=0&price[5105]=941&limit[5105]=0&price[5090]=700&limit[5090]=0&price[594]=410&limit[594]=0&price[2687]=400&limit[2687]=1&price[4508]=335&limit[4508]=0&price[2680]=300&limit[2680]=0&price[617]=274&limit[617]=0&price[622]=272&limit[622]=0&price[632]=264&limit[632]=0&price[542]=260&limit[542]=2&price[538]=260&limit[538]=0&price[616]=258&limit[616]=0&price[613]=256&limit[613]=0&price[614]=256&limit[614]=0&price[3858]=250&limit[3858]=0&price[541]=240&limit[541]=0&price[399]=230&limit[399]=0&price[2093]=230&limit[2093]=0&price[356]=220&limit[356]=0&price[5677]=200&limit[5677]=0&price[834]=190&limit[834]=0&price[472]=190&limit[472]=0&price[776]=190&limit[776]=0&price[3864]=164&limit[3864]=0&price[312]=160&limit[312]=0&price[836]=156&limit[836]=2&price[218]=155&limit[218]=0&price[299]=150&limit[299]=0&price[2613]=150&limit[2613]=0&price[475]=130&limit[475]=0&price[1655]=120&limit[1655]=0&price[5469]=100&limit[5469]=0&price[5467]=100&limit[5467]=0&price[1]=100&limit[1]=0
+managestore.php?howmuch=3000&action=addad&pwd
+mall.php?didadv=0&pudnuggler=ze&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=0&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+
+buy 1 bottle of Ooze-O for 2000 each from 1284916 on 20120829
+You acquire an item: bottle of Ooze-O
+
+mall.php?didadv=0&pudnuggler=clover&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=0&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
