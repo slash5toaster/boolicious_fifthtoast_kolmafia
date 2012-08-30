@@ -3,7 +3,7 @@ CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
 KoLDesktop=242,0,-1
-LoginFrame=412,136,0
+LoginFrame=425,136,0
 MaximizerFrame=364,141
 OptionsFrame=337,159,-1
 ProfileFrame=2662,409,-1
@@ -732,7 +732,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Cobb's Knob Laboratory
+lastAdventure=Whitey's Grove
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -749,13 +749,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=9
+lastBreakfast=10
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=11
-lastCounterDay=9
+lastCounterDay=10
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=0
@@ -796,7 +796,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=3
-lastEncounter=Mr. Alarm, I Presarm
+lastEncounter=Knight in White Satin
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -986,7 +986,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=3372\:Semirare window begin loc\=*\:lparen.gif\:3412\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
@@ -995,8 +995,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=0
-semirareLocation=Cobb's Knob Treasury
+semirareCounter=3212
+semirareLocation=Whitey's Grove
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false

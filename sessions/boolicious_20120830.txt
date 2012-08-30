@@ -694,3 +694,756 @@ choice.php?whichchoice=98&option=3&pwd
 Encounter: Louvre It or Leave It (Escher: Labyrinth)
 Took choice 94/1: Botticelli: The Birth of Venus: Mysticality, Vangoghbitussin, Pinot Renoir
 choice.php?whichchoice=94&option=1&pwd
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+August 30, 2012 - Bill 3
+
+Ronald: first quarter
+Grimace: waning gibbous
+Mini-moon: behind Ronald
+
+Generic Summer Holiday: today
+Dependence Day: 9 days
+Arrrbor Day: 17 days
+Lab&oacute;r Day: 27 days
+Halloween: 37 days
+Feast of Boris: 44 days
+Yuletide: 49 days
+Festival of Jarlsberg: 54 days
+Valentine's Day: 65 days
+St. Sneaky Pete's Day: 72 days
+Oyster Egg Day: 79 days
+El Dia De Los Muertos Borrachos: 87 days
+
+Generic Summer Holiday
+2 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 20
+HP: 637 / 749
+MP: 276 / 324
+
+Mus: 463 (370), tnp = 680
+Mys: 304 (276), tnp = 356
+Mox: 316 (287), tnp = 195
+
+Advs: 98
+Meat: 402,733
+
+Full: 15 / 15
+Drunk: 0 / 14
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Hodgman's porkpie hat
+Weapon: octopus's spade
+Off-hand: Hodgman's metal detector
+Shirt: astral shirt
+Pants: Ol' Scratch's ol' britches
+Container: makeshift cape
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: fancy black tie
+Acc. 3: cursed scrunchie
+
+Pet: Fancypants Scarecrow (20 lbs)
+Item: gnauga hide skirt
+
+ > skills
+
+
+
+ > effects
+
+1 of 3 AT buffs active.
+Silent Running
+Apathy (3)
+Billiards Belligerence (6)
+A Little Bit Evil (Seal Clubber) (7)
+Hustlin' (7)
+Marco Polarity (7)
+Eye of the Seal (7)
+Moon'd (14)
+Brother Smothers's Blessing (14)
+Joyful Resolve (17)
+So Fresh and So Clean (46)
+Bubble Vision (97)
+Scarysauce (229)
+Tenacity of the Snapper (229)
+♫ Polka of Plenty (229)
+Elemental Saucesphere (229)
+Jabañero Saucesphere (229)
+Jalapeño Saucesphere (229)
+Ghostly Shell (242)
+Jingle Jangle Jingle (242)
+Astral Shell (242)
+Reptilian Fortitude (242)
+Empathy (242)
+
+
+ > modifiers
+
+ML: +2
+Enc: -5.00%
+Init: +80.00%
+
+Exp: +4.25
+Meat: +50.00%
+Item: +175.94%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+Took choice 98/1: Calculated probabilities:<br>41% - return to stairs<br>7% - Leonardo da Vinci: The Last Supper: Mysticality, Vangoghbitussin<br>52% - Dali: The Persistence of Memory: Mysticality, Pinot Renoir
+choice.php?pwd&whichchoice=98&option=1
+Took choice 104/1: Calculated probabilities:<br>41% - return to stairs<br>7% - Mysticality<br>52% - bottle of Pinot Renoir
+choice.php?pwd&whichchoice=104&option=1
+You acquire an item: bottle of Pinot Renoir
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+August 30, 2012 - Bill 3
+
+Ronald: first quarter
+Grimace: waning gibbous
+Mini-moon: behind Ronald
+
+Generic Summer Holiday: today
+Dependence Day: 9 days
+Arrrbor Day: 17 days
+Lab&oacute;r Day: 27 days
+Halloween: 37 days
+Feast of Boris: 44 days
+Yuletide: 49 days
+Festival of Jarlsberg: 54 days
+Valentine's Day: 65 days
+St. Sneaky Pete's Day: 72 days
+Oyster Egg Day: 79 days
+El Dia De Los Muertos Borrachos: 87 days
+
+Generic Summer Holiday
+2 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 20
+HP: 637 / 749
+MP: 276 / 324
+
+Mus: 463 (370), tnp = 680
+Mys: 304 (276), tnp = 356
+Mox: 316 (287), tnp = 195
+
+Advs: 97
+Meat: 402,733
+
+Full: 15 / 15
+Drunk: 0 / 19
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Hodgman's porkpie hat
+Weapon: octopus's spade
+Off-hand: Hodgman's metal detector
+Shirt: astral shirt
+Pants: Ol' Scratch's ol' britches
+Container: makeshift cape
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: fancy black tie
+Acc. 3: cursed scrunchie
+
+Pet: Fancypants Scarecrow (20 lbs)
+Item: gnauga hide skirt
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+ - Summon Crimbo Candy
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Double-Fisted Skull Smashing
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Musk of the Moose
+ - Northern Exposure
+ - Pulverize
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Snarl of the Timberwolf
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+1 of 3 AT buffs active.
+Apathy (2)
+Billiards Belligerence (5)
+A Little Bit Evil (Seal Clubber) (6)
+Hustlin' (6)
+Marco Polarity (6)
+Eye of the Seal (6)
+Moon'd (13)
+Brother Smothers's Blessing (13)
+Joyful Resolve (16)
+So Fresh and So Clean (45)
+Bubble Vision (96)
+Scarysauce (228)
+Tenacity of the Snapper (228)
+♫ Polka of Plenty (228)
+Elemental Saucesphere (228)
+Jabañero Saucesphere (228)
+Jalapeño Saucesphere (228)
+Ghostly Shell (241)
+Jingle Jangle Jingle (241)
+Astral Shell (241)
+Reptilian Fortitude (241)
+Empathy (241)
+
+
+ > modifiers
+
+ML: +2
+Enc: +0.00%
+Init: +80.00%
+
+Exp: +4.25
+Meat: +50.00%
+Item: +176.94%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 2 Summon Resolutions
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be feistier
+
+use 13 resolution: be sexier
+You acquire an effect: Irresistible Resolve (duration: 260 Adventures)
+
+use 9 resolution: be stronger
+You acquire an effect: Strong Resolve (duration: 180 Adventures)
+
+use 7 resolution: be feistier
+You acquire an effect: Destructive Resolve (duration: 140 Adventures)
+
+use 1 resolution: be wealthier
+You acquire an effect: Greedy Resolve (duration: 20 Adventures)
+
+use 8 resolution: be happier
+You acquire an effect: Joyful Resolve (duration: 160 Adventures)
+
+use 3 resolution: be smarter
+You acquire an effect: Brilliant Resolve (duration: 60 Adventures)
+
+use 2 resolution: be luckier
+You acquire an effect: Fortunate Resolve (duration: 40 Adventures)
+
+drink 1 bottle of Pinot Renoir
+You gain 7 Adventures
+You gain 22 Fortitude
+You gain 14 Wizardliness
+You gain 2 Drunkenness
+
+use 20 moxie weed
+
+use 1 giant moxie weed
+You gain 8 Sarcasm
+
+use 10 moxie weed
+You gain 23 Chutzpah
+
+drink 2 fuzzbump
+You gain 13 Adventures
+You gain 36 Strengthliness
+You gain 4 Drunkenness
+You gain 10 Adventures
+You gain 36 Beefiness
+You gain 4 Drunkenness
+
+[6336] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 745 damage.
+Round 2: boolicious wins the fight!
+You gain 390 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: non-Euclidean hoof
+You gain 20 Muscleboundness
+You gain 34 Enchantedness
+You gain 10 Cheek
+
+[6337] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 672 damage.
+Round 2: boolicious wins the fight!
+You gain 308 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: non-Euclidean hoof
+You acquire an item: 4-dimensional guitar
+You gain 20 Fortitude
+You gain 27 Wizardliness
+You gain 17 Smarm
+
+[6338] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 845 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 24 Muscleboundness
+You gain 33 Magicalness
+You gain 7 Roguishness
+
+[6339] Haunted Gallery
+Encounter: Out in the Garden
+Took choice 89/3: Dreams and Lights
+choice.php?whichchoice=89&option=3&pwd
+You acquire an effect: Dreams and Lights (duration: 10 Adventures)
+
+[6340] Haunted Gallery
+Encounter: Out in the Garden
+Took choice 89/1: Wolf Knight
+choice.php?whichchoice=89&option=1&pwd
+Encounter: Knight (Wolf)
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knight (wolf) takes 838 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 25 Fortitude
+You gain 30 Enchantedness
+You gain 10 Chutzpah
+
+[6341] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 565 damage.
+Round 2: boolicious wins the fight!
+You gain 210 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 18 Fortitude
+You gain 28 Mysteriousness
+You gain 20 Chutzpah
+
+[6342] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 586 damage.
+Round 2: boolicious wins the fight!
+You gain 438 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: non-Euclidean hoof
+You acquire an item: 4-dimensional guitar
+You gain 23 Beefiness
+You gain 7 Wizardliness
+You gain 13 Chutzpah
+
+[6343] Haunted Gallery
+Encounter: Out in the Garden
+Took choice 89/1: Wolf Knight
+choice.php?whichchoice=89&option=1&pwd
+Encounter: Knight (Wolf)
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knight (wolf) takes 563 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: snarling wolf shield
+You gain 20 Strongness
+You gain 13 Enchantedness
+You gain 12 Sarcasm
+
+[6344] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 574 damage.
+Round 2: boolicious wins the fight!
+You gain 199 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: pitchfork
+You gain 23 Strengthliness
+You gain 9 Mysteriousness
+You gain 13 Sarcasm
+
+[6345] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 585 damage.
+Round 2: boolicious wins the fight!
+You gain 399 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: non-Euclidean hoof
+You gain 22 Fortitude
+You gain 6 Mysteriousness
+You gain 13 Cheek
+
+[6346] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 618 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: antique spear
+You acquire an item: antique shield
+You gain 14 Beefiness
+You gain 17 Magicalness
+You gain 15 Chutzpah
+
+[6347] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 565 damage.
+Round 2: boolicious wins the fight!
+You gain 194 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 13 Muscleboundness
+You gain 20 Mysteriousness
+You gain 10 Cheek
+
+[6348] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 577 damage.
+Round 2: boolicious wins the fight!
+You gain 173 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 16 Strongness
+You gain 8 Enchantedness
+You gain 20 Chutzpah
+
+[6349] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 568 damage.
+Round 2: boolicious wins the fight!
+You gain 421 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: non-Euclidean hoof
+You gain 18 Fortitude
+You gain 8 Wizardliness
+You gain 11 Sarcasm
+You gain a Moxie point!
+
+[6350] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 569 damage.
+Round 2: boolicious wins the fight!
+You gain 160 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 13 Muscleboundness
+You gain 17 Wizardliness
+You gain 9 Chutzpah
+
+[6351] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 579 damage.
+Round 2: boolicious wins the fight!
+You gain 373 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: non-Euclidean hoof
+You gain 12 Muscleboundness
+You gain 14 Magicalness
+You gain 11 Roguishness
+
+[6352] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 575 damage.
+Round 2: boolicious wins the fight!
+You gain 194 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 16 Fortitude
+You gain 9 Enchantedness
+You gain 14 Sarcasm
+
+[6353] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 559 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 21 Strengthliness
+You gain 10 Enchantedness
+You gain 9 Roguishness
+
+[6354] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 573 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 14 Strengthliness
+You gain 14 Mysteriousness
+You gain 12 Sarcasm
+
+[6355] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 579 damage.
+Round 2: boolicious wins the fight!
+You gain 186 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: pitchfork
+You gain 13 Fortitude
+You gain 15 Wizardliness
+You gain 10 Cheek
+
+[6356] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 569 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: antique helmet
+You gain 19 Beefiness
+You gain 10 Magicalness
+You gain 10 Cheek
+
+[6357] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 576 damage.
+Round 2: boolicious wins the fight!
+You gain 162 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 15 Muscleboundness
+You gain 7 Enchantedness
+You gain 18 Cheek
+
+[6358] Haunted Gallery
+Encounter: Out in the Garden
+Took choice 89/3: Dreams and Lights
+choice.php?whichchoice=89&option=3&pwd
+You acquire an effect: Dreams and Lights (duration: 10 Adventures)
+
+[6359] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 581 damage.
+Round 2: boolicious wins the fight!
+You gain 255 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: non-Euclidean hoof
+You gain 15 Strengthliness
+You gain 13 Wizardliness
+You gain a Mysticality point!
+You gain 10 Roguishness
+
+[6360] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 582 damage.
+Round 2: boolicious wins the fight!
+You gain 127 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 17 Beefiness
+You gain 8 Enchantedness
+You gain 13 Smarm
+
+[6361] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 568 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: antique greaves
+You gain 11 Fortitude
+You gain 15 Wizardliness
+You gain 14 Sarcasm
+
+[6362] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 580 damage.
+Round 2: boolicious wins the fight!
+You gain 354 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: non-Euclidean hoof
+You gain 14 Strongness
+You gain 11 Wizardliness
+You gain 12 Cheek
+
+[6363] Haunted Gallery
+Encounter: Out in the Garden
+Took choice 89/1: Wolf Knight
+choice.php?whichchoice=89&option=1&pwd
+Encounter: Knight (Wolf)
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knight (wolf) takes 559 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 14 Muscleboundness
+You gain 15 Wizardliness
+You gain 11 Roguishness
+
+[6364] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 618 damage.
+Round 2: boolicious wins the fight!
+You gain 339 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: non-Euclidean hoof
+You gain 18 Fortitude
+You gain 7 Mysteriousness
+You gain 12 Cheek
+
+[6365] Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 564 damage.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: antique greaves
+You acquire an item: antique shield
+You gain 19 Beefiness
+You gain 9 Mysteriousness
+You gain 11 Roguishness
+
+[6366] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 580 damage.
+Round 2: boolicious wins the fight!
+You gain 271 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: non-Euclidean hoof
+You gain 16 Strengthliness
+You gain 12 Magicalness
+You gain 9 Roguishness
+
+[6367] Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 566 damage.
+Round 2: boolicious wins the fight!
+You gain 164 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You gain 13 Beefiness
+You gain 14 Mysteriousness
+You gain 12 Smarm
+
+[6368] Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 576 damage.
+Round 2: boolicious wins the fight!
+You gain 285 Meat
+After Battle: Heckel &amp; Jeckyl does a petulant little dance of disgust. "I can't believe you're making me wear this," he complains. "Is there a sign posted on my buttocks, reading 'Dead Gnauga Storage'?" 
+You acquire an item: non-Euclidean hoof
+You acquire an item: 4-dimensional guitar
+You gain 22 Strongness
+You gain 6 Mysteriousness
+You gain 9 Smarm
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
