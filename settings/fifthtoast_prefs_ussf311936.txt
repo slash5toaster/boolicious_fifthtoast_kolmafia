@@ -4,13 +4,13 @@ ContactListFrame=2663,343
 CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=300,181,-1
-LoginFrame=714,349,0
+KoLDesktop=1949,298,-1
+LoginFrame=725,349,0
 MaximizerFrame=972,383
 ProfileFrame=2662,409,-1
 RequestFrame=655,318,-1
 RequestSynchFrame=1916,-4,-1
-TabbedChatFrame=1171,66,0
+TabbedChatFrame=2863,89,0
 _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
@@ -84,7 +84,7 @@ _jackassPlumberGame=false
 _jackassePlumberGame
 _jingleBellUsed=false
 _jitbCharge=0
-_jukebox=true
+_jukebox=false
 _klawSummons=0
 _kloopDrops=0
 _kolConSixPackUsed=false
@@ -649,7 +649,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=9
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -665,7 +665,7 @@ cyrptCrannyEvilness=50
 cyrptNicheEvilness=38
 cyrptNookEvilness=43
 cyrptTotalEvilness=181
-dailyDungeonDone=true
+dailyDungeonDone=false
 dbNemesisSkill1=0
 dbNemesisSkill2=0
 dbNemesisSkill3=0
@@ -733,7 +733,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Daily Dungeon
+lastAdventure=Generic Summer Holiday Swimming\!
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=ettin strength
@@ -748,13 +748,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=8
+lastBreakfast=10
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=9
-lastCounterDay=8
+lastCounterDay=10
 lastDispensaryOpen=3
 lastDoorCodeReset=0
 lastDustyBottle2271=6
@@ -795,7 +795,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=3
-lastEncounter=black pudding
+lastEncounter=Huff, Puff
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -985,7 +985,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=3197\:Semirare window begin loc\=*\:lparen.gif\:3237\:Semirare window end loc\=*\:rparen.gif
+relayCounters=3237\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
