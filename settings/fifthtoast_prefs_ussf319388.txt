@@ -231,7 +231,7 @@ biodataEngineering=9
 biodataGalley=0
 biodataMedbay=3
 biodataMorgue=6
-biodataNavigation=0
+biodataNavigation=9
 biodataScienceLab=6
 biodataSonar=3
 biodataSpecialOps=6
@@ -648,7 +648,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=15
+currentFullness=12
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -656,7 +656,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=1
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -664,7 +664,7 @@ cyrptCrannyEvilness=0
 cyrptNicheEvilness=0
 cyrptNookEvilness=0
 cyrptTotalEvilness=0
-dailyDungeonDone=false
+dailyDungeonDone=true
 dbNemesisSkill1=0
 dbNemesisSkill2=0
 dbNemesisSkill3=0
@@ -680,7 +680,7 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8
 demonName9
-demonSummoned=false
+demonSummoned=true
 desktopHeight=600
 desktopWidth=800
 distentionPillActive=false
@@ -732,7 +732,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=The Middle Chamber
+lastAdventure=Sonar
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -749,13 +749,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=11
+lastBreakfast=12
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=12
-lastCounterDay=11
+lastCouncilVisit=13
+lastCounterDay=12
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=6
@@ -796,12 +796,12 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=3
-lastEncounter=tomb servant
+lastEncounter=Sayonara, Sonar\!
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
 lastGalleryUnlock=3
-lastGuildStoreOpen=3
+lastGuildStoreOpen=0
 lastGuyMadeOfBeesReset=3
 lastHermitReset=1
 lastHiddenCityAscension=3
@@ -873,9 +873,9 @@ lastWuTangDefeated=-1
 lastZapperWand=3
 libramSummons=0
 libraryCardUsed=false
-louvreDesiredGoal=7
+louvreDesiredGoal=8
 louvreGoal=6
-louvreLayout
+louvreLayout=98,97,96,96,0,0,0,0,0,98,0,0,0,0,100,0,0,93,95,104,103,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,0,5,0
 louvreOverride
 manaBurnSummonThreshold=10
 manaBurningThreshold=-0.05
@@ -907,9 +907,9 @@ olfactedMonster=wabbit
 oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
-pastamancerGhostExperience=0
+pastamancerGhostExperience=1
 pastamancerGhostName=Bufferhams
-pastamancerGhostSummons=0
+pastamancerGhostSummons=4
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
@@ -926,8 +926,8 @@ preAscensionScript
 preBlackbirdFamiliar
 prismaticSummons=0
 promptAboutCrafting=1
-pyramidBombUsed=false
-pyramidPosition=5
+pyramidBombUsed=true
+pyramidPosition=1
 questF01Primordial=unstarted
 questF01Primordial,=Primordial Fear\=unstarted
 questF02Hyboria=unstarted
@@ -952,10 +952,10 @@ questL07Cyrptic=finished
 questL08Trapper=finished
 questL09Lol=finished
 questL10Garbage=finished
-questL11MacGuffin=step2
+questL11MacGuffin=finished
 questL11Manor=finished
 questL11Palindome=finished
-questL11Pyramid=step12
+questL11Pyramid=finished
 questL11Worship=finished
 questL12War=started
 questL13Final=unstarted
@@ -986,7 +986,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=3372\:Semirare window begin loc\=*\:lparen.gif\:3412\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1034,7 +1034,7 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster
-stationaryButton1
+stationaryButton1=3003
 stationaryButton2
 stationaryButton3
 stationaryButton4
