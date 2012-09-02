@@ -1,15 +1,18 @@
-AdventureFrame=406,84,1
+AdventureFrame=406,84,4
+CoinmastersFrame=305,175,-1
 CouncilFrame=424,322,-1
 DescriptionFrame=-4,0,-1
 FamiliarTrainingFrame=2498,327
 KoLDesktop=242,0,-1
-LoginFrame=419,136,0
+LoginFrame=425,136,0
 MaximizerFrame=364,141
+MeatManageFrame=440,122
+MushroomFrame=352,192,1
 OptionsFrame=337,159,-1
 ProfileFrame=2662,409,-1
 RequestFrame=-4,0,-1
 RequestSynchFrame=5,5,-1
-TabbedChatFrame=806,109,0
+TabbedChatFrame=806,109,1
 _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
@@ -164,8 +167,8 @@ autoSphereID=false
 autoSteal=true
 autostartGalaktikQuest=true
 availableCandyCredits=0
-availableDimes=0
-availableQuarters=0
+availableDimes=11
+availableQuarters=13
 availableStoreCredits=0
 availableSwagger=0
 badMoonEncounter01=false
@@ -242,7 +245,7 @@ birdformRoc=0
 birdformSleaze=0
 birdformSpooky=0
 birdformStench=0
-blackPuddingsDefeated=3
+blackPuddingsDefeated=4
 blankOutUsed=0
 bootsCharged=false
 borisPoints=0
@@ -648,15 +651,15 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=12
+currentFullness=15
 currentHippyStore=none
-currentJunkyardLocation
+currentJunkyardLocation=Yossarian
 currentJunkyardTool
 currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=1
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -700,7 +703,7 @@ fistTeachingsNinjaSnowmen=false
 fistTeachingsPokerRoom=false
 fistTeachingsRoad=false
 fistTeachingsSlums=false
-flyeredML=0
+flyeredML=4920
 fossilB=0
 fossilD=0
 fossilN=0
@@ -724,7 +727,7 @@ heroDonationJarlsberg=0
 heroDonationSneakyPete=0
 hiddenCityLayout=EENEEREEEEEEEEREEEEREEEET
 hiddenCitySquare=0
-hippiesDefeated=0
+hippiesDefeated=2
 hpAutoRecovery=0.2
 hpAutoRecoveryItems=sleep on your clan sofa;galaktik's curative nostrum;medicinal herb's medicinal herbs;scroll of drastic healing;cannelloni cocoon;red pixel potion;really thick bandage;pok&euml;mann band-aid;elven medi-pack;phonics down;honey-dipped locust;tongue of the walrus;red paisley oyster egg;red polka-dot oyster egg;red striped oyster egg;tiny house;lasagna bandages;doc galaktik's homeopathic elixir;cast;tongue of the otter;sugar shard;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent
 hpAutoRecoveryTarget=1.0
@@ -732,7 +735,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Sonar
+lastAdventure=Waste Processing
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -749,13 +752,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=12
+lastBreakfast=13
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=13
-lastCounterDay=12
+lastCounterDay=13
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=6
@@ -796,12 +799,12 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=3
-lastEncounter=Sayonara, Sonar\!
+lastEncounter=creepy eye-stalk tentacle monster
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
 lastGalleryUnlock=3
-lastGuildStoreOpen=0
+lastGuildStoreOpen=3
 lastGuyMadeOfBeesReset=3
 lastHermitReset=1
 lastHiddenCityAscension=3
@@ -909,17 +912,17 @@ outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=1
 pastamancerGhostName=Bufferhams
-pastamancerGhostSummons=4
+pastamancerGhostSummons=1
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
 pastamancerOrbedType
 pendingMapReflections=0
 photocopyMonster=monster
-plantingDate
-plantingDay=-1
-plantingLength
-plantingScript
+plantingDate=13
+plantingDay=0
+plantingLength=5
+plantingScript=flaming2
 poolSharkCount=0
 postAscensionScript
 preAscensionScript
@@ -957,7 +960,7 @@ questL11Manor=finished
 questL11Palindome=finished
 questL11Pyramid=finished
 questL11Worship=finished
-questL12War=started
+questL12War=step1
 questL13Final=unstarted
 questM01Untinker=finished
 questM02Artist=finished
@@ -1005,7 +1008,7 @@ sideDefeated=neither
 sidequestArenaCompleted=none
 sidequestFarmCompleted=none
 sidequestJunkyardCompleted=none
-sidequestLighthouseCompleted=none
+sidequestLighthouseCompleted=fratboy
 sidequestNunsCompleted=none
 sidequestOrchardCompleted=none
 singleFamiliarRun=-1
@@ -1035,7 +1038,7 @@ spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster
 stationaryButton1=3003
-stationaryButton2
+stationaryButton2=3005
 stationaryButton3
 stationaryButton4
 stationaryButton5
@@ -1110,7 +1113,7 @@ volcanoMaze2
 volcanoMaze3
 volcanoMaze4
 volcanoMaze5
-warProgress=unstarted
+warProgress=started
 waxMonster
 welcomeBackAdv=0
 wineCellarProgress=3
