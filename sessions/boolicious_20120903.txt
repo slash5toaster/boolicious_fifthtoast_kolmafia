@@ -219,3 +219,861 @@ You acquire an item: resolution: be happier
 You acquire an item: resolution: be sexier
 You acquire an item: resolution: be stronger
 You acquire an item: resolution: be smarter
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+September 3, 2012 - Bill 7
+
+Ronald: third quarter
+Grimace: waning crescent
+Mini-moon: behind Grimace
+
+Dependence Day: 5 days
+Arrrbor Day: 13 days
+Lab&oacute;r Day: 23 days
+Halloween: 33 days
+Feast of Boris: 40 days
+Yuletide: 45 days
+Festival of Jarlsberg: 50 days
+Valentine's Day: 61 days
+St. Sneaky Pete's Day: 68 days
+Oyster Egg Day: 75 days
+El Dia De Los Muertos Borrachos: 83 days
+Generic Summer Holiday: 92 days
+
+
+Moxie bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 20
+HP: 935 / 935
+MP: 52 / 444
+
+Mus: 587 (377), tnp = 179
+Mys: 404 (281), tnp = 217
+Mox: 411 (293), tnp = 33
+
+Advs: 122
+Meat: 360,831
+
+Full: 0 / 15
+Drunk: 0 / 19
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Hodgman's porkpie hat
+Weapon: octopus's spade
+Off-hand: hobo code binder
+Shirt: astral shirt
+Pants: Ol' Scratch's ol' britches
+Container: makeshift cape
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: fancy black tie
+Acc. 3: cursed scrunchie
+
+Pet: Fancypants Scarecrow (17 lbs)
+Item: double-ice britches
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+ - Summon Crimbo Candy
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Double-Fisted Skull Smashing
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Musk of the Moose
+ - Northern Exposure
+ - Pulverize
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Snarl of the Timberwolf
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Seal Clubbing Frenzy (169)
+♫ The Sonata of Sneakiness (293)
+♫ The Magical Mojomuscular Melody (293)
+Tenacity of the Snapper (342)
+♫ Polka of Plenty (342)
+Ghostly Shell (355)
+Astral Shell (355)
+Reptilian Fortitude (355)
+Empathy (355)
+Scarysauce (477)
+Elemental Saucesphere (477)
+Jabañero Saucesphere (477)
+Jalapeño Saucesphere (477)
+Jingle Jangle Jingle (490)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: +30.00%
+
+Exp: +5.07
+Meat: +251.92%
+Item: +25.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 40 broken petri dishes
+
+[6597] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mad scientist takes 633 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 42 damage.
+Round 2: knob goblin mad scientist takes 42 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 161 Meat
+You acquire an item: broken petri dish
+You gain 3 Muscleboundness
+You gain 8 Wizardliness
+You gain 10 Chutzpah
+
+[6598] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mad scientist takes 636 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 45 damage.
+Round 2: knob goblin mad scientist takes 45 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 126 Meat
+You acquire an item: broken petri dish
+You gain 7 Muscleboundness
+You gain 7 Magicalness
+You gain 7 Sarcasm
+
+[6599] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mad scientist takes 635 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 39 damage.
+Round 2: knob goblin mad scientist takes 39 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 140 Meat
+You acquire an item: Knob Goblin steroids
+You acquire an item: broken petri dish
+You gain 9 Strongness
+You gain 5 Magicalness
+You gain 7 Roguishness
+
+[6600] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mad scientist takes 629 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 43 damage.
+Round 2: knob goblin mad scientist takes 43 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 119 Meat
+You acquire an item: broken petri dish
+You gain 9 Strongness
+You gain 5 Mysteriousness
+You gain 7 Sarcasm
+
+[6601] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin alchemist takes 633 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 42 damage.
+Round 2: knob goblin alchemist takes 42 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: broken petri dish
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 11 Fortitude
+You gain 7 Enchantedness
+You gain 3 Cheek
+You gain a Moxie point!
+
+[6602] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin very mad scientist takes 611 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 46 damage.
+Round 2: knob goblin very mad scientist takes 46 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 158 Meat
+You acquire an item: Knob Goblin seltzer
+You acquire an item: Knob Goblin melon baller
+You acquire an item: broken petri dish
+You gain 8 Muscleboundness
+You gain 6 Magicalness
+You gain 9 Chutzpah
+
+[6603] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mad scientist takes 623 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 44 damage.
+Round 2: knob goblin mad scientist takes 44 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 119 Meat
+You acquire an item: broken petri dish
+You gain 10 Muscleboundness
+You gain 7 Mysteriousness
+You gain 4 Smarm
+
+[6604] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin alchemist takes 624 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 35 damage.
+Round 2: knob goblin alchemist takes 35 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: broken petri dish
+You acquire an item: half-baked potion
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 11 Beefiness
+You gain 6 Wizardliness
+You gain 5 Smarm
+
+[6605] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin alchemist takes 641 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 45 damage.
+Round 2: knob goblin alchemist takes 45 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: broken petri dish
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 10 Muscleboundness
+You gain 5 Wizardliness
+You gain 6 Cheek
+
+[6606] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin very mad scientist takes 620 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 41 damage.
+Round 2: knob goblin very mad scientist takes 41 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 126 Meat
+You acquire an item: broken petri dish
+You acquire an item: bunch of square grapes
+You gain 12 Beefiness
+You gain 6 Wizardliness
+You gain 4 Smarm
+
+[6607] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin very mad scientist takes 632 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 41 damage.
+Round 2: knob goblin very mad scientist takes 41 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 165 Meat
+You acquire an item: broken petri dish
+You acquire an item: bunch of square grapes
+You gain 6 Strongness
+You gain 6 Wizardliness
+You gain 10 Chutzpah
+
+[6608] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin alchemist takes 617 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 39 damage.
+Round 2: knob goblin alchemist takes 39 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: broken petri dish
+You acquire an item: half-baked potion
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 11 Strongness
+You gain 5 Wizardliness
+You gain 6 Chutzpah
+
+[6609] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin very mad scientist takes 619 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 42 damage.
+Round 2: knob goblin very mad scientist takes 42 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 154 Meat
+You acquire an item: Knob Goblin superseltzer
+You acquire an item: scrumptious reagent
+You acquire an item: broken petri dish
+You gain 12 Beefiness
+You gain 6 Enchantedness
+You gain 4 Cheek
+
+[6610] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin alchemist takes 629 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 43 damage.
+Round 2: knob goblin alchemist takes 43 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: broken petri dish
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 10 Beefiness
+You gain 6 Mysteriousness
+You gain 4 Cheek
+
+[6611] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mad scientist takes 634 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 45 damage.
+Round 2: knob goblin mad scientist takes 45 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 133 Meat
+You acquire an item: broken petri dish
+You gain 8 Fortitude
+You gain 5 Enchantedness
+You gain 8 Chutzpah
+
+[6612] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin very mad scientist takes 624 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 36 damage.
+Round 2: knob goblin very mad scientist takes 36 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 183 Meat
+You acquire an item: Knob Goblin melon baller
+You acquire an item: broken petri dish
+You gain 8 Muscleboundness
+You gain 9 Enchantedness
+You gain 5 Sarcasm
+
+[6613] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin alchemist takes 618 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 51 damage.
+Round 2: knob goblin alchemist takes 51 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: broken petri dish
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 11 Strongness
+You gain 7 Wizardliness
+You gain 3 Sarcasm
+
+[6614] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin very mad scientist takes 626 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 44 damage.
+Round 2: knob goblin very mad scientist takes 44 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 172 Meat
+You acquire an item: Knob Goblin superseltzer
+You acquire an item: broken petri dish
+You gain 10 Strengthliness
+You gain 5 Mysteriousness
+You gain 7 Chutzpah
+
+[6615] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mad scientist takes 623 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 45 damage.
+Round 2: knob goblin mad scientist takes 45 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 119 Meat
+You acquire an item: Knob Goblin seltzer
+You acquire an item: broken petri dish
+You gain 11 Beefiness
+You gain 6 Magicalness
+You gain 4 Roguishness
+
+[6616] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin very mad scientist takes 624 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 40 damage.
+Round 2: knob goblin very mad scientist takes 40 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 147 Meat
+You acquire an item: Knob Goblin superseltzer
+You acquire an item: scrumptious reagent
+You acquire an item: broken petri dish
+You gain 11 Strengthliness
+You gain a Muscle point!
+You gain 3 Mysteriousness
+You gain 8 Cheek
+
+[6617] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin very mad scientist takes 632 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 37 damage.
+Round 2: knob goblin very mad scientist takes 37 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 140 Meat
+You acquire an item: scrumptious reagent
+You acquire an item: broken petri dish
+You gain 10 Beefiness
+You gain 9 Mysteriousness
+You gain 3 Roguishness
+
+[6618] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin very mad scientist takes 621 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 51 damage.
+Round 2: knob goblin very mad scientist takes 51 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 158 Meat
+You acquire an item: broken petri dish
+You acquire an item: bunch of square grapes
+You gain 11 Beefiness
+You gain 3 Wizardliness
+You gain 8 Smarm
+
+[6619] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin very mad scientist takes 624 damage.
+Round 2: Heckel &amp; Jeckyl's bells jingle merrily.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 47 damage.
+Round 2: knob goblin very mad scientist takes 47 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 179 Meat
+You acquire an item: broken petri dish
+You gain 15 Beefiness
+You gain 6 Magicalness
+You gain 2 Roguishness
+
+[6620] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin alchemist takes 633 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 41 damage.
+Round 2: knob goblin alchemist takes 41 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: broken petri dish
+You acquire an item: half-baked potion
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 8 Beefiness
+You gain 5 Mysteriousness
+You gain 8 Smarm
+
+[6621] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin alchemist takes 633 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 36 damage.
+Round 2: knob goblin alchemist takes 36 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: broken petri dish
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 9 Beefiness
+You gain 5 Enchantedness
+You gain 7 Roguishness
+
+[6622] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mad scientist takes 627 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 39 damage.
+Round 2: knob goblin mad scientist takes 39 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 123 Meat
+You acquire an item: Knob Goblin steroids
+You acquire an item: broken petri dish
+You gain 13 Strongness
+You gain 4 Magicalness
+You gain 5 Roguishness
+
+[6623] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin alchemist takes 618 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 35 damage.
+Round 2: knob goblin alchemist takes 35 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: broken petri dish
+You acquire an item: half-baked potion
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 13 Strengthliness
+You gain 4 Enchantedness
+You gain 4 Chutzpah
+
+[6624] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin alchemist takes 636 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 38 damage.
+Round 2: knob goblin alchemist takes 38 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: broken petri dish
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 7 Muscleboundness
+You gain 5 Magicalness
+You gain 10 Roguishness
+
+[6625] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin very mad scientist takes 612 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 40 damage.
+Round 2: knob goblin very mad scientist takes 40 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 154 Meat
+You acquire an item: Knob Goblin melon baller
+You acquire an item: broken petri dish
+You gain 12 Strongness
+You gain 6 Magicalness
+You gain 5 Chutzpah
+
+[6626] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mad scientist takes 626 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 45 damage.
+Round 2: knob goblin mad scientist takes 45 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 147 Meat
+You acquire an item: Knob Goblin love potion
+You acquire an item: Knob Goblin seltzer
+You acquire an item: broken petri dish
+You gain 10 Muscleboundness
+You gain 7 Mysteriousness
+You gain 4 Chutzpah
+
+[6627] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mad scientist takes 626 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 48 damage.
+Round 2: knob goblin mad scientist takes 48 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 140 Meat
+You acquire an item: broken petri dish
+You gain 8 Muscleboundness
+You gain 4 Magicalness
+You gain 9 Cheek
+
+[6628] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin very mad scientist takes 620 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 42 damage.
+Round 2: knob goblin very mad scientist takes 42 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 147 Meat
+You acquire an item: Knob Goblin superseltzer
+You acquire an item: broken petri dish
+You gain 10 Beefiness
+You gain 8 Magicalness
+You gain 4 Sarcasm
+
+[6629] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin very mad scientist takes 623 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 44 damage.
+Round 2: knob goblin very mad scientist takes 44 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 144 Meat
+You acquire an item: scrumptious reagent
+You acquire an item: broken petri dish
+You gain 12 Strongness
+You gain 3 Wizardliness
+You gain 7 Sarcasm
+
+[6630] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin alchemist takes 628 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 42 damage.
+Round 2: knob goblin alchemist takes 42 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: broken petri dish
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 10 Fortitude
+You gain 7 Enchantedness
+You gain 5 Cheek
+
+[6631] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin very mad scientist takes 623 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 43 damage.
+Round 2: knob goblin very mad scientist takes 43 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 161 Meat
+You acquire an item: Knob Goblin superseltzer
+You acquire an item: scrumptious reagent
+You acquire an item: broken petri dish
+You gain 11 Muscleboundness
+You gain 5 Enchantedness
+You gain 5 Sarcasm
+
+[6632] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mad scientist takes 629 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 40 damage.
+Round 2: knob goblin mad scientist takes 40 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 140 Meat
+You acquire an item: Knob Goblin seltzer
+You acquire an item: broken petri dish
+You gain 14 Muscleboundness
+You gain 2 Magicalness
+You gain 5 Roguishness
+
+[6633] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin very mad scientist takes 633 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 35 damage.
+Round 2: knob goblin very mad scientist takes 35 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 144 Meat
+You acquire an item: broken petri dish
+You gain 10 Beefiness
+You gain 6 Mysteriousness
+You gain 7 Chutzpah
+concert 1
+
+[6634] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: knob goblin mad scientist takes 629 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 43 damage.
+Round 2: knob goblin mad scientist takes 43 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 140 Meat
+You acquire an item: Knob Goblin seltzer
+You acquire an item: broken petri dish
+You gain 11 Strengthliness
+You gain 8 Enchantedness
+You gain a Mysticality point!
+You gain 2 Smarm
+concert 1
+You acquire an effect: Moon'd (duration: 20 Adventures)
+
+use 1 Oscus's neverending soda
+You gain 222 Muscularity Points
+
+pool aggressive
+You acquire an effect: Billiards Belligerence (duration: 10 Adventures)
+
+shower lukewarm
+You acquire an effect: Thaumodynamic (duration: 50 Adventures)
+
+[6635] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin alchemist takes 967 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 44 damage.
+Round 2: knob goblin alchemist takes 44 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: broken petri dish
+You acquire an item: half-baked potion
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 13 Beefiness
+You gain 7 Wizardliness
+You gain 6 Sarcasm
+
+[6636] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mad scientist takes 948 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 44 damage.
+Round 2: knob goblin mad scientist takes 44 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 119 Meat
+You acquire an item: Knob Goblin steroids
+You acquire an item: Knob Goblin seltzer
+You acquire an item: broken petri dish
+You gain 14 Muscleboundness
+You gain 4 Enchantedness
+You gain 9 Chutzpah
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+[6637] Daily Dungeon (Room 1)
+Encounter: Locked Door
+
+[6637] Daily Dungeon (Room 2)
+Encounter: Locked Door
+
+[6637] Daily Dungeon (Room 3)
+Encounter: Treasure!
+
+[6637] Daily Dungeon (Room 4)
+Encounter: Did I Leave the Floor On?
+
+[6638] Daily Dungeon (Room 5)
+Encounter: Giant Creepy Floating Skull
+
+[6639] Daily Dungeon (Room 6)
+Encounter: Treasure!
+
+[6639] Daily Dungeon (Room 7)
+Encounter: You Schmooze, You Lose
+
+[6640] Daily Dungeon (Room 8)
+Encounter: Locked Door
+
+[6640] Daily Dungeon (Room 9)
+Encounter: Brrrrrr.
+
+[6641] Daily Dungeon (Room 10)
+Encounter: Treasure!
+You acquire an item: fat loot token
+friars blessing 3
+You acquire an effect: Brother Smothers's Blessing (duration: 20 Adventures)
+Jumping into the Awesome Ball Pit in the clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+telescope look high
+You acquire an effect: Starry-Eyed (duration: 10 Adventures)
+Buying chips from the Snack Machine in the clan rumpus room
