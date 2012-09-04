@@ -3,7 +3,7 @@ CoinmastersFrame=305,175,-1
 CouncilFrame=424,322,-1
 DescriptionFrame=-4,0,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=236,0,-1
+KoLDesktop=242,0,-1
 LoginFrame=425,136,0
 MaximizerFrame=364,141
 MeatManageFrame=440,122
@@ -647,11 +647,11 @@ choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=false
+concertVisited=true
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=15
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation=Yossarian
 currentJunkyardTool
@@ -667,7 +667,7 @@ cyrptCrannyEvilness=0
 cyrptNicheEvilness=0
 cyrptNookEvilness=0
 cyrptTotalEvilness=0
-dailyDungeonDone=false
+dailyDungeonDone=true
 dbNemesisSkill1=0
 dbNemesisSkill2=0
 dbNemesisSkill3=0
@@ -703,7 +703,7 @@ fistTeachingsNinjaSnowmen=false
 fistTeachingsPokerRoom=false
 fistTeachingsRoad=false
 fistTeachingsSlums=false
-flyeredML=9386
+flyeredML=10221
 fossilB=0
 fossilD=0
 fossilN=0
@@ -735,7 +735,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Near an Abandoned Refrigerator
+lastAdventure=A Maze of Sewer Tunnels
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -752,13 +752,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=14
+lastBreakfast=15
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=13
-lastCounterDay=14
+lastCounterDay=15
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=6
@@ -799,7 +799,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=3
-lastEncounter=spider gremlin
+lastEncounter=giant zombie goldfish
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
@@ -1005,7 +1005,7 @@ sexChanges=0
 showGainsPerUnit=false
 showTurnFreeOnly=false
 sideDefeated=neither
-sidequestArenaCompleted=none
+sidequestArenaCompleted=fratboy
 sidequestFarmCompleted=none
 sidequestJunkyardCompleted=none
 sidequestLighthouseCompleted=fratboy
@@ -1039,9 +1039,9 @@ spookyPuttyCopiesMade=0
 spookyPuttyMonster
 stationaryButton1=3003
 stationaryButton2=3005
-stationaryButton3
-stationaryButton4
-stationaryButton5
+stationaryButton3=15
+stationaryButton4=3020
+stationaryButton5=2
 styxPixieVisited=false
 sugarCounter4178=0
 sugarCounter4179=0
