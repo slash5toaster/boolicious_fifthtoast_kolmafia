@@ -4,13 +4,13 @@ ContactListFrame=2663,343
 CouncilFrame=424,322,-1
 DescriptionFrame=2662,409,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=1949,298,-1
+KoLDesktop=112,179,-1
 LoginFrame=725,349,0
 MaximizerFrame=972,383
 ProfileFrame=2662,409,-1
 RequestFrame=655,318,-1
 RequestSynchFrame=1916,-4,-1
-TabbedChatFrame=2863,89,0
+TabbedChatFrame=710,434,0
 _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
@@ -243,7 +243,7 @@ birdformRoc=0
 birdformSleaze=0
 birdformSpooky=0
 birdformStench=0
-blackPuddingsDefeated=5
+blackPuddingsDefeated=7
 blankOutUsed=0
 bootsCharged=false
 borisPoints=0
@@ -649,7 +649,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=15
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -657,7 +657,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=0
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=1
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=50
@@ -733,7 +733,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Generic Summer Holiday Swimming\!
+lastAdventure=Whitey's Grove
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=ettin strength
@@ -748,13 +748,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=10
+lastBreakfast=15
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=9
-lastCounterDay=10
+lastCounterDay=15
 lastDispensaryOpen=3
 lastDoorCodeReset=0
 lastDustyBottle2271=6
@@ -795,7 +795,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=3
-lastEncounter=Huff, Puff
+lastEncounter=Rapido\!
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -898,7 +898,7 @@ mpAutoRecovery=0.0
 mpAutoRecoveryItems=sleep on your clan sofa;visit the nuns;oscus's neverending soda;monstar energy beverage;carbonated soy milk;carbonated water lily;blue pixel potion;cotton candy bale;bottle of monsieur bubble;ancient magi-wipes;unrefined mountain stream syrup;phonics down;elven magi-pack;generic mana potion;tonic water;palm-frond fan;honey-dipped locust;marquis de poivre soda;green pixel potion;blue polka-dot oyster egg;blue striped oyster egg;knob goblin superseltzer;blatantly canadian;tiny house;cloaca-cola;cotton candy pinch;sugar shard;mountain stream soda;magical mystery juice;black cherry soda;knob goblin seltzer;cherry cloaca cola;soda water
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
-noodleSummons=2
+noodleSummons=1
 nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=plinth
@@ -952,11 +952,11 @@ questL08Trapper=finished
 questL09Lol=finished
 questL10Garbage=finished
 questL11MacGuffin=step2
-questL11Manor=started
-questL11Palindome=step3
-questL11Pyramid=step11
+questL11Manor=finished
+questL11Palindome=finished
+questL11Pyramid=finished
 questL11Worship=finished
-questL12War=unstarted
+questL12War=step1
 questL13Final=unstarted
 questM01Untinker=finished
 questM02Artist=finished
@@ -985,7 +985,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=3237\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1109,7 +1109,7 @@ volcanoMaze2
 volcanoMaze3
 volcanoMaze4
 volcanoMaze5
-warProgress=unstarted
+warProgress=started
 waxMonster
 welcomeBackAdv=0
 wineCellarProgress=0
