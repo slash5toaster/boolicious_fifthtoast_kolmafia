@@ -906,3 +906,226 @@ Use 4 ten-leaf clover
 You acquire disassembled clover (4)
 
 mallsell: 55 disassembled clover
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+September 5, 2012 - Bor 1
+
+Ronald: new moon
+Grimace: new moon
+Mini-moon: far left
+
+Dependence Day: 3 days
+Arrrbor Day: 11 days
+Lab&oacute;r Day: 21 days
+Halloween: 31 days
+Feast of Boris: 38 days
+Yuletide: 43 days
+Festival of Jarlsberg: 48 days
+Valentine's Day: 59 days
+St. Sneaky Pete's Day: 66 days
+Oyster Egg Day: 73 days
+El Dia De Los Muertos Borrachos: 81 days
+Generic Summer Holiday: 90 days
+
+
+Moxie bonus today and yesterday.
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 20
+HP: 944 / 944
+MP: 277 / 448
+
+Mus: 593 (381), tnp = 573
+Mys: 408 (284), tnp = 470
+Mox: 416 (297), tnp = 580
+
+Advs: 132
+Meat: 416,011
+
+Full: 0 / 15
+Drunk: 0 / 19
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Hodgman's porkpie hat
+Weapon: octopus's spade
+Off-hand: hobo code binder
+Shirt: astral shirt
+Pants: Ol' Scratch's ol' britches
+Container: makeshift cape
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: fancy black tie
+Acc. 3: cursed scrunchie
+
+Pet: Fancypants Scarecrow (17 lbs)
+Item: double-ice britches
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+ - Summon Crimbo Candy
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Double-Fisted Skull Smashing
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Musk of the Moose
+ - Northern Exposure
+ - Pulverize
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Snarl of the Timberwolf
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Seal Clubbing Frenzy (20)
+Thaumodynamic (51)
+♫ The Sonata of Sneakiness (144)
+♫ The Magical Mojomuscular Melody (144)
+Tenacity of the Snapper (193)
+♫ Polka of Plenty (193)
+Ghostly Shell (206)
+Astral Shell (206)
+Reptilian Fortitude (206)
+Empathy (206)
+Scarysauce (328)
+Elemental Saucesphere (328)
+Jabañero Saucesphere (328)
+Jalapeño Saucesphere (328)
+Jingle Jangle Jingle (341)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: +30.00%
+
+Exp: +5.07
+Meat: +251.92%
+Item: +25.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 4 Summon Resolutions
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be kinder
+
+mallsell: 15 mind flayer corpse
+
+mallsell: 4 Crimbo peppermint bark
+
+cast 1 Summon Crimbo Candy
+You acquire an item: Crimbo peppermint bark
+You acquire an item: Crimbo peppermint bark
+You acquire an item: Crimbo fudge
+
+cast 1 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 5 Adventures)
+
+shower lukewarm
+
+postwarisland.php?place=concert
+
+[6746] The Middle Chamber
+Encounter: tomb bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: tomb bat takes 507 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 46 damage.
+Round 2: tomb bat takes 46 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 190 Meat
+You gain 31 Beefiness
+You gain 13 Wizardliness
+You gain 14 Roguishness
+
+[6747] The Lower Chambers (Empty/Rubble)
+
+[6747] The Upper Chamber
+Encounter: tomb asp
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: tomb asp takes 521 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 47 damage.
+Round 2: tomb asp takes 47 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 397 Meat
+You gain 23 Beefiness
+You gain 10 Magicalness
+You gain 29 Sarcasm
+
+use 1 Oscus's neverending soda
+
+zap 1337 7r0uZ0RZ
+
+mallsell: 1 Lumineux Limnio
+
+Combine 5 sprocket + 5 spring
+You acquire sprocket assembly (5)
+
+mallsell: 6 peppermint sprout
+
+manageprices.php?action=update&price[1745]=26900&limit[1745]=0&price[5398]=26000&limit[5398]=0&price[5680]=12500&limit[5680]=0&price[1141]=11000&limit[1141]=0&price[5269]=9400&limit[5269]=0&price[5101]=9000&limit[5101]=0&price[3301]=8995&limit[3301]=0&price[5272]=8300&limit[5272]=0&price[5238]=7990&limit[5238]=0&price[5274]=7900&limit[5274]=0&price[5271]=6900&limit[5271]=0&price[5268]=6900&limit[5268]=0&price[5247]=6200&limit[5247]=0&price[377]=6000&limit[377]=0&price[5110]=4990&limit[5110]=0&price[5245]=4100&limit[5245]=0&price[5395]=3333&limit[5395]=0&price[196]=1625&limit[196]=0&price[5092]=1100&limit[5092]=0&price[5105]=941&limit[5105]=0&price[5090]=500&limit[5090]=0&price[594]=410&limit[594]=2&price[2687]=400&limit[2687]=0&price[4508]=335&limit[4508]=0&price[2680]=300&limit[2680]=0&price[617]=274&limit[617]=0&price[622]=272&limit[622]=0&price[632]=264&limit[632]=0&price[542]=260&limit[542]=0&price[538]=260&limit[538]=1&price[616]=258&limit[616]=0&price[613]=256&limit[613]=0&price[614]=256&limit[614]=0&price[3858]=250&limit[3858]=0&price[125]=250&limit[125]=0&price[541]=240&limit[541]=0&price[399]=230&limit[399]=0&price[2093]=230&limit[2093]=0&price[834]=190&limit[834]=0&price[472]=190&limit[472]=0&price[776]=190&limit[776]=0&price[3864]=164&limit[3864]=0&price[312]=160&limit[312]=0&price[836]=156&limit[836]=0&price[218]=155&limit[218]=0&price[3597]=150&limit[3597]=0&price[299]=150&limit[299]=0&price[2613]=150&limit[2613]=1&price[475]=130&limit[475]=0&price[1655]=120&limit[1655]=0&price[5469]=100&limit[5469]=0&price[5467]=100&limit[5467]=0&price[1]=100&limit[1]=0&price[4393]=100&limit[4393]=0
+
+cast 1 Summon Clip Art
+You acquire an item: 4:20 bomb
+
+cast 1 Summon Clip Art
+You acquire an item: chocolate frosted sugar bomb
+
+cast 1 Summon Clip Art
+You acquire an item: potion of punctual companionship
+
+zap effervescent potion of teleportitis
+You acquire an item: murky potion of healing
+
+use 1 murky potion of healing
+You gain 14 hit points
+You gain 16 Muscularity Points
+
+use 1 plain brown wrapper
+You acquire an item: depleted Grimacite ninja mask
