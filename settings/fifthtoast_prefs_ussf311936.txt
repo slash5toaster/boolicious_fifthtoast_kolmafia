@@ -1,4 +1,4 @@
-AdventureFrame=1123,385,4
+AdventureFrame=1123,229,1
 CoinmastersFrame=593,88,-1
 ContactListFrame=2663,343
 CouncilFrame=424,322,-1
@@ -23,7 +23,7 @@ _bagOfCandy=false
 _bagOfCandyUsed=false
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=true
+_ballpit=false
 _banderRunaways=0
 _beerLensDrops=0
 _benettonsCasts=0
@@ -645,11 +645,11 @@ choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=true
+concertVisited=false
 counterScript
 crimboTreeDays=7
-currentBountyItem=2107
-currentFullness=10
+currentBountyItem=0
+currentFullness=0
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -657,7 +657,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=22666
 currentPvpVictories
-currentSpleenUse=2
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=50
@@ -681,7 +681,7 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8
 demonName9
-demonSummoned=true
+demonSummoned=false
 desktopHeight=600
 desktopWidth=800
 distentionPillActive=false
@@ -733,7 +733,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Feeding Chamber
+lastAdventure=Science Lab
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=ettin strength
@@ -748,13 +748,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=1
+lastBreakfast=2
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=1
+lastCounterDay=2
 lastDispensaryOpen=3
 lastDoorCodeReset=0
 lastDustyBottle2271=6
@@ -795,7 +795,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=3
-lastEncounter=filthworm drone
+lastEncounter=spiderbugbear
 lastFilthClearance=2
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -872,9 +872,9 @@ lastWuTangDefeated=-1
 lastZapperWand=3
 libramSummons=0
 libraryCardUsed=false
-louvreDesiredGoal=7
-louvreGoal=6
-louvreLayout
+louvreDesiredGoal=2
+louvreGoal=2
+louvreLayout=98,0,0,0,0,0,0,0,0,98,0,0,0,0,0,0,0,0,95,104,103,0,0,0,0,0,0,0,0,0,0,0,0,5,95,2,0,5,0
 louvreOverride
 manaBurnSummonThreshold=10
 manaBurningThreshold=-0.05
