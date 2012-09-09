@@ -25,7 +25,7 @@ _bagOfCandy=false
 _bagOfCandyUsed=false
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=true
+_ballpit=false
 _banderRunaways=0
 _beerLensDrops=0
 _benettonsCasts=0
@@ -647,7 +647,7 @@ choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=true
+concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
@@ -667,7 +667,7 @@ cyrptCrannyEvilness=0
 cyrptNicheEvilness=0
 cyrptNookEvilness=0
 cyrptTotalEvilness=0
-dailyDungeonDone=true
+dailyDungeonDone=false
 dbNemesisSkill1=0
 dbNemesisSkill2=0
 dbNemesisSkill3=0
@@ -683,7 +683,7 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8
 demonName9
-demonSummoned=true
+demonSummoned=false
 desktopHeight=600
 desktopWidth=800
 distentionPillActive=false
@@ -727,7 +727,7 @@ heroDonationJarlsberg=0
 heroDonationSneakyPete=0
 hiddenCityLayout=EENEEREEEEEEEEREEEEREEEET
 hiddenCitySquare=0
-hippiesDefeated=2
+hippiesDefeated=372
 hpAutoRecovery=0.2
 hpAutoRecoveryItems=sleep on your clan sofa;galaktik's curative nostrum;medicinal herb's medicinal herbs;scroll of drastic healing;cannelloni cocoon;red pixel potion;really thick bandage;pok&euml;mann band-aid;elven medi-pack;phonics down;honey-dipped locust;tongue of the walrus;red paisley oyster egg;red polka-dot oyster egg;red striped oyster egg;tiny house;lasagna bandages;doc galaktik's homeopathic elixir;cast;tongue of the otter;sugar shard;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent
 hpAutoRecoveryTarget=1.0
@@ -752,13 +752,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=15
+lastBreakfast=3
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=13
-lastCounterDay=15
+lastCounterDay=3
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=6
