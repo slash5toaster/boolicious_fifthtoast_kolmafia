@@ -1,9 +1,9 @@
-AdventureFrame=406,84,4
+AdventureFrame=0,0,4
 CoinmastersFrame=305,175,-1
 CouncilFrame=424,322,-1
 DescriptionFrame=-4,0,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=242,0,-1
+KoLDesktop=0,0,-1
 LoginFrame=425,136,0
 MaximizerFrame=364,141
 MeatManageFrame=440,122
@@ -12,7 +12,7 @@ OptionsFrame=337,159,-1
 ProfileFrame=2662,409,-1
 RequestFrame=-4,0,-1
 RequestSynchFrame=5,5,-1
-TabbedChatFrame=806,109,0
+TabbedChatFrame=0,0,0
 _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
@@ -25,7 +25,7 @@ _bagOfCandy=false
 _bagOfCandyUsed=false
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=false
+_ballpit=true
 _banderRunaways=0
 _beerLensDrops=0
 _benettonsCasts=0
@@ -647,7 +647,7 @@ choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=false
+concertVisited=true
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
@@ -735,7 +735,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=A Maze of Sewer Tunnels
+lastAdventure=Themthar Hills
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -752,13 +752,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=3
+lastBreakfast=4
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=13
-lastCounterDay=3
+lastCounterDay=4
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=6
@@ -799,7 +799,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=3
-lastEncounter=giant zombie goldfish
+lastEncounter
 lastFilthClearance=0
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
