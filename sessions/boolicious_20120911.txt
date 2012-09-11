@@ -1211,3 +1211,211 @@ You acquire an item: 1-ball
 
 remove from stash: 1 x-ray specs
 You acquire an item: x-ray specs
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+September 11, 2012 - Bor 7
+
+Ronald: third quarter
+Grimace: waxing gibbous
+Mini-moon: in front of Ronald, L side
+
+Arrrbor Day: 5 days
+Lab&oacute;r Day: 15 days
+Halloween: 25 days
+Feast of Boris: 32 days
+Yuletide: 37 days
+Festival of Jarlsberg: 42 days
+Valentine's Day: 53 days
+St. Sneaky Pete's Day: 60 days
+Oyster Egg Day: 67 days
+El Dia De Los Muertos Borrachos: 75 days
+Generic Summer Holiday: 84 days
+Dependence Day: 93 days
+
+
+2 days until Muscle.
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 20
+HP: 952 / 959
+MP: 425 / 425
+
+Mus: 603 (389), tnp = 580
+Mys: 405 (289), tnp = 388
+Mox: 426 (304), tnp = 275
+
+Advs: 92
+Meat: 564,460
+
+Full: 0 / 15
+Drunk: 0 / 19
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Hodgman's porkpie hat
+Weapon: octopus's spade
+Off-hand: hobo code binder
+Shirt: astral shirt
+Pants: Ol' Scratch's ol' britches
+Container: makeshift cape
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: fancy black tie
+Acc. 3: cursed scrunchie
+
+Pet: Fancypants Scarecrow (17 lbs)
+Item: double-ice britches
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+ - Summon Crimbo Candy
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Double-Fisted Skull Smashing
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Musk of the Moose
+ - Northern Exposure
+ - Pulverize
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Snarl of the Timberwolf
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+♫ The Sonata of Sneakiness (154)
+Tenacity of the Snapper (154)
+♫ Fat Leon's Phat Loot Lyric (154)
+♫ Polka of Plenty (154)
+Ghostly Shell (162)
+Astral Shell (162)
+Reptilian Fortitude (162)
+Empathy (162)
+Scarysauce (284)
+Elemental Saucesphere (284)
+Jabañero Saucesphere (284)
+Jalapeño Saucesphere (284)
+Jingle Jangle Jingle (297)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: +30.00%
+
+Exp: +5.07
+Meat: +251.92%
+Item: +45.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+Visiting Crimbo Tree in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Looking Glass in clan VIP lounge
+
+swimming pool screwaround
+
+Doing handstand in clan VIP swimming pool
+
+Diving for treasure in clan VIP swimming pool
+
+Getting out of clan VIP swimming pool
+
+use 1 Manual of Labor
+
+use 1 Chester's bag of candy
+
+use 1 Trivial Avocations board game
+
+use 1 creepy voodoo doll
+
+Harvesting your garden
+You acquire peppermint sprout (3)
+
+cast 13 Summon Resolutions
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be feistier
+
+Use 15 peppermint sprout
+You acquire an item: cane-mail shirt
+
+equip shirt cane-mail shirt
+
+[7166] Smith 1 linoleum ore + 1 dense meat stack
+You acquire an item: linoleum meat stack
+Crafting used 1 each of dense meat stack and linoleum ore
+
+Use 3 peppermint sprout
+You acquire an item: peppermint crook
+
+Combine 1 peppermint patty + 1 peppermint crook
+You acquire an item: peppermint parasol
+Crafting used 1 each of peppermint patty and peppermint crook
+
+cast 1 Summon Clip Art
+You acquire an item: 4:20 bomb
+
+cast 1 Summon Clip Art
+You acquire an item: chocolate frosted sugar bomb
+
+cast 1 Summon Clip Art
+You acquire an item: too legit potion
+
+mallsell: 1 peppermint parasol, 2 4:20 bomb, 2 chocolate frosted sugar bomb, 2 too legit potion, 2 linoleum meat stack, 1 cane-mail shirt
+
+manageprices.php?action=update&price0[5405]=86000&limit0[5405]=0&price0[1745]=26900&limit0[1745]=0&price0[1089]=22500&limit0[1089]=2&price0[5401]=15000&limit0[5401]=0&price0[5680]=12500&limit0[5680]=0&price0[375]=12000&limit0[375]=0&price0[1141]=11000&limit0[1141]=0&price0[5280]=9405&limit0[5280]=0&price0[5269]=9400&limit0[5269]=0&price0[5101]=9000&limit0[5101]=0&price0[3301]=8995&limit0[3301]=0&price0[5258]=8900&limit0[5258]=0&price0[5272]=8300&limit0[5272]=0&price0[5274]=7900&limit0[5274]=0&price0[5271]=6900&limit0[5271]=0&price0[5270]=6888&limit0[5270]=0&price0[5247]=6200&limit0[5247]=0&price0[377]=6000&limit0[377]=0&price0[5110]=4990&limit0[5110]=1&price0[5245]=4100&limit0[5245]=0&price0[2540]=2275&limit0[2540]=0&price0[196]=1625&limit0[196]=0&price0[5092]=1100&limit0[5092]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[4508]=335&limit0[4508]=0&price0[2680]=300&limit0[2680]=0&price0[617]=274&limit0[617]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[542]=260&limit0[542]=0&price0[538]=260&limit0[538]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[614]=256&limit0[614]=0&price0[3858]=250&limit0[3858]=0&price0[125]=250&limit0[125]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[1823]=220&limit0[1823]=0&price0[1840]=200&limit0[1840]=1&price0[1803]=200&limit0[1803]=0&price0[834]=190&limit0[834]=0&price0[472]=190&limit0[472]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[836]=156&limit0[836]=0&price0[218]=155&limit0[218]=0&price0[3597]=150&limit0[3597]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[475]=130&limit0[475]=0&price0[1655]=120&limit0[1655]=0&price0[4393]=100&limit0[4393]=0&price0[5469]=100&limit0[5469]=0&price0[5467]=100&limit0[5467]=0&price0[1]=100&limit0[1]=0
+
+mallsell: 2 magilaser blastercannon, 5 Nuclear Blastball
+
+mallsell: 4 soggy seed packet, 5 soggy used band-aid
+
+manageprices.php?action=update&price0[5405]=86000&limit0[5405]=0&price0[1745]=26900&limit0[1745]=0&price0[1089]=22500&limit0[1089]=0&price0[5401]=15000&limit0[5401]=0&price0[5680]=12500&limit0[5680]=0&price0[375]=12000&limit0[375]=0&price0[1141]=11000&limit0[1141]=0&price0[5280]=9405&limit0[5280]=0&price0[5269]=9400&limit0[5269]=0&price0[5101]=9000&limit0[5101]=0&price0[3301]=8995&limit0[3301]=0&price0[5258]=8900&limit0[5258]=0&price0[5272]=8300&limit0[5272]=0&price0[5274]=7900&limit0[5274]=2&price0[5271]=6900&limit0[5271]=0&price0[5270]=6888&limit0[5270]=0&price0[5247]=6200&limit0[5247]=0&price0[377]=6000&limit0[377]=0&price0[5110]=4990&limit0[5110]=0&price0[5245]=4100&limit0[5245]=0&price0[2540]=2275&limit0[2540]=0&price0[196]=1625&limit0[196]=1&price0[5092]=1100&limit0[5092]=0&price0[3553]=1000&limit0[3553]=0&price0[5678]=500&limit0[5678]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[3867]=400&limit0[3867]=0&price0[4508]=335&limit0[4508]=0&price0[2680]=300&limit0[2680]=0&price0[617]=274&limit0[617]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[542]=260&limit0[542]=0&price0[538]=260&limit0[538]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=1&price0[614]=256&limit0[614]=0&price0[3858]=250&limit0[3858]=0&price0[125]=250&limit0[125]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[1823]=220&limit0[1823]=0&price0[1840]=200&limit0[1840]=0&price0[1803]=200&limit0[1803]=0&price0[834]=190&limit0[834]=0&price0[472]=190&limit0[472]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[836]=156&limit0[836]=0&price0[218]=155&limit0[218]=0&price0[3597]=150&limit0[3597]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[475]=130&limit0[475]=0&price0[1655]=120&limit0[1655]=0&price0[5103]=101&limit0[5103]=0&price0[4393]=100&limit0[4393]=0&price0[5469]=100&limit0[5469]=0&price0[5467]=100&limit0[5467]=0&price0[1]=100&limit0[1]=0
