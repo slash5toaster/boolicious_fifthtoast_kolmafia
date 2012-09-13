@@ -1547,3 +1547,168 @@ take from closet 493664 Meat
 add to closet: 493664 Meat
 
 add to closet: 493664 Meat
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+September 12, 2012 - Bor 8
+
+Ronald: waning crescent
+Grimace: waxing gibbous
+Mini-moon: front center
+
+Arrrbor Day: 4 days
+Lab&oacute;r Day: 14 days
+Halloween: 24 days
+Feast of Boris: 31 days
+Yuletide: 36 days
+Festival of Jarlsberg: 41 days
+Valentine's Day: 52 days
+St. Sneaky Pete's Day: 59 days
+Oyster Egg Day: 66 days
+El Dia De Los Muertos Borrachos: 74 days
+Generic Summer Holiday: 83 days
+Dependence Day: 92 days
+
+
+Muscle bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 20
+HP: 943 / 976
+MP: 396 / 404
+
+Mus: 614 (390), tnp = 98
+Mys: 384 (290), tnp = 322
+Mox: 404 (305), tnp = 221
+
+Advs: 76
+Meat: 211,700
+
+Full: 2 / 15
+Drunk: 0 / 19
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Hodgman's porkpie hat
+Weapon: octopus's spade
+Off-hand: hobo code binder
+Shirt: cane-mail shirt
+Pants: Ol' Scratch's ol' britches
+Container: makeshift cape
+
+Acc. 1: pirate fledges
+Acc. 2: fancy black tie
+Acc. 3: cursed scrunchie
+
+Pet: Fancypants Scarecrow (17 lbs)
+Item: double-ice britches
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+ - Summon Crimbo Candy
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Double-Fisted Skull Smashing
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Musk of the Moose
+ - Northern Exposure
+ - Pulverize
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Snarl of the Timberwolf
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Seal Clubbing Frenzy (33)
+Snarl of the Timberwolf (35)
+Rage of the Reindeer (35)
+♫ The Sonata of Sneakiness (81)
+Tenacity of the Snapper (81)
+♫ Fat Leon's Phat Loot Lyric (81)
+♫ Polka of Plenty (81)
+Ghostly Shell (89)
+Astral Shell (89)
+Reptilian Fortitude (89)
+Empathy (89)
+Scarysauce (211)
+Elemental Saucesphere (211)
+Jabañero Saucesphere (211)
+Jalapeño Saucesphere (211)
+Jingle Jangle Jingle (224)
+
+
+ > modifiers
+
+ML: +20
+Enc: -5.00%
+Init: +30.00%
+
+Exp: +6.07
+Meat: +266.92%
+Item: +35.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 6 Summon Resolutions
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be feistier
+
+pool aggressive
+You acquire an effect: Billiards Belligerence (duration: 10 Adventures)
+
+pool aggressive
+You acquire an effect: Billiards Belligerence (duration: 10 Adventures)
+
+pool aggressive
+You acquire an effect: Billiards Belligerence (duration: 10 Adventures)
+
+use 1 Oscus's neverending soda
+
+mallsell: 60 disassembled clover
+
+use 1 plain brown wrapper
+
+equip hat depleted Grimacite ninja mask
