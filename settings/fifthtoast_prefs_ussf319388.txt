@@ -71,7 +71,7 @@ _grooseDrops=0
 _guildManualUsed=true
 _hareAdv=0
 _hareCharge=0
-_hippyMeatCollected=false
+_hippyMeatCollected=true
 _hipsterAdv=0
 _hobbyHorseUsed=false
 _hoboUnderlingSummons=0
@@ -168,8 +168,8 @@ autoSphereID=false
 autoSteal=true
 autostartGalaktikQuest=true
 availableCandyCredits=0
-availableDimes=11
-availableQuarters=13
+availableDimes=0
+availableQuarters=0
 availableStoreCredits=0
 availableSwagger=0
 badMoonEncounter01=false
@@ -232,7 +232,7 @@ beeCounter=0
 beforePVPScript
 betweenBattleScript
 biodataEngineering=9
-biodataGalley=0
+biodataGalley=9
 biodataMedbay=3
 biodataMorgue=6
 biodataNavigation=9
@@ -653,14 +653,14 @@ counterScript
 crimboTreeDays=7
 currentBountyItem=0
 currentFullness=0
-currentHippyStore=none
+currentHippyStore=hippy
 currentJunkyardLocation=Yossarian
 currentJunkyardTool
 currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=75605
 currentPvpVictories
-currentSpleenUse=2
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -711,7 +711,7 @@ fossilN=0
 fossilP=0
 fossilS=0
 fossilW=0
-fratboysDefeated=2
+fratboysDefeated=132
 friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
@@ -728,7 +728,7 @@ heroDonationJarlsberg=0
 heroDonationSneakyPete=0
 hiddenCityLayout=EENEEREEEEEEEEREEEEREEEET
 hiddenCitySquare=0
-hippiesDefeated=372
+hippiesDefeated=1000
 hpAutoRecovery=0.2
 hpAutoRecoveryItems=sleep on your clan sofa;galaktik's curative nostrum;medicinal herb's medicinal herbs;scroll of drastic healing;cannelloni cocoon;red pixel potion;really thick bandage;pok&euml;mann band-aid;elven medi-pack;phonics down;honey-dipped locust;tongue of the walrus;red paisley oyster egg;red polka-dot oyster egg;red striped oyster egg;tiny house;lasagna bandages;doc galaktik's homeopathic elixir;cast;tongue of the otter;sugar shard;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent
 hpAutoRecoveryTarget=1.0
@@ -736,7 +736,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Themthar Hills
+lastAdventure=Special Ops
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -753,13 +753,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=6
+lastBreakfast=9
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=13
-lastCounterDay=6
+lastCouncilVisit=15
+lastCounterDay=9
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=6
@@ -800,8 +800,8 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=3
-lastEncounter=dirty thieving brigand
-lastFilthClearance=0
+lastEncounter=Not Alone In The Dark
+lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=0
 lastGalleryUnlock=3
@@ -904,7 +904,7 @@ mpAutoRecoveryItems=sleep on your clan sofa;carbonated soy milk;carbonated water
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
 noodleSummons=3
-nunsVisits=0
+nunsVisits=2
 oceanAction=savecontinue
 oceanDestination=plinth
 olfactedMonster=wabbit
@@ -961,7 +961,7 @@ questL11Manor=finished
 questL11Palindome=finished
 questL11Pyramid=finished
 questL11Worship=finished
-questL12War=step1
+questL12War=finished
 questL13Final=unstarted
 questM01Untinker=finished
 questM02Artist=finished
@@ -990,7 +990,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=4440\:Semirare window begin loc\=*\:lparen.gif\:4480\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1005,13 +1005,13 @@ serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
 showTurnFreeOnly=false
-sideDefeated=neither
+sideDefeated=hippies
 sidequestArenaCompleted=fratboy
 sidequestFarmCompleted=hippy
 sidequestJunkyardCompleted=none
 sidequestLighthouseCompleted=fratboy
-sidequestNunsCompleted=none
-sidequestOrchardCompleted=none
+sidequestNunsCompleted=hippy
+sidequestOrchardCompleted=hippy
 singleFamiliarRun=-1
 skateParkStatus=war
 skillBurn1019=-100
@@ -1038,11 +1038,11 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster
-stationaryButton1=3003
-stationaryButton2=3005
-stationaryButton3=15
-stationaryButton4=3020
-stationaryButton5=2
+stationaryButton1=3005
+stationaryButton2=15
+stationaryButton3=3020
+stationaryButton4=2
+stationaryButton5=3007
 styxPixieVisited=false
 sugarCounter4178=0
 sugarCounter4179=0
@@ -1114,7 +1114,7 @@ volcanoMaze2
 volcanoMaze3
 volcanoMaze4
 volcanoMaze5
-warProgress=started
+warProgress=finished
 waxMonster
 welcomeBackAdv=0
 wineCellarProgress=3
