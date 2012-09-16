@@ -1744,3 +1744,147 @@ You acquire an item: yellow matter custard
 Round 0: boolicious attacks!
 Took choice 442/1: Seal Clubber/Pastamancer item, or yellow matter custard
 choice.php?pwd&whichchoice=442&option=1
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+September 16, 2012 - Petember 4
+
+Ronald: waxing gibbous
+Grimace: waning gibbous
+Mini-moon: far left
+
+Arrrbor Day: today
+Lab&oacute;r Day: 10 days
+Halloween: 20 days
+Feast of Boris: 27 days
+Yuletide: 32 days
+Festival of Jarlsberg: 37 days
+Valentine's Day: 48 days
+St. Sneaky Pete's Day: 55 days
+Oyster Egg Day: 62 days
+El Dia De Los Muertos Borrachos: 70 days
+Generic Summer Holiday: 79 days
+Dependence Day: 88 days
+
+Arrrbor Day
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Seal Clubber
+
+Lv: 20
+HP: 1399 / 1,399
+MP: 297 / 555
+
+Mus: 896 (398), tnp = 116
+Mys: 535 (297), tnp = 28
+Mox: 558 (310), tnp = 16
+
+Advs: 92
+Meat: 626,206
+
+Full: 12 / 15
+Drunk: 0 / 19
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Hodgman's porkpie hat
+Weapon: Frosty's nailbat
+Off-hand: (none)
+Shirt: astral shirt
+Pants: Hodgman's lobsterskin pants
+Container: wings of fire
+
+Acc. 1: Hodgman's bow tie
+Acc. 2: fancy black tie
+Acc. 3: cursed scrunchie
+
+Pet: Fancypants Scarecrow (17 lbs)
+Item: double-ice britches
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+ - Summon Crimbo Candy
+
+Seal Clubber
+ - Claws of the Otter
+ - Claws of the Walrus
+ - Clobber
+ - Double-Fisted Skull Smashing
+ - Eye of the Stoat
+ - Hide of the Otter
+ - Hide of the Walrus
+ - Lunging Thrust-Smack
+ - Musk of the Moose
+ - Northern Exposure
+ - Pulverize
+ - Rage of the Reindeer
+ - Seal Clubbing Frenzy
+ - Snarl of the Timberwolf
+ - Super-Advanced Meatsmithing
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Down the Rabbit Hole (10)
+Musk of the Moose (16)
+♫ The Sonata of Sneakiness (184)
+Tenacity of the Snapper (184)
+♫ Fat Leon's Phat Loot Lyric (184)
+♫ Polka of Plenty (184)
+Ghostly Shell (192)
+Astral Shell (192)
+Reptilian Fortitude (192)
+Empathy (192)
+Scarysauce (314)
+Elemental Saucesphere (314)
+Jabañero Saucesphere (314)
+Jalapeño Saucesphere (314)
+Jingle Jangle Jingle (327)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +20.00%
+
+Exp: +5.07
+Meat: +251.92%
+Item: +25.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 3 Summon Resolutions
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be stronger
