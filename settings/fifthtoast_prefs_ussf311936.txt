@@ -70,7 +70,7 @@ _grooseDrops=0
 _guildManualUsed=true
 _hareAdv=0
 _hareCharge=0
-_hippyMeatCollected=false
+_hippyMeatCollected=true
 _hipsterAdv=0
 _hobbyHorseUsed=false
 _hoboUnderlingSummons=0
@@ -261,7 +261,7 @@ buyScript
 cameraMonster
 camerasUsed=0
 carboLoading=0
-cellarLayout=0
+cellarLayout=5651100
 charitableDonations=0
 chatLiterate=true
 chatServesUpdates=false
@@ -651,7 +651,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=15
+currentFullness=1
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -667,7 +667,7 @@ cyrptCrannyEvilness=50
 cyrptNicheEvilness=38
 cyrptNookEvilness=43
 cyrptTotalEvilness=181
-dailyDungeonDone=true
+dailyDungeonDone=false
 dbNemesisSkill1=0
 dbNemesisSkill2=0
 dbNemesisSkill3=0
@@ -735,7 +735,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Daily Dungeon (Room 10)
+lastAdventure=Spooky Gravy Barrow
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=ettin strength
@@ -750,13 +750,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=12
+lastBreakfast=13
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=14
-lastCounterDay=12
+lastCounterDay=13
 lastDispensaryOpen=3
 lastDoorCodeReset=0
 lastDustyBottle2271=6
@@ -797,7 +797,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=3
-lastEncounter=mayonnaise wasp
+lastEncounter=spooky gravy fairy warlock
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=1
@@ -908,9 +908,9 @@ olfactedMonster=wabbit
 oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
-pastamancerGhostExperience=5
+pastamancerGhostExperience=9
 pastamancerGhostName=Bufferhams
-pastamancerGhostSummons=0
+pastamancerGhostSummons=4
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
@@ -1009,7 +1009,7 @@ sidequestJunkyardCompleted=fratboy
 sidequestLighthouseCompleted=none
 sidequestNunsCompleted=hippy
 sidequestOrchardCompleted=hippy
-singleFamiliarRun=16
+singleFamiliarRun=-1
 skateParkStatus=war
 skillBurn1019=-100
 skillBurn3=-100
