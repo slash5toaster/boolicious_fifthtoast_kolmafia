@@ -118,3 +118,242 @@ You acquire an item: ten-leaf clover
 
 Use 1 ten-leaf clover
 You acquire an item: disassembled clover
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+September 23, 2012 - Carlvember 3
+
+Ronald: first quarter
+Grimace: waxing crescent
+Mini-moon: front center
+
+Veracity's Birthday: today
+Lab&oacute;r Day: 3 days
+Halloween: 13 days
+Feast of Boris: 20 days
+Yuletide: 25 days
+Festival of Jarlsberg: 30 days
+Valentine's Day: 41 days
+St. Sneaky Pete's Day: 48 days
+Oyster Egg Day: 55 days
+El Dia De Los Muertos Borrachos: 63 days
+Generic Summer Holiday: 72 days
+Dependence Day: 81 days
+Arrrbor Day: 89 days
+
+Veracity's Birthday
+2 days until Mysticism.
+
+
+ > status
+
+Name: boolicious
+Class: Zombie Master
+
+Lv: 3
+HP: 47 / 47
+MP: 31 / 31
+
+Mus: 28 (10), tnp = 16
+Mys: 28 (10), tnp = 17
+Mox: 29 (8), tnp = 10
+
+Advs: 43
+Meat: 792
+
+Full: 0 / 15
+Drunk: 0 / 4
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Dolphin King's crown
+Weapon: pool cue
+Off-hand: (none)
+Shirt: (none)
+Pants: cane-mail pants
+
+Acc. 1: Mr. Accessory
+Acc. 2: continuum transfunctioner
+Acc. 3: (none)
+
+Pet: Ghuol Whelp (8 lbs)
+Item: (none)
+
+ > skills
+
+Zombie Master
+ - Bite Minion
+ - Infectious Bite
+ - Recruit Zombie
+ - Summon Minion
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Chalky Hand (5)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[97] Haunted Billiards Room
+Encounter: pooltergeist
+Round 0: boolicious loses initiative!
+Round 1: boolicious casts INFECTIOUS BITE!
+Round 2: pooltergeist takes 3 damage.
+Round 2: boolicious attacks!
+Round 3: pooltergeist takes 20 damage.
+Round 3: pooltergeist takes 3 damage.
+Round 3: boolicious wins the fight!
+You gain 1 Muscleboundness
+You gain 4 Cheek
+
+use 1 handful of hand chalk
+You acquire an effect: Chalky Hand (duration: 5 Adventures)
+
+pool aggressive
+You acquire an effect: Billiards Belligerence (duration: 10 Adventures)
+
+pool aggressive
+You acquire an effect: Billiards Belligerence (duration: 10 Adventures)
+
+pool strategic
+You acquire an effect: Mental A-cue-ity (duration: 10 Adventures)
+
+shower warm
+You acquire an effect: Muscle Unbound (duration: 50 Adventures)
+
+eat 1 hunter brain
+You gain 6 Adventures
+You gain 12 Beefiness
+You gain 9 Enchantedness
+You gain 9 Chutzpah
+You gain a Moxie point!
+You gain 1 Fullness
+
+Harvesting your garden
+You acquire peppermint sprout (3)
+
+[98] Haunted Kitchen
+Encounter: skullery maid
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: skullery maid takes 3 damage.
+Round 2: boolicious attacks!
+Round 3: skullery maid takes 54 damage.
+Round 3: skullery maid takes 3 damage.
+Round 3: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 12 hit points
+You gain 4 Meat
+You acquire an item: crappy brain
+You gain 2 Strongness
+
+eat 1 crappy brain
+You gain 1 Adventure
+You gain 2 Muscleboundness
+You gain a Muscle point!
+You gain 2 Magicalness
+You gain 1 Sarcasm
+You gain 1 Fullness
+
+eat 1 crappy brain
+You gain 1 Adventure
+You gain 1 Strongness
+You gain 1 Magicalness
+You gain 1 Sarcasm
+You gain 1 Fullness
+
+eat 1 crappy brain
+You gain 1 Adventure
+You gain 1 Muscleboundness
+You gain 1 Mysteriousness
+You gain 1 Cheek
+You gain 1 Fullness
+
+eat 1 crappy brain
+You gain 1 Adventure
+You gain 1 Fortitude
+You gain 1 Enchantedness
+You gain 1 Chutzpah
+You gain 1 Fullness
+
+eat 1 crappy brain
+You gain 1 Adventure
+You gain 2 Muscleboundness
+You gain 2 Wizardliness
+You gain 1 Chutzpah
+You gain 1 Fullness
+
+eat 1 crappy brain
+You gain 1 Adventure
+You gain 2 Strengthliness
+You gain 2 Mysteriousness
+You gain a Mysticality point!
+You gain 1 Sarcasm
+You gain 1 Fullness
+
+eat 1 dire fudgesicle
+
+drink 1 Mad Train wine
+You gain 3 Adventures
+You gain 3 Drunkenness
+
+drink 1 accidental cider
+You gain 3 Adventures
+You gain 3 Drunkenness
+
+eat 1 crappy brain
+You gain 1 Adventure
+You gain 2 Fortitude
+You gain 2 Enchantedness
+You gain 1 Smarm
+You gain 1 Fullness
+
+eat 1 crappy brain
+You gain 1 Adventure
+You gain 1 Fortitude
+You gain 2 Magicalness
+You gain 1 Roguishness
+You gain 1 Fullness
+
+Visiting Doc Galaktik
+
+pull: 10000 Meat
+
+[99] Drunken Stupor
+Encounter: Hey, baby.  Wanna wrestle?
+You lose 3 Strongness
+
+Visiting Mr. Store
+
+museum.php?floor=2
+museum.php?floor=2&place=boozefundplaque
+museum.php?floor=2&place=emplinthers
+museum.php?floor=2&place=hagnksbricks
+museum.php?floor=2&place=cannonplaque
+museum.php?floor=2&place=crimbominationplaque
+museum.php?floor=2&place=yetifundplaque
+museum.php?floor=3
+museum.php?floor=3&place=leaderboards&whichboard=9
+
+Visiting the Altar of Literacy
