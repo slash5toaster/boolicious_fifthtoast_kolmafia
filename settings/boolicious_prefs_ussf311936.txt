@@ -1,5 +1,5 @@
 =1
-AdventureFrame=835,300,0
+AdventureFrame=835,300,4
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=742,435
@@ -15,8 +15,8 @@ FamiliarTrainingFrame=596,317
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=953,122,-1
-LoginFrame=2645,349,0
+KoLDesktop=481,56,-1
+LoginFrame=99,507,0
 MailboxFrame=289,310,1
 MaximizerFrame=1288,300
 MeatManageFrame=1921,395
@@ -29,13 +29,13 @@ RequestSynchFrame=2321,318,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=1916,-4,0
-TabbedChatFrame=2630,75,0
+TabbedChatFrame=1276,232,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
 _allYearSucker=false
-_aprilShower=true
+_aprilShower=false
 _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
@@ -67,7 +67,7 @@ _companionshipCasts=0
 _creepyVoodooDollUsed=false
 _crimboTree=true
 _darkChocolateHeart=false
-_deluxeKlawSummons=0
+_deluxeKlawSummons=3
 _demandSandwich=0
 _distentionPillUsed=false
 _donhosCasts=0
@@ -94,7 +94,7 @@ _hippyMeatCollected=false
 _hipsterAdv=0
 _hobbyHorseUsed=false
 _hoboUnderlingSummons=0
-_hotTubSoaks=1
+_hotTubSoaks=0
 _hyperinflatedSealLungUsed=false
 _iceballUses=0
 _inigosCasts=0
@@ -113,15 +113,15 @@ _kolConSixPackUsed=false
 _lastZomboEye=0
 _leafblowerML=1
 _legendaryBeat=false
-_lookingGlass=false
+_lookingGlass=true
 _lunchBreak=false
 _madTeaParty=false
 _mayflowerDrops=0
 _mayflySummons=0
 _mediumSiphons=0
 _navelRunaways=0
-_olympicSwimmingPool=true
-_olympicSwimmingPoolItemFound=false
+_olympicSwimmingPool=false
+_olympicSwimmingPoolItemFound=true
 _pasteDrops=0
 _photocopyUsed=false
 _pieDrops=0
@@ -256,7 +256,7 @@ barrelGoal=1
 barrelLayout=?????????
 bartenderTurnsUsed=40
 basementMallPrices=1
-battleAction=attack with weapon
+battleAction=custom combat script
 beeCounter=0
 beforePVPScript
 betweenBattleScript
@@ -281,7 +281,7 @@ bootsCharged=false
 borisPoints=0
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=false
+breakfastCompleted=true
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
@@ -679,9 +679,9 @@ clanAttacksEnabled=false
 cocktailSummons=0
 concertVisited=false
 counterScript
-crimboTreeDays=7
+crimboTreeDays=4
 currentBountyItem=0
-currentFullness=0
+currentFullness=11
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -766,7 +766,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=4
-lastAdventure=Sleazy Back Alley
+lastAdventure=Batrat and Ratbat Burrow
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -782,13 +782,13 @@ lastBangPotion827
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
-lastBreakfast=-1
+lastBreakfast=3
 lastCellarReset=4
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
-lastCouncilVisit=1
-lastCounterDay=0
+lastCouncilVisit=4
+lastCounterDay=3
 lastDispensaryOpen=3
 lastDoorCodeReset=3
 lastDustyBottle2271=0
@@ -829,7 +829,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=3
 lastEmptiedStorage=3
-lastEncounter=Aww, Craps
+lastEncounter=batrat
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -842,7 +842,7 @@ lastHippyCall=-1
 lastKeyotronUse=-1
 lastKingLiberation=4
 lastLouvreMap=4
-lastManorUnlock=3
+lastManorUnlock=4
 lastMessageCount=15
 lastMessageId
 lastMiningReset=3
@@ -894,8 +894,8 @@ lastStoneSphere2175
 lastStoneSphere2176
 lastStoneSphere2177
 lastStoneSphereReset=4
-lastTavernAscension=3
-lastTavernSquare=25
+lastTavernAscension=4
+lastTavernSquare=14
 lastTelescopeReset=4
 lastTempleAdventures=-1
 lastTempleButtonsUnlock=3
@@ -964,7 +964,6 @@ pyramidBombUsed=false
 pyramidPosition=0
 questF01Primordial=unstarted
 questF01Primordial,=Primordial Fear\=unstarted
-questF01Primordial, Primordial Fear=unstarted
 questF02Hyboria=unstarted
 questF03Future=unstarted
 questF04Elves=unstarted
@@ -978,8 +977,8 @@ questG06Delivery=unstarted
 questI01Scapegoat=unstarted
 questI02Beat=unstarted
 questI02Beat =unstarted
-questL02Larva=unstarted
-questL03Rat=unstarted
+questL02Larva=finished
+questL03Rat=finished
 questL04Bat=unstarted
 questL05Goblin=unstarted
 questL06Friar=unstarted
@@ -994,7 +993,7 @@ questL11Pyramid=unstarted
 questL11Worship=unstarted
 questL12War=unstarted
 questL13Final=unstarted
-questM01Untinker=unstarted
+questM01Untinker=finished
 questM02Artist=unstarted
 questM03Bugbear=unstarted
 questM04Galaktic=unstarted
@@ -1021,7 +1020,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=70\:Semirare window begin\:lparen.gif\:80\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1069,7 +1068,7 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster
-stationaryButton1
+stationaryButton1=12000
 stationaryButton2
 stationaryButton3
 stationaryButton4
@@ -1082,7 +1081,7 @@ sugarCounter4181=0
 sugarCounter4182=0
 sugarCounter4183=0
 sugarCounter4191=0
-tavernLayout=1111121111111111311511116
+tavernLayout=1111111100115103111011411
 telescope1=a smiling man smoking a pipe
 telescope2
 telescope3
@@ -1090,7 +1089,7 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=false
+telescopeLookedHigh=true
 telescopeUpgrades=1
 tempuraSummons=0
 textColors=crappy\:\#999999|good\:green|awesome\:blue|epic\:\#8a2be2|junk\:gray|memento\:olive|notavailable\:gray
