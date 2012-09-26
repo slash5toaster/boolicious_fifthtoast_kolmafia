@@ -23,7 +23,7 @@ _bagOfCandy=false
 _bagOfCandyUsed=false
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=true
+_ballpit=false
 _banderRunaways=0
 _bearHugs=0
 _beerLensDrops=0
@@ -659,7 +659,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=24703
 currentPvpVictories
-currentSpleenUse=1
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=50
@@ -667,7 +667,7 @@ cyrptCrannyEvilness=50
 cyrptNicheEvilness=38
 cyrptNookEvilness=43
 cyrptTotalEvilness=181
-dailyDungeonDone=false
+dailyDungeonDone=true
 dbNemesisSkill1=0
 dbNemesisSkill2=0
 dbNemesisSkill3=0
@@ -735,7 +735,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Spooky Forest
+lastAdventure=Haunted Wine Cellar (Northwest)
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=ettin strength
@@ -750,13 +750,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=4
+lastBreakfast=5
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
-lastCouncilVisit=14
-lastCounterDay=4
+lastCouncilVisit=16
+lastCounterDay=5
 lastDispensaryOpen=3
 lastDoorCodeReset=3
 lastDustyBottle2271=6
@@ -796,8 +796,8 @@ lastDwarfOreRunes
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=3
-lastEmptiedStorage=3
-lastEncounter=Have a Heart
+lastEmptiedStorage=-1
+lastEncounter=skeletal sommelier
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -910,13 +910,14 @@ outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=14
 pastamancerGhostName=Bufferhams
-pastamancerGhostSummons=2
+pastamancerGhostSummons=0
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
 pastamancerOrbedType
 pendingMapReflections=0
 photocopyMonster=monster
+pieStuffing
 plantingDate
 plantingDay=-1
 plantingLength
