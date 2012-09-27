@@ -3,7 +3,7 @@ CoinmastersFrame=305,175,-1
 CouncilFrame=424,322,-1
 DescriptionFrame=-4,0,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=236,0,-1
+KoLDesktop=241,0,-1
 LoginFrame=425,136,0
 MaximizerFrame=349,133
 MeatManageFrame=440,122
@@ -11,8 +11,8 @@ MushroomFrame=352,192,1
 OptionsFrame=337,159,-1
 ProfileFrame=2662,409,-1
 RequestFrame=-4,0,-1
-RequestSynchFrame=5,5,-1
-TabbedChatFrame=433,221,1
+RequestSynchFrame=-4,0,-1
+TabbedChatFrame=433,221,2
 _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
@@ -25,7 +25,7 @@ _bagOfCandy=false
 _bagOfCandyUsed=false
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=true
+_ballpit=false
 _banderRunaways=0
 _bearHugs=0
 _beerLensDrops=0
@@ -649,11 +649,11 @@ choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=true
+concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=15
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation=Yossarian
 currentJunkyardTool
@@ -685,7 +685,7 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8
 demonName9
-demonSummoned=true
+demonSummoned=false
 desktopHeight=600
 desktopWidth=800
 distentionPillActive=false
@@ -713,7 +713,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=132
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=7
@@ -754,13 +754,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=2
+lastBreakfast=6
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=15
-lastCounterDay=2
+lastCounterDay=6
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=6
@@ -800,7 +800,7 @@ lastDwarfOreRunes
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
-lastEmptiedStorage=-1
+lastEmptiedStorage=3
 lastEncounter=MagiMechTech MechaMech
 lastFilthClearance=3
 lastFratboyCall=-1
@@ -912,15 +912,16 @@ olfactedMonster=wabbit
 oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
-pastamancerGhostExperience=7
+pastamancerGhostExperience=8
 pastamancerGhostName=Bufferhams
-pastamancerGhostSummons=10
+pastamancerGhostSummons=1
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
 pastamancerOrbedType
 pendingMapReflections=0
 photocopyMonster=monster
+pieStuffing
 plantingDate=13
 plantingDay=0
 plantingLength=5
