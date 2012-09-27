@@ -856,3 +856,179 @@ Round 5: weremoose takes 6 damage.
 
 Visiting Relaxing Hot Tub in clan VIP lounge
 You gain 109 hit points
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+September 27, 2012 - Carlvember 7
+
+Ronald: third quarter
+Grimace: waxing gibbous
+Mini-moon: far left
+
+Halloween: 9 days
+Feast of Boris: 16 days
+Yuletide: 21 days
+Festival of Jarlsberg: 26 days
+Valentine's Day: 37 days
+St. Sneaky Pete's Day: 44 days
+Oyster Egg Day: 51 days
+El Dia De Los Muertos Borrachos: 59 days
+Generic Summer Holiday: 68 days
+Dependence Day: 77 days
+Arrrbor Day: 85 days
+Lab&oacute;r Day: 95 days
+
+
+2 days until Muscle.
+
+
+ > status
+
+Name: boolicious
+Class: Zombie Master
+
+Lv: 6
+HP: 111 / 111
+MP: 131 / 131
+
+Mus: 64 (31), tnp = 16
+Mys: 50 (27), tnp = 49
+Mox: 47 (22), tnp = 27
+
+Advs: 140
+Meat: 13,040
+
+Full: 4 / 15
+Drunk: 0 / 4
+Spleen: 8 / 15
+
+
+ > equipment
+
+Hat: Dolphin King's crown
+Weapon: Knob Goblin scimitar
+Off-hand: giant clay ashtray
+Shirt: (none)
+Pants: cane-mail pants
+
+Acc. 1: Mr. Accessory
+Acc. 2: shiny ring
+Acc. 3: garish pinky ring
+
+Pet: Ghuol Whelp (15 lbs)
+Item: (none)
+
+ > skills
+
+Zombie Master
+ - Bite Minion
+ - Distracting Minion
+ - Flesh Mob
+ - Infectious Bite
+ - Lure Minions
+ - Plague Claws
+ - Recruit Zombie
+ - Smash & Graaagh
+ - Summon Minion
+ - Zombie Chow
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Lycanthropy, Eh? (10)
+Muscle Unbound (14)
+Lapdog (14)
+So Fresh and So Clean (15)
+
+
+ > modifiers
+
+ML: +20
+Enc: +0.00%
+Init: +30.00%
+
+Exp: +2.50
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[298] Menagerie 2
+Encounter: Grass Elemental
+Round 0: boolicious loses initiative!
+You lose 31 hit points
+Round 1: boolicious casts INFECTIOUS BITE!
+Round 2: grass elemental takes 6 damage.
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: grass elemental takes 6 damage.
+You lose 30 hit points
+Round 3: boolicious attacks!
+Round 4: grass elemental takes 1 damage.
+Round 4: grass elemental takes 6 damage.
+You lose 30 hit points
+Round 4: boolicious uses the razor-sharp can lid!
+Round 5: grass elemental takes 3 damage.
+Round 5: grass elemental takes 6 damage.
+You lose 29 hit points
+
+[299] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: undead elbow macaroni takes 6 damage.
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: undead elbow macaroni takes 6 damage.
+Round 3: boolicious attacks!
+Round 4: undead elbow macaroni takes 79 damage.
+Round 4: undead elbow macaroni takes 6 damage.
+Round 4: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 16 hit points
+You gain 5 Meat
+You gain 5 Fortitude
+You gain 2 Magicalness
+
+[300] Haunted Pantry
+Encounter: possessed can of tomatoes
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: possessed can of tomatoes takes 6 damage.
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: possessed can of tomatoes takes 6 damage.
+Round 3: boolicious attacks!
+Round 4: possessed can of tomatoes takes 56 damage.
+Round 4: possessed can of tomatoes takes 6 damage.
+Round 4: boolicious wins the fight!
+You gain 3 Meat
+You acquire an item: razor-sharp can lid
+You acquire an item: tomato
+You gain 4 Muscleboundness
+You gain 3 Cheek
+
+[301] Haunted Pantry
+Encounter: fiendish can of asparagus
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: fiendish can of asparagus takes 6 damage.
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: fiendish can of asparagus takes 6 damage.
+Round 3: boolicious attacks!
+You lose 1 hit point
+Round 4: fiendish can of asparagus takes 6 damage.
+Round 4: boolicious attacks!
+Round 5: fiendish can of asparagus takes 33 damage.
+Round 5: fiendish can of asparagus takes 6 damage.
+Round 5: boolicious wins the fight!
+You gain 4 Meat
+You gain 4 Strongness
+You gain 2 Magicalness
+You gain 2 Cheek
+Jumping into the Awesome Ball Pit in the clan rumpus room
