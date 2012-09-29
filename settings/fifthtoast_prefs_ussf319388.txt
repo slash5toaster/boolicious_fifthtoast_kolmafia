@@ -3,7 +3,7 @@ CoinmastersFrame=305,175,-1
 CouncilFrame=424,322,-1
 DescriptionFrame=-4,0,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=241,0,-1
+KoLDesktop=242,0,-1
 LoginFrame=425,136,0
 MaximizerFrame=349,133
 MeatManageFrame=440,122
@@ -12,7 +12,7 @@ OptionsFrame=337,159,-1
 ProfileFrame=2662,409,-1
 RequestFrame=-4,0,-1
 RequestSynchFrame=-4,0,-1
-TabbedChatFrame=433,221,2
+TabbedChatFrame=433,221,0
 _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
@@ -737,7 +737,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Fantasy Airship
+lastAdventure=Goatlet
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -754,13 +754,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=6
+lastBreakfast=8
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=15
-lastCounterDay=6
+lastCounterDay=8
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=6
@@ -800,8 +800,8 @@ lastDwarfOreRunes
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
-lastEmptiedStorage=3
-lastEncounter=MagiMechTech MechaMech
+lastEmptiedStorage=-1
+lastEncounter=drunk goat
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -914,7 +914,7 @@ outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=8
 pastamancerGhostName=Bufferhams
-pastamancerGhostSummons=1
+pastamancerGhostSummons=0
 pastamancerGhostType=Undead Elbow Macaroni
 pastamancerOrbedExperience=0
 pastamancerOrbedName
@@ -992,7 +992,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=5719\:Semirare window begin loc\=*\:lparen.gif\:5759\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1001,8 +1001,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=4280
-semirareLocation=Haunted Pantry
+semirareCounter=5559
+semirareLocation=Goatlet
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
