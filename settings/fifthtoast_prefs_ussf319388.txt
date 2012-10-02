@@ -1,17 +1,17 @@
-AdventureFrame=292,71,4
+AdventureFrame=292,71,0
 CoinmastersFrame=305,175,-1
 CouncilFrame=424,322,-1
 DescriptionFrame=-4,0,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=242,0,-1
+KoLDesktop=0,0,-1
 LoginFrame=425,136,0
-MaximizerFrame=349,133
+MaximizerFrame=-4,0
 MeatManageFrame=440,122
 MushroomFrame=352,192,1
 OptionsFrame=337,159,-1
 ProfileFrame=2662,409,-1
 RequestFrame=-4,0,-1
-RequestSynchFrame=-4,0,-1
+RequestSynchFrame=5,5,-1
 TabbedChatFrame=433,221,0
 _absintheDrops=0
 _aguaDrops=0
@@ -72,7 +72,7 @@ _grooseDrops=0
 _guildManualUsed=true
 _hareAdv=0
 _hareCharge=0
-_hippyMeatCollected=true
+_hippyMeatCollected=false
 _hipsterAdv=0
 _hobbyHorseUsed=false
 _hoboUnderlingSummons=0
@@ -151,7 +151,7 @@ _vmaskAdv=0
 _vmaskBanisherUsed=false
 _whiteRiceDrops=0
 _zapCount=0
-addingScrolls=2
+addingScrolls=3
 afterAdventureScript
 arcadeGameHints=false
 autoAbortThreshold=-0.05
@@ -226,9 +226,9 @@ banishingShoutMonsters
 bankedKarma=0
 barrelGoal=7
 barrelLayout=?????????
-bartenderTurnsUsed=24
+bartenderTurnsUsed=25
 basementMallPrices=1
-battleAction=custom combat script
+battleAction=attack with weapon
 beeCounter=0
 beforePVPScript
 betweenBattleScript
@@ -247,7 +247,7 @@ birdformRoc=0
 birdformSleaze=0
 birdformSpooky=0
 birdformStench=0
-blackPuddingsDefeated=6
+blackPuddingsDefeated=10
 blankOutUsed=0
 bootsCharged=false
 borisPoints=0
@@ -610,11 +610,11 @@ choiceAdventure575=0
 choiceAdventure576=1
 choiceAdventure577=1
 choiceAdventure578=0
-choiceAdventure579=0
-choiceAdventure581=0
+choiceAdventure579=1
+choiceAdventure581=1
 choiceAdventure582=0
 choiceAdventure583=1
-choiceAdventure584=0
+choiceAdventure584=2
 choiceAdventure595=0
 choiceAdventure596=0
 choiceAdventure597=0
@@ -652,16 +652,16 @@ cocktailSummons=0
 concertVisited=true
 counterScript
 crimboTreeDays=7
-currentBountyItem=0
-currentFullness=0
-currentHippyStore=hippy
+currentBountyItem=2412
+currentFullness=15
+currentHippyStore=none
 currentJunkyardLocation=Yossarian
 currentJunkyardTool
 currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=75605
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=2
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -737,7 +737,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Giant's Castle
+lastAdventure=Hidden Temple
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -754,13 +754,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=10
+lastBreakfast=11
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=15
-lastCounterDay=10
+lastCounterDay=11
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=6
@@ -800,8 +800,8 @@ lastDwarfOreRunes
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
-lastEmptiedStorage=3
-lastEncounter=Raver Giant
+lastEmptiedStorage=-1
+lastEncounter=The Hidden Heart of the Hidden Temple
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -869,7 +869,7 @@ lastTavernAscension=0
 lastTavernSquare=0
 lastTelescopeReset=-1
 lastTempleAdventures=-1
-lastTempleButtonsUnlock=-1
+lastTempleButtonsUnlock=3
 lastTempleUnlock=3
 lastTowerClimb=-1
 lastTr4pz0rQuest=-1
@@ -905,17 +905,17 @@ mpAutoRecoveryItems=sleep on your clan sofa;carbonated soy milk;carbonated water
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
 noodleSummons=5
-nunsVisits=1
+nunsVisits=3
 oceanAction=savecontinue
 oceanDestination=plinth
 olfactedMonster=wabbit
 oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
-pastamancerGhostExperience=8
-pastamancerGhostName=Bufferhams
-pastamancerGhostSummons=0
-pastamancerGhostType=Undead Elbow Macaroni
+pastamancerGhostExperience=3
+pastamancerGhostName=Ben
+pastamancerGhostSummons=8
+pastamancerGhostType=Vermincelli
 pastamancerOrbedExperience=0
 pastamancerOrbedName
 pastamancerOrbedType
@@ -992,7 +992,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=5898\:Semirare window begin loc\=*\:lparen.gif\:5938\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1001,8 +1001,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=5559
-semirareLocation=Goatlet
+semirareCounter=5738
+semirareLocation=Hidden Temple
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
@@ -1013,7 +1013,7 @@ sidequestFarmCompleted=hippy
 sidequestJunkyardCompleted=none
 sidequestLighthouseCompleted=fratboy
 sidequestNunsCompleted=hippy
-sidequestOrchardCompleted=hippy
+sidequestOrchardCompleted=none
 singleFamiliarRun=-1
 skateParkStatus=war
 skillBurn1019=-100
