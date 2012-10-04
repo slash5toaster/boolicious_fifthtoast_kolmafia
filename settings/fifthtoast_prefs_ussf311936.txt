@@ -5,12 +5,12 @@ CouncilFrame=424,322,-1
 DescriptionFrame=742,393,-1
 FamiliarTrainingFrame=2498,327
 KoLDesktop=80,142,-1
-LoginFrame=261,232,0
+LoginFrame=2645,349,0
 MaximizerFrame=899,153
 ProfileFrame=2662,409,-1
 RequestFrame=655,318,-1
 RequestSynchFrame=1916,-4,-1
-TabbedChatFrame=1167,175,1
+TabbedChatFrame=1420,0,0
 _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
@@ -23,7 +23,7 @@ _bagOfCandy=false
 _bagOfCandyUsed=false
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=false
+_ballpit=true
 _banderRunaways=0
 _bearHugs=0
 _beerLensDrops=0
@@ -141,7 +141,7 @@ _toastSummons=0
 _tokenDrops=0
 _transponderDrops=0
 _treasuryEliteMeatCollected=false
-_treasuryHaremMeatCollected=false
+_treasuryHaremMeatCollected=true
 _trivialAvocationsGame=true
 _userMods
 _vitachocCapsulesUsed=0
@@ -224,7 +224,7 @@ banishingShoutMonsters
 bankedKarma=0
 barrelGoal=1
 barrelLayout=?????????
-bartenderTurnsUsed=5
+bartenderTurnsUsed=10
 basementMallPrices=1
 battleAction=attack with weapon
 beeCounter=0
@@ -647,11 +647,11 @@ choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=false
+concertVisited=true
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=0
+currentFullness=2
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -659,7 +659,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=24703
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=2
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=50
@@ -711,7 +711,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=4
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=13
@@ -735,7 +735,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Haunted Wine Cellar (Southeast)
+lastAdventure=Ninja Snowmen
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=ettin strength
@@ -797,7 +797,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=3
 lastEmptiedStorage=-1
-lastEncounter=skeletal sommelier
+lastEncounter=Ninja Snowman Janitor
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -901,17 +901,17 @@ mpAutoRecoveryItems=sleep on your clan sofa;visit the nuns;oscus's neverending s
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
 noodleSummons=5
-nunsVisits=0
+nunsVisits=1
 oceanAction=savecontinue
 oceanDestination=plinth
 olfactedMonster=wabbit
 oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
-pastamancerGhostExperience=14
-pastamancerGhostName=Bufferhams
-pastamancerGhostSummons=0
-pastamancerGhostType=Undead Elbow Macaroni
+pastamancerGhostExperience=4
+pastamancerGhostName=Ben
+pastamancerGhostSummons=4
+pastamancerGhostType=Vermincelli
 pastamancerOrbedExperience=0
 pastamancerOrbedName
 pastamancerOrbedType
@@ -988,7 +988,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=6080\:Semirare window begin loc\=*\:lparen.gif\:6120\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -997,8 +997,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=3037
-semirareLocation=Giant's Castle
+semirareCounter=5920
+semirareLocation=Ninja Snowmen
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
@@ -1036,11 +1036,11 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=3003
-stationaryButton2=3005
-stationaryButton3=3009
-stationaryButton4=15
-stationaryButton5=3008
+stationaryButton1=3005
+stationaryButton2=3009
+stationaryButton3=15
+stationaryButton4=3008
+stationaryButton5=3007
 styxPixieVisited=false
 sugarCounter4178=0
 sugarCounter4179=0
