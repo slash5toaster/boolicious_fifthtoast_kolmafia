@@ -3,13 +3,13 @@ CoinmastersFrame=305,175,-1
 CouncilFrame=424,322,-1
 DescriptionFrame=-4,0,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=0,0,-1
+KoLDesktop=242,0,-1
 LoginFrame=425,136,0
-MaximizerFrame=-4,0
+MaximizerFrame=349,133
 MeatManageFrame=440,122
 MushroomFrame=352,192,1
 OptionsFrame=337,159,-1
-ProfileFrame=2662,409,-1
+ProfileFrame=-4,0,-1
 RequestFrame=-4,0,-1
 RequestSynchFrame=5,5,-1
 TabbedChatFrame=433,221,0
@@ -72,7 +72,7 @@ _grooseDrops=0
 _guildManualUsed=true
 _hareAdv=0
 _hareCharge=0
-_hippyMeatCollected=false
+_hippyMeatCollected=true
 _hipsterAdv=0
 _hobbyHorseUsed=false
 _hoboUnderlingSummons=0
@@ -652,16 +652,16 @@ cocktailSummons=0
 concertVisited=true
 counterScript
 crimboTreeDays=7
-currentBountyItem=2412
-currentFullness=15
-currentHippyStore=none
+currentBountyItem=0
+currentFullness=1
+currentHippyStore=hippy
 currentJunkyardLocation=Yossarian
 currentJunkyardTool
 currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=75605
 currentPvpVictories
-currentSpleenUse=2
+currentSpleenUse=1
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -685,7 +685,7 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8
 demonName9
-demonSummoned=true
+demonSummoned=false
 desktopHeight=600
 desktopWidth=800
 distentionPillActive=false
@@ -737,7 +737,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Hidden Temple
+lastAdventure=Hobopolis Town Square
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -754,13 +754,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=11
+lastBreakfast=13
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=15
-lastCounterDay=11
+lastCounterDay=13
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=6
@@ -800,8 +800,8 @@ lastDwarfOreRunes
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
-lastEmptiedStorage=-1
-lastEncounter=The Hidden Heart of the Hidden Temple
+lastEmptiedStorage=3
+lastEncounter=Collegeboy Yuri Taylor
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -905,16 +905,16 @@ mpAutoRecoveryItems=sleep on your clan sofa;carbonated soy milk;carbonated water
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
 noodleSummons=5
-nunsVisits=3
+nunsVisits=2
 oceanAction=savecontinue
 oceanDestination=plinth
 olfactedMonster=wabbit
 oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
-pastamancerGhostExperience=3
+pastamancerGhostExperience=4
 pastamancerGhostName=Ben
-pastamancerGhostSummons=8
+pastamancerGhostSummons=2
 pastamancerGhostType=Vermincelli
 pastamancerOrbedExperience=0
 pastamancerOrbedName
@@ -992,7 +992,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=5898\:Semirare window begin loc\=*\:lparen.gif\:5938\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1013,7 +1013,7 @@ sidequestFarmCompleted=hippy
 sidequestJunkyardCompleted=none
 sidequestLighthouseCompleted=fratboy
 sidequestNunsCompleted=hippy
-sidequestOrchardCompleted=none
+sidequestOrchardCompleted=hippy
 singleFamiliarRun=-1
 skateParkStatus=war
 skillBurn1019=-100
@@ -1039,7 +1039,7 @@ sortByRoom=true
 spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
-spookyPuttyMonster
+spookyPuttyMonster=something <i>totally</i> unrecognizable
 stationaryButton1=3005
 stationaryButton2=15
 stationaryButton3=3020
