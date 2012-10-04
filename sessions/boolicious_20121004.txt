@@ -797,3 +797,208 @@ You acquire an item: bottle of Monsieur Bubble
 You gain 9 Strongness
 You gain 6 Magicalness
 You gain 10 Roguishness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+October 4, 2012 - Porktober 6
+
+Ronald: waning gibbous
+Grimace: third quarter
+Mini-moon: front center
+
+Halloween: 2 days
+Feast of Boris: 9 days
+Yuletide: 14 days
+Festival of Jarlsberg: 19 days
+Valentine's Day: 30 days
+St. Sneaky Pete's Day: 37 days
+Oyster Egg Day: 44 days
+El Dia De Los Muertos Borrachos: 52 days
+Generic Summer Holiday: 61 days
+Dependence Day: 70 days
+Arrrbor Day: 78 days
+Lab&oacute;r Day: 88 days
+
+
+2 days until Moxie.
+
+
+ > status
+
+Name: boolicious
+Class: Zombie Master
+
+Lv: 8
+HP: 308 / 308
+MP: 442 / 442
+
+Mus: 202 (67), tnp = 40
+Mys: 142 (58), tnp = 30
+Mox: 128 (51), tnp = 7
+
+Advs: 84
+Meat: 32,072
+
+Full: 17 / 25
+Drunk: 0 / 4
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: fuzzy busby
+Weapon: Knob Goblin deluxe scimitar
+Off-hand: giant clay ashtray
+Shirt: (none)
+Pants: cane-mail pants
+
+Acc. 1: Mr. Accessory
+Acc. 2: badass belt
+Acc. 3: Lord Spookyraven's spectacles
+
+Pet: Ghuol Whelp (20 lbs)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - Stomach of Steel
+
+Zombie Master
+ - Bite Minion
+ - Distracting Minion
+ - Elemental Obliviousness
+ - Flesh Mob
+ - Hunter's Sprint
+ - Infectious Bite
+ - Insatiable Hunger
+ - Lure Minions
+ - Plague Claws
+ - Recruit Zombie
+ - Smash & Graaagh
+ - Summon Minion
+ - Undying Greed
+ - Vigor Mortis
+ - Zombie Chow
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Trivia Master
+Aided and Abetted (3)
+So Fresh and So Clean (47)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +100.00%
+
+Exp: +0.00
+Meat: +25.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+buy 5 Ben-Gal™ Balm for 24 each from The General Store
+You acquire Ben-Gal&trade; Balm (5)
+You spent 120 Meat
+
+use 5 Ben-Gal&trade; Balm
+You acquire an effect: Go Get 'Em, Tiger! (duration: 15 Adventures)
+
+[814] Haunted Bathroom
+Encounter: malevolent hair clog
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: malevolent hair clog takes 8 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: malevolent hair clog takes 8 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: malevolent hair clog drops 8 attack power.
+Round 4: malevolent hair clog drops 9 defense.
+Round 4: malevolent hair clog takes 16 damage.
+Round 4: boolicious attacks!
+Round 5: malevolent hair clog takes 163 damage.
+Round 5: malevolent hair clog takes 16 damage.
+Round 5: boolicious wins the fight!
+You acquire an item: decent brain
+You gain 10 Fortitude
+You gain 9 Wizardliness
+You gain 7 Roguishness
+You gain a Moxie point!
+
+eat 1 decent brain
+You gain 2 Adventures
+You gain 3 Muscleboundness
+You gain 6 Enchantedness
+You gain 6 Sarcasm
+You gain 1 Fullness
+
+manor2.php?place=ballroom
+
+[815] Haunted Bedroom
+Encounter: animated nightstand
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: animated nightstand (white) takes 8 damage.
+You lose 65 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: animated nightstand (white) takes 8 damage.
+You lose 64 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: animated nightstand (white) drops 5 attack power.
+Round 4: animated nightstand (white) drops 6 defense.
+Round 4: animated nightstand (white) takes 16 damage.
+You lose 58 hit points
+Round 4: boolicious attacks!
+Round 5: animated nightstand (white) takes 4 damage.
+Round 5: animated nightstand (white) takes 16 damage.
+You lose 61 hit points
+
+Visiting Relaxing Hot Tub in clan VIP lounge
+You lose an effect: Beaten Up
+You gain 220 hit points
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #54/1200:
+Question: What was stolen from the Ov'reezy Museum of Scientific Things on Dougtember tenth, 1971?
+Answer: A beet and bologna sandwich.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #488/1200:
+Question: When did the Flanders Drunken Investment Bankers win the national foursquare championship?
+Answer: Petember 6, 1976.
+
+use 1 Trivial Avocations Card: Where?
+You acquire an effect: You Know Where to Go (duration: 1 Adventure)
+Trivia card #979/1200:
+Question: Where was Shekky IV, Vizier of Burblegroat, hit by lightning?
+Answer: The province of Waltermatthau.
+
+use 1 Trivial Avocations Card: Who?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Where to Go
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #661/1200:
+Question: What player for the Stoatsford Yodeling Gypsies was inducted into the Hall of Fame for his or her last-second piledriver in the 1942 bowling championship?
+Answer: Lady Theodore I's hissing cockroach.
+
+use 1 Jackass Plumber home game
+You acquire an effect: Gamer Rage (duration: 10 Adventures)
+
+Visiting Mr. Store
