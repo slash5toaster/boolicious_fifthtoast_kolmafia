@@ -10,7 +10,7 @@ MaximizerFrame=899,153
 ProfileFrame=2662,409,-1
 RequestFrame=655,318,-1
 RequestSynchFrame=1916,-4,-1
-TabbedChatFrame=1420,0,0
+TabbedChatFrame=2630,434,0
 _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
@@ -23,7 +23,7 @@ _bagOfCandy=false
 _bagOfCandyUsed=false
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=true
+_ballpit=false
 _banderRunaways=0
 _bearHugs=0
 _beerLensDrops=0
@@ -141,7 +141,7 @@ _toastSummons=0
 _tokenDrops=0
 _transponderDrops=0
 _treasuryEliteMeatCollected=false
-_treasuryHaremMeatCollected=true
+_treasuryHaremMeatCollected=false
 _trivialAvocationsGame=true
 _userMods
 _vitachocCapsulesUsed=0
@@ -647,11 +647,11 @@ choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=true
+concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=2
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -659,7 +659,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=24703
 currentPvpVictories
-currentSpleenUse=2
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=50
@@ -711,7 +711,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=4
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=13
@@ -735,7 +735,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Ninja Snowmen
+lastAdventure=Haunted Wine Cellar (Northeast)
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=ettin strength
@@ -750,13 +750,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=12
+lastBreakfast=14
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=16
-lastCounterDay=12
+lastCounterDay=14
 lastDispensaryOpen=3
 lastDoorCodeReset=3
 lastDustyBottle2271=6
@@ -796,8 +796,8 @@ lastDwarfOreRunes
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=3
-lastEmptiedStorage=-1
-lastEncounter=Ninja Snowman Janitor
+lastEmptiedStorage=3
+lastEncounter=skeletal sommelier
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -901,7 +901,7 @@ mpAutoRecoveryItems=sleep on your clan sofa;visit the nuns;oscus's neverending s
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
 noodleSummons=5
-nunsVisits=1
+nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=plinth
 olfactedMonster=wabbit
@@ -910,7 +910,7 @@ outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=4
 pastamancerGhostName=Ben
-pastamancerGhostSummons=4
+pastamancerGhostSummons=0
 pastamancerGhostType=Vermincelli
 pastamancerOrbedExperience=0
 pastamancerOrbedName
@@ -988,7 +988,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=6080\:Semirare window begin loc\=*\:lparen.gif\:6120\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
