@@ -1,11 +1,11 @@
-AdventureFrame=428,128,1
+AdventureFrame=2142,61,0
 CoinmastersFrame=593,88,-1
 ContactListFrame=2663,343
 CouncilFrame=424,322,-1
 DescriptionFrame=742,393,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=0,20,-1
-LoginFrame=453,164,0
+KoLDesktop=2803,77,-1
+LoginFrame=2645,349,0
 MaximizerFrame=899,153
 ProfileFrame=2662,409,-1
 RequestFrame=655,318,-1
@@ -740,7 +740,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Haunted Pantry
+lastAdventure=Dungeons of Doom
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=ettin strength
@@ -755,13 +755,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=15
+lastBreakfast=1
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=16
-lastCounterDay=15
+lastCounterDay=1
 lastDispensaryOpen=3
 lastDoorCodeReset=3
 lastDustyBottle2271=6
@@ -801,8 +801,8 @@ lastDwarfOreRunes
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=3
-lastEmptiedStorage=-1
-lastEncounter=possessed can of tomatoes
+lastEmptiedStorage=3
+lastEncounter=large kobold
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
