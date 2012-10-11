@@ -16,7 +16,7 @@ FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
 KoLDesktop=270,28,-1
-LoginFrame=1920,0,0
+LoginFrame=2645,349,0
 MailboxFrame=289,310,1
 MaximizerFrame=557,300
 MeatManageFrame=1921,395
@@ -95,7 +95,7 @@ _hippyMeatCollected=false
 _hipsterAdv=0
 _hobbyHorseUsed=false
 _hoboUnderlingSummons=0
-_hotTubSoaks=0
+_hotTubSoaks=1
 _hyperinflatedSealLungUsed=false
 _iceballUses=0
 _inigosCasts=0
@@ -686,7 +686,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=2
 currentBountyItem=0
-currentFullness=20
+currentFullness=22
 currentHippyStore=none
 currentJunkyardLocation
 currentJunkyardTool
@@ -771,7 +771,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=false
 kingLiberatedScript
 knownAscensions=4
-lastAdventure=Haunted Ballroom
+lastAdventure=Haunted Bedroom
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -834,7 +834,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=3
 lastEmptiedStorage=4
-lastEncounter=tapdancing skeleton
+lastEncounter=the remains of a jilted mistress
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -878,7 +878,7 @@ lastPorkoExpected=1.50\:1.50\:0.94\:1.89\:1.89\:1.89\:2.37\:2.84\:2.84
 lastPorkoPayouts=210020321
 lastPyramidReset=3
 lastQuartetAscension=4
-lastQuartetRequest=3
+lastQuartetRequest=2
 lastSecondFloorUnlock=4
 lastSemirareReset=4
 lastSkateParkReset=4
@@ -991,7 +991,7 @@ questL06Friar=finished
 questL07Cyrptic=finished
 questL08Trapper=finished
 questL09Lol=finished
-questL10Garbage=started
+questL10Garbage=finished
 questL11MacGuffin=unstarted
 questL11Manor=unstarted
 questL11Palindome=unstarted
@@ -1077,8 +1077,8 @@ spookyPuttyMonster
 stationaryButton1=12000
 stationaryButton2=12011
 stationaryButton3=12012
-stationaryButton4
-stationaryButton5
+stationaryButton4=12023
+stationaryButton5=12013
 styxPixieVisited=false
 sugarCounter4178=0
 sugarCounter4179=0

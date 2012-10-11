@@ -3431,3 +3431,1025 @@ You gain 18 Fortitude
 You gain a Muscle point!
 You gain 10 Enchantedness
 You gain 10 Cheek
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+October 10, 2012 - Boozember 4
+
+Ronald: waxing gibbous
+Grimace: waxing crescent
+Mini-moon: in front of Grimace, L side
+
+Feast of Boris: 3 days
+Yuletide: 8 days
+Festival of Jarlsberg: 13 days
+Halloween: 21 days
+Valentine's Day: 24 days
+St. Sneaky Pete's Day: 31 days
+Oyster Egg Day: 38 days
+El Dia De Los Muertos Borrachos: 46 days
+Generic Summer Holiday: 55 days
+Dependence Day: 64 days
+Arrrbor Day: 72 days
+Lab&oacute;r Day: 82 days
+
+
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Zombie Master
+
+Lv: 10
+HP: 273 / 381
+MP: 715 / 715
+
+Mus: 231 (99), tnp = 199
+Mys: 82 (83), tnp = 39
+Mox: 88 (81), tnp = 17
+
+Advs: 69
+Meat: 305,948
+
+Full: 20 / 25
+Drunk: 4 / 4
+Spleen: 6 / 15
+
+
+ > equipment
+
+Hat: mesh cap
+Weapon: pygmy spear
+Off-hand: catskin buckler
+Shirt: (none)
+Pants: black greaves
+Container: vampire cape
+
+Acc. 1: Mr. Accessory
+Acc. 2: Slow Talkin' Elliot's dogtags
+Acc. 3: headhunter necktie
+
+Pet: Ghuol Whelp (30 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Stomach of Steel
+
+Zombie Master
+ - Bite Minion
+ - Devour Minions
+ - Distracting Minion
+ - Elemental Obliviousness
+ - Flesh Mob
+ - Hunter's Sprint
+ - Infectious Bite
+ - Insatiable Hunger
+ - Lure Minions
+ - Meat Shields
+ - Plague Claws
+ - Recruit Zombie
+ - Scavenge
+ - Smash & Graaagh
+ - Summon Horde
+ - Summon Minion
+ - Undying Greed
+ - Vigor Mortis
+ - Virulence
+ - Zombie Chow
+
+
+ > effects
+
+2 of 3 AT buffs active.
+Half-Eaten Brain (5)
+Brother Smothers's Blessing (8)
+Kindly Resolve (15)
+Fortunate Resolve (35)
+So Fresh and So Clean (38)
+Joyful Resolve (95)
+Greedy Resolve (135)
+Destructive Resolve (155)
+Brilliant Resolve (155)
+Irresistible Resolve (175)
+Strong Resolve (175)
+Scarysauce (250)
+Ghostly Shell (250)
+♫ Aloysius' Antiphon of Aptitude (250)
+Tenacity of the Snapper (250)
+Jingle Jangle Jingle (250)
+Elemental Saucesphere (250)
+Astral Shell (250)
+Reptilian Fortitude (250)
+Jabañero Saucesphere (250)
+Jalapeño Saucesphere (250)
+♫ Cringle's Curative Carol (250)
+Empathy (250)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +70.00%
+
+Exp: +3.00
+Meat: +60.00%
+Item: +25.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+uneffect Half-Eaten Brain
+
+[1256] Hole in the Sky
+Encounter: The Junk
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: the junk takes 10 damage.
+Round 2: the junk takes 1 damage.
+Round 2: the junk takes 12 damage.
+Round 2: the junk takes 4 damage.
+You lose 13 hit points
+Round 2: boolicious executes a macro!
+Round 3: boolicious executes a macro!
+Round 3: boolicious casts INFECTIOUS BITE!
+Round 4: the junk takes 10 damage.
+Round 4: the junk takes 1 damage.
+Round 4: the junk takes 6 damage.
+Round 4: the junk takes 3 damage.
+You lose 12 hit points
+Round 4: boolicious casts PLAGUE CLAWS!
+Round 5: the junk drops 9 attack power.
+Round 5: the junk drops 10 defense.
+Round 5: the junk takes 20 damage.
+Round 5: boolicious attacks!
+Round 6: the junk takes 154 damage.
+Round 6: the junk takes 20 damage.
+Round 6: boolicious wins the fight!
+You acquire an item: line
+You gain 23 Muscleboundness
+You gain 10 Wizardliness
+You gain 18 Roguishness
+You gain a Moxie point!
+
+[1257] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: zombie waltzers takes 10 damage.
+Round 2: zombie waltzers takes 3 damage.
+Round 2: zombie waltzers takes 1 damage.
+Round 2: zombie waltzers takes 3 damage.
+You lose 9 hit points
+Round 2: boolicious casts SMASH & GRAAAGH!
+Round 3: zombie waltzers takes 6 damage.
+You acquire an item: dance card
+Round 3: zombie waltzers takes 10 damage.
+Round 3: zombie waltzers takes 2 damage.
+Round 3: zombie waltzers takes 1 damage.
+Round 3: zombie waltzers takes 3 damage.
+You lose 9 hit points
+Round 3: boolicious executes a macro!
+Round 3: boolicious casts INFECTIOUS BITE!
+Round 4: zombie waltzers takes 10 damage.
+Round 4: zombie waltzers takes 3 damage.
+Round 4: zombie waltzers takes 1 damage.
+Round 4: zombie waltzers takes 4 damage.
+You lose 10 hit points
+Round 4: boolicious casts PLAGUE CLAWS!
+Round 5: zombie waltzers drops 8 attack power.
+Round 5: zombie waltzers drops 7 defense.
+Round 5: zombie waltzers takes 20 damage.
+Round 5: zombie waltzers takes 2 damage.
+Round 5: zombie waltzers takes 1 damage.
+Round 5: zombie waltzers takes 5 damage.
+You lose 6 hit points
+Round 5: boolicious attacks!
+Round 6: zombie waltzers takes 221 damage.
+Round 6: zombie waltzers takes 23 damage.
+You gain 23 hit points
+Round 6: zombie waltzers takes 30 damage.
+Round 6: boolicious wins the fight!
+You gain 171 Meat
+You gain 15 Fortitude
+You gain 11 Enchantedness
+You gain 12 Cheek
+
+use 1 dance card
+
+[1258] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 10 damage.
+Round 2: floating platter of hors d'oeuvres takes 1 damage.
+Round 2: floating platter of hors d'oeuvres takes 1 damage.
+Round 2: floating platter of hors d'oeuvres takes 3 damage.
+You lose 10 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: floating platter of hors d'oeuvres takes 10 damage.
+Round 3: floating platter of hors d'oeuvres takes 2 damage.
+Round 3: floating platter of hors d'oeuvres takes 1 damage.
+Round 3: floating platter of hors d'oeuvres takes 4 damage.
+You lose 10 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: floating platter of hors d'oeuvres drops 6 attack power.
+Round 4: floating platter of hors d'oeuvres drops 7 defense.
+Round 4: floating platter of hors d'oeuvres takes 20 damage.
+Round 4: floating platter of hors d'oeuvres takes 2 damage.
+Round 4: floating platter of hors d'oeuvres takes 1 damage.
+Round 4: floating platter of hors d'oeuvres takes 5 damage.
+You lose 7 hit points
+Round 4: boolicious attacks!
+Round 5: floating platter of hors d'oeuvres takes 196 damage.
+Round 5: floating platter of hors d'oeuvres takes 20 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 17 hit points
+You acquire an item: desiccated apricot
+You acquire an item: flute of flat champagne
+You gain 21 Strongness
+You gain 7 Enchantedness
+You gain 10 Cheek
+choice.php?forceoption=0
+
+[1259] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?pwd&whichchoice=90&option=2
+You gain 104 Cheek
+
+[1260] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: tapdancing skeleton takes 10 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: tapdancing skeleton takes 10 damage.
+Round 3: tapdancing skeleton takes 3 damage.
+Round 3: tapdancing skeleton takes 1 damage.
+Round 3: tapdancing skeleton takes 4 damage.
+You lose 10 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: tapdancing skeleton drops 7 attack power.
+Round 4: tapdancing skeleton drops 8 defense.
+Round 4: tapdancing skeleton takes 20 damage.
+Round 4: tapdancing skeleton takes 2 damage.
+Round 4: tapdancing skeleton takes 1 damage.
+Round 4: tapdancing skeleton takes 3 damage.
+You lose 8 hit points
+Round 4: boolicious attacks!
+Round 5: tapdancing skeleton takes 210 damage.
+Round 5: tapdancing skeleton takes 21 damage.
+You gain 21 hit points
+Round 5: tapdancing skeleton takes 30 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 26 hit points
+You gain 13 Fortitude
+You gain 14 Enchantedness
+You gain a Mysticality point!
+You gain 13 Cheek
+
+[1261] Haunted Ballroom
+Encounter: Rotting Matilda
+You gain 228 Roguishness
+You gain some Moxie points!
+
+[1262] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: zombie waltzers takes 10 damage.
+Round 2: zombie waltzers takes 1 damage.
+Round 2: zombie waltzers takes 1 damage.
+Round 2: zombie waltzers takes 4 damage.
+You lose 9 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: zombie waltzers takes 10 damage.
+Round 3: zombie waltzers takes 1 damage.
+Round 3: zombie waltzers takes 1 damage.
+Round 3: zombie waltzers takes 4 damage.
+You lose 9 hit points
+You acquire an effect: Half-Eaten Brain (duration: 10 Adventures)
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: zombie waltzers drops 5 attack power.
+Round 4: zombie waltzers drops 7 defense.
+Round 4: zombie waltzers takes 20 damage.
+Round 4: zombie waltzers takes 1 damage.
+Round 4: zombie waltzers takes 1 damage.
+Round 4: zombie waltzers takes 5 damage.
+You lose 6 hit points
+Round 4: boolicious attacks!
+Round 5: zombie waltzers takes 194 damage.
+Round 5: zombie waltzers takes 20 damage.
+Round 5: boolicious wins the fight!
+You gain 168 Meat
+You acquire an item: dance card
+You gain 18 Beefiness
+You gain 11 Wizardliness
+You gain 9 Smarm
+
+use 1 dance card
+choice.php?forceoption=0
+
+[1263] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/1: enter combat
+choice.php?pwd&whichchoice=90&option=1
+Encounter: ghastly organist
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: ghastly organist takes 10 damage.
+Round 2: ghastly organist takes 2 damage.
+Round 2: ghastly organist takes 4 damage.
+Round 2: ghastly organist takes 4 damage.
+You lose 8 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: ghastly organist takes 10 damage.
+Round 3: ghastly organist takes 1 damage.
+Round 3: ghastly organist takes 8 damage.
+Round 3: ghastly organist takes 3 damage.
+You lose 7 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: ghastly organist drops 7 attack power.
+Round 4: ghastly organist drops 8 defense.
+Round 4: ghastly organist takes 20 damage.
+Round 4: ghastly organist takes 3 damage.
+Round 4: ghastly organist takes 5 damage.
+Round 4: ghastly organist takes 5 damage.
+You lose 1 hit point
+Round 4: boolicious attacks!
+Round 5: ghastly organist takes 193 damage.
+Round 5: ghastly organist takes 20 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 22 hit points
+You gain 183 Meat
+You acquire an item: good brain
+You gain 19 Strengthliness
+You gain 8 Magicalness
+You gain 10 Chutzpah
+
+[1264] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: zombie waltzers takes 10 damage.
+Round 2: zombie waltzers takes 2 damage.
+Round 2: zombie waltzers takes 1 damage.
+Round 2: zombie waltzers takes 5 damage.
+You lose 9 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: zombie waltzers takes 10 damage.
+Round 3: zombie waltzers takes 3 damage.
+Round 3: zombie waltzers takes 1 damage.
+Round 3: zombie waltzers takes 3 damage.
+You lose 8 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: zombie waltzers drops 8 attack power.
+Round 4: zombie waltzers drops 5 defense.
+Round 4: zombie waltzers takes 20 damage.
+Round 4: zombie waltzers takes 2 damage.
+Round 4: zombie waltzers takes 1 damage.
+Round 4: zombie waltzers takes 4 damage.
+You lose 6 hit points
+Round 4: boolicious attacks!
+Round 5: zombie waltzers takes 214 damage.
+Round 5: zombie waltzers takes 22 damage.
+You gain 22 hit points
+Round 5: zombie waltzers takes 30 damage.
+Round 5: boolicious wins the fight!
+You gain 181 Meat
+You acquire an item: good brain
+You gain 15 Fortitude
+You gain 13 Wizardliness
+You gain 11 Smarm
+
+[1265] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: tapdancing skeleton takes 10 damage.
+Round 2: tapdancing skeleton takes 1 damage.
+Round 2: tapdancing skeleton takes 1 damage.
+Round 2: tapdancing skeleton takes 3 damage.
+You lose 9 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: tapdancing skeleton takes 10 damage.
+Round 3: tapdancing skeleton takes 3 damage.
+Round 3: tapdancing skeleton takes 1 damage.
+Round 3: tapdancing skeleton takes 4 damage.
+You lose 8 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: tapdancing skeleton drops 9 attack power.
+Round 4: tapdancing skeleton drops 6 defense.
+Round 4: tapdancing skeleton takes 20 damage.
+Round 4: tapdancing skeleton takes 1 damage.
+Round 4: tapdancing skeleton takes 1 damage.
+Round 4: tapdancing skeleton takes 3 damage.
+You lose 5 hit points
+Round 4: boolicious attacks!
+Round 5: tapdancing skeleton takes 184 damage.
+Round 5: tapdancing skeleton takes 20 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 27 hit points
+You gain 21 Fortitude
+You gain 10 Wizardliness
+You gain 8 Cheek
+
+[1266] Haunted Bathroom
+Encounter: malevolent hair clog
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: malevolent hair clog takes 10 damage.
+Round 2: malevolent hair clog takes 1 damage.
+Round 2: malevolent hair clog takes 1 damage.
+Round 2: malevolent hair clog takes 4 damage.
+You lose 3 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: malevolent hair clog takes 10 damage.
+Round 3: malevolent hair clog takes 2 damage.
+Round 3: malevolent hair clog takes 1 damage.
+Round 3: malevolent hair clog takes 5 damage.
+You lose 2 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: malevolent hair clog drops 9 attack power.
+Round 4: malevolent hair clog drops 7 defense.
+Round 4: malevolent hair clog takes 20 damage.
+Round 4: boolicious attacks!
+Round 5: malevolent hair clog takes 219 damage.
+Round 5: malevolent hair clog takes 20 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 23 hit points
+You gain 10 Fortitude
+You gain 15 Wizardliness
+You gain 10 Smarm
+
+[1267] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: tapdancing skeleton takes 10 damage.
+Round 2: tapdancing skeleton takes 3 damage.
+Round 2: tapdancing skeleton takes 1 damage.
+Round 2: tapdancing skeleton takes 5 damage.
+You lose 9 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: tapdancing skeleton takes 10 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: tapdancing skeleton drops 9 attack power.
+Round 4: tapdancing skeleton drops 6 defense.
+Round 4: tapdancing skeleton takes 20 damage.
+Round 4: tapdancing skeleton takes 1 damage.
+Round 4: tapdancing skeleton takes 1 damage.
+Round 4: tapdancing skeleton takes 4 damage.
+You lose 7 hit points
+Round 4: boolicious attacks!
+Round 5: tapdancing skeleton takes 190 damage.
+Round 5: tapdancing skeleton takes 20 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 31 hit points
+You gain 15 Strengthliness
+You gain 15 Magicalness
+You gain 10 Roguishness
+
+[1268] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 10 damage.
+Round 2: floating platter of hors d'oeuvres takes 3 damage.
+Round 2: floating platter of hors d'oeuvres takes 1 damage.
+Round 2: floating platter of hors d'oeuvres takes 3 damage.
+You lose 11 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: floating platter of hors d'oeuvres takes 10 damage.
+Round 3: floating platter of hors d'oeuvres takes 1 damage.
+Round 3: floating platter of hors d'oeuvres takes 1 damage.
+Round 3: floating platter of hors d'oeuvres takes 4 damage.
+You lose 10 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: floating platter of hors d'oeuvres drops 10 attack power.
+Round 4: floating platter of hors d'oeuvres drops 8 defense.
+Round 4: floating platter of hors d'oeuvres takes 20 damage.
+Round 4: floating platter of hors d'oeuvres takes 1 damage.
+Round 4: floating platter of hors d'oeuvres takes 1 damage.
+Round 4: floating platter of hors d'oeuvres takes 4 damage.
+You lose 5 hit points
+Round 4: boolicious attacks!
+You lose 9 hit points
+Round 5: floating platter of hors d'oeuvres takes 20 damage.
+Round 5: floating platter of hors d'oeuvres takes 1 damage.
+Round 5: floating platter of hors d'oeuvres takes 1 damage.
+Round 5: floating platter of hors d'oeuvres takes 5 damage.
+You lose 6 hit points
+Round 5: boolicious executes a macro!
+Round 5: boolicious casts INFECTIOUS BITE!
+Round 6: floating platter of hors d'oeuvres takes 10 damage.
+Round 6: floating platter of hors d'oeuvres takes 3 damage.
+Round 6: floating platter of hors d'oeuvres takes 1 damage.
+Round 6: floating platter of hors d'oeuvres takes 3 damage.
+You lose 7 hit points
+Round 6: boolicious casts PLAGUE CLAWS!
+Round 7: floating platter of hors d'oeuvres drops 8 attack power.
+Round 7: floating platter of hors d'oeuvres drops 10 defense.
+Round 7: floating platter of hors d'oeuvres takes 20 damage.
+Round 7: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 19 hit points
+You acquire an item: flute of flat champagne
+You gain 19 Strengthliness
+You gain 9 Mysteriousness
+You gain 11 Roguishness
+choice.php?forceoption=0
+
+[1269] Haunted Library
+Encounter: Take a Look, it's in a Book!
+Took choice 81/2: cocktailcrafting recipe
+choice.php?pwd&whichchoice=81&option=2
+
+[1270] Haunted Library
+Encounter: bookbat
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: bookbat takes 10 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: bookbat takes 10 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: bookbat drops 5 attack power.
+Round 4: bookbat drops 9 defense.
+Round 4: bookbat takes 20 damage.
+Round 4: boolicious attacks!
+Round 5: bookbat takes 251 damage.
+Round 5: bookbat takes 20 damage.
+Round 5: boolicious wins the fight!
+You acquire an item: tattered scrap of paper
+You gain 11 Beefiness
+You gain a Muscle point!
+You gain 6 Wizardliness
+You gain 6 Roguishness
+
+[1271] Haunted Library
+Encounter: writing desk
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: writing desk takes 10 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: writing desk takes 10 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: writing desk drops 5 attack power.
+Round 4: writing desk drops 6 defense.
+Round 4: writing desk takes 20 damage.
+Round 4: boolicious attacks!
+Round 5: writing desk takes 244 damage.
+Round 5: writing desk takes 20 damage.
+Round 5: boolicious wins the fight!
+You acquire an item: disintegrating quill pen
+You acquire an item: inkwell
+You acquire an item: snifter of thoroughly aged brandy
+You gain 10 Strengthliness
+You gain 6 Wizardliness
+You gain 8 Chutzpah
+
+[1272] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: zombie waltzers takes 10 damage.
+Round 2: zombie waltzers takes 2 damage.
+Round 2: zombie waltzers takes 1 damage.
+Round 2: zombie waltzers takes 4 damage.
+You lose 9 hit points
+You acquire an effect: Half-Eaten Brain (duration: 10 Adventures)
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: zombie waltzers takes 10 damage.
+Round 3: zombie waltzers takes 3 damage.
+Round 3: zombie waltzers takes 1 damage.
+Round 3: zombie waltzers takes 5 damage.
+You lose 11 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: zombie waltzers drops 10 attack power.
+Round 4: zombie waltzers drops 9 defense.
+Round 4: zombie waltzers takes 20 damage.
+Round 4: zombie waltzers takes 3 damage.
+Round 4: zombie waltzers takes 1 damage.
+Round 4: zombie waltzers takes 5 damage.
+You lose 6 hit points
+Round 4: boolicious attacks!
+Round 5: zombie waltzers takes 201 damage.
+Round 5: zombie waltzers takes 20 damage.
+Round 5: boolicious wins the fight!
+You gain 171 Meat
+You acquire an item: ballroom blintz
+You gain 15 Strongness
+You gain 11 Mysteriousness
+You gain 13 Cheek
+
+equip acc2 Lord Spookyraven's spectacles
+
+[1273] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 10 damage.
+Round 2: floating platter of hors d'oeuvres takes 2 damage.
+Round 2: floating platter of hors d'oeuvres takes 1 damage.
+Round 2: floating platter of hors d'oeuvres takes 3 damage.
+You lose 9 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: floating platter of hors d'oeuvres takes 10 damage.
+Round 3: floating platter of hors d'oeuvres takes 1 damage.
+Round 3: floating platter of hors d'oeuvres takes 1 damage.
+Round 3: floating platter of hors d'oeuvres takes 5 damage.
+You lose 9 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: floating platter of hors d'oeuvres drops 9 attack power.
+Round 4: floating platter of hors d'oeuvres drops 7 defense.
+Round 4: floating platter of hors d'oeuvres takes 20 damage.
+Round 4: floating platter of hors d'oeuvres takes 2 damage.
+Round 4: floating platter of hors d'oeuvres takes 1 damage.
+Round 4: floating platter of hors d'oeuvres takes 5 damage.
+You lose 6 hit points
+Round 4: boolicious attacks!
+Round 5: floating platter of hors d'oeuvres takes 165 damage.
+Round 5: floating platter of hors d'oeuvres takes 20 damage.
+Round 5: boolicious wins the fight!
+You acquire an item: desiccated apricot
+You acquire an item: flute of flat champagne
+You gain 17 Muscleboundness
+You gain 11 Mysteriousness
+You gain 11 Cheek
+
+[1274] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: tapdancing skeleton takes 10 damage.
+Round 2: tapdancing skeleton takes 2 damage.
+Round 2: tapdancing skeleton takes 1 damage.
+Round 2: tapdancing skeleton takes 5 damage.
+You lose 7 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: tapdancing skeleton takes 10 damage.
+Round 3: tapdancing skeleton takes 2 damage.
+Round 3: tapdancing skeleton takes 1 damage.
+Round 3: tapdancing skeleton takes 5 damage.
+You lose 7 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: tapdancing skeleton drops 5 attack power.
+Round 4: tapdancing skeleton drops 5 defense.
+Round 4: tapdancing skeleton takes 20 damage.
+Round 4: tapdancing skeleton takes 1 damage.
+Round 4: tapdancing skeleton takes 1 damage.
+Round 4: tapdancing skeleton takes 4 damage.
+You lose 5 hit points
+Round 4: boolicious attacks!
+Round 5: tapdancing skeleton takes 156 damage.
+Round 5: tapdancing skeleton takes 20 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 25 hit points
+You acquire an item: good brain
+You gain 17 Fortitude
+You gain 11 Enchantedness
+You gain 10 Cheek
+
+[1275] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: zombie waltzers takes 10 damage.
+Round 2: zombie waltzers takes 3 damage.
+Round 2: zombie waltzers takes 1 damage.
+Round 2: zombie waltzers takes 3 damage.
+You lose 9 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: zombie waltzers takes 10 damage.
+Round 3: zombie waltzers takes 2 damage.
+Round 3: zombie waltzers takes 1 damage.
+Round 3: zombie waltzers takes 3 damage.
+You lose 9 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: zombie waltzers drops 10 attack power.
+Round 4: zombie waltzers drops 6 defense.
+Round 4: zombie waltzers takes 20 damage.
+Round 4: zombie waltzers takes 3 damage.
+Round 4: zombie waltzers takes 1 damage.
+Round 4: zombie waltzers takes 4 damage.
+You lose 5 hit points
+Round 4: boolicious attacks!
+Round 5: zombie waltzers takes 188 damage.
+Round 5: zombie waltzers takes 19 damage.
+You gain 19 hit points
+Round 5: zombie waltzers takes 30 damage.
+Round 5: boolicious wins the fight!
+You gain 161 Meat
+You acquire an item: good brain
+You gain 10 Strengthliness
+You gain 16 Wizardliness
+You gain 14 Cheek
+
+eat 1 good brain
+You gain 3 Adventures
+You gain 5 Beefiness
+You gain 5 Enchantedness
+You gain 7 Sarcasm
+You gain a Moxie point!
+You gain 1 Fullness
+
+[1276] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 10 damage.
+Round 2: floating platter of hors d'oeuvres takes 2 damage.
+Round 2: floating platter of hors d'oeuvres takes 1 damage.
+Round 2: floating platter of hors d'oeuvres takes 5 damage.
+You lose 8 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: floating platter of hors d'oeuvres takes 10 damage.
+Round 3: floating platter of hors d'oeuvres takes 2 damage.
+Round 3: floating platter of hors d'oeuvres takes 1 damage.
+Round 3: floating platter of hors d'oeuvres takes 3 damage.
+You lose 9 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: floating platter of hors d'oeuvres drops 6 attack power.
+Round 4: floating platter of hors d'oeuvres drops 10 defense.
+Round 4: floating platter of hors d'oeuvres takes 20 damage.
+Round 4: floating platter of hors d'oeuvres takes 3 damage.
+Round 4: floating platter of hors d'oeuvres takes 1 damage.
+Round 4: floating platter of hors d'oeuvres takes 4 damage.
+You lose 7 hit points
+Round 4: boolicious attacks!
+Round 5: floating platter of hors d'oeuvres takes 208 damage.
+Round 5: floating platter of hors d'oeuvres takes 21 damage.
+You gain 21 hit points
+Round 5: floating platter of hors d'oeuvres takes 30 damage.
+Round 5: boolicious wins the fight!
+You gain 10 Strengthliness
+You gain 14 Enchantedness
+You gain 15 Chutzpah
+choice.php?forceoption=0
+
+[1277] Haunted Ballroom
+Encounter: Strung-Up Quartet
+Took choice 106/2: decrease combat frequency
+choice.php?pwd&whichchoice=106&option=2
+choice.php?forceoption=0
+
+[1278] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/1: enter combat
+choice.php?pwd&whichchoice=90&option=1
+Encounter: ghastly organist
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: ghastly organist takes 10 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: ghastly organist takes 10 damage.
+Round 3: ghastly organist takes 1 damage.
+Round 3: ghastly organist takes 9 damage.
+Round 3: ghastly organist takes 5 damage.
+You lose 9 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: ghastly organist drops 7 attack power.
+Round 4: ghastly organist drops 7 defense.
+Round 4: ghastly organist takes 20 damage.
+Round 4: ghastly organist takes 1 damage.
+Round 4: ghastly organist takes 8 damage.
+Round 4: ghastly organist takes 5 damage.
+You lose 7 hit points
+Round 4: boolicious attacks!
+Round 5: ghastly organist takes 153 damage.
+Round 5: ghastly organist takes 20 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 15 hit points
+You gain 158 Meat
+You acquire an item: good brain
+You gain 16 Strengthliness
+You gain 10 Wizardliness
+You gain a Mysticality point!
+You gain 13 Cheek
+
+[1279] Haunted Bedroom
+Encounter: animated nightstand
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: animated nightstand (mahogany) takes 10 damage.
+Round 2: animated nightstand (mahogany) takes 3 damage.
+Round 2: animated nightstand (mahogany) takes 7 damage.
+Round 2: animated nightstand (mahogany) takes 3 damage.
+You lose 30 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: animated nightstand (mahogany) takes 10 damage.
+Round 3: animated nightstand (mahogany) takes 2 damage.
+Round 3: animated nightstand (mahogany) takes 5 damage.
+Round 3: animated nightstand (mahogany) takes 5 damage.
+You lose 30 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: animated nightstand (mahogany) drops 10 attack power.
+Round 4: animated nightstand (mahogany) drops 9 defense.
+Round 4: animated nightstand (mahogany) takes 20 damage.
+Round 4: animated nightstand (mahogany) takes 3 damage.
+Round 4: animated nightstand (mahogany) takes 3 damage.
+Round 4: animated nightstand (mahogany) takes 3 damage.
+You lose 27 hit points
+Round 4: boolicious attacks!
+Round 5: animated nightstand (mahogany) takes 135 damage.
+Round 5: animated nightstand (mahogany) takes 14 damage.
+You gain 14 hit points
+Round 5: animated nightstand (mahogany) takes 30 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 24 hit points
+You acquire an item: old coin purse
+You gain 21 Strengthliness
+You gain 16 Wizardliness
+You gain 16 Cheek
+choice.php?forceoption=0
+
+[1280] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/1: old coin purse
+choice.php?pwd&whichchoice=83&option=1
+You acquire an item: old coin purse
+choice.php?forceoption=0
+
+[1281] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 82/2: muscle substats
+choice.php?pwd&whichchoice=82&option=2
+You gain 101 Strongness
+You gain a Muscle point!
+choice.php?forceoption=0
+
+[1282] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/2: enter combat
+choice.php?pwd&whichchoice=83&option=2
+Encounter: animated nightstand
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: animated nightstand (mahogany) takes 10 damage.
+Round 2: animated nightstand (mahogany) takes 2 damage.
+Round 2: animated nightstand (mahogany) takes 4 damage.
+Round 2: animated nightstand (mahogany) takes 4 damage.
+You lose 31 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: animated nightstand (mahogany) takes 10 damage.
+Round 3: animated nightstand (mahogany) takes 2 damage.
+Round 3: animated nightstand (mahogany) takes 10 damage.
+Round 3: animated nightstand (mahogany) takes 5 damage.
+You lose 30 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: animated nightstand (mahogany) drops 8 attack power.
+Round 4: animated nightstand (mahogany) drops 9 defense.
+Round 4: animated nightstand (mahogany) takes 20 damage.
+Round 4: animated nightstand (mahogany) takes 3 damage.
+Round 4: animated nightstand (mahogany) takes 5 damage.
+Round 4: animated nightstand (mahogany) takes 4 damage.
+You lose 27 hit points
+Round 4: boolicious attacks!
+Round 5: animated nightstand (mahogany) takes 127 damage.
+Round 5: animated nightstand (mahogany) takes 13 damage.
+You gain 13 hit points
+Round 5: animated nightstand (mahogany) takes 30 damage.
+Round 5: boolicious wins the fight!
+You acquire an item: old coin purse
+You gain 25 Muscleboundness
+You gain 14 Wizardliness
+You gain 13 Chutzpah
+choice.php?forceoption=0
+
+[1283] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 84/3: Lord Spookyraven's spectacles
+choice.php?pwd&whichchoice=84&option=3
+choice.php?forceoption=0
+
+[1284] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 85/3: enter combat
+choice.php?pwd&whichchoice=85&option=3
+Encounter: the remains of a jilted mistress
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: the remains of a jilted mistress takes 10 damage.
+Round 2: the remains of a jilted mistress takes 1 damage.
+Round 2: the remains of a jilted mistress takes 1 damage.
+Round 2: the remains of a jilted mistress takes 4 damage.
+You lose 33 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: the remains of a jilted mistress takes 10 damage.
+Round 3: the remains of a jilted mistress takes 1 damage.
+Round 3: the remains of a jilted mistress takes 1 damage.
+Round 3: the remains of a jilted mistress takes 4 damage.
+You lose 32 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: the remains of a jilted mistress drops 8 attack power.
+Round 4: the remains of a jilted mistress drops 5 defense.
+Round 4: the remains of a jilted mistress takes 20 damage.
+Round 4: the remains of a jilted mistress takes 3 damage.
+Round 4: the remains of a jilted mistress takes 1 damage.
+Round 4: the remains of a jilted mistress takes 3 damage.
+You lose 29 hit points
+Round 4: boolicious attacks!
+You lose 3 hit points
+Round 5: the remains of a jilted mistress takes 20 damage.
+Round 5: the remains of a jilted mistress takes 2 damage.
+Round 5: the remains of a jilted mistress takes 1 damage.
+Round 5: the remains of a jilted mistress takes 3 damage.
+You lose 28 hit points
+Round 5: boolicious attacks!
+You lose 9 hit points
+Round 6: the remains of a jilted mistress takes 20 damage.
+Round 6: the remains of a jilted mistress takes 3 damage.
+Round 6: the remains of a jilted mistress takes 1 damage.
+Round 6: the remains of a jilted mistress takes 5 damage.
+You lose 31 hit points
+Round 6: boolicious casts FLESH MOB!
+Round 7: the remains of a jilted mistress takes 20 damage.
+Round 7: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 22 hit points
+You acquire an item: antique hand mirror
+You acquire an item: good brain
+You gain 21 Strengthliness
+You gain 18 Enchantedness
+You gain 14 Sarcasm
+
+eat 1 good brain
+You gain 3 Adventures
+You gain 7 Fortitude
+You gain 8 Magicalness
+You gain 7 Chutzpah
+You gain 1 Fullness
+
+Visiting Relaxing Hot Tub in clan VIP lounge
+You gain 220 hit points
+
+use 1 cold-filtered water
+You acquire an effect: Purity of Spirit (duration: 10 Adventures)
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #136/1200:
+Question: What did Lord Willard Franklin, mayor of Wibbleford, find when he opened the time capsule that had been buried under the local granary on Martinus 1st, 1640?
+Answer: A silver lion.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #519/1200:
+Question: When did the Farc'b'n Infrared Moose win the national discus-throwing championship?
+Answer: According to the old calendar, the twenty-fifth day of the Month of the Ferret in the Year of the Xylophone.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #706/1200:
+Question: Who patented the clockwork invisible typewriter?
+Answer: Harry, the last Archduke of Lurkmoor.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #942/1200:
+Question: Where was the Marquess of Gallston hassled for the crime of making a fool of himself?
+Answer: In Ol' Merle Des Moines's grandfather's brewery.
