@@ -1,0 +1,2559 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+October 13, 2012 - Boozember 7
+
+Ronald: third quarter
+Grimace: waxing gibbous
+Mini-moon: behind Ronald
+
+Feast of Boris: today
+Yuletide: 5 days
+Festival of Jarlsberg: 10 days
+Halloween: 18 days
+Valentine's Day: 21 days
+St. Sneaky Pete's Day: 28 days
+Oyster Egg Day: 35 days
+El Dia De Los Muertos Borrachos: 43 days
+Generic Summer Holiday: 52 days
+Dependence Day: 61 days
+Arrrbor Day: 69 days
+Lab&oacute;r Day: 79 days
+
+Feast of Boris
+2 days until Muscle.
+
+
+ > status
+
+Name: boolicious
+Class: Zombie Master
+
+Lv: 10
+HP: 692 / 692
+MP: 819 / 819
+
+Mus: 438 (103), tnp = 193
+Mys: 279 (88), tnp = 82
+Mox: 268 (87), tnp = 49
+
+Advs: 200
+Meat: 405,930
+
+Full: 0 / 25
+Drunk: 0 / 4
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: mesh cap
+Weapon: pygmy spear
+Off-hand: catskin buckler
+Shirt: (none)
+Pants: black greaves
+Container: vampire cape
+
+Acc. 1: Mr. Accessory
+Acc. 2: Lord Spookyraven's spectacles
+Acc. 3: headhunter necktie
+
+Pet: Ghuol Whelp (25 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Stomach of Steel
+
+Zombie Master
+ - Bite Minion
+ - Devour Minions
+ - Distracting Minion
+ - Elemental Obliviousness
+ - Flesh Mob
+ - Hunter's Sprint
+ - Infectious Bite
+ - Insatiable Hunger
+ - Lure Minions
+ - Meat Shields
+ - Plague Claws
+ - Recruit Zombie
+ - Scavenge
+ - Smash & Graaagh
+ - Summon Horde
+ - Summon Minion
+ - Undying Greed
+ - Vigor Mortis
+ - Virulence
+ - Zombie Chow
+
+
+ > effects
+
+2 of 3 AT buffs active.
+Brother Smothers's Blessing
+Having a Ball!
+Trivia Master (11)
+Strength of Ten Ettins (30)
+Silent Running (31)
+So Fresh and So Clean (40)
+Joyful Resolve (47)
+Greedy Resolve (87)
+Destructive Resolve (107)
+Brilliant Resolve (107)
+Irresistible Resolve (127)
+Strong Resolve (127)
+Scarysauce (202)
+Ghostly Shell (202)
+♫ Aloysius' Antiphon of Aptitude (202)
+Tenacity of the Snapper (202)
+Jingle Jangle Jingle (202)
+Elemental Saucesphere (202)
+Astral Shell (202)
+Reptilian Fortitude (202)
+Jabañero Saucesphere (202)
+Jalapeño Saucesphere (202)
+♫ Cringle's Curative Carol (202)
+Empathy (202)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: +100.00%
+
+Exp: +3.00
+Meat: +60.00%
+Item: +20.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 956 Meat
+
+Visiting Crimbo Tree in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+You acquire an item: stuffed treasure chest
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Looking Glass in clan VIP lounge
+You acquire an item: &quot;DRINK ME&quot; potion
+
+swimming pool screwaround
+
+Doing handstand in clan VIP swimming pool
+
+Diving for treasure in clan VIP swimming pool
+
+Getting out of clan VIP swimming pool
+
+use 1 Chester's bag of candy
+You acquire an item: Angry Farmer candy
+You acquire Tasty Fun Good rice candy (3)
+You acquire Yummy Tummy bean (2)
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: Who?
+You acquire an item: Trivial Avocations Card: Who?
+
+use 1 creepy voodoo doll
+You acquire an item: ten-leaf clover
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+telescope look high
+You acquire an effect: Starry-Eyed (duration: 10 Adventures)
+Jumping into the Awesome Ball Pit in the clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+pool aggressive
+You acquire an effect: Billiards Belligerence (duration: 10 Adventures)
+
+pool strategic
+You acquire an effect: Mental A-cue-ity (duration: 10 Adventures)
+
+pool stylish
+You acquire an effect: Hustlin' (duration: 10 Adventures)
+friars blessing 3
+You acquire an effect: Brother Smothers's Blessing (duration: 20 Adventures)
+
+shower cool
+You acquire an effect: So Fresh and So Clean (duration: 50 Adventures)
+
+Visiting Swimming Pool in clan VIP lounge
+
+swimming pool submarine
+You acquire an effect: Silent Running (duration: 50 Adventures)
+choice.php?forceoption=0
+
+[1304] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/3: quest item
+choice.php?pwd&whichchoice=83&option=3
+
+[1305] Pirate Cove
+Encounter: swarthy pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: swarthy pirate takes 10 damage.
+Round 2: boolicious executes a macro!
+Round 3: boolicious executes a macro!
+Round 3: boolicious casts INFECTIOUS BITE!
+Round 4: swarthy pirate takes 10 damage.
+Round 4: boolicious casts PLAGUE CLAWS!
+Round 5: swarthy pirate drops 9 attack power.
+Round 5: swarthy pirate drops 5 defense.
+Round 5: swarthy pirate takes 20 damage.
+Round 5: boolicious attacks!
+Round 6: swarthy pirate takes 676 damage.
+Round 6: swarthy pirate takes 20 damage.
+Round 6: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 23 hit points
+You gain 36 Meat
+You gain 11 Muscleboundness
+You gain 10 Magicalness
+You gain 6 Smarm
+
+equip acc3 pirate fledges
+
+equip acc2 Lord Spookyraven's ear trumpet
+choice.php?forceoption=0
+
+[1306] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/3: gain a starter item, gain Spooky-Gro fertilizer (2)
+choice.php?pwd&whichchoice=502&option=3
+Encounter: Through Thicket and Thinnet
+Took choice 506/2: gain Spooky-Gro fertilizer
+choice.php?pwd&whichchoice=506&option=2
+You acquire an item: Spooky-Gro fertilizer
+
+[1307] Spooky Forest
+Encounter: bar
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: bar takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 18 hit points
+You gain 20 Meat
+You acquire an item: bar skin
+You gain 4 Beefiness
+You gain 4 Enchantedness
+You gain 4 Cheek
+
+[1308] Spooky Forest
+Encounter: Malevolent Tofurkey
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: malevolent tofurkey takes 10 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: malevolent tofurkey drops 10 attack power.
+Round 4: malevolent tofurkey drops 9 defense.
+Round 4: malevolent tofurkey takes 20 damage.
+Round 4: boolicious attacks!
+Round 5: malevolent tofurkey takes 9 damage.
+Round 5: malevolent tofurkey takes 20 damage.
+Round 5: boolicious attacks!
+Round 6: malevolent tofurkey takes 102 damage.
+Round 6: malevolent tofurkey takes 20 damage.
+Round 6: boolicious attacks!
+Round 7: malevolent tofurkey takes 88 damage.
+Round 7: malevolent tofurkey takes 20 damage.
+Round 7: boolicious attacks!
+Round 8: malevolent tofurkey takes 94 damage.
+Round 8: malevolent tofurkey takes 20 damage.
+Round 8: boolicious attacks!
+Round 9: malevolent tofurkey takes 91 damage.
+Round 9: malevolent tofurkey takes 20 damage.
+Round 9: boolicious attacks!
+Round 10: malevolent tofurkey takes 100 damage.
+Round 10: malevolent tofurkey takes 20 damage.
+Round 10: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 26 hit points
+You acquire an item: tofurkey leg
+You acquire an item: tofurkey gravy
+You acquire an item: good brain
+You gain 37 Strongness
+You gain 28 Wizardliness
+You gain 18 Chutzpah
+
+eat 1 good brain
+You gain 3 Adventures
+You gain 6 Strongness
+You gain 5 Wizardliness
+You gain 7 Chutzpah
+You gain 1 Fullness
+choice.php?forceoption=0
+
+[1309] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/2: gain mosquito larva or spooky mushrooms, skip adventure, get stats or fight a vampire
+choice.php?pwd&whichchoice=502&option=2
+Encounter: Consciousness of a Stream
+Took choice 505/1: gain mosquito larva then 3 spooky mushrooms
+choice.php?pwd&whichchoice=505&option=1
+You acquire spooky mushroom (3)
+
+[1310] Spooky Forest
+Encounter: triffid
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: triffid takes 10 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: moxie weed
+You acquire an item: spooky stick
+You gain 4 Beefiness
+You gain 4 Enchantedness
+You gain 4 Chutzpah
+
+[1311] Spooky Forest
+Encounter: spooky vampire
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: spooky vampire takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 31 hit points
+You gain 8 Meat
+You gain 4 Strongness
+You gain 4 Wizardliness
+You gain 4 Smarm
+
+[1312] Spooky Forest
+Encounter: triffid
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: triffid takes 10 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: moxie weed
+You acquire an item: spooky stick
+You gain 4 Muscleboundness
+You gain 4 Wizardliness
+You gain 4 Sarcasm
+choice.php?forceoption=0
+
+[1313] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/1: gain some meat, meet the vampire hunter and trade 0 hearts, sell bar skins (4) or buy a spooky sapling (0)
+choice.php?pwd&whichchoice=502&option=1
+Encounter: The Road Less Traveled
+Took choice 503/3: gain spooky sapling or trade bar skins
+choice.php?pwd&whichchoice=503&option=3
+Encounter: Tree's Last Stand
+Took choice 504/2: bar skins
+choice.php?pwd&whichchoice=504&option=2
+Encounter: Tree's Last Stand
+You gain 300 Meat
+Took choice 504/4: skip adventure
+choice.php?pwd&whichchoice=504&option=4
+
+[1314] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: baa-relief sheep takes 10 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: baa-relief sheep takes 10 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: baa-relief sheep drops 7 attack power.
+Round 4: baa-relief sheep drops 10 defense.
+Round 4: baa-relief sheep takes 20 damage.
+Round 4: boolicious wins the fight!
+You gain 8 Strongness
+You gain 6 Wizardliness
+You gain 10 Sarcasm
+You gain a Moxie point!
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 8 bloodstained briquettes
+
+[1315] Outskirts of The Knob
+Encounter: Sub-Assistant Knob Mad Scientist
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: sub-assistant knob mad scientist takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 30 hit points
+You gain 11 Meat
+You acquire an item: Knob Goblin firecracker
+You gain 4 Beefiness
+You gain 4 Magicalness
+You gain 4 Chutzpah
+
+[1316] Outskirts of The Knob
+Encounter: Malice in Chains
+Took choice 111/3: enter combat
+choice.php?whichchoice=111&option=3&pwd
+Encounter: sleeping Knob Goblin Guard
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: sleeping knob goblin guard takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 16 hit points
+You gain 9 Meat
+You acquire an item: Knob Goblin pants
+You acquire an item: Knob Goblin scimitar
+You acquire an item: crappy brain
+You gain 4 Muscleboundness
+You gain 4 Mysteriousness
+You gain 4 Cheek
+
+[1317] Outskirts of The Knob
+Encounter: Knob Goblin Assistant Chef
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knob goblin assistant chef takes 10 damage.
+Round 2: boolicious wins the fight!
+You gain 14 Meat
+You gain 4 Strengthliness
+You gain 4 Wizardliness
+You gain 4 Roguishness
+
+[1318] Outskirts of The Knob
+Encounter: Sub-Assistant Knob Mad Scientist
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: sub-assistant knob mad scientist takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 29 hit points
+You gain 9 Meat
+You acquire an item: Knob Goblin firecracker
+You gain 4 Beefiness
+You gain 4 Mysteriousness
+You gain 4 Cheek
+
+[1319] Outskirts of The Knob
+Encounter: Knob Goblin BBQ
+Took choice 113/2: enter combat
+choice.php?whichchoice=113&option=2&pwd
+Encounter: Knob Goblin Barbecue Team
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knob goblin barbecue team takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 19 hit points
+You gain 17 Meat
+You acquire an item: bloodstained briquette
+You gain 4 Muscleboundness
+You gain 4 Magicalness
+You gain a Mysticality point!
+You gain 4 Smarm
+
+[1320] Outskirts of The Knob
+Encounter: Malice in Chains
+Took choice 111/3: enter combat
+choice.php?whichchoice=111&option=3&pwd
+Encounter: sleeping Knob Goblin Guard
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: sleeping knob goblin guard takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 23 hit points
+You gain 8 Meat
+You gain 4 Fortitude
+You gain 4 Mysteriousness
+You gain 4 Cheek
+
+[1321] Outskirts of The Knob
+Encounter: Knob Goblin Assistant Chef
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knob goblin assistant chef takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 22 hit points
+You gain 12 Meat
+You acquire an item: chef's hat
+You acquire an item: crappy brain
+You gain 3 Strongness
+You gain 4 Magicalness
+You gain 5 Sarcasm
+
+[1322] Outskirts of The Knob
+Encounter: Knob Goblin Assistant Chef
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knob goblin assistant chef takes 10 damage.
+Round 2: boolicious wins the fight!
+You gain 14 Meat
+You gain 4 Fortitude
+You gain 4 Enchantedness
+You gain 4 Chutzpah
+
+[1323] Outskirts of The Knob
+Encounter: sleeping Knob Goblin Guard
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: sleeping knob goblin guard takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 15 hit points
+You gain 9 Meat
+You acquire an item: Knob Goblin scimitar
+You gain 4 Beefiness
+You gain 4 Wizardliness
+You gain 4 Sarcasm
+
+[1324] Outskirts of The Knob
+Encounter: Knob Goblin Barbecue Team
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knob goblin barbecue team takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 21 hit points
+You gain 17 Meat
+You acquire an item: bowl of cottage cheese
+You acquire an item: Knob Goblin tongs
+You acquire an item: bloodstained briquette
+You gain 4 Beefiness
+You gain 4 Enchantedness
+You gain 4 Roguishness
+
+[1325] Outskirts of The Knob
+Encounter: Malice in Chains
+Took choice 111/3: enter combat
+choice.php?whichchoice=111&option=3&pwd
+Encounter: sleeping Knob Goblin Guard
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: sleeping knob goblin guard takes 10 damage.
+Round 2: boolicious wins the fight!
+You gain 8 Meat
+You gain 3 Fortitude
+You gain 5 Magicalness
+You gain 4 Roguishness
+
+[1326] Outskirts of The Knob
+Encounter: Malice in Chains
+Took choice 111/3: enter combat
+choice.php?whichchoice=111&option=3&pwd
+Encounter: sleeping Knob Goblin Guard
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: sleeping knob goblin guard takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 22 hit points
+You gain 9 Meat
+You acquire an item: Knob Goblin scimitar
+You acquire an item: crappy brain
+You gain 3 Beefiness
+You gain 5 Wizardliness
+You gain 4 Roguishness
+
+[1327] Outskirts of The Knob
+Encounter: sleeping Knob Goblin Guard
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: sleeping knob goblin guard takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 25 hit points
+You gain 6 Meat
+You acquire an item: viking helmet
+You gain 4 Fortitude
+You gain 4 Mysteriousness
+You gain 4 Roguishness
+
+[1328] Outskirts of The Knob
+Encounter: Sub-Assistant Knob Mad Scientist
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: sub-assistant knob mad scientist takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 22 hit points
+You gain 11 Meat
+You acquire an item: Knob Goblin pants
+You acquire an item: Knob Goblin firecracker
+You gain 4 Strengthliness
+You gain 4 Magicalness
+You gain 4 Cheek
+
+[1329] Outskirts of The Knob
+Encounter: Knob Goblin Barbecue Team
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knob goblin barbecue team takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 19 hit points
+You gain 17 Meat
+You acquire an item: bowl of cottage cheese
+You acquire an item: bloodstained briquette
+You acquire an item: crappy brain
+You gain 4 Strongness
+You gain 4 Enchantedness
+You gain 4 Chutzpah
+
+[1330] Outskirts of The Knob
+Encounter: Knob Goblin BBQ
+Took choice 113/2: enter combat
+choice.php?whichchoice=113&option=2&pwd
+Encounter: Knob Goblin Barbecue Team
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knob goblin barbecue team takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 29 hit points
+You gain 14 Meat
+You acquire an item: bowl of cottage cheese
+You acquire an item: bloodstained briquette
+You acquire an item: crappy brain
+You gain 3 Strengthliness
+You gain 5 Mysteriousness
+You gain 4 Smarm
+
+[1331] Outskirts of The Knob
+Encounter: Sub-Assistant Knob Mad Scientist
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: sub-assistant knob mad scientist takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 17 hit points
+You gain 11 Meat
+You acquire an item: Knob Goblin firecracker
+You gain 4 Fortitude
+You gain 4 Mysteriousness
+You gain 4 Chutzpah
+
+[1332] Outskirts of The Knob
+Encounter: Sub-Assistant Knob Mad Scientist
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: sub-assistant knob mad scientist takes 10 damage.
+Round 2: boolicious wins the fight!
+You gain 9 Meat
+You acquire an item: Knob Goblin firecracker
+You acquire an item: crappy brain
+You gain 4 Beefiness
+You gain 4 Magicalness
+You gain 4 Roguishness
+
+[1333] Outskirts of The Knob
+Encounter: Knob Goblin Assistant Chef
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knob goblin assistant chef takes 10 damage.
+Round 2: boolicious wins the fight!
+You gain 12 Meat
+You acquire an item: chef's hat
+You gain 3 Muscleboundness
+You gain 5 Mysteriousness
+You gain 4 Sarcasm
+
+[1334] Outskirts of The Knob
+Encounter: Knob Goblin BBQ
+Took choice 113/2: enter combat
+choice.php?whichchoice=113&option=2&pwd
+Encounter: Knob Goblin Barbecue Team
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knob goblin barbecue team takes 10 damage.
+Round 2: boolicious wins the fight!
+You gain 12 Meat
+You acquire an item: bowl of cottage cheese
+You acquire an item: bloodstained briquette
+You gain 4 Muscleboundness
+You gain 4 Mysteriousness
+You gain 4 Cheek
+
+[1335] Outskirts of The Knob
+Encounter: Knob Goblin Assistant Chef
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knob goblin assistant chef takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 30 hit points
+You gain 14 Meat
+You acquire an item: Knob Goblin pants
+You acquire an item: chef's hat
+You acquire an item: crappy brain
+You gain 3 Beefiness
+You gain 5 Wizardliness
+You gain 4 Roguishness
+
+[1336] Outskirts of The Knob
+Encounter: sleeping Knob Goblin Guard
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: sleeping knob goblin guard takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 25 hit points
+You gain 6 Meat
+You acquire an item: crappy brain
+You gain 3 Beefiness
+You gain 4 Mysteriousness
+You gain 5 Roguishness
+
+[1337] Outskirts of The Knob
+Encounter: Malice in Chains
+Took choice 111/3: enter combat
+choice.php?whichchoice=111&option=3&pwd
+Encounter: sleeping Knob Goblin Guard
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: sleeping knob goblin guard takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 24 hit points
+You gain 6 Meat
+You acquire an item: viking helmet
+You acquire an item: Knob Goblin scimitar
+You gain 4 Muscleboundness
+You gain 4 Mysteriousness
+You gain 4 Sarcasm
+
+[1338] Outskirts of The Knob
+Encounter: Knob Goblin Barbecue Team
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knob goblin barbecue team takes 10 damage.
+Round 2: boolicious wins the fight!
+You gain 16 Meat
+You acquire an item: bowl of cottage cheese
+You acquire an item: bloodstained briquette
+You acquire an item: crappy brain
+You gain 4 Fortitude
+You gain 4 Mysteriousness
+You gain 4 Sarcasm
+
+[1339] Outskirts of The Knob
+Encounter: Sub-Assistant Knob Mad Scientist
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: sub-assistant knob mad scientist takes 10 damage.
+Round 2: boolicious wins the fight!
+You gain 9 Meat
+You acquire an item: Knob Goblin firecracker
+You acquire an item: crappy brain
+You gain 4 Strongness
+You gain 4 Magicalness
+You gain 4 Smarm
+
+[1340] Outskirts of The Knob
+Encounter: sleeping Knob Goblin Guard
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: sleeping knob goblin guard takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 20 hit points
+You gain 6 Meat
+You acquire an item: Knob Goblin scimitar
+You gain 3 Strengthliness
+You gain 5 Mysteriousness
+You gain 4 Sarcasm
+
+[1341] Outskirts of The Knob
+Encounter: Knob Goblin Barbecue Team
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knob goblin barbecue team takes 10 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 23 hit points
+You gain 16 Meat
+You acquire an item: bowl of cottage cheese
+You acquire an item: Knob Goblin tongs
+You acquire an item: bloodstained briquette
+You acquire an item: crappy brain
+You gain 4 Fortitude
+You gain 4 Mysteriousness
+You gain 4 Chutzpah
+
+[1342] Outskirts of The Knob
+Encounter: Malevolent Tofurkey
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: boolicious executes a macro!
+
+use 1 resolution: be happier
+You acquire an effect: Joyful Resolve (duration: 20 Adventures)
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: malevolent tofurkey takes 10 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: malevolent tofurkey drops 8 attack power.
+Round 4: malevolent tofurkey drops 10 defense.
+Round 4: malevolent tofurkey takes 20 damage.
+Round 4: boolicious attacks!
+Round 5: malevolent tofurkey takes 67 damage.
+Round 5: malevolent tofurkey takes 20 damage.
+Round 5: boolicious attacks!
+Round 6: malevolent tofurkey takes 79 damage.
+Round 6: malevolent tofurkey takes 8 damage.
+You gain 8 hit points
+Round 6: malevolent tofurkey takes 30 damage.
+Round 6: boolicious attacks!
+Round 7: malevolent tofurkey takes 75 damage.
+Round 7: malevolent tofurkey takes 8 damage.
+You gain 8 hit points
+Round 7: malevolent tofurkey takes 40 damage.
+Round 7: boolicious wins the fight!
+You acquire an item: tofurkey leg
+You acquire an item: tofurkey gravy
+You gain 18 Muscleboundness
+You gain a Muscle point!
+You gain a Level!
+You gain 9 Mysteriousness
+You gain 10 Sarcasm
+
+[1343] Outskirts of The Knob
+Encounter: Knob Goblin Assistant Chef
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knob goblin assistant chef takes 11 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 28 hit points
+You gain 11 Meat
+You acquire an item: Knob Goblin tongs
+You acquire an item: crappy brain
+You gain 3 Muscleboundness
+You gain 5 Mysteriousness
+You gain 4 Cheek
+
+[1344] Outskirts of The Knob
+Encounter: Knob Goblin Assistant Chef
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knob goblin assistant chef takes 11 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 15 hit points
+You gain 11 Meat
+You acquire an item: crappy brain
+You gain 4 Strongness
+You gain 4 Magicalness
+You gain 4 Smarm
+
+[1345] Outskirts of The Knob
+Encounter: sleeping Knob Goblin Guard
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: sleeping knob goblin guard takes 11 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 24 hit points
+You gain 6 Meat
+You acquire an item: Knob Goblin scimitar
+You gain 3 Muscleboundness
+You gain 5 Mysteriousness
+You gain 4 Chutzpah
+
+[1346] Outskirts of The Knob
+Encounter: Malice in Chains
+Took choice 111/3: enter combat
+choice.php?whichchoice=111&option=3&pwd
+Encounter: sleeping Knob Goblin Guard
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: sleeping knob goblin guard takes 11 damage.
+Round 2: boolicious wins the fight!
+You gain 6 Meat
+You acquire an item: viking helmet
+You gain 4 Fortitude
+You gain 4 Wizardliness
+You gain 4 Cheek
+
+[1347] Outskirts of The Knob
+Encounter: Sub-Assistant Knob Mad Scientist
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: sub-assistant knob mad scientist takes 11 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 25 hit points
+You gain 9 Meat
+You acquire an item: Knob Goblin firecracker
+You acquire an item: crappy brain
+You gain 3 Strengthliness
+You gain 5 Magicalness
+You gain 4 Smarm
+
+[1348] Outskirts of The Knob
+Encounter: sleeping Knob Goblin Guard
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: sleeping knob goblin guard takes 11 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 27 hit points
+You gain 9 Meat
+You acquire an item: Knob Goblin scimitar
+You acquire an item: crappy brain
+You gain 3 Muscleboundness
+You gain 4 Magicalness
+You gain 5 Sarcasm
+
+[1349] Outskirts of The Knob
+Encounter: Knob Goblin Barbecue Team
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knob goblin barbecue team takes 11 damage.
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 19 hit points
+You gain 16 Meat
+You acquire an item: bowl of cottage cheese
+You acquire an item: bloodstained briquette
+You acquire an item: crappy brain
+You gain 4 Fortitude
+You gain 4 Enchantedness
+You gain 4 Roguishness
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+[1350] Black Forest
+Encounter: A Man in Black
+You acquire an item: black market map
+
+familiar Reassembled Blackbird (6 lbs)
+
+use 1 black market map
+
+familiar Ghuol Whelp (25 lbs)
+
+[1351] Black Forest
+Encounter: blackberry bush
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: blackberry bush takes 11 damage.
+Round 2: blackberry bush takes 3 damage.
+Round 2: blackberry bush takes 5 damage.
+Round 2: blackberry bush takes 4 damage.
+You lose 12 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: blackberry bush takes 11 damage.
+Round 3: blackberry bush takes 3 damage.
+Round 3: blackberry bush takes 3 damage.
+Round 3: blackberry bush takes 5 damage.
+You lose 11 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: blackberry bush drops 6 attack power.
+Round 4: blackberry bush drops 5 defense.
+Round 4: blackberry bush takes 22 damage.
+Round 4: blackberry bush takes 3 damage.
+Round 4: blackberry bush takes 9 damage.
+Round 4: blackberry bush takes 4 damage.
+You lose 10 hit points
+Round 4: boolicious attacks!
+Round 5: blackberry bush takes 144 damage.
+You lose 4 hit points
+Round 5: blackberry bush takes 22 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 26 hit points
+You acquire an item: blackberry
+You gain 23 Strongness
+You gain 9 Wizardliness
+You gain 11 Chutzpah
+
+equip acc3 fancy black tie
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #224/1200:
+Question: What was stolen from the Prefectford Museum of Mathematics on Jarlsuary sixth, 1921?
+Answer: A pumpkin that looked just like the Archduke of Blurstishire.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #439/1200:
+Question: When did Ol' R. J. Brown win the Nobel Prize for Phrenology?
+Answer: April 4, 1915.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #829/1200:
+Question: Who invented the analog Chicago toaster?
+Answer: Hubie Mills, a mailman in the town of Flytrap.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #948/1200:
+Question: Where was the Emperor of Waltermatthau hassled for the crime of indecent exposure?
+Answer: In the village of Cheddarwurst.
+
+buy 1 CSA bravery badge for 100 each from 445635 on 20121013
+You acquire an item: CSA bravery badge
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+buy 5 Ben-Gal™ Balm for 24 each from The General Store
+You acquire Ben-Gal&trade; Balm (5)
+You spent 120 Meat
+
+use 5 Ben-Gal&trade; Balm
+You acquire an effect: Go Get 'Em, Tiger! (duration: 15 Adventures)
+
+[1352] Black Forest
+Encounter: black widow
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: black widow takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: black widow takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: black widow drops 10 attack power.
+Round 4: black widow drops 10 defense.
+Round 4: black widow takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: black widow takes 310 damage.
+Round 5: black widow takes 22 damage.
+Round 5: boolicious wins the fight!
+You gain 76 Meat
+You gain 12 Muscleboundness
+You gain 11 Magicalness
+You gain 21 Chutzpah
+You gain a Moxie point!
+
+[1353] Black Forest
+Encounter: black adder
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: black adder takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: black adder takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: black adder drops 6 attack power.
+Round 4: black adder drops 5 defense.
+Round 4: black adder takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: black adder takes 302 damage.
+Round 5: black adder takes 22 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 24 hit points
+You gain 158 Meat
+You acquire an item: adder bladder
+You acquire an item: good brain
+You gain 24 Fortitude
+You gain 14 Wizardliness
+You gain 8 Sarcasm
+
+[1354] Black Forest
+Encounter: blackberry bush
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: blackberry bush takes 11 damage.
+Round 2: boolicious casts SMASH & GRAAAGH!
+Round 3: blackberry bush takes 8 damage.
+You acquire an item: blackberry
+Round 3: blackberry bush takes 11 damage.
+Round 3: blackberry bush takes 3 damage.
+Round 3: blackberry bush takes 7 damage.
+Round 3: blackberry bush takes 5 damage.
+You lose 4 hit points
+Round 3: boolicious executes a macro!
+Round 3: boolicious casts INFECTIOUS BITE!
+Round 4: blackberry bush takes 11 damage.
+Round 4: boolicious casts PLAGUE CLAWS!
+Round 5: blackberry bush drops 6 attack power.
+Round 5: blackberry bush drops 7 defense.
+Round 5: blackberry bush takes 22 damage.
+Round 5: boolicious attacks!
+Round 6: blackberry bush takes 311 damage.
+You lose 5 hit points
+Round 6: blackberry bush takes 22 damage.
+Round 6: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 30 hit points
+You gain 21 Muscleboundness
+You gain 11 Mysteriousness
+You gain a Mysticality point!
+You gain 11 Cheek
+
+[1355] Black Forest
+Encounter: black panther
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: black panther takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: black panther takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: black panther drops 6 attack power.
+Round 4: black panther drops 7 defense.
+Round 4: black panther takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: black panther takes 318 damage.
+Round 5: black panther takes 32 damage.
+You gain 32 hit points
+Round 5: black panther takes 33 damage.
+Round 5: boolicious wins the fight!
+You gain 257 Meat
+You gain 18 Strongness
+You gain 14 Wizardliness
+You gain 12 Cheek
+
+[1356] Black Forest
+Encounter: blackberry bush
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: blackberry bush takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: blackberry bush takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: blackberry bush drops 9 attack power.
+Round 4: blackberry bush drops 10 defense.
+Round 4: blackberry bush takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: blackberry bush takes 306 damage.
+You lose 4 hit points
+Round 5: blackberry bush takes 22 damage.
+Round 5: boolicious wins the fight!
+You gain 15 Strongness
+You gain 13 Magicalness
+You gain 15 Cheek
+
+[1357] Black Forest
+Encounter: black widow
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: black widow takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: black widow takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: black widow drops 6 attack power.
+Round 4: black widow drops 9 defense.
+Round 4: black widow takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: black widow takes 302 damage.
+Round 5: black widow takes 22 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 29 hit points
+You gain 75 Meat
+You gain 22 Beefiness
+You gain 11 Wizardliness
+You gain 10 Sarcasm
+
+[1358] Black Forest
+Encounter: The Black Knight
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: the black knight takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: the black knight takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: the black knight drops 5 attack power.
+Round 4: the black knight drops 9 defense.
+Round 4: the black knight takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: the black knight takes 304 damage.
+Round 5: the black knight takes 22 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 15 hit points
+You gain 137 Meat
+You acquire an item: good brain
+You gain 20 Strongness
+You gain 7 Enchantedness
+You gain 14 Chutzpah
+
+[1359] Black Forest
+Encounter: black adder
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: black adder takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: black adder takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: black adder drops 6 attack power.
+Round 4: black adder drops 7 defense.
+Round 4: black adder takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: black adder takes 294 damage.
+Round 5: black adder takes 22 damage.
+Round 5: boolicious wins the fight!
+You gain 161 Meat
+You gain 20 Fortitude
+You gain 14 Mysteriousness
+You gain 10 Roguishness
+
+buy 1 forged identification documents for 5000 each from Black Market
+You acquire an item: forged identification documents
+You spent 5,000 Meat
+
+buy 1 can of black paint for 1000 each from Black Market
+You acquire an item: can of black paint
+You spent 1,000 Meat
+
+buy 1 black cherry soda for 80 each from Black Market
+You acquire an item: black cherry soda
+You spent 80 Meat
+
+buy 1 Black Body™ spray for 300 each from Black Market
+You acquire an item: Black Body&trade; spray
+You spent 300 Meat
+
+[1360] Muscle Vacation
+Encounter: Covert Operations
+You acquire an item: your father's MacGuffin diary
+
+diary.php?textversion=1
+diary.php?textversion=1&pwd=c1a380d81ed5790d3e7536e781c375c7
+
+use 1 spooky scarecrow
+
+Harvesting your garden
+You acquire peppermint sprout (6)
+
+[1363] Muscle Vacation
+Encounter: Man Down at the Hoedown
+You gain 53 Fortitude
+You gain a Muscle point!
+
+equip acc2 pirate fledges
+
+[1366] Poop Deck
+Encounter: It's Always Swordfish
+
+[1367] Belowdecks
+Encounter: gaudy pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: gaudy pirate takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: gaudy pirate takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: gaudy pirate drops 10 attack power.
+Round 4: gaudy pirate drops 10 defense.
+Round 4: gaudy pirate takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: gaudy pirate takes 285 damage.
+Round 5: gaudy pirate takes 22 damage.
+Round 5: boolicious wins the fight!
+You gain 190 Meat
+You acquire an item: gaudy key
+You gain 22 Beefiness
+You gain 11 Magicalness
+You gain 13 Chutzpah
+
+[1368] Belowdecks
+Encounter: Special Agent Wallace Burke Corrigan
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: special agent wallace burke corrigan takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: special agent wallace burke corrigan takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: special agent wallace burke corrigan drops 6 attack power.
+Round 4: special agent wallace burke corrigan drops 7 defense.
+Round 4: special agent wallace burke corrigan takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: special agent wallace burke corrigan takes 283 damage.
+Round 5: special agent wallace burke corrigan takes 22 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 30 hit points
+You acquire an item: hunter brain
+You gain 14 Fortitude
+You gain 9 Enchantedness
+You gain 18 Cheek
+
+eat 1 hunter brain
+You gain 6 Adventures
+You gain 12 Muscleboundness
+You gain 11 Magicalness
+You gain 12 Cheek
+You gain 1 Fullness
+You learned a new skill: Indefatigable
+
+[1369] Belowdecks
+Encounter: groovy pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: groovy pirate takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: groovy pirate takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: groovy pirate drops 10 attack power.
+Round 4: groovy pirate drops 9 defense.
+Round 4: groovy pirate takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: groovy pirate takes 281 damage.
+Round 5: groovy pirate takes 22 damage.
+Round 5: boolicious wins the fight!
+You gain 150 Meat
+You gain 21 Fortitude
+You gain 10 Mysteriousness
+You gain 15 Smarm
+
+Use 1 gaudy key
+You acquire an item: snakehead charrrm
+
+[1370] Belowdecks
+Encounter: grungy pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: grungy pirate takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: grungy pirate takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: grungy pirate drops 6 attack power.
+Round 4: grungy pirate drops 9 defense.
+Round 4: grungy pirate takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: grungy pirate takes 298 damage.
+Round 5: grungy pirate takes 22 damage.
+Round 5: boolicious wins the fight!
+You gain 152 Meat
+You acquire an item: good brain
+You gain 18 Strongness
+You gain 16 Wizardliness
+You gain 13 Sarcasm
+
+[1371] Belowdecks
+Encounter: gritty pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: gritty pirate takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: gritty pirate takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: gritty pirate drops 7 attack power.
+Round 4: gritty pirate drops 10 defense.
+Round 4: gritty pirate takes 22 damage.
+Round 4: boolicious attacks!
+You lose 12 hit points
+Round 5: gritty pirate takes 22 damage.
+Round 5: boolicious executes a macro!
+Round 5: boolicious casts INFECTIOUS BITE!
+Round 6: gritty pirate takes 11 damage.
+Round 6: boolicious casts PLAGUE CLAWS!
+Round 7: gritty pirate drops 6 attack power.
+Round 7: gritty pirate drops 9 defense.
+Round 7: gritty pirate takes 22 damage.
+Round 7: boolicious attacks!
+Round 8: gritty pirate takes 293 damage.
+Round 8: gritty pirate takes 22 damage.
+Round 8: boolicious wins the fight!
+You gain 164 Meat
+You acquire an item: true grit
+You gain 24 Beefiness
+You gain 13 Wizardliness
+You gain 10 Smarm
+
+[1372] Belowdecks
+Encounter: gritty pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: gritty pirate takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: gritty pirate takes 11 damage.
+Round 3: gritty pirate takes 3 damage.
+Round 3: gritty pirate takes 8 damage.
+Round 3: gritty pirate takes 5 damage.
+You lose 6 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: gritty pirate drops 10 attack power.
+Round 4: gritty pirate drops 6 defense.
+Round 4: gritty pirate takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: gritty pirate takes 251 damage.
+Round 5: gritty pirate takes 22 damage.
+Round 5: boolicious wins the fight!
+You gain 171 Meat
+You acquire an item: true grit
+You gain 21 Fortitude
+You gain 11 Wizardliness
+You gain 14 Cheek
+You gain a Moxie point!
+
+[1373] Belowdecks
+Encounter: grassy pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: grassy pirate takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: grassy pirate takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: grassy pirate drops 8 attack power.
+Round 4: grassy pirate drops 9 defense.
+Round 4: grassy pirate takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: grassy pirate takes 266 damage.
+Round 5: grassy pirate takes 27 damage.
+You gain 27 hit points
+Round 5: grassy pirate takes 33 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 28 hit points
+You gain 164 Meat
+You acquire an item: good brain
+You gain 20 Fortitude
+You gain 13 Wizardliness
+You gain 13 Roguishness
+
+[1374] Belowdecks
+Encounter: Candied Yam Golem
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: candied yam golem takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: candied yam golem drops 7 attack power.
+Round 4: candied yam golem drops 8 defense.
+Round 4: candied yam golem takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: candied yam golem takes 91 damage.
+Round 5: candied yam golem takes 10 damage.
+You gain 10 hit points
+Round 5: candied yam golem takes 33 damage.
+Round 5: boolicious attacks!
+Round 6: candied yam golem takes 71 damage.
+Round 6: candied yam golem takes 33 damage.
+Round 6: boolicious attacks!
+You lose 9 hit points
+Round 7: candied yam golem takes 33 damage.
+Round 7: boolicious attacks!
+Round 8: candied yam golem takes 101 damage.
+Round 8: candied yam golem takes 11 damage.
+You gain 11 hit points
+Round 8: candied yam golem takes 44 damage.
+Round 8: boolicious wins the fight!
+You acquire an item: candied yams
+You gain 32 Fortitude
+You gain a Muscle point!
+You gain 16 Enchantedness
+You gain 13 Roguishness
+
+[1375] Belowdecks
+Encounter: gaudy pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: gaudy pirate takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: gaudy pirate takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: gaudy pirate drops 7 attack power.
+Round 4: gaudy pirate drops 6 defense.
+Round 4: gaudy pirate takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: gaudy pirate takes 258 damage.
+Round 5: gaudy pirate takes 22 damage.
+Round 5: boolicious wins the fight!
+You gain 184 Meat
+You acquire an item: gaudy key
+You gain 22 Muscleboundness
+You gain 13 Enchantedness
+You gain a Mysticality point!
+You gain 13 Smarm
+
+Use 1 gaudy key
+You acquire an item: snakehead charrrm
+
+Combine 1 snakehead charrrm + 1 snakehead charrrm
+You acquire an item: Talisman o' Nam
+Crafting used 1 each of snakehead charrrm and snakehead charrrm
+
+equip acc2 Talisman o' Nam
+choice.php?forceoption=0
+
+[1376] Palindome
+Encounter: Rod Nevada, Vendor
+Took choice 130/1: hard rock candy
+choice.php?pwd&whichchoice=130&option=1
+You acquire an item: hard rock candy
+choice.php?forceoption=0
+
+[1377] Palindome
+Encounter: No sir, away!  A papaya war is on!
+Took choice 127/1: 3 papayas
+choice.php?pwd&whichchoice=127&option=1
+You acquire papaya (3)
+
+[1378] Palindome
+Encounter: Last Egg Gets Al
+You acquire an item: hard-boiled ostrich egg
+
+[1379] Palindome
+Encounter: Evil Olive
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: evil olive takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: evil olive takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: evil olive drops 10 attack power.
+Round 4: evil olive drops 10 defense.
+Round 4: evil olive takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: evil olive takes 254 damage.
+Round 5: evil olive takes 22 damage.
+Round 5: boolicious wins the fight!
+You acquire an item: bottle of gin
+You gain 20 Strongness
+You gain 11 Wizardliness
+You gain 17 Cheek
+choice.php?forceoption=0
+
+[1380] Palindome
+Encounter: Do Geese See God?
+Took choice 129/1: photograph of God
+choice.php?pwd&whichchoice=129&option=1
+You acquire an item: photograph of God
+
+[1381] Palindome
+Encounter: Tan Gnat
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: tan gnat takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: tan gnat takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: tan gnat drops 6 attack power.
+Round 4: tan gnat drops 9 defense.
+Round 4: tan gnat takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: tan gnat takes 259 damage.
+Round 5: tan gnat takes 22 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 18 hit points
+You gain 33 Meat
+You acquire an item: suntan lotion of moxiousness
+You acquire an item: gnatwing
+You gain 17 Strengthliness
+You gain 8 Mysteriousness
+You gain 19 Cheek
+
+use 1 suntan lotion of moxiousness
+You gain 9 Sarcasm
+
+[1382] Palindome
+Encounter: Racecar Bob
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: racecar bob takes 11 damage.
+Round 2: racecar bob takes 3 damage.
+Round 2: racecar bob takes 5 damage.
+Round 2: racecar bob takes 5 damage.
+You lose 19 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: racecar bob takes 11 damage.
+Round 3: racecar bob takes 2 damage.
+Round 3: racecar bob takes 8 damage.
+Round 3: racecar bob takes 5 damage.
+You lose 19 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: racecar bob drops 9 attack power.
+Round 4: racecar bob drops 10 defense.
+Round 4: racecar bob takes 22 damage.
+Round 4: racecar bob takes 3 damage.
+Round 4: racecar bob takes 7 damage.
+Round 4: racecar bob takes 4 damage.
+You lose 17 hit points
+Round 4: boolicious attacks!
+Round 5: racecar bob takes 151 damage.
+Round 5: racecar bob takes 22 damage.
+Round 5: boolicious wins the fight!
+You gain 176 Meat
+You acquire an item: good brain
+You gain 18 Strengthliness
+You gain 13 Wizardliness
+You gain 16 Sarcasm
+
+eat 1 good brain
+You gain 3 Adventures
+You gain 5 Muscleboundness
+You gain 7 Mysteriousness
+You gain 7 Cheek
+You gain 1 Fullness
+
+equip pants cane-mail pants
+
+buy 1 philter of phorce for 355 each from 1877436 on 20121013
+You acquire an item: philter of phorce
+
+use 1 philter of phorce
+You acquire an effect: Phorcefullness (duration: 5 Adventures)
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #36/1200:
+Question: What was stolen from the Waxton Museum of Paranormal Studies on Dougtember seventh, 1961?
+Answer: An onion that looked just like the King of Prefectford.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #385/1200:
+Question: When did the Quiet Food Fight of The province of Burblegroat begin?
+Answer: 1634.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #601/1200:
+Question: What player for the Waxtoff Fightin' Hobos was inducted into the Hall of Fame for his or her last-second knockout in the 1991 novel-writing championship?
+Answer: A puppy named Dookie.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #995/1200:
+Question: Where was the Princess of Reeves applauded for the crime of blasphemy?
+Answer: The Robot Woods.
+
+buy 1 CSA bravery badge for 100 each from 445635 on 20121013
+You acquire an item: CSA bravery badge
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+use 1 true grit
+You acquire an effect: Truly Gritty (duration: 10 Adventures)
+
+use 1 sleaze wad
+You gain 1 Adventure
+You gain 14 Muscleboundness
+You gain 16 Mysteriousness
+You gain 27 Roguishness
+You acquire an effect: Supafly (duration: 10 Adventures)
+
+[1383] Palindome
+Encounter: Flee to me, remote elf!
+You acquire an item: Elf Farm Raffle ticket
+
+Use 1 disassembled clover
+You acquire an item: ten-leaf clover
+
+use 1 Elf Farm Raffle ticket
+You acquire an item: pagoda plans
+
+[1384] Palindome
+Encounter: Drab Bard
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: drab bard takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: drab bard takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: drab bard drops 10 attack power.
+Round 4: drab bard drops 5 defense.
+Round 4: drab bard takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: drab bard takes 490 damage.
+Round 5: drab bard takes 48 damage.
+You gain 48 hit points
+Round 5: drab bard takes 33 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 17 hit points
+You gain 124 Meat
+You gain 19 Strengthliness
+You gain 17 Enchantedness
+You gain 10 Smarm
+
+[1385] Palindome
+Encounter: zombie-huntin' feller
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: zombie-huntin' feller takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: zombie-huntin' feller takes 11 damage.
+Round 3: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 25 hit points
+You acquire an item: hunter brain
+You acquire an item: mesh cap
+You gain 4 Fortitude
+You gain 5 Wizardliness
+You gain 5 Smarm
+
+eat 1 hunter brain
+You gain 6 Adventures
+You gain 11 Muscleboundness
+You gain 13 Mysteriousness
+You gain 12 Chutzpah
+You gain 1 Fullness
+You learned a new skill: Bilious Burst
+choice.php?forceoption=0
+
+[1386] Palindome
+Encounter: Drawn Onward
+
+palinshelves.php?action=placeitems&whichitem1=2259&whichitem2=2260&whichitem3=493&whichitem4=2261
+You lose 511 hit points
+You acquire an item: &quot;I Love Me, Vol. I&quot;
+
+Visiting Relaxing Hot Tub in clan VIP lounge
+You lose an effect: Beaten Up
+You gain 774 hit points
+
+use 1 chef-in-the-box
+
+use 1 canopic jar
+You acquire an item: ancient spice
+
+use 1 canopic jar
+You acquire an item: ancient spice
+
+use 1 canopic jar
+You acquire an item: powdered organs
+
+use 1 canopic jar
+You acquire an item: powdered organs
+
+use 1 &quot;I Love Me, Vol. I&quot;
+
+cobbsknob.php?action=tolabs
+choice.php?forceoption=0
+
+[1386] Cobb's Knob Laboratory
+Encounter: Mr. Alarm, I Presarm
+Took choice 517/1: unknown
+choice.php?pwd&whichchoice=517&option=1
+
+cobbsknob.php?level=2
+
+[1387] Whitey's Grove
+Encounter: white lion
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: white lion takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: white lion takes 11 damage.
+Round 3: boolicious wins the fight!
+You gain 51 Meat
+You gain 7 Muscleboundness
+You gain 7 Enchantedness
+You gain 6 Cheek
+
+[1388] Whitey's Grove
+Encounter: Knight in White Satin
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knight in white satin takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: knight in white satin takes 11 damage.
+Round 3: boolicious wins the fight!
+You gain 54 Meat
+You acquire an item: crappy brain
+You gain 5 Fortitude
+You gain 5 Wizardliness
+You gain 10 Cheek
+You gain a Moxie point!
+
+[1389] Whitey's Grove
+Encounter: whitesnake
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: whitesnake takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: whitesnake takes 11 damage.
+Round 3: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 28 hit points
+You gain 17 Meat
+You acquire an item: crappy brain
+You gain 8 Fortitude
+You gain 5 Enchantedness
+You gain 6 Cheek
+
+[1390] Whitey's Grove
+Encounter: The Only Thing About Him is the Way That He Walks
+Took choice 74/2: boxed wine
+choice.php?whichchoice=74&option=2&pwd
+You acquire boxed wine (3)
+
+[1391] Whitey's Grove
+Encounter: Don't Fence Me In
+Took choice 73/3: wedding cake, white rice 3x (+2x w/ rice bowl)
+choice.php?whichchoice=73&option=3&pwd
+You acquire an item: piece of wedding cake
+You acquire an item: white rice
+
+[1392] Whitey's Grove
+Encounter: Don't Fence Me In
+Took choice 73/3: wedding cake, white rice 3x (+2x w/ rice bowl)
+choice.php?whichchoice=73&option=3&pwd
+You acquire an item: piece of wedding cake
+You acquire an item: white rice
+
+[1393] Whitey's Grove
+Encounter: Knight in White Satin
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knight in white satin takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: knight in white satin takes 11 damage.
+Round 3: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 25 hit points
+You gain 39 Meat
+You acquire an item: white sword
+You gain 10 Beefiness
+You gain 7 Magicalness
+You gain 4 Smarm
+
+[1394] Whitey's Grove
+Encounter: Rapido!
+Took choice 75/3: white collar
+choice.php?whichchoice=75&option=3&pwd
+You acquire an item: white collar
+
+[1395] Whitey's Grove
+Encounter: white lion
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: white lion takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: white lion takes 11 damage.
+Round 3: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 26 hit points
+You gain 41 Meat
+You gain 7 Fortitude
+You gain 4 Enchantedness
+You gain 8 Chutzpah
+
+[1396] Whitey's Grove
+Encounter: white chocolate golem
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: white chocolate golem takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: white chocolate golem takes 11 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: white chocolate chips
+You gain 5 Muscleboundness
+You gain 7 Magicalness
+You gain 7 Sarcasm
+
+[1397] Whitey's Grove
+Encounter: whitesnake
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: whitesnake takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: whitesnake takes 11 damage.
+Round 3: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 21 hit points
+You gain 14 Meat
+You acquire an item: white snake skin
+You gain 9 Beefiness
+You gain 6 Wizardliness
+You gain 4 Sarcasm
+
+[1398] Whitey's Grove
+Encounter: Rapido!
+Took choice 75/3: white collar
+choice.php?whichchoice=75&option=3&pwd
+You acquire an item: white collar
+
+[1399] Whitey's Grove
+Encounter: The Only Thing About Him is the Way That He Walks
+Took choice 74/2: boxed wine
+choice.php?whichchoice=74&option=2&pwd
+You acquire boxed wine (3)
+
+[1400] Whitey's Grove
+Encounter: Knight in White Satin
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knight in white satin takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: knight in white satin takes 11 damage.
+Round 3: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 24 hit points
+You gain 33 Meat
+You acquire an item: white satin pants
+You gain 8 Beefiness
+You gain 7 Enchantedness
+You gain 4 Cheek
+
+[1401] Whitey's Grove
+Encounter: Candied Yam Golem
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: candied yam golem takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: candied yam golem drops 7 attack power.
+Round 4: candied yam golem drops 6 defense.
+Round 4: candied yam golem takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: candied yam golem takes 59 damage.
+Round 5: candied yam golem takes 22 damage.
+Round 5: boolicious attacks!
+Round 6: candied yam golem takes 61 damage.
+Round 6: candied yam golem takes 22 damage.
+Round 6: boolicious attacks!
+Round 7: candied yam golem takes 60 damage.
+Round 7: candied yam golem takes 22 damage.
+Round 7: boolicious attacks!
+Round 8: candied yam golem takes 57 damage.
+Round 8: candied yam golem takes 22 damage.
+Round 8: boolicious attacks!
+Round 9: candied yam golem takes 79 damage.
+Round 9: candied yam golem takes 8 damage.
+You gain 8 hit points
+Round 9: candied yam golem takes 33 damage.
+Round 9: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 27 hit points
+You acquire an item: candied yams
+You gain 36 Beefiness
+You gain a Muscle point!
+You gain 20 Magicalness
+You gain 13 Sarcasm
+
+[1402] Whitey's Grove
+Encounter: whitesnake
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: whitesnake takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: whitesnake takes 11 damage.
+Round 3: boolicious wins the fight!
+You gain 15 Meat
+You gain 8 Beefiness
+You gain 6 Wizardliness
+You gain 4 Smarm
+
+[1403] Whitey's Grove
+Encounter: white chocolate golem
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: white chocolate golem takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: white chocolate golem takes 11 damage.
+Round 3: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 17 hit points
+You gain 5 Strengthliness
+You gain 7 Mysteriousness
+You gain 7 Chutzpah
+
+[1404] Whitey's Grove
+Encounter: white chocolate golem
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: white chocolate golem takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: white chocolate golem takes 11 damage.
+Round 3: boolicious wins the fight!
+You gain 7 Fortitude
+You gain 5 Wizardliness
+You gain 7 Sarcasm
+
+[1405] Whitey's Grove
+Encounter: Rapido!
+Took choice 75/3: white collar
+choice.php?whichchoice=75&option=3&pwd
+You acquire an item: white collar
+
+[1406] Whitey's Grove
+Encounter: white lion
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: white lion takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: white lion takes 11 damage.
+Round 3: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 21 hit points
+You gain 42 Meat
+You acquire an item: crappy brain
+You gain 9 Strengthliness
+You gain 5 Enchantedness
+You gain a Mysticality point!
+You gain 5 Chutzpah
+
+[1407] Whitey's Grove
+Encounter: Rapido!
+Took choice 75/3: white collar
+choice.php?whichchoice=75&option=3&pwd
+You acquire an item: white collar
+
+[1408] Whitey's Grove
+Encounter: Rapido!
+Took choice 75/1: mysticality substats
+choice.php?whichchoice=75&option=1&pwd
+You gain 22 Enchantedness
+
+[1409] Whitey's Grove
+Encounter: white chocolate golem
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: white chocolate golem takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: white chocolate golem takes 11 damage.
+Round 3: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 21 hit points
+You acquire an item: white chocolate chips
+You gain 6 Fortitude
+You gain 6 Magicalness
+You gain 8 Smarm
+
+[1410] Whitey's Grove
+Encounter: Don't Fence Me In
+Took choice 73/1: muscle substats
+choice.php?whichchoice=73&option=1&pwd
+You gain 30 Strengthliness
+
+[1411] Whitey's Grove
+Encounter: Knight in White Satin
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knight in white satin takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: knight in white satin takes 11 damage.
+Round 3: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 27 hit points
+You gain 36 Meat
+You acquire an item: white satin shield
+You acquire an item: crappy brain
+You gain 11 Muscleboundness
+You gain 4 Wizardliness
+You gain 3 Sarcasm
+
+[1412] Whitey's Grove
+Encounter: whitesnake
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: whitesnake takes 11 damage.
+Round 2: whitesnake takes 1 damage.
+Round 2: whitesnake takes 10 damage.
+Round 2: whitesnake takes 5 damage.
+You lose 1 hit point
+Round 2: boolicious wins the fight!
+You gain 15 Meat
+You acquire an item: white snake skin
+You gain 8 Strongness
+You gain 6 Magicalness
+You gain 3 Roguishness
+
+[1413] Whitey's Grove
+Encounter: The Only Thing About Him is the Way That He Walks
+Took choice 74/1: moxie substats
+choice.php?whichchoice=74&option=1&pwd
+You gain 22 Roguishness
+
+[1414] Whitey's Grove
+Encounter: white lion
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: white lion takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: white lion takes 11 damage.
+Round 3: boolicious wins the fight!
+You gain 37 Meat
+You acquire an item: crappy brain
+You gain 7 Muscleboundness
+You gain 6 Magicalness
+You gain 4 Roguishness
+
+[1415] Whitey's Grove
+Encounter: white lion
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: white lion takes 11 damage.
+Round 2: white lion takes 1 damage.
+Round 2: white lion takes 5 damage.
+Round 2: white lion takes 4 damage.
+You lose 1 hit point
+Round 2: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 23 hit points
+You gain 41 Meat
+You acquire an item: lion oil
+You gain 8 Strongness
+You gain 4 Enchantedness
+You gain 4 Chutzpah
+
+[1416] Whitey's Grove
+Encounter: Knight in White Satin
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: knight in white satin takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: knight in white satin takes 11 damage.
+Round 3: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 21 hit points
+You gain 40 Meat
+You acquire an item: white sword
+You gain 7 Strongness
+You gain 4 Mysteriousness
+You gain 6 Smarm
+
+[1417] Whitey's Grove
+Encounter: whitesnake
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: whitesnake takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: whitesnake takes 11 damage.
+Round 3: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 30 hit points
+You gain 14 Meat
+You acquire an item: bird rib
+You gain 7 Fortitude
+You gain 5 Magicalness
+You gain 5 Cheek
+
+Cook 1 stunt nuts + 1 wet stew
+You acquire an item: wet stunt nut stew
+Crafting used 1 each of stunt nuts and wet stew
+
+[1418] Cobb's Knob Laboratory
+Encounter: Mega Gem
+You acquire an item: Mega Gem
+
+equip acc3 Mega Gem
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #147/1200:
+Question: What was stolen from the Wibbleford Museum of Chemistry on Jarlsuary third, 1985?
+Answer: A carpenter.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #499/1200:
+Question: When did the Waxtoff Blue Gypsies win the national Quidditch championship?
+Answer: Last Thursday.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #685/1200:
+Question: Who funded the creation of the broken electric telephone pole?
+Answer: Li'l Terry Allen of Febreezia.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1013/1200:
+Question: Where did Ol' Cthulhu Garcia, inventor of the digital lumberjack, get stolen by Gypsies?
+
+buy 1 CSA bravery badge for 100 each from 445635 on 20121013
+You acquire an item: CSA bravery badge
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+use 1 Mick's IcyVapoHotness Rub
+You acquire an effect: Extreme Muscle Relaxation (duration: 10 Adventures)
+outfit Swashbuckling Getup
+
+buy 1 pirate brochure for 300 each from Barrrtleby's Barrrgain Books (Bees Hate You)
+You acquire an item: pirate brochure
+You spent 300 Meat
+custom outfit Backup
+
+use 1 pirate brochure
+You acquire an effect: Muscularrr (duration: 10 Adventures)
+choice.php?forceoption=0
+
+[1419] Palindome
+Encounter: Dr. Awkward
+Took choice 131/1: unknown
+choice.php?pwd&whichchoice=131&option=1
+Encounter: Dr. Awkward
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: dr. awkward takes 11 damage.
+Round 3: boolicious casts BILIOUS BURST!
+Round 4: dr. awkward takes 149 damage.
+Round 4: dr. awkward takes 11 damage.
+Round 4: dr. awkward heals 29 hit points.
+Round 4: boolicious executes a macro!
+Round 4: boolicious casts INFECTIOUS BITE!
+Round 5: dr. awkward takes 11 damage.
+Round 5: boolicious casts PLAGUE CLAWS!
+Round 6: dr. awkward drops 7 attack power.
+Round 6: dr. awkward drops 5 defense.
+Round 6: dr. awkward takes 22 damage.
+Round 6: dr. awkward heals 21 hit points.
+Round 6: boolicious attacks!
+You lose 5 hit points
+Round 7: dr. awkward takes 22 damage.
+Round 7: dr. awkward heals 22 hit points.
+Round 7: boolicious casts FLESH MOB!
+Round 8: dr. awkward takes 22 damage.
+Round 8: boolicious wins the fight!
+You acquire an item: Staff of Fats
+You acquire an item: Drowsy Sword
+You acquire an item: boss brain
+You gain 56 Muscleboundness
+You gain 47 Magicalness
+You gain 33 Sarcasm
+
+eat 1 boss brain
+You gain 6 Adventures
+You gain 9 Fortitude
+You gain 13 Wizardliness
+You gain 11 Roguishness
+You gain 1 Fullness
+
+[1420] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: baa-relief sheep takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: baa-relief sheep takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: baa-relief sheep drops 6 attack power.
+Round 4: baa-relief sheep drops 6 defense.
+Round 4: baa-relief sheep takes 22 damage.
+Round 4: boolicious wins the fight!
+You gain 8 Muscleboundness
+You gain a Muscle point!
+You gain 8 Magicalness
+You gain 5 Cheek
+
+[1421] Hidden Temple
+Encounter: stone temple pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: stone temple pirate takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: stone temple pirate takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: stone temple pirate drops 9 attack power.
+Round 4: stone temple pirate drops 6 defense.
+Round 4: stone temple pirate takes 22 damage.
+Round 4: boolicious wins the fight!
+You gain 9 Strongness
+You gain 6 Magicalness
+You gain 6 Chutzpah
+You gain a Moxie point!
+
+[1422] Hidden Temple
+Encounter: stone temple pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: stone temple pirate takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: stone temple pirate takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: stone temple pirate drops 6 attack power.
+Round 4: stone temple pirate drops 10 defense.
+Round 4: stone temple pirate takes 22 damage.
+Round 4: boolicious wins the fight!
+You acquire an item: ancient poisoned dart
+You gain 10 Beefiness
+You gain 3 Enchantedness
+You gain 7 Smarm
+choice.php?forceoption=0
+
+[1423] Hidden Temple
+Encounter: Such Great Heights
+Took choice 579/3: gain 3 adventures
+choice.php?pwd&whichchoice=579&option=3
+You gain 3 Adventures
+You acquire an effect: Jalape&ntilde;o Saucesphere (duration: 3 Adventures)
+You acquire an effect: Irresistible Resolve (duration: 3 Adventures)
+You acquire an effect: Muscularrr (duration: 3 Adventures)
+You acquire an effect: Aloysius' Antiphon of Aptitude (duration: 3 Adventures)
+You acquire an effect: Astral Shell (duration: 3 Adventures)
+You acquire an effect: Reptilian Fortitude (duration: 3 Adventures)
+You acquire an effect: Ghostly Shell (duration: 3 Adventures)
+You acquire an effect: Elemental Saucesphere (duration: 3 Adventures)
+You acquire an effect: Jaba&ntilde;ero Saucesphere (duration: 3 Adventures)
+You acquire an effect: Tenacity of the Snapper (duration: 3 Adventures)
+
+[1423] Hidden Temple
+Encounter: stone temple pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: stone temple pirate takes 11 damage.
+Round 2: boolicious attacks!
+Round 3: stone temple pirate takes 357 damage.
+Round 3: stone temple pirate takes 11 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: ancient poisoned dart
+You gain 6 Fortitude
+You gain 6 Wizardliness
+You gain 8 Cheek
+
+[1424] Hidden Temple
+Encounter: craven carven raven
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: craven carven raven takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: craven carven raven takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: craven carven raven drops 8 attack power.
+Round 4: craven carven raven drops 10 defense.
+Round 4: craven carven raven takes 22 damage.
+Round 4: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 28 hit points
+You acquire an item: shiny stones
+You gain 8 Strongness
+You gain 2 Mysteriousness
+You gain 11 Cheek
+
+[1425] Hidden Temple
+Encounter: stone temple pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: stone temple pirate takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: stone temple pirate takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: stone temple pirate drops 8 attack power.
+Round 4: stone temple pirate drops 5 defense.
+Round 4: stone temple pirate takes 22 damage.
+Round 4: boolicious wins the fight!
+You acquire an item: ancient poisoned dart
+You gain 10 Fortitude
+You gain 3 Magicalness
+You gain 7 Roguishness
+
+[1426] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: baa-relief sheep takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: baa-relief sheep takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: baa-relief sheep drops 9 attack power.
+Round 4: baa-relief sheep drops 9 defense.
+Round 4: baa-relief sheep takes 22 damage.
+Round 4: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 15 hit points
+You acquire an item: stone wool
+You gain 8 Fortitude
+You gain 7 Wizardliness
+You gain 6 Roguishness
+
+[1427] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: baa-relief sheep takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: baa-relief sheep takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: baa-relief sheep drops 6 attack power.
+Round 4: baa-relief sheep drops 10 defense.
+Round 4: baa-relief sheep takes 22 damage.
+Round 4: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 24 hit points
+You gain 10 Muscleboundness
+You gain 6 Magicalness
+You gain 4 Roguishness
+choice.php?forceoption=0
+
+[1428] Hidden Temple
+Encounter: Such Great Depths
+Took choice 581/2: 5 advs of +15 mus/mys/mox
+choice.php?pwd&whichchoice=581&option=2
+You acquire an effect: Hidden Power (duration: 5 Adventures)
+
+[1429] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: baa-relief sheep takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: baa-relief sheep takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: baa-relief sheep drops 7 attack power.
+Round 4: baa-relief sheep drops 8 defense.
+Round 4: baa-relief sheep takes 22 damage.
+Round 4: boolicious wins the fight!
+You gain 10 Fortitude
+You gain 4 Mysteriousness
+You gain 6 Cheek
+
+[1430] Hidden Temple
+Encounter: stone temple pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: stone temple pirate takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: stone temple pirate takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: stone temple pirate drops 9 attack power.
+Round 4: stone temple pirate drops 10 defense.
+Round 4: stone temple pirate takes 22 damage.
+Round 4: boolicious wins the fight!
+You gain 12 Muscleboundness
+You gain 5 Magicalness
+You gain 3 Roguishness
+
+[1431] Hidden Temple
+Encounter: Stuffing Golem
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: stuffing golem takes 11 damage.
+Round 3: stuffing golem takes 1 damage.
+Round 3: stuffing golem takes 9 damage.
+Round 3: stuffing golem takes 5 damage.
+You lose 15 hit points
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: stuffing golem drops 9 attack power.
+Round 4: stuffing golem drops 7 defense.
+Round 4: stuffing golem takes 22 damage.
+Round 4: boolicious attacks!
+You lose 12 hit points
+Round 5: stuffing golem takes 22 damage.
+Round 5: boolicious attacks!
+Round 6: stuffing golem takes 62 damage.
+Round 6: stuffing golem takes 7 damage.
+You gain 7 hit points
+Round 6: stuffing golem takes 33 damage.
+Round 6: stuffing golem takes 1 damage.
+Round 6: stuffing golem takes 5 damage.
+Round 6: stuffing golem takes 3 damage.
+You lose 12 hit points
+Round 6: boolicious attacks!
+Round 7: stuffing golem takes 52 damage.
+Round 7: stuffing golem takes 6 damage.
+You gain 6 hit points
+Round 7: stuffing golem takes 44 damage.
+Round 7: boolicious attacks!
+Round 8: stuffing golem takes 58 damage.
+Round 8: stuffing golem takes 6 damage.
+You gain 6 hit points
+Round 8: stuffing golem takes 55 damage.
+Round 8: boolicious attacks!
+Round 9: stuffing golem takes 35 damage.
+Round 9: stuffing golem takes 55 damage.
+Round 9: boolicious wins the fight!
+You acquire an item: herbal stuffing
+You gain 22 Strongness
+You gain 26 Enchantedness
+You gain a Mysticality point!
+You gain 22 Roguishness
+
+[1432] Hidden Temple
+Encounter: craven carven raven
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: craven carven raven takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: craven carven raven takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: craven carven raven drops 7 attack power.
+Round 4: craven carven raven drops 10 defense.
+Round 4: craven carven raven takes 22 damage.
+Round 4: boolicious wins the fight!
+You acquire an item: shiny stones
+You gain 7 Muscleboundness
+You gain 5 Mysteriousness
+You gain 7 Smarm
