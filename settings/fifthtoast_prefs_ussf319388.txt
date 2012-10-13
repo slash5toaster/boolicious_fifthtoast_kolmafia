@@ -3,7 +3,7 @@ CoinmastersFrame=305,175,-1
 CouncilFrame=424,322,-1
 DescriptionFrame=-4,0,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=241,0,-1
+KoLDesktop=236,0,-1
 LoginFrame=425,136,0
 MaximizerFrame=349,133
 MeatManageFrame=440,122
@@ -252,7 +252,7 @@ birdformRoc=0
 birdformSleaze=0
 birdformSpooky=0
 birdformStench=0
-blackPuddingsDefeated=11
+blackPuddingsDefeated=16
 blankOutUsed=0
 bootsCharged=false
 borisPoints=0
@@ -674,7 +674,7 @@ cyrptCrannyEvilness=0
 cyrptNicheEvilness=0
 cyrptNookEvilness=0
 cyrptTotalEvilness=0
-dailyDungeonDone=true
+dailyDungeonDone=false
 dbNemesisSkill1=0
 dbNemesisSkill2=0
 dbNemesisSkill3=0
@@ -759,13 +759,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=4
+lastBreakfast=5
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=15
-lastCounterDay=4
+lastCounterDay=5
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=6
@@ -910,7 +910,7 @@ mpAutoRecoveryItems=sleep on your clan sofa;carbonated soy milk;carbonated water
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
 noodleSummons=5
-nunsVisits=1
+nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=plinth
 olfactedMonster=wabbit
@@ -997,7 +997,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=6437\:Semirare window begin loc\=*\:lparen.gif\:6477\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
