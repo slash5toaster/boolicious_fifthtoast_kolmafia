@@ -1151,3 +1151,452 @@ You gain 1 Fullness
 Harvesting your garden
 You acquire peppermint sprout (3)
 You learned a new skill: Unyielding Flesh
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+October 14, 2012 - Boozember 8
+
+Ronald: waning crescent
+Grimace: waxing gibbous
+Mini-moon: in front of Ronald, L side
+
+Yuletide: 4 days
+Festival of Jarlsberg: 9 days
+Halloween: 17 days
+Valentine's Day: 20 days
+St. Sneaky Pete's Day: 27 days
+Oyster Egg Day: 34 days
+Feast of Boris: 39 days
+El Dia De Los Muertos Borrachos: 42 days
+Generic Summer Holiday: 51 days
+Dependence Day: 60 days
+Arrrbor Day: 68 days
+Lab&oacute;r Day: 78 days
+
+
+Muscle bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Zombie Master
+
+Lv: 11
+HP: 527 / 527
+MP: 879 / 879
+
+Mus: 328 (110), tnp = 70
+Mys: 215 (95), tnp = 130
+Mox: 208 (94), tnp = 171
+
+Advs: 118
+Meat: 411,039
+
+Full: 3 / 25
+Drunk: 3 / 4
+Spleen: 1 / 15
+
+
+ > equipment
+
+Hat: mesh cap
+Weapon: pygmy spear
+Off-hand: catskin buckler
+Shirt: (none)
+Pants: cane-mail pants
+Container: vampire cape
+
+Acc. 1: Mr. Accessory
+Acc. 2: fancy black tie
+Acc. 3: Mega Gem
+
+Pet: Ghuol Whelp (25 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Stomach of Steel
+
+Zombie Master
+ - Bilious Burst
+ - Bite Minion
+ - Devour Minions
+ - Distracting Minion
+ - Elemental Obliviousness
+ - Flesh Mob
+ - Hunter's Sprint
+ - Indefatigable
+ - Infectious Bite
+ - Insatiable Hunger
+ - Lure Minions
+ - Meat Shields
+ - Plague Claws
+ - Recruit Zombie
+ - Scavenge
+ - Smash & Graaagh
+ - Summon Horde
+ - Summon Minion
+ - Undying Greed
+ - Unyielding Flesh
+ - Vigor Mortis
+ - Virulence
+ - Zombie Chow
+
+
+ > effects
+
+2 of 3 AT buffs active.
+So Fresh and So Clean (3)
+Blessing of Bulbazinalli (9)
+Trivia Master (9)
+Blessing of Pikachutlotal (12)
+Blessing of Squirtlcthulli (13)
+Scarysauce (26)
+Jingle Jangle Jingle (26)
+♫ Cringle's Curative Carol (26)
+Empathy (26)
+Ghostly Shell (29)
+♫ Aloysius' Antiphon of Aptitude (29)
+Tenacity of the Snapper (29)
+Elemental Saucesphere (29)
+Astral Shell (29)
+Reptilian Fortitude (29)
+Jabañero Saucesphere (29)
+Jalapeño Saucesphere (29)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: +130.00%
+
+Exp: +1.00
+Meat: +30.00%
+Item: +5.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+Visiting Pool Table in clan VIP lounge
+
+Visiting Swimming Pool in clan VIP lounge
+
+swimming pool laps
+You acquire an effect: Lapdog (duration: 50 Adventures)
+
+[1480] Desert (Unhydrated)
+Encounter: Oh No, Not Raid!
+You lose 250 hit points
+
+[1481] Desert (Unhydrated)
+Encounter: Doors of Perception
+You acquire an effect: Barking Dogs (duration: 5 Adventures)
+
+[1482] Desert (Unhydrated)
+Encounter: Oh No, Not Raid!
+You lose 198 hit points
+
+Visiting Relaxing Hot Tub in clan VIP lounge
+You lose an effect: Barking Dogs
+You gain 328 hit points
+
+Use 1 disassembled clover
+You acquire an item: ten-leaf clover
+
+[1483] Desert (Unhydrated)
+Encounter: A Wrong Turn at Albuquerque
+You acquire an effect: Prestidigysfunction (duration: 5 Adventures)
+
+uneffect Prestidigysfunction
+
+[1484] South of the Border
+Encounter: Forget Not That I am an Ass
+You acquire an item: pack of chewing gum
+
+multiuse.php?passitem=1767&pwd=f9ac63250d003fe40c43038ce49c7125
+
+Use 1 pack of chewing gum
+You acquire an item: tamarind-flavored chewing gum
+You acquire an item: lime-and-chile-flavored chewing gum
+You acquire an item: pickle-flavored chewing gum
+You acquire an item: jaba&ntilde;ero-flavored chewing gum
+
+Use 1 pack of chewing gum
+You acquire an item: tamarind-flavored chewing gum
+You acquire an item: lime-and-chile-flavored chewing gum
+You acquire an item: pickle-flavored chewing gum
+You acquire an item: jaba&ntilde;ero-flavored chewing gum
+
+multiuse.php?action=useitem&pwd&from=inv&quantity=1&whichitem=0
+adventure.php?snarfblat=118
+
+[1485] Hidden City (Square 25)
+Encounter: ancient protector spirit
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: boolicious plays Garin's Harp!
+Round 3: boolicious uses the black pepper!
+Round 4: ancient protector spirit drops 7 attack power.
+Round 4: ancient protector spirit drops 10 defense.
+Round 4: boolicious uses the beer bomb!
+Round 5: ancient protector spirit takes 1 damage.
+Round 5: boolicious uses the beer bomb!
+Round 6: ancient protector spirit takes 1 damage.
+Round 6: boolicious uses the beer bomb!
+Round 7: ancient protector spirit takes 1 damage.
+Round 7: boolicious uses the ancient poisoned dart!
+Round 8: ancient protector spirit takes 1 damage.
+Round 8: boolicious uses the broken glass grenade!
+Round 9: ancient protector spirit takes 1 damage.
+Round 9: ancient protector spirit drops 50 attack power.
+Round 9: ancient protector spirit drops 50 defense.
+Round 9: ancient protector spirit takes 1 damage.
+Round 9: boolicious uses the broken glass grenade!
+Round 10: ancient protector spirit takes 1 damage.
+Round 10: ancient protector spirit drops 50 attack power.
+Round 10: ancient protector spirit drops 50 defense.
+Round 10: ancient protector spirit takes 1 damage.
+Round 10: boolicious uses the frozen feather!
+Round 11: ancient protector spirit takes 93 damage.
+Round 11: ancient protector spirit takes 1 damage.
+Round 11: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 16 hit points
+You acquire an item: obsidian dagger
+You acquire an item: good brain
+You gain 19 Fortitude
+You gain 13 Mysteriousness
+You gain 18 Cheek
+
+eat 1 good brain
+You gain 3 Adventures
+You gain 5 Strengthliness
+You gain 7 Wizardliness
+You gain 6 Cheek
+You gain 1 Fullness
+
+adventure.php?snarfblat=118
+
+[1486] Hidden City (Square 10)
+Encounter: Altared Perceptions
+
+[1486] Hidden City (Altar of Bulbazinalli)
+Offering cracked stone sphere at Altar of Bulbazinalli
+You acquire an item: triangular stone
+
+[1487] Hidden City (Square 15)
+Encounter: Altared Perceptions
+
+adventure.php?snarfblat=118
+
+[1487] Hidden City (Square 2)
+Encounter: pygmy headhunter
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: pygmy headhunter takes 11 damage.
+Round 2: pygmy headhunter takes 1 damage.
+Round 2: pygmy headhunter takes 20 damage.
+Round 2: pygmy headhunter takes 4 damage.
+You lose 1 hit point
+Round 2: boolicious uses the mossy stone sphere!
+Round 3: pygmy headhunter takes 8 damage.
+Round 3: pygmy headhunter takes 11 damage.
+Round 3: boolicious executes a macro!
+Round 3: boolicious casts INFECTIOUS BITE!
+Round 4: pygmy headhunter takes 11 damage.
+Round 4: boolicious casts PLAGUE CLAWS!
+Round 5: pygmy headhunter drops 9 attack power.
+Round 5: pygmy headhunter drops 7 defense.
+Round 5: pygmy headhunter takes 22 damage.
+Round 5: boolicious attacks!
+Round 6: pygmy headhunter takes 234 damage.
+Round 6: pygmy headhunter takes 22 damage.
+Round 6: boolicious wins the fight!
+You gain 247 Meat
+You acquire an item: briefcase
+You gain 16 Muscleboundness
+You gain 17 Mysteriousness
+You gain 14 Smarm
+
+[1488] Hidden City (Square 22)
+Encounter: Altared Perceptions
+
+[1488] Hidden City (Altar of Charcoatl)
+Offering mossy stone sphere at Altar of Charcoatl
+You acquire an item: triangular stone
+
+[1489] Hidden City (Square 15)
+Encounter: Altared Perceptions
+
+[1489] Hidden City (Altar of Squirtlcthulli)
+Offering rough stone sphere at Altar of Squirtlcthulli
+You acquire an item: triangular stone
+
+[1490] Hidden City (Square 11)
+Encounter: Mansion House of the Black Friars
+
+[1490] Hidden City (Smallish Temple)
+Placing triangular stones into carving
+Encounter: Protector Spectre
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: boolicious uses the ancient poisoned dart!
+Round 3: protector spectre takes 1 damage.
+Round 3: protector spectre takes 1 damage.
+Round 3: protector spectre takes 10 damage.
+Round 3: protector spectre takes 1 damage.
+You lose 16 hit points
+Round 3: boolicious uses the chocolate frosted sugar bomb!
+Round 4: protector spectre drops 20 attack power.
+Round 4: protector spectre drops 20 defense.
+You acquire an effect: Sugar Rush (duration: 10 Adventures)
+Round 4: protector spectre takes 1 damage.
+Round 4: protector spectre takes 1 damage.
+Round 4: protector spectre takes 2 damage.
+Round 4: protector spectre takes 1 damage.
+You lose 12 hit points
+Round 4: boolicious uses the flirtatious feather!
+Round 5: protector spectre takes 117 damage.
+Round 5: protector spectre takes 1 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 16 hit points
+You acquire an item: ancient amulet
+You acquire an item: spectre scepter
+You acquire an item: boss brain
+You gain 76 Fortitude
+You gain a Muscle point!
+You gain 32 Wizardliness
+You gain 24 Roguishness
+
+eat 1 boss brain
+You gain 6 Adventures
+You gain 12 Strongness
+You gain 14 Enchantedness
+You gain 12 Roguishness
+You gain 1 Fullness
+
+adventure.php?snarfblat=118
+
+adventure.php?snarfblat=118
+
+[1491] Hidden City (Square 24)
+Encounter: pygmy blowgunner
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: pygmy blowgunner takes 11 damage.
+Round 2: pygmy blowgunner takes 3 damage.
+Round 2: pygmy blowgunner takes 8 damage.
+Round 2: pygmy blowgunner takes 3 damage.
+You lose 25 hit points
+Round 2: boolicious uses the effervescent potion!
+Round 3: pygmy blowgunner takes 11 damage.
+Round 3: pygmy blowgunner takes 2 damage.
+Round 3: pygmy blowgunner takes 9 damage.
+Round 3: pygmy blowgunner takes 5 damage.
+You lose 22 hit points
+Round 3: boolicious attacks!
+Round 4: pygmy blowgunner takes 135 damage.
+Round 4: pygmy blowgunner takes 11 damage.
+Round 4: boolicious wins the fight!
+You gain 114 Meat
+You acquire an item: pygmy nose-bone
+You acquire an item: good brain
+You gain 23 Strongness
+You gain 13 Enchantedness
+You gain 13 Sarcasm
+
+[1492] Haunted Billiards Room
+Encounter: pooltergeist
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: pooltergeist takes 11 damage.
+Round 2: boolicious attacks!
+Round 3: pooltergeist takes 248 damage.
+Round 3: pooltergeist takes 11 damage.
+Round 3: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 20 hit points
+You acquire an item: 5-ball
+You gain 6 Strengthliness
+You gain 2 Magicalness
+You gain 6 Sarcasm
+
+[1493] Haunted Billiards Room
+Encounter: pooltergeist
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: pooltergeist takes 11 damage.
+Round 2: boolicious uses the effervescent potion!
+Round 3: pooltergeist takes 11 damage.
+Round 3: pooltergeist takes 3 damage.
+Round 3: pooltergeist takes 4 damage.
+Round 3: pooltergeist takes 5 damage.
+You lose 1 hit point
+Round 3: boolicious executes a macro!
+Round 3: boolicious casts INFECTIOUS BITE!
+Round 4: pooltergeist takes 11 damage.
+Round 4: boolicious wins the fight!
+You acquire an item: 8-ball
+You acquire an item: crappy brain
+You gain 6 Muscleboundness
+You gain 4 Magicalness
+You gain 4 Roguishness
+
+cast 1 Lure Minions
+choice.php?forceoption=0
+Encounter: A Zombie Master's Bait
+Took choice 599/1: unknown
+choice.php?pwd&whichchoice=599&option=1&quantity=23
+Encounter: A Zombie Master's Bait
+Took choice 599/2: unknown
+choice.php?pwd&whichchoice=599&option=2&quantity=1
+Encounter: A Zombie Master's Bait
+Took choice 599/2: unknown
+choice.php?pwd&whichchoice=599&option=2&quantity=1
+Encounter: A Zombie Master's Bait
+Took choice 599/2: unknown
+choice.php?pwd&whichchoice=599&option=2&quantity=1
+Encounter: A Zombie Master's Bait
+Took choice 599/2: unknown
+choice.php?pwd&whichchoice=599&option=2&quantity=1
+Encounter: A Zombie Master's Bait
+Took choice 599/2: unknown
+choice.php?pwd&whichchoice=599&option=2&quantity=1
+Took choice 599/2: unknown
+choice.php?pwd&whichchoice=599&option=2&quantity=1
+Encounter: A Zombie Master's Bait
+Took choice 599/2: unknown
+choice.php?pwd&whichchoice=599&option=2&quantity=1
+Encounter: A Zombie Master's Bait
+Encounter: A Zombie Master's Bait
+Took choice 599/2: unknown
+choice.php?pwd&whichchoice=599&option=2&quantity=1
+Took choice 599/2: unknown
+choice.php?pwd&whichchoice=599&option=2&quantity=1
+Encounter: A Zombie Master's Bait
+Encounter: A Zombie Master's Bait
+Took choice 599/2: unknown
+choice.php?pwd&whichchoice=599&option=2&quantity=1
+Encounter: A Zombie Master's Bait
+Took choice 599/2: unknown
+choice.php?pwd&whichchoice=599&option=2&quantity=1
+Encounter: A Zombie Master's Bait
+Took choice 599/2: unknown
+choice.php?pwd&whichchoice=599&option=2&quantity=1
+Encounter: A Zombie Master's Bait
+Took choice 599/5: unknown
+choice.php?pwd&whichchoice=599&option=5
+
+cast 1 Zombie Chow
+You acquire an effect: Chow Downed (duration: 10 Adventures)
