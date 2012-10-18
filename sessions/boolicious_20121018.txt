@@ -369,3 +369,335 @@ Item: +20.00%
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+October 18, 2012 - Dougtember 4
+
+Ronald: waxing gibbous
+Grimace: waning gibbous
+Mini-moon: in back, near Ronald
+
+Yuletide: today
+Festival of Jarlsberg: 5 days
+Halloween: 13 days
+Valentine's Day: 16 days
+St. Sneaky Pete's Day: 23 days
+Oyster Egg Day: 30 days
+Feast of Boris: 35 days
+El Dia De Los Muertos Borrachos: 38 days
+Generic Summer Holiday: 47 days
+Dependence Day: 56 days
+Arrrbor Day: 64 days
+Lab&oacute;r Day: 74 days
+
+Yuletide
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Zombie Master
+
+Lv: 11
+HP: 378 / 729
+MP: 978 / 978
+
+Mus: 463 (117), tnp = 122
+Mys: 225 (100), tnp = 116
+Mox: 216 (98), tnp = 60
+
+Advs: 131
+Meat: 430,934
+
+Full: 0 / 25
+Drunk: 0 / 4
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: mesh cap
+Weapon: pygmy spear
+Off-hand: catskin buckler
+Shirt: (none)
+Pants: cane-mail pants
+Container: wings of fire
+
+Acc. 1: Mr. Accessory
+Acc. 2: fancy black tie
+Acc. 3: Lord Spookyraven's spectacles
+
+Pet: Ghuol Whelp (30 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Stomach of Steel
+
+Zombie Master
+ - Bilious Burst
+ - Bite Minion
+ - Devour Minions
+ - Distracting Minion
+ - Elemental Obliviousness
+ - Flesh Mob
+ - Hunter's Sprint
+ - Indefatigable
+ - Infectious Bite
+ - Insatiable Hunger
+ - Lure Minions
+ - Meat Shields
+ - Plague Claws
+ - Recruit Zombie
+ - Scavenge
+ - Smash & Graaagh
+ - Summon Horde
+ - Summon Minion
+ - Undying Greed
+ - Unyielding Flesh
+ - Vigor Mortis
+ - Virulence
+ - Zombie Chow
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Phorcefullness (5)
+Mental A-cue-ity (10)
+Billiards Belligerence (10)
+Hustlin' (10)
+Brother Smothers's Blessing (20)
+Trivia Master (30)
+So Fresh and So Clean (50)
+♫ The Sonata of Sneakiness (271)
+Scarysauce (271)
+Ghostly Shell (271)
+♫ Aloysius' Antiphon of Aptitude (271)
+♫ Psalm of Pointiness (271)
+Tenacity of the Snapper (271)
+Jingle Jangle Jingle (271)
+Elemental Saucesphere (271)
+Astral Shell (271)
+Reptilian Fortitude (271)
+Jabañero Saucesphere (271)
+Jalapeño Saucesphere (271)
+Empathy (271)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: +150.00%
+
+Exp: +1.00
+Meat: +30.00%
+Item: +20.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+Jumping into the Awesome Ball Pit in the clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+telescope look high
+You acquire an effect: Starry-Eyed (duration: 10 Adventures)
+
+Visiting Relaxing Hot Tub in clan VIP lounge
+You gain 536 hit points
+
+Harvesting your garden
+You acquire peppermint sprout (3)
+
+[1625] Pirate Cove
+Encounter: shifty pirate
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: shifty pirate takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: shifty pirate takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: shifty pirate drops 5 attack power.
+Round 4: shifty pirate drops 7 defense.
+Round 4: shifty pirate takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: shifty pirate takes 929 damage.
+Round 5: shifty pirate takes 33 damage.
+Round 5: boolicious wins the fight!
+You gain 57 Meat
+You acquire an item: sunken chest
+You acquire an item: flaregun
+You acquire an item: decent brain
+You gain 8 Strengthliness
+You gain 6 Magicalness
+You gain 8 Roguishness
+
+manageprices.php?action=update&price0[1745]=17300&limit0[1745]=0&price0[1141]=7700&limit0[1141]=5&price0[5240]=7300&limit0[5240]=3&price0[5242]=7000&limit0[5242]=0&price0[3301]=7000&limit0[3301]=0&price0[5247]=6200&limit0[5247]=0&price0[5101]=5600&limit0[5101]=0&price0[5110]=4200&limit0[5110]=0&price0[375]=3745&limit0[375]=0&price0[196]=1550&limit0[196]=0&price0[304]=965&limit0[304]=0&price0[5678]=500&limit0[5678]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[1450]=375&limit0[1450]=0&price0[2680]=300&limit0[2680]=0&price0[1798]=300&limit0[1798]=0&price0[617]=274&limit0[617]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[542]=260&limit0[542]=3&price0[538]=260&limit0[538]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[614]=256&limit0[614]=0&price0[3858]=250&limit0[3858]=0&price0[125]=250&limit0[125]=0&price0[541]=240&limit0[541]=3&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[1840]=200&limit0[1840]=0&price0[1803]=200&limit0[1803]=0&price0[1851]=195&limit0[1851]=0&price0[834]=190&limit0[834]=0&price0[472]=190&limit0[472]=0&price0[776]=190&limit0[776]=1&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[836]=156&limit0[836]=0&price0[218]=155&limit0[218]=0&price0[3597]=150&limit0[3597]=0&price0[299]=150&limit0[299]=1&price0[2613]=150&limit0[2613]=0&price0[475]=130&limit0[475]=0&price0[1655]=120&limit0[1655]=0&price0[1812]=110&limit0[1812]=0&price0[1879]=110&limit0[1879]=0&price0[5469]=100&limit0[5469]=0&price0[1]=100&limit0[1]=0
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 6 bits of sticky stardust
+
+[1626] Hole in the Sky
+Encounter: The Trouser Snake
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: the trouser snake takes 11 damage.
+Round 2: the trouser snake takes 4 damage.
+Round 2: the trouser snake takes 3 damage.
+Round 2: the trouser snake takes 10 damage.
+Round 2: the trouser snake takes 5 damage.
+You lose 1 hit point
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: the trouser snake takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: the trouser snake drops 8 attack power.
+Round 4: the trouser snake drops 6 defense.
+Round 4: the trouser snake takes 22 damage.
+Round 4: the trouser snake takes 5 damage.
+Round 4: the trouser snake takes 3 damage.
+Round 4: the trouser snake takes 14 damage.
+Round 4: the trouser snake takes 3 damage.
+You lose 1 hit point
+Round 4: boolicious attacks!
+Round 5: the trouser snake takes 815 damage.
+Round 5: the trouser snake takes 33 damage.
+Round 5: boolicious wins the fight!
+You acquire an item: line
+You acquire an item: line
+You gain 17 Strongness
+You gain 11 Magicalness
+You gain 16 Roguishness
+
+[1627] Hole in the Sky
+Encounter: The Junk
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: the junk takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: the junk takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: the junk drops 6 attack power.
+Round 4: the junk drops 10 defense.
+Round 4: the junk takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: the junk takes 755 damage.
+Round 5: the junk takes 22 damage.
+Round 5: boolicious wins the fight!
+You acquire an item: line
+You gain 24 Muscleboundness
+You gain 8 Wizardliness
+You gain 13 Chutzpah
+
+[1628] Hole in the Sky
+Encounter: The Pork Sword
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: the pork sword takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: the pork sword takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: the pork sword drops 10 attack power.
+Round 4: the pork sword drops 9 defense.
+Round 4: the pork sword takes 22 damage.
+Round 4: the pork sword takes 5 damage.
+Round 4: the pork sword takes 3 damage.
+Round 4: the pork sword takes 18 damage.
+Round 4: the pork sword takes 3 damage.
+You lose 1 hit point
+Round 4: boolicious attacks!
+Round 5: the pork sword takes 763 damage.
+Round 5: the pork sword takes 22 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 20 hit points
+You acquire an item: star
+You gain 24 Fortitude
+You gain 13 Magicalness
+You gain 9 Smarm
+
+[1629] Hole in the Sky
+Encounter: The Hooded Warrior
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: the hooded warrior takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: the hooded warrior takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: the hooded warrior drops 10 attack power.
+Round 4: the hooded warrior drops 7 defense.
+Round 4: the hooded warrior takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: the hooded warrior takes 733 damage.
+Round 5: the hooded warrior takes 22 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 20 hit points
+You acquire an item: star
+You acquire an item: star
+You acquire an item: line
+You gain 23 Strengthliness
+You gain 10 Magicalness
+You gain 14 Chutzpah
+You gain a Moxie point!
+
+[1630] Hole in the Sky
+Encounter: The Family Jewels
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts INFECTIOUS BITE! (auto-attack)
+Round 2: the family jewels takes 11 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts INFECTIOUS BITE!
+Round 3: the family jewels takes 11 damage.
+Round 3: boolicious casts PLAGUE CLAWS!
+Round 4: the family jewels drops 9 attack power.
+Round 4: the family jewels drops 7 defense.
+Round 4: the family jewels takes 22 damage.
+Round 4: boolicious attacks!
+Round 5: the family jewels takes 587 damage.
+Round 5: the family jewels takes 22 damage.
+Round 5: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 29 hit points
+You gain 22 Muscleboundness
+You gain 15 Enchantedness
+You gain 8 Smarm
+
+Visiting Mayor Zapruder
+
+Visiting Innabox
+
+[1631] Yuletide Bonfire
+Encounter: The Tale of the Mysterious Event at Makeout Point
+You lose 30 hit points
+You acquire an item: roasted marshmallow
+
+[1632] Yuletide Bonfire
+Encounter: The Tale of the Mysterious Beekeeper
+You lose 30 hit points
+You acquire an item: roasted marshmallow
+
+[1633] Yuletide Bonfire
+Encounter: The Tale of the Mysterious Albino Ladies and Stuff
+You lose 29 hit points
+You acquire an item: roasted marshmallow
+
+[1634] Yuletide Bonfire
+Encounter: The Tale of the Mysterious Moping Prince
+You lose 32 hit points
+You acquire an item: roasted marshmallow
