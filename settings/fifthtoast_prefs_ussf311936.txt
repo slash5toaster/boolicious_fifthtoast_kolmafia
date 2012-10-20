@@ -4,8 +4,8 @@ ContactListFrame=2663,343
 CouncilFrame=424,322,-1
 DescriptionFrame=742,393,-1
 FamiliarTrainingFrame=2498,327
-KoLDesktop=2803,77,-1
-LoginFrame=2645,349,0
+KoLDesktop=286,9,-1
+LoginFrame=453,164,0
 MaximizerFrame=899,153
 ProfileFrame=2662,409,-1
 RequestFrame=655,318,-1
@@ -755,13 +755,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=8
+lastBreakfast=13
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=16
-lastCounterDay=8
+lastCounterDay=13
 lastDispensaryOpen=3
 lastDoorCodeReset=3
 lastDustyBottle2271=6
