@@ -2135,3 +2135,314 @@ The nuns take 1,342 Meat; 82,809 recovered, 17,191 left to recover.
 You gain 29 Strengthliness
 You gain 8 Wizardliness
 You gain 13 Chutzpah
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+October 22, 2012 - Dougtember 8
+
+Ronald: waning crescent
+Grimace: waning crescent
+Mini-moon: far right
+
+Holatuwol's Birthday: today
+Festival of Jarlsberg: tomorrow
+Halloween: 9 days
+Valentine's Day: 12 days
+St. Sneaky Pete's Day: 19 days
+Oyster Egg Day: 26 days
+Feast of Boris: 31 days
+El Dia De Los Muertos Borrachos: 34 days
+Generic Summer Holiday: 43 days
+Dependence Day: 52 days
+Arrrbor Day: 60 days
+Lab&oacute;r Day: 70 days
+Yuletide: 92 days
+
+Holatuwol's Birthday
+Moxie bonus today and tomorrow.
+
+
+ > status
+
+Name: boolicious
+Class: Zombie Master
+
+Lv: 13
+HP: 517 / 517
+MP: 1124 / 1,124
+
+Mus: 295 (154), tnp = 166
+Mys: 151 (136), tnp = 61
+Mox: 175 (128), tnp = 83
+
+Advs: 25
+Meat: 530,397
+
+Full: 1 / 25
+Drunk: 0 / 4
+Spleen: 1 / 15
+
+
+ > equipment
+
+Hat: reinforced beaded headband
+Weapon: brand new key
+Off-hand: catskin buckler
+Shirt: (none)
+Pants: bullet-proof corduroys
+Container: wings of fire
+
+Acc. 1: Mr. Accessory
+Acc. 2: fancy black tie
+Acc. 3: round purple sunglasses
+
+Pet: Ghuol Whelp (35 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Stomach of Steel
+
+Zombie Master
+ - Bilious Burst
+ - Bite Minion
+ - Corpse Pile
+ - Devour Minions
+ - Distracting Minion
+ - Elemental Obliviousness
+ - Flesh Mob
+ - His Master's Voice
+ - Howl of the Alpha
+ - Hunter's Sprint
+ - Indefatigable
+ - Infectious Bite
+ - Insatiable Hunger
+ - Lure Minions
+ - Meat Shields
+ - Neurogourmet
+ - Plague Claws
+ - Recruit Zombie
+ - Scavenge
+ - Skullcracker
+ - Smash & Graaagh
+ - Summon Horde
+ - Summon Minion
+ - Undying Greed
+ - Unyielding Flesh
+ - Vigor Mortis
+ - Virulence
+ - Zombie Chow
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Chow Downed (4)
+Scavengers Scavenging (4)
+Izchak's Blessing (20)
+Strength of Ten Ettins (30)
+Object Detection (40)
+♫ The Sonata of Sneakiness (43)
+♫ Brawnee's Anthem of Absorption (43)
+Scarysauce (418)
+Ghostly Shell (418)
+♫ Aloysius' Antiphon of Aptitude (418)
+Tenacity of the Snapper (418)
+Jingle Jangle Jingle (418)
+Elemental Saucesphere (418)
+Astral Shell (418)
+Reptilian Fortitude (418)
+Jabañero Saucesphere (418)
+Jalapeño Saucesphere (418)
+Empathy (418)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: +100.00%
+
+Exp: +1.00
+Meat: +30.00%
+Item: +35.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 1 Zombie Chow
+You acquire an effect: Chow Downed (duration: 10 Adventures)
+
+cast 1 Scavenge
+You acquire an effect: Scavengers Scavenging (duration: 10 Adventures)
+
+cast 1 Scavenge
+You acquire an effect: Scavengers Scavenging (duration: 10 Adventures)
+
+buy 1 philter of phorce for 410 each from 2015495 on 20121022
+You acquire an item: philter of phorce
+
+use 1 philter of phorce
+You acquire an effect: Phorcefullness (duration: 5 Adventures)
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #41/1200:
+Question: What did Cletus Belvedere's niece find in the basement on Frankruary second, 1996?
+Answer: The invisible worst telephone.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #384/1200:
+Question: When did the Magnoliahawk Babbling Sheep win the national hockey championship?
+Answer: Carlvember 1, 1964.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #793/1200:
+Question: Who invented the positronic digital lunch-cleaner?
+Answer: A mongoose named Judas.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1040/1200:
+Question: Where was the Earl of Waltermatthau poisoned for the crime of skateboarding?
+Answer: On the last train to Delawhat.
+
+use 1 Mick's IcyVapoHotness Rub
+You acquire an effect: Extreme Muscle Relaxation (duration: 10 Adventures)
+
+use 1 stench wad
+You gain 1 Adventure
+You gain 20 Strongness
+You gain 33 Mysteriousness
+You gain 12 Roguishness
+You acquire an effect: Stenchtastic (duration: 10 Adventures)
+
+buy 1 CSA bravery badge for 100 each from 1584839 on 20121022
+You acquire an item: CSA bravery badge
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+[2233] Themthar Hills
+Encounter: dirty thieving brigand
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts INFECTIOUS BITE!
+Round 2: dirty thieving brigand takes 13 damage.
+Round 2: boolicious casts PLAGUE CLAWS!
+Round 3: dirty thieving brigand drops 8 attack power.
+Round 3: dirty thieving brigand drops 6 defense.
+Round 3: dirty thieving brigand takes 26 damage.
+Round 3: boolicious attacks!
+Round 4: dirty thieving brigand takes 697 damage.
+Round 4: dirty thieving brigand takes 39 damage.
+Round 4: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 40 hit points
+The nuns take 1,170 Meat; 83,979 recovered, 16,021 left to recover.
+You acquire an item: good brain
+You gain 23 Beefiness
+You gain 14 Mysteriousness
+You gain 13 Chutzpah
+
+[2234] Themthar Hills
+Encounter: dirty thieving brigand
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts INFECTIOUS BITE!
+Round 2: dirty thieving brigand takes 13 damage.
+Round 2: boolicious casts PLAGUE CLAWS!
+Round 3: dirty thieving brigand drops 5 attack power.
+Round 3: dirty thieving brigand drops 8 defense.
+Round 3: dirty thieving brigand takes 26 damage.
+Round 3: boolicious attacks!
+Round 4: dirty thieving brigand takes 665 damage.
+Round 4: dirty thieving brigand takes 26 damage.
+Round 4: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 22 hit points
+The nuns take 1,448 Meat; 85,427 recovered, 14,573 left to recover.
+You acquire an item: good brain
+You gain 19 Muscleboundness
+You gain 19 Wizardliness
+You gain a Mysticality point!
+You gain 13 Smarm
+
+[2235] Themthar Hills
+Encounter: dirty thieving brigand
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts INFECTIOUS BITE!
+Round 2: dirty thieving brigand takes 13 damage.
+Round 2: boolicious casts PLAGUE CLAWS!
+Round 3: dirty thieving brigand drops 5 attack power.
+Round 3: dirty thieving brigand drops 7 defense.
+Round 3: dirty thieving brigand takes 26 damage.
+Round 3: boolicious attacks!
+Round 4: dirty thieving brigand takes 668 damage.
+Round 4: dirty thieving brigand takes 26 damage.
+Round 4: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 33 hit points
+The nuns take 1,115 Meat; 86,542 recovered, 13,458 left to recover.
+You acquire an item: good brain
+You gain 22 Muscleboundness
+You gain 13 Wizardliness
+You gain 15 Smarm
+
+[2236] Themthar Hills
+Encounter: dirty thieving brigand
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts INFECTIOUS BITE!
+Round 2: dirty thieving brigand takes 13 damage.
+Round 2: boolicious casts PLAGUE CLAWS!
+Round 3: dirty thieving brigand drops 8 attack power.
+Round 3: dirty thieving brigand drops 7 defense.
+Round 3: dirty thieving brigand takes 26 damage.
+Round 3: boolicious attacks!
+Round 4: dirty thieving brigand takes 664 damage.
+Round 4: dirty thieving brigand takes 26 damage.
+Round 4: boolicious wins the fight!
+After Battle: Munch feasts on the corpse, then touches you gently on the cheek.
+You gain 27 hit points
+The nuns take 1,400 Meat; 87,942 recovered, 12,058 left to recover.
+You acquire an item: good brain
+You gain 19 Beefiness
+You gain 10 Magicalness
+You gain 22 Sarcasm
+
+bigisland.php?place=nunnery
+bigisland.php?place=farm
+bigisland.php?place=farm&action=farmer&pwd
+
+trading 1 beer helmet for 1 dime
+You acquire 1 dime
+
+trading 1 bejeweled pledge pin for 1 dime
+You acquire 1 dime
+
+trading 1 distressed denim pants for 1 dime
+You acquire 1 dime
+
+trading 1 distressed denim pants for 1 dime
+You acquire 1 dime
+
+trading 1 bottle opener belt buckle for 1 dime
+You acquire 1 dime
+
+trading 1 perforated battle paddle for 1 dime
+You acquire 1 dime
