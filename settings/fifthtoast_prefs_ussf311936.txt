@@ -1,4 +1,4 @@
-AdventureFrame=2150,61,0
+AdventureFrame=1027,155,0
 CoinmastersFrame=593,88,-1
 ContactListFrame=2663,343
 CouncilFrame=424,322,-1
@@ -23,7 +23,7 @@ _bagOfCandy=false
 _bagOfCandyUsed=false
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=true
+_ballpit=false
 _banderRunaways=0
 _bearHugs=0
 _beerLensDrops=0
@@ -655,7 +655,7 @@ cocktailSummons=0
 concertVisited=true
 counterScript
 crimboTreeDays=7
-currentBountyItem=2473
+currentBountyItem=0
 currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
@@ -664,7 +664,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=24703
 currentPvpVictories
-currentSpleenUse=1
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=50
@@ -716,7 +716,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=4
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=13
@@ -740,7 +740,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Hobopolis Town Square
+lastAdventure=Hole in the Sky
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=ettin strength
@@ -755,13 +755,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=15
+lastBreakfast=0
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=16
-lastCounterDay=15
+lastCounterDay=0
 lastDispensaryOpen=3
 lastDoorCodeReset=3
 lastDustyBottle2271=6
@@ -802,7 +802,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=3
 lastEmptiedStorage=3
-lastEncounter=Ed Harrison, the Future of Hoboing
+lastEncounter=The Astronomer
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -915,7 +915,7 @@ outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=5
 pastamancerGhostName=Ben
-pastamancerGhostSummons=1
+pastamancerGhostSummons=0
 pastamancerGhostType=Vermincelli
 pastamancerOrbedExperience=0
 pastamancerOrbedName

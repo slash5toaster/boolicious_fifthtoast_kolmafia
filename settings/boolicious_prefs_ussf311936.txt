@@ -29,7 +29,7 @@ RequestSynchFrame=1916,-4,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=1916,-4,3
-TabbedChatFrame=1920,0,0
+TabbedChatFrame=2630,434,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -686,7 +686,7 @@ concertVisited=false
 counterScript
 crimboTreeDays=3
 currentBountyItem=0
-currentFullness=20
+currentFullness=22
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
