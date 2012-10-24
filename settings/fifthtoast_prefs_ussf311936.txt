@@ -652,7 +652,7 @@ choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=true
+concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
@@ -740,7 +740,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Hole in the Sky
+lastAdventure=Orc Chasm
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=ettin strength
@@ -755,13 +755,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=0
+lastBreakfast=1
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=16
-lastCounterDay=0
+lastCounterDay=1
 lastDispensaryOpen=3
 lastDoorCodeReset=3
 lastDustyBottle2271=6
@@ -802,7 +802,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=3
 lastEmptiedStorage=3
-lastEncounter=The Astronomer
+lastEncounter=Spam Witch
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -993,7 +993,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=7141\:Semirare window begin loc\=*\:lparen.gif\:7181\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1002,8 +1002,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=5920
-semirareLocation=Ninja Snowmen
+semirareCounter=6981
+semirareLocation=Orc Chasm
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
