@@ -16,20 +16,20 @@ FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
 KoLDesktop=169,78,-1
-LoginFrame=0,0,0
+LoginFrame=1916,-4,0
 MailboxFrame=289,310,1
-MaximizerFrame=148,191
+MaximizerFrame=-4,-4
 MeatManageFrame=1921,395
 MushroomFrame=947,465,1
 OptionsFrame=2533,375,-1
 ProfileFrame=2662,393,-1
 RecentEventsFrame=474,284
 RequestFrame=0,20,-1
-RequestSynchFrame=1916,-4,-1
+RequestSynchFrame=1920,0,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
-StoreManageFrame=2023,128,0
-TabbedChatFrame=1906,243,0
+StoreManageFrame=1916,-4,3
+TabbedChatFrame=722,187,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -43,7 +43,7 @@ _bagOfCandy=false
 _bagOfCandyUsed=true
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=false
+_ballpit=true
 _banderRunaways=0
 _bearHugs=0
 _beerLensDrops=0
@@ -685,8 +685,8 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=1
-currentBountyItem=2106
-currentFullness=12
+currentBountyItem=0
+currentFullness=20
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -750,7 +750,7 @@ fratboysDefeated=33
 friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=10
-gourdItemCount=26
+gourdItemCount=6
 grimoire1Summons=0
 grimoire2Summons=0
 grimoire3Summons=0
@@ -771,7 +771,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
-lastAdventure=The Clumsiness Grove
+lastAdventure=Post-Cyrpt Cemetary
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -834,7 +834,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=3
 lastEmptiedStorage=4
-lastEncounter=The Thorax
+lastEncounter=A Grave Situation
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -943,7 +943,7 @@ nunsVisits=0
 oceanAction=show
 oceanDestination=plinth
 olfactedMonster=wabbit
-oscusSodaUsed=false
+oscusSodaUsed=true
 outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=0
@@ -976,7 +976,7 @@ questF04Elves=unstarted
 questF05Clancy=unstarted
 questG01Meatcar=started
 questG02Whitecastle=unstarted
-questG03Ego=unstarted
+questG03Ego=started
 questG04Nemesis=unstarted
 questG05Dark=unstarted
 questG06Delivery=unstarted
@@ -1000,7 +1000,7 @@ questL11Worship=finished
 questL12War=finished
 questL13Final=finished
 questM01Untinker=finished
-questM02Artist=started
+questM02Artist=finished
 questM03Bugbear=unstarted
 questM04Galaktic=unstarted
 questM05Toot=unstarted
@@ -1026,7 +1026,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=2679\:Fortune Cookie\:fortune.gif
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1074,11 +1074,11 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=12000
-stationaryButton2=12011
-stationaryButton3=12012
-stationaryButton4=12023
-stationaryButton5=12013
+stationaryButton1
+stationaryButton2
+stationaryButton3
+stationaryButton4
+stationaryButton5
 styxPixieVisited=false
 sugarCounter4178=0
 sugarCounter4179=0
