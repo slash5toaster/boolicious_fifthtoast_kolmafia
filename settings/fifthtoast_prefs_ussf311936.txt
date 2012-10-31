@@ -9,8 +9,8 @@ LoginFrame=2645,349,0
 MaximizerFrame=899,153
 ProfileFrame=2662,409,-1
 RequestFrame=655,318,-1
-RequestSynchFrame=383,133,-1
-TabbedChatFrame=433,234,0
+RequestSynchFrame=-4,-4,-1
+TabbedChatFrame=81,234,0
 _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
@@ -228,7 +228,7 @@ ballpitBonus=100
 banishingShoutMonsters
 bankedKarma=0
 barrelGoal=1
-barrelLayout=?????????
+barrelLayout=SR???????
 bartenderTurnsUsed=10
 basementMallPrices=1
 battleAction=attack with weapon
@@ -256,7 +256,7 @@ bootsCharged=false
 borisPoints=0
 breakableHandling=1
 breakableHandling1964=2
-breakfastCompleted=false
+breakfastCompleted=true
 buffBotCasting
 buffBotMessageDisposal=0
 buffBotPhilanthropyType=1
@@ -740,7 +740,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Fantasy Airship
+lastAdventure=Fun House
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=ettin strength
@@ -753,15 +753,15 @@ lastBangPotion825=mental acuity
 lastBangPotion826=blessing
 lastBangPotion827=sleepiness
 lastBangPotionReset=3
-lastBarrelSmashed=0
+lastBarrelSmashed=4
 lastBattlefieldReset=3
-lastBreakfast=6
+lastBreakfast=8
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=16
-lastCounterDay=6
+lastCounterDay=8
 lastDispensaryOpen=3
 lastDoorCodeReset=3
 lastDustyBottle2271=6
@@ -771,9 +771,9 @@ lastDustyBottle2274=4
 lastDustyBottle2275=5
 lastDustyBottle2276=1
 lastDustyBottleReset=3
-lastDwarfDiceRolls
-lastDwarfDigitRunes=-------
-lastDwarfEquipmentRunes
+lastDwarfDiceRolls=CH-HB\=16\:FH-HJ\=34\:BJ-HJ\=10\:FF-BB\=33\:BH-EC\=15\:BB-BE\=02\:DB-HF\=44\:
+lastDwarfDigitRunes=EHBCJFD
+lastDwarfEquipmentRunes=CGK
 lastDwarfFactoryItem118
 lastDwarfFactoryItem119
 lastDwarfFactoryItem120
@@ -786,23 +786,23 @@ lastDwarfFactoryItem364
 lastDwarfFactoryItem365
 lastDwarfFactoryItem910
 lastDwarfFactoryReset=3
-lastDwarfHopper1
+lastDwarfHopper1=D
 lastDwarfHopper2
 lastDwarfHopper3
 lastDwarfHopper4
-lastDwarfOfficeItem3208
+lastDwarfOfficeItem3208=R,CBB,GFE,KHBJ
 lastDwarfOfficeItem3209
 lastDwarfOfficeItem3210
 lastDwarfOfficeItem3211
 lastDwarfOfficeItem3212
 lastDwarfOfficeItem3213
 lastDwarfOfficeItem3214
-lastDwarfOreRunes
+lastDwarfOreRunes=DR
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=3
 lastEmptiedStorage=3
-lastEncounter=MagiMechTech MechaMech
+lastEncounter=The Clownlord Beelzebozo
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
@@ -817,7 +817,7 @@ lastKingLiberation=3
 lastLouvreMap=3
 lastManorUnlock=3
 lastMessageId
-lastMiningReset=-1
+lastMiningReset=3
 lastNemesisReset=3
 lastPaperStrip3144=rough\:BLAG\:careful
 lastPaperStrip4138=curved\:GUG\:dangly
@@ -872,7 +872,7 @@ lastTelescopeReset=-1
 lastTempleAdventures=-1
 lastTempleButtonsUnlock=-1
 lastTempleUnlock=3
-lastTowerClimb=-1
+lastTowerClimb=3
 lastTr4pz0rQuest=1
 lastVioletFogMap=3
 lastWuTangDefeated=-1
@@ -905,7 +905,7 @@ mpAutoRecovery=0.0
 mpAutoRecoveryItems=sleep on your clan sofa;visit the nuns;oscus's neverending soda;monstar energy beverage;carbonated soy milk;carbonated water lily;blue pixel potion;cotton candy bale;bottle of monsieur bubble;ancient magi-wipes;unrefined mountain stream syrup;phonics down;elven magi-pack;generic mana potion;tonic water;palm-frond fan;honey-dipped locust;marquis de poivre soda;green pixel potion;blue polka-dot oyster egg;blue striped oyster egg;knob goblin superseltzer;blatantly canadian;tiny house;cloaca-cola;cotton candy pinch;sugar shard;mountain stream soda;magical mystery juice;black cherry soda;knob goblin seltzer;cherry cloaca cola;soda water
 mpAutoRecoveryTarget=0.3
 munchiesPillsUsed=0
-noodleSummons=1
+noodleSummons=5
 nunsVisits=0
 oceanAction=savecontinue
 oceanDestination=plinth
@@ -913,9 +913,9 @@ olfactedMonster=wabbit
 oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
-pastamancerGhostExperience=6
+pastamancerGhostExperience=8
 pastamancerGhostName=Ben
-pastamancerGhostSummons=0
+pastamancerGhostSummons=2
 pastamancerGhostType=Vermincelli
 pastamancerOrbedExperience=0
 pastamancerOrbedName
@@ -993,7 +993,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=7141\:Semirare window begin loc\=*\:lparen.gif\:7181\:Semirare window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
