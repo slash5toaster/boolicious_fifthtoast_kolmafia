@@ -686,7 +686,7 @@ concertVisited=true
 counterScript
 crimboTreeDays=3
 currentBountyItem=0
-currentFullness=0
+currentFullness=1
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -976,9 +976,9 @@ questF04Elves=unstarted
 questF05Clancy=unstarted
 questG01Meatcar=finished
 questG02Whitecastle=started
-questG03Ego=started
+questG03Ego=finished
 questG04Nemesis=unstarted
-questG05Dark=unstarted
+questG05Dark=finished
 questG06Delivery=unstarted
 questI01Scapegoat=unstarted
 questI02Beat=unstarted
