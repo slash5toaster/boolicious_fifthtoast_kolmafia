@@ -4,7 +4,7 @@ CouncilFrame=424,322,-1
 DescriptionFrame=-4,0,-1
 FamiliarTrainingFrame=2498,327
 KoLDesktop=241,26,-1
-LoginFrame=425,149,0
+LoginFrame=419,149,0
 MaximizerFrame=-4,26
 MeatManageFrame=440,122
 MushroomFrame=352,192,1
@@ -742,7 +742,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=3
-lastAdventure=Hole in the Sky
+lastAdventure=Fernswarthy's Ruins
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -759,13 +759,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=6
+lastBreakfast=15
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=15
-lastCounterDay=6
+lastCounterDay=15
 lastDispensaryOpen=-1
 lastDoorCodeReset=-1
 lastDustyBottle2271=6
@@ -781,19 +781,19 @@ lastDwarfEquipmentRunes
 lastDwarfFactoryItem118
 lastDwarfFactoryItem119
 lastDwarfFactoryItem120
-lastDwarfFactoryItem3199
+lastDwarfFactoryItem3199=D
 lastDwarfFactoryItem360
 lastDwarfFactoryItem361
 lastDwarfFactoryItem362
-lastDwarfFactoryItem363
-lastDwarfFactoryItem364
-lastDwarfFactoryItem365
+lastDwarfFactoryItem363=R
+lastDwarfFactoryItem364=E
+lastDwarfFactoryItem365=H
 lastDwarfFactoryItem910
 lastDwarfFactoryReset=3
-lastDwarfHopper1
-lastDwarfHopper2
-lastDwarfHopper3
-lastDwarfHopper4
+lastDwarfHopper1=D
+lastDwarfHopper2=H
+lastDwarfHopper3=R
+lastDwarfHopper4=E
 lastDwarfOfficeItem3208
 lastDwarfOfficeItem3209
 lastDwarfOfficeItem3210
@@ -801,17 +801,17 @@ lastDwarfOfficeItem3211
 lastDwarfOfficeItem3212
 lastDwarfOfficeItem3213
 lastDwarfOfficeItem3214
-lastDwarfOreRunes
+lastDwarfOreRunes=DHRE
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=-1
 lastEmptiedStorage=3
-lastEncounter=The Astronomer
+lastEncounter=Weretaco
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
 lastGalleryUnlock=3
-lastGuildStoreOpen=0
+lastGuildStoreOpen=3
 lastGuyMadeOfBeesReset=3
 lastHermitReset=1
 lastHiddenCityAscension=3
@@ -876,7 +876,7 @@ lastTelescopeReset=-1
 lastTempleAdventures=-1
 lastTempleButtonsUnlock=3
 lastTempleUnlock=3
-lastTowerClimb=-1
+lastTowerClimb=3
 lastTr4pz0rQuest=-1
 lastVioletFogMap=3
 lastWuTangDefeated=-1
@@ -949,7 +949,7 @@ questG01Meatcar=finished
 questG02Whitecastle=finished
 questG03Ego=finished
 questG04Nemesis=unstarted
-questG05Dark=unstarted
+questG05Dark=started
 questG06Delivery=unstarted
 questI01Scapegoat=unstarted
 questI02Beat=unstarted
