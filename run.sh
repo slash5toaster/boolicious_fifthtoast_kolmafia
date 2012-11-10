@@ -23,9 +23,11 @@ case $HOST in
 esac
 
 pushd ~/.kolmafia/
-svn cleanup
-svn up  --password 1aK8U30UMO
-svn commit -m $(date +%F-%H%M)  --password 1aK8U30UMO
+#svn cleanup
+#svn up  --password 1aK8U30UMO
+#svn commit -m $(date +%F-%H%M)  --password 1aK8U30UMO
+git pull
+git commit -m  $(date +%F-%H%M)
 $JAVABIN -jar ~/.kolmafia/KoLmafia-latest.jar 
 
 pushd sessions
