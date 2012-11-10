@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HOST=$(hostname -s)
+HOST=$(hostname | cut -d'.' -f1 | tr '[:upper:]' '[:lower:]')
 case $HOST in
   #"lua" )
        #echo $HOST
@@ -23,6 +23,7 @@ case $HOST in
 esac
 
 pushd ~/.kolmafia/
+svn cleanup
 svn up  --password 1aK8U30UMO
 svn commit -m $(date +%F-%H%M)  --password 1aK8U30UMO
 $JAVABIN -jar ~/.kolmafia/KoLmafia-latest.jar 
