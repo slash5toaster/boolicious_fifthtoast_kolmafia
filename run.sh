@@ -1,6 +1,8 @@
 #!/bin/bash
 
 HOST=$(hostname | cut -d'.' -f1 | tr '[:upper:]' '[:lower:]')
+GITREMOTE=github
+
 case $HOST in
   #"lua" )
        #echo $HOST
@@ -26,21 +28,23 @@ pushd ~/.kolmafia/
 #svn cleanup
 #svn up  --password 1aK8U30UMO
 #svn commit -m $(date +%F-%H%M)  --password 1aK8U30UMO
-git pull
-git commit -m  $(date +%F-%H%M)
+git fetch $GITREMOTE
+git commit -a -m  $(date +%F-%H%M)
 $JAVABIN -jar ~/.kolmafia/KoLmafia-latest.jar 
 
 pushd sessions
-svn add *$(date -u +%Y%m%d)*
-svn add *$(date +%Y%m%d)*
+git add *$(date -u +%Y%m%d)*
+git add *$(date +%Y%m%d)*
 popd
 
 # add sessions
 pushd chats
-svn add *$(date -u +%Y%m%d)*
-svn add *$(date +%Y%m%d)*
+git add *$(date -u +%Y%m%d)*
+git add *$(date +%Y%m%d)*
 popd
 
-svn up --password 1aK8U30UMO 
-svn commit -m $(date +%F-%H%M) --password 1aK8U30UMO
+#svn up --password 1aK8U30UMO 
+#svn commit -m $(date +%F-%H%M) --password 1aK8U30UMO
+git commit -a -m  $(date +%F-%H%M)
+git push $GITREMOTE
 popd
