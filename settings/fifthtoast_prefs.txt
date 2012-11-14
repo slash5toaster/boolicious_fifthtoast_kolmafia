@@ -6,11 +6,11 @@ DescriptionFrame=742,393,-1
 FamiliarTrainingFrame=2498,327
 KoLDesktop=-8,-8,-1
 LoginFrame=465,133,0
-MaximizerFrame=-8,-8
+MaximizerFrame=354,135
 ProfileFrame=2662,409,-1
 RequestFrame=655,318,-1
 RequestSynchFrame=-4,-4,-1
-TabbedChatFrame=81,234,2
+TabbedChatFrame=81,234,0
 _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
@@ -102,6 +102,7 @@ _madTeaParty=false
 _mayflowerDrops=0
 _mayflySummons=0
 _mediumSiphons=0
+_nanorhinoBanishedMonster
 _navelRunaways=0
 _olympicSwimmingPool=false
 _olympicSwimmingPoolItemFound=false
@@ -654,7 +655,7 @@ choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=true
+concertVisited=false
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
@@ -666,7 +667,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=24703
 currentPvpVictories
-currentSpleenUse=2
+currentSpleenUse=0
 currentWheelPosition=map quest
 customCombatScript=default
 cyrptAlcoveEvilness=50
@@ -690,7 +691,7 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8
 demonName9
-demonSummoned=true
+demonSummoned=false
 desktopHeight=600
 desktopWidth=800
 distentionPillActive=false
@@ -718,7 +719,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=4
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=0
 gourdItemCount=13
@@ -757,13 +758,13 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
-lastBreakfast=5
+lastBreakfast=6
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=16
-lastCounterDay=5
+lastCounterDay=6
 lastDispensaryOpen=3
 lastDoorCodeReset=3
 lastDustyBottle2271=6
@@ -804,12 +805,12 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=3
 lastEmptiedStorage=3
-lastEncounter=Amorous Charlie Lennon
+lastEncounter=Clayton &quot;Railroad Tracks&quot; Cartwright
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
 lastGalleryUnlock=0
-lastGuildStoreOpen=0
+lastGuildStoreOpen=3
 lastGuyMadeOfBeesReset=3
 lastHermitReset=1
 lastHiddenCityAscension=1
@@ -918,7 +919,7 @@ outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=9
 pastamancerGhostName=Ben
-pastamancerGhostSummons=2
+pastamancerGhostSummons=0
 pastamancerGhostType=Vermincelli
 pastamancerOrbedExperience=0
 pastamancerOrbedName
