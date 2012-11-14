@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> d94522364f5cb72bf0785cdcf005f719cdb8ccd0
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
                Player Snapshot
@@ -3216,6 +3219,7 @@ Item: +33.00%
 cast 2 Summon Resolutions
 You acquire an item: resolution: be stronger
 You acquire an item: resolution: be wealthier
+<<<<<<< HEAD
 =======
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -6435,3 +6439,5 @@ cast 2 Summon Resolutions
 You acquire an item: resolution: be stronger
 You acquire an item: resolution: be wealthier
 >>>>>>> 26439e40819054dbed26484fa02161753b0b9f04
+=======
+>>>>>>> d94522364f5cb72bf0785cdcf005f719cdb8ccd0

@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> d94522364f5cb72bf0785cdcf005f719cdb8ccd0
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
                Player Snapshot
@@ -600,6 +603,7 @@ You acquire dark potion of blessing (2)
 You acquire murky potion of sleepiness (4)
 
 send a kmail to boolicious: 90 swirly potion of inebriety
+<<<<<<< HEAD
 =======
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -1203,3 +1207,5 @@ You acquire murky potion of sleepiness (4)
 
 send a kmail to boolicious: 90 swirly potion of inebriety
 >>>>>>> 26439e40819054dbed26484fa02161753b0b9f04
+=======
+>>>>>>> d94522364f5cb72bf0785cdcf005f719cdb8ccd0
