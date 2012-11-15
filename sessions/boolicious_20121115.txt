@@ -568,3 +568,152 @@ After Battle: "You may rest assured that even with the considerable shrinking ef
 You gain 20 Fortitude
 You gain 22 Wizardliness
 You gain 45 Roguishness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+November 15, 2012 - Starch 8
+
+Ronald: waning crescent
+Grimace: waxing gibbous
+Mini-moon: behind Ronald
+
+Oyster Egg Day: 2 days
+Feast of Boris: 7 days
+El Dia De Los Muertos Borrachos: 10 days
+Generic Summer Holiday: 19 days
+Dependence Day: 28 days
+Arrrbor Day: 36 days
+Lab&oacute;r Day: 46 days
+Festival of Jarlsberg: 48 days
+Halloween: 56 days
+Yuletide: 68 days
+Valentine's Day: 84 days
+St. Sneaky Pete's Day: 91 days
+
+
+Muscle bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Accordion Thief
+
+Lv: 15
+HP: 379 / 379
+MP: 312 / 312
+
+Mus: 346 (173), tnp = 66
+Mys: 312 (189), tnp = 176
+Mox: 408 (218), tnp = 66
+
+Advs: 116
+Meat: 164,600
+
+Full: 0 / 20
+Drunk: 0 / 14
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Hodgman's porkpie hat
+Weapon: The Trickster's Trikitixa
+Off-hand: (none)
+Shirt: spangly mariachi vest
+Pants: Hodgman's lobsterskin pants
+Container: wings of fire
+
+Acc. 1: Chester's sunglasses
+Acc. 2: Pok&euml;mann figurine: Moog
+Acc. 3: La Hebilla del Cintur&oacute;n de Lopez
+
+Pet: Fancypants Scarecrow (17 lbs)
+Item: double-ice britches
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Stomach of Steel
+
+Seal Clubber
+ - Rage of the Reindeer
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Accordion Thief
+ - Aloysius' Antiphon of Aptitude
+ - Brawnee's Anthem of Absorption
+ - Carlweather's Cantata of Confrontation
+ - Cletus's Canticle of Celerity
+ - Fat Leon's Phat Loot Lyric
+ - Jackasses' Symphony of Destruction
+ - Moxie of the Mariachi
+ - Sing
+ - Stevedave's Shanty of Superiority
+ - The Magical Mojomuscular Melody
+ - The Moxious Madrigal
+ - The Ode to Booze
+ - The Polka of Plenty
+ - The Power Ballad of the Arrowsmith
+ - The Psalm of Pointiness
+ - The Sonata of Sneakiness
+
+Conditional
+ - Moxious Maneuver
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 4 AT buffs active.
+It Didn't Kill You (3)
+Aided and Abetted (17)
+Strange Mental Acuity (18)
+Rage of the Reindeer (25)
+♫ Aloysius' Antiphon of Aptitude (165)
+♫ Psalm of Pointiness (165)
+♫ The Sonata of Sneakiness (167)
+Scarysauce (167)
+Ghostly Shell (167)
+Tenacity of the Snapper (167)
+Jingle Jangle Jingle (167)
+Elemental Saucesphere (167)
+Astral Shell (167)
+Reptilian Fortitude (167)
+Jabañero Saucesphere (167)
+Jalapeño Saucesphere (167)
+Empathy (167)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: -25.00%
+
+Exp: +4.57
+Meat: +201.92%
+Item: +16.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 2 Summon Resolutions
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be sexier
