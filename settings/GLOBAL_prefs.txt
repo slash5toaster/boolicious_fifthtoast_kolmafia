@@ -1,7 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
 >>>>>>>=26439e40819054dbed26484fa02161753b0b9f04
+=======
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=d94522364f5cb72bf0785cdcf005f719cdb8ccd0
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 addChatCommandLine=false
 addCreationQueue=true
 addStatusBarToFrames=false
@@ -91,9 +97,15 @@ initialDesktop=CommandDisplayFrame,ItemManageFrame,GearChangeFrame,MallSearchFra
 initialFrames=ChatManager
 innerChatColor=\#ffa98c
 innerTabColor=\#8ca9ff
+<<<<<<< HEAD
 itemManagerIndex=0
 lastBuffRequestType=0
 lastRelayUpdate=KoLmafia v15.7 r11619
+=======
+itemManagerIndex=6
+lastBuffRequestType=0
+lastRelayUpdate=KoLmafia v15.7 r11623
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 lastRssUpdate=0
 lastRssVersion=KoLmafia v15.7
 lastUserAgent=Mozilla/5.0 (X11; Linux i686 on x86_64; rv\:16.0) Gecko/20100101 Firefox/16.0
@@ -334,7 +346,11 @@ pathedSummonsHardcore=true
 pathedSummonsSoftcore=true
 preferredWebBrowser=firefox
 previousNotifyList=<>
+<<<<<<< HEAD
 previousUpdateRevision=11619
+=======
+previousUpdateRevision=11623
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 previousUpdateVersion=KoLmafia v15.7
 protectAgainstOverdrink=true
 proxySet=false

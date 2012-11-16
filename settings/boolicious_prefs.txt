@@ -1,8 +1,13 @@
 <<<<<<< HEAD
 =1
 <<<<<<<=HEAD
+<<<<<<< HEAD
 >>>>>>>=26439e40819054dbed26484fa02161753b0b9f04
 AdventureFrame=433,47,0
+=======
+>>>>>>>=d94522364f5cb72bf0785cdcf005f719cdb8ccd0
+AdventureFrame=325,34,0
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
 CakeArenaFrame=742,435
@@ -22,17 +27,26 @@ KoLDesktop=234,26,-1
 LoginFrame=425,149,0
 MailboxFrame=289,310,1
 MaximizerFrame=354,135
+<<<<<<< HEAD
 MeatManageFrame=1921,395
+=======
+MeatManageFrame=450,127
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 MushroomFrame=947,465,1
 OptionsFrame=2533,375,-1
 ProfileFrame=2662,393,-1
 RecentEventsFrame=474,284
 RequestFrame=0,20,-1
-RequestSynchFrame=2575,318,-1
+RequestSynchFrame=5,31,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
+<<<<<<< HEAD
 StoreManageFrame=332,112,0
 TabbedChatFrame=433,219,0
+=======
+StoreManageFrame=-4,26,3
+TabbedChatFrame=397,48,0
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -121,10 +135,11 @@ _leafblowerML=1
 _legendaryBeat=false
 _lookingGlass=true
 _lunchBreak=false
-_madTeaParty=true
+_madTeaParty=false
 _mayflowerDrops=0
 _mayflySummons=0
 _mediumSiphons=0
+_nanorhinoBanishedMonster
 _navelRunaways=0
 _olympicSwimmingPool=false
 _olympicSwimmingPoolItemFound=true
@@ -285,7 +300,11 @@ birdformRoc=0
 birdformSleaze=0
 birdformSpooky=0
 birdformStench=0
+<<<<<<< HEAD
 blackPuddingsDefeated=20
+=======
+blackPuddingsDefeated=22
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 blankOutUsed=0
 bootsCharged=false
 borisPoints=0
@@ -689,7 +708,11 @@ clanAttacksEnabled=false
 cocktailSummons=0
 concertVisited=true
 counterScript
+<<<<<<< HEAD
 crimboTreeDays=4
+=======
+crimboTreeDays=1
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 currentBountyItem=0
 currentFullness=12
 currentHippyStore=hippy
@@ -700,7 +723,7 @@ currentMood=apathetic
 currentNunneryMeat=87942
 currentPvpVictories
 currentSpleenUse=0
-currentWheelPosition=map quest
+currentWheelPosition=mysticality
 customCombatScript=default
 cyrptAlcoveEvilness=0
 cyrptCrannyEvilness=0
@@ -763,9 +786,9 @@ guardTurtlesFreed=0
 guyMadeOfBeesCount=3
 guyMadeOfBeesDefeated=true
 hermitHax0red=false
-heroDonationBoris=21500
-heroDonationJarlsberg=30000
-heroDonationSneakyPete=60000
+heroDonationBoris=41500
+heroDonationJarlsberg=50000
+heroDonationSneakyPete=80000
 hiddenCityLayout=TLEDEDDFEEEDEENEEEEAWEDEE
 hiddenCitySquare=24
 hippiesDefeated=1000
@@ -792,13 +815,21 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
+<<<<<<< HEAD
 lastBreakfast=4
+=======
+lastBreakfast=7
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 lastCellarReset=4
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastCouncilVisit=14
+<<<<<<< HEAD
 lastCounterDay=4
+=======
+lastCounterDay=7
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 lastDispensaryOpen=3
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -839,7 +870,11 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=3
 lastEmptiedStorage=4
+<<<<<<< HEAD
 lastEncounter=The Mad Tea Party
+=======
+lastEncounter=Square Root Martin, the Duck Throttler
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -916,7 +951,11 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=4
 lastWuTangDefeated=1
 lastZapperWand=4
+<<<<<<< HEAD
 libramSummons=12
+=======
+libramSummons=16
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=6
@@ -949,7 +988,7 @@ nunsVisits=0
 oceanAction=show
 oceanDestination=plinth
 olfactedMonster=wabbit
-oscusSodaUsed=false
+oscusSodaUsed=true
 outrageousSombreroUsed=false
 parasolUsed=0
 pastamancerGhostExperience=0
@@ -960,6 +999,7 @@ pastamancerOrbedExperience=0
 pastamancerOrbedName
 pastamancerOrbedType
 pendingMapReflections=4
+<<<<<<< HEAD
 photocopyMonster=monster
 pieStuffing
 plantingDate
@@ -2121,6 +2161,8 @@ pastamancerOrbedExperience=0
 pastamancerOrbedName
 pastamancerOrbedType
 pendingMapReflections=3
+=======
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 photocopyMonster=monster
 pieStuffing
 plantingDate
@@ -2262,7 +2304,7 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=false
+telescopeLookedHigh=true
 telescopeUpgrades=1
 tempuraSummons=0
 textColors=crappy\:\#999999|good\:green|awesome\:blue|epic\:\#8a2be2|junk\:gray|memento\:olive|notavailable\:gray
