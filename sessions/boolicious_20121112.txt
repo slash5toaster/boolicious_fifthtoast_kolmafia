@@ -54,7 +54,11 @@ Mox: 1,174 (205), tnp = 17
 
 Advs: 187
 Meat: 836,793
+<<<<<<< HEAD
 >>>>>>> 2012-11-12
+=======
+>>>>>>> d94522364f5cb72bf0785cdcf005f719cdb8ccd0
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 
 Full: 0 / 20
 Drunk: 0 / 14
@@ -85,7 +89,11 @@ Container: wings of fire
 Acc. 1: Chester's sunglasses
 Acc. 2: Pok&euml;mann figurine: Moog
 Acc. 3: La Hebilla del Cintur&oacute;n de Lopez
+<<<<<<< HEAD
 >>>>>>> 2012-11-12
+=======
+>>>>>>> d94522364f5cb72bf0785cdcf005f719cdb8ccd0
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 
 Pet: Fancypants Scarecrow (17 lbs)
 Item: double-ice britches
@@ -182,7 +190,11 @@ Standard Issue Bravery (20)
 Trivia Master (30)
 Cat Class, Cat Style (30)
 Thaumodynamic (106)
+<<<<<<< HEAD
 >>>>>>> 2012-11-12
+=======
+>>>>>>> d94522364f5cb72bf0785cdcf005f719cdb8ccd0
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 
 
  > modifiers
@@ -203,7 +215,11 @@ Init: -25.00%
 Exp: +3.57
 Meat: +251.92%
 Item: +16.00%
+<<<<<<< HEAD
 >>>>>>> 2012-11-12
+=======
+>>>>>>> d94522364f5cb72bf0785cdcf005f719cdb8ccd0
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -232,7 +248,11 @@ Visiting Soda Machine in clan rumpus room
 Visiting Soda Machine in clan rumpus room
 Visiting Soda Machine in clan rumpus room
 Visiting Potted Meat Tree in clan rumpus room
+<<<<<<< HEAD
 >>>>>>> 2012-11-12
+=======
+>>>>>>> d94522364f5cb72bf0785cdcf005f719cdb8ccd0
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 
 Visiting Crimbo Tree in clan VIP lounge
 
@@ -250,7 +270,11 @@ You acquire an item: &quot;DRINK ME&quot; potion
 =======
 
 Visiting Looking Glass in clan VIP lounge
+<<<<<<< HEAD
 >>>>>>> 2012-11-12
+=======
+>>>>>>> d94522364f5cb72bf0785cdcf005f719cdb8ccd0
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 
 swimming pool screwaround
 
@@ -1354,4 +1378,8 @@ After Battle: "You may rest assured that even with the considerable shrinking ef
 You gain 24 Strengthliness
 You gain 34 Mysteriousness
 You gain 36 Cheek
+<<<<<<< HEAD
 >>>>>>> 2012-11-12
+=======
+>>>>>>> d94522364f5cb72bf0785cdcf005f719cdb8ccd0
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669

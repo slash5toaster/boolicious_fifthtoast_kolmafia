@@ -1,12 +1,22 @@
+<<<<<<< HEAD
 AdventureFrame=270,103,0
+=======
+AdventureFrame=270,103,1
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 CoinmastersFrame=593,88,-1
 ContactListFrame=2663,343
 CouncilFrame=424,322,-1
 DescriptionFrame=742,393,-1
 FamiliarTrainingFrame=2498,327
+<<<<<<< HEAD
 KoLDesktop=395,92,-1
 LoginFrame=582,261,0
 MaximizerFrame=739,129
+=======
+KoLDesktop=-4,26,-1
+LoginFrame=425,149,0
+MaximizerFrame=354,135
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 ProfileFrame=2662,409,-1
 RequestFrame=655,318,-1
 RequestSynchFrame=-4,-4,-1
@@ -102,6 +112,10 @@ _madTeaParty=false
 _mayflowerDrops=0
 _mayflySummons=0
 _mediumSiphons=0
+<<<<<<< HEAD
+=======
+_nanorhinoBanishedMonster
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 _navelRunaways=0
 _olympicSwimmingPool=false
 _olympicSwimmingPoolItemFound=false
@@ -634,11 +648,19 @@ choiceAdventure73=2
 choiceAdventure74=2
 choiceAdventure75=3
 choiceAdventure76=3
+<<<<<<< HEAD
 choiceAdventure77=2
 choiceAdventure78=1
 choiceAdventure79=1
 choiceAdventure8=3
 choiceAdventure80=99
+=======
+choiceAdventure77=1
+choiceAdventure78=3
+choiceAdventure79=3
+choiceAdventure8=3
+choiceAdventure80=3
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 choiceAdventure81=1
 choiceAdventure82=1
 choiceAdventure83=1
@@ -646,7 +668,11 @@ choiceAdventure84=2
 choiceAdventure85=1
 choiceAdventure86=2
 choiceAdventure87=2
+<<<<<<< HEAD
 choiceAdventure88=1
+=======
+choiceAdventure88=3
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 choiceAdventure89=3
 choiceAdventure9=1
 choiceAdventure90=2
@@ -742,7 +768,11 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=3
+<<<<<<< HEAD
 lastAdventure=Dungeons of Doom
+=======
+lastAdventure=Haunted Library
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBangPotion819=ettin strength
@@ -757,13 +787,21 @@ lastBangPotion827=sleepiness
 lastBangPotionReset=3
 lastBarrelSmashed=0
 lastBattlefieldReset=3
+<<<<<<< HEAD
 lastBreakfast=4
+=======
+lastBreakfast=7
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 lastCellarReset=3
 lastChanceBurn
 lastChanceThreshold=100
 lastChessboard
 lastCouncilVisit=16
+<<<<<<< HEAD
 lastCounterDay=4
+=======
+lastCounterDay=7
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 lastDispensaryOpen=3
 lastDoorCodeReset=3
 lastDustyBottle2271=6
@@ -804,12 +842,21 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=3
 lastEmptiedStorage=3
+<<<<<<< HEAD
 lastEncounter=large kobold
 lastFilthClearance=3
 lastFratboyCall=-1
 lastFriarCeremonyAscension=3
 lastGalleryUnlock=0
 lastGuildStoreOpen=0
+=======
+lastEncounter=writing desk
+lastFilthClearance=3
+lastFratboyCall=-1
+lastFriarCeremonyAscension=3
+lastGalleryUnlock=3
+lastGuildStoreOpen=3
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 lastGuyMadeOfBeesReset=3
 lastHermitReset=1
 lastHiddenCityAscension=1
@@ -882,7 +929,11 @@ lastWuTangDefeated=-1
 lastZapperWand=3
 libramSummons=0
 libraryCardUsed=false
+<<<<<<< HEAD
 louvreDesiredGoal=2
+=======
+louvreDesiredGoal=8
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 louvreGoal=2
 louvreLayout=98,0,0,0,0,0,0,0,0,98,0,0,0,0,0,0,0,0,95,104,103,0,0,0,0,0,0,0,0,0,0,0,0,5,95,2,0,5,0
 louvreOverride
@@ -916,7 +967,11 @@ olfactedMonster=wabbit
 oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=0
+<<<<<<< HEAD
 pastamancerGhostExperience=8
+=======
+pastamancerGhostExperience=9
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 pastamancerGhostName=Ben
 pastamancerGhostSummons=0
 pastamancerGhostType=Vermincelli
@@ -996,7 +1051,11 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
+<<<<<<< HEAD
 relayCounters
+=======
+relayCounters=7863\:Semirare window begin loc\=*\:lparen.gif\:7903\:Semirare window end loc\=*\:rparen.gif
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 relayShowSpoilers=false
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1005,8 +1064,13 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
+<<<<<<< HEAD
 semirareCounter=6981
 semirareLocation=Orc Chasm
+=======
+semirareCounter=7703
+semirareLocation=Outskirts of The Knob
+>>>>>>> 1b356a71a8eaa9b118ec6f317e3ab98d4aef3669
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
