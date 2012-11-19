@@ -189,3 +189,554 @@ You acquire an item: resolution: be feistier
 You acquire an item: resolution: be feistier
 You acquire an item: resolution: be wealthier
 You acquire an item: resolution: be wealthier
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+November 19, 2012 - April 4
+
+Ronald: waxing gibbous
+Grimace: waning gibbous
+Mini-moon: behind Grimace
+
+Feast of Boris: 3 days
+El Dia De Los Muertos Borrachos: 6 days
+Generic Summer Holiday: 15 days
+Dependence Day: 24 days
+Arrrbor Day: 32 days
+Lab&oacute;r Day: 42 days
+Festival of Jarlsberg: 44 days
+Halloween: 52 days
+Yuletide: 64 days
+Valentine's Day: 80 days
+St. Sneaky Pete's Day: 87 days
+Oyster Egg Day: 94 days
+
+
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: boolicious
+Class: Accordion Thief
+
+Lv: 15
+HP: 443 / 443
+MP: 57 / 355
+
+Mus: 262 (180), tnp = 138
+Mys: 255 (196), tnp = 354
+Mox: 353 (227), tnp = 106
+
+Advs: 78
+Meat: 597,889
+
+Full: 0 / 20
+Drunk: 0 / 14
+Spleen: 1 / 15
+
+
+ > equipment
+
+Hat: Hodgman's porkpie hat
+Weapon: Space Tourist Phaser
+Off-hand: stress ball
+Shirt: spangly mariachi vest
+Pants: oil slacks
+Container: wings of fire
+
+Acc. 1: blackberry combat boots
+Acc. 2: Pok&euml;mann figurine: Moog
+Acc. 3: La Hebilla del Cintur&oacute;n de Lopez
+
+Pet: Fancypants Scarecrow (25 lbs)
+Item: dress pants
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Stomach of Steel
+
+Seal Clubber
+ - Rage of the Reindeer
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Accordion Thief
+ - Aloysius' Antiphon of Aptitude
+ - Brawnee's Anthem of Absorption
+ - Carlweather's Cantata of Confrontation
+ - Cletus's Canticle of Celerity
+ - Fat Leon's Phat Loot Lyric
+ - Jackasses' Symphony of Destruction
+ - Moxie of the Mariachi
+ - Sing
+ - Stevedave's Shanty of Superiority
+ - The Magical Mojomuscular Melody
+ - The Moxious Madrigal
+ - The Ode to Booze
+ - The Polka of Plenty
+ - The Power Ballad of the Arrowsmith
+ - The Psalm of Pointiness
+ - The Sonata of Sneakiness
+
+Conditional
+ - Moxious Maneuver
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 4 AT buffs active.
+Rage of the Reindeer (77)
+Mariachi Mood (167)
+♫ The Sonata of Sneakiness (274)
+♫ Aloysius' Antiphon of Aptitude (312)
+♫ Stevedave's Shanty of Superiority (617)
+Scarysauce (649)
+Ghostly Shell (649)
+Tenacity of the Snapper (649)
+Jingle Jangle Jingle (649)
+Elemental Saucesphere (649)
+Astral Shell (649)
+Reptilian Fortitude (649)
+Jabañero Saucesphere (649)
+Jalapeño Saucesphere (649)
+Empathy (649)
+
+
+ > modifiers
+
+ML: +0
+Enc: -5.00%
+Init: -5.00%
+
+Exp: +1.00
+Meat: +0.00%
+Item: +5.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+Jumping into the Awesome Ball Pit in the clan rumpus room
+
+pool aggressive
+friars blessing 3
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+
+equip weapon The Trickster's Trikitixa
+
+equip pants Hodgman's lobsterskin pants
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #123/1200:
+Question: What did Stevie Shafer's dad find under the bed on Starch tenth, 1964?
+Answer: A cerulean bobcat.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #366/1200:
+Question: When did the Wibbleshire Babbling Scientists win the national poetry-reading championship?
+Answer: According to the old calendar, the sixteenth day of the Month of the Bumblebee in the Year of the Pair of Pliers.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #850/1200:
+Question: What player for the Wibbleford Insane Bishops was inducted into the Hall of Fame for his or her last-second foul in the 1983 hide-and-seek championship?
+Answer: A dog named Mrs. Woogie.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1019/1200:
+Question: Where was John XI, Empress of Gallston, buried?
+Answer: The Mighty Woods of Delawhat.
+
+use 1 tomato juice of powerful power
+You acquire an effect: Tomato Power (duration: 5 Adventures)
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+buy 5 hair spray for 24 each from The General Store
+You acquire hair spray (5)
+You spent 120 Meat
+
+use 5 hair spray
+You acquire an effect: Butt-Rock Hair (duration: 15 Adventures)
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+postwarisland.php?place=nunnery&pwd&action=nuns
+You gain 335 hit points
+
+use 1 Oscus's neverending soda
+
+use 17 Marquis de Poivre soda
+You gain 613 Mojo Points
+
+[4196] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious tries to steal an item!
+You acquire an item: bubblin' crude
+Round 2: boolicious attacks!
+Round 3: oil slick takes 487 damage.
+Round 3: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You gain 6 Strengthliness
+You gain 9 Magicalness
+You gain 10 Chutzpah
+
+[4197] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 9 hit points
+Round 2: boolicious attacks!
+Round 3: oil slick takes 494 damage.
+Round 3: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You acquire an item: bubblin' crude
+You gain 4 Muscleboundness
+You gain 9 Magicalness
+You gain 13 Roguishness
+
+[4198] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: oil slick takes 494 damage.
+Round 2: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You acquire an item: bubblin' crude
+You gain 2 Fortitude
+You gain 6 Wizardliness
+You gain 17 Sarcasm
+
+equip pants oil slacks
+
+[4199] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious tries to steal an item!
+You acquire an item: bubblin' crude
+Round 2: boolicious attacks!
+Round 3: oil slick takes 464 damage.
+Round 3: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You gain 7 Beefiness
+You gain 8 Mysteriousness
+You gain 10 Chutzpah
+
+[4200] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious tries to steal an item!
+You acquire an item: bubblin' crude
+Round 2: oil slick takes 1 damage.
+Round 2: oil slick takes 12 damage.
+Round 2: oil slick takes 5 damage.
+You lose 3 hit points
+Round 2: boolicious attacks!
+Round 3: oil slick takes 458 damage.
+Round 3: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You gain 7 Beefiness
+You gain 7 Mysteriousness
+You gain 11 Cheek
+
+[4201] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious tries to steal an item!
+You acquire an item: bubblin' crude
+Round 2: boolicious attacks!
+Round 3: oil slick takes 398 damage.
+Round 3: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You gain 4 Beefiness
+You gain 6 Magicalness
+You gain 15 Sarcasm
+
+[4202] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious tries to steal an item!
+You acquire an item: bubblin' crude
+Round 2: boolicious attacks!
+Round 3: oil slick takes 400 damage.
+Round 3: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You gain 1 Muscleboundness
+You gain 7 Magicalness
+You gain 16 Cheek
+
+[4203] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious tries to steal an item!
+You acquire an item: bubblin' crude
+Round 2: boolicious attacks!
+Round 3: oil slick takes 386 damage.
+Round 3: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You gain 7 Strengthliness
+You gain 9 Enchantedness
+You gain 10 Smarm
+
+[4204] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious tries to steal an item!
+You acquire an item: bubblin' crude
+Round 2: boolicious attacks!
+Round 3: oil slick takes 381 damage.
+Round 3: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You gain 8 Fortitude
+You gain 6 Wizardliness
+You gain 11 Chutzpah
+You gain a Moxie point!
+
+multiuse.php?passitem=5789&pwd=6b0a4ed30f0e60cb34f21690379255c4
+
+use 15 bubblin' crude
+
+Use 8 bubblin' crude
+You acquire an item: oil cap
+
+equip hat oil cap
+
+[4205] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious tries to steal an item!
+You acquire an item: bubblin' crude
+Round 2: boolicious attacks!
+Round 3: oil slick takes 405 damage.
+Round 3: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You gain 6 Strengthliness
+You gain 8 Wizardliness
+You gain 11 Cheek
+
+multiuse.php?passitem=5789&pwd=6b0a4ed30f0e60cb34f21690379255c4
+
+use 4 bubblin' crude
+
+use 5 bubblin' crude
+
+Use 9 bubblin' crude
+You acquire an item: oil lamp
+outfit Oil Rig
+
+Visiting the pretentious artist
+You have unlocked a new tattoo.
+
+[4206] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: oil slick takes 92 damage.
+Round 2: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You acquire an item: bubblin' crude
+You gain 6 Strengthliness
+You gain 7 Enchantedness
+You gain 12 Chutzpah
+
+[4207] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: oil slick takes 87 damage.
+Round 2: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You acquire an item: bubblin' crude
+You gain 8 Beefiness
+You gain 5 Enchantedness
+You gain 12 Cheek
+
+[4208] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: oil slick takes 90 damage.
+Round 2: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You acquire an item: bubblin' crude
+You gain 10 Strengthliness
+You gain 5 Magicalness
+You gain 10 Roguishness
+
+[4209] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: oil slick takes 88 damage.
+Round 2: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You acquire an item: bubblin' crude
+You gain 7 Strengthliness
+You gain 9 Mysteriousness
+You gain 10 Chutzpah
+
+[4210] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: oil slick takes 88 damage.
+Round 2: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You acquire an item: bubblin' crude
+You gain 2 Beefiness
+You gain 8 Mysteriousness
+You gain 15 Roguishness
+
+equip hat Hodgman's porkpie hat
+
+equip weapon The Trickster's Trikitixa
+
+equip pants Hodgman's lobsterskin pants
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+equip acc1 Chester's sunglasses
+
+[4211] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: oil slick takes 423 damage.
+Round 2: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You acquire an item: bubblin' crude
+You gain 6 Strongness
+You gain 10 Mysteriousness
+You gain 10 Chutzpah
+
+[4212] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: oil slick takes 420 damage.
+Round 2: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You acquire an item: bubblin' crude
+You gain 8 Fortitude
+You gain 7 Mysteriousness
+You gain 11 Smarm
+
+[4213] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: oil slick takes 422 damage.
+Round 2: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You acquire an item: bubblin' crude
+You gain 8 Strongness
+You gain 7 Wizardliness
+You gain 10 Sarcasm
+
+[4214] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: oil slick takes 419 damage.
+Round 2: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You acquire an item: bubblin' crude
+You gain 5 Strengthliness
+You gain 8 Enchantedness
+You gain 12 Smarm
+
+[4215] Oil Peak
+Encounter: Unimpressed with Pressure
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+[4216] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: oil slick takes 381 damage.
+Round 2: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You acquire an item: bubblin' crude
+You gain 5 Strengthliness
+You gain 8 Mysteriousness
+You gain 12 Roguishness
+
+[4217] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: oil slick takes 390 damage.
+Round 2: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You acquire an item: bubblin' crude
+You gain 4 Fortitude
+You gain 13 Enchantedness
+You gain 10 Cheek
+
+[4218] Oil Peak
+Encounter: oil slick
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: oil slick takes 386 damage.
+Round 2: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You acquire an item: bubblin' crude
+You gain 6 Strengthliness
+You gain 6 Magicalness
+You gain 14 Cheek
+
+place.php?whichplace=highlands&action=highlands_dude
+
+[4219] Twin Peak
+Encounter: spider (duck?) topiary animal
+Round 0: boolicious wins initiative!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious attacks!
+Round 3: spider (duck?) topiary animal takes 394 damage.
+Round 3: boolicious wins the fight!
+After Battle: "These pants remind me of the days when we used to dress up as ladies and have a night on the town. What crazy lads we were!" Heckel &amp; Jeckyl says, demonstrating his soft-shoe technique.
+You acquire an item: rusty hedge trimmers
+You gain 4 Fortitude
+You gain 8 Enchantedness
+You gain 12 Sarcasm
+
+use 1 rusty hedge trimmers
+choice.php?forceoption=0
+Encounter: Lost in the Great Overlook Lodge
+Took choice 606/1: unknown
+choice.php?pwd&whichchoice=606&option=1
+Encounter: Room 237
+Took choice 607/1: unknown
+choice.php?pwd&whichchoice=607&option=1
