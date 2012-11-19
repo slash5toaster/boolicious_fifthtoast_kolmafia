@@ -28,7 +28,7 @@ pushd ~/.kolmafia/
 #svn cleanup
 #svn up  --password 1aK8U30UMO
 #svn commit -m $(date +%F-%H%M)  --password 1aK8U30UMO
-git fetch $GITREMOTE
+git fetch --all 
 git commit -a -m  $(date +%F-%H%M)
 $JAVABIN -jar ~/.kolmafia/KoLmafia-latest.jar 
 
