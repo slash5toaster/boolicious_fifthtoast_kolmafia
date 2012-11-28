@@ -627,3 +627,15 @@ mallsell: 23 effervescent potion of sleepiness
 Visiting the Bounty Hunter Hunter
 
 manageprices.php?action=update&price0[5401]=44000&limit0[5401]=0&price0[5274]=10101&limit0[5274]=0&price0[5280]=10000&limit0[5280]=0&price0[1745]=8800&limit0[1745]=0&price0[5270]=8500&limit0[5270]=0&price0[5248]=8400&limit0[5248]=0&price0[5102]=7100&limit0[5102]=0&price0[5242]=7000&limit0[5242]=0&price0[5402]=7000&limit0[5402]=0&price0[1141]=7000&limit0[1141]=0&price0[5247]=6800&limit0[5247]=0&price0[5245]=4400&limit0[5245]=0&price0[5101]=4000&limit0[5101]=0&price0[375]=3745&limit0[375]=0&price0[1069]=2600&limit0[1069]=0&price0[3301]=2200&limit0[3301]=0&price0[196]=1450&limit0[196]=0&price0[226]=1300&limit0[226]=3&price0[5464]=800&limit0[5464]=0&price0[3229]=600&limit0[3229]=0&price0[1863]=500&limit0[1863]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[2680]=300&limit0[2680]=1&price0[617]=274&limit0[617]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[542]=260&limit0[542]=0&price0[824]=260&limit0[824]=0&price0[538]=260&limit0[538]=3&price0[825]=260&limit0[825]=0&price0[827]=260&limit0[827]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[614]=256&limit0[614]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=0&price0[125]=250&limit0[125]=0&price0[821]=250&limit0[821]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[1840]=200&limit0[1840]=0&price0[1803]=200&limit0[1803]=0&price0[5468]=200&limit0[5468]=0&price0[834]=190&limit0[834]=0&price0[472]=190&limit0[472]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[836]=156&limit0[836]=0&price0[218]=155&limit0[218]=0&price0[3597]=150&limit0[3597]=0&price0[299]=150&limit0[299]=1&price0[2613]=150&limit0[2613]=1&price0[475]=130&limit0[475]=0&price0[1655]=120&limit0[1655]=0&price0[5467]=111&limit0[5467]=0&price0[5466]=111&limit0[5466]=0&price0[4393]=100&limit0[4393]=0&price0[5469]=100&limit0[5469]=0&price0[1]=100&limit0[1]=0
+
+familiar Pair of Stomping Boots (28 lbs)
+
+Visiting the Bounty Hunter Hunter
+
+clan_hobopolis.php?place=2
+choice.php?forceoption=0
+
+[4635] Hobopolis Town Square
+Encounter: Enter The Hoboverlord
+Took choice 200/2: skip adventure
+choice.php?pwd&whichchoice=200&option=2
