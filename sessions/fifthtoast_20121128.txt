@@ -1,0 +1,186 @@
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 1,042 Meat
+
+use 1 Manual of Transmission
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Who?
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: When?
+
+use 1 creepy voodoo doll
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 4 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (4)
+You spent 200 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless trinket
+You acquire an item: worthless gewgaw
+You acquire an item: worthless knick-knack
+
+add to closet: 1 worthless trinket
+
+add to closet: 1 worthless gewgaw
+
+add to closet: 1 worthless knick-knack
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless trinket
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless gewgaw
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 4 worthless items for 4 ten-leaf clovers
+You acquire ten-leaf clover (4)
+
+Use 4 ten-leaf clover
+You acquire disassembled clover (4)
+You gain 4,846 Meat
+
+cast 5 Pastamastery
+You acquire dry noodles (5)
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 5 vials of pirate sweat
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #294/1200:
+Question: What did Paco Johnson's brother find in the pickle jar on Starch tenth, 1925?
+Answer: A magenta cougar.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #493/1200:
+Question: When did the Great Hullabaloo of The Elder Tundra begin?
+Answer: According to the old calendar, the second day of the Month of the Puppy in the Year of the Tuxedo.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #634/1200:
+Question: What player for the Shamablamaroth Red Dutchmen was inducted into the Hall of Fame for his or her last-second 7-pointer in the 1940 Quidditch championship?
+Answer: Professor Barney Mack of Pinochle.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1112/1200:
+Question: Where was Dookie I, Earl of Schmalbion, married?
+Answer: In the estate of Vizier Ralph I.
+
+use 1 tomato juice of powerful power
+You acquire an effect: Tomato Power (duration: 5 Adventures)
+
+buy 1 fizzy potion for 250 each from 1877436 on 20121128
+You acquire an item: fizzy potion of mental acuity
+
+use 1 fizzy potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+buy 1 fermenting powder for 70 each from The General Store
+You acquire an item: fermenting powder
+You spent 70 Meat
+
+buy 1 pretty flower for 100 each from 206213 on 20121128
+You acquire an item: pretty flower
+
+Mix 1 fermenting powder + 1 pretty flower
+You acquire an item: shot of flower schnapps
+Crafting used 1 each of pretty flower and fermenting powder
+
+buy 5 glittery mascara for 24 each from The General Store
+You acquire glittery mascara (5)
+You spent 120 Meat
+
+use 5 glittery mascara
+You acquire an effect: Glittering Eyelashes (duration: 15 Adventures)
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+use 5 cloudy potion of detection
+You acquire an effect: Object Detection (duration: 50 Adventures)
+
+use 5 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 50 Adventures)
+
+send a kmail to boolicious: 33 effervescent potion of teleportitis, 43 bubbly potion of confusion, 56 murky potion of sleepiness
+
+clan_hobopolis.php?place=2
+
+[8287] Hobopolis Town Square
+Encounter: Garrett Goodman, the Merovingian
+Round 0: fifthtoast loses initiative!
+You lose 140 hit points
+Round 1: fifthtoast attacks!
+You lose 4 hit points
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 32 damage.
+Round 2: normal hobo takes 32 damage.
+You lose 142 hit points
+Round 2: fifthtoast attacks!
+Round 3: normal hobo takes 737 damage.
+Round 3: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 31 damage.
+Round 3: normal hobo takes 31 damage.
+Round 3: fifthtoast wins the fight!
+You gain 18 Strengthliness
+You gain 49 Wizardliness
+You gain 25 Cheek
+Richard takes a hobo skin
+
+[8288] Hobopolis Town Square
+Encounter: Monkeybars R. J. Noriega
+Round 0: fifthtoast loses initiative!
+You lose 136 hit points
+Round 1: fifthtoast attacks!
+Round 2: normal hobo takes 743 damage.
+Round 2: fifthtoast wins the fight!
+You gain 23 Beefiness
+You gain 45 Mysteriousness
+You gain 22 Smarm
+You gain a Moxie point!
+Richard takes a hobo skin
+
+cast 1 Cannelloni Cocoon
+You gain 1,235 hit points
+
+[8289] Hobopolis Town Square
+Encounter: Cholly &quot;Salisbury Steak&quot; Nipperus
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast summons Nick Spade the Penne Dreadful!
+Round 2: You calm your mind, and imagine a skeletal assembly of penne.  A lone saxophone breaks the night's stillness as it appears and Nick Spade possesses it.
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: normal hobo drops 10 attack power.
+Round 2: normal hobo drops 10 defense.
+Round 2: fifthtoast attacks!
+Round 3: normal hobo takes 745 damage.
+Round 3: fifthtoast wins the fight!
+You gain 16 Muscleboundness
+You gain 50 Wizardliness
+You gain 25 Cheek
+Richard takes a hobo skin
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=8
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=7
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=3
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
