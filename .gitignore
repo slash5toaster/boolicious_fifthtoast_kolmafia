@@ -171,6 +171,8 @@ pip-log.txt
 /images
 /buffs
 /data
+/data/itemflags.txt
+/data/mallprices.txt
 /authors-transform.txt
 
 # /planting/itemimages/
