@@ -169,7 +169,6 @@ pip-log.txt
 /DEBUG*.txt
 /hs_err_*.log
 /images
-/buffs
 /data
 /data/itemflags.txt
 /data/mallprices.txt

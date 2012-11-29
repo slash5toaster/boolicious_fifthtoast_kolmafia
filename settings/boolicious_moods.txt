@@ -1,4 +1,6 @@
 [ apathetic ]
 
 [ default ]
+lose_effect mariachi mood => cast 2 moxie of the mariachi
+lose_effect rage of the reindeer => cast 2 rage of the reindeer
 
