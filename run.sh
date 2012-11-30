@@ -46,5 +46,5 @@ popd
 #svn up --password 1aK8U30UMO 
 #svn commit -m $(date +%F-%H%M) --password 1aK8U30UMO
 git commit -a -m  $(date +%F-%H%M)
-git push $GITREMOTE
+#git push $GITREMOTE
 popd
