@@ -1,0 +1,1694 @@
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 1,031 Meat
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+You acquire an item: stuffed tin of caviar
+
+Visiting Looking Glass in clan VIP lounge
+You acquire an item: &quot;DRINK ME&quot; potion
+
+Visiting Crimbo Tree in clan VIP lounge
+You acquire an item: peanut brittle shield
+
+swimming pool screwaround
+
+Doing handstand in clan VIP swimming pool
+
+Diving for treasure in clan VIP swimming pool
+
+Getting out of clan VIP swimming pool
+
+use 1 Manual of Dexterity
+
+use 1 Chester's bag of candy
+You acquire an item: Angry Farmer candy
+You acquire Tasty Fun Good rice candy (2)
+You acquire Yummy Tummy bean (2)
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Who?
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: Who?
+
+use 1 creepy voodoo doll
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 4 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (4)
+You spent 200 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless gewgaw
+You acquire an item: worthless knick-knack
+You acquire an item: worthless trinket
+
+add to closet: 1 worthless trinket
+
+add to closet: 1 worthless gewgaw
+
+add to closet: 1 worthless knick-knack
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless trinket
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless gewgaw
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 4 worthless items for 4 ten-leaf clovers
+You acquire ten-leaf clover (4)
+
+Use 4 ten-leaf clover
+You acquire disassembled clover (4)
+
+Visiting the Fishing Village on the Secret Tropical Island Volcano Lair
+You acquire an item: fisherman's sack
+
+use 2 fisherman's sack
+You acquire fish-oil smoke bomb (6)
+You acquire vial of squid ink (2)
+You acquire potion of fishy speed (2)
+
+cast 1 Summon Clip Art
+You acquire an item: 4:20 bomb
+
+cast 1 Summon Clip Art
+You acquire an item: chocolate frosted sugar bomb
+
+cast 1 Summon Clip Art
+You acquire an item: cold-filtered water
+
+Use 2 peppermint sprout
+You acquire an item: peppermint patty
+
+Use 2 peppermint sprout
+You acquire an item: peppermint patty
+
+Use 2 peppermint sprout
+You acquire an item: peppermint patty
+
+mallsell: 19 &quot;DRINK ME&quot; potion
+
+mallsell: 2 peppermint patty, 20 peppermint sprout
+
+manageprices.php?action=update&price0[5401]=44000&limit0[5401]=0&price0[5397]=22000&limit0[5397]=0&price0[5274]=10101&limit0[5274]=0&price0[5280]=10000&limit0[5280]=0&price0[1745]=8800&limit0[1745]=0&price0[5270]=8500&limit0[5270]=0&price0[5395]=8500&limit0[5395]=0&price0[5102]=7100&limit0[5102]=3&price0[5242]=7000&limit0[5242]=0&price0[5402]=7000&limit0[5402]=0&price0[1141]=7000&limit0[1141]=0&price0[5245]=4400&limit0[5245]=0&price0[5101]=4000&limit0[5101]=0&price0[375]=3745&limit0[375]=0&price0[3301]=2200&limit0[3301]=0&price0[196]=1450&limit0[196]=0&price0[226]=1300&limit0[226]=0&price0[5464]=800&limit0[5464]=0&price0[1863]=500&limit0[1863]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=3&price0[2680]=300&limit0[2680]=0&price0[617]=274&limit0[617]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[542]=260&limit0[542]=0&price0[824]=260&limit0[824]=0&price0[538]=260&limit0[538]=0&price0[825]=260&limit0[825]=0&price0[827]=260&limit0[827]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[614]=256&limit0[614]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=0&price0[125]=250&limit0[125]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=1&price0[1840]=200&limit0[1840]=0&price0[1803]=200&limit0[1803]=0&price0[5468]=200&limit0[5468]=0&price0[834]=190&limit0[834]=0&price0[472]=190&limit0[472]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[218]=155&limit0[218]=1&price0[3597]=150&limit0[3597]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=1&price0[475]=130&limit0[475]=0&price0[1655]=120&limit0[1655]=0&price0[4508]=120&limit0[4508]=0&price0[5467]=111&limit0[5467]=0&price0[5466]=111&limit0[5466]=0&price0[5469]=100&limit0[5469]=0&price0[1]=100&limit0[1]=0
+
+buy 2 savory crossbow for 3999 each from 2366960 on 20121130
+You acquire savory crossbow (2)
+
+mallsell: 1 savory crossbow
+
+manageprices.php?action=update&price0[5401]=39800&limit0[5401]=0&price0[5397]=22000&limit0[5397]=0&price0[5274]=10101&limit0[5274]=0&price0[5280]=10000&limit0[5280]=0&price0[1745]=8800&limit0[1745]=0&price0[5270]=8500&limit0[5270]=0&price0[5395]=8500&limit0[5395]=0&price0[5102]=7100&limit0[5102]=0&price0[5242]=7000&limit0[5242]=0&price0[5402]=7000&limit0[5402]=0&price0[1141]=7000&limit0[1141]=0&price0[5245]=4400&limit0[5245]=0&price0[5101]=4000&limit0[5101]=0&price0[375]=3745&limit0[375]=0&price0[3301]=2200&limit0[3301]=0&price0[196]=1450&limit0[196]=0&price0[226]=1300&limit0[226]=0&price0[5464]=800&limit0[5464]=0&price0[1863]=500&limit0[1863]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[2680]=300&limit0[2680]=0&price0[617]=274&limit0[617]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[542]=260&limit0[542]=0&price0[824]=260&limit0[824]=0&price0[538]=260&limit0[538]=0&price0[825]=260&limit0[825]=0&price0[827]=260&limit0[827]=1&price0[616]=258&limit0[616]=1&price0[613]=256&limit0[613]=0&price0[614]=256&limit0[614]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=0&price0[125]=250&limit0[125]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[1840]=200&limit0[1840]=0&price0[1803]=200&limit0[1803]=0&price0[5468]=200&limit0[5468]=0&price0[834]=190&limit0[834]=0&price0[472]=190&limit0[472]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[218]=155&limit0[218]=0&price0[3597]=150&limit0[3597]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=1&price0[475]=130&limit0[475]=0&price0[4508]=120&limit0[4508]=0&price0[1655]=120&limit0[1655]=0&price0[5467]=111&limit0[5467]=0&price0[5466]=111&limit0[5466]=3&price0[5469]=100&limit0[5469]=0&price0[1]=100&limit0[1]=3
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 5 discarded pacifiers
+
+[4691] Giant's Castle
+Encounter: Possibility Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Dr Marten's bells jingle merrily.
+Round 2: Dr Marten gives him some pumped-up kicks for 30 damage. Looks like he didn't run fast enough.
+Round 2: possibility giant takes 30 damage.
+Round 2: boolicious attacks!
+Round 3: possibility giant takes 593 damage.
+Round 3: Dr Marten attempts to kickstart him. It doesn't get fully funded, but does do 26 damage.
+Round 3: possibility giant takes 26 damage.
+Round 3: boolicious wins the fight!
+You gain 172 Meat
+After Battle: Dr Marten proves that it's made for dancing, not walking, with a little impromptu line dancing.
+You gain 7 Strongness
+You gain 9 Enchantedness
+You gain 16 Cheek
+
+[4692] Giant's Castle
+Encounter: Goth Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious attacks!
+Round 3: goth giant takes 580 damage.
+Round 3: boolicious wins the fight!
+You gain 143 Meat
+After Battle: Dr Marten does a few high kicks. When you're a pair of boots with no legs, the sky's the limit for how high you can kick.
+You acquire an item: thin black candle
+You gain 9 Beefiness
+You gain 11 Enchantedness
+You gain 14 Cheek
+
+[4693] Giant's Castle
+Encounter: Furry Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Dr Marten kicks him into next week, for a time-traveling 34 damage.
+Round 2: furry giant takes 34 damage.
+Round 2: boolicious attacks!
+Round 3: furry giant takes 587 damage.
+Round 3: boolicious wins the fight!
+You gain 151 Meat
+After Battle: Dr Marten tries to start a mosh pit, but ends up slam-dancing with itself.
+You acquire an item: furry fur
+You acquire an item: disturbing fanfic
+You acquire an item: wolf mask
+You gain 5 Beefiness
+You gain 15 Enchantedness
+You gain 16 Smarm
+
+[4694] Giant's Castle
+Encounter: Possibility Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious attacks!
+Round 3: possibility giant takes 614 damage.
+Round 3: boolicious wins the fight!
+You gain 149 Meat
+After Battle: Dr Marten does a little boot-scootin' boogie.
+You acquire an item: chaos butterfly
+You gain 9 Muscleboundness
+You gain 8 Enchantedness
+You gain 18 Smarm
+
+[4695] Giant's Castle
+Encounter: Alphabet Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: alphabet giant takes 1 damage.
+Round 2: alphabet giant takes 5 damage.
+Round 2: alphabet giant takes 5 damage.
+You lose 7 hit points
+Round 2: boolicious attacks!
+Round 3: alphabet giant takes 582 damage.
+Round 3: boolicious wins the fight!
+You gain 138 Meat
+After Battle: Dr Marten does a little of the ol' soft shoe, except it's more of a hard boot.
+You acquire an item: heavy D
+You acquire an item: original G
+You gain 4 Muscleboundness
+You gain 7 Magicalness
+You gain 26 Cheek
+
+[4696] Giant's Castle
+Encounter: Furry Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious attacks!
+Round 3: furry giant takes 413 damage.
+Round 3: Dr Marten pulls him into an impromptu mosh pit, stomping him for 32 damage.
+Round 3: furry giant takes 32 damage.
+Round 3: boolicious wins the fight!
+You gain 157 Meat
+After Battle: Dr Marten leaps up and clicks its heels together in midair.
+You acquire an item: furry fur
+You acquire an item: disturbing fanfic
+You gain 9 Muscleboundness
+You gain 13 Magicalness
+You gain 14 Cheek
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+[4697] Giant's Castle
+Encounter: Procrastination Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious attacks!
+Round 3: procrastination giant takes 433 damage.
+Round 3: boolicious wins the fight!
+You gain 142 Meat
+After Battle: Dr Marten leaps up and clicks its heels together in midair.
+You acquire an item: procrastination potion
+You gain 7 Strengthliness
+You gain 7 Enchantedness
+You gain 18 Chutzpah
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[4698] Giant's Castle
+Encounter: Goth Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious attacks!
+Round 3: goth giant takes 436 damage.
+Round 3: boolicious wins the fight!
+You gain 161 Meat
+After Battle: Dr Marten assumes the pli&eacute; position and bends its calf-parts in and out a few times.
+You acquire an item: thin black candle
+You acquire an item: awful poetry journal
+You gain 8 Strengthliness
+You gain 8 Mysteriousness
+You gain 17 Chutzpah
+
+[4699] Giant's Castle
+Encounter: Raver Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: raver giant takes 1 damage.
+Round 2: raver giant takes 10 damage.
+Round 2: raver giant takes 5 damage.
+You lose 7 hit points
+Round 2: boolicious attacks!
+Round 3: raver giant takes 413 damage.
+Round 3: boolicious wins the fight!
+You gain 158 Meat
+After Battle: Dr Marten assumes the pli&eacute; position and bends its calf-parts in and out a few times.
+You acquire an item: Mick's IcyVapoHotness Rub
+You acquire an item: giant needle
+You acquire an item: discarded pacifier
+You acquire an item: rave whistle
+You gain 7 Fortitude
+You gain 11 Wizardliness
+You gain 18 Smarm
+
+[4700] Giant's Castle
+Encounter: Possibility Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: probability potion
+Round 2: Dr Marten's bells jingle merrily.
+Round 2: Dr Marten kicks him into next week, for a time-traveling 20 damage.
+Round 2: possibility giant takes 20 damage.
+Round 2: boolicious attacks!
+Round 3: possibility giant takes 415 damage.
+Round 3: boolicious wins the fight!
+You gain 156 Meat
+After Battle: Dr Marten forms a one-pair-of-boots chorus line.
+You gain 6 Strongness
+You gain 11 Wizardliness
+You gain 17 Sarcasm
+
+[4701] Giant's Castle
+Encounter: Alphabet Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: original G
+Round 2: boolicious attacks!
+Round 3: alphabet giant takes 400 damage.
+Round 3: boolicious wins the fight!
+You gain 137 Meat
+After Battle: Dr Marten stomps around in a circle, its buckles jingling.
+You acquire an item: heavy D
+You gain 7 Beefiness
+You gain 11 Enchantedness
+You gain 19 Chutzpah
+
+[4702] Giant's Castle
+Encounter: Alphabet Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: heavy D
+Round 2: Dr Marten's bells jingle merrily.
+Round 2: Dr Marten makes sure kicks aren't getting harder to find by kicking him for 32 damage.
+Round 2: alphabet giant takes 32 damage.
+Round 2: boolicious attacks!
+Round 3: alphabet giant takes 450 damage.
+Round 3: Dr Marten's bells jingle merrily.
+Round 3: Dr Marten gives him the boot for 20 damage.
+Round 3: alphabet giant takes 20 damage.
+Round 3: boolicious wins the fight!
+You gain 156 Meat
+After Battle: Dr Marten does a little of the ol' soft shoe, except it's more of a hard boot.
+You gain 9 Muscleboundness
+You gain a Muscle point!
+You gain 8 Magicalness
+You gain 21 Sarcasm
+
+[4703] Giant's Castle
+Encounter: Goth Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: awful poetry journal
+Round 2: boolicious attacks!
+Round 3: goth giant takes 424 damage.
+Round 3: boolicious wins the fight!
+You gain 163 Meat
+After Battle: Dr Marten assumes the pli&eacute; position and bends its calf-parts in and out a few times.
+You acquire an item: Warm Subject gift certificate
+You gain 6 Beefiness
+You gain 10 Magicalness
+You gain 17 Roguishness
+
+[4704] Giant's Castle
+Encounter: Raver Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: Mick's IcyVapoHotness Rub
+Round 2: Dr Marten's bells jingle merrily.
+Round 2: Dr Marten gives him some pumped-up kicks for 26 damage. Looks like he didn't run fast enough.
+Round 2: raver giant takes 26 damage.
+Round 2: boolicious attacks!
+Round 3: raver giant takes 409 damage.
+Round 3: Dr Marten boots him, then re-boots him again, for a total of 21 damage.
+Round 3: raver giant takes 21 damage.
+Round 3: boolicious wins the fight!
+You gain 161 Meat
+After Battle: Dr Marten proves that it's made for dancing, not walking, with a little impromptu line dancing.
+You acquire an item: Angry Farmer candy
+You acquire an item: discarded pacifier
+You gain 8 Fortitude
+You gain 14 Enchantedness
+You gain 16 Smarm
+
+[4705] Giant's Castle
+Encounter: Furry Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Dr Marten leaps up and high-kicks  him for 29 damage.
+Round 2: furry giant takes 29 damage.
+Round 2: boolicious attacks!
+Round 3: furry giant takes 433 damage.
+Round 3: Dr Marten leaps up and high-kicks  him for 32 damage.
+Round 3: furry giant takes 32 damage.
+Round 3: boolicious wins the fight!
+You gain 148 Meat
+After Battle: Dr Marten does a little boot-scootin' boogie.
+You gain 8 Muscleboundness
+You gain 13 Enchantedness
+You gain 15 Smarm
+
+[4706] Giant's Castle
+Encounter: Outage, Brief Candle
+You gain 279 Wizardliness
+You gain a Mysticality point!
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+[4707] Giant's Castle
+Encounter: Possibility Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: probability potion
+Round 2: Dr Marten kicks him into next week, for a time-traveling 18 damage.
+Round 2: possibility giant takes 18 damage.
+Round 2: boolicious attacks!
+Round 3: possibility giant takes 292 damage.
+Round 3: Dr Marten's bells jingle merrily.
+Round 3: Dr Marten makes sure kicks aren't getting harder to find by kicking him for 24 damage.
+Round 3: possibility giant takes 24 damage.
+Round 3: boolicious wins the fight!
+You gain 159 Meat
+After Battle: Dr Marten leaps up and clicks its heels together in midair.
+You acquire an item: plot hole
+You acquire an item: chaos butterfly
+You gain 4 Beefiness
+You gain 10 Magicalness
+You gain 19 Cheek
+
+[4708] Giant's Castle
+Encounter: Wheel in the Clouds in the Sky, Keep On Turning
+Took choice 10/1: Turn to Map Quest
+choice.php?whichchoice=10&option=1&pwd
+
+[4709] Giant's Castle
+Encounter: Raver Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: Mick's IcyVapoHotness Rub
+Round 2: Dr Marten kicks him into next week, for a time-traveling 22 damage.
+Round 2: raver giant takes 22 damage.
+Round 2: boolicious attacks!
+Round 3: raver giant takes 277 damage.
+Round 3: Dr Marten gives him some pumped-up kicks for 20 damage. Looks like he didn't run fast enough.
+Round 3: raver giant takes 20 damage.
+Round 3: boolicious wins the fight!
+You gain 168 Meat
+After Battle: Dr Marten does a little boot-scootin' boogie.
+You acquire an item: Angry Farmer candy
+You acquire an item: discarded pacifier
+You gain 8 Beefiness
+You gain 14 Wizardliness
+You gain 15 Chutzpah
+
+[4710] Giant's Castle
+Encounter: Procrastination Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Dr Marten kicks him into next week, for a time-traveling 34 damage.
+Round 2: procrastination giant takes 34 damage.
+Round 2: boolicious attacks!
+Round 3: procrastination giant takes 283 damage.
+Round 3: Dr Marten pulls him into an impromptu mosh pit, stomping him for 27 damage.
+Round 3: procrastination giant takes 27 damage.
+Round 3: boolicious wins the fight!
+You gain 152 Meat
+After Battle: Dr Marten does a few high kicks. When you're a pair of boots with no legs, the sky's the limit for how high you can kick.
+You acquire an item: procrastination potion
+You gain 12 Strengthliness
+You gain 8 Magicalness
+You gain 13 Chutzpah
+
+[4711] Giant's Castle
+Encounter: Procrastination Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious attacks!
+Round 3: procrastination giant takes 283 damage.
+Round 3: boolicious wins the fight!
+You gain 155 Meat
+After Battle: Dr Marten tries to start a mosh pit, but ends up slam-dancing with itself.
+You acquire an item: procrastination potion
+You gain 4 Fortitude
+You gain 6 Magicalness
+You gain 22 Chutzpah
+You gain a Moxie point!
+
+[4712] Giant's Castle
+Encounter: Wheel in the Clouds in the Sky, Keep On Turning
+Took choice 11/3: Leave at map quest
+choice.php?whichchoice=11&option=3&pwd
+
+[4712] Giant's Castle
+Encounter: What are the Odds?
+You acquire an item: plot hole
+You acquire an item: chaos butterfly
+
+[4713] Giant's Castle
+Encounter: Goth Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: thin black candle
+Round 2: boolicious attacks!
+Round 3: goth giant takes 286 damage.
+Round 3: boolicious wins the fight!
+You gain 166 Meat
+After Battle: Dr Marten does a little boot-scootin' boogie.
+You acquire an item: Warm Subject gift certificate
+You gain 12 Beefiness
+You gain 10 Magicalness
+You gain 12 Cheek
+
+[4714] Giant's Castle
+Encounter: Goth Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: thin black candle
+Round 2: boolicious attacks!
+Round 3: goth giant takes 272 damage.
+Round 3: boolicious wins the fight!
+You gain 146 Meat
+After Battle: Dr Marten stomps around in a circle, its buckles jingling.
+You gain 5 Muscleboundness
+You gain 9 Enchantedness
+You gain 19 Sarcasm
+
+[4715] Giant's Castle
+Encounter: Alphabet Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: original G
+Round 2: boolicious attacks!
+Round 3: alphabet giant takes 264 damage.
+Round 3: Dr Marten kicks him into next week, for a time-traveling 35 damage.
+Round 3: alphabet giant takes 35 damage.
+Round 3: boolicious wins the fight!
+You gain 143 Meat
+After Battle: Dr Marten stomps around in a circle, its buckles jingling.
+You acquire an item: heavy D
+You gain 8 Fortitude
+You gain 8 Mysteriousness
+You gain 22 Smarm
+
+[4716] Giant's Castle
+Encounter: Raver Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: Mick's IcyVapoHotness Rub
+Round 2: boolicious attacks!
+Round 3: raver giant takes 276 damage.
+Round 3: boolicious wins the fight!
+You gain 134 Meat
+After Battle: Dr Marten forms a one-pair-of-boots chorus line.
+You acquire an item: giant needle
+You acquire an item: discarded pacifier
+You gain 13 Strengthliness
+You gain 8 Wizardliness
+You gain 15 Chutzpah
+
+send a kmail to wadbot: 1 4-dimensional guitar, 1 7-Foot Dwarven mattock, 3 acid-squirting flower, 2 arrrgyle socks, 2 asparagus knife, 1 balloon sword, 1 beach glass necklace, 2 bejeweled cufflinks, 1 bejeweled pledge pin, 5 big bass drum, 4 big red clown nose
+
+send a kmail to wadbot: 8 bloody clown pants, 3 bone flute, 1 broken sword, 7 bum cheek, 1 cardboard wakizashi, 9 chef's hat, 4 chopsticks, 2 clown shoes, 1 clownskin belt, 3 cold ninja mask, 4 cold nuggets
+
+send a kmail to wadbot: 3 cold powder, 5 dented harmonica, 5 dirty hobo gloves, 11 disturbing fanfic, 2 draggin' ball hat, 1 eye of the Tiger-lily, 1 filthy knitted dread sack, 6 giant needle, 3 glowing red eye, 2 goat beard, 1 goatskin umbrella
+
+send a kmail to wadbot: 1 happiness, 1 hot plate, 2 hot powder, 2 icy-hot katana, 3 Knob Goblin melon baller, 8 Knob Goblin pants, 10 Knob Goblin scimitar, 10 Knob Goblin tongs, 1 lucky rabbit's foot, 15 magic whistle, 1 magilaser blastercannon
+
+send a kmail to wadbot: 3 miner's helmet, 1 miner's pants, 1 Mohawk wig, 1 orange peel hat, 1 oversized pizza cutter, 1 powdered wig, 30 ring of aggravate monster, 2 ring of increase damage, 3 sleaze powder, 2 spiked femur, 3 spooky powder
+
+send a kmail to wadbot: 1 stench nuggets, 2 twinkly nuggets, 4 twinkly powder, 5 white satin pants, 3 white satin shield, 1 witty rapier, 1 wolf mask, 2 wool hat, 5 Ze&trade; goggles
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[4718] Mix 2 boxed wine + 2 peppermint twist
+You acquire Sangria de Menthe (2)
+Crafting used 2 each of boxed wine and peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[4720] Mix 2 bottle of tequila + 2 peppermint twist
+You acquire Feliz Navidad (2)
+Crafting used 2 each of bottle of tequila and peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[4722] Mix 2 bottle of gin + 2 peppermint twist
+You acquire Gin Mint (2)
+Crafting used 2 each of bottle of gin and peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[4724] Mix 2 bottle of rum + 2 peppermint twist
+You acquire Crimbojito (2)
+Crafting used 2 each of bottle of rum and peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[4726] Mix 2 bottle of vodka + 2 peppermint twist
+You acquire Vodka Matryoshka (2)
+Crafting used 2 each of bottle of vodka and peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[4728] Mix 2 bottle of whiskey + 2 peppermint twist
+You acquire Mint Yulep (2)
+Crafting used 2 each of bottle of whiskey and peppermint twist
+
+[4729] Giant's Castle
+Encounter: Furry Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.  (Use the &quot;Release the Boots&quot; skill to let it go nuts.)
+Round 1: boolicious casts RELEASE THE BOOTS!
+Round 2: Dr Marten leaps up, feet flying, heels stomping, buckles jangling, and stomps your opponent into paste. Thank goodness there wasn't a mudhole nearby.
+You acquire an item: greasy paste
+Round 2: boolicious wins the fight!
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+swimming pool submarine
+You acquire an effect: Silent Running (duration: 50 Adventures)
+
+use 1 swirly potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+[4730] Giant's Castle
+Encounter: What are the Odds?
+You acquire an item: plot hole
+You acquire an item: chaos butterfly
+
+[4731] Giant's Castle
+Encounter: Procrastination Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: procrastination giant takes 293 damage.
+Round 2: boolicious wins the fight!
+You gain 148 Meat
+After Battle: Dr Marten forms a one-pair-of-boots chorus line.
+You gain 10 Muscleboundness
+You gain 9 Mysteriousness
+You gain 12 Roguishness
+
+[4732] Giant's Castle
+Encounter: What are the Odds?
+You acquire an item: plot hole
+You acquire an item: chaos butterfly
+
+[4733] Giant's Castle
+Encounter: Goth Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Dr Marten's bells jingle merrily.
+Round 2: Dr Marten gives him the boot for 26 damage.
+Round 2: goth giant takes 26 damage.
+Round 2: boolicious attacks!
+Round 3: goth giant takes 286 damage.
+Round 3: Dr Marten boots him, then re-boots him again, for a total of 28 damage.
+Round 3: goth giant takes 28 damage.
+Round 3: boolicious wins the fight!
+You gain 144 Meat
+After Battle: Dr Marten does the bottom part of an Irish jig.
+You acquire an item: thin black candle
+You acquire an item: Warm Subject gift certificate
+You acquire an item: awful poetry journal
+You gain 7 Beefiness
+You gain 10 Mysteriousness
+You gain 16 Roguishness
+
+[4734] Giant's Castle
+Encounter: Furry Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Dr Marten gives him some pumped-up kicks for 26 damage. Looks like he didn't run fast enough.
+Round 2: furry giant takes 26 damage.
+Round 2: boolicious attacks!
+Round 3: furry giant takes 267 damage.
+Round 3: boolicious wins the fight!
+You gain 154 Meat
+After Battle: Dr Marten proves that it's made for dancing, not walking, with a little impromptu line dancing.
+You acquire an item: furry fur
+You gain 6 Muscleboundness
+You gain 9 Enchantedness
+You gain 19 Sarcasm
+
+[4735] Giant's Castle
+Encounter: In a Black Room, with Black Curtains
+You acquire an item: thin black candle
+You acquire an item: Warm Subject gift certificate
+
+[4736] Giant's Castle
+Encounter: Alphabet Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: heavy D
+Round 2: boolicious attacks!
+Round 3: alphabet giant takes 273 damage.
+Round 3: boolicious wins the fight!
+You gain 129 Meat
+After Battle: Dr Marten does a little of the ol' soft shoe, except it's more of a hard boot.
+You gain 11 Strongness
+You gain 10 Enchantedness
+You gain 16 Roguishness
+
+[4737] Giant's Castle
+Encounter: What are the Odds?
+You acquire an item: plot hole
+You acquire an item: chaos butterfly
+
+[4738] Giant's Castle
+Encounter: Wheel in the Clouds in the Sky, Keep On Turning
+Took choice 11/3: Leave at map quest
+choice.php?whichchoice=11&option=3&pwd
+
+[4738] Giant's Castle
+Encounter: Possibility Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: probability potion
+Round 2: boolicious attacks!
+Round 3: possibility giant takes 290 damage.
+Round 3: Dr Marten does a little dance on top of him, to the tune of 24 damage.
+Round 3: possibility giant takes 24 damage.
+Round 3: boolicious wins the fight!
+You gain 151 Meat
+After Battle: Dr Marten forms a one-pair-of-boots chorus line.
+You acquire an item: plot hole
+You gain 6 Fortitude
+You gain 9 Wizardliness
+You gain 17 Sarcasm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+[4739] Giant's Castle
+Encounter: In a Black Room, with Black Curtains
+You acquire an item: thin black candle
+You acquire an item: Warm Subject gift certificate
+
+[4740] Giant's Castle
+Encounter: What are the Odds?
+You acquire an item: plot hole
+You acquire an item: chaos butterfly
+
+[4741] Giant's Castle
+Encounter: Alphabet Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: heavy D
+Round 2: boolicious attacks!
+Round 3: alphabet giant takes 262 damage.
+Round 3: Dr Marten's bells jingle merrily.
+Round 3: Dr Marten pulls him into an impromptu mosh pit, stomping him for 32 damage.
+Round 3: alphabet giant takes 32 damage.
+Round 3: boolicious wins the fight!
+You gain 163 Meat
+After Battle: Dr Marten does a little of the ol' soft shoe, except it's more of a hard boot.
+You acquire an item: original G
+You gain 14 Strengthliness
+You gain 7 Mysteriousness
+You gain 18 Smarm
+
+[4742] Giant's Castle
+Encounter: What are the Odds?
+You acquire an item: plot hole
+You acquire an item: chaos butterfly
+
+[4743] Giant's Castle
+Encounter: Goth Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: awful poetry journal
+Round 2: boolicious attacks!
+Round 3: goth giant takes 286 damage.
+Round 3: Dr Marten boots him, then re-boots him again, for a total of 32 damage.
+Round 3: goth giant takes 32 damage.
+Round 3: boolicious wins the fight!
+You gain 160 Meat
+After Battle: Dr Marten does a few high kicks. When you're a pair of boots with no legs, the sky's the limit for how high you can kick.
+You acquire an item: thin black candle
+You acquire an item: Warm Subject gift certificate
+You gain 8 Fortitude
+You gain 14 Mysteriousness
+You gain 13 Sarcasm
+
+[4744] Giant's Castle
+Encounter: Wheel in the Clouds in the Sky, Keep On Turning
+Took choice 11/3: Leave at map quest
+choice.php?whichchoice=11&option=3&pwd
+
+[4744] Giant's Castle
+Encounter: What are the Odds?
+You acquire an item: plot hole
+You acquire an item: chaos butterfly
+
+[4745] Giant's Castle
+Encounter: Procrastination Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: procrastination potion
+Round 2: boolicious attacks!
+Round 3: procrastination giant takes 276 damage.
+Round 3: boolicious wins the fight!
+You gain 146 Meat
+After Battle: Dr Marten leaps up and clicks its heels together in midair.
+You gain 8 Fortitude
+You gain 7 Magicalness
+You gain 18 Chutzpah
+
+[4746] Giant's Castle
+Encounter: What are the Odds?
+You acquire an item: plot hole
+You acquire an item: chaos butterfly
+
+[4747] Giant's Castle
+Encounter: Possibility Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: probability potion
+Round 2: Dr Marten's bells jingle merrily.
+Round 2: Dr Marten makes sure kicks aren't getting harder to find by kicking him for 30 damage.
+Round 2: possibility giant takes 30 damage.
+Round 2: boolicious attacks!
+Round 3: possibility giant takes 316 damage.
+Round 3: boolicious wins the fight!
+You gain 161 Meat
+After Battle: Dr Marten proves that it's made for dancing, not walking, with a little impromptu line dancing.
+You acquire an item: chaos butterfly
+You gain 13 Strongness
+You gain 6 Mysteriousness
+You gain 15 Roguishness
+
+[4748] Giant's Castle
+Encounter: In a Black Room, with Black Curtains
+You acquire an item: thin black candle
+You acquire an item: Warm Subject gift certificate
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[4749] Giant's Castle
+Encounter: In a Black Room, with Black Curtains
+You acquire an item: thin black candle
+You acquire an item: Warm Subject gift certificate
+
+[4750] Giant's Castle
+Encounter: Raver Giant
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Dr Marten's bells jingle merrily.
+Round 2: Dr Marten leaps up and high-kicks  him for 25 damage.
+Round 2: raver giant takes 25 damage.
+Round 2: boolicious attacks!
+Round 3: raver giant takes 285 damage.
+Round 3: Dr Marten's bells jingle merrily.
+Round 3: Dr Marten makes sure kicks aren't getting harder to find by kicking him for 21 damage.
+Round 3: raver giant takes 21 damage.
+Round 3: boolicious wins the fight!
+You gain 168 Meat
+After Battle: Dr Marten assumes the pli&eacute; position and bends its calf-parts in and out a few times.
+You acquire an item: Angry Farmer candy
+You acquire an item: giant needle
+You acquire an item: discarded pacifier
+You gain 7 Beefiness
+You gain 7 Mysteriousness
+You gain 21 Cheek
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+use 15 Warm Subject gift certificate
+You gain 6,705 Meat
+choice.php?forceoption=0
+
+[4751] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?pwd&whichchoice=199&option=1
+custom outfit SewerTogs
+
+equip hat Hodgman's porkpie hat
+
+equip weapon grass whistle
+
+equip shirt spangly mariachi vest
+
+equip pants Hodgman's lobsterskin pants
+
+equip acc1 Hodgman's bow tie
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #97/1200:
+Question: What did Clancy Black's sister find in the backyard on Frankruary ninth, 1959?
+Answer: A milkmaid.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #425/1200:
+Question: When did the Hambonia Feral Eels win the national hide-and-seek championship?
+Answer: Last Friedegg.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #643/1200:
+Question: What player for the Waxtoff Murderous Bobcats was inducted into the Hall of Fame for his or her last-second homerun in the 1921 sky-diving championship?
+Answer: Empress Slim VII, ruler of Prefectford and the Nameless Plains.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #920/1200:
+Question: Where was Romeo VI, Duchess of Limberford, married?
+Answer: Quirm, Coney Island.
+
+buy 1 serum of sarcasm for 529 each from 1877436 on 20121130
+You acquire an item: serum of sarcasm
+
+use 1 serum of sarcasm
+You acquire an effect: Superhuman Sarcasm (duration: 5 Adventures)
+
+[4752] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious loses initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious casts RELEASE THE BOOTS!
+Round 2: Dr Marten leaps up, feet flying, heels stomping, buckles jangling, and stomps your opponent into paste. Thank goodness there wasn't a mudhole nearby.
+You acquire an item: ectoplasmic paste
+Round 2: boolicious wins the fight!
+
+[4753] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 257 damage.
+Round 2: boolicious attacks!
+Round 3: sewer gator takes 253 damage.
+Round 3: boolicious wins the fight!
+You gain 86 Meat
+After Battle: Dr Marten tries to start a mosh pit, but ends up slam-dancing with itself.
+You gain 21 Beefiness
+You gain 19 Mysteriousness
+You gain 23 Roguishness
+
+[4754] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 257 damage.
+Round 2: boolicious attacks!
+Round 3: sewer gator takes 258 damage.
+Round 3: Dr Marten gives it some pumped-up kicks for 25 damage. Looks like it didn't run fast enough.
+Round 3: sewer gator takes 25 damage.
+Round 3: boolicious wins the fight!
+You gain 81 Meat
+After Battle: Dr Marten does a little of the ol' soft shoe, except it's more of a hard boot.
+You acquire an item: sewer nuggets
+You gain 14 Fortitude
+You gain 14 Mysteriousness
+You gain 35 Sarcasm
+
+[4755] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 275 damage.
+Round 2: Dr Marten pulls him into an impromptu mosh pit, stomping him for 20 damage.
+Round 2: c. h. u. m. takes 20 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten proves that it's made for dancing, not walking, with a little impromptu line dancing.
+You acquire an item: sewer nuggets
+You gain 19 Beefiness
+You gain 17 Mysteriousness
+You gain 32 Cheek
+choice.php?forceoption=0
+
+[4756] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?action=auto?whichchoice=199&option=1&pwd
+
+buy 15 oil of oiliness for 600 each from 2015495 on 20121130
+You acquire oil of oiliness (15)
+
+use 1 Uncle Greenspan's Bathroom Finance Guide
+You acquire an effect: Buy!  Sell!  Buy!  Sell! (duration: 100 Adventures)
+choice.php?forceoption=0
+
+[4757] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?pwd&whichchoice=199&option=1
+
+[4758] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 246 damage.
+Round 2: Dr Marten's bells jingle merrily.
+Round 2: Dr Marten gives it the boot for 24 damage.
+Round 2: giant zombie goldfish takes 24 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten stomps around in a circle, its buckles jingling.
+You gain 7 Beefiness
+You gain 25 Magicalness
+You gain 32 Sarcasm
+
+[4759] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious loses initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 254 damage.
+Round 2: Dr Marten boots it, then re-boots it again, for a total of 33 damage.
+Round 2: sewer gator takes 33 damage.
+Round 2: boolicious attacks!
+Round 3: sewer gator takes 258 damage.
+Round 3: Dr Marten kicks out the jams, and by that I mean kicks it for 19 damage.
+Round 3: sewer gator takes 19 damage.
+Round 3: boolicious wins the fight!
+You gain 81 Meat
+After Battle: Dr Marten does a little of the ol' soft shoe, except it's more of a hard boot.
+You acquire an item: gator skin
+You acquire an item: sewer nuggets
+You gain 16 Strengthliness
+You gain 14 Mysteriousness
+You gain 32 Cheek
+choice.php?forceoption=0
+
+[4760] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/1: take the tunnel
+choice.php?action=auto?whichchoice=197&option=1&pwd
+
+[4761] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious loses initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 254 damage.
+Round 2: Dr Marten gives it the boot for 22 damage.
+Round 2: giant zombie goldfish takes 22 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten forms a one-pair-of-boots chorus line.
+You acquire an item: decaying goldfish liver
+You gain 10 Strongness
+You gain 25 Enchantedness
+You gain 32 Roguishness
+
+[4762] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious loses initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 256 damage.
+Round 2: Dr Marten attempts to kickstart it. It doesn't get fully funded, but does do 35 damage.
+Round 2: sewer gator takes 35 damage.
+Round 2: boolicious attacks!
+Round 3: sewer gator takes 263 damage.
+Round 3: boolicious wins the fight!
+You gain 77 Meat
+After Battle: Dr Marten forms a one-pair-of-boots chorus line.
+You acquire an item: sewer nuggets
+You gain 13 Strongness
+You gain 15 Enchantedness
+You gain 35 Smarm
+choice.php?forceoption=0
+
+[4763] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/3: open the grate
+choice.php?action=auto?whichchoice=198&option=3&pwd
+choice.php?forceoption=0
+
+[4763] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/1: take the tunnel
+choice.php?pwd&whichchoice=198&option=1
+choice.php?forceoption=0
+
+[4764] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/3: turn the valve
+choice.php?action=auto?whichchoice=197&option=3&pwd
+choice.php?forceoption=0
+
+[4764] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/1: take the tunnel
+choice.php?pwd&whichchoice=197&option=1
+choice.php?forceoption=0
+
+[4765] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/1: take the tunnel
+choice.php?pwd&whichchoice=198&option=1
+
+[4766] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious loses initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 254 damage.
+Round 2: Dr Marten pulls it into an impromptu mosh pit, stomping it for 17 damage.
+Round 2: sewer gator takes 17 damage.
+Round 2: boolicious casts RELEASE THE BOOTS!
+Round 3: Dr Marten leaps up, feet flying, heels stomping, buckles jangling, and stomps your opponent into paste. Thank goodness there wasn't a mudhole nearby.
+You acquire an item: beastly paste
+Round 3: boolicious wins the fight!
+
+[4767] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 254 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten does a few high kicks. When you're a pair of boots with no legs, the sky's the limit for how high you can kick.
+You acquire an item: sewer nuggets
+You gain 17 Strengthliness
+You gain 21 Mysteriousness
+You gain a Mysticality point!
+You gain 28 Chutzpah
+
+[4768] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 257 damage.
+Round 2: boolicious attacks!
+Round 3: sewer gator takes 250 damage.
+Round 3: boolicious wins the fight!
+You gain 100 Meat
+After Battle: Dr Marten does the bottom part of an Irish jig.
+You gain 20 Strongness
+You gain 19 Mysteriousness
+You gain 23 Chutzpah
+You gain a Moxie point!
+
+[4769] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 256 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten does the bottom part of an Irish jig.
+You gain 18 Strongness
+You gain 14 Magicalness
+You gain 35 Smarm
+
+[4770] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 231 damage.
+Round 2: boolicious attacks!
+Round 3: giant zombie goldfish takes 228 damage.
+Round 3: boolicious wins the fight!
+After Battle: Dr Marten tries to start a mosh pit, but ends up slam-dancing with itself.
+You acquire an item: sewer nuggets
+You gain 13 Beefiness
+You gain 25 Enchantedness
+You gain 29 Smarm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+use 1 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #295/1200:
+Question: What was needed to defeat The Blood Marquis Englebert in level 1, "Frigid Caverns", in the popular video game "Evil Punk XII"?
+Answer: A midwife.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #538/1200:
+Question: When did the Delawhat Wild Dutchmen win the national sleeping championship?
+Answer: Porktober 8, 1990.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #773/1200:
+Question: What player for the Fuliginbury Grove Delicious Warriors was inducted into the Hall of Fame for his or her last-second heart attack in the 1932 sky-diving championship?
+Answer: Pope Douglas XIV, ruler of Waxton and the Mysterious Woods.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #995/1200:
+Question: Where was the Princess of Reeves applauded for the crime of blasphemy?
+Answer: The Robot Woods.
+
+swimming pool submarine
+
+use 1 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[4771] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 256 damage.
+Round 2: Dr Marten's bells jingle merrily.
+Round 2: Dr Marten gives it some pumped-up kicks for 26 damage. Looks like it didn't run fast enough.
+Round 2: giant zombie goldfish takes 26 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten does a few high kicks. When you're a pair of boots with no legs, the sky's the limit for how high you can kick.
+You acquire an item: sewer nuggets
+You gain 13 Strengthliness
+You gain 11 Magicalness
+You gain 39 Smarm
+
+[4772] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 257 damage.
+Round 2: Dr Marten gives him some pumped-up kicks for 34 damage. Looks like he didn't run fast enough.
+Round 2: c. h. u. m. takes 34 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten assumes the pli&eacute; position and bends its calf-parts in and out a few times.
+You gain 13 Muscleboundness
+You gain 11 Enchantedness
+You gain 41 Smarm
+choice.php?forceoption=0
+
+[4773] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/3: open the grate
+choice.php?action=auto?whichchoice=198&option=3&pwd
+
+[4773] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious loses initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 260 damage.
+Round 2: boolicious attacks!
+Round 3: sewer gator takes 258 damage.
+Round 3: Dr Marten makes sure kicks aren't getting harder to find by kicking it for 33 damage.
+Round 3: sewer gator takes 33 damage.
+Round 3: boolicious wins the fight!
+You gain 93 Meat
+After Battle: Dr Marten does a few high kicks. When you're a pair of boots with no legs, the sky's the limit for how high you can kick.
+You acquire an item: gator skin
+You acquire an item: sewer nuggets
+You gain 18 Strengthliness
+You gain a Muscle point!
+You gain 18 Wizardliness
+You gain 27 Chutzpah
+
+[4774] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious loses initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious attacks!
+You lose 4 hit points
+Round 2: boolicious attacks!
+Round 3: giant zombie goldfish takes 256 damage.
+Round 3: boolicious wins the fight!
+After Battle: Dr Marten does a little boot-scootin' boogie.
+You acquire an item: sewer nuggets
+You gain 18 Fortitude
+You gain 17 Wizardliness
+You gain 30 Chutzpah
+
+[4775] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious loses initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 260 damage.
+Round 2: Dr Marten's bells jingle merrily.
+Round 2: Dr Marten leaps up and high-kicks  it for 29 damage.
+Round 2: sewer gator takes 29 damage.
+Round 2: boolicious attacks!
+Round 3: sewer gator takes 264 damage.
+Round 3: boolicious wins the fight!
+You gain 100 Meat
+After Battle: Dr Marten stomps around in a circle, its buckles jingling.
+You acquire an item: sewer nuggets
+You gain 19 Fortitude
+You gain 16 Enchantedness
+You gain 28 Smarm
+
+clan_hobopolis.php?place=1
+choice.php?forceoption=0
+
+[4776] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/1: take the tunnel
+choice.php?pwd&whichchoice=197&option=1
+choice.php?forceoption=0
+
+[4777] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/1: take the tunnel
+choice.php?pwd&whichchoice=198&option=1
+
+buy 2 gatorskin umbrella for 2200 each from 618975 on 20121130
+You acquire gatorskin umbrella (2)
+
+equip weapon gatorskin umbrella
+
+[4778] A Maze of Sewer Tunnels
+Encounter: At Last!
+
+clan_hobopolis.php?place=1
+clan_hobopolis.php?place=2
+
+equip weapon grass whistle
+
+equip off-hand Tuesday's ruby
+
+equip acc2 Chester's sunglasses
+
+equip acc3 cursed scrunchie
+
+[4779] Hobopolis Town Square
+Encounter: Elephantine Charlie Roosevelt, the Human Tunneler
+Round 0: boolicious loses initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Round 1: boolicious casts RELEASE THE BOOTS!
+Round 2: Dr Marten leaps up, feet flying, heels stomping, buckles jangling, and stomps your opponent into paste. Thank goodness there wasn't a mudhole nearby.
+You acquire an item: hobo paste
+Round 2: boolicious wins the fight!
+
+[4780] Hobopolis Town Square
+Encounter: Venomous Joe Waldorf, the Future of Hoboing
+Round 0: boolicious loses initiative!
+You lose 72 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 304 damage.
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 290 damage.
+Round 3: Dr Marten leaps up and high-kicks  him for 34 damage.
+Round 3: normal hobo takes 34 damage.
+Round 3: boolicious wins the fight!
+After Battle: Dr Marten leaps up and clicks its heels together in midair.
+You gain 16 Muscleboundness
+You gain 20 Magicalness
+You gain 40 Smarm
+Richard takes a hobo skin
+
+[4781] Hobopolis Town Square
+Encounter: Whispering-Lies Rufus, Head Brain of the Hobosphere
+Round 0: boolicious loses initiative!
+You lose 80 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 289 damage.
+Round 2: Dr Marten kicks him into next week, for a time-traveling 31 damage.
+Round 2: normal hobo takes 31 damage.
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 291 damage.
+Round 3: Dr Marten kicks him into next week, for a time-traveling 33 damage.
+Round 3: normal hobo takes 33 damage.
+Round 3: boolicious wins the fight!
+After Battle: Dr Marten forms a one-pair-of-boots chorus line.
+You gain 17 Strengthliness
+You gain 22 Magicalness
+You gain 39 Cheek
+Richard takes a hobo skin
+choice.php?forceoption=0
+
+[4782] Hobopolis Town Square
+Encounter: Marketplace Entrance
+Took choice 272/2: skip adventure
+choice.php?pwd&whichchoice=272&option=2
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=4
+friars blessing 3
+You acquire an effect: Brother Smothers's Blessing (duration: 20 Adventures)
+
+shower lukewarm
+You acquire an effect: Thaumodynamic (duration: 50 Adventures)
+
+use 1 Oscus's neverending soda
+You gain 216 Mojo Points
+
+Visiting Relaxing Hot Tub in clan VIP lounge
+You gain 392 hit points
+Jumping into the Awesome Ball Pit in the clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+telescope look high
+You acquire an effect: Starry-Eyed (duration: 10 Adventures)
+
+pool stylish
+You acquire an effect: Hustlin' (duration: 10 Adventures)
+
+pool strategic
+You acquire an effect: Mental A-cue-ity (duration: 10 Adventures)
+
+pool aggressive
+You acquire an effect: Billiards Belligerence (duration: 10 Adventures)
+
+[4782] Hobopolis Town Square
+Encounter: Shadow Glenn Taylor
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 666 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten leaps up and clicks its heels together in midair.
+You gain 15 Strongness
+You gain 19 Magicalness
+You gain 44 Chutzpah
+Richard takes a hobo skin
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=4
+choice.php?forceoption=0
+
+[4783] Burnbarrel Blvd.
+Encounter: Getting Tired
+Took choice 206/2: add tire to stack
+choice.php?pwd&whichchoice=206&option=2
+
+[4784] Burnbarrel Blvd.
+Encounter: Señor Marlon Huxtable, the Sterno Connoisseur
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: hot hobo takes 619 damage.
+Round 2: Dr Marten pulls him into an impromptu mosh pit, stomping him for 25 damage.
+Round 2: hot hobo takes 25 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten stomps around in a circle, its buckles jingling.
+You gain 21 Beefiness
+You gain 27 Magicalness
+You gain 44 Chutzpah
+
+[4785] Burnbarrel Blvd.
+Encounter: Frying-Pan Malvolio &quot;Smolderin' Doug&quot; Robinson
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: hot hobo takes 622 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten assumes the pli&eacute; position and bends its calf-parts in and out a few times.
+You gain 25 Strengthliness
+You gain 20 Magicalness
+You gain 45 Cheek
+choice.php?forceoption=0
+
+[4786] Burnbarrel Blvd.
+Encounter: Piping Hot
+Took choice 213/2: skip adventure
+choice.php?pwd&whichchoice=213&option=2
+
+[4786] Burnbarrel Blvd.
+Encounter: Fireball Manny, the Walking Stove
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 8 hit points
+Round 2: hot hobo takes 3 damage.
+Round 2: hot hobo takes 9 damage.
+Round 2: hot hobo takes 4 damage.
+You lose 12 hit points
+
+use 1 cloudy potion of blessing
+Round 2: boolicious attacks!
+Round 3: hot hobo takes 623 damage.
+Round 3: boolicious wins the fight!
+After Battle: Dr Marten does a few high kicks. When you're a pair of boots with no legs, the sky's the limit for how high you can kick.
+You gain 23 Muscleboundness
+You gain 29 Enchantedness
+You gain 39 Sarcasm
+You gain a Moxie point!
+
+use 1 potion of fishy speed
+You acquire an effect: Fishily Speeding (duration: 20 Adventures)
+
+use 1 potion of fishy speed
+You acquire an effect: Fishily Speeding (duration: 20 Adventures)
+
+use 3 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 30 Adventures)
+
+use 3 swirly potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 30 Adventures)
+
+use 8 dark potion of healing
+You gain 122 hit points
+You gain 123 Mojo Points
+
+[4787] Burnbarrel Blvd.
+Encounter: Staniel &quot;Arson&quot; Paulson
+Round 0: boolicious wins initiative!
+Round 1: Dr Marten rubs its soles together, then stomps in place restlessly. Clearly, the violence it's done so far is only making it ache for some quality stomping.
+Adjusted combat item count: cloudy potion of blessing
+Round 1: boolicious casts RELEASE THE BOOTS!
+Round 2: Dr Marten leaps up, feet flying, heels stomping, buckles jangling, and stomps your opponent into paste. Thank goodness there wasn't a mudhole nearby.
+You acquire an item: hobo paste
+Round 2: boolicious wins the fight!
+
+clan_hobopolis.php?place=4
+clan_hobopolis.php?place=2
+
+[4788] Hobopolis Town Square
+Encounter: Normal-Face Newton Wallace
+Round 0: boolicious loses initiative!
+You lose 79 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 669 damage.
+Round 2: Dr Marten's bells jingle merrily.
+Round 2: Dr Marten gives him some pumped-up kicks for 38 damage. Looks like he didn't run fast enough.
+Round 2: normal hobo takes 38 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten proves that it's made for dancing, not walking, with a little impromptu line dancing.
+You gain 22 Beefiness
+You gain 18 Enchantedness
+You gain 37 Sarcasm
+Richard takes a hobo skin
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 20 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 100 Adventures)
+
+[4789] Hobopolis Town Square
+Encounter: Gravybelly Dave, the Humanist
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 648 damage.
+Round 2: Dr Marten kicks him into next week, for a time-traveling 39 damage.
+Round 2: normal hobo takes 39 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten stomps around in a circle, its buckles jingling.
+You gain 18 Strengthliness
+You gain 18 Mysteriousness
+You gain 42 Roguishness
+Richard takes a hobo skin
+
+[4790] Hobopolis Town Square
+Encounter: Horus &quot;Salami Hog&quot; Shafer, the Salad Shooter
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 654 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten does a few high kicks. When you're a pair of boots with no legs, the sky's the limit for how high you can kick.
+You gain 12 Strengthliness
+You gain 19 Mysteriousness
+You gain 47 Chutzpah
+Richard takes a hobo skin
+
+[4791] Hobopolis Town Square
+Encounter: Chiseltooth Patrick, the Back-Alley Taxidermist
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 654 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten proves that it's made for dancing, not walking, with a little impromptu line dancing.
+You gain 22 Fortitude
+You gain 19 Enchantedness
+You gain 36 Cheek
+Richard takes a hobo skin
+
+[4792] Hobopolis Town Square
+Encounter: Giles Harris, the Colchester Kid
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 451 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten does a little of the ol' soft shoe, except it's more of a hard boot.
+You acquire an item: hobo nickel
+You gain 24 Beefiness
+You gain 14 Enchantedness
+You gain 40 Smarm
+
+[4793] Hobopolis Town Square
+Encounter: Duncan Reagan, the Moistener
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 439 damage.
+Round 2: Dr Marten makes sure kicks aren't getting harder to find by kicking him for 18 damage.
+Round 2: normal hobo takes 18 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten proves that it's made for dancing, not walking, with a little impromptu line dancing.
+You gain 18 Beefiness
+You gain 25 Mysteriousness
+You gain 35 Chutzpah
+
+[4794] Hobopolis Town Square
+Encounter: Stun Gun Dmitry &quot;Teen Heartthrob&quot; White, the Curator
+Round 0: boolicious loses initiative!
+You lose 78 hit points
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 436 damage.
+Round 2: Dr Marten attempts to kickstart him. It doesn't get fully funded, but does do 18 damage.
+Round 2: normal hobo takes 18 damage.
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten does the bottom part of an Irish jig.
+You acquire an item: hobo nickel
+You gain 16 Muscleboundness
+You gain 32 Enchantedness
+You gain a Mysticality point!
+You gain 33 Smarm
