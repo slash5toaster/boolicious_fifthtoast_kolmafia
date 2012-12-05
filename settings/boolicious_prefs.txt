@@ -17,10 +17,10 @@ FamiliarTrainingFrame=596,317
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=-8,-8,-1
-LoginFrame=465,133,0
+KoLDesktop=395,92,-1
+LoginFrame=582,261,0
 MailboxFrame=289,310,1
-MaximizerFrame=-4,26
+MaximizerFrame=471,263
 MeatManageFrame=450,127
 MushroomFrame=947,465,1
 OptionsFrame=-4,26,-1
@@ -51,7 +51,7 @@ _bearHugs=0
 _beerLensDrops=0
 _benettonsCasts=0
 _bonersSummoned=false
-_bootStomps=0
+_bootStomps=3
 _borrowedTimeUsed=false
 _boxOfHammersUsed=false
 _boxingGloveArrows=0
@@ -114,7 +114,7 @@ _jingleBellUsed=false
 _jitbCharge=0
 _jukebox=false
 _klawSummons=0
-_kloopDrops=0
+_kloopDrops=2
 _kolConSixPackUsed=false
 _lastZomboEye=0
 _leafblowerML=1
@@ -129,7 +129,7 @@ _nanorhinoBanishedMonster
 _navelRunaways=0
 _olympicSwimmingPool=true
 _olympicSwimmingPoolItemFound=true
-_pasteDrops=0
+_pasteDrops=3
 _photocopyUsed=false
 _pieDrops=0
 _piePartsCount=0
@@ -263,7 +263,7 @@ badMoonEncounter47=false
 badMoonEncounter48=false
 ballpitBonus=100
 banishingShoutMonsters
-bankedKarma=72
+bankedKarma=83
 barrelGoal=1
 barrelLayout=?????????
 bartenderTurnsUsed=40
@@ -780,7 +780,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
-lastAdventure=Daily Dungeon (Room 10)
+lastAdventure=South of the Border
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -844,7 +844,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=3
 lastEmptiedStorage=4
-lastEncounter=tonic water elemental
+lastEncounter=angry piñata
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -916,7 +916,7 @@ lastTelescopeReset=4
 lastTempleAdventures=-1
 lastTempleButtonsUnlock=3
 lastTempleUnlock=4
-lastTowerClimb=3
+lastTowerClimb=4
 lastTr4pz0rQuest=3
 lastVioletFogMap=4
 lastWuTangDefeated=1
@@ -1039,7 +1039,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=5166\:Semirare window begin loc\=*\:lparen.gif\:5206\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1048,8 +1048,8 @@ romanticTarget
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=3045
-semirareLocation=Sleazy Back Alley
+semirareCounter=5006
+semirareLocation=Giant's Castle
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
