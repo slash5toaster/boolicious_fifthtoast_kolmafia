@@ -1,0 +1,804 @@
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 917 Meat
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Looking Glass in clan VIP lounge
+You acquire an item: &quot;DRINK ME&quot; potion
+
+Visiting Crimbo Tree in clan VIP lounge
+You acquire an item: Jack-in-the-box
+
+swimming pool screwaround
+Encounter: Screwing Around!
+
+Doing handstand in clan VIP swimming pool
+Encounter: Screwing Around!
+
+Diving for treasure in clan VIP swimming pool
+Encounter: Screwing Around!
+
+Getting out of clan VIP swimming pool
+
+use 1 Manual of Dexterity
+
+use 1 Chester's bag of candy
+You acquire an item: Angry Farmer candy
+You acquire Tasty Fun Good rice candy (2)
+You acquire Yummy Tummy bean (3)
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: When?
+
+use 1 creepy voodoo doll
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 5 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (5)
+You spent 250 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless knick-knack
+You acquire an item: worthless gewgaw
+You acquire an item: worthless trinket
+
+add to closet: 1 worthless trinket
+
+add to closet: 1 worthless gewgaw
+
+add to closet: 1 worthless knick-knack
+
+use 2 chewing gum on a string
+You acquire an item: worthless gewgaw
+You acquire an item: worthless knick-knack
+
+take from closet: 1 worthless trinket
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless gewgaw
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 5 worthless items for 5 ten-leaf clovers
+You acquire ten-leaf clover (5)
+
+Use 5 ten-leaf clover
+You acquire disassembled clover (5)
+You gain 4,537 Meat
+
+Visiting the Fishing Village on the Secret Tropical Island Volcano Lair
+You acquire an item: fisherman's sack
+
+use 5 fisherman's sack
+You acquire fish-oil smoke bomb (15)
+You acquire vial of squid ink (5)
+You acquire potion of fishy speed (5)
+
+use 1 Jack-in-the-box
+
+mallsell: 6 Jack-in-the-box
+
+mallsell: 14 stylish swimsuit
+
+mallsell: 100 Angry Farmer candy
+
+mallsell: 200 Yummy Tummy bean
+
+mallsell: 100 disassembled clover
+
+mallsell: 30 potion of fishy speed, 30 vial of squid ink, 100 fish-oil smoke bomb
+
+mallsell: 20 &quot;DRINK ME&quot; potion
+
+buy 1 disassembled clover for 200 each from 663259 on 20121221
+You acquire an item: disassembled clover
+
+buy 1 disassembled clover for 200 each from 310642 on 20121221
+You acquire an item: disassembled clover
+
+manageprices.php?action=update&price0[5401]=22000&limit0[5401]=0&price0[5270]=8500&limit0[5270]=0&price0[5402]=6300&limit0[5402]=0&price0[5471]=5950&limit0[5471]=0&price0[375]=3745&limit0[375]=0&price0[2217]=3500&limit0[2217]=0&price0[995]=2295&limit0[995]=0&price0[3301]=2200&limit0[3301]=0&price0[226]=1300&limit0[226]=0&price0[196]=1300&limit0[196]=0&price0[5101]=1200&limit0[5101]=0&price0[2265]=1145&limit0[2265]=0&price0[1863]=500&limit0[1863]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[2680]=300&limit0[2680]=0&price0[617]=274&limit0[617]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[542]=260&limit0[542]=0&price0[821]=260&limit0[821]=0&price0[538]=260&limit0[538]=0&price0[827]=260&limit0[827]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[614]=256&limit0[614]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=0&price0[125]=250&limit0[125]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[1840]=200&limit0[1840]=0&price0[1803]=200&limit0[1803]=0&price0[5468]=200&limit0[5468]=0&price0[834]=190&limit0[834]=0&price0[472]=190&limit0[472]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[218]=155&limit0[218]=0&price0[3597]=150&limit0[3597]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[4508]=150&limit0[4508]=0&price0[475]=130&limit0[475]=0&price0[1655]=120&limit0[1655]=0&price0[5467]=111&limit0[5467]=0&price0[5466]=111&limit0[5466]=0&price0[905]=110&limit0[905]=0&price0[5469]=100&limit0[5469]=0&price0[1]=100&limit0[1]=0&price0[5679]=100&limit0[5679]=0
+
+mallsell: 1 Pok&euml;mann figurine: Shoggoth, 1 Pok&euml;mann figurine: Smugleaf, 2 Pok&euml;mann figurine: Vermouth
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 20 disintegrating corks
+
+[5964] Haunted Wine Cellar (Southwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Adjusted combat item count: fish-oil smoke bomb (100)
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 532 damage.
+Round 2: boolicious wins the fight!
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 10 Strongness
+You gain 18 Magicalness
+You gain 20 Sarcasm
+You gain a Moxie point!
+
+[5965] Haunted Wine Cellar (Southwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 535 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of great Port
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 15 Beefiness
+You gain 13 Magicalness
+You gain 20 Smarm
+
+[5966] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 536 damage.
+Round 2: boolicious wins the fight!
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 11 Muscleboundness
+You gain 17 Wizardliness
+You gain 19 Chutzpah
+
+[5967] Haunted Wine Cellar (Southwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 537 damage.
+Round 2: boolicious wins the fight!
+You gain 87 Meat
+You acquire an item: disintegrating cork
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 10 Muscleboundness
+You gain 14 Enchantedness
+You gain 26 Sarcasm
+
+[5968] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 534 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of spooky Muscat
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 14 Fortitude
+You gain a Muscle point!
+You gain 10 Wizardliness
+You gain 23 Roguishness
+
+[5969] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 537 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of vinegar Marsala
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 8 Muscleboundness
+You gain 16 Mysteriousness
+You gain 23 Chutzpah
+
+[5970] Haunted Wine Cellar (Northwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 534 damage.
+Round 2: boolicious wins the fight!
+You gain 110 Meat
+You acquire an item: dusty bottle of bad Merlot
+You acquire an item: dusty bottle of vinegar Marsala
+You acquire an item: disintegrating cork
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 12 Muscleboundness
+You gain 17 Mysteriousness
+You gain 21 Smarm
+
+[5971] Haunted Wine Cellar (Northeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 534 damage.
+Round 2: boolicious wins the fight!
+You gain 111 Meat
+You acquire an item: dusty bottle of bad Merlot
+You acquire an item: disintegrating cork
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 15 Strongness
+You gain 10 Enchantedness
+You gain 24 Sarcasm
+
+[5972] Haunted Wine Cellar (Southeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 543 damage.
+Round 2: boolicious wins the fight!
+You gain 109 Meat
+You acquire an item: disintegrating cork
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 15 Beefiness
+You gain 11 Enchantedness
+You gain 21 Chutzpah
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+[5973] Haunted Wine Cellar (Southeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 570 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of average Pinot Noir
+You acquire an item: dusty bottle of glassy Zinfandel
+You acquire an item: dusty bottle of vinegar Marsala
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 6 Fortitude
+You gain 15 Mysteriousness
+You gain 26 Cheek
+
+[5974] Haunted Wine Cellar (Northeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 560 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of bad Merlot
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 8 Muscleboundness
+You gain 16 Mysteriousness
+You gain a Mysticality point!
+You gain 21 Roguishness
+
+[5975] Haunted Wine Cellar (Northwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 528 damage.
+Round 2: boolicious wins the fight!
+You gain 99 Meat
+You acquire an item: dusty bottle of spooky Muscat
+You acquire an item: disintegrating cork
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 11 Strengthliness
+You gain 13 Enchantedness
+You gain 27 Smarm
+
+[5976] Haunted Wine Cellar (Northwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 533 damage.
+Round 2: boolicious wins the fight!
+You gain 103 Meat
+You acquire an item: disintegrating cork
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 11 Fortitude
+You gain 14 Enchantedness
+You gain 24 Roguishness
+
+[5977] Haunted Wine Cellar (Southeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 531 damage.
+Round 2: boolicious wins the fight!
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 9 Fortitude
+You gain 13 Magicalness
+You gain 26 Chutzpah
+
+[5978] Haunted Wine Cellar (Northwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 532 damage.
+Round 2: boolicious wins the fight!
+You gain 110 Meat
+You acquire an item: dusty bottle of bad Merlot
+You acquire an item: dusty bottle of vinegar Marsala
+You acquire an item: disintegrating cork
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 9 Beefiness
+You gain 17 Mysteriousness
+You gain 24 Cheek
+
+[5979] Haunted Wine Cellar (Southeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 528 damage.
+Round 2: boolicious wins the fight!
+You gain 107 Meat
+You acquire an item: dusty bottle of average Pinot Noir
+You acquire an item: disintegrating cork
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 10 Strongness
+You gain 10 Wizardliness
+You gain 29 Smarm
+
+[5980] Haunted Wine Cellar (Northeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 522 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of great Port
+You acquire an item: dusty bottle of average Pinot Noir
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 11 Beefiness
+You gain 11 Mysteriousness
+You gain 25 Chutzpah
+
+[5981] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 252 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of vinegar Marsala
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 13 Strongness
+You gain 8 Enchantedness
+You gain 24 Cheek
+
+[5982] Haunted Wine Cellar (Northeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 299 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of bad Merlot
+You acquire an item: dusty bottle of great Port
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 8 Strengthliness
+You gain 8 Magicalness
+You gain 30 Cheek
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+use 1 Oscus's neverending soda
+You gain 291 Mojo Points
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[5983] Haunted Wine Cellar (Southwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 532 damage.
+Round 2: boolicious wins the fight!
+You gain 94 Meat
+You acquire an item: dusty bottle of great Port
+You acquire an item: dusty bottle of glassy Zinfandel
+You acquire an item: dusty bottle of spooky Muscat
+You acquire an item: disintegrating cork
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 17 Strongness
+You gain 8 Magicalness
+You gain 24 Cheek
+
+[5984] Haunted Wine Cellar (Northeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 535 damage.
+Round 2: boolicious wins the fight!
+You gain 105 Meat
+You acquire an item: dusty bottle of bad Merlot
+You acquire an item: dusty bottle of great Port
+You acquire an item: disintegrating cork
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 13 Beefiness
+You gain 15 Wizardliness
+You gain 22 Roguishness
+
+[5985] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 523 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: , the 2 lb. (none)
+You acquire an item: dusty bottle of bad Merlot
+You acquire an item: dusty bottle of vinegar Marsala
+After Battle: Javier bends its brim into an approximation of a smile.
+You gain 11 Strongness
+You gain 9 Wizardliness
+You gain 25 Roguishness
+
+familiar Li'l Xenomorph (16 lbs)
+
+[5986] Haunted Wine Cellar (Southeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 533 damage.
+Round 2: boolicious wins the fight!
+You gain 95 Meat
+You acquire an item: dusty bottle of glassy Zinfandel
+You acquire an item: disintegrating cork
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 11 Fortitude
+You gain 15 Magicalness
+You gain 23 Sarcasm
+
+[5987] Haunted Wine Cellar (Southeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 523 damage.
+Round 2: boolicious wins the fight!
+You gain 97 Meat
+You acquire an item: dusty bottle of average Pinot Noir
+You acquire an item: dusty bottle of glassy Zinfandel
+You acquire an item: disintegrating cork
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 9 Strongness
+You gain 15 Wizardliness
+You gain 25 Chutzpah
+
+[5988] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 526 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: sigourney, the 9 lb. Li'l Xenomorph
+After Battle: sigourney hiccups and coughs up something covered in corrosive goo. Your curiosity overcomes your gag reflex and you pick up the device.
+You acquire an item: transporter transponder
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 13 Beefiness
+You gain 10 Wizardliness
+You gain 20 Cheek
+You gain a Moxie point!
+
+[5989] Haunted Wine Cellar (Southeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 536 damage.
+Round 2: boolicious wins the fight!
+You gain 110 Meat
+You acquire an item: disintegrating cork
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 12 Strengthliness
+You gain 8 Wizardliness
+You gain 27 Smarm
+
+[5990] Haunted Wine Cellar (Northeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 529 damage.
+Round 2: boolicious wins the fight!
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 14 Fortitude
+You gain 11 Mysteriousness
+You gain 21 Sarcasm
+
+[5991] Haunted Wine Cellar (Southeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 541 damage.
+Round 2: boolicious wins the fight!
+You gain 104 Meat
+You acquire an item: disintegrating cork
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 17 Beefiness
+You gain 8 Magicalness
+You gain 22 Roguishness
+
+[5992] Haunted Wine Cellar (Northeast)
+Encounter: Jeffybimbor Guacamolestirrer, the tacobuilding Crimbo elf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: tacobuilding crimbo elf takes 541 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: Taco Dan's Taco Stand Chimichangarita
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 8 Strongness
+You gain 14 Enchantedness
+You gain 22 Smarm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+[5993] Haunted Wine Cellar (Southeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 534 damage.
+Round 2: boolicious wins the fight!
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 6 Muscleboundness
+You gain 16 Wizardliness
+You gain 23 Smarm
+
+[5994] Haunted Wine Cellar (Southwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 536 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of spooky Muscat
+After Battle: sigourney hiccups and coughs up something covered in corrosive goo. Your curiosity overcomes your gag reflex and you pick up the device.
+You acquire an item: transporter transponder
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 8 Strongness
+You gain 11 Wizardliness
+You gain 24 Sarcasm
+
+[5995] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 532 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of spooky Muscat
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 10 Beefiness
+You gain 10 Enchantedness
+You gain 25 Cheek
+
+[5996] Haunted Wine Cellar (Northeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 529 damage.
+Round 2: boolicious wins the fight!
+You gain 120 Meat
+You acquire an item: disintegrating cork
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 18 Fortitude
+You gain 9 Magicalness
+You gain 21 Roguishness
+
+[5997] Haunted Wine Cellar (Northeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 539 damage.
+Round 2: boolicious wins the fight!
+You gain 106 Meat
+You acquire an item: dusty bottle of bad Merlot
+You acquire an item: dusty bottle of great Port
+You acquire an item: dusty bottle of average Pinot Noir
+You acquire an item: disintegrating cork
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 14 Muscleboundness
+You gain 17 Wizardliness
+You gain 17 Smarm
+
+[5998] Haunted Wine Cellar (Southeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 522 damage.
+Round 2: boolicious wins the fight!
+You gain 113 Meat
+You acquire an item: dusty bottle of glassy Zinfandel
+You acquire an item: disintegrating cork
+After Battle: sigourney hiccups and coughs up something covered in corrosive goo. Your curiosity overcomes your gag reflex and you pick up the device.
+You acquire an item: transporter transponder
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 12 Fortitude
+You gain 17 Enchantedness
+You gain 20 Smarm
+
+[5999] Haunted Wine Cellar (Southwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 531 damage.
+Round 2: boolicious wins the fight!
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 10 Muscleboundness
+You gain 11 Enchantedness
+You gain 24 Cheek
+
+[6000] Haunted Wine Cellar (Southwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 250 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of great Port
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 10 Muscleboundness
+You gain 9 Enchantedness
+You gain 25 Cheek
+
+[6001] Haunted Wine Cellar (Northeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 18 hit points
+Round 2: boolicious attacks!
+Round 3: possessed wine rack takes 275 damage.
+Round 3: boolicious wins the fight!
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 15 Strongness
+You gain 13 Mysteriousness
+You gain 18 Smarm
+
+[6002] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: possessed wine rack takes 300 damage.
+Round 2: boolicious wins the fight!
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 7 Strengthliness
+You gain 10 Mysteriousness
+You gain 28 Sarcasm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+use 3 Marquis de Poivre soda
+You gain 95 Mojo Points
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+[6003] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 521 damage.
+Round 2: boolicious wins the fight!
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 10 Fortitude
+You gain 18 Enchantedness
+You gain 17 Chutzpah
+
+[6004] Haunted Wine Cellar (Northeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 519 damage.
+Round 2: boolicious wins the fight!
+After Battle: sigourney hiccups and coughs up something covered in corrosive goo. Your curiosity overcomes your gag reflex and you pick up the device.
+You acquire an item: transporter transponder
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 9 Muscleboundness
+You gain 15 Enchantedness
+You gain 22 Smarm
+
+[6005] Haunted Wine Cellar (Northeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 540 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of great Port
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 8 Strengthliness
+You gain 15 Magicalness
+You gain 24 Cheek
+
+[6006] Haunted Wine Cellar (Northwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 536 damage.
+Round 2: boolicious wins the fight!
+You gain 108 Meat
+You acquire an item: dusty bottle of vinegar Marsala
+You acquire an item: disintegrating cork
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 11 Strengthliness
+You gain 14 Magicalness
+You gain 22 Cheek
+
+[6007] Haunted Wine Cellar (Northeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 532 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: sigourney, the 10 lb. Li'l Xenomorph
+You gain 97 Meat
+You acquire an item: dusty bottle of great Port
+You acquire an item: disintegrating cork
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 14 Muscleboundness
+You gain a Muscle point!
+You gain 11 Mysteriousness
+You gain 23 Sarcasm
+
+[6008] Haunted Wine Cellar (Northwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: skeletal sommelier takes 261 damage.
+Round 2: boolicious wins the fight!
+You gain 107 Meat
+You acquire an item: dusty bottle of bad Merlot
+You acquire an item: dusty bottle of vinegar Marsala
+You acquire an item: disintegrating cork
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 13 Strengthliness
+You gain 18 Enchantedness
+You gain 17 Roguishness
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+equip familiar Li'l Businessman Kit
