@@ -20,18 +20,22 @@ ItemManageFrame=592,332,-1
 KoLDesktop=-8,-8,-1
 LoginFrame=465,132,0
 MailboxFrame=289,310,1
-MaximizerFrame=471,263
+MaximizerFrame=205,64
 MeatManageFrame=450,127
 MushroomFrame=947,465,1
-OptionsFrame=-4,26,-1
+OptionsFrame=360,87,-1
 ProfileFrame=2662,393,-1
 RecentEventsFrame=474,284
 RequestFrame=375,103,-1
-RequestSynchFrame=5,31,-1
+RequestSynchFrame=-8,-8,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=-8,-8,0
+<<<<<<< HEAD
 TabbedChatFrame=397,48,0
+=======
+TabbedChatFrame=481,41,1
+>>>>>>> e80f7e826aee724ce79f8088d0b3f5ace4c79405
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -91,7 +95,7 @@ _gnomeAdv=0
 _gongDrops=0
 _gothKidCharge=0
 _gothKidFights=0
-_grimoireGeekySummons=0
+_grimoireGeekySummons=1
 _grooseDrops=0
 _guildManualUsed=true
 _hareAdv=0
@@ -173,7 +177,7 @@ _toastSummons=3
 _tokenDrops=0
 _transponderDrops=4
 _treasuryEliteMeatCollected=false
-_treasuryHaremMeatCollected=false
+_treasuryHaremMeatCollected=true
 _trivialAvocationsGame=true
 _userMods
 _vitachocCapsulesUsed=0
@@ -287,7 +291,7 @@ birdformRoc=0
 birdformSleaze=0
 birdformSpooky=0
 birdformStench=0
-blackPuddingsDefeated=23
+blackPuddingsDefeated=32
 blankOutUsed=0
 bootsCharged=false
 borisPoints=0
@@ -693,7 +697,11 @@ clanAttacksEnabled=false
 cocktailSummons=0
 concertVisited=false
 counterScript
+<<<<<<< HEAD
 crimboTreeDays=7
+=======
+crimboTreeDays=2
+>>>>>>> e80f7e826aee724ce79f8088d0b3f5ace4c79405
 currentBountyItem=0
 currentFullness=0
 currentHippyStore=hippy
@@ -759,7 +767,7 @@ fratboysDefeated=33
 friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=10
-gourdItemCount=6
+gourdItemCount=8
 grimoire1Summons=0
 grimoire2Summons=0
 grimoire3Summons=0
@@ -780,7 +788,11 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
+<<<<<<< HEAD
 lastAdventure=Haunted Wine Cellar (Northwest)
+=======
+lastAdventure=Hole in the Sky
+>>>>>>> e80f7e826aee724ce79f8088d0b3f5ace4c79405
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -796,14 +808,22 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
+<<<<<<< HEAD
 lastBreakfast=11
+=======
+lastBreakfast=9
+>>>>>>> e80f7e826aee724ce79f8088d0b3f5ace4c79405
 lastCellarReset=4
 lastChanceBurn
 lastChanceThreshold=100
 lastChasmReset=-1
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastCouncilVisit=14
+<<<<<<< HEAD
 lastCounterDay=11
+=======
+lastCounterDay=9
+>>>>>>> e80f7e826aee724ce79f8088d0b3f5ace4c79405
 lastDispensaryOpen=3
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -842,9 +862,13 @@ lastDwarfOfficeItem3214
 lastDwarfOreRunes=IOJH
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
-lastEasterEggBalloon=3
+lastEasterEggBalloon=4
 lastEmptiedStorage=4
+<<<<<<< HEAD
 lastEncounter=skeletal sommelier
+=======
+lastEncounter=The Astronomer
+>>>>>>> e80f7e826aee724ce79f8088d0b3f5ace4c79405
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -921,7 +945,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=4
 lastWuTangDefeated=1
 lastZapperWand=4
-libramSummons=0
+libramSummons=6
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=6
@@ -967,8 +991,8 @@ pastamancerOrbedType
 pendingMapReflections=4
 photocopyMonster=monster
 pieStuffing
-plantingDate=9
-plantingDay=0
+plantingDate=13
+plantingDay=1
 plantingLength=8
 plantingScript=Stinky
 poolSharkCount=1
@@ -1039,7 +1063,11 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
+<<<<<<< HEAD
 relayCounters=6026\:Taco Elf window begin loc\=*\:lparen.gif\:6031\:Taco Elf window end loc\=*\:rparen.gif
+=======
+relayCounters=5991\:Taco Elf window begin loc\=*\:lparen.gif\:5996\:Taco Elf window end loc\=*\:rparen.gif
+>>>>>>> e80f7e826aee724ce79f8088d0b3f5ace4c79405
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1049,8 +1077,8 @@ safePickpocket=true
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=5006
-semirareLocation=Giant's Castle
+semirareCounter=5385
+semirareLocation=Pirate Cove
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
