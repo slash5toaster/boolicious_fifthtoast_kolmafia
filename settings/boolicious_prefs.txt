@@ -1,6 +1,6 @@
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
->>>>>>>=ussf319388
+>>>>>>>=e80f7e826aee724ce79f8088d0b3f5ace4c79405
 AdventureFrame=880,282,0
 BuffBotFrame=603,307,0
 BuffRequestFrame=49,161
@@ -27,21 +27,17 @@ OptionsFrame=360,87,-1
 ProfileFrame=2662,393,-1
 RecentEventsFrame=474,284
 RequestFrame=375,103,-1
-RequestSynchFrame=-8,-8,-1
+RequestSynchFrame=0,0,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=-8,-8,0
-<<<<<<< HEAD
-TabbedChatFrame=397,48,0
-=======
 TabbedChatFrame=481,41,1
->>>>>>> e80f7e826aee724ce79f8088d0b3f5ace4c79405
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
 _allYearSucker=false
-_aprilShower=false
+_aprilShower=true
 _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
@@ -95,7 +91,7 @@ _gnomeAdv=0
 _gongDrops=0
 _gothKidCharge=0
 _gothKidFights=0
-_grimoireGeekySummons=1
+_grimoireGeekySummons=0
 _grooseDrops=0
 _guildManualUsed=true
 _hareAdv=0
@@ -118,7 +114,7 @@ _jingleBellUsed=false
 _jitbCharge=0
 _jukebox=false
 _klawSummons=0
-_kloopDrops=0
+_kloopDrops=5
 _kolConSixPackUsed=false
 _lastZomboEye=0
 _leafblowerML=1
@@ -131,7 +127,7 @@ _mayflySummons=0
 _mediumSiphons=0
 _nanorhinoBanishedMonster
 _navelRunaways=0
-_olympicSwimmingPool=false
+_olympicSwimmingPool=true
 _olympicSwimmingPoolItemFound=true
 _pasteDrops=0
 _photocopyUsed=false
@@ -139,7 +135,7 @@ _pieDrops=0
 _piePartsCount=0
 _pneumaticityPotionUsed=false
 _poisonArrows=0
-_poolGames=0
+_poolGames=3
 _precisionCasts=0
 _radlibSummons=0
 _raindohCopiesMade=0
@@ -175,9 +171,9 @@ _thingfinderCasts=0
 _timeHelmetAdv=0
 _toastSummons=3
 _tokenDrops=0
-_transponderDrops=4
+_transponderDrops=5
 _treasuryEliteMeatCollected=false
-_treasuryHaremMeatCollected=true
+_treasuryHaremMeatCollected=false
 _trivialAvocationsGame=true
 _userMods
 _vitachocCapsulesUsed=0
@@ -697,18 +693,14 @@ clanAttacksEnabled=false
 cocktailSummons=0
 concertVisited=false
 counterScript
-<<<<<<< HEAD
-crimboTreeDays=7
-=======
-crimboTreeDays=2
->>>>>>> e80f7e826aee724ce79f8088d0b3f5ace4c79405
+crimboTreeDays=6
 currentBountyItem=0
 currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
 currentMojoFilters=0
-currentMood=default
+currentMood=powered
 currentNunneryMeat=87942
 currentPvpVictories
 currentSpleenUse=0
@@ -788,11 +780,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
-<<<<<<< HEAD
-lastAdventure=Haunted Wine Cellar (Northwest)
-=======
-lastAdventure=Hole in the Sky
->>>>>>> e80f7e826aee724ce79f8088d0b3f5ace4c79405
+lastAdventure=Hobopolis Town Square
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -808,22 +796,14 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
-<<<<<<< HEAD
-lastBreakfast=11
-=======
-lastBreakfast=9
->>>>>>> e80f7e826aee724ce79f8088d0b3f5ace4c79405
+lastBreakfast=12
 lastCellarReset=4
 lastChanceBurn
 lastChanceThreshold=100
 lastChasmReset=-1
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastCouncilVisit=14
-<<<<<<< HEAD
-lastCounterDay=11
-=======
-lastCounterDay=9
->>>>>>> e80f7e826aee724ce79f8088d0b3f5ace4c79405
+lastCounterDay=12
 lastDispensaryOpen=3
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -864,11 +844,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-<<<<<<< HEAD
-lastEncounter=skeletal sommelier
-=======
-lastEncounter=The Astronomer
->>>>>>> e80f7e826aee724ce79f8088d0b3f5ace4c79405
+lastEncounter=A Pantry
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -945,7 +921,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=4
 lastWuTangDefeated=1
 lastZapperWand=4
-libramSummons=6
+libramSummons=0
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=6
@@ -1063,11 +1039,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-<<<<<<< HEAD
-relayCounters=6026\:Taco Elf window begin loc\=*\:lparen.gif\:6031\:Taco Elf window end loc\=*\:rparen.gif
-=======
-relayCounters=5991\:Taco Elf window begin loc\=*\:lparen.gif\:5996\:Taco Elf window end loc\=*\:rparen.gif
->>>>>>> e80f7e826aee724ce79f8088d0b3f5ace4c79405
+relayCounters=6101\:Taco Elf window begin loc\=*\:lparen.gif\:6106\:Taco Elf window end loc\=*\:rparen.gif
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
