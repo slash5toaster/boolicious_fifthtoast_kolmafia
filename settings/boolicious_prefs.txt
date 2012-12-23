@@ -17,7 +17,7 @@ FamiliarTrainingFrame=596,317
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=278,0,-1
+KoLDesktop=-8,-8,-1
 LoginFrame=465,132,0
 MailboxFrame=289,310,1
 MaximizerFrame=354,134
@@ -36,7 +36,7 @@ TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
-_allYearSucker=false
+_allYearSucker=true
 _aprilShower=true
 _astralDrops=0
 _badlyRomanticArrows=0
@@ -108,7 +108,7 @@ _interviewIsabella=false
 _interviewMasquerade=false
 _interviewVlad=false
 _ironicMoustache=false
-_jackassPlumberGame=false
+_jackassPlumberGame=true
 _jackassePlumberGame
 _jingleBellUsed=false
 _jitbCharge=0
@@ -703,7 +703,7 @@ currentMojoFilters=0
 currentMood=default
 currentNunneryMeat=87942
 currentPvpVictories
-currentSpleenUse=0
+currentSpleenUse=15
 currentWheelPosition=mysticality
 customCombatScript=default
 cyrptAlcoveEvilness=0
@@ -780,7 +780,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
-lastAdventure=Dungeons of Doom
+lastAdventure=Crimbokutown Toy Factory
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -844,12 +844,12 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-lastEncounter=acid blob
+lastEncounter=Vision of the Dead
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
 lastGalleryUnlock=3
-lastGuildStoreOpen=0
+lastGuildStoreOpen=4
 lastGuyMadeOfBeesReset=4
 lastHermitReset=3
 lastHiddenCityAscension=3
@@ -1039,7 +1039,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=6437\:Fortune Cookie\:fortune.gif\:6433\:Taco Elf window begin loc\=*\:lparen.gif\:6438\:Taco Elf window end loc\=*\:rparen.gif
+relayCounters=6433\:Taco Elf window begin loc\=*\:lparen.gif\:6437\:Fortune Cookie\:fortune.gif\:6438\:Taco Elf window end loc\=*\:rparen.gif
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
