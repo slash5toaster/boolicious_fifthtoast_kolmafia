@@ -7907,3 +7907,10 @@ equip acc1 fudgecycle
 equip acc2 gold wedding ring
 
 equip acc3 wristwatch of the white knight
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+[6433] Drunken Stupor
+Encounter: What's that smell?
+You gain 3 Meat

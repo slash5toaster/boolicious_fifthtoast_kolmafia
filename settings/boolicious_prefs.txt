@@ -780,7 +780,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
-lastAdventure=Crimbokutown Toy Factory
+lastAdventure=Drunken Stupor
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -844,7 +844,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-lastEncounter=Vision of the Dead
+lastEncounter=What's that smell?
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
