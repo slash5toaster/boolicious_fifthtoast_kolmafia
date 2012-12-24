@@ -12,11 +12,8 @@ lose_effect pasta oneness => cast 2 manicotti meditation
 lose_effect springy fusilli => cast 1 springy fusilli
 
 [ power ]
-lose_effect izchak's blessing => use 1 potion of blessing
 lose_effect leash of linguini => cast 1 leash of linguini
 lose_effect pasta oneness => cast 2 manicotti meditation
 lose_effect springy fusilli => cast 1 springy fusilli
-lose_effect strange mental acuity => use 1 potion of mental acuity
-lose_effect strength of ten ettins => use 1 potion of ettin strength
 lose_effect trivia master => use 1 Trivial Avocations Card: What?, 1 Trivial Avocations Card: When?, 1 Trivial Avocations Card: Who?, 1 Trivial Avocations Card: Where?
 
