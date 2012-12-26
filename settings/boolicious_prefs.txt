@@ -37,7 +37,7 @@ _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
 _allYearSucker=false
-_aprilShower=true
+_aprilShower=false
 _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
@@ -45,7 +45,7 @@ _bagOfCandy=false
 _bagOfCandyUsed=true
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=true
+_ballpit=false
 _banderRunaways=0
 _bearHugs=0
 _beerLensDrops=0
@@ -64,7 +64,7 @@ _carnieCandyDrops=0
 _chipBags=0
 _chocolateCigarsUsed=0
 _chocolatesUsed=0
-_clipartSummons=2
+_clipartSummons=0
 _coalPaperweightUsed=false
 _companionshipCasts=0
 _creepyVoodooDollUsed=true
@@ -74,7 +74,7 @@ _cursedMicrowaveUsed=false
 _darkChocolateHeart=false
 _deluxeKlawSummons=3
 _demandSandwich=0
-_distentionPillUsed=true
+_distentionPillUsed=false
 _donhosCasts=0
 _elronsCasts=0
 _essentialTofuUsed=false
@@ -100,7 +100,7 @@ _hippyMeatCollected=true
 _hipsterAdv=0
 _hobbyHorseUsed=false
 _hoboUnderlingSummons=0
-_hotTubSoaks=1
+_hotTubSoaks=0
 _hyperinflatedSealLungUsed=false
 _iceballUses=0
 _inigosCasts=0
@@ -127,7 +127,7 @@ _mayflySummons=0
 _mediumSiphons=0
 _nanorhinoBanishedMonster
 _navelRunaways=0
-_olympicSwimmingPool=true
+_olympicSwimmingPool=false
 _olympicSwimmingPoolItemFound=true
 _pasteDrops=0
 _photocopyUsed=false
@@ -135,7 +135,7 @@ _pieDrops=0
 _piePartsCount=0
 _pneumaticityPotionUsed=false
 _poisonArrows=0
-_poolGames=3
+_poolGames=0
 _precisionCasts=0
 _radlibSummons=0
 _raindohCopiesMade=0
@@ -691,11 +691,11 @@ choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=true
+concertVisited=false
 counterScript
-crimboTreeDays=3
-currentBountyItem=2472
-currentFullness=20
+crimboTreeDays=2
+currentBountyItem=0
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -756,7 +756,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=33
-friarsBlessingReceived=true
+friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=10
 gourdItemCount=8
@@ -780,7 +780,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
-lastAdventure=Fernswarthy's Ruins
+lastAdventure=Crimbokutown Toy Factory
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -796,14 +796,14 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
-lastBreakfast=15
+lastBreakfast=0
 lastCellarReset=4
 lastChanceBurn
 lastChanceThreshold=100
 lastChasmReset=-1
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastCouncilVisit=14
-lastCounterDay=15
+lastCounterDay=0
 lastDispensaryOpen=3
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -844,7 +844,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-lastEncounter=Yeast Beast
+lastEncounter=Legend in the Shell
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -1039,7 +1039,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=6851\:Taco Elf window begin loc\=*\:lparen.gif\:6856\:Taco Elf window end loc\=*\:rparen.gif
+relayCounters=6891\:Taco Elf window begin loc\=*\:lparen.gif\:6896\:Taco Elf window end loc\=*\:rparen.gif
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1110,13 +1110,13 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=true
+telescopeLookedHigh=false
 telescopeUpgrades=1
 tempuraSummons=0
 textColors=crappy\:\#999999|good\:green|awesome\:blue|epic\:\#8a2be2|junk\:gray|memento\:olive|notavailable\:gray
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=2
+tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
