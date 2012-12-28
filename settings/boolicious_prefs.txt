@@ -30,7 +30,7 @@ RequestFrame=375,103,-1
 RequestSynchFrame=-8,-8,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
-StoreManageFrame=332,111,0
+StoreManageFrame=332,111,3
 TabbedChatFrame=481,41,1
 TrophyFrame=273,274,-1
 _absintheDrops=0
@@ -45,7 +45,7 @@ _bagOfCandy=false
 _bagOfCandyUsed=true
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=false
+_ballpit=true
 _banderRunaways=0
 _bearHugs=0
 _beerLensDrops=0
@@ -100,7 +100,7 @@ _hippyMeatCollected=true
 _hipsterAdv=0
 _hobbyHorseUsed=false
 _hoboUnderlingSummons=0
-_hotTubSoaks=0
+_hotTubSoaks=1
 _hyperinflatedSealLungUsed=false
 _iceballUses=0
 _inigosCasts=0
@@ -691,11 +691,11 @@ choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=false
+concertVisited=true
 counterScript
 crimboTreeDays=7
 currentBountyItem=0
-currentFullness=12
+currentFullness=19
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -844,7 +844,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-lastEncounter=Sabaku no Kokuou
+lastEncounter=Ao Wani
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -921,7 +921,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=4
 lastWuTangDefeated=1
 lastZapperWand=4
-libramSummons=1
+libramSummons=11
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=6
@@ -1039,7 +1039,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=7134\:Fortune Cookie\:fortune.gif\:7294\:Fortune Cookie\:fortune.gif
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
