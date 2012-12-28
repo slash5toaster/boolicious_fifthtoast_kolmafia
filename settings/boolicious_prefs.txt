@@ -693,7 +693,7 @@ clanAttacksEnabled=false
 cocktailSummons=0
 concertVisited=false
 counterScript
-crimboTreeDays=2
+crimboTreeDays=1
 currentBountyItem=0
 currentFullness=0
 currentHippyStore=hippy
@@ -796,14 +796,14 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
-lastBreakfast=0
+lastBreakfast=1
 lastCellarReset=4
 lastChanceBurn
 lastChanceThreshold=100
 lastChasmReset=-1
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastCouncilVisit=14
-lastCounterDay=0
+lastCounterDay=1
 lastDispensaryOpen=3
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -844,7 +844,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-lastEncounter=Legend in the Shell
+lastEncounter=Pinku Hagetake
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -1039,7 +1039,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=6891\:Taco Elf window begin loc\=*\:lparen.gif\:6896\:Taco Elf window end loc\=*\:rparen.gif
+relayCounters
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
