@@ -1064,3 +1064,311 @@ choice.php?forceoption=0
 Encounter: The Former or the Ladder
 Took choice 199/1: take the tunnel
 choice.php?pwd&whichchoice=199&option=1
+
+clan_hobopolis.php?place=1
+
+[10990] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast summons SshoSobogopodopototo the Spaghetti Elemental!
+Round 2: You close your eyes and reach out across the border between worlds, to the Elemental Plane of Spaghetti. Soon you feel a familiar presence, and pull SshoSobogopodopototo into the material world.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts WEAPON OF THE PASTALORD!
+Round 3: giant zombie goldfish takes 629 damage.
+Round 3: SshoSobogopodopototo wraps its pasty tendrils around your opponent, leeching away some of their life-force. They are noticeably weakened by the attack.
+Round 3: giant zombie goldfish drops 5 attack power.
+Round 3: giant zombie goldfish drops 3 defense.
+Round 3: fifthtoast wins the fight!
+You acquire an item: decaying goldfish liver
+You gain 21 Strengthliness
+You gain 35 Mysteriousness
+You gain 15 Sarcasm
+
+[10991] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: c. h. u. m. takes 669 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: sewer nuggets
+You gain 15 Strongness
+You gain 42 Mysteriousness
+You gain 17 Cheek
+choice.php?forceoption=0
+
+[10992] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/3: turn the valve
+choice.php?action=auto?whichchoice=197&option=3&pwd
+choice.php?forceoption=0
+
+[10992] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/1: take the tunnel
+choice.php?pwd&whichchoice=198&option=1
+
+[10993] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts WEAPON OF THE PASTALORD!
+Round 2: sewer gator takes 635 damage.
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 2: sewer gator drops 10 attack power.
+Round 2: sewer gator drops 10 defense.
+Round 2: fifthtoast wins the fight!
+You gain 82 Meat
+You acquire an item: sewer nuggets
+You gain 16 Strongness
+You gain 40 Wizardliness
+You gain 14 Sarcasm
+
+cast 1 Leash of Linguini
+You acquire an effect: Leash of Linguini (duration: 10 Adventures)
+
+cast 2 Manicotti Meditation
+You acquire an effect: Pasta Oneness (duration: 10 Adventures)
+
+cast 1 Springy Fusilli
+You acquire an effect: Springy Fusilli (duration: 10 Adventures)
+
+[10994] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: sewer gator takes 663 damage.
+Round 2: fifthtoast wins the fight!
+You gain 69 Meat
+You acquire an item: sewer nuggets
+You gain 11 Strongness
+You gain 39 Enchantedness
+You gain 19 Sarcasm
+You gain a Moxie point!
+choice.php?forceoption=0
+
+[10995] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?action=auto?whichchoice=199&option=1&pwd
+
+equip weapon gatorskin umbrella
+
+[10996] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: sewer gator takes 676 damage.
+Round 2: fifthtoast wins the fight!
+You gain 72 Meat
+You acquire an item: sewer nuggets
+You acquire an item: sewer nuggets
+You gain 18 Fortitude
+You gain 31 Wizardliness
+You gain 19 Chutzpah
+
+[10997] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: c. h. u. m. takes 676 damage.
+Round 2: cocopuf's bells jingle merrily.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 33 damage.
+Round 2: c. h. u. m. takes 33 damage.
+Round 2: fifthtoast wins the fight!
+You gain 11 Fortitude
+You gain 40 Enchantedness
+You gain 23 Chutzpah
+
+[10998] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: sewer gator takes 661 damage.
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 2: sewer gator drops 10 attack power.
+Round 2: sewer gator drops 10 defense.
+Round 2: fifthtoast wins the fight!
+You gain 77 Meat
+You gain 23 Fortitude
+You gain 30 Wizardliness
+You gain 15 Sarcasm
+choice.php?forceoption=0
+
+[10999] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/3: open the grate
+choice.php?pwd&whichchoice=198&option=3
+
+[11000] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: sewer gator takes 666 damage.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 32 damage.
+Round 2: sewer gator takes 32 damage.
+Round 2: fifthtoast wins the fight!
+You gain 68 Meat
+You gain 17 Beefiness
+You gain 39 Mysteriousness
+You gain a Mysticality point!
+You gain 14 Smarm
+
+[11001] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+You lose 6 hit points
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 33 damage.
+Round 2: c. h. u. m. takes 33 damage.
+Round 2: c. h. u. m. takes 1 damage.
+Round 2: c. h. u. m. takes 9 damage.
+Round 2: c. h. u. m. takes 3 damage.
+You lose 21 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts WEAPON OF THE PASTALORD!
+Round 3: c. h. u. m. takes 608 damage.
+Round 3: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 129 Meat.
+Round 3: fifthtoast wins the fight!
+You acquire an item: sewer nuggets
+You gain 17 Strongness
+You gain 40 Wizardliness
+You gain 16 Cheek
+choice.php?forceoption=0
+
+[11002] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?pwd&whichchoice=199&option=1
+
+[11003] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts WEAPON OF THE PASTALORD!
+Round 2: giant zombie goldfish takes 591 damage.
+Round 2: cocopuf's bells jingle merrily.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 250 Meat.
+Round 2: fifthtoast wins the fight!
+You gain 17 Fortitude
+You gain 33 Wizardliness
+You gain 19 Sarcasm
+
+cast 1 Leash of Linguini
+You acquire an effect: Leash of Linguini (duration: 10 Adventures)
+
+cast 2 Manicotti Meditation
+You acquire an effect: Pasta Oneness (duration: 10 Adventures)
+
+cast 1 Springy Fusilli
+You acquire an effect: Springy Fusilli (duration: 10 Adventures)
+choice.php?forceoption=0
+
+[11004] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?action=auto?whichchoice=199&option=1&pwd
+choice.php?forceoption=0
+
+[11005] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/1: take the tunnel
+choice.php?pwd&whichchoice=197&option=1
+
+equip weapon gatorskin umbrella
+choice.php?forceoption=0
+
+[11006] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/1: take the tunnel
+choice.php?pwd&whichchoice=197&option=1
+
+[11007] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts WEAPON OF THE PASTALORD!
+Round 2: giant zombie goldfish takes 575 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: decaying goldfish liver
+You gain 13 Muscleboundness
+You gain 40 Magicalness
+You gain 18 Smarm
+
+[11008] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts WEAPON OF THE PASTALORD!
+Round 2: c. h. u. m. takes 592 damage.
+Round 2: fifthtoast wins the fight!
+You gain 18 Fortitude
+You gain 44 Magicalness
+You gain 11 Smarm
+
+[11009] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts WEAPON OF THE PASTALORD!
+Round 2: sewer gator takes 576 damage.
+Round 2: fifthtoast wins the fight!
+You gain 75 Meat
+You acquire an item: sewer nuggets
+You gain 18 Strengthliness
+You gain a Muscle point!
+You gain 30 Mysteriousness
+You gain 20 Cheek
+
+[11010] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts WEAPON OF THE PASTALORD!
+Round 2: giant zombie goldfish takes 609 damage.
+Round 2: cocopuf coos softly, and nuzzles you with his beak.
+You gain 37 hit points
+You gain 37 Mana Points
+Round 2: fifthtoast wins the fight!
+You acquire an item: sewer nuggets
+You gain 13 Muscleboundness
+You gain 36 Wizardliness
+You gain 21 Roguishness
+
+[11011] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts WEAPON OF THE PASTALORD!
+Round 2: c. h. u. m. takes 590 damage.
+Round 2: fifthtoast wins the fight!
+You gain 12 Strongness
+You gain 48 Mysteriousness
+You gain 13 Roguishness
+
+[11012] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts WEAPON OF THE PASTALORD!
+Round 2: giant zombie goldfish takes 611 damage.
+Round 2: cocopuf's bells jingle merrily.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 32 damage.
+Round 2: giant zombie goldfish takes 32 damage.
+Round 2: fifthtoast wins the fight!
+You gain 17 Fortitude
+You gain 26 Wizardliness
+You gain 26 Sarcasm
+
+[11013] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: giant zombie goldfish takes 669 damage.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 31 damage.
+Round 2: giant zombie goldfish takes 31 damage.
+Round 2: fifthtoast wins the fight!
+You gain 15 Fortitude
+You gain 35 Mysteriousness
+You gain 21 Roguishness
