@@ -700,7 +700,7 @@ currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
 currentMojoFilters=0
-currentMood=default
+currentMood=powered
 currentNunneryMeat=87942
 currentPvpVictories
 currentSpleenUse=11
@@ -1039,7 +1039,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=7134\:Fortune Cookie\:fortune.gif\:7294\:Fortune Cookie\:fortune.gif
+relayCounters=7295\:Semirare window begin loc\=*\:lparen.gif\:7335\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1049,8 +1049,8 @@ safePickpocket=true
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=5385
-semirareLocation=Pirate Cove
+semirareCounter=7135
+semirareLocation=A Maze of Sewer Tunnels
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
@@ -1089,9 +1089,9 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=4009
-stationaryButton2=6025
-stationaryButton3=15
+stationaryButton1
+stationaryButton2
+stationaryButton3
 stationaryButton4
 stationaryButton5
 styxPixieVisited=false

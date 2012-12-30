@@ -920,3 +920,192 @@ Encounter: Despite All Your Rage
 Took choice 211/2: unknown
 choice.php?pwd&whichchoice=211&option=2
 Encounter: Despite All Your Rage
+Took choice 212/2: unknown
+choice.php?pwd&whichchoice=212&option=2
+choice.php?forceoption=0
+
+[7131] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/1: take the tunnel
+choice.php?pwd&whichchoice=197&option=1
+
+clan_hobopolis.php?place=1
+choice.php?forceoption=0
+
+[7132] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?pwd&whichchoice=199&option=1
+choice.php?forceoption=0
+
+[7133] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?pwd&whichchoice=199&option=1
+
+[7134] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 7 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious tries to steal an item!
+Round 3: boolicious casts MOXIOUS MANEUVER!
+Round 4: c. h. u. m. takes 247 damage.
+Round 4: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 14 hit points
+You gain 19 Mojo Points
+You gain 19 Beefiness
+You gain 18 Wizardliness
+You gain 36 Sarcasm
+
+[7135] A Maze of Sewer Tunnels
+Encounter: C. H. U. M. chieftain
+Round 0: boolicious wins initiative!
+Round 1: boolicious tries to steal an item!
+You acquire an item: C.H.U.M. chum
+Round 2: boolicious executes a macro!
+Round 2: boolicious tries to steal an item!
+Round 3: boolicious casts MOXIOUS MANEUVER!
+Round 4: c. h. u. m. chieftain takes 194 damage.
+Round 4: boolicious attacks!
+Round 5: c. h. u. m. chieftain takes 137 damage.
+Round 5: Wensleydale pokes your enemy with the stinky pitchfork, dealing 12 damage.
+Round 5: c. h. u. m. chieftain takes 12 damage.
+Round 5: boolicious attacks!
+Round 6: c. h. u. m. chieftain takes 143 damage.
+Round 6: boolicious wins the fight!
+You acquire an item: sewer nuggets
+You acquire an item: bottle of sewage schnapps
+You gain 21 Muscleboundness
+You gain 18 Magicalness
+You gain 52 Roguishness
+choice.php?forceoption=0
+
+[7136] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/1: take the tunnel
+choice.php?pwd&whichchoice=197&option=1
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+[7137] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+
+cast 2 Moxie of the Mariachi
+Round 2: boolicious attacks!
+Round 3: giant zombie goldfish takes 188 damage.
+Round 3: boolicious executes a macro!
+Round 3: boolicious tries to steal an item!
+Round 4: boolicious casts MOXIOUS MANEUVER!
+Round 5: giant zombie goldfish takes 246 damage.
+Round 5: Wensleydale pokes your enemy with the stinky pitchfork, dealing 11 damage.
+Round 5: giant zombie goldfish takes 11 damage.
+Round 5: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 13 hit points
+You gain 16 Mojo Points
+You gain 19 Strengthliness
+You gain 16 Magicalness
+You gain 35 Chutzpah
+
+buy 1 bottle of Ooze-O for 1700 each from 340608 on 20121229
+You acquire an item: bottle of Ooze-O
+
+buy 1 unfortunate dumplings for 12400 each from 2231689 on 20121229
+You acquire an item: unfortunate dumplings
+
+buy 3 oil of oiliness for 560 each from 2015495 on 20121229
+You acquire oil of oiliness (3)
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+buy 1 CSA bravery badge for 100 each from 1053259 on 20121229
+You acquire an item: CSA bravery badge
+
+buy 1 CSA bravery badge for 100 each from 1105329 on 20121229
+You acquire an item: CSA bravery badge
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+use 1 swirly potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+use 1 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #128/1200:
+Question: What did Ol' Wemberly Capulet, mayor of Winklesbury, find when he opened the time capsule that had been buried under the city council building on Petember 1st, 1199?
+Answer: The analog worst telegraph.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #576/1200:
+Question: When did Señor Kenny Des Moines win the Nobel Prize for Quantum Mechanics?
+Answer: Beer o'clock.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #650/1200:
+Question: What player for the Limberford Ferocious Ninjas was inducted into the Hall of Fame for his or her last-second basket in the 1962 extreme discus-throwing championship?
+Answer: Professor P. D. Q. Pennington.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1114/1200:
+Question: Where was the Vizier of Prefectford publicly humiliated for the crime of making a fool of himself?
+Answer: The Demon Woods of Pinochle.
+
+[7138] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: giant zombie goldfish takes 854 damage.
+Round 3: Wensleydale pokes your enemy with the stinky pitchfork, dealing 11 damage.
+Round 3: giant zombie goldfish takes 11 damage.
+Round 3: boolicious wins the fight!
+After Battle: With a plop!, Wensleydale hops onto the corpse of your foe, which begins to smoke and dissolve in a rather gruesome fashion. After a minute, the cheezling crawls back up onto your shoulder, burbling happily; it's much warmer than before, and as the heat spreads through your body, you feel much better. And kind of creeped out.
+You gain 18 hit points
+You gain 17 Mojo Points
+You gain 20 Strengthliness
+You gain 14 Wizardliness
+You gain 35 Chutzpah
+
+[7139] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: sewer gator takes 852 damage.
+Round 3: Wensleydale pokes your enemy with the stinky pitchfork, dealing 10 damage.
+Round 3: sewer gator takes 10 damage.
+Round 3: boolicious wins the fight!
+After Battle: Wensleydale forks up some more Meat and forks it over to you.
+You gain 101 Meat
+You gain 20 Muscleboundness
+You gain a Muscle point!
+You gain 22 Magicalness
+You gain 28 Cheek
+choice.php?forceoption=0
+
+[7140] A Maze of Sewer Tunnels
+Encounter: Despite All Your Rage
+Took choice 211/2: unknown
+choice.php?pwd&whichchoice=211&option=2
+Encounter: Despite All Your Rage
