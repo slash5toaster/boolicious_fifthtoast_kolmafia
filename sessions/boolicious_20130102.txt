@@ -1,0 +1,266 @@
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 1,049 Meat
+
+Visiting Crimbo Tree in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+You acquire an item: stuffed monocle
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+You acquire an item: stuffed key
+
+Visiting Looking Glass in clan VIP lounge
+You acquire an item: &quot;DRINK ME&quot; potion
+
+swimming pool screwaround
+Encounter: Screwing Around!
+
+Doing handstand in clan VIP swimming pool
+Encounter: Screwing Around!
+
+Diving for treasure in clan VIP swimming pool
+Encounter: Screwing Around!
+
+Getting out of clan VIP swimming pool
+
+use 1 Manual of Dexterity
+
+use 1 Chester's bag of candy
+You acquire marzipan skull (3)
+You acquire Tasty Fun Good rice candy (2)
+You acquire an item: Yummy Tummy bean
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Who?
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: When?
+
+use 1 creepy voodoo doll
+
+telescope look high
+You acquire an effect: Starry-Eyed (duration: 10 Adventures)
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+Jumping into the Awesome Ball Pit in the clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+buy 4 chewing gum on a string for 50 each from The General Store
+
+pool aggressive
+You acquire chewing gum on a string (4)
+You spent 200 Meat
+You acquire an effect: Billiards Belligerence (duration: 10 Adventures)
+
+use 3 chewing gum on a string
+
+pool strategic
+You acquire an item: worthless knick-knack
+You acquire an item: worthless gewgaw
+You acquire an item: worthless trinket
+You acquire an effect: Mental A-cue-ity (duration: 10 Adventures)
+
+add to closet: 1 worthless trinket
+
+pool stylish
+
+add to closet: 1 worthless gewgaw
+
+add to closet: 1 worthless knick-knack
+You acquire an effect: Hustlin' (duration: 10 Adventures)
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+swimming pool submarine
+
+take from closet: 1 worthless trinket
+You acquire an effect: Silent Running (duration: 50 Adventures)
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless gewgaw
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 4 worthless items for 4 ten-leaf clovers
+You acquire ten-leaf clover (4)
+
+Use 4 ten-leaf clover
+You acquire disassembled clover (4)
+You gain 4,943 Meat
+
+Visiting the Fishing Village on the Secret Tropical Island Volcano Lair
+You acquire an item: fisherman's sack
+
+shower warm
+You acquire an effect: Muscle Unbound (duration: 50 Adventures)
+friars blessing 3
+You acquire an effect: Brother Smothers's Blessing (duration: 20 Adventures)
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+
+Visiting Relaxing Hot Tub in clan VIP lounge
+You gain 968 hit points
+
+use 1 Oscus's neverending soda
+You gain 291 Mojo Points
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+clan_hobopolis.php?place=8
+choice.php?forceoption=0
+
+[7405] The Purple Light District
+Encounter: Van, Damn
+Took choice 205/2: skip adventure
+choice.php?pwd&whichchoice=205&option=2
+
+clan_hobopolis.php?place=8
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=7
+choice.php?forceoption=0
+
+[7405] The Ancient Hobo Burial Ground
+Encounter: Welcome To You!
+Took choice 204/2: skip adventure
+choice.php?pwd&whichchoice=204&option=2
+
+clan_hobopolis.php?place=7
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=3
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+[7405] Help Richard make grenades (Moxie) (25 turns)
+You gain 1848 Roguishness
+You gain some Moxie points!
+
+buy 2 CSA bravery badge for 100 each from 1053259 on 20130102
+You acquire CSA bravery badge (2)
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #15/1200:
+Question: What was stolen from the Swampleton Museum of Quantum Mechanics on April ninth, 1967?
+Answer: The rubber prototype for the sandwich.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #510/1200:
+Question: When did the Radical Riot of Quickflame Chase begin?
+Answer: Starch 2, 1922.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #628/1200:
+Question: Who wrote the baffling romance novel <u>Legend of the Topaz Warrior</u>?
+Answer: Professor J. R. Westinghouse.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1006/1200:
+Question: Where did Señor Joachim Hathaway, inventor of the monomolecular telephone, lose his virginity?
+Answer: In the village of Frog.
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+buy 1 swirly potion for 120 each from 1801777 on 20130102
+You acquire an item: swirly potion of mental acuity
+
+use 1 swirly potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+buy 1 milky potion for 120 each from 1801777 on 20130102
+You acquire an item: milky potion of ettin strength
+
+use 1 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+buy 1 cloudy potion for 120 each from 1801777 on 20130102
+You acquire an item: cloudy potion of blessing
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+clan_hobopolis.php?preaction=simulacrum&place=3&qty=1&makeall=1
+
+Visiting the Bounty Hunter Hunter
+
+Harvesting your garden
+You acquire peppermint sprout (3)
+
+cast 1 Summon Geeky Gifts
+You acquire an item: haggis-infused soap
+You acquire an item: haggis-infused soap
+You acquire an item: haggis socks
+You acquire an item: Microplushie: Hippylase
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be smarter
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be kinder
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be more adventurous
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be wealthier
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be kinder
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be sexier
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be smarter
+
+cast 1 Summon Clip Art
+You acquire an item: box of Familiar Jacks
+
+cast 1 Summon Clip Art
+You acquire an item: cheezburger
+
+cast 1 Summon Clip Art
+You acquire an item: toasted brie
+
+mallsell: 1 box of Familiar Jacks, 1 cheezburger, 2 toasted brie
+
+manageprices.php?action=update&price0[5405]=94500&limit0[5405]=0&price0[5104]=26000&limit0[5104]=0&price0[5401]=20000&limit0[5401]=0&price0[5226]=9600&limit0[5226]=0&price0[5270]=8500&limit0[5270]=0&price0[5256]=8200&limit0[5256]=0&price0[5249]=7470&limit0[5249]=0&price0[5251]=7300&limit0[5251]=0&price0[5255]=7000&limit0[5255]=0&price0[5402]=6300&limit0[5402]=0&price0[375]=3745&limit0[375]=0&price0[2217]=3500&limit0[2217]=0&price0[3301]=2200&limit0[3301]=0&price0[226]=1300&limit0[226]=0&price0[2265]=1145&limit0[2265]=0&price0[5091]=900&limit0[5091]=0&price0[1863]=500&limit0[1863]=0&price0[5090]=500&limit0[5090]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[2680]=300&limit0[2680]=0&price0[617]=274&limit0[617]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[542]=260&limit0[542]=0&price0[538]=260&limit0[538]=0&price0[827]=260&limit0[827]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[614]=256&limit0[614]=0&price0[6083]=250&limit0[6083]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=0&price0[125]=250&limit0[125]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[1840]=200&limit0[1840]=0&price0[1803]=200&limit0[1803]=0&price0[5468]=200&limit0[5468]=0&price0[834]=190&limit0[834]=0&price0[472]=190&limit0[472]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=2&price0[218]=155&limit0[218]=0&price0[3597]=150&limit0[3597]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[475]=130&limit0[475]=0&price0[1655]=120&limit0[1655]=0&price0[5466]=111&limit0[5466]=0&price0[5469]=100&limit0[5469]=0&price0[1]=100&limit0[1]=0
+managestore.php?howmuch=8000&action=addad&pwd
+mall.php?didadv=0&pudnuggler=BRIE&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+manageprices.php?action=update&price0[5405]=94500&limit0[5405]=0&price0[5104]=26000&limit0[5104]=0&price0[5401]=20000&limit0[5401]=0&price0[5226]=9600&limit0[5226]=0&price0[5270]=8500&limit0[5270]=0&price0[5256]=8400&limit0[5256]=0&price0[5249]=7470&limit0[5249]=0&price0[5251]=7300&limit0[5251]=0&price0[5255]=7000&limit0[5255]=0&price0[5402]=6300&limit0[5402]=0&price0[375]=3745&limit0[375]=0&price0[2217]=3500&limit0[2217]=0&price0[3301]=2200&limit0[3301]=0&price0[226]=1300&limit0[226]=0&price0[2265]=1145&limit0[2265]=0&price0[5091]=900&limit0[5091]=0&price0[1863]=500&limit0[1863]=0&price0[5090]=500&limit0[5090]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[2680]=300&limit0[2680]=0&price0[617]=274&limit0[617]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[542]=260&limit0[542]=0&price0[538]=260&limit0[538]=0&price0[827]=260&limit0[827]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[614]=256&limit0[614]=0&price0[6083]=250&limit0[6083]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=0&price0[125]=250&limit0[125]=2&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[1840]=200&limit0[1840]=0&price0[1803]=200&limit0[1803]=0&price0[5468]=200&limit0[5468]=0&price0[834]=190&limit0[834]=0&price0[472]=190&limit0[472]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[218]=155&limit0[218]=0&price0[3597]=150&limit0[3597]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[475]=130&limit0[475]=0&price0[1655]=120&limit0[1655]=0&price0[5466]=111&limit0[5466]=0&price0[5469]=100&limit0[5469]=0&price0[1]=100&limit0[1]=0
