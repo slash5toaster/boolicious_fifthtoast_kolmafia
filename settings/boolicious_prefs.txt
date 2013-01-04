@@ -778,7 +778,7 @@ invalidBuffMessage=You sent an amount which does not correspond to a valid buff 
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
-lastAdventure=Hole in the Sky
+lastAdventure=The Old Man's Bathtime Adventures
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -842,7 +842,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-lastEncounter=The Astronomer
+lastEncounter=ferocious roc
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -1037,7 +1037,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=7494\:The Shore loc\=* shore.php\:dinghy.gif
+relayCounters
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false

@@ -1050,3 +1050,124 @@ You acquire an item: filthy lucre
 
 autosell: 9 valuable trinket
 You gain 2,250 Meat
+
+use 1 devilish folio
+You acquire an effect: Dis Abled (duration: 30 Adventures)
+
+oldman.php?action=talk
+oldman.php?action=jung&whichperson=oldman
+You acquire an item: jar of psychoses (The Old Man)
+
+use 1 jar of psychoses (The Old Man)
+
+[7490] Unknown adventure
+Encounter: 
+
+[7490] The Old Man's Bathtime Adventures
+Encounter: ferocious roc
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: ferocious roc takes 994 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You gain 14 Strongness
+You gain 10 Mysteriousness
+You gain 11 Cheek
+
+[7491] The Old Man's Bathtime Adventures
+Encounter: fearsome giant squid
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: fearsome giant squid takes 987 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You gain 13 Strengthliness
+You gain 7 Wizardliness
+You gain 15 Sarcasm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+[7492] The Old Man's Bathtime Adventures
+Encounter: ferocious roc
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: ferocious roc takes 981 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You gain 3 Fortitude
+You gain 11 Enchantedness
+You gain 18 Roguishness
+
+[7493] The Old Man's Bathtime Adventures
+Encounter: giant man-eating shark
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: giant man-eating shark takes 656 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You gain 4 Fortitude
+You gain 11 Wizardliness
+You gain 19 Roguishness
+
+[7494] The Old Man's Bathtime Adventures
+Encounter: giant man-eating shark
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: giant man-eating shark takes 651 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the uncontrollable urge to dance is evidence of repressed sexual longing," and does a little soft-shoe.
+You gain 5 Beefiness
+You gain 9 Mysteriousness
+You gain 19 Cheek
+choice.php?forceoption=0
+
+[7495] The Old Man's Bathtime Adventures
+Encounter: First Mate's Log Entry One
+Took choice 638/1: unknown
+choice.php?pwd&whichchoice=638&option=1
+
+[7496] The Old Man's Bathtime Adventures
+Encounter: the Deadly Hydra
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: the deadly hydra takes 626 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You gain 9 Strengthliness
+You gain 11 Enchantedness
+You gain 19 Cheek
+
+[7497] The Old Man's Bathtime Adventures
+Encounter: the Deadly Hydra
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: the deadly hydra takes 629 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You acquire an item: Hundred Headed IPA
+You gain 12 Strongness
+You gain 10 Enchantedness
+You gain 16 Smarm
+
+[7498] The Old Man's Bathtime Adventures
+Encounter: the Deadly Hydra
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: the deadly hydra takes 621 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You gain 8 Strongness
+You gain 6 Enchantedness
+You gain 24 Smarm
+
+[7499] The Old Man's Bathtime Adventures
+Encounter: ferocious roc
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: ferocious roc takes 661 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You gain 15 Muscleboundness
+You gain 7 Enchantedness
+You gain 11 Roguishness
