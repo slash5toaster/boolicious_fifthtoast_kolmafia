@@ -1171,3 +1171,204 @@ After Battle: DocSavage says, "as this monster has no meat, I shall collect my f
 You gain 15 Muscleboundness
 You gain 7 Enchantedness
 You gain 11 Roguishness
+choice.php?forceoption=0
+
+[7500] Unknown adventure
+Encounter: First Mate's Log Entry Two: Electric Boogaloo
+Took choice 637/3: unknown
+choice.php?pwd&whichchoice=637&option=3
+
+[7501] The Old Man's Bathtime Adventures
+Encounter: fearsome giant squid
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: fearsome giant squid takes 759 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You gain 12 Beefiness
+You gain 9 Enchantedness
+You gain 15 Cheek
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+[7502] The Old Man's Bathtime Adventures
+Encounter: the Deadly Hydra
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: the deadly hydra takes 625 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: DocSavage, the 8 lb. Angry Jung Man
+After Battle: DocSavage says, "the uncontrollable urge to dance is evidence of repressed sexual longing," and does a little soft-shoe.
+You gain 7 Beefiness
+You gain 10 Enchantedness
+You gain 21 Roguishness
+
+[7503] The Old Man's Bathtime Adventures
+Encounter: giant man-eating shark
+Round 0: boolicious loses initiative!
+Round 1: boolicious uses the clumsiness bark!
+Round 2: giant man-eating shark takes 18 damage.
+Round 2: boolicious attacks!
+Round 3: giant man-eating shark takes 655 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You gain 10 Strengthliness
+You gain 8 Magicalness
+You gain 18 Roguishness
+
+[7504] The Old Man's Bathtime Adventures
+Encounter: the Deadly Hydra
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: the deadly hydra takes 632 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You gain 9 Fortitude
+You gain 13 Mysteriousness
+You gain 16 Sarcasm
+choice.php?forceoption=0
+
+[7505] The Old Man's Bathtime Adventures
+Encounter: First Mate's Log Entry Three: The Revenge
+Took choice 636/4: unknown
+choice.php?pwd&whichchoice=636&option=4
+
+[7506] The Old Man's Bathtime Adventures
+Encounter: the Deadly Hydra
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: the deadly hydra takes 635 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: Hundred Headed IPA
+You gain 9 Fortitude
+You gain 16 Magicalness
+You gain 15 Sarcasm
+
+drink 1 Hundred Headed IPA
+You gain 9 Adventures
+You gain 30 Strongness
+You gain 29 Wizardliness
+You gain 30 Cheek
+You acquire an effect: Hoppyness (duration: 20 Adventures)
+You gain 2 Drunkenness
+
+[7507] The Old Man's Bathtime Adventures
+Encounter: fearsome giant squid
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 12 hit points
+Round 2: boolicious attacks!
+Round 3: fearsome giant squid takes 656 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You gain 13 Muscleboundness
+You gain 7 Magicalness
+You gain 14 Cheek
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 1 The Sonata of Sneakiness
+You acquire an effect: The Sonata of Sneakiness (duration: 20 Adventures)
+
+buy 1 CSA bravery badge for 100 each from 2312062 on 20130104
+You acquire an item: CSA bravery badge
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+[7508] The Old Man's Bathtime Adventures
+Encounter: giant man-eating shark
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: giant man-eating shark takes 643 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You gain 4 Strongness
+You gain 10 Mysteriousness
+You gain 22 Cheek
+
+[7509] The Old Man's Bathtime Adventures
+Encounter: ferocious roc
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: ferocious roc takes 643 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You gain 8 Strengthliness
+You gain 7 Magicalness
+You gain 17 Smarm
+
+use 7 Marquis de Poivre soda
+You gain 244 Mojo Points
+
+use 1 Marquis de Poivre soda
+You gain 31 Mojo Points
+choice.php?forceoption=0
+
+[7510] The Old Man's Bathtime Adventures
+Encounter: First Mate's Log Entry Four: A New Hope
+Encounter: First Mate's Log Entry Four: A New Hope
+
+equip weapon grass whistle
+
+equip off-hand Tuesday's ruby
+
+equip back Misty Cape
+
+equip shirt spangly mariachi vest
+Took choice 636/2: unknown
+choice.php?pwd&whichchoice=636&option=2
+
+[7511] The Old Man's Bathtime Adventures
+Encounter: giant man-eating shark
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: giant man-eating shark takes 645 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You acquire an item: old chum
+You gain 13 Beefiness
+You gain 11 Mysteriousness
+You gain a Mysticality point!
+You gain 13 Sarcasm
+
+[7512] The Old Man's Bathtime Adventures
+Encounter: fearsome giant squid
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fearsome giant squid takes 646 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You gain 8 Strongness
+You gain 7 Enchantedness
+You gain 19 Roguishness
+
+[7513] The Old Man's Bathtime Adventures
+Encounter: ferocious roc
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: ferocious roc takes 636 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You gain 8 Strengthliness
+You gain 14 Mysteriousness
+You gain 13 Sarcasm
+
+[7514] The Old Man's Bathtime Adventures
+Encounter: the Deadly Hydra
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: the deadly hydra takes 630 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You gain 13 Strongness
+You gain a Muscle point!
+You gain 9 Magicalness
+You gain 18 Chutzpah
