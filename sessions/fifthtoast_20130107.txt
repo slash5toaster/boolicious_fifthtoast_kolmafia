@@ -1015,3 +1015,15 @@ choice.php?forceoption=0
 Encounter: Somewhat Higher and Mostly Dry
 Took choice 197/1: take the tunnel
 choice.php?pwd&whichchoice=197&option=1
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+choice.php?forceoption=0
+
+[11548] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?pwd&whichchoice=199&option=1
+
+clan_hobopolis.php?place=1
