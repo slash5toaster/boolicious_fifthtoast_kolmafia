@@ -1221,3 +1221,86 @@ You gain 54 Meat
 You gain 12 Beefiness
 You gain 13 Mysteriousness
 You gain 23 Chutzpah
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be smarter
+
+place.php?whichplace=junggate_5&action=jung_kitchtab
+choice.php?forceoption=0
+Took choice 625/3: unknown
+choice.php?pwd&whichchoice=625&option=3
+
+[7672] Unknown adventure
+Encounter: Whisk of Misery
+Round 0: boolicious wins initiative!
+Round 1: boolicious tries to steal an item!
+Round 2: BeyBlade throws an Ultimate Javelin punch with his ocelot arm, doing 1 damage.
+Round 2: whisk of misery takes 1 damage.
+Round 2: boolicious attacks!
+Round 3: whisk of misery takes 466 damage.
+Round 3: BeyBlade throws a Dragon Taco knee on it for 1 damage with his gibbon knee.
+Round 3: whisk of misery takes 1 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: Artist's Whisk of Misery
+You gain 2 Roguishness
+
+[7673] A Kitchen Drawer
+Encounter: Spatula of Despair
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spatula of despair takes 469 damage.
+Round 2: BeyBlade throws a Devilish Indigo punch with his wombat arm, doing 1 damage.
+Round 2: spatula of despair takes 1 damage.
+Round 2: boolicious wins the fight!
+You gain 2 Fortitude
+You gain 1 Sarcasm
+
+[7674] A Kitchen Drawer
+Encounter: Creme Brulee Torch of Fury
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: creme brulee torch of fury takes 505 damage.
+Round 2: BeyBlade launches his Vision of Agriculture missile for 14 damage.
+Round 2: creme brulee torch of fury takes 14 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: BeyBlade, the 2 lb. MiniMechaElf
+You acquire an item: Artist's  Cr&egrave;me Brul&eacute;e Torch of Fury
+You gain 3 Cheek
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+[7675] A Kitchen Drawer
+Encounter: Whisk of Misery
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: whisk of misery takes 471 damage.
+Round 2: BeyBlade throws a Devilish Indigo punch with his wombat arm, doing 1 damage.
+Round 2: whisk of misery takes 1 damage.
+Round 2: boolicious wins the fight!
+You gain 2 Muscleboundness
+You gain 1 Sarcasm
+
+[7676] A Kitchen Drawer
+Encounter: Cookie Cutter of Loneliness
+Round 0: boolicious wins initiative!
+friars blessing 3
+Round 1: boolicious attacks!
+Round 2: cookie cutter of loneliness takes 475 damage.
+Round 2: BeyBlade does a Soul Tornado kick on it for 2 damage with his lemur foot.
+Round 2: cookie cutter of loneliness takes 2 damage.
+Round 2: boolicious wins the fight!
+You gain 2 Magicalness
+You gain 1 Cheek
+friars blessing 3
+You acquire an effect: Brother Smothers's Blessing (duration: 20 Adventures)
+
+telescope look high
+You acquire an effect: Starry-Eyed (duration: 10 Adventures)
+
+eat 1 black pudding
+You gain 7 Adventures
+You gain 12 Fortitude
+You gain 13 Enchantedness
+You gain 12 Smarm
+You gain 3 Fullness
