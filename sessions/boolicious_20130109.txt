@@ -1,0 +1,948 @@
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 1,051 Meat
+
+Visiting Crimbo Tree in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Looking Glass in clan VIP lounge
+You acquire an item: &quot;DRINK ME&quot; potion
+
+swimming pool screwaround
+
+Doing handstand in clan VIP swimming pool
+
+Diving for treasure in clan VIP swimming pool
+
+Getting out of clan VIP swimming pool
+
+use 1 Manual of Dexterity
+
+use 1 Chester's bag of candy
+You acquire marzipan skull (3)
+You acquire an item: Angry Farmer candy
+You acquire an item: Tasty Fun Good rice candy
+You acquire an item: Yummy Tummy bean
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: What?
+
+use 1 creepy voodoo doll
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 5 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (5)
+You spent 250 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless gewgaw
+You acquire an item: worthless knick-knack
+You acquire an item: worthless trinket
+
+add to closet: 1 worthless trinket
+
+add to closet: 1 worthless gewgaw
+
+add to closet: 1 worthless knick-knack
+
+use 2 chewing gum on a string
+You acquire an item: worthless gewgaw
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless trinket
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless gewgaw
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 5 worthless items for 5 ten-leaf clovers
+You acquire ten-leaf clover (5)
+
+Use 5 ten-leaf clover
+You acquire disassembled clover (5)
+You gain 4,085 Meat
+
+Visiting the Fishing Village on the Secret Tropical Island Volcano Lair
+You acquire an item: fisherman's sack
+
+mallsell: 2 stylish swimsuit
+
+Harvesting your garden
+You acquire peppermint sprout (3)
+
+cast 1 Summon Geeky Gifts
+You acquire an item: McLeod's Hard Haggis-Ade
+You acquire an item: magicberry tablets
+You acquire an item: Thinknerd T-shirt grab bag
+You acquire an item: Microplushie: Sororitrate
+
+use 1 Thinknerd T-shirt grab bag
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+cast 1 Summon Clip Art
+You acquire an item: skull with a fuse in it
+
+cast 1 Summon Clip Art
+You acquire an item: skull with a fuse in it
+
+cast 1 Summon Clip Art
+You acquire an item: crystal skull
+
+familiar Angry Jung Man (25 lbs)
+custom outfit Sewer Togs
+choice.php?forceoption=0
+
+[7771] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/1: take the tunnel
+choice.php?pwd&whichchoice=197&option=1
+
+[7772] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: c. h. u. m. takes 3 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious tries to steal an item!
+Round 3: boolicious casts MOXIOUS MANEUVER!
+Round 4: c. h. u. m. takes 300 damage.
+Round 4: c. h. u. m. takes 3 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You acquire an item: sewer nuggets
+You gain 14 Strengthliness
+You gain 19 Magicalness
+You gain 40 Roguishness
+
+[7773] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: c. h. u. m. takes 3 damage.
+Round 2: boolicious attacks!
+Round 3: c. h. u. m. takes 235 damage.
+Round 3: c. h. u. m. takes 2 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You gain 21 Beefiness
+You gain 19 Enchantedness
+You gain 34 Chutzpah
+
+[7774] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: sewer gator takes 3 damage.
+Round 2: boolicious attacks!
+Round 3: sewer gator takes 239 damage.
+Round 3: sewer gator takes 3 damage.
+Round 3: boolicious attacks!
+Round 4: sewer gator takes 239 damage.
+Round 4: sewer gator takes 3 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "this creature clearly has an unhealthy obsession with material things."
+You gain 163 Meat
+You acquire an item: sewer nuggets
+You acquire an item: sewer nuggets
+You gain 14 Fortitude
+You gain 20 Wizardliness
+You gain 36 Smarm
+
+[7775] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: giant zombie goldfish takes 2 damage.
+Round 2: boolicious attacks!
+Round 3: giant zombie goldfish takes 243 damage.
+Round 3: giant zombie goldfish takes 3 damage.
+Round 3: boolicious attacks!
+Round 4: giant zombie goldfish takes 248 damage.
+Round 4: giant zombie goldfish takes 2 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You acquire an item: sewer nuggets
+You gain 21 Muscleboundness
+You gain 17 Magicalness
+You gain 33 Roguishness
+
+[7776] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: c. h. u. m. takes 3 damage.
+Round 2: boolicious attacks!
+Round 3: c. h. u. m. takes 239 damage.
+Round 3: c. h. u. m. takes 3 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "the uncontrollable urge to dance is evidence of repressed sexual longing," and does a little soft-shoe.
+After Battle: DocSavage looks at you, raises an eyebrow, and says &quot;Wait.  Why am I doing all the work?  Take this, and try to pick up some of the slack, would you?&quot;
+You acquire an item: psychoanalytic jar
+You gain 25 Muscleboundness
+You gain 17 Enchantedness
+You gain 31 Chutzpah
+
+[7777] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: c. h. u. m. takes 3 damage.
+Round 2: boolicious attacks!
+Round 3: c. h. u. m. takes 242 damage.
+Round 3: c. h. u. m. takes 2 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: sewer nuggets
+You gain 20 Muscleboundness
+You gain 14 Mysteriousness
+You gain 40 Smarm
+
+[7778] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: sewer gator takes 2 damage.
+Round 2: boolicious attacks!
+Round 3: sewer gator takes 240 damage.
+Round 3: sewer gator takes 3 damage.
+Round 3: boolicious attacks!
+Round 4: sewer gator takes 237 damage.
+Round 4: sewer gator takes 2 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "the little dance that I am doing is symbolic of my sublimated desire for material goods," and winks at you.
+You gain 177 Meat
+You acquire an item: sewer nuggets
+You gain 19 Fortitude
+You gain 19 Wizardliness
+You gain 31 Roguishness
+
+forestvillage.php?action=mystic
+You acquire an item: jar of psychoses (The Crackpot Mystic)
+
+use 1 jar of psychoses (The Crackpot Mystic)
+
+[7779] Doubt Man's Level
+Encounter: Doubt Man's Level
+You acquire an effect: Consumed by Doubt (duration: 50 Adventures)
+
+[7779] Doubt Man's Level
+Encounter: judgmental eye
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: judgmental eye takes 2 damage.
+Round 2: judgmental eye takes 1 damage.
+Round 2: judgmental eye takes 10 damage.
+Round 2: judgmental eye takes 4 damage.
+You lose 9 hit points
+Round 2: boolicious attacks!
+Round 3: judgmental eye takes 8 damage.
+Round 3: judgmental eye takes 2 damage.
+Round 3: judgmental eye takes 1 damage.
+Round 3: judgmental eye takes 2 damage.
+Round 3: judgmental eye takes 4 damage.
+You lose 9 hit points
+Round 3: boolicious attacks!
+Round 4: judgmental eye takes 7 damage.
+Round 4: judgmental eye takes 3 damage.
+Round 4: judgmental eye takes 2 damage.
+Round 4: judgmental eye takes 6 damage.
+Round 4: judgmental eye takes 3 damage.
+You lose 9 hit points
+Round 4: boolicious executes a macro!
+Round 4: boolicious casts MOXIOUS MANEUVER!
+Round 5: judgmental eye takes 1 damage.
+Round 5: judgmental eye takes 3 damage.
+Round 5: judgmental eye takes 5 damage.
+You lose 9 hit points
+Round 5: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You acquire an item: red pixel
+You acquire an item: white pixel
+You acquire an item: black pixel
+You acquire an item: pixel power cell
+You gain 7 Beefiness
+You gain 2 Mysteriousness
+You gain 9 Cheek
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+equip hat Hodgman's porkpie hat
+
+equip back Misty Cape
+
+equip shirt spangly mariachi vest
+
+equip pants Hodgman's lobsterskin pants
+
+equip acc1 Hodgman's bow tie
+
+equip acc2 Chester's sunglasses
+
+equip acc3 Zombo's skull ring
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #13/1200:
+Question: What was needed to defeat The Evil Overlord Baaaal in level 6, "Dustmarket", in the popular video game "Pokëmann Zone VI"?
+Answer: The analog positronic sandwich.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #526/1200:
+Question: When did the X'tn'ch'roth Denim Indigenous Natives win the national golf championship?
+Answer: Beer o'clock.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #878/1200:
+Question: What player for the Lurkmoor Babbling Pigs was inducted into the Hall of Fame for his or her last-second goal in the 1908 fencing championship?
+Answer: Nobody.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #926/1200:
+Question: Where was the King of Gallston tarred and feathered for the crime of wearing tacky clothing?
+Answer: Cowpat, Flansburgh.
+
+buy 1 tomato juice of powerful power for 409 each from 1877436 on 20130109
+You acquire an item: tomato juice of powerful power
+
+use 1 tomato juice of powerful power
+You acquire an effect: Tomato Power (duration: 5 Adventures)
+
+equip weapon drywall axe
+
+equip weapon grass whistle
+
+equip off-hand Zombo's shield
+
+use 1 pixel power cell
+You gain 21 Mojo Points
+
+[7780] Doubt Man's Level
+Encounter: work hat
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: work hat takes 3 damage.
+Round 2: work hat takes 2 damage.
+Round 2: work hat takes 3 damage.
+Round 2: work hat takes 5 damage.
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: work hat takes 56 damage.
+Round 3: work hat takes 3 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: black pixel
+You acquire an item: black pixel
+You acquire an item: white pixel
+You gain 2 Muscleboundness
+You gain 3 Magicalness
+You gain 4 Sarcasm
+
+[7781] Doubt Man's Level
+Encounter: reproachful heart
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: reproachful heart takes 2 damage.
+Round 2: reproachful heart takes 1 damage.
+Round 2: reproachful heart takes 5 damage.
+Round 2: reproachful heart takes 3 damage.
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: reproachful heart takes 48 damage.
+Round 3: reproachful heart takes 2 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You acquire an item: red pixel
+You acquire an item: red pixel
+You acquire an item: white pixel
+You gain 3 Strongness
+You gain 2 Wizardliness
+You gain 4 Sarcasm
+
+place.php?whichplace=junggate_3&action=mystic_face
+You lose an effect: Consumed by Doubt
+
+[7782] Doubt Man's Level
+Encounter: Doubt Man's Level
+You acquire an effect: Consumed by Doubt (duration: 50 Adventures)
+Encounter: judgmental eye
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: judgmental eye takes 2 damage.
+Round 2: judgmental eye takes 1 damage.
+Round 2: judgmental eye takes 7 damage.
+Round 2: judgmental eye takes 4 damage.
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: judgmental eye takes 50 damage.
+Round 3: judgmental eye takes 3 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: red pixel
+You acquire an item: white pixel
+You acquire an item: black pixel
+You gain 3 Strengthliness
+You gain 2 Wizardliness
+You gain 9 Chutzpah
+
+[7783] Doubt Man's Level
+Encounter: work hat
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: work hat takes 2 damage.
+Round 2: work hat takes 3 damage.
+Round 2: work hat takes 4 damage.
+Round 2: work hat takes 3 damage.
+You lose 1 hit point
+Round 2: boolicious executes a macro!
+Round 2: boolicious tries to steal an item!
+Round 3: boolicious casts MOXIOUS MANEUVER!
+Round 4: work hat takes 102 damage.
+Round 4: work hat takes 3 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You acquire an item: black pixel
+You acquire an item: black pixel
+You acquire an item: white pixel
+You gain 4 Strengthliness
+You gain 5 Cheek
+
+[7784] Doubt Man's Level
+Encounter: judgmental eye
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: judgmental eye takes 3 damage.
+Round 2: judgmental eye takes 1 damage.
+Round 2: judgmental eye takes 9 damage.
+Round 2: judgmental eye takes 4 damage.
+You lose 1 hit point
+Round 2: boolicious executes a macro!
+Round 2: boolicious tries to steal an item!
+Round 3: boolicious casts MOXIOUS MANEUVER!
+Round 4: judgmental eye takes 100 damage.
+Round 4: judgmental eye takes 2 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You acquire an item: red pixel
+You acquire an item: white pixel
+You acquire an item: black pixel
+You gain 4 Muscleboundness
+You gain 3 Mysteriousness
+You gain 7 Chutzpah
+
+[7785] Doubt Man's Level
+Encounter: judgmental eye
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: judgmental eye takes 2 damage.
+Round 2: judgmental eye takes 1 damage.
+Round 2: judgmental eye takes 2 damage.
+Round 2: judgmental eye takes 3 damage.
+You lose 1 hit point
+Round 2: boolicious executes a macro!
+Round 2: boolicious tries to steal an item!
+Round 3: boolicious casts MOXIOUS MANEUVER!
+Round 4: judgmental eye takes 93 damage.
+Round 4: judgmental eye takes 2 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You acquire an item: red pixel
+You acquire an item: white pixel
+You acquire an item: black pixel
+You gain 6 Enchantedness
+You gain 6 Smarm
+
+[7786] Regret Man's Level
+Encounter: Regret Man's Level
+You acquire an effect: Consumed by Regret (duration: 50 Adventures)
+
+[7786] Regret Man's Level
+Encounter: ancient ghost
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: ancient ghost takes 1 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious tries to steal an item!
+Round 3: boolicious attacks!
+Round 4: ancient ghost takes 21 damage.
+Round 4: ancient ghost takes 1 damage.
+Round 4: boolicious attacks!
+Round 5: ancient ghost takes 21 damage.
+Round 5: ancient ghost takes 1 damage.
+Round 5: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You acquire an item: white pixel
+You acquire an item: white pixel
+You acquire an item: black pixel
+You gain 3 Strengthliness
+You gain 2 Wizardliness
+You gain 5 Cheek
+
+[7787] Regret Man's Level
+Encounter: contemplative ghost
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: contemplative ghost takes 1 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious tries to steal an item!
+Round 3: boolicious attacks!
+Round 4: contemplative ghost takes 21 damage.
+Round 4: contemplative ghost takes 1 damage.
+Round 4: boolicious attacks!
+Round 5: contemplative ghost takes 21 damage.
+Round 5: contemplative ghost takes 1 damage.
+Round 5: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You acquire an item: green pixel
+You acquire an item: green pixel
+You acquire an item: green pixel
+You acquire an item: pixel power cell
+You gain 4 Beefiness
+You gain 2 Magicalness
+You gain 4 Chutzpah
+
+place.php?whichplace=junggate_3&action=mystic_face
+You lose an effect: Consumed by Doubt
+You lose an effect: Consumed by Regret
+
+cast 1 Tongue of the Walrus
+You gain 35 hit points
+
+use 1 Oscus's neverending soda
+You gain 250 Mojo Points
+
+cast 20 Tongue of the Walrus
+You gain 679 hit points
+
+cast 1 Tongue of the Walrus
+You gain 37 hit points
+
+cast 1 Tongue of the Walrus
+You gain 38 hit points
+
+[7788] Regret Man's Level
+Encounter: Regret Man's Level
+You acquire an effect: Consumed by Regret (duration: 50 Adventures)
+
+[7788] Regret Man's Level
+Encounter: lovesick ghost
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: lovesick ghost takes 1 damage.
+Round 3: boolicious executes a macro!
+Round 3: boolicious tries to steal an item!
+Round 4: boolicious casts MOXIOUS MANEUVER!
+Round 5: lovesick ghost takes 1 damage.
+Round 5: lovesick ghost takes 1 damage.
+Round 5: boolicious attacks!
+Round 6: lovesick ghost takes 21 damage.
+Round 6: lovesick ghost takes 1 damage.
+Round 6: boolicious attacks!
+Round 7: lovesick ghost takes 21 damage.
+Round 7: boolicious attacks!
+Round 8: lovesick ghost takes 21 damage.
+Round 8: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You acquire an item: white pixel
+You acquire an item: black pixel
+You acquire an item: red pixel
+You gain 2 Strengthliness
+You gain 4 Wizardliness
+You gain 3 Roguishness
+
+[7789] Regret Man's Level
+Encounter: ancient ghost
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: ancient ghost takes 1 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious tries to steal an item!
+Round 3: boolicious attacks!
+Round 4: ancient ghost takes 21 damage.
+Round 4: ancient ghost takes 1 damage.
+Round 4: boolicious attacks!
+Round 5: ancient ghost takes 21 damage.
+Round 5: ancient ghost takes 1 damage.
+Round 5: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: white pixel
+You acquire an item: white pixel
+You acquire an item: black pixel
+You gain 3 Fortitude
+You gain 2 Enchantedness
+You gain 4 Sarcasm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+use 1 Marquis de Poivre soda
+You gain 32 Mojo Points
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 10 Adventures)
+
+[7790] Regret Man's Level
+Encounter: contemplative ghost
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: contemplative ghost takes 1 damage.
+Round 2: boolicious uses the rocky raccoon!
+Round 3: contemplative ghost takes 1 damage.
+Round 3: contemplative ghost takes 1 damage.
+Round 3: boolicious attacks!
+Round 4: contemplative ghost takes 21 damage.
+Round 4: contemplative ghost takes 1 damage.
+Round 4: boolicious attacks!
+Round 5: contemplative ghost takes 21 damage.
+Round 5: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You acquire an item: green pixel
+You acquire an item: green pixel
+You acquire an item: green pixel
+You gain 2 Fortitude
+You gain 6 Wizardliness
+You gain 2 Chutzpah
+
+[7791] Regret Man's Level
+Encounter: contemplative ghost
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: contemplative ghost takes 1 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious tries to steal an item!
+Round 3: boolicious casts MOXIOUS MANEUVER!
+Round 4: contemplative ghost takes 1 damage.
+Round 4: contemplative ghost takes 1 damage.
+Round 4: boolicious attacks!
+Round 5: contemplative ghost takes 21 damage.
+Round 5: contemplative ghost takes 1 damage.
+Round 5: boolicious attacks!
+Round 6: contemplative ghost takes 21 damage.
+Round 6: boolicious wins the fight!
+Your familiar gains a pound: DocSavage, the 16 lb. Angry Jung Man
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You acquire an item: green pixel
+You acquire an item: green pixel
+You acquire an item: green pixel
+You gain 2 Fortitude
+You gain 3 Magicalness
+You gain 4 Smarm
+
+[7792] Regret Man's Level
+Encounter: lovesick ghost
+Round 0: boolicious wins initiative!
+Round 0: boolicious casts SING! (auto-attack)
+Round 2: lovesick ghost takes 1 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious tries to steal an item!
+Round 3: boolicious attacks!
+Round 4: lovesick ghost takes 21 damage.
+Round 4: lovesick ghost takes 1 damage.
+Round 4: boolicious attacks!
+Round 5: lovesick ghost takes 21 damage.
+Round 5: lovesick ghost takes 1 damage.
+Round 5: boolicious attacks!
+Round 6: lovesick ghost takes 21 damage.
+Round 6: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: white pixel
+You acquire an item: black pixel
+You acquire an item: red pixel
+You gain 2 Muscleboundness
+You gain 5 Magicalness
+You gain 3 Sarcasm
+
+[7793] Regret Man's Level
+Encounter: contemplative ghost
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: green pixel
+Round 2: boolicious attacks!
+Round 3: contemplative ghost takes 21 damage.
+Round 3: boolicious attacks!
+Round 4: contemplative ghost takes 21 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You acquire an item: green pixel
+You acquire an item: green pixel
+You gain 3 Beefiness
+You gain 2 Wizardliness
+You gain 5 Sarcasm
+choice.php?forceoption=0
+
+[7794] Regret Man's Level
+Encounter: This Is Your Life.  Your Horrible, Horrible Life.
+Took choice 650/1: unknown
+choice.php?pwd&whichchoice=650&option=1
+You lose 100 Mojo Points
+
+[7795] Regret Man's Level
+Encounter: contemplative ghost
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: green pixel
+Round 2: boolicious attacks!
+Round 3: contemplative ghost takes 21 damage.
+Round 3: boolicious attacks!
+Round 4: contemplative ghost takes 21 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You acquire an item: green pixel
+You acquire an item: green pixel
+You gain 3 Strongness
+You gain 4 Wizardliness
+You gain 2 Roguishness
+
+place.php?whichplace=junggate_3&action=mystic_face
+You lose an effect: Consumed by Regret
+
+[7796] Fear Man's Level
+Encounter: Fear Man's Level
+You acquire an effect: Consumed by Fear (duration: 50 Adventures)
+
+[7796] Fear Man's Level
+Encounter: animated possessions
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: black pixel
+Round 2: boolicious attacks!
+Round 3: animated possessions takes 44 damage.
+Round 3: boolicious attacks!
+Round 4: animated possessions takes 45 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You acquire an item: black pixel
+You acquire an item: white pixel
+You gain 3 Strengthliness
+You gain 2 Mysteriousness
+You gain 4 Smarm
+
+[7797] Fear Man's Level
+Encounter: animated possessions
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: black pixel
+Round 2: boolicious attacks!
+Round 3: animated possessions takes 47 damage.
+Round 3: boolicious attacks!
+Round 4: animated possessions takes 45 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "the uncontrollable urge to dance is evidence of repressed sexual longing," and does a little soft-shoe.
+You acquire an item: black pixel
+You acquire an item: white pixel
+You gain 4 Strengthliness
+You gain 4 Smarm
+
+[7798] Fear Man's Level
+Encounter: animated possessions
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: black pixel
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: animated possessions takes 18 damage.
+Round 3: boolicious attacks!
+You lose 3 hit points
+Round 4: boolicious attacks!
+Round 5: animated possessions takes 48 damage.
+Round 5: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You acquire an item: black pixel
+You acquire an item: white pixel
+You gain 2 Strengthliness
+You gain 3 Enchantedness
+You gain 4 Roguishness
+
+[7799] Fear Man's Level
+Encounter: natural spider
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: red pixel
+Round 2: boolicious attacks!
+Round 3: natural spider takes 99 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You acquire an item: white pixel
+You acquire an item: black pixel
+You gain 2 Beefiness
+You gain 6 Cheek
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+[7800] Fear Man's Level
+Encounter: morbid skull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: morbid skull takes 5 damage.
+Round 2: morbid skull takes 1 damage.
+Round 2: morbid skull takes 1 damage.
+Round 2: morbid skull takes 5 damage.
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: morbid skull takes 6 damage.
+Round 3: morbid skull takes 1 damage.
+Round 3: morbid skull takes 1 damage.
+Round 3: morbid skull takes 4 damage.
+You lose 1 hit point
+Round 3: boolicious attacks!
+Round 4: morbid skull takes 66 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You acquire an item: white pixel
+You acquire an item: white pixel
+You acquire an item: white pixel
+You acquire an item: white pixel
+You acquire an item: white pixel
+You gain 3 Muscleboundness
+You gain 2 Magicalness
+You gain 8 Sarcasm
+
+[7801] Fear Man's Level
+Encounter: natural spider
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: black pixel
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: natural spider takes 43 damage.
+Round 3: boolicious attacks!
+Round 4: natural spider takes 94 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "the uncontrollable urge to dance is evidence of repressed sexual longing," and does a little soft-shoe.
+You acquire an item: red pixel
+You acquire an item: white pixel
+You gain 1 Beefiness
+You gain 4 Mysteriousness
+You gain 4 Roguishness
+
+[7802] Fear Man's Level
+Encounter: morbid skull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: morbid skull takes 70 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You acquire an item: white pixel
+You acquire an item: white pixel
+You acquire an item: white pixel
+You gain 7 Muscleboundness
+You gain 3 Magicalness
+You gain 4 Sarcasm
+
+[7803] Fear Man's Level
+Encounter: natural spider
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: red pixel
+Round 2: boolicious attacks!
+Round 3: natural spider takes 94 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You acquire an item: white pixel
+You acquire an item: black pixel
+You gain 2 Magicalness
+You gain 6 Sarcasm
+choice.php?forceoption=0
+
+[7804] Fear Man's Level
+Encounter: Snakes.
+Took choice 644/1: unknown
+choice.php?pwd&whichchoice=644&option=1
+You lose 120 hit points
+
+cast 1 Tongue of the Walrus
+You gain 40 hit points
+You lose an effect: Beaten Up
+
+place.php?whichplace=junggate_3&action=mystic_face
+You lose an effect: Consumed by Fear
+
+[7805] Anger Man's Level
+Encounter: Anger Man's Level
+You acquire an effect: Consumed by Anger (duration: 50 Adventures)
+
+[7805] Anger Man's Level
+Encounter: frustrating knight
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: frustrating knight takes 29 damage.
+You lose 20 hit points
+Round 2: frustrating knight takes 1 damage.
+Round 2: frustrating knight takes 7 damage.
+Round 2: frustrating knight takes 4 damage.
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: frustrating knight takes 28 damage.
+You lose 23 hit points
+Round 3: boolicious attacks!
+Round 4: frustrating knight takes 28 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You acquire an item: blue pixel
+You acquire an item: blue pixel
+You acquire an item: white pixel
+You gain 3 Strongness
+You gain 3 Enchantedness
+You gain 2 Roguishness
+
+cast 2 Tongue of the Walrus
+You gain 66 hit points
+
+use 1 Marquis de Poivre soda
+You gain 39 Mojo Points
+
+cast 1 Tongue of the Walrus
+You gain 35 hit points
+
+[7806] Anger Man's Level
+Encounter: rage flame
+Round 0: boolicious wins initiative!
