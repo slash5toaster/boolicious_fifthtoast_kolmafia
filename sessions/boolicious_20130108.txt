@@ -1073,3 +1073,98 @@ Equip Howling Balloon Monkey with tiny balloon knife
 
 shower warm
 You acquire an effect: Muscle Unbound (duration: 50 Adventures)
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[7750] Mix 3 bottle of tequila + 3 peppermint twist
+You acquire Feliz Navidad (3)
+Crafting used 3 each of bottle of tequila and peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[7753] Mix 3 bottle of vodka + 3 peppermint twist
+You acquire Vodka Matryoshka (3)
+Crafting used 3 each of bottle of vodka and peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[7756] Mix 4 bottle of rum + 4 peppermint twist
+You acquire Crimbojito (4)
+Crafting used 4 each of bottle of rum and peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[7760] Mix 4 bottle of gin + 4 peppermint twist
+You acquire Gin Mint (4)
+Crafting used 4 each of bottle of gin and peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[7764] Mix 4 bottle of whiskey + 4 peppermint twist
+You acquire Mint Yulep (4)
+Crafting used 4 each of bottle of whiskey and peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[7768] Mix 4 boxed wine + 4 peppermint twist
+You acquire Sangria de Menthe (4)
+Crafting used 4 each of boxed wine and peppermint twist
+
+mallsell: 4 Feliz Navidad, 4 Vodka Matryoshka, 5 Crimbojito, 5 Gin Mint, 5 Mint Yulep, 6 Sangria de Menthe
+
+manageprices.php?action=update&price0[5401]=20000&limit0[5401]=0&price0[5270]=8000&limit0[5270]=0&price0[5407]=8000&limit0[5407]=0&price0[5411]=7950&limit0[5411]=0&price0[5409]=7785&limit0[5409]=0&price0[5410]=7485&limit0[5410]=0&price0[5408]=7480&limit0[5408]=0&price0[5412]=7395&limit0[5412]=0&price0[5402]=6300&limit0[5402]=0&price0[375]=3745&limit0[375]=2&price0[2217]=3500&limit0[2217]=0&price0[3301]=2200&limit0[3301]=0&price0[226]=1300&limit0[226]=0&price0[2265]=1145&limit0[2265]=0&price0[5091]=900&limit0[5091]=0&price0[1863]=500&limit0[1863]=0&price0[5090]=500&limit0[5090]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[2680]=300&limit0[2680]=0&price0[617]=274&limit0[617]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[538]=260&limit0[538]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[6083]=250&limit0[6083]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=0&price0[125]=250&limit0[125]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[1840]=200&limit0[1840]=0&price0[1803]=200&limit0[1803]=0&price0[5468]=200&limit0[5468]=0&price0[834]=190&limit0[834]=0&price0[472]=190&limit0[472]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[218]=155&limit0[218]=0&price0[3597]=150&limit0[3597]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[475]=130&limit0[475]=0&price0[1655]=120&limit0[1655]=0&price0[5466]=111&limit0[5466]=0&price0[5469]=100&limit0[5469]=0&price0[1]=100&limit0[1]=0
+manageprices.php?action=update&price0[617]=274&limit0[617]=0&price0[5469]=100&limit0[5469]=0&price0[299]=150&limit0[299]=0&price0[5466]=111&limit0[5466]=0&price0[226]=800&limit0[226]=0&price0[2979]=250&limit0[2979]=0&price0[632]=264&limit0[632]=0&price0[5468]=200&limit0[5468]=0&price0[613]=256&limit0[613]=0&price0[5412]=7395&limit0[5412]=0&price0[5411]=7950&limit0[5411]=0&price0[125]=250&limit0[125]=0&price0[5408]=7480&limit0[5408]=0&price0[3597]=150&limit0[3597]=0&price0[5410]=7485&limit0[5410]=0&price0[5270]=8000&limit0[5270]=0&price0[5409]=7785&limit0[5409]=0&price0[2613]=150&limit0[2613]=0&price0[5407]=8000&limit0[5407]=0&price0[399]=230&limit0[399]=0&price0[2680]=300&limit0[2680]=0&price0[6083]=250&limit0[6083]=0&price0[834]=190&limit0[834]=0&price0[541]=240&limit0[541]=0&price0[1840]=200&limit0[1840]=0&price0[616]=258&limit0[616]=0&price0[218]=155&limit0[218]=0&price0[312]=160&limit0[312]=0&price0[375]=3745&limit0[375]=0&price0[5090]=500&limit0[5090]=0&price0[1]=100&limit0[1]=0&price0[2687]=400&limit0[2687]=2&price0[2217]=3500&limit0[2217]=0&price0[2265]=1145&limit0[2265]=0&price0[1655]=120&limit0[1655]=0&price0[594]=410&limit0[594]=0&price0[622]=272&limit0[622]=0&price0[3858]=250&limit0[3858]=0&price0[472]=190&limit0[472]=0&price0[1863]=500&limit0[1863]=0&price0[1803]=200&limit0[1803]=0&price0[538]=260&limit0[538]=0&price0[3864]=164&limit0[3864]=0&price0[5402]=6300&limit0[5402]=0&price0[2093]=230&limit0[2093]=0&price0[3301]=2200&limit0[3301]=0&price0[776]=190&limit0[776]=0&price0[475]=130&limit0[475]=0&price0[5401]=20000&limit0[5401]=0&price0[5091]=900&limit0[5091]=0
