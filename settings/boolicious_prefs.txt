@@ -1,3 +1,6 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=2e2fe01ff911350e9ba5c12b52d66d81741df073
 AdventureFrame=880,282,0
 BuffBotFrame=603,307,0
 BuffRequestFrame=-8,-8
@@ -14,12 +17,8 @@ FamiliarTrainingFrame=-8,-8
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-<<<<<<< HEAD
-KoLDesktop=0,0,-1
-=======
 KoLDesktop=-8,-8,-1
->>>>>>> 2e2fe01ff911350e9ba5c12b52d66d81741df073
-LoginFrame=465,132,0
+LoginFrame=582,260,0
 MailboxFrame=289,310,1
 MaximizerFrame=354,134
 MeatManageFrame=450,127
@@ -65,10 +64,10 @@ _carnieCandyDrops=0
 _chipBags=0
 _chocolateCigarsUsed=0
 _chocolatesUsed=0
-_clipartSummons=0
+_clipartSummons=1
 _coalPaperweightUsed=false
 _companionshipCasts=0
-_creepyVoodooDollUsed=false
+_creepyVoodooDollUsed=true
 _crimboTree=true
 _cursedKegUsed=false
 _cursedMicrowaveUsed=false
@@ -131,18 +130,14 @@ _mediumSiphons=0
 _nanorhinoBanishedMonster
 _navelRunaways=0
 _olympicSwimmingPool=false
-<<<<<<< HEAD
-_olympicSwimmingPoolItemFound=false
-=======
 _olympicSwimmingPoolItemFound=true
->>>>>>> 2e2fe01ff911350e9ba5c12b52d66d81741df073
 _pasteDrops=0
 _photocopyUsed=false
 _pieDrops=0
 _piePartsCount=0
 _pneumaticityPotionUsed=false
 _poisonArrows=0
-_poolGames=0
+_poolGames=1
 _precisionCasts=0
 _radlibSummons=0
 _raindohCopiesMade=0
@@ -177,7 +172,7 @@ _templeHiddenPower=false
 _tempuraAirUsed=false
 _thingfinderCasts=0
 _timeHelmetAdv=0
-_toastSummons=0
+_toastSummons=3
 _tokenDrops=0
 _transponderDrops=0
 _treasuryEliteMeatCollected=false
@@ -701,13 +696,9 @@ clanAttacksEnabled=false
 cocktailSummons=0
 concertVisited=false
 counterScript
-crimboTreeDays=2
-<<<<<<< HEAD
-currentBountyItem=0
-=======
+crimboTreeDays=1
 currentBountyItem=2412
->>>>>>> 2e2fe01ff911350e9ba5c12b52d66d81741df073
-currentFullness=0
+currentFullness=19
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -789,15 +780,11 @@ hpAutoRecovery=0.2
 hpAutoRecoveryItems=free disco rest;medicinal herb's medicinal herbs;cannelloni cocoon;visit the nuns;relaxing hot tub;red pixel potion;really thick bandage;pok&euml;mann band-aid;filthy poultice;gauze garter;bottle of vangoghbitussin;plump juicy grub;elven medi-pack;generic healing potion;ancient magi-wipes;palm-frond fan;tongue of the walrus;tiny house;disco nap;lasagna bandages;cast;tongue of the otter;sugar shard;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent;notes from the elfpocalypse, chapter i;notes from the elfpocalypse, chapter ii;notes from the elfpocalypse, chapter iii;notes from the elfpocalypse, chapter iv;notes from the elfpocalypse, chapter v;notes from the elfpocalypse, chapter vi
 hpAutoRecoveryTarget=0.8
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
-jungCharge=28
+jungCharge=3
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
-<<<<<<< HEAD
-lastAdventure=Doubt Man's Level
-=======
-lastAdventure=Anger Man's Level
->>>>>>> 2e2fe01ff911350e9ba5c12b52d66d81741df073
+lastAdventure=Trick-or-Treating
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -813,14 +800,14 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
-lastBreakfast=14
+lastBreakfast=15
 lastCellarReset=4
 lastChanceBurn
 lastChanceThreshold=100
 lastChasmReset=4
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastCouncilVisit=14
-lastCounterDay=14
+lastCounterDay=15
 lastDispensaryOpen=3
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -861,11 +848,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-<<<<<<< HEAD
-lastEncounter=Doubt Man
-=======
-lastEncounter=rage flame
->>>>>>> 2e2fe01ff911350e9ba5c12b52d66d81741df073
+lastEncounter=sassy pirate
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -942,7 +925,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=4
 lastWuTangDefeated=1
 lastZapperWand=4
-libramSummons=0
+libramSummons=11
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=6
@@ -1060,7 +1043,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=7839\:Semirare window begin loc\=*\:lparen.gif\:7879\:Semirare window end loc\=*\:rparen.gif
+relayCounters=8044\:Fortune Cookie\:fortune.gif\:7952\:Fortune Cookie\:fortune.gif\:7973\:Fortune Cookie\:fortune.gif
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1137,7 +1120,7 @@ tempuraSummons=0
 textColors=crappy\:\#999999|good\:green|awesome\:blue|epic\:\#8a2be2|junk\:gray|memento\:olive|notavailable\:gray
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=3
+tomeSummons=1
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
