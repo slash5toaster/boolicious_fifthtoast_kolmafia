@@ -1,37 +1,38 @@
-=\=\=\=\=\=\=
-<<<<<<<=HEAD
->>>>>>>=ussf319388
 AdventureFrame=880,282,0
 BuffBotFrame=603,307,0
-BuffRequestFrame=49,161
+BuffRequestFrame=-8,-8
 CakeArenaFrame=742,435
 CalendarFrame=44,293,0
 CharSheetFrame=382,209,-1
 ClanManageFrame=59,315,0
-CoinmastersFrame=2521,404,-1
+CoinmastersFrame=377,174,-1
 ContactListFrame=424,246
 CouncilFrame=164,356,-1
 DatabaseFrame=120,142,0
-DescriptionFrame=179,373,-1
-FamiliarTrainingFrame=596,317
+DescriptionFrame=-8,-8,-1
+FamiliarTrainingFrame=-8,-8
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
+<<<<<<< HEAD
 KoLDesktop=0,0,-1
+=======
+KoLDesktop=-8,-8,-1
+>>>>>>> 2e2fe01ff911350e9ba5c12b52d66d81741df073
 LoginFrame=465,132,0
 MailboxFrame=289,310,1
-MaximizerFrame=-4,26
+MaximizerFrame=354,134
 MeatManageFrame=450,127
-MushroomFrame=947,465,1
-OptionsFrame=-4,26,-1
+MushroomFrame=560,77,1
+OptionsFrame=360,87,-1
 ProfileFrame=2662,393,-1
 RecentEventsFrame=474,284
 RequestFrame=375,103,-1
-RequestSynchFrame=5,31,-1
+RequestSynchFrame=375,102,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
-StoreManageFrame=334,130,1
-TabbedChatFrame=397,48,0
+StoreManageFrame=332,111,3
+TabbedChatFrame=481,41,1
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
@@ -76,6 +77,7 @@ _deluxeKlawSummons=3
 _demandSandwich=0
 _distentionPillUsed=false
 _donhosCasts=0
+_dreamJarDrops=0
 _elronsCasts=0
 _essentialTofuUsed=false
 _feastUsed=0
@@ -91,7 +93,7 @@ _gnomeAdv=0
 _gongDrops=0
 _gothKidCharge=0
 _gothKidFights=0
-_grimoireGeekySummons=0
+_grimoireGeekySummons=1
 _grooseDrops=0
 _guildManualUsed=true
 _hareAdv=0
@@ -113,6 +115,7 @@ _jackassePlumberGame
 _jingleBellUsed=false
 _jitbCharge=0
 _jukebox=false
+_jungDrops=1
 _klawSummons=0
 _kloopDrops=0
 _kolConSixPackUsed=false
@@ -128,7 +131,11 @@ _mediumSiphons=0
 _nanorhinoBanishedMonster
 _navelRunaways=0
 _olympicSwimmingPool=false
+<<<<<<< HEAD
 _olympicSwimmingPoolItemFound=false
+=======
+_olympicSwimmingPoolItemFound=true
+>>>>>>> 2e2fe01ff911350e9ba5c12b52d66d81741df073
 _pasteDrops=0
 _photocopyUsed=false
 _pieDrops=0
@@ -153,6 +160,7 @@ _skateBuff3=false
 _skateBuff4=false
 _skateBuff5=false
 _smilesOfMrA=0
+_snowSuitCount=0
 _snowconeSummons=0
 _softwareGlitchTurnReceived=false
 _stabonicScrollUsed=false
@@ -263,7 +271,7 @@ badMoonEncounter47=false
 badMoonEncounter48=false
 ballpitBonus=100
 banishingShoutMonsters
-bankedKarma=72
+bankedKarma=83
 barrelGoal=1
 barrelLayout=?????????
 bartenderTurnsUsed=40
@@ -287,7 +295,7 @@ birdformRoc=0
 birdformSleaze=0
 birdformSpooky=0
 birdformStench=0
-blackPuddingsDefeated=23
+blackPuddingsDefeated=40
 blankOutUsed=0
 bootsCharged=false
 borisPoints=0
@@ -303,14 +311,14 @@ buyScript
 cameraMonster
 camerasUsed=1
 carboLoading=0
-cellarLayout=0
+cellarLayout=5884515
 charitableDonations=0
-chasmBridgeProgress=0
+chasmBridgeProgress=30
 chatLiterate=false
 chatServesUpdates=false
 chatbotScript
 chatbotScriptExecuted=false
-chefTurnsUsed=1
+chefTurnsUsed=2
 chessboardsCleared=0
 choiceAdventure10=3
 choiceAdventure105=3
@@ -394,8 +402,8 @@ choiceAdventure188=0
 choiceAdventure189=1
 choiceAdventure19=4
 choiceAdventure191=4
-choiceAdventure197=1
-choiceAdventure198=1
+choiceAdventure197=3
+choiceAdventure198=3
 choiceAdventure199=1
 choiceAdventure2=2
 choiceAdventure20=4
@@ -431,7 +439,7 @@ choiceAdventure24=2
 choiceAdventure25=2
 choiceAdventure26=1
 choiceAdventure27=1
-choiceAdventure272=1
+choiceAdventure272=2
 choiceAdventure273=3
 choiceAdventure276=1
 choiceAdventure277=1
@@ -694,13 +702,17 @@ cocktailSummons=0
 concertVisited=false
 counterScript
 crimboTreeDays=2
+<<<<<<< HEAD
 currentBountyItem=0
+=======
+currentBountyItem=2412
+>>>>>>> 2e2fe01ff911350e9ba5c12b52d66d81741df073
 currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
 currentMojoFilters=0
-currentMood=apathetic
+currentMood=default
 currentNunneryMeat=87942
 currentPvpVictories
 currentSpleenUse=0
@@ -732,7 +744,7 @@ desktopHeight=600
 desktopWidth=800
 discardedKarma=0
 distentionPillActive=false
-dolphinItem
+dolphinItem=sand dollar
 doorCode
 expressCardUsed=false
 extraRolloverAdventures=0
@@ -759,7 +771,7 @@ fratboysDefeated=33
 friarsBlessingReceived=false
 goldenMrAccessories=0
 gongPath=10
-gourdItemCount=6
+gourdItemCount=9
 grimoire1Summons=0
 grimoire2Summons=0
 grimoire3Summons=0
@@ -773,14 +785,19 @@ heroDonationSneakyPete=80000
 hiddenCityLayout=TLEDEDDFEEEDEENEEEEAWEDEE
 hiddenCitySquare=24
 hippiesDefeated=1000
-hpAutoRecovery=-0.05
-hpAutoRecoveryItems=medicinal herb's medicinal herbs;scroll of drastic healing;relaxing hot tub;really thick bandage;pok&euml;mann band-aid;ancient magi-wipes;tongue of the walrus;lasagna bandages;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent
+hpAutoRecovery=0.2
+hpAutoRecoveryItems=free disco rest;medicinal herb's medicinal herbs;cannelloni cocoon;visit the nuns;relaxing hot tub;red pixel potion;really thick bandage;pok&euml;mann band-aid;filthy poultice;gauze garter;bottle of vangoghbitussin;plump juicy grub;elven medi-pack;generic healing potion;ancient magi-wipes;palm-frond fan;tongue of the walrus;tiny house;disco nap;lasagna bandages;cast;tongue of the otter;sugar shard;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent;notes from the elfpocalypse, chapter i;notes from the elfpocalypse, chapter ii;notes from the elfpocalypse, chapter iii;notes from the elfpocalypse, chapter iv;notes from the elfpocalypse, chapter v;notes from the elfpocalypse, chapter vi
 hpAutoRecoveryTarget=0.8
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
+jungCharge=28
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
+<<<<<<< HEAD
 lastAdventure=Doubt Man's Level
+=======
+lastAdventure=Anger Man's Level
+>>>>>>> 2e2fe01ff911350e9ba5c12b52d66d81741df073
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -800,7 +817,7 @@ lastBreakfast=14
 lastCellarReset=4
 lastChanceBurn
 lastChanceThreshold=100
-lastChasmReset=-1
+lastChasmReset=4
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastCouncilVisit=14
 lastCounterDay=14
@@ -842,9 +859,13 @@ lastDwarfOfficeItem3214
 lastDwarfOreRunes=IOJH
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
-lastEasterEggBalloon=3
+lastEasterEggBalloon=4
 lastEmptiedStorage=4
+<<<<<<< HEAD
 lastEncounter=Doubt Man
+=======
+lastEncounter=rage flame
+>>>>>>> 2e2fe01ff911350e9ba5c12b52d66d81741df073
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -914,9 +935,9 @@ lastTavernAscension=4
 lastTavernSquare=23
 lastTelescopeReset=4
 lastTempleAdventures=-1
-lastTempleButtonsUnlock=3
+lastTempleButtonsUnlock=4
 lastTempleUnlock=4
-lastTowerClimb=3
+lastTowerClimb=4
 lastTr4pz0rQuest=3
 lastVioletFogMap=4
 lastWuTangDefeated=1
@@ -945,9 +966,9 @@ mmgDisabled=false
 mmgSearchMaximum=25000
 mmgSearchMinimum=1000
 moleTunnelLevel=0
-mpAutoRecovery=-0.05
-mpAutoRecoveryItems=free disco rest;oscus's neverending soda;blue pixel potion;phonics down;tonic water;palm-frond fan;marquis de poivre soda;knob goblin superseltzer;tiny house;mountain stream soda;magical mystery juice;knob goblin seltzer;soda water
-mpAutoRecoveryTarget=0.3
+mpAutoRecovery=0.1
+mpAutoRecoveryItems=free disco rest;galaktik's fizzy invigorating tonic;visit the nuns;oscus's neverending soda;csa all-purpose soap;high-pressure seltzer bottle;natural fennel soda;bottle of vangoghbitussin;monstar energy beverage;carbonated soy milk;carbonated water lily;blue pixel potion;bottle of monsieur bubble;ancient magi-wipes;unrefined mountain stream syrup;phonics down;elven magi-pack;generic mana potion;generic restorative potion;tonic water;palm-frond fan;okee-dokee soda;honey-dipped locust;marquis de poivre soda;green pixel potion;knob goblin superseltzer;tiny house;sugar shard;mountain stream soda;black cherry soda;knob goblin seltzer;cherry cloaca cola;soda water;notes from the elfpocalypse, chapter i;notes from the elfpocalypse, chapter ii;notes from the elfpocalypse, chapter iii;notes from the elfpocalypse, chapter iv;notes from the elfpocalypse, chapter v;notes from the elfpocalypse, chapter vi;unrefined mountain stream syrup
+mpAutoRecoveryTarget=0.5
 munchiesPillsUsed=0
 noodleSummons=0
 nunsVisits=0
@@ -967,10 +988,10 @@ pastamancerOrbedType
 pendingMapReflections=4
 photocopyMonster=monster
 pieStuffing
-plantingDate=9
+plantingDate=10
 plantingDay=0
-plantingLength=8
-plantingScript=Stinky
+plantingLength=5
+plantingScript=frozen
 poolSharkCount=1
 postAscensionScript
 preAscensionScript
@@ -1039,17 +1060,18 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=7839\:Semirare window begin loc\=*\:lparen.gif\:7879\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
 requireSewerTestItems=true
 romanticTarget
+safePickpocket=true
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=3045
-semirareLocation=Sleazy Back Alley
+semirareCounter=7679
+semirareLocation=A-Boo Peak
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
@@ -1088,9 +1110,9 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=4009
-stationaryButton2=6025
-stationaryButton3=15
+stationaryButton1
+stationaryButton2
+stationaryButton3
 stationaryButton4
 stationaryButton5
 styxPixieVisited=false

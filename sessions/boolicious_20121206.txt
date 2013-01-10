@@ -1,0 +1,637 @@
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 985 Meat
+
+Visiting Crimbo Tree in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+You acquire an item: stuffed Meat
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+You acquire an item: stuffed teddy butler
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+You acquire an item: stuffed Baron von Ratsworth
+
+Visiting Looking Glass in clan VIP lounge
+You acquire an item: &quot;DRINK ME&quot; potion
+
+swimming pool screwaround
+
+Doing handstand in clan VIP swimming pool
+
+Diving for treasure in clan VIP swimming pool
+
+Getting out of clan VIP swimming pool
+
+use 1 Manual of Dexterity
+
+use 1 Chester's bag of candy
+You acquire an item: marzipan skull
+You acquire Angry Farmer candy (2)
+You acquire an item: Tasty Fun Good rice candy
+You acquire an item: Yummy Tummy bean
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: What?
+
+use 1 creepy voodoo doll
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+buy 3 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (3)
+You spent 150 Meat
+
+add to closet: 1 worthless trinket
+
+add to closet: 1 worthless knick-knack
+
+use 3 chewing gum on a string
+You acquire an item: worthless gewgaw
+You acquire an item: worthless knick-knack
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless trinket
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 5 worthless items for 5 ten-leaf clovers
+You acquire ten-leaf clover (5)
+
+Use 5 ten-leaf clover
+You acquire disassembled clover (5)
+You gain 4,212 Meat
+
+Visiting the Fishing Village on the Secret Tropical Island Volcano Lair
+You acquire an item: fisherman's sack
+
+mall.php?pudnuggler=&category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=5
+mallstore.php?whichstore=2111932
+mallstore.php?whichstore=2065951
+mallstore.php?whichstore=265633
+mallstore.php?whichstore=2231708
+mallstore.php?whichstore=2080238
+mallstore.php?whichstore=1271842
+
+mallsell: 28 bubbly potion of confusion, 22 effervescent potion of sleepiness, 14 fizzy potion of inebriety, 17 murky potion of teleportitis
+
+mallsell: 10 Nuclear Blastball
+
+mallsell: 10 willyweed
+
+manageprices.php?action=update&price0[5401]=39800&limit0[5401]=0&price0[5274]=9600&limit0[5274]=0&price0[1745]=8800&limit0[1745]=0&price0[5270]=8500&limit0[5270]=0&price0[5402]=7000&limit0[5402]=0&price0[5675]=7000&limit0[5675]=0&price0[5102]=5000&limit0[5102]=0&price0[5242]=4000&limit0[5242]=0&price0[5101]=4000&limit0[5101]=0&price0[375]=3745&limit0[375]=0&price0[3301]=2200&limit0[3301]=0&price0[196]=1450&limit0[196]=3&price0[226]=1300&limit0[226]=0&price0[5464]=800&limit0[5464]=0&price0[1863]=500&limit0[1863]=0&price0[594]=410&limit0[594]=1&price0[2687]=400&limit0[2687]=0&price0[2680]=300&limit0[2680]=0&price0[617]=274&limit0[617]=0&price0[622]=272&limit0[622]=0&price0[825]=270&limit0[825]=0&price0[632]=264&limit0[632]=0&price0[542]=260&limit0[542]=0&price0[824]=260&limit0[824]=0&price0[538]=260&limit0[538]=0&price0[827]=260&limit0[827]=0&price0[821]=260&limit0[821]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[614]=256&limit0[614]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=0&price0[125]=250&limit0[125]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[1840]=200&limit0[1840]=0&price0[1803]=200&limit0[1803]=0&price0[5468]=200&limit0[5468]=0&price0[834]=190&limit0[834]=0&price0[472]=190&limit0[472]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[5103]=160&limit0[5103]=0&price0[218]=155&limit0[218]=0&price0[3597]=150&limit0[3597]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[475]=130&limit0[475]=0&price0[1655]=120&limit0[1655]=0&price0[5467]=111&limit0[5467]=0&price0[5466]=111&limit0[5466]=0&price0[5469]=100&limit0[5469]=0&price0[1]=100&limit0[1]=0
+
+use 11 resolution: be smarter
+You acquire an effect: Brilliant Resolve (duration: 220 Adventures)
+
+use 16 resolution: be stronger
+You acquire an effect: Strong Resolve (duration: 320 Adventures)
+
+use 12 resolution: be feistier
+You acquire an effect: Destructive Resolve (duration: 240 Adventures)
+
+mallsell: 7 resolution: be more adventurous
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 12 bundles of receipts
+
+[5098] Cobb's Knob Treasury
+Encounter: Meat Score!
+You gain 500 Meat
+
+[5099] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: knob goblin accountant takes 861 damage.
+Round 2: boolicious wins the fight!
+You gain 50 Meat
+You gain 2 Fortitude
+You gain 6 Enchantedness
+You gain 4 Smarm
+
+[5100] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: knob goblin mba takes 857 damage.
+Round 2: boolicious wins the fight!
+You gain 80 Meat
+You gain 4 Strengthliness
+You gain 6 Magicalness
+You gain 2 Smarm
+
+[5101] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: knob goblin accountant takes 852 damage.
+Round 2: boolicious wins the fight!
+You gain 53 Meat
+You gain 3 Muscleboundness
+You gain 7 Enchantedness
+You gain 1 Chutzpah
+
+[5102] Cobb's Knob Treasury
+Encounter: Treasury Chest
+You gain 300 Meat
+
+[5103] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: knob goblin accountant takes 865 damage.
+Round 2: buzzby floats around in circles, endlessly repeating &quot;NO BEFUNO BUGACHA.&quot;
+Round 2: boolicious wins the fight!
+You gain 49 Meat
+You gain 3 Muscleboundness
+You gain 6 Enchantedness
+You gain 2 Sarcasm
+
+[5104] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: knob goblin bean counter takes 843 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: buzzby, the 3 lb. El Vibrato Megadrone
+You gain 53 Meat
+You acquire an item: bundle of receipts
+You gain 4 Beefiness
+You gain 6 Enchantedness
+You gain 2 Chutzpah
+
+[5105] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: knob goblin accountant takes 842 damage.
+Round 2: boolicious wins the fight!
+You gain 42 Meat
+You acquire an item: meat stack
+You gain 3 Fortitude
+You gain 3 Magicalness
+You gain 4 Sarcasm
+
+[5106] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: knob goblin accountant takes 842 damage.
+Round 2: boolicious wins the fight!
+You gain 50 Meat
+You gain 3 Strongness
+You gain 6 Magicalness
+You gain 2 Chutzpah
+
+[5107] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: knob goblin accountant takes 842 damage.
+Round 2: boolicious wins the fight!
+You gain 50 Meat
+You gain 3 Strongness
+You gain 5 Enchantedness
+You gain 3 Sarcasm
+
+[5108] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: knob goblin mba takes 840 damage.
+Round 2: boolicious wins the fight!
+You gain 67 Meat
+You gain 4 Muscleboundness
+You gain 9 Mysteriousness
+
+[5109] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: knob goblin mba takes 844 damage.
+Round 2: boolicious wins the fight!
+You gain 71 Meat
+You acquire an item: baggie of powdered sugar
+You gain 3 Muscleboundness
+You gain 3 Mysteriousness
+You gain 5 Smarm
+
+[5110] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: knob goblin bean counter takes 846 damage.
+Round 2: boolicious wins the fight!
+You gain 60 Meat
+You acquire an item: bundle of receipts
+You gain 2 Strongness
+You gain 6 Enchantedness
+You gain 4 Roguishness
+
+[5111] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: knob goblin mba takes 832 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: buzzby, the 4 lb. El Vibrato Megadrone
+You gain 69 Meat
+You gain 3 Muscleboundness
+You gain 5 Enchantedness
+You gain 4 Chutzpah
+
+[5112] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: knob goblin accountant takes 834 damage.
+Round 2: boolicious wins the fight!
+You gain 56 Meat
+You gain 5 Fortitude
+You gain 3 Mysteriousness
+You gain 3 Roguishness
+
+[5113] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: knob goblin bean counter takes 846 damage.
+Round 2: boolicious wins the fight!
+You gain 61 Meat
+You acquire an item: bundle of receipts
+You gain 2 Beefiness
+You gain 9 Enchantedness
+You gain 2 Cheek
+
+[5114] Cobb's Knob Treasury
+Encounter: Meat Score!
+You gain 500 Meat
+
+[5115] Cobb's Knob Treasury
+Encounter: Treasury Chest
+You gain 300 Meat
+
+[5116] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 360 damage.
+Round 2: boolicious wins the fight!
+You gain 60 Meat
+You acquire an item: hill of beans
+You acquire an item: bundle of receipts
+You gain 3 Fortitude
+You gain 5 Mysteriousness
+You gain 4 Roguishness
+
+[5117] Cobb's Knob Treasury
+Encounter: Meat Score!
+You gain 500 Meat
+
+[5118] Cobb's Knob Treasury
+Encounter: Meat Score!
+You gain 500 Meat
+
+[5119] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: knob goblin mba takes 558 damage.
+Round 2: boolicious wins the fight!
+You gain 71 Meat
+You gain 3 Muscleboundness
+You gain 3 Mysteriousness
+You gain 5 Cheek
+
+[5120] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin accountant takes 358 damage.
+Round 2: boolicious wins the fight!
+You gain 50 Meat
+You gain 2 Beefiness
+You gain 5 Enchantedness
+You gain 5 Roguishness
+
+[5121] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 370 damage.
+Round 2: buzzby floats around in circles, endlessly repeating &quot;NO BEFUNO BUGACHA.&quot;
+Round 2: boolicious wins the fight!
+You gain 69 Meat
+You acquire an item: hill of beans
+You acquire an item: bundle of receipts
+You gain 5 Muscleboundness
+You gain 3 Mysteriousness
+You gain 3 Roguishness
+
+[5122] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mba takes 368 damage.
+Round 2: boolicious wins the fight!
+You gain 71 Meat
+You gain 3 Muscleboundness
+You gain 6 Mysteriousness
+You gain 3 Cheek
+
+[5123] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin accountant takes 371 damage.
+Round 2: boolicious wins the fight!
+You gain 60 Meat
+You acquire an item: flimsy clipboard
+You gain 2 Fortitude
+You gain 5 Wizardliness
+You gain 4 Cheek
+
+[5124] Cobb's Knob Treasury
+Encounter: Treasury Chest
+You gain 300 Meat
+
+[5125] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 368 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: buzzby, the 5 lb. El Vibrato Megadrone
+You gain 64 Meat
+You acquire an item: hill of beans
+You acquire an item: bundle of receipts
+You gain 3 Strongness
+You gain 5 Enchantedness
+You gain 4 Sarcasm
+
+[5126] Cobb's Knob Treasury
+Encounter: Martylas Beanrefrier, the tacobuilding Crimbo elf
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: tacobuilding crimbo elf takes 248 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: Taco Dan's Taco Stand Chimichangarita
+You gain 13 Strongness
+You gain 14 Mysteriousness
+You gain 19 Roguishness
+
+[5127] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 362 damage.
+Round 2: boolicious wins the fight!
+You gain 59 Meat
+You acquire an item: hill of beans
+You acquire an item: bundle of receipts
+You gain 3 Muscleboundness
+You gain 6 Magicalness
+You gain 3 Sarcasm
+
+[5128] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 361 damage.
+Round 2: boolicious wins the fight!
+You gain 58 Meat
+You acquire an item: bundle of receipts
+You gain 5 Strongness
+You gain 3 Enchantedness
+You gain 3 Roguishness
+
+[5129] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin mba takes 368 damage.
+Round 2: boolicious wins the fight!
+You gain 60 Meat
+You acquire an item: baggie of powdered sugar
+You gain 4 Strongness
+You gain 5 Mysteriousness
+You gain 3 Chutzpah
+
+[5130] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: knob goblin mba takes 566 damage.
+Round 2: boolicious wins the fight!
+You gain 65 Meat
+You acquire an item: baggie of powdered sugar
+You gain 6 Beefiness
+You gain 6 Wizardliness
+You gain 1 Sarcasm
+
+[5131] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 358 damage.
+Round 2: boolicious wins the fight!
+You gain 57 Meat
+You acquire an item: bundle of receipts
+You gain 3 Fortitude
+You gain 6 Wizardliness
+You gain 3 Chutzpah
+
+[5132] Cobb's Knob Treasury
+Encounter: Meat Score!
+You gain 500 Meat
+
+[5133] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin accountant takes 392 damage.
+Round 2: buzzby floats around in circles, endlessly repeating &quot;NO BEFUNO BUGACHA.&quot;
+Round 2: boolicious wins the fight!
+You gain 50 Meat
+You gain 3 Strongness
+You gain 3 Mysteriousness
+You gain 4 Smarm
+
+[5134] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin accountant takes 354 damage.
+Round 2: buzzby's bells jingle merrily.
+Round 2: boolicious wins the fight!
+You gain 46 Meat
+You gain 4 Beefiness
+You gain 5 Wizardliness
+You gain 2 Cheek
+
+[5135] Cobb's Knob Treasury
+Encounter: Treasury Chest
+You gain 300 Meat
+
+[5136] Cobb's Knob Treasury
+Encounter: Treasury Chest
+You gain 300 Meat
+
+[5137] Cobb's Knob Treasury
+Encounter: Meat Score!
+You gain 500 Meat
+
+[5138] Cobb's Knob Treasury
+Encounter: Treasury Chest
+You gain 300 Meat
+
+[5139] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: knob goblin mba takes 564 damage.
+Round 2: buzzby floats around in circles, endlessly repeating &quot;NO BEFUNO BUGACHA.&quot;
+Round 2: boolicious wins the fight!
+You gain 72 Meat
+You gain 2 Strengthliness
+You gain 10 Magicalness
+You gain 1 Roguishness
+
+[5140] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 413 damage.
+Round 2: buzzby's bells jingle merrily.
+Round 2: boolicious wins the fight!
+You gain 53 Meat
+You acquire an item: bundle of receipts
+You gain 4 Beefiness
+You gain 3 Wizardliness
+You gain 4 Roguishness
+
+[5141] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 364 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: buzzby, the 6 lb. El Vibrato Megadrone
+You gain 56 Meat
+You acquire an item: bundle of receipts
+You gain 2 Strongness
+You gain 5 Magicalness
+You gain 5 Chutzpah
+
+[5142] Cobb's Knob Treasury
+Encounter: Treasury Chest
+You gain 300 Meat
+
+[5143] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knob goblin bean counter takes 354 damage.
+Round 2: buzzby's bells jingle merrily.
+Round 2: boolicious wins the fight!
+You gain 56 Meat
+You acquire an item: hill of beans
+You acquire an item: bundle of receipts
+You gain 4 Fortitude
+You gain 5 Enchantedness
+You gain 3 Cheek
+You gain a Moxie point!
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+cast 1 Summon Clip Art
+You acquire an item: 4:20 bomb
+
+cast 1 Summon Clip Art
+You acquire an item: chocolate frosted sugar bomb
+
+cast 1 Summon Clip Art
+You acquire an item: cold-filtered water
+
+Use 2 peppermint sprout
+You acquire an item: peppermint patty
+
+Use 2 peppermint sprout
+You acquire an item: peppermint patty
+
+trading 1 fat loot token for 1 Boris's key
+You acquire an item: Boris's key
+
+trading 1 fat loot token for 1 Boris's key
+You acquire an item: Boris's key
+
+Cook 2 Boris's key + 2 lime
+You acquire Boris's key lime (2)
+Crafting used 2 each of Boris's key and lime
+
+Cook 2 bird rib + 2 lion oil
+You acquire wet stew (2)
+Crafting used 2 each of bird rib and lion oil
+
+Cook 2 frat brats + 2 knob ka-bobs
+You acquire super ka-bob (2)
+Crafting used 2 each of frat brats and knob ka-bobs
+
+mallsell: 1 4:20 bomb, 1 chocolate frosted sugar bomb, 1 cold-filtered water, 2 peppermint patty, 2 Boris's key lime, 2 wet stew, 2 super ka-bob, 5 disassembled clover
+
+manageprices.php?action=update&price0[5401]=39800&limit0[5401]=0&price0[5397]=16000&limit0[5397]=1&price0[5280]=9980&limit0[5280]=0&price0[5274]=9600&limit0[5274]=0&price0[5471]=9000&limit0[5471]=0&price0[1745]=8800&limit0[1745]=0&price0[5270]=8500&limit0[5270]=0&price0[5260]=8000&limit0[5260]=0&price0[5402]=7000&limit0[5402]=0&price0[5675]=7000&limit0[5675]=0&price0[5102]=5000&limit0[5102]=0&price0[5242]=4000&limit0[5242]=3&price0[5101]=4000&limit0[5101]=0&price0[375]=3745&limit0[375]=0&price0[2217]=3500&limit0[2217]=0&price0[3301]=2200&limit0[3301]=0&price0[510]=1900&limit0[510]=0&price0[196]=1450&limit0[196]=0&price0[226]=1300&limit0[226]=0&price0[2265]=1145&limit0[2265]=0&price0[5464]=800&limit0[5464]=0&price0[1863]=500&limit0[1863]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[2680]=300&limit0[2680]=0&price0[617]=274&limit0[617]=0&price0[622]=272&limit0[622]=0&price0[825]=270&limit0[825]=0&price0[632]=264&limit0[632]=0&price0[542]=260&limit0[542]=0&price0[821]=260&limit0[821]=0&price0[824]=260&limit0[824]=0&price0[538]=260&limit0[538]=0&price0[827]=260&limit0[827]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[614]=256&limit0[614]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=0&price0[125]=250&limit0[125]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[1840]=200&limit0[1840]=0&price0[1803]=200&limit0[1803]=0&price0[5468]=200&limit0[5468]=0&price0[834]=190&limit0[834]=0&price0[472]=190&limit0[472]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[5103]=160&limit0[5103]=0&price0[218]=155&limit0[218]=0&price0[3597]=150&limit0[3597]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[475]=130&limit0[475]=0&price0[1655]=120&limit0[1655]=0&price0[5467]=111&limit0[5467]=0&price0[5466]=111&limit0[5466]=0&price0[5469]=100&limit0[5469]=0&price0[1]=100&limit0[1]=0
