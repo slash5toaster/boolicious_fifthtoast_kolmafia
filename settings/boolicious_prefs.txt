@@ -1,3 +1,6 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=2e2fe01ff911350e9ba5c12b52d66d81741df073
 AdventureFrame=880,282,0
 BuffBotFrame=603,307,0
 BuffRequestFrame=-8,-8
@@ -61,7 +64,7 @@ _carnieCandyDrops=0
 _chipBags=0
 _chocolateCigarsUsed=0
 _chocolatesUsed=0
-_clipartSummons=3
+_clipartSummons=1
 _coalPaperweightUsed=false
 _companionshipCasts=0
 _creepyVoodooDollUsed=true
@@ -134,7 +137,7 @@ _pieDrops=0
 _piePartsCount=0
 _pneumaticityPotionUsed=false
 _poisonArrows=0
-_poolGames=3
+_poolGames=1
 _precisionCasts=0
 _radlibSummons=0
 _raindohCopiesMade=0
@@ -693,9 +696,9 @@ clanAttacksEnabled=false
 cocktailSummons=0
 concertVisited=true
 counterScript
-crimboTreeDays=2
+crimboTreeDays=1
 currentBountyItem=2412
-currentFullness=0
+currentFullness=19
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -797,14 +800,14 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
-lastBreakfast=14
+lastBreakfast=15
 lastCellarReset=4
 lastChanceBurn
 lastChanceThreshold=100
 lastChasmReset=4
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastCouncilVisit=14
-lastCounterDay=14
+lastCounterDay=15
 lastDispensaryOpen=3
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -845,7 +848,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-lastEncounter=judgmental eye
+lastEncounter=sassy pirate
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -922,7 +925,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=4
 lastWuTangDefeated=1
 lastZapperWand=4
-libramSummons=0
+libramSummons=11
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=6
@@ -1040,7 +1043,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=7879\:Semirare window end loc\=*\:rparen.gif
+relayCounters=8044\:Fortune Cookie\:fortune.gif\:7952\:Fortune Cookie\:fortune.gif\:7973\:Fortune Cookie\:fortune.gif
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1117,7 +1120,7 @@ tempuraSummons=0
 textColors=crappy\:\#999999|good\:green|awesome\:blue|epic\:\#8a2be2|junk\:gray|memento\:olive|notavailable\:gray
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=3
+tomeSummons=1
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
