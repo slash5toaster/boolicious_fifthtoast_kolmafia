@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+=======
 
 use 1 cheap toaster
 You acquire an item: toast
@@ -15,17 +21,22 @@ Visiting Soda Machine in clan rumpus room
 You acquire an item: Marquis de Poivre soda
 Visiting Potted Meat Tree in clan rumpus room
 You gain 1,051 Meat
+>>>>>>> 2e2fe01ff911350e9ba5c12b52d66d81741df073
 
 Visiting Crimbo Tree in clan VIP lounge
 
 Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
 
+<<<<<<< HEAD
+Visiting Looking Glass in clan VIP lounge
+=======
 Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
 
 Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
 
 Visiting Looking Glass in clan VIP lounge
 You acquire an item: &quot;DRINK ME&quot; potion
+>>>>>>> 2e2fe01ff911350e9ba5c12b52d66d81741df073
 
 swimming pool screwaround
 
@@ -38,6 +49,53 @@ Getting out of clan VIP swimming pool
 use 1 Manual of Dexterity
 
 use 1 Chester's bag of candy
+<<<<<<< HEAD
+
+use 1 Trivial Avocations board game
+
+use 1 Oscus's neverending soda
+
+use 1 magical mystery juice
+You gain 39 Mojo Points
+
+Trade 15 black pixel, 10 blue pixel
+
+buy 10 Knob Goblin superseltzer for 296 each from 611336 on 20130109
+You acquire Knob Goblin superseltzer (10)
+
+use 5 Knob Goblin superseltzer
+You gain 135 Mojo Points
+
+use 3 Knob Goblin superseltzer
+You gain 76 Mojo Points
+
+buy 2 natural fennel soda for 875 each from 1089136 on 20130109
+You acquire natural fennel soda (2)
+
+buy 10 carbonated soy milk for 489 each from 929998 on 20130109
+You acquire carbonated soy milk (10)
+
+buy 30 carbonated water lily for 373 each from 381634 on 20130109
+You acquire carbonated water lily (30)
+
+use 3 carbonated water lily
+You gain 184 Mojo Points
+choice.php?forceoption=0
+
+[7864] Unknown adventure
+Encounter: Slings and Arrows
+Took choice 648/1: unknown
+choice.php?pwd&whichchoice=648&option=1
+You lose 100 hit points
+
+[7865] Doubt Man's Level
+Encounter: judgmental eye
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: judgmental eye takes 90 damage.
+Round 2: boolicious wins the fight!
+=======
 You acquire marzipan skull (3)
 You acquire an item: Angry Farmer candy
 You acquire an item: Tasty Fun Good rice candy
@@ -285,10 +343,66 @@ Round 5: judgmental eye takes 3 damage.
 Round 5: judgmental eye takes 5 damage.
 You lose 9 hit points
 Round 5: boolicious wins the fight!
+>>>>>>> 2e2fe01ff911350e9ba5c12b52d66d81741df073
 After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
 You acquire an item: red pixel
 You acquire an item: white pixel
 You acquire an item: black pixel
+<<<<<<< HEAD
+You gain 6 Strongness
+You gain 7 Magicalness
+You gain 6 Cheek
+
+buy 1 blood of the Wereseal for 500 each from Smacketeria
+You acquire an item: blood of the Wereseal
+You spent 500 Meat
+
+use 1 blood of the Wereseal
+You acquire an effect: Temporary Lycanthropy (duration: 10 Adventures)
+
+[7866] Doubt Man's Level
+Encounter: reproachful heart
+Round 0: boolicious wins initiative!
+Round 1: boolicious tries to steal an item!
+You acquire an item: white pixel
+Round 2: reproachful heart takes 3 damage.
+Round 2: reproachful heart takes 9 damage.
+Round 2: reproachful heart takes 4 damage.
+You lose 1 hit point
+Round 2: boolicious executes a macro!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: reproachful heart takes 87 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You acquire an item: red pixel
+You acquire an item: red pixel
+You gain 7 Strongness
+You gain 6 Enchantedness
+You gain 3 Smarm
+
+[7867] Doubt Man's Level
+Encounter: judgmental eye
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: judgmental eye takes 94 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: DocSavage, the 23 lb. Angry Jung Man
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You acquire an item: red pixel
+You acquire an item: white pixel
+You acquire an item: black pixel
+You gain 5 Beefiness
+You gain 8 Wizardliness
+You gain 6 Chutzpah
+
+[7868] Doubt Man's Level
+Encounter: judgmental eye
+Round 0: boolicious wins initiative!
+Round 1: boolicious tries to steal an item!
+You acquire an item: red pixel
+Round 2: judgmental eye takes 2 damage.
+=======
 You acquire an item: pixel power cell
 You gain 7 Beefiness
 You gain 2 Mysteriousness
@@ -449,10 +563,94 @@ Round 0: boolicious wins initiative!
 Round 0: boolicious casts SING! (auto-attack)
 Round 2: judgmental eye takes 3 damage.
 Round 2: judgmental eye takes 1 damage.
+>>>>>>> 2e2fe01ff911350e9ba5c12b52d66d81741df073
 Round 2: judgmental eye takes 9 damage.
 Round 2: judgmental eye takes 4 damage.
 You lose 1 hit point
 Round 2: boolicious executes a macro!
+<<<<<<< HEAD
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: judgmental eye takes 90 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You acquire an item: white pixel
+You acquire an item: black pixel
+You gain 5 Fortitude
+You gain 7 Wizardliness
+You gain 6 Chutzpah
+
+[7869] Doubt Man's Level
+Encounter: reproachful heart
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: reproachful heart takes 91 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You acquire an item: red pixel
+You acquire an item: red pixel
+You acquire an item: white pixel
+You gain 4 Strengthliness
+You gain 9 Wizardliness
+You gain 3 Chutzpah
+
+[7870] Doubt Man's Level
+Encounter: work hat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: work hat takes 61 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You acquire an item: black pixel
+You acquire an item: black pixel
+You acquire an item: white pixel
+You gain 6 Strengthliness
+You gain 4 Wizardliness
+You gain 5 Sarcasm
+
+[7871] Doubt Man's Level
+Encounter: work hat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: work hat takes 54 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the uncontrollable urge to dance is evidence of repressed sexual longing," and does a little soft-shoe.
+You acquire an item: black pixel
+You acquire an item: black pixel
+You acquire an item: white pixel
+You acquire an item: pixel power cell
+You gain 4 Beefiness
+You gain 5 Mysteriousness
+You gain 6 Smarm
+choice.php?forceoption=0
+
+[7872] Doubt Man's Level
+Encounter: A Door.  Figures.
+Took choice 649/1: unknown
+choice.php?pwd&whichchoice=649&option=1
+Encounter: Doubt Man
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: boolicious attacks!
+Round 3: doubt man takes 1 damage.
+Round 3: doubt man takes 6 damage.
+Round 3: doubt man takes 4 damage.
+You lose 1 hit point
+Round 3: boolicious attacks!
+Round 4: doubt man takes 184 damage.
+Round 4: boolicious wins the fight!
+You lose an effect: Consumed by Doubt
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: doubt cannon
+You gain 4 Fortitude
+You gain 6 Enchantedness
+You gain 8 Cheek
+
+cast 1 Summon Clip Art
+=======
 Round 2: boolicious tries to steal an item!
 Round 3: boolicious casts MOXIOUS MANEUVER!
 Round 4: judgmental eye takes 100 damage.
@@ -946,6 +1144,7 @@ You gain 35 hit points
 [7806] Anger Man's Level
 Encounter: rage flame
 Round 0: boolicious wins initiative!
+<<<<<<< HEAD
 Encounter: rage flame
 Round 0: fifthtoast loses initiative!
 Round 1: rage flame takes 32 damage.
@@ -2418,3 +2617,6 @@ You acquire an item: white pixel
 You gain 7 Muscleboundness
 You gain 5 Enchantedness
 You gain 8 Chutzpah
+=======
+>>>>>>> 2e2fe01ff911350e9ba5c12b52d66d81741df073
+>>>>>>> ussf319388
