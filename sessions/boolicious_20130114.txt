@@ -153,3 +153,2495 @@ You acquire an item: forbidden danish
 
 cast 1 Summon Clip Art
 You acquire an item: Beignet Milgranet
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+Talking to Sven Golly at the Hey Deze Arena
+
+oldman.php?action=talk
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 20 disintegrating corks
+
+use 10 large box
+You acquire milky potion of ettin strength (5)
+You acquire swirly potion of mental acuity (5)
+You acquire bubbly potion of confusion (4)
+You acquire smoky potion of detection (5)
+You acquire cloudy potion of blessing (10)
+You acquire effervescent potion of sleepiness (7)
+You acquire fizzy potion of inebriety (6)
+You acquire dark potion of healing (4)
+You acquire murky potion of teleportitis (3)
+
+use 1 Bash-&#332;s boxtop
+
+use 5 small box
+You acquire milky potion of ettin strength (2)
+You acquire an item: bubbly potion of confusion
+You acquire smoky potion of detection (3)
+You acquire effervescent potion of sleepiness (3)
+You acquire fizzy potion of inebriety (5)
+You acquire an item: dark potion of healing
+You acquire an item: murky potion of teleportitis
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be smarter
+
+town_sellflea.php?pwd=be2b131b67045f9c5a1613c645bc12d0&whichitem=828&sellprice=200&selling=Yep.
+town_sellflea.php?pwd=be2b131b67045f9c5a1613c645bc12d0&whichitem=828&sellprice=200&selling=Yep.
+town_sellflea.php?pwd=be2b131b67045f9c5a1613c645bc12d0&whichitem=828&sellprice=200&selling=Yep.
+town_sellflea.php?pwd=be2b131b67045f9c5a1613c645bc12d0&whichitem=828&sellprice=&selling=Yep.
+town_sellflea.php?pwd=be2b131b67045f9c5a1613c645bc12d0&whichitem=436&sellprice=1000&selling=Yep.
+town_sellflea.php?pwd=be2b131b67045f9c5a1613c645bc12d0&whichitem=828&sellprice=200&selling=Yep.
+town_fleamarket.php?which=14
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[8353] Mix 10 bottle of rum + 10 peppermint twist
+You acquire Crimbojito (10)
+Crafting used 10 each of bottle of rum and peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[8363] Mix 7 bottle of tequila + 7 peppermint twist
+You acquire Feliz Navidad (7)
+Crafting used 7 each of bottle of tequila and peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+[8370] Mix 7 boxed wine + 7 peppermint twist
+You acquire Sangria de Menthe (7)
+Crafting used 7 each of boxed wine and peppermint twist
+
+Draw 4 stars with 2 lines
+You acquire an item: star throwing star
+
+Draw 4 stars with 2 lines
+You acquire an item: star throwing star
+
+mallsell: 2 star throwing star
+
+use 1 Shivering Ch&egrave;vre
+You acquire an effect: Goat Gotten (duration: 30 Adventures)
+
+Visiting the pretentious artist
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+Visiting the suspicious looking guy
+
+tavern.php?action=jung&whichperson=susguy
+You acquire an item: jar of psychoses (The Suspicious-Looking Guy)
+
+use 1 jar of psychoses (The Suspicious-Looking Guy)
+
+[8376] 3rd Floor, Shiawase-Mitsuhama Building
+Encounter: yakuza guard
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 27 damage.
+Round 2: yakuza guard takes 27 damage.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: yakuza guard takes 1597 damage.
+Round 3: boolicious wins the fight!
+You gain 27 Meat
+You gain 7 Beefiness
+You gain 9 Enchantedness
+You gain 5 Cheek
+
+[8377] 3rd Floor, Shiawase-Mitsuhama Building
+Encounter: salaryninja
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: salaryninja takes 930 damage.
+Round 2: boolicious wins the fight!
+You gain 12 Meat
+You gain 6 Muscleboundness
+You gain 4 Wizardliness
+You gain 11 Sarcasm
+choice.php?forceoption=0
+
+[8378] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+Took choice 657/1: unknown
+choice.php?pwd&whichchoice=657&option=1
+
+[8378] Chinatown Tenement
+Encounter: desperate gold farmer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: desperate gold farmer takes 1540 damage.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 31 hit points
+You gain 31 Mojo Points
+Round 3: boolicious wins the fight!
+You gain 40 Meat
+You acquire an item: gold piece
+You gain 12 Fortitude
+You gain 7 Mysteriousness
+You gain 3 Sarcasm
+
+[8379] Chinatown Tenement
+Encounter: yakuza thug
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: tube of herbal ointment
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused. LIMIT BREAK!
+Round 2: yakuza thug drops 17 attack power.
+Round 2: yakuza thug drops 17 defense.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: yakuza thug takes 1528 damage.
+Round 3: boolicious wins the fight!
+You gain 23 Meat
+You gain 8 Fortitude
+You gain 5 Magicalness
+You gain 8 Sarcasm
+
+[8380] Chinatown Tenement
+Encounter: rabid MMO addict
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: gold piece
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: rabid mmo addict takes 1497 damage.
+Round 3: boolicious wins the fight!
+You gain 21 Meat
+You gain 5 Beefiness
+You gain 8 Wizardliness
+You gain 11 Smarm
+
+[8381] Chinatown Tenement
+Encounter: desperate gold farmer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 139 Meat.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: desperate gold farmer takes 1467 damage.
+Round 3: boolicious wins the fight!
+You gain 35 Meat
+You acquire an item: gold piece
+You gain 5 Strongness
+You gain 7 Mysteriousness
+You gain 10 Roguishness
+You gain a Moxie point!
+
+[8382] Chinatown Tenement
+Encounter: rabid MMO addict
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: gold piece
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: rabid mmo addict takes 1458 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 194 Meat.
+Round 3: boolicious wins the fight!
+You gain 19 Meat
+You gain 6 Beefiness
+You gain 5 Mysteriousness
+You gain 13 Roguishness
+
+[8383] Chinatown Tenement
+Encounter: yakuza thug
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: butterfly knife
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: yakuza thug takes 1417 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused. LIMIT BREAK!
+Round 3: yakuza thug drops 18 attack power.
+Round 3: yakuza thug drops 18 defense.
+Round 3: boolicious wins the fight!
+You gain 22 Meat
+You acquire an item: tube of herbal ointment
+You gain 8 Strengthliness
+You gain 6 Magicalness
+You gain 7 Chutzpah
+
+[8384] Chinatown Tenement
+Encounter: desperate gold farmer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: gold piece
+Round 2: desperate gold farmer takes 2 damage.
+Round 2: desperate gold farmer takes 8 damage.
+Round 2: desperate gold farmer takes 3 damage.
+You lose 3 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: desperate gold farmer takes 1411 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 196 Meat.
+Round 3: boolicious wins the fight!
+You gain 43 Meat
+You gain 5 Fortitude
+You gain 7 Enchantedness
+You gain 11 Sarcasm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+[8385] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+Took choice 657/2: unknown
+choice.php?pwd&whichchoice=657&option=2&choiceform2=Leave
+
+[8385] Chinatown Tenement
+Encounter: yakuza thug
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: yakuza thug takes 1389 damage.
+Round 3: boolicious wins the fight!
+You gain 26 Meat
+You acquire an item: tube of herbal ointment
+You gain 4 Muscleboundness
+You gain 7 Wizardliness
+You gain 10 Roguishness
+
+[8386] Chinatown Tenement
+Encounter: yakuza thug
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: tube of herbal ointment
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: yakuza thug takes 1348 damage.
+Round 3: boolicious wins the fight!
+You gain 30 Meat
+You gain 5 Beefiness
+You gain 8 Wizardliness
+You gain 9 Sarcasm
+
+[8387] Chinatown Tenement
+Encounter: yakuza thug
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: yakuza thug takes 1324 damage.
+Round 3: boolicious wins the fight!
+You gain 27 Meat
+You gain 3 Beefiness
+You gain 6 Enchantedness
+You gain 11 Sarcasm
+
+[8388] Chinatown Tenement
+Encounter: desperate gold farmer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: desperate gold farmer takes 2 damage.
+Round 2: desperate gold farmer takes 2 damage.
+Round 2: desperate gold farmer takes 4 damage.
+You lose 3 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: desperate gold farmer takes 1306 damage.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 56 damage. LIMIT BREAK!
+Round 3: desperate gold farmer takes 56 damage.
+Round 3: boolicious wins the fight!
+You gain 45 Meat
+You acquire an item: gold piece
+You gain 11 Strengthliness
+You gain 5 Magicalness
+You gain 6 Cheek
+
+[8389] Chinatown Tenement
+Encounter: yakuza thug
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: butterfly knife
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: yakuza thug takes 1272 damage.
+Round 3: boolicious wins the fight!
+You gain 30 Meat
+You gain 8 Fortitude
+You gain 3 Mysteriousness
+You gain 10 Smarm
+
+[8390] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+
+[8390] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+Took choice 657/2: unknown
+choice.php?pwd&whichchoice=657&option=2&choiceform2=Leave
+
+[8390] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+Took choice 657/2: unknown
+choice.php?pwd&whichchoice=657&option=2&choiceform2=Leave
+
+[8390] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+Took choice 657/2: unknown
+choice.php?pwd&whichchoice=657&option=2&choiceform2=Leave
+
+[8390] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+Took choice 657/2: unknown
+choice.php?pwd&whichchoice=657&option=2&choiceform2=Leave
+
+[8390] Chinatown Tenement
+Encounter: rabid MMO addict
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: rabid mmo addict takes 1258 damage.
+Round 3: boolicious wins the fight!
+You gain 21 Meat
+You gain 3 Strengthliness
+You gain 6 Enchantedness
+You gain 15 Smarm
+
+[8391] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+Took choice 657/1: unknown
+choice.php?pwd&whichchoice=657&option=1&choiceform1=Give+30+Gold+Pieces
+
+[8391] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+Took choice 657/2: unknown
+choice.php?pwd&whichchoice=657&option=2&choiceform2=Leave
+
+place.php?whichplace=junggate_1&action=slg_manhole0label
+
+buy 1 toy taijijian for 0 each from an NPC Store
+You acquire an item: toy taijijian
+You spent 1,000 Meat
+
+buy 1 fortune cookie for 40 each from an NPC Store
+You acquire an item: fortune cookie
+You spent 40 Meat
+
+eat 1 fortune cookie
+You gain 1 Adventure
+You gain 1 Fullness
+Lucky numbers: 62, 83, 30
+
+buy 1 bonsai tree for 0 each from an NPC Store
+You acquire an item: bonsai tree
+You spent 1,500 Meat
+
+use 1 bonsai tree
+
+[8391] Chinatown Tenement
+Encounter: desperate gold farmer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: desperate gold farmer takes 1227 damage.
+Round 3: boolicious wins the fight!
+You gain 40 Meat
+You gain 7 Muscleboundness
+You gain 3 Magicalness
+You gain 13 Chutzpah
+
+equip weapon octopus's spade
+
+equip off-hand Hodgman's metal detector
+
+equip back makeshift cape
+
+equip shirt cane-mail shirt
+
+equip acc2 Baron von Ratsworth's monocle
+
+buy 1 cyclops eyedrops for 19500 each from 1530784 on 20130114
+You acquire an item: cyclops eyedrops
+
+use 1 cyclops eyedrops
+You acquire an effect: One Very Clear Eye (duration: 10 Adventures)
+
+use 1 bottle of bubbles
+You acquire an effect: Bubble Vision (duration: 100 Adventures)
+
+buy 1 Grateful Undead T-shirt for 500 each from 465585 on 20130114
+You acquire an item: Grateful Undead T-shirt
+
+equip shirt Grateful Undead T-shirt
+
+trading 1 lucre for 1 bowl of Bounty-Os
+You acquire an item: bowl of Bounty-Os
+
+eat 1 bowl of Bounty-Os
+You gain 14 Adventures
+You gain 24 Strongness
+You gain 18 Mysteriousness
+You gain 22 Smarm
+You acquire an effect: Broken Fast (duration: 20 Adventures)
+You gain 3 Fullness
+
+buy 1 Knob Goblin eyedrops for 200 each from 1877436 on 20130114
+You acquire an item: Knob Goblin eyedrops
+
+use 1 Knob Goblin eyedrops
+You acquire an effect: Peeled Eyeballs (duration: 10 Adventures)
+
+use 1 smoky potion of detection
+You acquire an effect: Object Detection (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+shower warm
+
+buy 1 cyclops eyedrops for 19500 each from 1530784 on 20130114
+You acquire an item: cyclops eyedrops
+
+use 1 cyclops eyedrops
+You acquire an effect: One Very Clear Eye (duration: 10 Adventures)
+
+swimming pool submarine
+
+equip shirt Ultracolor™ shirt
+Took choice 657/2: unknown
+choice.php?pwd&whichchoice=657&option=2
+
+[8392] Chinatown Tenement
+Encounter: desperate gold farmer
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: desperate gold farmer takes 957 damage.
+Round 2: boolicious wins the fight!
+You gain 32 Meat
+You acquire an item: gold piece
+You acquire an item: gold piece
+You gain 6 Fortitude
+You gain 5 Wizardliness
+You gain 10 Smarm
+
+[8393] Chinatown Tenement
+Encounter: rabid MMO addict
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: gold piece
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 118 Meat.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: rabid mmo addict takes 1105 damage.
+Round 3: boolicious wins the fight!
+You gain 16 Meat
+You gain 6 Beefiness
+You gain 5 Mysteriousness
+You gain 11 Cheek
+
+[8394] Chinatown Tenement
+Encounter: rabid MMO addict
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: rabid mmo addict takes 1085 damage.
+Round 3: boolicious wins the fight!
+You gain 18 Meat
+You acquire an item: gold piece
+You gain 7 Fortitude
+You gain 8 Enchantedness
+You gain 8 Chutzpah
+
+[8395] Chinatown Tenement
+Encounter: yakuza thug
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: yakuza thug takes 2 damage.
+Round 2: yakuza thug takes 6 damage.
+Round 2: yakuza thug takes 3 damage.
+You lose 4 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: yakuza thug takes 1051 damage.
+Round 3: boolicious wins the fight!
+You gain 19 Meat
+You acquire an item: butterfly knife
+You acquire an item: tube of herbal ointment
+You gain 3 Strongness
+You gain 5 Enchantedness
+You gain 11 Roguishness
+
+[8396] Chinatown Tenement
+Encounter: rabid MMO addict
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: rabid mmo addict takes 1039 damage.
+Round 3: boolicious wins the fight!
+You gain 17 Meat
+You acquire an item: gold piece
+You gain 6 Fortitude
+You gain 4 Mysteriousness
+You gain 12 Sarcasm
+
+[8397] Chinatown Tenement
+Encounter: rabid MMO addict
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 28 damage.
+Round 2: rabid mmo addict takes 28 damage.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: rabid mmo addict takes 1012 damage.
+Round 3: boolicious wins the fight!
+You gain 15 Meat
+You acquire an item: gold piece
+You gain 6 Beefiness
+You gain 5 Mysteriousness
+You gain 11 Roguishness
+
+[8398] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+Took choice 657/2: unknown
+choice.php?pwd&whichchoice=657&option=2&choiceform2=Leave
+
+[8398] Chinatown Tenement
+Encounter: desperate gold farmer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: gold piece
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 26 damage.
+Round 2: desperate gold farmer takes 26 damage.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: desperate gold farmer takes 988 damage.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 31 hit points
+You gain 31 Mojo Points
+Round 3: boolicious wins the fight!
+You gain 34 Meat
+You acquire an item: gold piece
+You gain 6 Muscleboundness
+You gain 5 Enchantedness
+You gain 9 Chutzpah
+
+[8399] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+Took choice 657/2: unknown
+choice.php?pwd&whichchoice=657&option=2&choiceform2=Leave
+
+[8399] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+Took choice 657/2: unknown
+choice.php?pwd&whichchoice=657&option=2&choiceform2=Leave
+
+[8399] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+Took choice 657/2: unknown
+choice.php?pwd&whichchoice=657&option=2&choiceform2=Leave
+
+[8399] Chinatown Tenement
+Encounter: yakuza thug
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 106 Meat.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: yakuza thug takes 948 damage.
+Round 3: boolicious wins the fight!
+You gain 22 Meat
+You acquire an item: butterfly knife
+You acquire an item: tube of herbal ointment
+You gain 8 Strengthliness
+You gain a Muscle point!
+You gain 4 Mysteriousness
+You gain 8 Cheek
+
+use 1 Oscus's neverending soda
+You gain 204 Mojo Points
+
+[8400] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+Took choice 657/2: unknown
+choice.php?pwd&whichchoice=657&option=2&choiceform2=Leave
+
+[8400] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+Took choice 657/2: unknown
+choice.php?pwd&whichchoice=657&option=2
+
+[8400] Chinatown Tenement
+Encounter: yakuza thug
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: tube of herbal ointment
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: yakuza thug takes 939 damage.
+Round 3: boolicious wins the fight!
+You gain 17 Meat
+You gain 9 Strengthliness
+You gain 4 Wizardliness
+You gain 7 Cheek
+
+[8401] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+Took choice 657/1: unknown
+choice.php?pwd&whichchoice=657&option=1&choiceform1=Give+30+Gold+Pieces
+
+[8401] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+Took choice 657/2: unknown
+choice.php?pwd&whichchoice=657&option=2&choiceform2=Leave
+
+[8401] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+Took choice 657/2: unknown
+choice.php?pwd&whichchoice=657&option=2&choiceform2=Leave
+
+[8401] Chinatown Tenement
+Encounter: rabid MMO addict
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mojo Points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: rabid mmo addict takes 912 damage.
+Round 3: boolicious wins the fight!
+You gain 14 Meat
+You acquire an item: gold piece
+You gain 4 Beefiness
+You gain 6 Wizardliness
+You gain 11 Cheek
+
+[8402] Chinatown Tenement
+Encounter: yakuza thug
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: yakuza thug drops 9 attack power.
+Round 2: yakuza thug drops 9 defense.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: yakuza thug takes 892 damage.
+Round 3: boolicious wins the fight!
+You gain 29 Meat
+You acquire an item: tube of herbal ointment
+You gain 4 Strengthliness
+You gain 6 Enchantedness
+You gain 10 Roguishness
+
+[8403] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+Took choice 657/2: unknown
+choice.php?pwd&whichchoice=657&option=2&choiceform2=Leave
+
+buy 1 milk of magnesium for 810 each from 1699424 on 20130114
+You acquire an item: milk of magnesium
+
+use 1 milk of magnesium
+You acquire an effect: Got Milk (duration: 10 Adventures)
+
+eat 3 pear tart
+You gain 14 Adventures
+You gain 44 Wizardliness
+You gain a Mysticality point!
+You gain 3 Fullness
+You lose some of an effect: Got Milk
+You gain 14 Adventures
+You gain 48 Enchantedness
+You gain 3 Fullness
+You lose some of an effect: Got Milk
+You gain 13 Adventures
+You gain 40 Magicalness
+You gain 3 Fullness
+You lose some of an effect: Got Milk
+
+eat 3 peppermint patty
+You gain 13 Adventures
+You gain 14 Strengthliness
+You gain 18 Magicalness
+You gain 10 Roguishness
+You gain 2 Fullness
+You lose an effect: Got Milk
+You gain 11 Adventures
+You gain 12 Strengthliness
+You gain 22 Mysteriousness
+You gain 13 Sarcasm
+You gain 2 Fullness
+You gain 10 Adventures
+You gain 17 Beefiness
+You gain 14 Magicalness
+You gain 11 Cheek
+You gain 2 Fullness
+
+cast 1 The Ode to Booze
+
+cast 1 The Ode to Booze
+You acquire an effect: Ode to Booze (duration: 20 Adventures)
+
+drink 2 calle de miel
+You gain 18 Adventures
+You gain 10 Beefiness
+You gain 27 Roguishness
+You gain 4 Drunkenness
+You lose some of an effect: Ode to Booze
+You gain 17 Adventures
+You gain 9 Strongness
+You gain 25 Roguishness
+You gain 4 Drunkenness
+You lose some of an effect: Ode to Booze
+
+trading 1 lucre for 1 Oreille Divis&eacute;e brandy
+You acquire an item: Oreille Divis&eacute;e brandy
+
+drink 1 Oreille Divis&eacute;e brandy
+You gain 15 Adventures
+You gain 18 Fortitude
+You gain 20 Enchantedness
+You gain 15 Chutzpah
+You acquire an effect: Hoity Toity (duration: 20 Adventures)
+You gain 3 Drunkenness
+You lose some of an effect: Ode to Booze
+Unexpected error, debug log printed.
+Unexpected error, debug log printed.
+Took choice 657/2: unknown
+choice.php?pwd&whichchoice=657&option=2
+
+[8403] Chinatown Tenement
+Encounter: yakuza thug
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 28 damage.
+Round 2: yakuza thug takes 28 damage.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: yakuza thug takes 851 damage.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 32 hit points
+You gain 32 Mojo Points
+Round 3: boolicious wins the fight!
+You gain 28 Meat
+You acquire an item: butterfly knife
+You acquire an item: tube of herbal ointment
+You gain 5 Fortitude
+You gain 5 Wizardliness
+You gain 9 Smarm
+
+[8404] Chinatown Tenement
+Encounter: desperate gold farmer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: gold piece
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: desperate gold farmer takes 835 damage.
+Round 3: boolicious wins the fight!
+You gain 40 Meat
+You acquire an item: gold piece
+You acquire an item: gold piece
+You gain 5 Fortitude
+You gain 7 Mysteriousness
+You gain 9 Cheek
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+[8405] Chinatown Tenement
+Encounter: desperate gold farmer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: gold piece
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: desperate gold farmer takes 799 damage.
+Round 3: boolicious wins the fight!
+You gain 38 Meat
+You acquire an item: gold piece
+You acquire an item: gold piece
+You gain 7 Fortitude
+You gain 5 Mysteriousness
+You gain 9 Roguishness
+
+[8406] Chinatown Tenement
+Encounter: rabid MMO addict
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: gold piece
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: rabid mmo addict takes 804 damage.
+Round 3: boolicious wins the fight!
+You gain 22 Meat
+You gain 7 Strengthliness
+You gain 6 Magicalness
+You gain 9 Sarcasm
+unequip offhand
+
+equip back Misty Cape
+
+equip shirt spangly mariachi vest
+
+equip acc2 Chester's sunglasses
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #125/1200:
+Question: What did Professor Morris Franklin, mayor of Claremont, find when he opened the time capsule that had been buried under an Indian burial mound on Carlvember 1st, 1666?
+Answer: A teacher.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #416/1200:
+Question: When did the Unexpected Occupation of Rockfurnace Tomb begin?
+Answer: Half past four.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #737/1200:
+Question: Who wrote the massively-hyped poetry collection <u>Squirrels of the Poison Lord</u>?
+Answer: Jack Taylor's roommate Travis.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1044/1200:
+Question: Where was Manny VII, Princess of Wibbleshire, shot?
+Answer: Buttole, Schmalbion.
+
+buy 1 serum of sarcasm for 429 each from 1877436 on 20130114
+You acquire an item: serum of sarcasm
+
+use 1 serum of sarcasm
+You acquire an effect: Superhuman Sarcasm (duration: 5 Adventures)
+
+buy 1 tomato juice of powerful power for 396 each from 1877436 on 20130114
+You acquire an item: tomato juice of powerful power
+
+use 1 tomato juice of powerful power
+You acquire an effect: Tomato Power (duration: 5 Adventures)
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+cast 1 Stevedave's Shanty of Superiority
+
+buy 1 CSA bravery badge for 100 each from 1053259 on 20130114
+You acquire an item: CSA bravery badge
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+use 1 all-year sucker
+You acquire an effect: Gonna Get You, Sucker (duration: 10 Adventures)
+
+cast 1 The Moxious Madrigal
+
+[8407] Chinatown Tenement
+Encounter: desperate gold farmer
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: desperate gold farmer takes 1190 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 166 Meat.
+Round 2: boolicious wins the fight!
+You gain 47 Meat
+You acquire an item: gold piece
+You acquire an item: gold piece
+You acquire an item: gold piece
+You gain 5 Strengthliness
+You gain 7 Mysteriousness
+You gain 10 Smarm
+choice.php?forceoption=0
+
+[8408] Chinatown Tenement
+Encounter: You Grind 16 Rats, and Whaddya Get?
+Took choice 657/1: unknown
+choice.php?pwd&whichchoice=657&option=1
+Encounter: Debasement
+Encounter: Debasement
+Encounter: Debasement
+Encounter: Debasement
+Took choice 658/1: unknown
+choice.php?pwd&whichchoice=658&option=1
+Encounter: The Server
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the skull with a fuse in it!
+Round 2: the server takes 435 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 26 damage.
+Round 2: the server takes 26 damage.
+Round 2: boolicious uses the unbearable light!
+Adjusted combat item count: unbearable light
+Round 3: boolicious uses the strange goggles!
+Round 4: boolicious wins the fight!
+You gain 7 Fortitude
+You gain 10 Mysteriousness
+You gain 7 Chutzpah
+Encounter: White Bone Demon
+Round 0: boolicious wins initiative!
+Adjusted combat item count: strange goggles
+Round 1: boolicious uses the whimpering willow bark!
+You gain 273 hit points
+Round 2: boolicious attacks!
+Round 3: white bone demon takes 1180 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: suspicious-looking fedora
+You gain 8 Beefiness
+You gain 7 Mysteriousness
+You gain 11 Chutzpah
+
+place.php?whichplace=junggate_1&action=slg_crowd
+place.php?whichplace=junggate_1&action=slg_zaibentrance
+place.php?whichplace=junggate_1&action=slg_tenement0label
+
+buy 1 lucky cat statue for 0 each from an NPC Store
+You acquire an item: lucky cat statue
+You spent 2,000 Meat
+
+use 1 lucky cat statue
+
+mallsell: 14 murky potion of teleportitis, 7 Feliz Navidad, 7 Sangria de Menthe, 10 Crimbojito, 23 effervescent potion of sleepiness, 21 fizzy potion of inebriety
+
+use 3 Marquis de Poivre soda
+You gain 97 Mojo Points
+
+[8410] Pandamonium Slums
+Encounter: Demoninja
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: hot katana blade
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: demoninja takes 2371 damage.
+Round 3: boolicious wins the fight!
+You gain 43 Meat
+You acquire an item: fraudwort
+You gain 2 Muscleboundness
+You gain 5 Magicalness
+You gain 6 Chutzpah
+
+[8411] Pandamonium Slums
+Encounter: Fallen Archfiend
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused. LIMIT BREAK!
+Round 2: fallen archfiend drops 18 attack power.
+Round 2: fallen archfiend drops 18 defense.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: fallen archfiend takes 2366 damage.
+Round 3: boolicious wins the fight!
+You gain 45 Meat
+You acquire an item: evil golden arch
+You acquire an item: demon skin
+You gain 1 Muscleboundness
+You gain 5 Mysteriousness
+You gain 8 Sarcasm
+
+[8412] Pandamonium Slums
+Encounter: Fallen Archfiend
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: evil golden arch
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 125 Meat.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: fallen archfiend takes 1616 damage.
+Round 3: boolicious wins the fight!
+You gain 40 Meat
+You gain 2 Beefiness
+You gain 4 Magicalness
+You gain 8 Roguishness
+
+[8413] Pandamonium Slums
+Encounter: Hellion
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 57 hit points
+You gain 57 Mojo Points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: hellion takes 1615 damage.
+Round 3: boolicious wins the fight!
+You gain 3 Muscleboundness
+You gain 5 Enchantedness
+You gain 5 Smarm
+
+[8414] Pandamonium Slums
+Encounter: Fallen Archfiend
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: demon skin
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: fallen archfiend takes 1621 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 32 hit points
+You gain 32 Mojo Points
+Round 3: boolicious wins the fight!
+You gain 49 Meat
+You acquire an item: evil golden arch
+You gain 3 Strongness
+You gain 4 Magicalness
+You gain 7 Smarm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[8415] Pandamonium Slums
+Encounter: L imp
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 61 hit points
+You gain 61 Mojo Points
+Round 2: l imp takes 1 damage.
+Round 2: l imp takes 9 damage.
+Round 2: l imp takes 5 damage.
+You lose 1 hit point
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: l imp takes 1623 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 102 Meat.
+Round 3: boolicious wins the fight!
+You gain 34 Meat
+You acquire an item: cast
+You gain 2 Strengthliness
+You gain 4 Magicalness
+You gain 6 Sarcasm
+
+[8416] Pandamonium Slums
+Encounter: G imp
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: hot wing
+Round 2: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mojo Points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: g imp takes 1611 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 3: g imp drops 9 attack power.
+Round 3: g imp drops 9 defense.
+Round 3: boolicious wins the fight!
+You gain 28 Meat
+You gain 5 Strengthliness
+You gain 2 Mysteriousness
+You gain 6 Sarcasm
+
+[8417] Pandamonium Slums
+Encounter: W imp
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: w imp takes 1495 damage.
+Round 3: boolicious wins the fight!
+You gain 32 Meat
+You acquire an item: Imp Ale
+You acquire an item: wussiness potion
+You gain 2 Strengthliness
+You gain 4 Wizardliness
+You gain 5 Chutzpah
+
+[8418] Pandamonium Slums
+Encounter: Demoninja
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: demoninja takes 1513 damage.
+Round 3: boolicious wins the fight!
+You gain 50 Meat
+You acquire an item: ninja hot pants
+You gain 3 Muscleboundness
+You gain 7 Mysteriousness
+You gain 3 Roguishness
+
+[8419] Pandamonium Slums
+Encounter: Hellion
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: hellion cube
+Round 2: hellion takes 1 damage.
+Round 2: hellion takes 10 damage.
+Round 2: hellion takes 5 damage.
+You lose 1 hit point
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: hellion takes 1488 damage.
+Round 3: boolicious wins the fight!
+You gain 2 Beefiness
+You gain 6 Wizardliness
+You gain 6 Chutzpah
+
+[8420] Pandamonium Slums
+Encounter: L imp
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: l imp takes 1488 damage.
+Round 3: boolicious wins the fight!
+You gain 33 Meat
+You acquire an item: cast
+You gain 3 Strengthliness
+You gain 2 Mysteriousness
+You gain 7 Sarcasm
+
+[8421] Pandamonium Slums
+Encounter: It's the Only Way to be Sure
+You acquire an item: SPF 451 lip balm
+
+[8422] Pandamonium Slums
+Encounter: Fallen Archfiend
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: fallen archfiend takes 1496 damage.
+Round 3: boolicious wins the fight!
+You gain 47 Meat
+You gain 2 Muscleboundness
+You gain 4 Magicalness
+You gain 7 Smarm
+
+[8423] Pandamonium Slums
+Encounter: P imp
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: p imp takes 1 damage.
+Round 2: p imp takes 10 damage.
+Round 2: p imp takes 3 damage.
+You lose 1 hit point
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: p imp takes 1499 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused. LIMIT BREAK!
+Round 3: p imp drops 17 attack power.
+Round 3: p imp drops 17 defense.
+Round 3: boolicious wins the fight!
+You gain 35 Meat
+You gain 1 Muscleboundness
+You gain 6 Mysteriousness
+You gain 4 Smarm
+
+[8424] Pandamonium Slums
+Encounter: Hellion
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 88 Meat.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: hellion takes 1481 damage.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 26 damage.
+Round 3: hellion takes 26 damage.
+Round 3: boolicious wins the fight!
+You gain 5 Muscleboundness
+You gain 4 Mysteriousness
+You gain 5 Chutzpah
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+buy 52 black cherry soda for 80 each from Black Market
+You acquire black cherry soda (52)
+You spent 4,160 Meat
+
+use 52 black cherry soda
+You gain 520 Mojo Points
+
+[8425] Pandamonium Slums
+Encounter: G imp
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: Imp Ale
+Round 2: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 61 hit points
+You gain 61 Mojo Points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: g imp takes 1483 damage.
+Round 3: boolicious wins the fight!
+You gain 32 Meat
+You gain 1 Strengthliness
+You gain 3 Mysteriousness
+You gain 8 Cheek
+
+[8426] Pandamonium Slums
+Encounter: L imp
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: cast
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: l imp takes 1486 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 3: l imp drops 9 attack power.
+Round 3: l imp drops 9 defense.
+Round 3: boolicious wins the fight!
+You gain 29 Meat
+You acquire an item: Imp Ale
+You gain 3 Strongness
+You gain 3 Enchantedness
+You gain 6 Roguishness
+
+[8427] Pandamonium Slums
+Encounter: Demoninja
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: hot katana blade
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 101 Meat.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: demoninja takes 1487 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 114 Meat.
+Round 3: boolicious wins the fight!
+You gain 45 Meat
+You gain 2 Strengthliness
+You gain 4 Magicalness
+You gain 7 Smarm
+
+[8428] Pandamonium Slums
+Encounter: Hellion
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: hellion cube
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: hellion drops 9 attack power.
+Round 2: hellion drops 9 defense.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: hellion takes 1471 damage.
+Round 3: boolicious wins the fight!
+You gain 8 Muscleboundness
+You gain 3 Enchantedness
+You gain 3 Chutzpah
+
+[8429] Pandamonium Slums
+Encounter: Hellion
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: hellion cube
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: hellion takes 1461 damage.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 3: hellion drops 9 attack power.
+Round 3: hellion drops 9 defense.
+Round 3: boolicious wins the fight!
+You gain 4 Muscleboundness
+You gain 2 Mysteriousness
+You gain 7 Cheek
+
+[8430] Pandamonium Slums
+Encounter: W imp
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: ruby W
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: w imp takes 1475 damage.
+Round 3: boolicious wins the fight!
+You gain 29 Meat
+You acquire an item: Imp Ale
+You acquire an item: infernal fife
+You gain 4 Fortitude
+You gain 3 Magicalness
+You gain 4 Cheek
+
+[8431] Pandamonium Slums
+Encounter: P imp
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: hot wing
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: p imp takes 1473 damage.
+Round 3: boolicious wins the fight!
+You gain 29 Meat
+You acquire an item: Imp Ale
+You gain 3 Muscleboundness
+You gain 3 Magicalness
+You gain 5 Cheek
+
+[8432] Pandamonium Slums
+Encounter: L imp
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: l imp drops 8 attack power.
+Round 2: l imp drops 8 defense.
+Round 2: l imp takes 2 damage.
+Round 2: l imp takes 6 damage.
+Round 2: l imp takes 4 damage.
+You lose 1 hit point
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: l imp takes 1463 damage.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 28 damage.
+Round 3: l imp takes 28 damage.
+Round 3: boolicious wins the fight!
+You gain 31 Meat
+You gain 4 Fortitude
+You gain 4 Enchantedness
+You gain 3 Roguishness
+
+[8433] Pandamonium Slums
+Encounter: Fallen Archfiend
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: demon skin
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: fallen archfiend takes 1451 damage.
+Round 3: boolicious wins the fight!
+You gain 46 Meat
+You gain 4 Strengthliness
+You gain 5 Mysteriousness
+You gain 5 Roguishness
+
+[8434] Pandamonium Slums
+Encounter: Demoninja
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: hot katana blade
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: demoninja takes 1467 damage.
+Round 3: boolicious wins the fight!
+You gain 47 Meat
+You acquire an item: fraudwort
+You gain 4 Muscleboundness
+You gain 3 Magicalness
+You gain 6 Sarcasm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[8435] Pandamonium Slums
+Encounter: G imp
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: g imp takes 2 damage.
+Round 2: g imp takes 3 damage.
+Round 2: g imp takes 3 damage.
+You lose 1 hit point
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: g imp takes 1463 damage.
+Round 3: boolicious wins the fight!
+You gain 29 Meat
+You acquire an item: Imp Ale
+You acquire an item: leather mask
+You gain 2 Strongness
+You gain 5 Magicalness
+You gain 5 Chutzpah
+
+[8436] Pandamonium Slums
+Encounter: Hellion
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: hellion cube
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: hellion takes 1450 damage.
+Round 3: boolicious wins the fight!
+You gain 3 Beefiness
+You gain 7 Magicalness
+You gain 4 Chutzpah
+
+[8437] Pandamonium Slums
+Encounter: P imp
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: Imp Ale
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: p imp takes 978 damage.
+Round 3: boolicious wins the fight!
+You gain 32 Meat
+You gain 3 Strongness
+You gain 5 Wizardliness
+You gain 3 Cheek
+
+[8438] Pandamonium Slums
+Encounter: L imp
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: l imp takes 979 damage.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 27 damage.
+Round 3: l imp takes 27 damage.
+Round 3: boolicious wins the fight!
+You gain 35 Meat
+You acquire an item: Imp Ale
+You gain 2 Beefiness
+You gain 6 Magicalness
+You gain 4 Smarm
+
+[8439] Pandamonium Slums
+Encounter: Hellion
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: hellion drops 9 attack power.
+Round 2: hellion drops 9 defense.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: hellion takes 974 damage.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 31 hit points
+You gain 31 Mojo Points
+Round 3: boolicious wins the fight!
+You gain 6 Strongness
+You gain 7 Magicalness
+You gain 1 Chutzpah
+
+[8440] Pandamonium Slums
+Encounter: Demoninja
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: hot katana blade
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: demoninja drops 8 attack power.
+Round 2: demoninja drops 8 defense.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: demoninja takes 999 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 167 Meat.
+Round 3: boolicious wins the fight!
+You gain 50 Meat
+You acquire an item: ninja hot pants
+You acquire an item: fraudwort
+You acquire an item: demon skin
+You gain 4 Fortitude
+You gain 6 Wizardliness
+You gain 4 Chutzpah
+
+Use 3 bubblin' crude
+You acquire an item: oily boid
+
+Combine 1 hemp string + 1 phat turquoise bead
+You acquire an item: phat turquoise bracelet
+Crafting used 1 each of hemp string and phat turquoise bead
+
+Combine 2 evil golden arch + 2 evil golden arch
+You acquire evil golden arches (2)
+Crafting used 2 each of evil golden arch and evil golden arch
+
+use 1 evil golden arches
+You acquire Jumbo Dr. Lucifer (2)
+You acquire an item: Double Bacon Beelzeburger
+
+use 2 evil golden arches
+
+use 1 evil golden arches
+You acquire an item: Brimstone Chicken Sandwich
+You acquire an item: Lord of the Flies-sized fries
+You acquire an item: Double Bacon Beelzeburger
+
+use 6 blind-packed capsule toy
+You acquire an item: tiny plastic beebee gunners
+You acquire an item: tiny plastic Hank North, Photojournalist
+You acquire an item: tiny plastic Wu Tang the Betrayer
+You acquire an item: tiny plastic black ops bugbear
+You acquire an item: tiny plastic Scott the Miner
+You acquire an item: tiny plastic Battlesuit Bugbear Type
+
+use 1 frigid mote
+
+use 1 purple prose pen
+
+use 1 mysterious present
+You acquire an item: urinal cake
+
+use 3 old coin purse
+You gain 1,451 Meat
+
+Visiting Doc Galaktik
+
+[8441] Cobb's Knob Harem
+Encounter: Knob Goblin Madam
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: knob goblin madam takes 1000 damage.
+Round 3: boolicious wins the fight!
+You gain 3 Strongness
+You gain 5 Smarm
+
+[8442] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Girl
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 252 Meat.
+Round 2: knob goblin harem girl takes 1 damage.
+Round 2: knob goblin harem girl takes 4 damage.
+Round 2: knob goblin harem girl takes 5 damage.
+You lose 1 hit point
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: knob goblin harem girl takes 1001 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: Knob Goblin harem pants
+You acquire an item: Knob Goblin harem veil
+You acquire an item: disease
+You gain 1 Muscleboundness
+You gain 3 Enchantedness
+You gain 4 Cheek
+
+[8443] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Guard
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 126 Meat.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: knob goblin harem guard takes 993 damage.
+Round 3: boolicious wins the fight!
+You gain 2 Strongness
+You gain 3 Wizardliness
+You gain 2 Cheek
+
+[8444] Cobb's Knob Harem
+Encounter: Knob Goblin Madam
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 31 hit points
+You gain 31 Mojo Points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: knob goblin madam takes 984 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: whalebone corset
+You gain 3 Muscleboundness
+You gain 3 Mysteriousness
+You gain 3 Chutzpah
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+[8445] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Guard
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 94 Meat.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: knob goblin harem guard takes 991 damage.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mojo Points
+Round 3: boolicious wins the fight!
+You gain 1 Beefiness
+You gain 2 Wizardliness
+You gain 4 Smarm
+
+[8446] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Guard
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: knob goblin harem guard takes 992 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: Knob Goblin deluxe scimitar
+You gain 3 Strongness
+You gain 3 Cheek
+
+[8447] Cobb's Knob Harem
+Encounter: Knob Goblin Madam
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: knob goblin madam takes 995 damage.
+Round 3: boolicious wins the fight!
+You gain 1 Strongness
+You gain 5 Magicalness
+You gain 2 Smarm
+
+[8448] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Guard
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: knob goblin harem guard takes 995 damage.
+Round 3: Cocopuff's bells jingle merrily.
+Round 3: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 54 damage. LIMIT BREAK!
+Round 3: knob goblin harem guard takes 54 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: Knob nuts
+You gain 2 Beefiness
+You gain 3 Enchantedness
+You gain 2 Smarm
+
+[8449] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Girl
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: knob goblin harem girl takes 990 damage.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 32 hit points
+You gain 32 Mojo Points
+Round 3: boolicious wins the fight!
+You gain 1 Strongness
+You gain 2 Magicalness
+You gain 4 Cheek
+
+[8450] Cobb's Knob Harem
+Encounter: Knob Goblin Madam
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: Knob Goblin perfume
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: knob goblin madam takes 1041 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 128 Meat.
+Round 3: boolicious wins the fight!
+You acquire an item: whalebone corset
+You gain 2 Beefiness
+You gain 5 Mysteriousness
+You gain 2 Sarcasm
+
+[8451] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Guard
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: knob goblin harem guard takes 1035 damage.
+Round 3: boolicious wins the fight!
+You gain 1 Strongness
+You gain 2 Enchantedness
+You gain 5 Sarcasm
+
+[8452] Cobb's Knob Harem
+Encounter: Knob Goblin Madam
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: Knob Goblin perfume
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: knob goblin madam takes 1002 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: whalebone corset
+You gain 4 Strengthliness
+You gain 4 Sarcasm
+
+[8453] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Girl
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: disease
+Round 2: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 57 hit points
+You gain 57 Mojo Points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: knob goblin harem girl takes 987 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: swindleblossom
+You gain 2 Strengthliness
+You gain 2 Wizardliness
+You gain 3 Cheek
+
+[8454] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Guard
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: Knob Goblin deluxe scimitar
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: knob goblin harem guard takes 984 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 232 Meat.
+Round 3: boolicious wins the fight!
+You acquire an item: Knob nuts
+You gain 2 Strongness
+You gain 4 Mysteriousness
+You gain 1 Sarcasm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[8455] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Girl
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: Knob Goblin harem veil
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 236 Meat.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: knob goblin harem girl takes 1038 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 111 Meat.
+Round 3: boolicious wins the fight!
+You acquire an item: Knob Goblin harem pants
+You acquire an item: harem girl t-shirt
+You gain 2 Fortitude
+You gain 3 Mysteriousness
+You gain 2 Smarm
+
+[8456] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Girl
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you. LIMIT BREAK!
+You gain 183 Meat.
+Round 2: knob goblin harem girl takes 1 damage.
+Round 2: knob goblin harem girl takes 10 damage.
+Round 2: knob goblin harem girl takes 5 damage.
+You lose 1 hit point
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: knob goblin harem girl takes 992 damage.
+Round 3: Cocopuff squawks loudly and runs in a circle around your opponent.  She looks a little bit confused.
+Round 3: knob goblin harem girl drops 9 attack power.
+Round 3: knob goblin harem girl drops 9 defense.
+Round 3: boolicious wins the fight!
+You acquire an item: swindleblossom
+You gain 2 Strengthliness
+You gain 2 Magicalness
+You gain 3 Sarcasm
+
+[8457] Haunted Wine Cellar (Southwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 887 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: skeletal sommelier drops 8 attack power.
+Round 2: skeletal sommelier drops 8 defense.
+Round 2: boolicious wins the fight!
+You gain 85 Meat
+You acquire an item: dusty bottle of glassy Zinfandel
+You acquire an item: disintegrating cork
+You gain 8 Beefiness
+You gain 16 Magicalness
+You gain 20 Smarm
+
+[8458] Haunted Wine Cellar (Northeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 883 damage.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 59 hit points
+You gain 59 Mojo Points
+Round 2: boolicious wins the fight!
+You gain 106 Meat
+You acquire an item: dusty bottle of great Port
+You acquire an item: disintegrating cork
+You gain 9 Muscleboundness
+You gain 17 Enchantedness
+You gain 18 Smarm
+
+[8459] Haunted Wine Cellar (Southeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 882 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 124 Meat.
+Round 2: boolicious wins the fight!
+You gain 117 Meat
+You acquire an item: dusty bottle of vinegar Marsala
+You acquire an item: disintegrating cork
+You gain 11 Beefiness
+You gain 14 Magicalness
+You gain 20 Cheek
+
+[8460] Haunted Wine Cellar (Southeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 891 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of glassy Zinfandel
+You gain 8 Beefiness
+You gain 13 Enchantedness
+You gain 21 Roguishness
+
+[8461] Haunted Wine Cellar (Southwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 898 damage.
+Round 2: boolicious wins the fight!
+You gain 101 Meat
+You acquire an item: dusty bottle of glassy Zinfandel
+You acquire an item: disintegrating cork
+You gain 12 Strongness
+You gain 9 Enchantedness
+You gain 23 Roguishness
+
+[8462] Haunted Wine Cellar (Northeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 889 damage.
+Round 2: boolicious wins the fight!
+You gain 88 Meat
+You acquire an item: dusty bottle of great Port
+You acquire an item: dusty bottle of average Pinot Noir
+You acquire an item: disintegrating cork
+You gain 9 Strongness
+You gain 13 Magicalness
+You gain 22 Chutzpah
+
+[8463] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 893 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of bad Merlot
+You gain 6 Beefiness
+You gain 10 Magicalness
+You gain 25 Smarm
+
+[8464] Haunted Wine Cellar (Southwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 881 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused. LIMIT BREAK!
+Round 2: possessed wine rack drops 18 attack power.
+Round 2: possessed wine rack drops 18 defense.
+Round 2: boolicious wins the fight!
+You gain 6 Muscleboundness
+You gain 11 Magicalness
+You gain 23 Roguishness
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+buy 31 black cherry soda for 80 each from Black Market
+You acquire black cherry soda (31)
+You spent 2,480 Meat
+
+use 31 black cherry soda
+You gain 306 Mojo Points
+
+[8465] Haunted Wine Cellar (Southeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 881 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 27 damage.
+Round 2: possessed wine rack takes 27 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of glassy Zinfandel
+You gain 10 Beefiness
+You gain 11 Mysteriousness
+You gain 20 Sarcasm
+
+[8466] Haunted Wine Cellar (Northeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 886 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of bad Merlot
+You acquire an item: dusty bottle of great Port
+You acquire an item: dusty bottle of average Pinot Noir
+You gain 10 Strengthliness
+You gain 11 Mysteriousness
+You gain 19 Roguishness
+
+[8467] Haunted Wine Cellar (Northeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 904 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 121 Meat.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of bad Merlot
+You acquire an item: dusty bottle of average Pinot Noir
+You gain 11 Fortitude
+You gain 13 Wizardliness
+You gain 18 Chutzpah
+
+[8468] Haunted Wine Cellar (Southwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 876 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of great Port
+You gain 14 Strongness
+You gain 11 Enchantedness
+You gain 15 Cheek
+
+[8469] Haunted Wine Cellar (Northeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 888 damage.
+Round 2: boolicious wins the fight!
+You gain 111 Meat
+You acquire an item: dusty bottle of average Pinot Noir
+You acquire an item: disintegrating cork
+You gain 9 Beefiness
+You gain 16 Wizardliness
+You gain 18 Roguishness
+
+[8470] Haunted Wine Cellar (Southwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 894 damage.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  It looks a little bit confused. LIMIT BREAK!
+Round 2: possessed wine rack drops 17 attack power.
+Round 2: possessed wine rack drops 17 defense.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of great Port
+You acquire an item: dusty bottle of glassy Zinfandel
+You gain 7 Beefiness
+You gain 10 Mysteriousness
+You gain 23 Smarm
+
+[8471] Haunted Wine Cellar (Southwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 879 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of great Port
+You gain 12 Muscleboundness
+You gain 10 Enchantedness
+You gain 18 Cheek
+
+[8472] Haunted Wine Cellar (Northeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 890 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of average Pinot Noir
+You gain 8 Strengthliness
+You gain 14 Magicalness
+You gain 19 Smarm
+
+[8473] Haunted Wine Cellar (Southeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 899 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 27 damage.
+Round 2: skeletal sommelier takes 27 damage.
+Round 2: boolicious wins the fight!
+You gain 105 Meat
+You acquire an item: dusty bottle of average Pinot Noir
+You acquire an item: dusty bottle of glassy Zinfandel
+You acquire an item: dusty bottle of vinegar Marsala
+You acquire an item: disintegrating cork
+You gain 9 Beefiness
+You gain 10 Wizardliness
+You gain 24 Chutzpah
+
+[8474] Haunted Wine Cellar (Southeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 892 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of average Pinot Noir
+You gain 8 Beefiness
+You gain 11 Wizardliness
+You gain 22 Cheek
+You gain a Moxie point!
+You gain a Level!
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[8475] Haunted Wine Cellar (Southwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 893 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of glassy Zinfandel
+You gain 8 Strengthliness
+You gain 15 Magicalness
+You gain 19 Sarcasm
+
+[8476] Haunted Wine Cellar (Northeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 880 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of bad Merlot
+You acquire an item: dusty bottle of average Pinot Noir
+You gain 8 Fortitude
+You gain 13 Enchantedness
+You gain 20 Smarm
+
+[8477] Haunted Wine Cellar (Southeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 887 damage.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 57 hit points
+You gain 57 Mojo Points
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of glassy Zinfandel
+You gain 14 Beefiness
+You gain 10 Magicalness
+You gain 17 Roguishness
+
+[8478] Haunted Wine Cellar (Southeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 917 damage.
+Round 2: boolicious wins the fight!
+You gain 107 Meat
+You acquire an item: dusty bottle of average Pinot Noir
+You acquire an item: dusty bottle of glassy Zinfandel
+You acquire an item: dusty bottle of vinegar Marsala
+You acquire an item: disintegrating cork
+You gain 11 Strengthliness
+You gain 9 Mysteriousness
+You gain 23 Chutzpah
+
+[8479] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 878 damage.
+Round 2: boolicious wins the fight!
+You gain 10 Strengthliness
+You gain 13 Magicalness
+You gain 20 Sarcasm
+
+[8480] Haunted Wine Cellar (Northeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 887 damage.
+Round 2: boolicious wins the fight!
+You gain 102 Meat
+You acquire an item: dusty bottle of bad Merlot
+You acquire an item: dusty bottle of average Pinot Noir
+You acquire an item: disintegrating cork
+You gain 14 Beefiness
+You gain 9 Enchantedness
+You gain 20 Chutzpah
+
+[8481] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 888 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of vinegar Marsala
+You gain 10 Strongness
+You gain 7 Magicalness
+You gain 24 Smarm
+
+buy 32 black cherry soda for 80 each from Black Market
+You acquire black cherry soda (32)
+You spent 2,560 Meat
+
+use 32 black cherry soda
+You gain 317 Mojo Points
+
+[8482] Haunted Wine Cellar (Northwest)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 887 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing it for 52 damage. LIMIT BREAK!
+Round 2: possessed wine rack takes 52 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of spooky Muscat
+You gain 11 Muscleboundness
+You gain 11 Mysteriousness
+You gain 19 Sarcasm
+
+[8483] Haunted Wine Cellar (Southeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 898 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of glassy Zinfandel
+You acquire an item: dusty bottle of vinegar Marsala
+You gain 4 Beefiness
+You gain 14 Magicalness
+You gain 24 Cheek
+
+[8484] Haunted Wine Cellar (Northeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 897 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of average Pinot Noir
+You gain 8 Fortitude
+You gain 14 Enchantedness
+You gain 20 Cheek
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+[8485] Haunted Wine Cellar (Southeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 923 damage.
+Round 2: boolicious wins the fight!
+You gain 109 Meat
+You acquire an item: dusty bottle of glassy Zinfandel
+You acquire an item: disintegrating cork
+You gain 10 Muscleboundness
+You gain 13 Magicalness
+You gain 21 Smarm
+
+[8486] Haunted Wine Cellar (Southeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 895 damage.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 95 Meat.
+Round 2: boolicious wins the fight!
+You gain 103 Meat
+You acquire an item: dusty bottle of vinegar Marsala
+You acquire an item: disintegrating cork
+You gain 13 Beefiness
+You gain 11 Mysteriousness
+You gain 18 Roguishness
+
+[8487] Haunted Wine Cellar (Northeast)
+Encounter: possessed wine rack
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: possessed wine rack takes 877 damage.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 33 hit points
+You gain 33 Mojo Points
+Round 2: boolicious wins the fight!
+You acquire an item: dusty bottle of bad Merlot
+You acquire an item: dusty bottle of great Port
+You gain 11 Fortitude
+You gain 8 Mysteriousness
+You gain 22 Sarcasm
+
+[8488] Haunted Wine Cellar (Northwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 879 damage.
+Round 2: boolicious wins the fight!
+You gain 99 Meat
+You acquire an item: dusty bottle of vinegar Marsala
+You acquire an item: dusty bottle of spooky Muscat
+You acquire an item: disintegrating cork
+You gain 9 Muscleboundness
+You gain 10 Wizardliness
+You gain a Mysticality point!
+You gain 25 Sarcasm
+
+[8489] Haunted Wine Cellar (Southeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 889 damage.
+Round 2: boolicious wins the fight!
+You gain 97 Meat
+You acquire an item: disintegrating cork
+You gain 15 Fortitude
+You gain 11 Magicalness
+You gain 17 Sarcasm
+
+[8490] Haunted Wine Cellar (Northeast)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 892 damage.
+Round 2: boolicious wins the fight!
+You gain 87 Meat
+You acquire an item: dusty bottle of bad Merlot
+You acquire an item: dusty bottle of average Pinot Noir
+You acquire an item: disintegrating cork
+You gain 13 Strengthliness
+You gain 6 Enchantedness
+You gain 25 Smarm
+
+[8491] Haunted Wine Cellar (Southwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 887 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 52 damage. LIMIT BREAK!
+Round 2: skeletal sommelier takes 52 damage.
+Round 2: boolicious wins the fight!
+You gain 90 Meat
+You acquire an item: disintegrating cork
+You gain 12 Strongness
+You gain 11 Magicalness
+You gain 20 Roguishness
+
+[8492] Haunted Wine Cellar (Northwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 894 damage.
+Round 2: boolicious wins the fight!
+You gain 96 Meat
+You acquire an item: dusty bottle of vinegar Marsala
+You acquire an item: disintegrating cork
+You gain 17 Strongness
+You gain 11 Mysteriousness
+You gain 16 Sarcasm
+
+[8493] Haunted Wine Cellar (Northwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 896 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 107 Meat.
+Round 2: boolicious wins the fight!
+You gain 91 Meat
+You acquire an item: dusty bottle of spooky Muscat
+You acquire an item: disintegrating cork
+You gain 10 Beefiness
+You gain 13 Mysteriousness
+You gain 22 Cheek
+
+[8494] Haunted Wine Cellar (Northwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 882 damage.
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: skeletal sommelier drops 9 attack power.
+Round 2: skeletal sommelier drops 9 defense.
+Round 2: boolicious wins the fight!
+You gain 96 Meat
+You acquire an item: disintegrating cork
+You gain 9 Strengthliness
+You gain 10 Mysteriousness
+You gain 24 Sarcasm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[8495] Haunted Wine Cellar (Northwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 896 damage.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 59 hit points
+You gain 59 Mojo Points
+Round 2: boolicious wins the fight!
+You gain 123 Meat
+You acquire an item: dusty bottle of bad Merlot
+You acquire an item: disintegrating cork
+You gain 9 Strengthliness
+You gain 15 Enchantedness
+You gain 20 Smarm
+
+[8496] Haunted Wine Cellar (Northwest)
+Encounter: skeletal sommelier
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: skeletal sommelier takes 890 damage.
+Round 2: boolicious wins the fight!
+You gain 105 Meat
+You acquire an item: disintegrating cork
+You gain 12 Fortitude
+You gain 15 Mysteriousness
+You gain 17 Chutzpah
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
