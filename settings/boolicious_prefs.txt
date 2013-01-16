@@ -1,6 +1,6 @@
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
->>>>>>>=2e2fe01ff911350e9ba5c12b52d66d81741df073
+>>>>>>>=d366784919f4113ad5dbeb37ffe58dff61c9946c
 AdventureFrame=880,282,0
 BuffBotFrame=603,307,0
 BuffRequestFrame=-8,-8
@@ -17,17 +17,10 @@ FamiliarTrainingFrame=-8,-8
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-<<<<<<< HEAD
-KoLDesktop=395,22,-1
-LoginFrame=582,260,0
+KoLDesktop=-8,-8,-1
+LoginFrame=465,132,0
 MailboxFrame=289,310,1
-MaximizerFrame=471,262
-=======
-KoLDesktop=382,135,-1
-LoginFrame=725,305,0
-MailboxFrame=289,310,1
-MaximizerFrame=629,301
->>>>>>> d366784919f4113ad5dbeb37ffe58dff61c9946c
+MaximizerFrame=-8,-8
 MeatManageFrame=450,127
 MushroomFrame=560,77,1
 OptionsFrame=360,87,-1
@@ -37,19 +30,14 @@ RequestFrame=375,103,-1
 RequestSynchFrame=375,102,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
-StoreManageFrame=-8,-8,2
+StoreManageFrame=-8,-8,1
 TabbedChatFrame=481,41,1
 TrophyFrame=273,274,-1
 _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
-<<<<<<< HEAD
-_allYearSucker=true
-_aprilShower=true
-=======
 _allYearSucker=false
-_aprilShower=false
->>>>>>> d366784919f4113ad5dbeb37ffe58dff61c9946c
+_aprilShower=true
 _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
@@ -57,7 +45,7 @@ _bagOfCandy=false
 _bagOfCandyUsed=true
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=false
+_ballpit=true
 _banderRunaways=0
 _bearHugs=0
 _beerLensDrops=0
@@ -73,7 +61,7 @@ _cameraUsed=false
 _candySummons=0
 _carboLoaded=false
 _carnieCandyDrops=0
-_chipBags=0
+_chipBags=3
 _chocolateCigarsUsed=0
 _chocolatesUsed=0
 _clipartSummons=3
@@ -126,7 +114,7 @@ _jackassePlumberGame
 _jingleBellUsed=false
 _jitbCharge=0
 _jukebox=false
-_jungDrops=0
+_jungDrops=1
 _klawSummons=0
 _kloopDrops=0
 _kolConSixPackUsed=false
@@ -141,7 +129,7 @@ _mayflySummons=0
 _mediumSiphons=0
 _nanorhinoBanishedMonster
 _navelRunaways=0
-_olympicSwimmingPool=false
+_olympicSwimmingPool=true
 _olympicSwimmingPoolItemFound=true
 _pasteDrops=0
 _photocopyUsed=false
@@ -149,7 +137,7 @@ _pieDrops=0
 _piePartsCount=0
 _pneumaticityPotionUsed=false
 _poisonArrows=0
-_poolGames=0
+_poolGames=3
 _precisionCasts=0
 _psychoJarFilled=true
 _psychoJarUsed=false
@@ -188,7 +176,7 @@ _thingfinderCasts=0
 _timeHelmetAdv=0
 _toastSummons=3
 _tokenDrops=0
-_transponderDrops=0
+_transponderDrops=1
 _treasuryEliteMeatCollected=false
 _treasuryHaremMeatCollected=false
 _trivialAvocationsGame=true
@@ -304,7 +292,7 @@ birdformRoc=0
 birdformSleaze=0
 birdformSpooky=0
 birdformStench=0
-blackPuddingsDefeated=40
+blackPuddingsDefeated=41
 blankOutUsed=0
 bootsCharged=false
 borisPoints=0
@@ -710,9 +698,9 @@ clanAttacksEnabled=false
 cocktailSummons=0
 concertVisited=true
 counterScript
-crimboTreeDays=3
+crimboTreeDays=2
 currentBountyItem=0
-currentFullness=19
+currentFullness=9
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -744,7 +732,7 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8=Kel'Gorefoo
 demonName9
-demonSummoned=false
+demonSummoned=true
 desktopHeight=600
 desktopWidth=800
 discardedKarma=0
@@ -773,7 +761,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=33
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 goldenMrAccessories=0
 gongPath=10
 gourdItemCount=9
@@ -794,15 +782,11 @@ hpAutoRecovery=0.2
 hpAutoRecoveryItems=free disco rest;medicinal herb's medicinal herbs;scroll of drastic healing;cannelloni cocoon;visit the nuns;relaxing hot tub;red pixel potion;really thick bandage;pok&euml;mann band-aid;filthy poultice;gauze garter;bottle of vangoghbitussin;plump juicy grub;elven medi-pack;generic healing potion;ancient magi-wipes;green pixel potion;phonics down;palm-frond fan;honey-dipped locust;tongue of the walrus;tiny house;disco nap;lasagna bandages;cast;tongue of the otter;sugar shard;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent;notes from the elfpocalypse, chapter i;notes from the elfpocalypse, chapter ii;notes from the elfpocalypse, chapter iii;notes from the elfpocalypse, chapter iv;notes from the elfpocalypse, chapter v;notes from the elfpocalypse, chapter vi
 hpAutoRecoveryTarget=0.8
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
-jungCharge=78
+jungCharge=39
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
-<<<<<<< HEAD
-lastAdventure=Haunted Wine Cellar (Northwest)
-=======
-lastAdventure=Giant's Castle
->>>>>>> d366784919f4113ad5dbeb37ffe58dff61c9946c
+lastAdventure=None
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -818,15 +802,15 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
-lastBreakfast=4
+lastBreakfast=5
 lastCellarReset=4
 lastChanceBurn
 lastChanceThreshold=100
 lastChasmReset=4
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastCouncilVisit=14
-lastCounterDay=4
-lastDispensaryOpen=3
+lastCounterDay=5
+lastDispensaryOpen=4
 lastDoorCodeReset=4
 lastDustyBottle2271=6
 lastDustyBottle2272=4
@@ -866,11 +850,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-<<<<<<< HEAD
-lastEncounter=skeletal sommelier
-=======
-lastEncounter=Raver Giant
->>>>>>> d366784919f4113ad5dbeb37ffe58dff61c9946c
+lastEncounter=black pudding
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -947,11 +927,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=4
 lastWuTangDefeated=1
 lastZapperWand=4
-<<<<<<< HEAD
-libramSummons=9
-=======
-libramSummons=10
->>>>>>> d366784919f4113ad5dbeb37ffe58dff61c9946c
+libramSummons=0
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=6
@@ -980,7 +956,7 @@ mpAutoRecoveryItems=free disco rest;galaktik's fizzy invigorating tonic;visit th
 mpAutoRecoveryTarget=0.6
 munchiesPillsUsed=0
 noodleSummons=0
-nunsVisits=0
+nunsVisits=1
 oceanAction=show
 oceanDestination=plinth
 olfactedMonster=wabbit
@@ -1069,7 +1045,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=8581\:Semirare window begin loc\=*\:lparen.gif\:8621\:Semirare window end loc\=*\:rparen.gif
+relayCounters=8621\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1140,7 +1116,7 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=false
+telescopeLookedHigh=true
 telescopeUpgrades=1
 tempuraSummons=0
 textColors=crappy\:\#999999|good\:green|awesome\:blue|epic\:\#8a2be2|junk\:gray|memento\:olive|notavailable\:gray
