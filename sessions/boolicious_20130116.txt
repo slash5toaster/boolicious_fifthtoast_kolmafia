@@ -1105,3 +1105,28 @@ Took choice 626/1: unknown
 choice.php?pwd&whichchoice=626&option=1
 Took choice 626/1: unknown
 choice.php?pwd&whichchoice=626&option=1
+
+use 1 Uncle Greenspan's Bathroom Finance Guide
+You acquire an effect: Buy!  Sell!  Buy!  Sell! (duration: 100 Adventures)
+
+eat 1 black pudding
+You gain 7 Adventures
+You gain 10 Muscleboundness
+You gain 13 Magicalness
+You gain 11 Sarcasm
+You gain 3 Fullness
+
+sendmessage.php?toid=2093906
+sendmessage.php?toid=2093906
+
+send a kmail to 2093906
+
+sendmessage.php?toid=2093906
+sendmessage.php?toid=2093906
+sendmessage.php?toid=2093906
+
+add to closet: 800000 Meat
+
+mallsell: 40 disassembled clover
+
+manageprices.php?action=update&price0[5093]=999999999&limit0[5093]=0&price0[5094]=999999999&limit0[5094]=0&price0[5089]=999999999&limit0[5089]=0&price0[5939]=999999999&limit0[5939]=0&price0[5946]=999999999&limit0[5946]=0&price0[5935]=999999999&limit0[5935]=0&price0[5947]=999999999&limit0[5947]=0&price0[5401]=18000&limit0[5401]=0&price0[5099]=10000&limit0[5099]=0&price0[5270]=8000&limit0[5270]=0&price0[5407]=8000&limit0[5407]=0&price0[5411]=7677&limit0[5411]=0&price0[5409]=7625&limit0[5409]=0&price0[5471]=6000&limit0[5471]=0&price0[375]=3745&limit0[375]=0&price0[3301]=2200&limit0[3301]=0&price0[5096]=2000&limit0[5096]=0&price0[196]=1500&limit0[196]=0&price0[663]=1400&limit0[663]=0&price0[5960]=1300&limit0[5960]=0&price0[5098]=1000&limit0[5098]=0&price0[5091]=900&limit0[5091]=0&price0[226]=800&limit0[226]=0&price0[5090]=500&limit0[5090]=0&price0[5955]=500&limit0[5955]=0&price0[5956]=500&limit0[5956]=0&price0[5936]=500&limit0[5936]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[5951]=330&limit0[5951]=0&price0[2680]=300&limit0[2680]=0&price0[5962]=300&limit0[5962]=0&price0[5948]=300&limit0[5948]=0&price0[2916]=300&limit0[2916]=0&price0[824]=275&limit0[824]=0&price0[617]=274&limit0[617]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[538]=260&limit0[538]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[6083]=250&limit0[6083]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=0&price0[125]=250&limit0[125]=0&price0[5957]=250&limit0[5957]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[6076]=230&limit0[6076]=0&price0[1840]=200&limit0[1840]=0&price0[1803]=200&limit0[1803]=0&price0[5468]=200&limit0[5468]=0&price0[834]=190&limit0[834]=0&price0[472]=190&limit0[472]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[218]=155&limit0[218]=0&price0[3597]=150&limit0[3597]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[475]=130&limit0[475]=0&price0[1655]=120&limit0[1655]=0&price0[5466]=111&limit0[5466]=0&price0[5469]=100&limit0[5469]=0&price0[1]=100&limit0[1]=0
