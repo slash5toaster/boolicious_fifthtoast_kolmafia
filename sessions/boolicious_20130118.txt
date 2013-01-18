@@ -436,3 +436,138 @@ You acquire an effect: Gr8tness (duration: 5 Adventures)
 
 use 1 fish-liver oil
 You acquire an effect: Fishy Fortification (duration: 5 Adventures)
+
+uneffect Coldform
+
+buy 1 phial of sleaziness for 499 each from 1877436 on 20130118
+You acquire an item: phial of sleaziness
+
+use 1 phial of sleaziness
+You acquire an effect: Sleazeform (duration: 5 Adventures)
+
+[8768] Fernswarthy's Basement (Level 97)
+Elemental Resist Test: +6 stench 55% (1,312 hp), +7 sleaze 100% (1 hp)
+You lose 1,230 hit points
+You lose 1 hit point
+
+cast 32 Tongue of the Walrus
+You gain 1,095 hit points
+
+cast 1 Tongue of the Walrus
+You gain 32 hit points
+
+cast 1 Tongue of the Walrus
+You gain 40 hit points
+
+[8769] Fernswarthy's Basement (Level 98)
+Encounter: 7 Stone Golem
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: x stone golem takes 1034 damage.
+Round 2: boolicious wins the fight!
+After Battle: Poopbutt sits on your shoulder, preening and otherwise unaware of what you're doing.
+You gain 78 Fortitude
+You gain 103 Magicalness
+You gain 146 Roguishness
+
+[8770] Fernswarthy's Basement (Level 99)
+Encounter: The Beast with 1,246 Eyes
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+You lose 6 hit points
+Round 2: boolicious attacks!
+Round 3: beast with x eyes takes 1008 damage.
+Round 3: boolicious attacks!
+Round 4: beast with x eyes takes 1005 damage.
+Round 4: boolicious wins the fight!
+Your familiar gains a pound: Poopbutt, the 4 lb. Exotic Parrot
+After Battle: Poopbutt sits on your shoulder, preening and otherwise unaware of what you're doing.
+You gain 77 Beefiness
+You gain a Muscle point!
+You gain 106 Magicalness
+You gain 148 Sarcasm
+You gain a Moxie point!
+
+use 1 Oscus's neverending soda
+You gain 208 Mojo Points
+
+use 3 Marquis de Poivre soda
+You gain 104 Mojo Points
+
+buy 85 black cherry soda for 80 each from Black Market
+You acquire black cherry soda (85)
+You spent 6,800 Meat
+
+use 85 black cherry soda
+You gain 854 Mojo Points
+
+[8771] Fernswarthy's Basement (Level 100)
+Encounter: De Los Dioses
+You acquire an item: sandwich of the gods
+
+buy 1 scroll of ancient forbidden unspeakable evil for 1900 each from 1910741 on 20130118
+You acquire an item: scroll of ancient forbidden unspeakable evil
+summon Red'Nyakel
+You acquire an item: cherry pie
+You acquire an item: strawberry pie
+You acquire an item: lemon meringue pie
+
+eat 1 black pudding
+You gain 5 Adventures
+You gain 13 Muscleboundness
+You gain 12 Enchantedness
+You gain 10 Smarm
+You gain 3 Fullness
+
+buy 1 black pudding for 190 each from 2199530 on 20130118
+You acquire an item: black pudding
+
+eat 1 black pudding
+
+[8772] Black Pudding
+Encounter: black pudding
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: black pudding takes 3302 damage.
+Round 2: boolicious wins the fight!
+After Battle: Poopbutt squawks, &quot;Awwrrk! Timmy's fallen down the well! *whistle*&quot;
+You acquire an item: black pudding
+You acquire an item: black pudding
+You gain 4 Fortitude
+You gain 8 Mysteriousness
+You gain 8 Smarm
+
+eat 1 black pudding
+You gain 6 Adventures
+You gain 12 Muscleboundness
+You gain 14 Wizardliness
+You gain 10 Chutzpah
+You gain 3 Fullness
+
+eat 1 black pudding
+You gain 5 Adventures
+You gain 11 Fortitude
+You gain 12 Enchantedness
+You gain 12 Chutzpah
+You gain 3 Fullness
+
+buy 1 black pudding for 190 each from 2199530 on 20130118
+You acquire an item: black pudding
+
+eat 1 black pudding
+You gain 6 Adventures
+You gain 13 Fortitude
+You gain 13 Mysteriousness
+You gain 11 Roguishness
+You gain 3 Fullness
+
+buy 1 black pudding for 190 each from 2199530 on 20130118
+You acquire an item: black pudding
+
+eat 1 black pudding
+You gain 7 Adventures
+You gain 10 Beefiness
+You gain 11 Mysteriousness
+You gain 12 Roguishness
+You gain 3 Fullness
