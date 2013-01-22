@@ -156,3 +156,19 @@ Trade 4 black pixel, 3 green pixel
 You acquire an item: green pixel potion
 
 mall.php?didadv=1&pudnuggler=content+unlockers&category=allitems&food_sortitemsby=name&booze_sortitemsby=name&othercon_sortitemsby=name&consumable_byme=0&hats_sortitemsby=name&shirts_sortitemsby=name&pants_sortitemsby=name&weapons_sortitemsby=name&weaponattribute=3&weaponhands=3&acc_sortitemsby=name&offhand_sortitemsby=name&wearable_byme=0&famequip_sortitemsby=name&nolimits=0&justitems=0&sortresultsby=price&max_price=0&x_cheapest=10&consumable_tier_1=0&consumable_tier_2=0&consumable_tier_3=0&consumable_tier_4=0&consumable_tier_5=0
+
+equip weapon oil pan
+
+equip off-hand Glass Balls of the Goblin King
+
+buy 1 Mr. Joe's bangles for 975 each from 2103257 on 20130122
+You acquire an item: Mr. Joe's bangles
+
+equip acc1 Mr. Joe's bangles
+
+buy 1 lucky bottlecap for 1100 each from 618975 on 20130122
+You acquire an item: lucky bottlecap
+
+equip acc2 lucky bottlecap
+Jumping into the Awesome Ball Pit in the clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
