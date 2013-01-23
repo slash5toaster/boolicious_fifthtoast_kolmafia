@@ -1183,3 +1183,1118 @@ Encounter: Flowers for You
 Took choice 293/1: deadly lampshade
 choice.php?pwd&whichchoice=293&option=1&choiceform1=Buy+a+flower+%285+nickels%29
 You acquire an item: deadly lampshade
+
+cast 1 Summon Crimbo Candy
+You acquire an item: Crimbo candied pecan
+You acquire an item: Crimbo fudge
+You acquire an item: Crimbo peppermint bark
+
+cast 4 Summon Resolutions
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be feistier
+
+[8977] Yuletide Bonfire
+Encounter: The Tale of the Mysterious Green Ribbon
+You lose 50 hit points
+You gain 77 Mojo Points
+You acquire an item: roasted marshmallow
+
+[8978] Yuletide Bonfire
+Encounter: The Tale of the Mysterious Diminishing Returns
+You lose 53 hit points
+You gain 69 Mojo Points
+You acquire an item: roasted marshmallow
+
+oldman.php?action=talk
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 5 discarded pacifiers
+
+[8979] Giant's Castle
+Encounter: Outage, Brief Candle
+You gain 268 Mysteriousness
+You gain a Mysticality point!
+
+[8980] Giant's Castle
+Encounter: Alphabet Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: heavy D
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: alphabet giant takes 1628 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 334 Meat
+You acquire an item: original G
+You gain 8 Muscleboundness
+You gain 13 Magicalness
+You gain 21 Sarcasm
+
+[8981] Giant's Castle
+Encounter: Raver Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: raver giant takes 1645 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "winking and dancing are primal, universal symbols for acquiring meat and items, respectively."
+You gain 385 Meat
+You acquire an item: discarded pacifier
+You gain 12 Strongness
+You gain 10 Wizardliness
+You gain 18 Sarcasm
+
+[8982] Giant's Castle
+Encounter: Possibility Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: chaos butterfly
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: possibility giant takes 1638 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "winking and dancing are primal, universal symbols for acquiring meat and items, respectively."
+You gain 308 Meat
+You gain 8 Fortitude
+You gain 17 Enchantedness
+You gain 13 Smarm
+
+[8983] Giant's Castle
+Encounter: Furry Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: furry fur
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: furry giant takes 1642 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "the little dance that I am doing is symbolic of my sublimated desire for material goods," and winks at you.
+You gain 359 Meat
+You acquire an item: disturbing fanfic
+You gain 8 Beefiness
+You gain 14 Mysteriousness
+You gain 17 Sarcasm
+
+[8984] Giant's Castle
+Encounter: In a Black Room, with Black Curtains
+You acquire an item: thin black candle
+You acquire an item: Warm Subject gift certificate
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+use 1 swirly potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+use 1 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+[8985] Giant's Castle
+Encounter: Goth Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: Warm Subject gift certificate
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: goth giant takes 1650 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "the little dance that I am doing is symbolic of my sublimated desire for material goods," and winks at you.
+You gain 312 Meat
+You gain 7 Beefiness
+You gain 13 Mysteriousness
+You gain 19 Roguishness
+
+[8986] Giant's Castle
+Encounter: Furry Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: wolf mask
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: furry giant takes 1629 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 376 Meat
+You acquire an item: furry fur
+You gain 12 Strongness
+You gain 14 Enchantedness
+You gain 13 Roguishness
+
+[8987] Giant's Castle
+Encounter: Wheel in the Clouds in the Sky, Keep On Turning
+Took choice 10/3: Leave at mysticality
+choice.php?whichchoice=10&option=3&pwd
+
+[8987] Giant's Castle
+Encounter: Outage, Brief Candle
+You gain 299 Wizardliness
+
+[8988] Giant's Castle
+Encounter: Alphabet Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: original G
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: alphabet giant takes 1142 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 362 Meat
+You acquire an item: heavy D
+You gain 7 Strengthliness
+You gain 15 Mysteriousness
+You gain 21 Chutzpah
+
+[8989] Giant's Castle
+Encounter: Procrastination Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: procrastination giant takes 1148 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "this creature clearly has an unhealthy obsession with material things."
+You gain 388 Meat
+You gain 9 Fortitude
+You gain 9 Wizardliness
+You gain 18 Smarm
+
+[8990] Giant's Castle
+Encounter: Raver Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: giant needle
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: raver giant takes 1120 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 366 Meat
+You acquire an item: Angry Farmer candy
+You acquire an item: discarded pacifier
+You gain 11 Muscleboundness
+You gain 16 Enchantedness
+You gain 15 Cheek
+
+[8991] Giant's Castle
+Encounter: Possibility Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: possibility giant takes 1140 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "winking and dancing are primal, universal symbols for acquiring meat and items, respectively."
+You gain 409 Meat
+You acquire an item: plot hole
+You acquire an item: probability potion
+You gain 11 Beefiness
+You gain 10 Magicalness
+You gain 17 Roguishness
+
+buy 41 black cherry soda for 80 each from Black Market
+You acquire black cherry soda (41)
+You spent 3,280 Meat
+
+use 41 black cherry soda
+You gain 407 Mojo Points
+
+[8992] Giant's Castle
+Encounter: Possibility Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: probability potion
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: possibility giant takes 1161 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 324 Meat
+You gain 12 Beefiness
+You gain 7 Enchantedness
+You gain 18 Roguishness
+
+[8993] Giant's Castle
+Encounter: Outage, Brief Candle
+You gain 275 Wizardliness
+You gain a Mysticality point!
+
+[8994] Giant's Castle
+Encounter: Furry Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: furry fur
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: furry giant takes 1127 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 322 Meat
+You gain 13 Fortitude
+You gain 7 Mysteriousness
+You gain 19 Roguishness
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[8995] Giant's Castle
+Encounter: Alphabet Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: original G
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: alphabet giant takes 1135 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 364 Meat
+You gain 7 Muscleboundness
+You gain 19 Magicalness
+You gain 16 Chutzpah
+
+[8996] Giant's Castle
+Encounter: Goth Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: Warm Subject gift certificate
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: goth giant takes 989 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "the little dance that I am doing is symbolic of my sublimated desire for material goods," and winks at you.
+You gain 312 Meat
+You acquire an item: thin black candle
+You acquire an item: awful poetry journal
+You acquire an item: giant tube of black lipstick
+You gain 13 Muscleboundness
+You gain 11 Enchantedness
+You gain 14 Smarm
+
+[8997] Giant's Castle
+Encounter: What are the Odds?
+You acquire an item: plot hole
+You acquire an item: chaos butterfly
+
+[8998] Giant's Castle
+Encounter: Outage, Brief Candle
+You gain 259 Wizardliness
+
+[8999] Giant's Castle
+Encounter: In a Black Room, with Black Curtains
+You acquire an item: thin black candle
+You acquire an item: Warm Subject gift certificate
+
+[9000] Giant's Castle
+Encounter: Raver Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: raver giant takes 975 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 331 Meat
+You acquire an item: Mick's IcyVapoHotness Rub
+You acquire an item: giant needle
+You acquire an item: discarded pacifier
+You gain 13 Muscleboundness
+You gain a Muscle point!
+You gain 13 Wizardliness
+You gain 15 Sarcasm
+
+[9001] Giant's Castle
+Encounter: Wheel in the Clouds in the Sky, Keep On Turning
+Took choice 10/3: Leave at mysticality
+choice.php?whichchoice=10&option=3&pwd
+
+[9001] Giant's Castle
+Encounter: Possibility Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: possibility giant takes 985 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "winking and dancing are primal, universal symbols for acquiring meat and items, respectively."
+You gain 338 Meat
+You acquire an item: probability potion
+You gain 9 Strengthliness
+You gain 10 Mysteriousness
+You gain 20 Smarm
+
+[9002] Giant's Castle
+Encounter: Procrastination Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: procrastination potion
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: procrastination giant takes 977 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 352 Meat
+You gain 12 Beefiness
+You gain 10 Magicalness
+You gain 14 Smarm
+
+[9003] Giant's Castle
+Encounter: In a Black Room, with Black Curtains
+You acquire an item: thin black candle
+You acquire an item: Warm Subject gift certificate
+
+[9004] Giant's Castle
+Encounter: Furry Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: disturbing fanfic
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: furry giant takes 985 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 352 Meat
+You gain 12 Strongness
+You gain 10 Magicalness
+You gain 17 Roguishness
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+[9005] Giant's Castle
+Encounter: Wheel in the Clouds in the Sky, Keep On Turning
+Took choice 10/3: Leave at mysticality
+choice.php?whichchoice=10&option=3&pwd
+
+[9005] Giant's Castle
+Encounter: Goth Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: Warm Subject gift certificate
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: goth giant takes 974 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 383 Meat
+You acquire an item: thin black candle
+You acquire an item: awful poetry journal
+You gain 11 Strengthliness
+You gain 13 Wizardliness
+You gain 14 Smarm
+
+[9006] Giant's Castle
+Encounter: In a Black Room, with Black Curtains
+You acquire an item: thin black candle
+You acquire an item: Warm Subject gift certificate
+
+[9007] Giant's Castle
+Encounter: Possibility Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: possibility giant takes 988 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "winking and dancing are primal, universal symbols for acquiring meat and items, respectively."
+You gain 336 Meat
+You acquire an item: probability potion
+You gain 7 Muscleboundness
+You gain 16 Mysteriousness
+You gain 15 Chutzpah
+You gain a Moxie point!
+
+[9008] Giant's Castle
+Encounter: What are the Odds?
+You acquire an item: plot hole
+You acquire an item: chaos butterfly
+
+[9009] Giant's Castle
+Encounter: Raver Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: Angry Farmer candy
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: raver giant takes 981 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 371 Meat
+You acquire an item: giant needle
+You acquire an item: discarded pacifier
+You acquire an item: rave whistle
+You gain 12 Fortitude
+You gain 5 Magicalness
+You gain 23 Chutzpah
+
+[9010] Giant's Castle
+Encounter: Alphabet Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: heavy D
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: alphabet giant takes 921 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 329 Meat
+You acquire an item: original G
+You gain 13 Strengthliness
+You gain 17 Mysteriousness
+You gain 12 Sarcasm
+
+[9011] Giant's Castle
+Encounter: Outage, Brief Candle
+You gain 261 Magicalness
+
+[9012] Giant's Castle
+Encounter: What are the Odds?
+You acquire an item: plot hole
+You acquire an item: chaos butterfly
+
+[9013] Giant's Castle
+Encounter: Furry Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: furry fur
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: furry giant takes 936 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "winking and dancing are primal, universal symbols for acquiring meat and items, respectively."
+You gain 395 Meat
+You gain 8 Muscleboundness
+You gain 17 Mysteriousness
+You gain a Mysticality point!
+You gain 15 Chutzpah
+
+[9014] Giant's Castle
+Encounter: Outage, Brief Candle
+You gain 288 Wizardliness
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[9015] Giant's Castle
+Encounter: Wheel in the Clouds in the Sky, Keep On Turning
+Took choice 10/3: Leave at mysticality
+choice.php?whichchoice=10&option=3&pwd
+
+[9015] Giant's Castle
+Encounter: Possibility Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: chaos butterfly
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: possibility giant takes 928 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 338 Meat
+You gain 9 Fortitude
+You gain 11 Mysteriousness
+You gain 19 Sarcasm
+
+[9016] Giant's Castle
+Encounter: In a Black Room, with Black Curtains
+You acquire an item: thin black candle
+You acquire an item: Warm Subject gift certificate
+
+familiar Blavious Kloop (17 lbs)
+
+[9017] Giant's Castle
+Encounter: In a Black Room, with Black Curtains
+You acquire an item: thin black candle
+You acquire an item: Warm Subject gift certificate
+
+[9018] Giant's Castle
+Encounter: Wheel in the Clouds in the Sky, Keep On Turning
+Took choice 10/3: Leave at mysticality
+choice.php?whichchoice=10&option=3&pwd
+
+[9018] Giant's Castle
+Encounter: Goth Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You acquire an item: Warm Subject gift certificate
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: goth giant takes 950 damage.
+Round 3: boolicious wins the fight!
+After Battle: The Kloop dances like it has ants in its pants! / And it winks while it does its ants-pants-fancy-dance!
+You gain 289 Meat
+After Battle: Your Kloop drops at your feet a small leatherbound book / With a sly little smile and a mischievous look.
+You acquire an item: devilish folio
+You gain 10 Beefiness
+You gain 9 Enchantedness
+You gain 18 Sarcasm
+
+[9019] Giant's Castle
+Encounter: Procrastination Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: procrastination giant takes 944 damage.
+Round 3: boolicious wins the fight!
+After Battle: The Kloop does a waltz with a skip and a hop / And he winks while his little Kloop hooves go klip-klop!
+You gain 238 Meat
+You acquire an item: procrastination potion
+You gain 12 Fortitude
+You gain 7 Enchantedness
+You gain 16 Sarcasm
+
+[9020] Giant's Castle
+Encounter: Raver Giant
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: raver giant takes 934 damage.
+Round 3: boolicious wins the fight!
+After Battle: Have you seen a Kloop dance? Yes you did! You just did! / Then he winks a great wink with one Kloopy eyelid!
+You gain 302 Meat
+You acquire an item: Angry Farmer candy
+You acquire an item: Mick's IcyVapoHotness Rub
+You acquire an item: giant needle
+You acquire an item: discarded pacifier
+You gain 11 Beefiness
+You gain 10 Wizardliness
+You gain 20 Cheek
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+cast 1 Summon Clip Art
+You acquire an item: 4:20 bomb
+
+cast 1 Summon Clip Art
+You acquire an item: Beignet Milgranet
+
+cast 1 Summon Clip Art
+You acquire an item: blunt cat claw
+
+forestvillage.php?action=mystic
+
+Trade 50 white pixel, 50 black pixel
+You acquire an item: pixel grappling hook
+
+[9021] The Ancient Hobo Burial Ground
+Encounter: Joe McDonald, the Autopsist
+Round 0: boolicious loses initiative!
+You lose 294 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 710 damage.
+Round 3: boolicious wins the fight!
+After Battle: The Blavious Kloop loves to dance and cavort! / It's a Kloop's only hobby, religion, and sport!
+You acquire an item: hobo nickel
+After Battle: Your Kloop drops at your feet a small leatherbound book / With a sly little smile and a mischievous look.
+You acquire an item: devilish folio
+You gain 27 Muscleboundness
+You gain 32 Enchantedness
+You gain 53 Smarm
+
+buy 33 black cherry soda for 80 each from Black Market
+You acquire black cherry soda (33)
+You spent 2,640 Meat
+
+use 33 black cherry soda
+You gain 324 Mojo Points
+
+buy 1 black cherry soda for 80 each from Black Market
+You acquire an item: black cherry soda
+You spent 80 Meat
+
+use 1 black cherry soda
+You gain 11 Mojo Points
+
+cast 4 Tongue of the Walrus
+You gain 140 hit points
+
+cast 1 Tongue of the Walrus
+You gain 31 hit points
+Jumping into the Awesome Ball Pit in the clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+pool aggressive
+You acquire an effect: Billiards Belligerence (duration: 10 Adventures)
+
+swimming pool submarine
+You acquire an effect: Silent Running (duration: 50 Adventures)
+
+pool strategic
+You acquire an effect: Mental A-cue-ity (duration: 10 Adventures)
+
+shower warm
+You acquire an effect: Muscle Unbound (duration: 50 Adventures)
+friars blessing 2
+You acquire an effect: Brother Corsican's Blessing (duration: 20 Adventures)
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+
+buy 1 scroll of ancient forbidden unspeakable evil for 2100 each from 425819 on 20130122
+You acquire an item: scroll of ancient forbidden unspeakable evil
+summon Ak'gyxoth
+You acquire an item: slap and tickle
+You acquire an item: rockin' wagon
+You acquire an item: pink pony
+
+Visiting Relaxing Hot Tub in clan VIP lounge
+You gain 519 hit points
+
+buy 1 black pudding for 101 each from 845708 on 20130122
+You acquire an item: black pudding
+
+eat 1 black pudding
+You gain 7 Adventures
+You gain 10 Beefiness
+You gain 13 Mysteriousness
+You gain 11 Roguishness
+You gain 3 Fullness
+
+buy 1 black pudding for 235 each from 1860883 on 20130122
+You acquire an item: black pudding
+
+eat 1 black pudding
+You gain 6 Adventures
+You gain 11 Strongness
+You gain 13 Enchantedness
+You gain 11 Roguishness
+You gain 3 Fullness
+
+buy 1 black pudding for 235 each from 1860883 on 20130122
+You acquire an item: black pudding
+
+eat 1 black pudding
+
+[9022] Black Pudding
+Encounter: black pudding
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts MOXIOUS MANEUVER!
+Round 2: black pudding takes 1554 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop leaps and it twirls and it whirls and it scoops! / It does cartwheels and jumps through a set of Kloop hoops!
+You acquire an item: black pudding
+You acquire an item: black pudding
+You gain 7 Strengthliness
+You gain 8 Mysteriousness
+You gain 4 Chutzpah
+
+eat 1 black pudding
+You gain 7 Adventures
+You gain 12 Strengthliness
+You gain 13 Enchantedness
+You gain 11 Smarm
+You gain 3 Fullness
+
+[9023] The Ancient Hobo Burial Ground
+Encounter: Wallace &quot;Braaaain-Cravin'&quot; Mack
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 1250 damage.
+Round 3: boolicious wins the fight!
+Your familiar gains a pound: Ringo, the 10 lb. Blavious Kloop
+After Battle: The Blavious Kloop does a little soft-shoe / With some shivers and shakes, like a gnu with the flu.
+After Battle: Your Kloop drops at your feet a small leatherbound book / With a sly little smile and a mischievous look.
+You acquire an item: devilish folio
+You gain 23 Strengthliness
+You gain 42 Magicalness
+You gain 50 Cheek
+
+[9024] The Ancient Hobo Burial Ground
+Encounter: Elmer Sullivan, the Guy Who Likes Corpses a Little Too Much, If You Know What I Mean
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You lose 285 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 1246 damage.
+Round 3: boolicious wins the fight!
+After Battle: The Blavious Kloop does a little soft-shoe / With some shivers and shakes, like a gnu with the flu.
+You gain 32 Strongness
+You gain 31 Enchantedness
+You gain 46 Roguishness
+
+clan_hobopolis.php?place=7
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=8
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+[9025] The Purple Light District
+Encounter: Poultry-Chokin' Morris &quot;Bad Touch&quot; Rutgers, the Liplickin' Perv
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: sleaze hobo takes 1320 damage.
+Round 3: boolicious wins the fight!
+After Battle: What a dance your Kloop does! What a joy to behold! / He folds and he flounces and shivers like mold!
+You gain 28 Strengthliness
+You gain 25 Enchantedness
+You gain 40 Smarm
+
+[9026] The Purple Light District
+Encounter: Well-Oiled Malvolio O'Sullivan
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You lose 189 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: sleaze hobo takes 1319 damage.
+Round 3: boolicious wins the fight!
+After Battle: Your Kloop cuts a rug with a twirl and a leap! / He spins round and around, then he drops in a heap!
+After Battle: Your Kloop drops at your feet a small leatherbound book / With a sly little smile and a mischievous look.
+You acquire an item: devilish folio
+You gain 25 Muscleboundness
+You gain 28 Magicalness
+You gain 40 Roguishness
+
+[9027] The Purple Light District
+Encounter: Byron Draper, the Midnight Groper
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You lose 173 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: sleaze hobo takes 1312 damage.
+Round 3: boolicious wins the fight!
+After Battle: The Blavious Kloop loves to dance and cavort! / It's a Kloop's only hobby, religion, and sport!
+After Battle: Your Kloop drops at your feet a small leatherbound book / With a sly little smile and a mischievous look.
+You acquire an item: devilish folio
+You gain 21 Beefiness
+You gain 21 Enchantedness
+You gain 47 Sarcasm
+
+[9028] The Purple Light District
+Encounter: Louis Smith, the Bad Toucher
+Round 0: boolicious wins initiative!
+
+postwarisland.php?place=nunnery&pwd&action=nuns
+postwarisland.php?place=nunnery&pwd&action=nuns
+Round 3: boolicious executes a macro!
+Round 3: boolicious tries to steal an item!
+Round 4: boolicious casts MOXIOUS MANEUVER!
+Round 5: sleaze hobo takes 1313 damage.
+Round 5: boolicious wins the fight!
+After Battle: The Blavious Kloop does a little soft-shoe / With some shivers and shakes, like a gnu with the flu.
+You gain 19 Strengthliness
+You gain 20 Magicalness
+You gain 52 Sarcasm
+
+postwarisland.php?place=nunnery&pwd&action=nuns
+You gain 633 hit points
+
+[9029] The Ancient Hobo Burial Ground
+Encounter: Two-Feet-in-the-Grave Byron &quot;Boneyard&quot; Garfunkel
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 1246 damage.
+Round 3: boolicious wins the fight!
+After Battle: The Kloop does a foxtrot, a jig, and a waltz, / And it's wondrous enough to make up for its faults.
+You acquire an item: hobo nickel
+You gain 30 Beefiness
+You gain 29 Enchantedness
+You gain 50 Smarm
+
+[9030] The Ancient Hobo Burial Ground
+Encounter: Roy Young, Who Sings Nursery Rhymes in a High-Pitched Voice While Delicately Caressing a Straight Razor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 1255 damage.
+Round 3: boolicious wins the fight!
+Your familiar gains a pound: Ringo, the 11 lb. Blavious Kloop
+After Battle: Your Kloop does a dance that's a little bit daft / But you can't deny it is well-choreographed.
+You gain 25 Muscleboundness
+You gain 29 Magicalness
+You gain 56 Cheek
+
+[9031] The Ancient Hobo Burial Ground
+Encounter: Returning to the Tomb
+Took choice 220/1: increase spooky hobos & get clan meat
+choice.php?whichchoice=220&option=1&pwd
+
+[9032] The Ancient Hobo Burial Ground
+Encounter: Uncanny John Peterson
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 1252 damage.
+Round 3: boolicious wins the fight!
+After Battle: The Blavious Kloop loves to dance and cavort! / It's a Kloop's only hobby, religion, and sport!
+You acquire an item: hobo nickel
+You gain 17 Strongness
+You gain 33 Enchantedness
+You gain 59 Cheek
+
+[9033] The Ancient Hobo Burial Ground
+Encounter: Nightmare Agamemnon Stipe
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You lose 296 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 1260 damage.
+Round 3: boolicious wins the fight!
+After Battle: What a dance your Kloop does! What a joy to behold! / He folds and he flounces and shivers like mold!
+You gain 28 Muscleboundness
+You gain 29 Enchantedness
+You gain 54 Cheek
+
+[9034] The Ancient Hobo Burial Ground
+Encounter: Nefarious Huckleberry O'Kelly
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 1248 damage.
+Round 3: boolicious wins the fight!
+After Battle: This Kloop is the best-dancing Kloop that you've seen! / It's a dance from the heart, and the lungs, and the spleen!
+You acquire an item: hobo nickel
+You gain 31 Strongness
+You gain 35 Mysteriousness
+You gain 47 Sarcasm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[9035] The Ancient Hobo Burial Ground
+Encounter: Garrett &quot;Mass Grave&quot; McCartney
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 1256 damage.
+Round 3: boolicious wins the fight!
+After Battle: The Blavious Kloop is a Kloop born to dance! / A mere glance at its dance sends you into a trance!
+You gain 28 Strongness
+You gain 31 Mysteriousness
+You gain 53 Cheek
+
+[9036] The Ancient Hobo Burial Ground
+Encounter: Night of the Living Slim Martin
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You lose 285 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 1248 damage.
+Round 3: boolicious wins the fight!
+After Battle: The Kloop does a foxtrot, a jig, and a waltz, / And it's wondrous enough to make up for its faults.
+You gain 21 Strengthliness
+You gain 38 Wizardliness
+You gain a Mysticality point!
+You gain 52 Chutzpah
+
+[9037] The Ancient Hobo Burial Ground
+Encounter: Unearthly Stephen, the Bony-Fingered Creep
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You lose 284 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 1253 damage.
+Round 3: boolicious wins the fight!
+After Battle: Your Kloop does a dance that's a little bit daft / But you can't deny it is well-choreographed.
+You acquire an item: hobo nickel
+You gain 35 Fortitude
+You gain 20 Mysteriousness
+You gain 54 Chutzpah
+
+cast 8 Tongue of the Walrus
+You gain 260 hit points
+
+buy 63 black cherry soda for 80 each from Black Market
+You acquire black cherry soda (63)
+You spent 5,040 Meat
+
+use 63 black cherry soda
+You gain 632 Mojo Points
+
+cast 10 Tongue of the Walrus
+You gain 345 hit points
+
+[9038] The Ancient Hobo Burial Ground
+Encounter: Reasonably Frightening Frederick, the Bloody-Aproned
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 1258 damage.
+Round 3: boolicious wins the fight!
+After Battle: Your Kloop does a dance that's a little bit daft / But you can't deny it is well-choreographed.
+You gain 27 Strengthliness
+You gain 37 Enchantedness
+You gain 49 Smarm
+
+[9039] The Ancient Hobo Burial Ground
+Encounter: Curly Clinton, the Sauntering Corpse
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 1248 damage.
+Round 3: boolicious wins the fight!
+Your familiar gains a pound: Ringo, the 12 lb. Blavious Kloop
+After Battle: Your Kloop cuts a rug with a twirl and a leap! / He spins round and around, then he drops in a heap!
+You gain 32 Muscleboundness
+You gain 28 Enchantedness
+You gain 52 Cheek
+You gain a Moxie point!
+
+[9040] The Ancient Hobo Burial Ground
+Encounter: Nefarious Dookie &quot;Heebie-Jeebies&quot; Lennon, the Fingerbone Collector
+Round 0: boolicious loses initiative!
+You lose 280 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 1253 damage.
+Round 3: boolicious wins the fight!
+After Battle: The Blavious Kloop is a Kloop born to dance! / A mere glance at its dance sends you into a trance!
+You gain 26 Fortitude
+You gain 29 Enchantedness
+You gain 56 Sarcasm
+
+[9041] The Ancient Hobo Burial Ground
+Encounter: Deathly Bill &quot;Abracadaver&quot; Montague
+Round 0: boolicious loses initiative!
+You lose 305 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 1253 damage.
+Round 3: boolicious wins the fight!
+After Battle: The Blavious Kloop starts to jump and to jive, / Doing a Kloop-dance on which Kloops all thrive.
+You gain 26 Strongness
+You gain 24 Enchantedness
+You gain 61 Sarcasm
+
+[9042] The Ancient Hobo Burial Ground
+Encounter: Dreadful Roy, the Empty Eye Socket
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You lose 316 hit points
+
+cast 10 Tongue of the Walrus
+You gain 344 hit points
+You lose an effect: Beaten Up
+
+[9043] The Ancient Hobo Burial Ground
+Encounter: Todd &quot;Corpsey&quot; Montague, the Long, Red-Legged Scissor Man
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You lose 283 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 709 damage.
+Round 3: boolicious wins the fight!
+After Battle: The Kloop leaps and it twirls and it whirls and it scoops! / It does cartwheels and jumps through a set of Kloop hoops!
+You gain 37 Beefiness
+You gain 22 Magicalness
+You gain 51 Roguishness
+
+cast 12 Tongue of the Walrus
+You gain 421 hit points
+
+[9044] The Ancient Hobo Burial Ground
+Encounter: Ah, So That's Where They've All Gone
+Took choice 208/2: skip adventure
+choice.php?whichchoice=208&option=2&pwd
+
+[9044] The Ancient Hobo Burial Ground
+Encounter: J. B. &quot;Creepy Jim&quot; Des Moines
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 713 damage.
+Round 3: boolicious wins the fight!
+After Battle: The Kloop leaps and it twirls and it whirls and it scoops! / It does cartwheels and jumps through a set of Kloop hoops!
+You gain 28 Beefiness
+You gain a Muscle point!
+You gain 31 Wizardliness
+You gain 52 Chutzpah
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+[9045] The Ancient Hobo Burial Ground
+Encounter: Cadaverous Franklin, the Long, Red-Legged Scissor Man
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 701 damage.
+Round 3: boolicious wins the fight!
+After Battle: The Blavious Kloop starts to jump and to jive, / Doing a Kloop-dance on which Kloops all thrive.
+You gain 28 Muscleboundness
+You gain 25 Magicalness
+You gain 58 Sarcasm
+
+[9046] The Ancient Hobo Burial Ground
+Encounter: Putrescent Isaiah, the Haunted Hobo
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You lose 311 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 702 damage.
+Round 3: boolicious wins the fight!
+After Battle: The Blavious Kloop is a Kloop born to dance! / A mere glance at its dance sends you into a trance!
+You acquire an item: hobo nickel
+You gain 20 Beefiness
+You gain 38 Enchantedness
+You gain 54 Cheek
+
+[9047] The Ancient Hobo Burial Ground
+Encounter: Vince &quot;Mother Issues&quot; Reagan, the Bloody-Aproned
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 702 damage.
+Round 3: boolicious wins the fight!
+After Battle: This Kloop is the best-dancing Kloop that you've seen! / It's a dance from the heart, and the lungs, and the spleen!
+You gain 31 Muscleboundness
+You gain 31 Magicalness
+You gain 49 Sarcasm
+
+[9048] The Ancient Hobo Burial Ground
+Encounter: Pippin &quot;Ghoulicious&quot; Franklin, the Crypt Creeper
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You lose 277 hit points
+
+cast 10 Tongue of the Walrus
+You gain 347 hit points
+You lose an effect: Beaten Up
