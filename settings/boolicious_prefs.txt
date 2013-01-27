@@ -45,7 +45,7 @@ _bagOfCandy=false
 _bagOfCandyUsed=true
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=true
+_ballpit=false
 _banderRunaways=0
 _bearHugs=0
 _beerLensDrops=0
@@ -64,7 +64,7 @@ _carnieCandyDrops=0
 _chipBags=0
 _chocolateCigarsUsed=0
 _chocolatesUsed=0
-_clipartSummons=3
+_clipartSummons=0
 _coalPaperweightUsed=false
 _companionshipCasts=0
 _creepyVoodooDollUsed=true
@@ -102,7 +102,7 @@ _hippyMeatCollected=true
 _hipsterAdv=0
 _hobbyHorseUsed=false
 _hoboUnderlingSummons=0
-_hotTubSoaks=1
+_hotTubSoaks=0
 _hyperinflatedSealLungUsed=false
 _iceballUses=0
 _inigosCasts=0
@@ -132,7 +132,7 @@ _mediumSiphons=0
 _nanorhinoBanishedMonster
 _navelRunaways=0
 _olympicSwimmingPool=true
-_olympicSwimmingPoolItemFound=true
+_olympicSwimmingPoolItemFound=false
 _pasteDrops=0
 _photocopyUsed=false
 _pieDrops=0
@@ -141,7 +141,7 @@ _pneumaticityPotionUsed=false
 _poisonArrows=0
 _poolGames=3
 _precisionCasts=0
-_psychoJarFilled=true
+_psychoJarFilled=false
 _psychoJarUsed=true
 _radlibSummons=0
 _raindohCopiesMade=0
@@ -698,11 +698,11 @@ choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=true
+concertVisited=false
 counterScript
-crimboTreeDays=6
+crimboTreeDays=5
 currentBountyItem=0
-currentFullness=0
+currentFullness=4
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -734,7 +734,7 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8=Kel'Gorefoo
 demonName9
-demonSummoned=true
+demonSummoned=false
 desktopHeight=600
 desktopWidth=800
 discardedKarma=0
@@ -784,11 +784,11 @@ hpAutoRecovery=0.2
 hpAutoRecoveryItems=free disco rest;medicinal herb's medicinal herbs;scroll of drastic healing;cannelloni cocoon;visit the nuns;relaxing hot tub;red pixel potion;really thick bandage;pok&euml;mann band-aid;filthy poultice;gauze garter;bottle of vangoghbitussin;plump juicy grub;elven medi-pack;generic healing potion;ancient magi-wipes;green pixel potion;phonics down;palm-frond fan;honey-dipped locust;tongue of the walrus;tiny house;disco nap;lasagna bandages;cast;tongue of the otter;sugar shard;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent;notes from the elfpocalypse, chapter i;notes from the elfpocalypse, chapter ii;notes from the elfpocalypse, chapter iii;notes from the elfpocalypse, chapter iv;notes from the elfpocalypse, chapter v;notes from the elfpocalypse, chapter vi
 hpAutoRecoveryTarget=0.8
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
-jungCharge=17
+jungCharge=3
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
-lastAdventure=A Grocery Bag
+lastAdventure=The Middle Chamber
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -804,14 +804,14 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
-lastBreakfast=15
+lastBreakfast=0
 lastCellarReset=4
 lastChanceBurn
 lastChanceThreshold=100
 lastChasmReset=4
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastCouncilVisit=14
-lastCounterDay=15
+lastCounterDay=0
 lastDispensaryOpen=4
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -852,7 +852,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-lastEncounter=The Table
+lastEncounter=tomb bat
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -895,7 +895,7 @@ lastPlusSignUnlock=-1
 lastPorkoBoard=2231333221321331232233221331112221122112231211311223312333332232313121113232121332132223133221223113332321232233323232231133121222122131
 lastPorkoExpected=1.50\:1.50\:0.94\:1.89\:1.89\:1.89\:2.37\:2.84\:2.84
 lastPorkoPayouts=210020321
-lastPyramidReset=3
+lastPyramidReset=4
 lastQuartetAscension=4
 lastQuartetRequest=2
 lastSecondFloorUnlock=4
@@ -929,7 +929,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=4
 lastWuTangDefeated=1
 lastZapperWand=4
-libramSummons=18
+libramSummons=12
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=6
@@ -975,8 +975,8 @@ pastamancerOrbedType
 pendingMapReflections=6
 photocopyMonster=monster
 pieStuffing
-plantingDate=15
-plantingDay=4
+plantingDate=0
+plantingDay=0
 plantingLength=5
 plantingScript=frozen
 poolSharkCount=1
@@ -985,8 +985,8 @@ preAscensionScript
 preBlackbirdFamiliar
 prismaticSummons=0
 promptAboutCrafting=1
-pyramidBombUsed=false
-pyramidPosition=0
+pyramidBombUsed=true
+pyramidPosition=1
 questF01Primordial=unstarted
 questF01Primordial,=Primordial Fear\=unstarted
 questF02Hyboria=unstarted
@@ -1118,13 +1118,13 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=true
+telescopeLookedHigh=false
 telescopeUpgrades=1
 tempuraSummons=0
 textColors=crappy\:\#999999|good\:green|awesome\:blue|epic\:\#8a2be2|junk\:gray|memento\:olive|notavailable\:gray
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=3
+tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
 unknownRecipe3542=true
