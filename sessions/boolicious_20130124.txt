@@ -1861,3 +1861,316 @@ You acquire an item: cool cat claw
 
 cast 1 Summon Clip Art
 You acquire an item: shadowy cat claw
+
+cast 8 Summon Resolutions
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be kinder
+
+telescope look high
+You acquire an effect: Starry-Eyed (duration: 10 Adventures)
+Jumping into the Awesome Ball Pit in the clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+pool aggressive
+You acquire an effect: Billiards Belligerence (duration: 10 Adventures)
+
+pool strategic
+You acquire an effect: Mental A-cue-ity (duration: 10 Adventures)
+
+swimming pool submarine
+You acquire an effect: Silent Running (duration: 50 Adventures)
+
+shower warm
+You acquire an effect: Muscle Unbound (duration: 50 Adventures)
+friars blessing 1
+You acquire an effect: Brother Flying Burrito's Blessing (duration: 20 Adventures)
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+
+buy 1 scroll of ancient forbidden unspeakable evil for 2175 each from 1914313 on 20130124
+You acquire an item: scroll of ancient forbidden unspeakable evil
+summon Ak'gyxoth
+You acquire an item: horizontal tango
+You acquire an item: pink pony
+You acquire an item: roll in the hay
+
+clan_hobopolis.php?place=2
+
+[9162] Hobopolis Town Square
+Encounter: Hot Fudge Red Belvedere
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1262 damage.
+Round 2: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 33 damage.
+Round 2: normal hobo takes 33 damage.
+Round 2: boolicious wins the fight!
+You gain 19 Beefiness
+You gain 24 Magicalness
+You gain 35 Cheek
+Richard takes a hobo skin
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=3
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+uneffect On the Trail
+
+buy 54 black cherry soda for 80 each from Black Market
+You acquire black cherry soda (54)
+You spent 4,320 Meat
+
+use 54 black cherry soda
+You gain 555 Mojo Points
+
+mallsell: 4 all-purpose cleaner
+
+mallsell: 3 backwoods screwdriver, 2 cool cat claw, 2 cool cat elixir
+
+mallsell: 16 bubbly potion of confusion, 4 effervescent potion of sleepiness, 2 fizzy potion of inebriety
+
+use 17 smoky potion of detection
+You acquire an effect: Object Detection (duration: 170 Adventures)
+
+use 1 potion of fishy speed
+You acquire an effect: Fishily Speeding (duration: 20 Adventures)
+
+manageprices.php?action=update&price0[821]=999999999&limit0[821]=0&price0[825]=999999999&limit0[825]=0&price0[5099]=10000&limit0[5099]=0&price0[5262]=9898&limit0[5262]=0&price0[5270]=8000&limit0[5270]=0&price0[5407]=8000&limit0[5407]=0&price0[5471]=6000&limit0[5471]=0&price0[375]=3745&limit0[375]=0&price0[3301]=2200&limit0[3301]=0&price0[6052]=2000&limit0[6052]=0&price0[196]=1500&limit0[196]=0&price0[5939]=1485&limit0[5939]=0&price0[5252]=1400&limit0[5252]=0&price0[5098]=1000&limit0[5098]=0&price0[5091]=900&limit0[5091]=0&price0[226]=800&limit0[226]=0&price0[5090]=500&limit0[5090]=0&price0[6053]=470&limit0[6053]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[6018]=400&limit0[6018]=0&price0[5093]=400&limit0[5093]=0&price0[5094]=375&limit0[5094]=0&price0[2680]=300&limit0[2680]=0&price0[2916]=300&limit0[2916]=0&price0[824]=275&limit0[824]=0&price0[617]=274&limit0[617]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[538]=260&limit0[538]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[6083]=250&limit0[6083]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=0&price0[125]=250&limit0[125]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[6076]=230&limit0[6076]=0&price0[1840]=200&limit0[1840]=0&price0[1803]=200&limit0[1803]=0&price0[5468]=200&limit0[5468]=0&price0[6054]=200&limit0[6054]=0&price0[834]=190&limit0[834]=0&price0[472]=190&limit0[472]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[218]=155&limit0[218]=0&price0[3597]=150&limit0[3597]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[475]=130&limit0[475]=0&price0[1655]=120&limit0[1655]=0&price0[5466]=111&limit0[5466]=0&price0[3019]=110&limit0[3019]=0&price0[5469]=100&limit0[5469]=0&price0[1]=100&limit0[1]=0
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+pool strategic
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=8
+
+[9163] The Purple Light District
+Encounter: Enid Mott, the Moustache-Waxer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff's bells jingle merrily.
+Round 2: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 37 hit points
+You gain 37 Mojo Points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: sleaze hobo takes 1315 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 126 Meat.
+Round 3: boolicious wins the fight!
+You gain 20 Strongness
+You gain 18 Magicalness
+You gain 51 Sarcasm
+
+[9164] The Purple Light District
+Encounter: Dirty Jokin' Judas Buck
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: sleaze hobo takes 1312 damage.
+Round 3: boolicious wins the fight!
+You gain 19 Strongness
+You gain 31 Wizardliness
+You gain 41 Chutzpah
+
+[9165] The Purple Light District
+Encounter: Quinn Paulson, the Guy Who Casually Brushes Up Against You Way Too Often for It to Be a Coincidence
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You lose 178 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: sleaze hobo takes 1318 damage.
+Round 3: boolicious wins the fight!
+After Battle: Cocopuff brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+You gain 29 Strengthliness
+You gain 20 Enchantedness
+You gain 41 Sarcasm
+
+[9166] The Purple Light District
+Encounter: Horace Johnson, the Inappropriate Kisser
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You lose 173 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: sleaze hobo takes 1315 damage.
+Round 3: boolicious wins the fight!
+You gain 28 Fortitude
+You gain 20 Enchantedness
+You gain 44 Chutzpah
+
+[9167] The Purple Light District
+Encounter: Bix &quot;Trans-Fat&quot; Steadwick
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: sleaze hobo takes 1316 damage.
+Round 3: Cocopuff coos softly, and nuzzles you with his beak.
+You gain 37 hit points
+You gain 37 Mojo Points
+Round 3: boolicious wins the fight!
+You gain 37 Strengthliness
+You gain 24 Magicalness
+You gain 32 Sarcasm
+
+postwarisland.php?place=nunnery&pwd&action=nuns
+You gain 697 hit points
+
+equip back Misty Cape
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #257/1200:
+Question: What was needed to defeat The Demon Giant Xxyrg in level 2, "Haunt Under Cliff", in the popular video game "World of Warfare XIX"?
+Answer: A carrot that looked just like the Vice-Lady of Morcestecershire.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #491/1200:
+Question: When did the Crunkleford Emo Slugs win the national tetherball championship?
+Answer: According to the old calendar, the twenty-ninth day of the Month of the Goat in the Year of the Toilet Seat.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #647/1200:
+Question: Who made fun of the aetheric original bucket?
+Answer: King Eustace XII's ferret.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #908/1200:
+Question: Where was Patrick XVIII, Vizier of Cavill, attacked by a frog?
+Answer: In the village of Flytrap.
+
+buy 1 tomato juice of powerful power for 101 each from 845708 on 20130124
+You acquire an item: tomato juice of powerful power
+
+use 1 tomato juice of powerful power
+You acquire an effect: Tomato Power (duration: 5 Adventures)
+
+eat 1 haggis-wrapped haggis-stuffed haggis
+You gain 3 Adventures
+You gain 8 Cheek
+You acquire an effect: Highland Sheen (duration: 20 Adventures)
+You gain 2 Fullness
+
+cast 1 The Moxious Madrigal
+You acquire an effect: The Moxious Madrigal (duration: 20 Adventures)
+
+[9168] The Purple Light District
+Encounter: Nude Slim, the "Special" Hugger
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SUMMON HOBO UNDERLING!
+You lose 174 hit points
+Round 2: boolicious casts ASK THE HOBO FOR SOME VIOLENCE!
+Round 3: sleaze hobo takes 197 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 111 Meat.
+Round 3: boolicious casts ASK THE HOBO FOR SOMETHING TO EAT!
+You acquire an item: insanely spicy bean burrito
+You lose 192 hit points
+Round 4: boolicious casts ASK THE HOBO TO DANCE FOR YOU!
+Round 5: boolicious attacks!
+Round 6: sleaze hobo takes 1990 damage.
+Round 6: boolicious wins the fight!
+You gain 19 Strengthliness
+You gain 21 Enchantedness
+You gain 50 Sarcasm
+
+cast 16 Tongue of the Walrus
+You gain 540 hit points
+
+cast 1 Tongue of the Walrus
+You gain 34 hit points
+
+cast 1 Tongue of the Walrus
+You gain 33 hit points
+
+[9169] The Purple Light District
+Encounter: Tongue Wagglin' Byron &quot;Stalkin'&quot; Mack, the Guy Who Was Kicked Out of the Frat House for Misogynistic Behavior
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SUMMON HOBO UNDERLING!
+Round 2: Cocopuff squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: sleaze hobo drops 10 attack power.
+Round 2: sleaze hobo drops 10 defense.
+You lose 172 hit points
+Round 2: boolicious casts ASK THE HOBO FOR A DRINK!
+You acquire an item: around the world
+Round 3: boolicious casts ASK THE HOBO TO DANCE FOR YOU!
+Round 4: Cocopuff paws at the ground for a second, and then charges your opponent, bashing him for 64 damage. LIMIT BREAK!
+Round 4: sleaze hobo takes 64 damage.
+Round 4: boolicious attacks!
+Round 5: sleaze hobo takes 2012 damage.
+Round 5: Cocopuff's bells jingle merrily.
+Round 5: Cocopuff coos softly, and nuzzles you with his beak. LIMIT BREAK!
+You gain 71 hit points
+You gain 71 Mojo Points
+Round 5: boolicious wins the fight!
+You gain 20 Muscleboundness
+You gain 33 Magicalness
+You gain 38 Smarm
+
+[9170] The Purple Light District
+Encounter: Zaxxon &quot;Lingering Hug&quot; Taylor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+You lose 186 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: sleaze hobo takes 2092 damage.
+Round 3: boolicious wins the fight!
+You gain 25 Fortitude
+You gain 21 Wizardliness
+You gain 46 Smarm
+
+cast 1 The Moxious Madrigal
+You acquire an effect: The Moxious Madrigal (duration: 20 Adventures)
+
+cast 1 The Magical Mojomuscular Melody
+You acquire an effect: The Magical Mojomuscular Melody (duration: 20 Adventures)
+
+cast 1 The Ode to Booze
+You acquire an effect: Ode to Booze (duration: 20 Adventures)
+
+cast 1 Stevedave's Shanty of Superiority
+
+clan_hobopolis.php?place=8
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=7
+
+[9171] The Ancient Hobo Burial Ground
+Encounter: Coffin-Breath Enid Nichols, the Crypt Creeper
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 146 Meat.
+You lose 305 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: spooky hobo takes 2031 damage.
+Round 3: Cocopuff roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 117 Meat.
+Round 3: boolicious wins the fight!
+You gain 28 Muscleboundness
+You gain 35 Magicalness
+You gain a Mysticality point!
+You gain 49 Roguishness
