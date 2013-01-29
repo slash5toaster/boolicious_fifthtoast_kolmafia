@@ -1,6 +1,4 @@
-=\=\=\=\=\=\=
-<<<<<<<=HEAD
->>>>>>>=d366784919f4113ad5dbeb37ffe58dff61c9946c
+
 AdventureFrame=880,282,0
 BuffBotFrame=603,307,0
 BuffRequestFrame=-8,-8
@@ -700,11 +698,7 @@ clanAttacksEnabled=false
 cocktailSummons=0
 concertVisited=true
 counterScript
-<<<<<<< HEAD
-crimboTreeDays=5
-=======
-crimboTreeDays=6
->>>>>>> 723722ae2c85ee222ecfc77fdf46c3853c3e17e9
+crimboTreeDays=4
 currentBountyItem=0
 currentFullness=0
 currentHippyStore=hippy
@@ -808,22 +802,14 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
-<<<<<<< HEAD
-lastBreakfast=0
-=======
-lastBreakfast=15
->>>>>>> 723722ae2c85ee222ecfc77fdf46c3853c3e17e9
+lastBreakfast=1
 lastCellarReset=4
 lastChanceBurn
 lastChanceThreshold=100
 lastChasmReset=4
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastCouncilVisit=14
-<<<<<<< HEAD
-lastCounterDay=0
-=======
-lastCounterDay=15
->>>>>>> 723722ae2c85ee222ecfc77fdf46c3853c3e17e9
+lastCounterDay=1
 lastDispensaryOpen=4
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -941,11 +927,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=4
 lastWuTangDefeated=1
 lastZapperWand=4
-<<<<<<< HEAD
-libramSummons=0
-=======
-libramSummons=18
->>>>>>> 723722ae2c85ee222ecfc77fdf46c3853c3e17e9
+libramSummons=16
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=6
