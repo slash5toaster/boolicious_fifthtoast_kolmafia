@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#added comment for testing
+
 HOST=$(hostname | cut -d'.' -f1 | tr '[:upper:]' '[:lower:]')
 GITREMOTE=github
 
