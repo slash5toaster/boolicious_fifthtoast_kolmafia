@@ -1,6 +1,7 @@
 [ apathetic ]
 
 [ default ]
+lose_effect belch the rainbow&trade; => use 1 piddles
 lose_effect mariachi mood => cast 2 moxie of the mariachi
 lose_effect rage of the reindeer => cast 2 rage of the reindeer
 
