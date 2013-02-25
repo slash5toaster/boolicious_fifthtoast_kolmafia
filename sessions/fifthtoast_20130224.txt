@@ -1,0 +1,225 @@
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: Who?
+You acquire an item: Trivial Avocations Card: When?
+
+use 1 creepy voodoo doll
+
+Using 1 cosmic vegetable to make 1 Staff of the Light Lunch
+
+cast 1 Conjure Eggs
+You acquire cosmic egg (3)
+
+cast 1 Conjure Vegetables
+You acquire cosmic vegetable (3)
+
+cast 1 Conjure Dough
+You acquire cosmic dough (3)
+
+[293] Rest in Clan Sofa (1 turns)
+You gain 24 Mojo Points
+
+[293] Rest in Clan Sofa (1 turns)
+You gain 9 Mojo Points
+
+cast 1 Conjure Fruit
+You acquire cosmic fruit (3)
+
+cast 1 Egg Man
+
+jarlskills.php?justgothere=1
+
+pull: 1 Glass Balls of the Goblin King
+
+equip off-hand Glass Balls of the Goblin King
+
+pull: 1 Jarlsberg's earring
+
+equip acc1 Jarlsberg's earring
+
+pull: 5 can of Binarrrca, 1 cream pie, 1 Fuzzby, 11 roll of toilet paper
+
+pull: 4 Trivial Avocations Card: What?, 4 Trivial Avocations Card: When?, 4 Trivial Avocations Card: Where?, 4 Trivial Avocations Card: Who?
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #233/1200:
+Question: What did Señor Giles Smith, mayor of Zevroozlchester, find when he opened the time capsule that had been buried under his porch on Martinus 1st, 1833?
+Answer: Pope Wilbur XIX, ruler of Zevroozlchester and the Robot River.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #402/1200:
+Question: When did Mssr. Bill Johnson win the Nobel Prize for Quarks or Whatever?
+Answer: Seven-thirty in the afternoon.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #870/1200:
+Question: What player for the Bafflesbury Mahogany Amish was inducted into the Hall of Fame for his or her last-second hole-in-one in the 1961 boxing championship?
+Answer: Vizier Shemp XV.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1002/1200:
+Question: Where was Douglas II, King of Nickelodeon, tortured to death?
+Answer: In a tannery in Phleberron.
+
+[295] Daily Dungeon (Room 0)
+
+[296] Daily Dungeon (Room 2)
+Encounter: Badger Badger Badger Badger
+
+[297] Daily Dungeon (Room 3)
+Encounter: Treasure!
+
+[297] Daily Dungeon (Room 4)
+Encounter: The Night Gallery
+You lose 32 hit points
+
+[298] Rest in Clan Sofa (1 turns)
+You gain 25 hit points
+You gain 25 Mojo Points
+
+[299] Daily Dungeon (Room 5)
+Encounter: Locked Door
+
+[299] Daily Dungeon (Room 6)
+Encounter: Treasure!
+
+[299] Daily Dungeon (Room 7)
+Encounter: Giant Creepy Floating Skull
+You lose 27 hit points
+
+[300] Rest in Clan Sofa (1 turns)
+You gain 24 hit points
+You gain 17 Mojo Points
+
+[301] Daily Dungeon (Room 8)
+Encounter: The Mystic Seal
+
+[302] Daily Dungeon (Room 9)
+Encounter: Sewage Moat
+You lose 21 hit points
+
+[303] Rest in Clan Sofa (1 turns)
+You gain 24 hit points
+You gain 4 Mojo Points
+
+[304] Daily Dungeon (Room 10)
+Encounter: Treasure!
+You acquire an item: fat loot token
+outfit Knob Goblin Harem Girl Disguise
+
+[305] Cobb's Knob Harem
+Encounter: Plucked
+You lose 3 hit points
+You acquire an effect: Knob Goblin Perfume (duration: 1 Adventure)
+
+pull: 1 37x37x37 puzzle cube
+
+pull: 1 scroll of drastic healing
+
+use 1 red pixel potion
+You gain 118 hit points
+
+[306] Throne Room
+Encounter: The Knob Goblin King
+Round 0: fifthtoast loses initiative!
+You lose 14 hit points
+Round 1: fifthtoast casts BOIL!
+Round 2: knob goblin king takes 50 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: dense meat stack (2)
+You acquire an item: Crown of the Goblin King
+You gain 19 Strongness
+You gain 34 Wizardliness
+You gain 15 Smarm
+You gain a Moxie point!
+
+equip hat Crown of the Goblin King
+
+Visiting the pretentious artist
+Selling 11 rat whiskers to the pretentious artist
+You gain 550 Meat
+
+[307] Haunted Kitchen
+Encounter: zombie chef
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: zombie chef takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 7 Meat
+You acquire an item: fricasseed brains
+You acquire an item: stale baguette
+You acquire an item: bottle of cooking sherry
+You gain 1 Wizardliness
+
+manor.php?place=library
+
+[308] Haunted Billiards Room
+Encounter: chalkdust wraith
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: chalkdust wraith takes 100 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: handful of hand chalk
+You gain 2 Muscleboundness
+You gain 2 Mysteriousness
+You gain 2 Sarcasm
+
+[309] Haunted Billiards Room
+Encounter: That's your cue
+You acquire an item: pool cue
+
+[310] Haunted Billiards Room
+Encounter: pooltergeist
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast casts BOIL!
+Round 2: pooltergeist takes 100 damage.
+Round 2: fifthtoast wins the fight!
+You gain 1 Strongness
+You gain 3 Mysteriousness
+You gain a Mysticality point!
+You gain a Level!
+You gain 2 Smarm
+
+[311] Haunted Billiards Room
+Encounter: chalkdust wraith
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast casts BOIL!
+Round 2: chalkdust wraith takes 100 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: handful of hand chalk
+You gain 2 Mysteriousness
+You gain 3 Sarcasm
+
+[312] Haunted Billiards Room
+Encounter: pooltergeist
+Round 0: fifthtoast loses initiative!
+You lose 1 hit point
+Round 1: fifthtoast casts CURDLE!
+Round 2: pooltergeist takes 15 damage.
+Round 2: fifthtoast casts CURDLE!
+Round 3: pooltergeist takes 30 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: 7-ball
+You gain 2 Strengthliness
+You gain 3 Magicalness
+
+[313] Haunted Billiards Room
+Encounter: pooltergeist
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast casts CURDLE!
+Round 2: pooltergeist takes 15 damage.
+Round 2: fifthtoast casts CURDLE!
+Round 3: pooltergeist takes 15 damage.
+Round 3: fifthtoast wins the fight!
+You gain 2 Beefiness
+You gain 2 Magicalness
+You gain 2 Sarcasm
