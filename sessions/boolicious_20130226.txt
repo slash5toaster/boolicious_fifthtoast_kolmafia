@@ -2208,3 +2208,201 @@ choice.php?forceoption=0
 
 [11012] Burnbarrel Blvd.
 Encounter: Getting Tired
+Took choice 206/2: add tire to stack
+choice.php?pwd&whichchoice=206&option=2
+
+cast 1 Summon Crimbo Candy
+You acquire an item: Crimbo fudge
+You acquire an item: Crimbo fudge
+You acquire an item: Crimbo peppermint bark
+
+cast 1 Summon Geeky Gifts
+You acquire an item: 37x37x37 puzzle cube
+You acquire an item: 37x37x37 puzzle cube
+You acquire an item: old-school calculator watch
+You acquire an item: Microplushie: Raverdrine
+
+cast 18 Summon Resolutions
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be luckier
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be kinder
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be kinder
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be feistier
+
+Harvesting your garden
+You acquire peppermint sprout (3)
+
+cast 1 Summon Clip Art
+You acquire an item: cheezburger
+
+cast 1 Summon Clip Art
+You acquire an item: cold-filtered water
+
+cast 1 Summon Clip Art
+You acquire an item: Lumineux Limnio
+
+Use 2 lemonade marble
+You acquire an item: bumblebee marble
+
+Trade 20 red pixel, 20 white pixel
+You acquire an item: pixel pill
+choice.php?forceoption=0
+
+[11013] Burnbarrel Blvd.
+Encounter: Getting Tired
+Took choice 206/2: add tire to stack
+choice.php?pwd&whichchoice=206&option=2
+
+[11014] Burnbarrel Blvd.
+Encounter: Morris &quot;Sparky&quot; Symington, the Human Tiki-Torch
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Dill pokes him in the eye with its stick, doing 21 damage.
+Round 2: hot hobo takes 21 damage.
+You lose 201 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: hot hobo takes 1029 damage.
+Round 3: Dill floats above your opponent and drips caustic juice on him.
+Round 3: hot hobo drops 4 attack power.
+Round 3: hot hobo drops 4 defense.
+Round 3: boolicious wins the fight!
+You gain 14 Fortitude
+You gain 28 Enchantedness
+You gain 48 Smarm
+
+use 1 Oscus's neverending soda
+You gain 255 Mojo Points
+
+use 6 Marquis de Poivre soda
+You gain 210 Mojo Points
+
+use 2 black cherry soda
+You gain 18 Mojo Points
+
+use 1 black cherry soda
+You gain 10 Mojo Points
+
+use 1 black cherry soda
+You gain 11 Mojo Points
+
+[11015] Burnbarrel Blvd.
+Encounter: Wade &quot;Jalapeño&quot; Garcia
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Dill pokes him in the eye with its stick, doing 21 damage.
+Round 2: hot hobo takes 21 damage.
+You lose 194 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: hot hobo takes 1043 damage.
+Round 3: Dill tries to poke him in the eye with its stick, but misses.
+Round 3: boolicious wins the fight!
+You gain 22 Strengthliness
+You gain 22 Enchantedness
+You gain 45 Sarcasm
+
+clan_hobopolis.php?place=4
+
+telescope look high
+You acquire an effect: Starry-Eyed (duration: 10 Adventures)
+Jumping into the Awesome Ball Pit in the clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+friars blessing 1
+You acquire an effect: Brother Flying Burrito's Blessing (duration: 20 Adventures)
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+
+shower warm
+You acquire an effect: Muscle Unbound (duration: 50 Adventures)
+
+postwarisland.php?place=nunnery&pwd&action=nuns
+You gain 874 hit points
+clan_hobopolis.php?place=2
+choice.php?forceoption=0
+
+[11016] Hobopolis Town Square
+Encounter: Marketplace Entrance
+Took choice 272/1: 80 nickels,  hobo code binder equipped
+choice.php?pwd&whichchoice=272&option=1
+Encounter: The Hobo Marketplace
+Took choice 231/1: unknown
+choice.php?pwd&whichchoice=231&option=1
+Encounter: Food Went A-Courtin'
+Took choice 234/1: unknown
+choice.php?pwd&whichchoice=234&option=1
+Encounter: gang of hobo muggers
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a frog!
+Round 2: boolicious uses the Gnomitronic Hyperspatial Demodulizer!
+Round 3: frog takes 12 damage.
+You acquire an effect: Super-Mega-Ultra-Hyper-Charged (duration: 5 Adventures)
+Round 3: Dill floats above your opponent and drips caustic juice on it.
+Round 3: frog drops 1 attack power.
+Round 3: frog drops 4 defense.
+Round 3: boolicious wins the fight!
+You gain 9 Meat
+You acquire an item: squashed frog
+You gain 2 Strengthliness
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+[11018] Hobopolis Town Square
+Encounter: Cletus Garcia, the Alaska-Phobe
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious tries to steal an item!
+Round 2: Dill floats above your opponent and drips caustic juice on him.
+Round 2: normal hobo drops 1 attack power.
+Round 2: normal hobo drops 1 defense.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: normal hobo takes 1820 damage.
+Round 3: Dill pokes him in the eye with its stick, doing 14 damage.
+Round 3: normal hobo takes 14 damage.
+Round 3: boolicious wins the fight!
+You gain 17 Beefiness
+You gain 31 Mysteriousness
+You gain 31 Cheek
+Richard takes a hobo skin
+
+[11019] Hobopolis Town Square
+Encounter: Hot Fuzz Walter Waldorf, Who Isn't Right in the Head
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1046 damage.
+Round 2: Dill pokes him in the eye with its stick, doing 17 damage.
+Round 2: normal hobo takes 17 damage.
+Round 2: boolicious wins the fight!
+You gain 21 Beefiness
+You gain 20 Mysteriousness
+You gain 38 Cheek
+Richard takes a hobo skin
+
+[11020] Hobopolis Town Square
+Encounter: Cube Root Dave &quot;Kobold Lips&quot; Dunn, the Trainyard Aristotle
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1046 damage.
+Round 2: Dill pokes him in the eye with its stick, doing 12 damage.
+Round 2: normal hobo takes 12 damage.
+Round 2: boolicious wins the fight!
+You gain 18 Strengthliness
+You gain 20 Magicalness
+You gain 40 Sarcasm
+Richard takes a hobo skin
