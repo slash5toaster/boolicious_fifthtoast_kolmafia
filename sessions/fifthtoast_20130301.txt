@@ -2082,3 +2082,354 @@ You acquire an item: corpsetini
 You gain 4 Fortitude
 You gain 3 Mysteriousness
 You gain 2 Chutzpah
+
+Using 1 cosmic egg to make 1 consummate fried egg
+You acquire an item: consummate fried egg
+
+Using 1 cosmic egg to make 1 consummate hard-boiled egg
+You acquire an item: consummate hard-boiled egg
+
+Using 1 cosmic fruit to make 1 adequate rum
+You acquire an item: adequate rum
+
+Using 1 adequate rum + 1 consummate fried egg to make 1 Over Easy Rider
+You acquire an item: Over Easy Rider
+
+Using 1 cosmic egg to make 1 consummate fried egg
+You acquire an item: consummate fried egg
+
+Using 1 cosmic fruit to make 1 adequate rum
+You acquire an item: adequate rum
+
+Using 1 adequate rum + 1 consummate fried egg to make 1 Over Easy Rider
+You acquire an item: Over Easy Rider
+
+drink 1 Over Easy Rider
+You gain 8 Adventures
+You gain 33 Cheek
+You gain a Moxie point!
+You gain 3 Drunkenness
+
+[539] Degrassi Knoll
+Encounter: Gnollish Toga Party
+You acquire an item: ice-cold Willer
+You acquire an item: ice-cold Willer
+
+[540] Degrassi Knoll
+Encounter: Gnollish Plungermaster
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast casts CURDLE!
+Round 2: gnollish plungermaster takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 25 Meat
+You gain 1 Beefiness
+You gain 2 Mysteriousness
+
+[541] Degrassi Knoll
+Encounter: Gnollish War Chef
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: gnollish war chef takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 21 Meat
+You acquire an item: Knoll mushroom
+You acquire an item: Knoll mushroom
+You acquire an item: skewer
+You gain 1 Mysteriousness
+You gain 3 Smarm
+
+[542] Degrassi Knoll
+Encounter: one-eyed Gnoll
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: one-eyed gnoll takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 22 Meat
+You gain 2 Strengthliness
+You gain 1 Magicalness
+
+[543] Degrassi Knoll
+Encounter: Guard Bugbear
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: guard bugbear takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 28 Meat
+You acquire an item: bugbear beanie
+You acquire an item: bugbear bungguard
+You gain 4 Sarcasm
+
+[544] Degrassi Knoll
+Encounter: Gnollish Workshop
+You acquire an item: spring
+You acquire an item: sprocket
+You acquire an item: cog
+
+[545] Degrassi Knoll
+Encounter: Gnollish Flyslayer
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: gnollish flyslayer takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 19 Meat
+You acquire an item: Gnollish flyswatter
+You gain 1 Muscleboundness
+You gain 1 Enchantedness
+
+[546] Degrassi Knoll
+Encounter: one-eyed Gnoll
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: one-eyed gnoll takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 20 Meat
+You gain 4 Chutzpah
+
+[547] Degrassi Knoll
+Encounter: Gnollish Toga Party
+You acquire an item: ice-cold Willer
+You acquire an item: ice-cold Willer
+
+[548] Degrassi Knoll
+Encounter: Gnollish Tirejuggler
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: gnollish tirejuggler takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 23 Meat
+You acquire an item: tires
+You gain 1 Magicalness
+You gain 3 Roguishness
+
+[549] Degrassi Knoll
+Encounter: Gnollish Plungermaster
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: gnollish plungermaster takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 30 Meat
+You gain 2 Strengthliness
+You gain 2 Chutzpah
+
+[550] Degrassi Knoll
+Encounter: Gnollish Tirejuggler
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+You lose 2 hit points
+Round 2: fifthtoast casts CURDLE!
+Round 3: gnollish tirejuggler takes 15 damage.
+Round 3: fifthtoast wins the fight!
+You gain 27 Meat
+You acquire an item: tires
+You gain 2 Strengthliness
+You gain 2 Roguishness
+
+[551] Haunted Library
+Encounter: banshee librarian
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: banshee librarian takes 30 damage.
+You lose 24 hit points
+
+[552] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 29 hit points
+You gain 30 Mana Points
+Visiting Comfy Sofa in clan rumpus room
+
+[553] Rest in Clan Sofa (1 turns)
+You gain 30 hit points
+
+[554] Haunted Bathroom
+Encounter: toilet papergeist
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: toilet papergeist takes 30 damage.
+You lose 52 hit points
+Round 2: fifthtoast casts FRY!
+Round 3: toilet papergeist takes 80 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: roll of toilet paper
+You gain 6 Beefiness
+You gain 12 Magicalness
+You gain 5 Sarcasm
+
+[555] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: undead elbow macaroni takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 Meat
+You acquire an item: magicalness-in-a-can
+You gain 1 Mysteriousness
+
+[556] Haunted Pantry
+Encounter: Cut Down in His Prime
+You acquire an item: razor-sharp can lid
+You gain 50 Meat
+
+[557] Haunted Pantry
+Encounter: flame-broiled meat blob
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: flame-broiled meat blob takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 19 Meat
+You acquire an item: meat paste
+You acquire an item: meat paste
+You gain 1 Mysteriousness
+choice.php?forceoption=0
+
+[558] Haunted Pantry
+Encounter: Oh No, Hobo
+Took choice 115/2: Good Karma
+choice.php?pwd&whichchoice=115&option=2
+You acquire an effect: Good Karma (duration: 10 Adventures)
+
+[559] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: undead elbow macaroni takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Meat
+You acquire an item: magicalness-in-a-can
+You gain 1 Fortitude
+choice.php?forceoption=0
+
+[560] Haunted Pantry
+Encounter: Trespasser
+Took choice 117/3: get a random item
+choice.php?pwd&whichchoice=117&option=3
+You acquire an item: razor-sharp can lid
+You acquire an item: asparagus knife
+
+Visiting the Captain of the Gourd
+
+[561] Haunted Pantry
+Encounter: possessed can of tomatoes
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: possessed can of tomatoes takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 3 Meat
+You acquire an item: razor-sharp can lid
+You acquire an item: tomato
+You gain 1 Magicalness
+
+[562] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: undead elbow macaroni takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Meat
+You acquire an item: magicalness-in-a-can
+You gain 1 Wizardliness
+choice.php?forceoption=0
+
+[563] Haunted Pantry
+Encounter: The Singing Tree
+Took choice 116/2: moxie substats
+choice.php?pwd&whichchoice=116&option=2
+You gain 4 Roguishness
+
+[564] Rest in Clan Sofa (1 turns)
+You gain 30 hit points
+
+[564] Rest in Clan Sofa (1 turns)
+You gain 31 hit points
+
+[566] Hidden Temple
+Encounter: La Persona Inocente Cadáver
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: fifthtoast casts BOIL!
+Round 3: persona inocente cad&aacute;ver takes 50 damage.
+You lose 6 hit points
+Round 3: fifthtoast jiggles the Staff of the Healthy Breakfast
+Round 4: You jiggle the staff.  A tendril of egg yolk emerges from the end of it and vanishes into your chest.  You feel better, but your opponent looks pretty disgusted.
+Round 4: You gain 15 hit points.
+Round 4: fifthtoast casts BOIL!
+Round 5: persona inocente cad&aacute;ver takes 50 damage.
+Round 5: fifthtoast wins the fight!
+You acquire an item: Corpse Island iced tea
+You gain 5 Wizardliness
+You gain 4 Chutzpah
+
+[567] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: baa-relief sheep takes 15 damage.
+You lose 7 hit points
+Round 2: fifthtoast casts CURDLE!
+Round 3: baa-relief sheep takes 15 damage.
+You lose 7 hit points
+Round 3: fifthtoast jiggles the Staff of the Healthy Breakfast
+Round 4: You jiggle the staff.  A tendril of egg yolk emerges from the end of it and vanishes into your chest.  You feel better, but your opponent looks pretty disgusted.
+Round 4: You gain 15 hit points.
+Round 4: fifthtoast casts CURDLE!
+Round 5: baa-relief sheep takes 15 damage.
+Round 5: fifthtoast wins the fight!
+You gain 5 Enchantedness
+You gain 5 Cheek
+You gain a Moxie point!
+choice.php?forceoption=0
+
+[568] Hidden Temple
+Encounter: Such Great Depths
+Took choice 581/2: 5 advs of +15 mus/mys/mox
+choice.php?pwd&whichchoice=581&option=2
+You acquire an effect: Hidden Power (duration: 5 Adventures)
+
+[569] Hidden Temple
+Encounter: stone temple pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: stone temple pirate takes 15 damage.
+Round 2: fifthtoast jiggles the Staff of the Healthy Breakfast
+Round 3: You jiggle the staff.  A tendril of egg yolk emerges from the end of it and vanishes into your chest.  You feel better, but your opponent looks pretty disgusted.
+Round 3: You gain 12 hit points.
+Round 3: fifthtoast casts CURDLE!
+Round 4: stone temple pirate takes 15 damage.
+Round 4: fifthtoast casts CURDLE!
+Round 5: stone temple pirate takes 15 damage.
+Round 5: fifthtoast wins the fight!
+You gain 3 Strongness
+You gain 7 Magicalness
+You gain 4 Sarcasm
+
+[570] Tavern Cellar (row 3, col 2)
+Encounter: drunken rat
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: drunken rat takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 8 Meat
+You acquire an item: rat whisker
+You gain 2 Magicalness
+
+[571] Tavern Cellar (row 5, col 4)
+Encounter: The Tavern Cellar
+
+[571] Tavern Cellar (row 3, col 3)
+Encounter: The Tavern Cellar
+
+[571] Tavern Cellar (row 3, col 3)
+Encounter: The Tavern Cellar
+
+eat 1 consummate hard-boiled egg
+You gain 4 Adventures
+You gain 10 Strongness
+You gain 27 Enchantedness
+You gain a Mysticality point!
+You gain a Level!
+You gain 8 Cheek
+You gain 3 Fullness
+
+jarlskills.php?justgothere=1
+jarlskills.php?action=getskill&getskid=14014
+You learned a new skill: Chop
+You acquire an item: Evilometer
