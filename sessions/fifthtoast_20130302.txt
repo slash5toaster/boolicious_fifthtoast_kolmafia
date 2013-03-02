@@ -1,0 +1,293 @@
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: Where?
+
+use 1 creepy voodoo doll
+
+cast 1 Conjure Eggs
+You acquire cosmic egg (3)
+
+cast 1 Conjure Fruit
+You acquire cosmic fruit (3)
+
+cast 1 Conjure Vegetables
+You acquire cosmic vegetable (3)
+
+cast 1 Conjure Dough
+You acquire cosmic dough (3)
+
+cast 1 Egg Man
+
+equip off-hand hobo code binder
+
+[571] Defiled Nook
+Encounter: spiny skelelton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: spiny skelelton takes 30 damage.
+You lose 11 hit points
+Round 2: fifthtoast casts CURDLE!
+Round 3: spiny skelelton takes 30 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: skeleton bone
+You acquire an item: smart skull
+You acquire an item: spiked femur
+You gain 7 Fortitude
+You gain 6 Mysteriousness
+You gain 2 Cheek
+
+[572] Defiled Nook
+Encounter: spiny skelelton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: spiny skelelton takes 30 damage.
+You lose 9 hit points
+Round 2: fifthtoast casts CURDLE!
+Round 3: spiny skelelton takes 30 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: skeleton bone
+You gain 4 Strongness
+You gain 6 Magicalness
+You gain 5 Cheek
+
+[573] Defiled Nook
+Encounter: toothy sklelton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: toothy sklelton takes 30 damage.
+You lose 10 hit points
+Round 2: fifthtoast jiggles the Staff of the Healthy Breakfast
+Round 3: You jiggle the staff.  A tendril of egg yolk emerges from the end of it and vanishes into your chest.  You feel better, but your opponent looks pretty disgusted.
+Round 3: You gain 15 hit points.
+Round 3: fifthtoast casts CURDLE!
+Round 4: toothy sklelton takes 30 damage.
+Round 4: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: loose teeth
+You gain 5 Beefiness
+You gain a Muscle point!
+You gain 9 Magicalness
+
+[574] Pre-Cyrpt Cemetary
+Encounter: grave rober
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast casts CURDLE!
+Round 2: grave rober takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: grave robbing shovel
+You gain 4 Enchantedness
+You gain 3 Roguishness
+
+[575] Pre-Cyrpt Cemetary
+Encounter: skleleton
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast casts CURDLE!
+Round 2: skleleton takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: loose teeth
+You gain 3 Enchantedness
+You gain 2 Smarm
+
+[576] Pre-Cyrpt Cemetary
+Encounter: grave rober
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast casts CURDLE!
+Round 2: grave rober takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 1 Strongness
+You gain 2 Enchantedness
+You gain 3 Smarm
+
+[577] Pre-Cyrpt Cemetary
+Encounter: ghuol
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast casts CURDLE!
+Round 2: ghuol takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 38 Meat
+You gain 1 Strengthliness
+You gain 3 Wizardliness
+You gain 2 Roguishness
+
+[578] Pre-Cyrpt Cemetary
+Encounter: zmobie
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: zmobie takes 60 damage.
+Round 2: fifthtoast wins the fight!
+You gain 40 Meat
+You acquire an item: loose teeth
+You gain 3 Muscleboundness
+You gain 1 Wizardliness
+You gain 2 Cheek
+
+[579] Pre-Cyrpt Cemetary
+Encounter: zobmie
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+You lose 1 hit point
+Round 2: fifthtoast casts CURDLE!
+Round 3: zobmie takes 30 damage.
+Round 3: fifthtoast wins the fight!
+You gain 37 Meat
+You gain 3 Beefiness
+You gain 2 Magicalness
+
+[580] Pre-Cyrpt Cemetary
+Encounter: Smart Skelton
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast casts CURDLE!
+Round 2: smart skelton takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: smart skull
+You gain 4 Magicalness
+You gain 2 Cheek
+
+[581] Pre-Cyrpt Cemetary
+Encounter: ghuol
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: ghuol takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 29 Meat
+You gain 2 Wizardliness
+You gain 4 Chutzpah
+
+[582] Pre-Cyrpt Cemetary
+Encounter: lihc
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast casts CURDLE!
+Round 2: lihc takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 37 Meat
+You gain 2 Fortitude
+You gain 1 Magicalness
+You gain 3 Chutzpah
+
+[583] Pre-Cyrpt Cemetary
+Encounter: grave rober
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: grave rober takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 1 Strongness
+You gain 3 Mysteriousness
+You gain 3 Cheek
+
+[584] Pre-Cyrpt Cemetary
+Encounter: zmobie
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: zmobie takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 38 Meat
+You acquire an item: loose teeth
+You gain 2 Muscleboundness
+You gain 1 Wizardliness
+You gain 3 Smarm
+
+[585] Pre-Cyrpt Cemetary
+Encounter: They Hate That
+
+[586] Defiled Nook
+Encounter: spiny skelelton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: spiny skelelton takes 30 damage.
+You lose 16 hit points
+Round 2: fifthtoast casts CURDLE!
+Round 3: spiny skelelton takes 30 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: skeleton bone
+You acquire an item: smart skull
+You gain 5 Fortitude
+You gain 5 Mysteriousness
+You gain 3 Chutzpah
+
+[587] Defiled Nook
+Encounter: spiny skelelton
+Round 0: fifthtoast loses initiative!
+You lose 20 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: spiny skelelton takes 30 damage.
+You lose 18 hit points
+Round 2: fifthtoast casts BOIL!
+Round 3: spiny skelelton takes 88 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: smart skull
+You acquire an item: evil eye
+You gain 3 Muscleboundness
+You gain 7 Wizardliness
+You gain 5 Sarcasm
+
+use 1 creepy voodoo doll
+
+use 1 fizzy potion
+You acquire an effect: Confused (duration: 20 Adventures)
+
+use 1 evil eye
+
+pull: 3 soft green echo eyedrop antidote
+
+uneffect Confused
+
+[588] Defiled Nook
+Encounter: toothy sklelton
+Round 0: fifthtoast loses initiative!
+You lose 22 hit points
+
+[589] Rest in Clan Sofa (1 turns)
+You gain 34 hit points
+
+[589] Rest in Clan Sofa (1 turns)
+You gain 29 hit points
+
+[591] Rest in your dwelling
+You gain 30 hit points
+You gain 30 Mana Points
+
+Using 1 cosmic egg to make 1 consummate fried egg
+You acquire an item: consummate fried egg
+
+eat 1 consummate fried egg
+You gain 13 Adventures
+You gain 46 Fortitude
+You gain a Muscle point!
+You gain 65 Enchantedness
+You gain a Mysticality point!
+You gain 3 Fullness
+
+Using 1 cosmic egg to make 1 consummate fried egg
+You acquire an item: consummate fried egg
+
+Using 1 cosmic fruit to make 1 adequate rum
+You acquire an item: adequate rum
+
+Using 1 adequate rum + 1 consummate fried egg to make 1 Over Easy Rider
+You acquire an item: Over Easy Rider
+
+drink 1 Over Easy Rider
+You gain 8 Adventures
+You gain 38 Roguishness
+You gain a Moxie point!
+You gain 3 Drunkenness
+
+Using 1 cosmic dough to make 1 consummate hot dog bun
+You acquire an item: consummate hot dog bun
+
+Using 1 cosmic egg to make 1 consummate hard-boiled egg
+You acquire an item: consummate hard-boiled egg
+
+eat 1 consummate hard-boiled egg
+You gain 4 Adventures
+You gain 7 Strengthliness
+You gain 23 Magicalness
+You gain 6 Roguishness
+You gain 3 Fullness
