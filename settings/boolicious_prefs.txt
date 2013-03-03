@@ -28,7 +28,7 @@ RequestFrame=375,103,-1
 RequestSynchFrame=326,102,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
-StoreManageFrame=-8,-8,3
+StoreManageFrame=332,111,0
 TabbedChatFrame=481,41,1
 TrophyFrame=273,274,-1
 _absintheDrops=0
@@ -717,12 +717,12 @@ concertVisited=true
 counterScript
 crimboTreeDays=5
 currentBountyItem=0
-currentFullness=0
+currentFullness=18
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
 currentMojoFilters=0
-currentMood=powered
+currentMood=apathetic
 currentNunneryMeat=87942
 currentPvpVictories
 currentSpleenUse=0
@@ -803,7 +803,7 @@ jungCharge=24
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
-lastAdventure=The Ancient Hobo Burial Ground
+lastAdventure=Haiku Dungeon
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -867,7 +867,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-lastEncounter=Rapidly Decomposing Sam &quot;Graverobber&quot; Khan
+lastEncounter=ancient insane monk
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -944,7 +944,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=4
 lastWuTangDefeated=1
 lastZapperWand=4
-libramSummons=18
+libramSummons=19
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=6
