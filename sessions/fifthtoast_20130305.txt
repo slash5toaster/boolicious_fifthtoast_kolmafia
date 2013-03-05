@@ -1,0 +1,310 @@
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: Who?
+
+use 1 creepy voodoo doll
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+Visiting Hermit
+
+trading 1 worthless item for 1 ten-leaf clover
+You acquire an item: ten-leaf clover
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+buy 10 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (10)
+You spent 500 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+use 1 chewing gum on a string
+You acquire an item: worthless trinket
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+use 1 chewing gum on a string
+You acquire an item: ravioli hat
+
+use 1 chewing gum on a string
+You acquire an item: seal-skull helmet
+
+trading 3 worthless items for 3 ten-leaf clovers
+You acquire ten-leaf clover (3)
+
+Use 3 ten-leaf clover
+You acquire disassembled clover (3)
+
+[593] Degrassi Knoll
+Encounter: Gnollish Flyslayer
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: gnollish flyslayer takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 19 Meat
+You acquire an item: Gnollish flyswatter
+You gain 1 Strongness
+You gain 2 Cheek
+
+cast 1 Conjure Eggs
+You acquire cosmic egg (3)
+
+cast 1 Conjure Vegetables
+You acquire cosmic vegetable (3)
+
+cast 1 Conjure Fruit
+You acquire cosmic fruit (3)
+
+cast 1 Conjure Dough
+You acquire cosmic dough (3)
+
+cast 1 Egg Man
+
+[594] Defiled Nook
+Encounter: spiny skelelton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: spiny skelelton takes 30 damage.
+You lose 18 hit points
+Round 2: fifthtoast casts CURDLE!
+Round 3: spiny skelelton takes 30 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: skeleton bone
+You acquire an item: smart skull
+You acquire an item: evil eye
+You gain 1 Muscleboundness
+You gain 7 Enchantedness
+You gain a Mysticality point!
+You gain 6 Sarcasm
+
+use 1 evil eye
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #35/1200:
+Question: What did Ludwig Taylor's nephew find in the refrigerator on Dougtember seventh, 1961?
+Answer: A cucumber and porkchop sandwich.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #525/1200:
+Question: When did the Bloody War of The province of Mustardbury Grove begin?
+Answer: 1283.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #607/1200:
+Question: Who won the mithril medal for figure-skating in the 1967 Olympics?
+Answer: Sven Roosevelt's daughter Stan.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1104/1200:
+Question: Where did Dr. Slim Stipe, inventor of the prototype for the sandwich, get arrested for jaywalking?
+Answer: The Swift Grove.
+
+[595] Defiled Nook
+Encounter: spiny skelelton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: spiny skelelton takes 30 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: spiny skelelton takes 30 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: smart skull
+You gain 3 Strengthliness
+You gain 8 Magicalness
+You gain 3 Smarm
+
+[596] Defiled Nook
+Encounter: toothy sklelton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: toothy sklelton takes 30 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: toothy sklelton takes 30 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: evil eye
+You gain 5 Beefiness
+You gain 4 Wizardliness
+You gain 6 Smarm
+
+use 1 evil eye
+
+[597] Defiled Nook
+Encounter: toothy sklelton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: toothy sklelton takes 30 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: toothy sklelton takes 30 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: loose teeth
+You acquire an item: loose teeth
+You acquire an item: bone flute
+You gain 2 Beefiness
+You gain 8 Mysteriousness
+You gain 5 Cheek
+
+[598] Defiled Nook
+Encounter: spiny skelelton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: spiny skelelton takes 30 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: spiny skelelton takes 30 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 3 Strengthliness
+You gain 5 Wizardliness
+You gain 7 Smarm
+
+[599] Defiled Nook
+Encounter: spiny skelelton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: spiny skelelton takes 60 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: skeleton bone
+You acquire an item: smart skull
+You gain 2 Strongness
+You gain 8 Enchantedness
+You gain 4 Smarm
+
+[600] Defiled Nook
+Encounter: toothy sklelton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: toothy sklelton takes 30 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: toothy sklelton takes 30 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: loose teeth
+You acquire an item: evil eye
+You gain 2 Beefiness
+You gain 11 Mysteriousness
+You gain 2 Smarm
+You gain a Moxie point!
+
+use 1 evil eye
+
+[601] Defiled Nook
+Encounter: toothy sklelton
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: toothy sklelton takes 30 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: toothy sklelton takes 100 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: loose teeth
+You acquire an item: loose teeth
+You acquire an item: bone flute
+You acquire an item: evil eye
+You gain 1 Strengthliness
+You gain 8 Enchantedness
+You gain 7 Smarm
+
+use 1 evil eye
+
+[602] Defiled Nook
+Encounter: giant skeelton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: giant skeelton takes 30 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: giant skeelton takes 100 damage.
+Round 4: fifthtoast wins the fight!
+After Battle: As the skeelton collapses in a jumbled pile of bones, the Evilometer emits a single very loud beep.
+You acquire an item: skeleton bone
+You acquire an item: skeleton bone
+You gain 12 Strongness
+You gain 25 Mysteriousness
+You gain 18 Smarm
+
+[603] Defiled Niche
+Encounter: senile lihc
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: senile lihc takes 30 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: senile lihc takes 60 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You gain 10 Mysteriousness
+You gain a Mysticality point!
+You gain 5 Roguishness
+
+[604] Defiled Niche
+Encounter: slick lihc
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: slick lihc takes 30 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: slick lihc takes 30 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Your Evilometer emits a single beep.  The air in this part of the crypt smells slightly less evil...
+You acquire an item: lihc eye
+You gain 2 Strengthliness
+You gain 8 Enchantedness
+You gain 6 Sarcasm
+
+[605] Defiled Niche
+Encounter: dirty old lihc
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: dirty old lihc takes 30 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: dirty old lihc takes 30 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Either way, your Evilometer beeps three times.
+You gain 7 Strongness
+You gain a Muscle point!
+You gain 6 Magicalness
+You gain 3 Smarm
+
+[606] Defiled Niche
+Encounter: dirty old lihc
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: dirty old lihc takes 30 damage.
+You lose 10 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: dirty old lihc takes 30 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: Either way, your Evilometer beeps three times.
+You gain 3 Beefiness
+You gain 6 Magicalness
+You gain 7 Chutzpah
