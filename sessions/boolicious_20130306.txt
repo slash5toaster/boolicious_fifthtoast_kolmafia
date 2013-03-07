@@ -174,3 +174,512 @@ use 1 Knob Goblin perfume
 You acquire an effect: Knob Goblin Perfume (duration: 1 Adventure)
 
 use 1 detuned radio
+
+familiar Pair of Stomping Boots (25 lbs)
+
+use 1 Oscus's neverending soda
+You gain 252 Mojo Points
+
+equip hat Hodgman's porkpie hat
+
+equip weapon drywall axe
+
+equip back Misty Cape
+
+equip shirt spangly mariachi vest
+
+equip pants Hodgman's lobsterskin pants
+
+equip acc2 Chester's sunglasses
+
+[11351] Black Forest
+Encounter: blackberry bush
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: blackberry bush takes 603 damage.
+You lose 5 hit points
+Round 2: boolicious wins the fight!
+After Battle: Dr Marten assumes the pli&eacute; position and bends its calf-parts in and out a few times.
+You acquire an item: blackberry
+You gain 9 Strengthliness
+You gain 5 Wizardliness
+You gain 20 Roguishness
+
+oldman.php?action=talk
+oldman.php?action=jung&whichperson=oldman
+You acquire an item: jar of psychoses (The Old Man)
+
+familiar Angry Jung Man (25 lbs)
+
+use 1 jar of psychoses (The Old Man)
+
+[11352] The Old Man's Bathtime Adventures
+Encounter: 
+
+[11352] The Old Man's Bathtime Adventures
+Encounter: giant man-eating shark
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: giant man-eating shark takes 593 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: old chum
+You gain 10 Muscleboundness
+You gain 9 Wizardliness
+You gain 16 Cheek
+
+use 1 potion of fishy speed
+You acquire an effect: Fishily Speeding (duration: 20 Adventures)
+
+use 1 potion of fishy speed
+You acquire an effect: Fishily Speeding (duration: 20 Adventures)
+
+use 1 potion of fishy speed
+You acquire an effect: Fishily Speeding (duration: 20 Adventures)
+
+use 1 potion of fishy speed
+You acquire an effect: Fishily Speeding (duration: 20 Adventures)
+
+use 1 potion of fishy speed
+You acquire an effect: Fishily Speeding (duration: 20 Adventures)
+
+use 1 potion of fishy speed
+You acquire an effect: Fishily Speeding (duration: 20 Adventures)
+
+[11353] The Old Man's Bathtime Adventures
+Encounter: ferocious roc
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: ferocious roc takes 588 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You gain 8 Strongness
+You gain 11 Wizardliness
+You gain 15 Cheek
+
+[11354] The Old Man's Bathtime Adventures
+Encounter: giant man-eating shark
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: giant man-eating shark takes 610 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You gain 11 Muscleboundness
+You gain 7 Wizardliness
+You gain 17 Smarm
+choice.php?forceoption=0
+
+[11355] The Old Man's Bathtime Adventures
+Encounter: First Mate's Log Entry One
+Took choice 637/1: Add Bristled Man-O-War
+choice.php?pwd&whichchoice=637&option=1
+
+[11356] The Old Man's Bathtime Adventures
+Encounter: Bristled Man-O-War
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bristled man-o-war takes 586 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the uncontrollable urge to dance is evidence of repressed sexual longing," and does a little soft-shoe.
+You acquire an item: old chum
+You gain 7 Strengthliness
+You gain 10 Wizardliness
+You gain 20 Chutzpah
+
+[11357] The Old Man's Bathtime Adventures
+Encounter: ferocious roc
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: ferocious roc takes 588 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You gain 11 Fortitude
+You gain 13 Wizardliness
+You gain 10 Smarm
+
+[11358] The Old Man's Bathtime Adventures
+Encounter: Bristled Man-O-War
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: bristled man-o-war takes 590 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You acquire an item: old chum
+After Battle: DocSavage looks at you, raises an eyebrow, and says &quot;Wait.  Why am I doing all the work?  Take this, and try to pick up some of the slack, would you?&quot;
+You acquire an item: psychoanalytic jar
+You gain 10 Fortitude
+You gain 16 Wizardliness
+You gain 12 Roguishness
+
+[11359] The Old Man's Bathtime Adventures
+Encounter: fearsome giant squid
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: fearsome giant squid takes 595 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You gain 5 Strongness
+You gain 6 Enchantedness
+You gain 23 Sarcasm
+
+familiar Blavious Kloop (20 lbs)
+choice.php?forceoption=0
+
+[11360] The Old Man's Bathtime Adventures
+Encounter: First Mate's Log Entry Two: Electric Boogaloo
+Took choice 639/1: -8 crew, -3 crayons, -17 bubbles, increase NC rate
+choice.php?pwd&whichchoice=639&option=1
+
+[11361] The Old Man's Bathtime Adventures
+Encounter: Bristled Man-O-War
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: bristled man-o-war takes 582 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop loves to dance and cavort! / It's a Kloop's only hobby, religion, and sport!
+You gain 8 Fortitude
+You gain 11 Wizardliness
+You gain 17 Smarm
+
+[11362] The Old Man's Bathtime Adventures
+Encounter: giant man-eating shark
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: giant man-eating shark takes 597 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop is a Kloop born to dance! / A mere glance at its dance sends you into a trance!
+You gain 6 Muscleboundness
+You gain 13 Enchantedness
+You gain 18 Smarm
+
+[11363] The Old Man's Bathtime Adventures
+Encounter: fearsome giant squid
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: fearsome giant squid takes 599 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop loves to dance and cavort! / It's a Kloop's only hobby, religion, and sport!
+You gain 9 Beefiness
+You gain 10 Enchantedness
+You gain 14 Sarcasm
+choice.php?forceoption=0
+
+[11364] The Old Man's Bathtime Adventures
+Encounter: First Mate's Log Entry Three: The Revenge
+Took choice 638/4: Block fearsome giant squid, -13-20 bubbles
+choice.php?pwd&whichchoice=638&option=4
+
+[11365] The Old Man's Bathtime Adventures
+Encounter: ferocious roc
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: ferocious roc takes 595 damage.
+Round 2: boolicious wins the fight!
+After Battle: This Kloop is the best-dancing Kloop that you've seen! / It's a dance from the heart, and the lungs, and the spleen!
+You gain 6 Fortitude
+You gain 14 Magicalness
+You gain 14 Chutzpah
+
+[11366] The Old Man's Bathtime Adventures
+Encounter: ferocious roc
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: ferocious roc takes 593 damage.
+Round 2: boolicious wins the fight!
+After Battle: This Kloop is the best-dancing Kloop that you've seen! / It's a dance from the heart, and the lungs, and the spleen!
+You gain 9 Strongness
+You gain 11 Enchantedness
+You gain 12 Cheek
+
+[11367] The Old Man's Bathtime Adventures
+Encounter: Bristled Man-O-War
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: bristled man-o-war takes 580 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop does a foxtrot, a jig, and a waltz, / And it's wondrous enough to make up for its faults.
+After Battle: Your Kloop drops at your feet a small leatherbound book / With a sly little smile and a mischievous look.
+You acquire an item: devilish folio
+You gain 10 Muscleboundness
+You gain 8 Mysteriousness
+You gain 19 Cheek
+choice.php?forceoption=0
+
+[11368] The Old Man's Bathtime Adventures
+Encounter: First Mate's Log Entry Four: A New Hope
+Took choice 639/2: +3 crayons
+choice.php?pwd&whichchoice=639&option=2
+
+[11369] The Old Man's Bathtime Adventures
+Encounter: ferocious roc
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: ferocious roc takes 589 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop does a foxtrot, a jig, and a waltz, / And it's wondrous enough to make up for its faults.
+You gain 8 Strongness
+You gain a Muscle point!
+You gain 13 Enchantedness
+You gain 13 Roguishness
+
+[11370] The Old Man's Bathtime Adventures
+Encounter: giant man-eating shark
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: giant man-eating shark takes 606 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop is a Kloop born to dance! / A mere glance at its dance sends you into a trance!
+You gain 6 Muscleboundness
+You gain 15 Enchantedness
+You gain 16 Smarm
+
+[11371] The Old Man's Bathtime Adventures
+Encounter: giant man-eating shark
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: giant man-eating shark takes 598 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop does a foxtrot, a jig, and a waltz, / And it's wondrous enough to make up for its faults.
+You gain 8 Fortitude
+You gain 7 Enchantedness
+You gain 20 Cheek
+choice.php?forceoption=0
+
+[11372] The Old Man's Bathtime Adventures
+Encounter: First Mate's Long Entry Five: The Final Frontier
+Took choice 636/2: +3 crew, -8-10 bubbles
+choice.php?pwd&whichchoice=636&option=2
+
+[11373] The Old Man's Bathtime Adventures
+Encounter: fearsome giant squid
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: fearsome giant squid takes 590 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop does a foxtrot, a jig, and a waltz, / And it's wondrous enough to make up for its faults.
+You gain 12 Muscleboundness
+You gain 6 Wizardliness
+You gain 16 Sarcasm
+
+[11374] The Old Man's Bathtime Adventures
+Encounter: Bristled Man-O-War
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+You lose 8 hit points
+Round 2: boolicious attacks!
+Round 3: bristled man-o-war takes 591 damage.
+Round 3: boolicious wins the fight!
+After Battle: The Blavious Kloop does a little soft-shoe / With some shivers and shakes, like a gnu with the flu.
+You gain 7 Strengthliness
+You gain 9 Mysteriousness
+You gain 20 Chutzpah
+
+[11375] The Old Man's Bathtime Adventures
+Encounter: giant man-eating shark
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: giant man-eating shark takes 637 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop does a foxtrot, a jig, and a waltz, / And it's wondrous enough to make up for its faults.
+After Battle: Your Kloop drops at your feet a small leatherbound book / With a sly little smile and a mischievous look.
+You acquire an item: devilish folio
+You gain 10 Beefiness
+You gain 9 Magicalness
+You gain 16 Chutzpah
+choice.php?forceoption=0
+
+[11376] The Old Man's Bathtime Adventures
+Encounter: First Mate's Log Entry Six: City Under Siege
+Took choice 636/3: +2 crayons, +8-11 bubbles
+choice.php?pwd&whichchoice=636&option=3
+
+[11377] The Old Man's Bathtime Adventures
+Encounter: giant man-eating shark
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: giant man-eating shark takes 600 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop is a Kloop born to dance! / A mere glance at its dance sends you into a trance!
+You gain 13 Fortitude
+You gain 8 Mysteriousness
+You gain 14 Sarcasm
+You gain a Moxie point!
+
+[11378] The Old Man's Bathtime Adventures
+Encounter: ferocious roc
+Round 0: boolicious loses initiative!
+Round 1: ferocious roc takes 2 damage.
+Round 1: ferocious roc takes 4 damage.
+You lose 7 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: ferocious roc takes 582 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop leaps and it twirls and it whirls and it scoops! / It does cartwheels and jumps through a set of Kloop hoops!
+After Battle: Your Kloop drops at your feet a small leatherbound book / With a sly little smile and a mischievous look.
+You acquire an item: devilish folio
+You gain 7 Beefiness
+You gain 9 Mysteriousness
+You gain 17 Roguishness
+
+[11379] The Old Man's Bathtime Adventures
+Encounter: ferocious roc
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: ferocious roc takes 594 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop loves to dance and cavort! / It's a Kloop's only hobby, religion, and sport!
+You gain 4 Strongness
+You gain 7 Wizardliness
+You gain 21 Smarm
+choice.php?forceoption=0
+
+[11380] The Old Man's Bathtime Adventures
+Encounter: First Mate's Log Entry Seven: Diamonds are Forever
+Took choice 637/2: Block Deadly Hydra, -3 crayons
+choice.php?pwd&whichchoice=637&option=2
+
+[11381] The Old Man's Bathtime Adventures
+Encounter: Bristled Man-O-War
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+You lose 13 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: bristled man-o-war takes 586 damage.
+Round 3: boolicious wins the fight!
+After Battle: Your Kloop cuts a rug with a twirl and a leap! / He spins round and around, then he drops in a heap!
+You gain 10 Muscleboundness
+You gain 14 Wizardliness
+You gain 14 Sarcasm
+
+[11382] The Old Man's Bathtime Adventures
+Encounter: fearsome giant squid
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fearsome giant squid takes 591 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop starts to jump and to jive, / Doing a Kloop-dance on which Kloops all thrive.
+You gain 6 Beefiness
+You gain 4 Enchantedness
+You gain 25 Sarcasm
+
+[11383] The Old Man's Bathtime Adventures
+Encounter: fearsome giant squid
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fearsome giant squid takes 612 damage.
+Round 2: boolicious wins the fight!
+After Battle: What a dance your Kloop does! What a joy to behold! / He folds and he flounces and shivers like mold!
+You gain 7 Strengthliness
+You gain 14 Enchantedness
+You gain 13 Smarm
+choice.php?forceoption=0
+
+[11384] The Old Man's Bathtime Adventures
+Encounter: First Mate's Log Entry Eight: Resurrection
+Took choice 639/3: +3 crayons, +16 bubbles, -2 crew
+choice.php?pwd&whichchoice=639&option=3
+
+[11385] The Old Man's Bathtime Adventures
+Encounter: Bristled Man-O-War
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: bristled man-o-war takes 584 damage.
+Round 2: boolicious wins the fight!
+After Battle: What a dance your Kloop does! What a joy to behold! / He folds and he flounces and shivers like mold!
+After Battle: Your Kloop drops at your feet a small leatherbound book / With a sly little smile and a mischievous look.
+You acquire an item: devilish folio
+You gain 8 Muscleboundness
+You gain 9 Enchantedness
+You gain 21 Roguishness
+
+[11386] The Old Man's Bathtime Adventures
+Encounter: fearsome giant squid
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: fearsome giant squid takes 604 damage.
+Round 2: boolicious wins the fight!
+After Battle: What a dance your Kloop does! What a joy to behold! / He folds and he flounces and shivers like mold!
+After Battle: Your Kloop drops at your feet a small leatherbound book / With a sly little smile and a mischievous look.
+You acquire an item: devilish folio
+You gain 7 Beefiness
+You gain 9 Magicalness
+You gain 18 Cheek
+
+[11387] The Old Man's Bathtime Adventures
+Encounter: giant man-eating shark
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: giant man-eating shark takes 595 damage.
+Round 2: boolicious wins the fight!
+After Battle: This Kloop is the best-dancing Kloop that you've seen! / It's a dance from the heart, and the lungs, and the spleen!
+You gain 7 Beefiness
+You gain 7 Mysteriousness
+You gain 21 Chutzpah
+choice.php?forceoption=0
+
+[11388] The Old Man's Bathtime Adventures
+Encounter: First Mate's Log Entry Eight: Insurrection
+Took choice 638/2: +13-19 bubbles
+choice.php?pwd&whichchoice=638&option=2
+
+[11389] The Old Man's Bathtime Adventures
+Encounter: ferocious roc
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: ferocious roc takes 600 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop leaps and it twirls and it whirls and it scoops! / It does cartwheels and jumps through a set of Kloop hoops!
+You gain 5 Strengthliness
+You gain 13 Wizardliness
+You gain 16 Sarcasm
+
+[11390] The Old Man's Bathtime Adventures
+Encounter: Bristled Man-O-War
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bristled man-o-war takes 583 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Blavious Kloop loves to dance and cavort! / It's a Kloop's only hobby, religion, and sport!
+You gain 8 Beefiness
+You gain 13 Magicalness
+You gain 15 Cheek
+
+[11391] The Old Man's Bathtime Adventures
+Encounter: fearsome giant squid
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: fearsome giant squid takes 598 damage.
+Round 2: boolicious wins the fight!
+After Battle: The Kloop leaps and it twirls and it whirls and it scoops! / It does cartwheels and jumps through a set of Kloop hoops!
+You gain 3 Fortitude
+You gain 14 Enchantedness
+You gain 18 Smarm
+choice.php?forceoption=0
+
+[11392] The Old Man's Bathtime Adventures
+Encounter: First Mate's Log Entry Nine: The Final Friday
+Took choice 638/4: Block fearsome giant squid, -13-20 bubbles
+choice.php?pwd&whichchoice=638&option=4
+choice.php?forceoption=0
+
+[11393] The Old Man's Bathtime Adventures
+Encounter: Journey's End
+Took choice 635/1: unknown
+choice.php?pwd&whichchoice=635&option=1
+You acquire an item: Young Man's Cargo Load
+
+use 1 Young Man's Cargo Load
+
+[11394] The Old Man's Bathtime Adventures
+Encounter: 
