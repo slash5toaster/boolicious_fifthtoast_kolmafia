@@ -1345,3 +1345,47 @@ You acquire an item: peppermint twist
 [11501] Mix 4 bottle of whiskey + 4 peppermint twist
 You acquire Mint Yulep (4)
 Crafting used 4 each of bottle of whiskey and peppermint twist
+
+cast 5 Summon Resolutions
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be luckier
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be feistier
+
+mallsell: 3 cube of ectoplasm, 1 Young Man's Cargo Load, 5 fish juice box, 2 powdered candy sushi set, 1 whisker pencil, 1 can of sterno, 1 death blossom
+
+manageprices.php?action=update&price0[5405]=133000&limit0[5405]=0&price0[6163]=69000&limit0[6163]=0&price0[5913]=33333&limit0[5913]=0&price0[5104]=31900&limit0[5104]=0&price0[5398]=30000&limit0[5398]=0&price0[5401]=29500&limit0[5401]=0&price0[6173]=20000&limit0[6173]=0&price0[4236]=20000&limit0[4236]=0&price0[5315]=17895&limit0[5315]=0&price0[6239]=10000&limit0[6239]=0&price0[5268]=9005&limit0[5268]=3&price0[5409]=9000&limit0[5409]=0&price0[5231]=8740&limit0[5231]=0&price0[5259]=8000&limit0[5259]=0&price0[5277]=7500&limit0[5277]=0&price0[5252]=7000&limit0[5252]=0&price0[5274]=6700&limit0[5274]=0&price0[5243]=6300&limit0[5243]=0&price0[5471]=5800&limit0[5471]=0&price0[5270]=5600&limit0[5270]=0&price0[5253]=2700&limit0[5253]=0&price0[3301]=1500&limit0[3301]=0&price0[5346]=1395&limit0[5346]=0&price0[5098]=1000&limit0[5098]=0&price0[5091]=900&limit0[5091]=0&price0[5527]=850&limit0[5527]=0&price0[1166]=750&limit0[1166]=0&price0[5094]=600&limit0[5094]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[2680]=300&limit0[2680]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[538]=260&limit0[538]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=0&price0[6074]=250&limit0[6074]=0&price0[6084]=250&limit0[6084]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[6076]=230&limit0[6076]=5&price0[6083]=200&limit0[6083]=0&price0[1840]=200&limit0[1840]=0&price0[1803]=200&limit0[1803]=0&price0[5468]=200&limit0[5468]=0&price0[834]=190&limit0[834]=0&price0[472]=190&limit0[472]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[218]=155&limit0[218]=0&price0[3597]=150&limit0[3597]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[475]=130&limit0[475]=0&price0[1655]=120&limit0[1655]=0&price0[5466]=111&limit0[5466]=0&price0[3019]=110&limit0[3019]=0&price0[6080]=100&limit0[6080]=0&price0[6073]=100&limit0[6073]=0&price0[5469]=100&limit0[5469]=0&price0[1]=100&limit0[1]=0
+manageprices.php?action=update&price0[5405]=133000&limit0[5405]=0&price0[6163]=69000&limit0[6163]=0&price0[5913]=33333&limit0[5913]=0&price0[5104]=31900&limit0[5104]=0&price0[5398]=30000&limit0[5398]=0&price0[5401]=29500&limit0[5401]=0&price0[4236]=20000&limit0[4236]=0&price0[6173]=20000&limit0[6173]=0&price0[5315]=17895&limit0[5315]=0&price0[6239]=10000&limit0[6239]=0&price0[5268]=9005&limit0[5268]=0&price0[5409]=9000&limit0[5409]=0&price0[5231]=8740&limit0[5231]=0&price0[5259]=8000&limit0[5259]=0&price0[5277]=7500&limit0[5277]=0&price0[5252]=7000&limit0[5252]=0&price0[5274]=6700&limit0[5274]=0&price0[5243]=6300&limit0[5243]=0&price0[5471]=5800&limit0[5471]=0&price0[5270]=5600&limit0[5270]=0&price0[5253]=2700&limit0[5253]=0&price0[3301]=1500&limit0[3301]=0&price0[5346]=1395&limit0[5346]=0&price0[5098]=1000&limit0[5098]=0&price0[5091]=900&limit0[5091]=0&price0[5527]=850&limit0[5527]=0&price0[1166]=750&limit0[1166]=0&price0[5094]=600&limit0[5094]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[2680]=300&limit0[2680]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[538]=260&limit0[538]=3&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=0&price0[6074]=250&limit0[6074]=0&price0[6084]=250&limit0[6084]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=5&price0[2093]=230&limit0[2093]=0&price0[6076]=230&limit0[6076]=0&price0[6083]=200&limit0[6083]=0&price0[1840]=200&limit0[1840]=0&price0[1803]=200&limit0[1803]=0&price0[5468]=200&limit0[5468]=0&price0[834]=190&limit0[834]=0&price0[472]=190&limit0[472]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[218]=155&limit0[218]=0&price0[3597]=150&limit0[3597]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[475]=130&limit0[475]=0&price0[1655]=120&limit0[1655]=0&price0[5466]=111&limit0[5466]=0&price0[3019]=110&limit0[3019]=0&price0[6080]=100&limit0[6080]=0&price0[6073]=100&limit0[6073]=0&price0[5469]=100&limit0[5469]=0&price0[1]=100&limit0[1]=0
+
+use 1 lost key
+choice.php?forceoption=0
+Took choice 594/1: unknown
+choice.php?pwd&whichchoice=594&option=1
+Took choice 594/5: unknown
+choice.php?pwd&whichchoice=594&option=5
+Took choice 594/1: unknown
+choice.php?pwd&whichchoice=594&option=1
+Took choice 594/1: unknown
+choice.php?pwd&whichchoice=594&option=1
+Took choice 594/1: unknown
+choice.php?pwd&whichchoice=594&option=1
+Took choice 594/1: unknown
+choice.php?pwd&whichchoice=594&option=1
+Took choice 594/1: unknown
+choice.php?pwd&whichchoice=594&option=1
+Took choice 594/3: unknown
+choice.php?pwd&whichchoice=594&option=3
+Took choice 594/1: unknown
+choice.php?pwd&whichchoice=594&option=1
+Took choice 594/2: unknown
+choice.php?pwd&whichchoice=594&option=2
+Took choice 594/1: unknown
+choice.php?pwd&whichchoice=594&option=1
+Took choice 594/1: unknown
+choice.php?pwd&whichchoice=594&option=1
+You acquire an item: The Lost Glasses
+
+mallsell: 2 The Lost Glasses
+
+manageprices.php?action=update&price0[6083]=200&limit0[6083]=0&price0[3019]=110&limit0[3019]=0&price0[594]=410&limit0[594]=0&price0[622]=272&limit0[622]=0&price0[5243]=6300&limit0[5243]=0&price0[5253]=2700&limit0[5253]=0&price0[3858]=250&limit0[3858]=0&price0[5274]=6700&limit0[5274]=0&price0[5259]=8000&limit0[5259]=0&price0[5405]=133000&limit0[5405]=0&price0[4236]=20000&limit0[4236]=0&price0[5270]=5600&limit0[5270]=0&price0[5252]=7000&limit0[5252]=0&price0[834]=190&limit0[834]=0&price0[5231]=8740&limit0[5231]=0&price0[6239]=10000&limit0[6239]=0&price0[5346]=1395&limit0[5346]=0&price0[472]=190&limit0[472]=0&price0[632]=264&limit0[632]=0&price0[541]=240&limit0[541]=0&price0[1840]=200&limit0[1840]=0&price0[1803]=200&limit0[1803]=0&price0[399]=230&limit0[399]=5&price0[538]=260&limit0[538]=3&price0[5409]=9000&limit0[5409]=0&price0[3864]=164&limit0[3864]=0&price0[5104]=31900&limit0[5104]=0&price0[2979]=250&limit0[2979]=0&price0[5277]=7500&limit0[5277]=0&price0[616]=258&limit0[616]=0&price0[6073]=100&limit0[6073]=0&price0[6080]=100&limit0[6080]=0&price0[218]=155&limit0[218]=0&price0[5268]=9005&limit0[5268]=0&price0[2093]=230&limit0[2093]=0&price0[3597]=150&limit0[3597]=0&price0[3301]=1500&limit0[3301]=0&price0[776]=190&limit0[776]=0&price0[312]=160&limit0[312]=0&price0[475]=130&limit0[475]=0&price0[6074]=250&limit0[6074]=0&price0[6076]=230&limit0[6076]=0&price0[6084]=250&limit0[6084]=0&price0[5398]=30000&limit0[5398]=0&price0[5401]=29500&limit0[5401]=0&price0[299]=150&limit0[299]=0&price0[6173]=20000&limit0[6173]=0&price0[613]=256&limit0[613]=0&price0[5098]=1000&limit0[5098]=0&price0[5094]=600&limit0[5094]=0&price0[5091]=900&limit0[5091]=0&price0[5913]=33333&limit0[5913]=0&price0[5469]=100&limit0[5469]=0&price0[5471]=5800&limit0[5471]=0&price0[5468]=200&limit0[5468]=0&price0[5466]=111&limit0[5466]=0&price0[2613]=150&limit0[2613]=0&price0[1]=100&limit0[1]=0&price0[2680]=300&limit0[2680]=0&price0[2687]=400&limit0[2687]=0&price0[5698]=670&limit0[5698]=0&price0[5527]=850&limit0[5527]=0&price0[1166]=750&limit0[1166]=0&price0[5315]=17895&limit0[5315]=0&price0[1655]=120&limit0[1655]=0&price0[6163]=69000&limit0[6163]=0
