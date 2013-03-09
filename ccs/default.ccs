@@ -1,7 +1,8 @@
 [ default ]
 skill curdle
-skill bake
 skill chop
+jiggle chefstaff
+skill bake
 skill boil
 skill fry
 
