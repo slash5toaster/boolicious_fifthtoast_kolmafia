@@ -1,0 +1,691 @@
+choice.php?forceoption=0
+
+[24] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/2: gain mosquito larva or spooky mushrooms, gain quest coin, get stats or fight a vampire
+choice.php?pwd&whichchoice=502&option=2
+Encounter: Consciousness of a Stream
+Took choice 505/3: fight a spooky vampire
+choice.php?action=auto?whichchoice=505&option=3&pwd
+Encounter: An Interesting Choice
+Took choice 46/1: moxie substats
+choice.php?action=auto?whichchoice=46&option=1&pwd
+You gain 6 Smarm
+You gain a Moxie point!
+choice.php?forceoption=0
+
+[25] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/2: gain mosquito larva or spooky mushrooms, gain quest coin, get stats or fight a vampire
+choice.php?action=auto?whichchoice=502&option=2&pwd
+Encounter: Consciousness of a Stream
+Took choice 505/3: fight a spooky vampire
+choice.php?action=auto?whichchoice=505&option=3&pwd
+Encounter: An Interesting Choice
+Took choice 46/1: moxie substats
+choice.php?action=auto?whichchoice=46&option=1&pwd
+You gain 11 Roguishness
+You gain a Moxie point!
+
+[26] Spooky Forest
+Encounter: wolfman
+Round 0: boolicious loses initiative!
+Adjusted combat item count: Knob Goblin firecracker
+Adjusted combat item count: razor-sharp can lid (2)
+Round 1: fifthtoast attacks!
+Round 2: fifthtoast attacks!
+Round 3: fifthtoast casts CHANCE!
+Round 4: wolfman takes 10 damage.
+Round 4: fifthtoast wins the fight!
+You gain 9 Meat
+You gain 2 Mysteriousness
+You gain a Mysticality point!
+
+[27] Spooky Forest
+Encounter: bar
+Round 0: boolicious wins initiative!
+Round 1: fifthtoast casts CHANCE!
+Round 2: bar takes 10 damage.
+Round 2: fifthtoast wins the fight!
+You gain 16 Meat
+You acquire an item: bar skin
+You gain 1 Magicalness
+You gain 2 Chutzpah
+
+[28] Spooky Forest
+Encounter: triffid
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: triffid takes 10 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: moxie weed
+You acquire an item: spooky stick
+You gain 1 Enchantedness
+You gain 2 Smarm
+You gain a Moxie point!
+
+[29] Spooky Forest
+Encounter: warwelf
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: warwelf takes 10 damage.
+Round 2: fifthtoast wins the fight!
+You gain 12 Meat
+You gain 2 Mysteriousness
+
+[30] Spooky Forest
+Encounter: triffid
+Round 0: boolicious loses initiative!
+You lose 1 hit point
+Round 1: fifthtoast attacks!
+You lose 1 hit point
+Round 2: fifthtoast casts CHANCE!
+Round 3: triffid takes 10 damage.
+Round 3: fifthtoast wins the fight!
+You gain 2 Magicalness
+
+[31] Spooky Forest
+Encounter: triffid
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: triffid takes 10 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: spooky stick
+You gain 1 Magicalness
+You gain 2 Cheek
+choice.php?forceoption=0
+
+[32] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/2: gain mosquito larva or spooky mushrooms, gain quest coin, get stats or fight a vampire
+choice.php?pwd&whichchoice=502&option=2
+Encounter: Consciousness of a Stream
+Took choice 505/1: gain mosquito larva then 3 spooky mushrooms
+choice.php?pwd&whichchoice=505&option=1
+You acquire an item: mosquito larva
+You gain 500 Meat
+
+cast 1 null
+
+shop.php?whichshop=jarl&action=buyitem&quantity=1&whichitem=6185
+--------------------
+6185	consummate hard-boiled egg	461197132	jarl_egg.gif	food	q	0
+# consummate hard-boiled egg
+--------------------
+You acquire an item: consummate hard-boiled egg
+
+eat 1 consummate hard-boiled egg
+You gain 5 Adventures
+You gain 5 Strongness
+You gain a Muscle point!
+You gain 22 Magicalness
+You gain some Mysticality points!
+You gain a Level!
+You gain 9 Roguishness
+You gain 3 Fullness
+
+shop.php?whichshop=jarl&action=buyitem&quantity=1&whichitem=6264
+--------------------
+6264	Staff of Fruit Salad	380538584	jarl_cs7.gif	weapon	q	0
+Staff of Fruit Salad	10	Mys: 0	1-handed chefstaff
+# Staff of Fruit Salad: Jiggle:  Deal Some Prismatic Damage
+Staff of Fruit Salad	Spell Damage: +10, Moxie: +10, MP Regen Min: 2, MP Regen Max: 3
+--------------------
+You acquire an item: Staff of Fruit Salad
+
+equip weapon Staff of Fruit Salad
+
+shop.php?whichshop=jarl&action=buyitem&quantity=1&whichitem=6214
+--------------------
+6214	adequate rum	221120765	jarl_rum.gif	drink	q	0
+# adequate rum
+--------------------
+You acquire an item: adequate rum
+
+drink 1 adequate rum
+You gain 5 Adventures
+You gain 20 Mysteriousness
+You gain a Mysticality point!
+You gain 14 Chutzpah
+You gain a Moxie point!
+You gain 3 Drunkenness
+
+[33] Rest in Clan Sofa (1 turns)
+You gain 3 hit points
+You gain 12 Mojo Points
+
+jarlskills.php?justgothere=1
+jarlskills.php?action=getskill&getskid=14002
+You learned a new skill: Conjure Dough
+
+cast 1 null
+--------------------
+6176	cosmic egg	498063846	cosmic_egg.gif	none	q	0	cosmic eggs
+# cosmic egg
+--------------------
+You acquire cosmic egg (3)
+
+cast 1 null
+--------------------
+6183	cosmic fruit	134418895	cosmic_fruit.gif	none	q	0	cosmic fruits
+# cosmic fruit
+--------------------
+You acquire cosmic fruit (3)
+
+[34] Haunted Pantry
+Encounter: flame-broiled meat blob
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: flame-broiled meat blob takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 18 Meat
+You acquire an item: meat paste
+You acquire an item: meat paste
+You gain 2 Magicalness
+
+[35] Haunted Pantry
+Encounter: The Manor in Which You're Accustomed
+
+[36] Haunted Kitchen
+Encounter: paper towelgeist
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: paper towelgeist takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 2 Enchantedness
+
+[37] Haunted Kitchen
+Encounter: skullery maid
+Round 0: boolicious loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: fifthtoast casts CHANCE!
+Round 3: skullery maid takes 30 damage.
+Round 3: fifthtoast wins the fight!
+You gain 6 Meat
+You acquire an item: bottle of popskull
+You gain 1 Mysteriousness
+You gain 2 Sarcasm
+
+[38] Haunted Kitchen
+Encounter: paper towelgeist
+Round 0: boolicious loses initiative!
+Round 1: fifthtoast casts CHANCE!
+Round 2: paper towelgeist takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: cardboard katana
+You gain 1 Magicalness
+You gain 2 Smarm
+You gain a Moxie point!
+
+[39] Haunted Kitchen
+Encounter: demonic icebox
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: demonic icebox takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 Meat
+You acquire an item: ancient frozen dinner
+You acquire an item: accidental cider
+You gain 1 Beefiness
+You gain 1 Magicalness
+
+[40] Haunted Kitchen
+Encounter: zombie chef
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: zombie chef takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Meat
+You acquire an item: bottle of cooking sherry
+You gain 2 Wizardliness
+You gain 2 Roguishness
+
+[41] Haunted Pantry
+Encounter: Spirit of the Dolphin King
+You acquire an item: Dolphin King's map
+
+use 1 Dolphin King's map
+
+[42] Haunted Pantry
+Encounter: possessed can of tomatoes
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: possessed can of tomatoes takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 2 Meat
+You acquire an item: tomato
+You gain 1 Mysteriousness
+You gain 2 Chutzpah
+
+[43] Haunted Pantry
+Encounter: flame-broiled meat blob
+Round 0: boolicious loses initiative!
+Round 1: fifthtoast casts CHANCE!
+Round 2: flame-broiled meat blob takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 22 Meat
+You acquire an item: meat paste
+You acquire an item: meat paste
+You gain 2 Enchantedness
+
+[44] Haunted Pantry
+Encounter: fiendish can of asparagus
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: fiendish can of asparagus takes 1 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Meat
+You acquire an item: asparagus knife
+You gain 2 Magicalness
+choice.php?forceoption=0
+
+[45] Haunted Pantry
+Encounter: Trespasser
+Took choice 117/2: mysticality substats
+choice.php?pwd&whichchoice=117&option=2
+You gain 7 Mysteriousness
+You gain a Mysticality point!
+
+[46] Haunted Pantry
+Encounter: flame-broiled meat blob
+Round 0: boolicious loses initiative!
+Round 1: fifthtoast jiggles the Staff of Fruit Salad
+Round 2: You jiggle the staff.  A bubble of multicolored energy expands outward from its tip, dealing a lovely 1 (+3) (+4) (+3) (+6) damage to your foe.
+Round 2: flame-broiled meat blob takes 17 damage.
+Round 2: fifthtoast wins the fight!
+You gain 18 Meat
+You acquire an item: meat paste
+You acquire an item: meat paste
+You gain 2 Wizardliness
+
+[47] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: undead elbow macaroni takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 Meat
+You gain 1 Wizardliness
+You gain 2 Cheek
+
+[48] Haunted Pantry
+Encounter: possessed can of tomatoes
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: possessed can of tomatoes takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 Meat
+You acquire an item: razor-sharp can lid
+You acquire an item: tomato
+You gain 2 Wizardliness
+
+[49] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: undead elbow macaroni takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 Meat
+You gain 1 Beefiness
+You gain 1 Enchantedness
+
+[50] Haunted Pantry
+Encounter: fiendish can of asparagus
+Round 0: boolicious loses initiative!
+Round 1: fifthtoast casts CHANCE!
+Round 2: fiendish can of asparagus takes 1 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Meat
+You acquire an item: stalk of asparagus
+You gain 2 Magicalness
+
+[51] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: boolicious loses initiative!
+Round 1: fifthtoast casts CHANCE!
+Round 2: undead elbow macaroni takes 60 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Meat
+You acquire an item: magicalness-in-a-can
+You gain 2 Magicalness
+
+[52] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: boolicious loses initiative!
+Round 1: fifthtoast casts CHANCE!
+Round 2: undead elbow macaroni takes 60 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 Meat
+You acquire an item: magicalness-in-a-can
+You gain 1 Mysteriousness
+You gain 2 Cheek
+
+Visiting Bart Ender
+
+Visiting Bart Ender
+
+[53] Tavern Cellar (row 1, col 4)
+Encounter: drunken rat
+Round 0: boolicious loses initiative!
+Round 1: fifthtoast casts CHANCE!
+Round 2: drunken rat takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 9 Meat
+You acquire an item: rat whisker
+You acquire an item: rat appendix
+You gain 3 Wizardliness
+You gain 2 Smarm
+
+[54] Tavern Cellar (row 1, col 3)
+Encounter: drunken rat
+Round 0: boolicious loses initiative!
+Round 1: fifthtoast casts CHANCE!
+Round 2: drunken rat takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 10 Meat
+You acquire an item: rat whisker
+You acquire an item: rat appendix
+You gain 1 Muscleboundness
+You gain 2 Mysteriousness
+You gain a Mysticality point!
+
+[55] Tavern Cellar (row 1, col 2)
+Encounter: drunken rat
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: drunken rat takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 11 Meat
+You acquire an item: rat whisker
+You gain 3 Enchantedness
+
+[56] Tavern Cellar (row 1, col 1)
+Encounter: drunken rat
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: drunken rat takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 11 Meat
+You acquire an item: rat whisker
+You gain 2 Enchantedness
+You gain 3 Sarcasm
+choice.php?forceoption=0
+
+[57] Tavern Cellar (row 2, col 1)
+Encounter: Those Who Came Before You
+Took choice 510/1: unknown
+choice.php?pwd&whichchoice=510&option=1
+You acquire magical mystery juice (3)
+You acquire an item: glittery mascara
+You acquire an item: shiny ring
+
+equip acc1 shiny ring
+
+[58] Tavern Cellar (row 3, col 1)
+Encounter: drunken rat
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: drunken rat takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 10 Meat
+You acquire an item: rat whisker
+You acquire an item: rat appendix
+You gain 3 Mysteriousness
+choice.php?forceoption=0
+
+[59] Tavern Cellar (row 4, col 1)
+Encounter: Of Course!
+Took choice 509/1: unknown
+choice.php?pwd&whichchoice=509&option=1
+
+Visiting Bart Ender
+You acquire Typical Tavern swill (3)
+
+[60] Tavern Cellar (row 2, col 2)
+Encounter: drunken rat
+Round 0: boolicious loses initiative!
+Round 1: fifthtoast casts CHANCE!
+Round 2: drunken rat takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 10 Meat
+You acquire an item: rat whisker
+You gain 2 Wizardliness
+You gain 3 Cheek
+You gain a Moxie point!
+
+[61] Tavern Cellar (row 5, col 1)
+Encounter: drunken rat
+Round 0: boolicious loses initiative!
+You lose 2 hit points
+Round 1: fifthtoast casts CHANCE!
+Round 2: drunken rat takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 9 Meat
+You acquire an item: rat whisker
+You acquire an item: rat appendix
+You gain 2 Enchantedness
+You gain 2 Roguishness
+
+[62] Tavern Cellar (row 5, col 2)
+Encounter: drunken rat
+Round 0: boolicious loses initiative!
+Round 1: fifthtoast casts CHANCE!
+Round 2: drunken rat takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 9 Meat
+You acquire an item: rat whisker
+You gain 2 Magicalness
+You gain 2 Chutzpah
+
+[63] Tavern Cellar (row 2, col 3)
+Encounter: drunken rat
+Round 0: boolicious loses initiative!
+You lose 2 hit points
+Round 1: fifthtoast plays Garin's Harp!
+Round 2: fifthtoast casts CHANCE!
+Round 3: drunken rat takes 15 damage.
+Round 3: fifthtoast wins the fight!
+You gain 10 Meat
+You acquire an item: rat whisker
+You gain 1 Muscleboundness
+You gain 1 Enchantedness
+You gain 2 Chutzpah
+
+[64] Tavern Cellar (row 4, col 2)
+Encounter: drunken rat
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: drunken rat takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 10 Meat
+You acquire an item: rat whisker
+You gain 4 Mysteriousness
+
+[65] Tavern Cellar (row 5, col 3)
+Encounter: drunken rat
+Round 0: boolicious loses initiative!
+Round 1: fifthtoast casts CHANCE!
+Round 2: drunken rat takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 11 Meat
+You acquire an item: rat whisker
+You acquire an item: rat appendix
+You gain 3 Wizardliness
+You gain a Mysticality point!
+You gain 2 Sarcasm
+
+[66] Haunted Pantry
+Encounter: flame-broiled meat blob
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: flame-broiled meat blob takes 60 damage.
+Round 2: fifthtoast wins the fight!
+You gain 19 Meat
+You acquire an item: meat paste
+You acquire an item: meat paste
+You gain 1 Fortitude
+You gain 1 Enchantedness
+choice.php?forceoption=0
+
+[67] Haunted Pantry
+Encounter: The Singing Tree
+Took choice 116/2: moxie substats
+choice.php?pwd&whichchoice=116&option=2
+You gain 4 Cheek
+choice.php?forceoption=0
+
+[68] Haunted Pantry
+Encounter: Oh No, Hobo
+Took choice 115/3: mysticality, moxie, and meat
+choice.php?pwd&whichchoice=115&option=3
+You gain 6 Meat
+You gain 3 Wizardliness
+You gain 4 Roguishness
+
+[69] Haunted Pantry
+Encounter: fiendish can of asparagus
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: fiendish can of asparagus takes 1 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Meat
+You acquire an item: razor-sharp can lid
+You acquire an item: stalk of asparagus
+You gain 1 Magicalness
+You gain 2 Roguishness
+
+[70] Haunted Pantry
+Encounter: possessed can of tomatoes
+Round 0: boolicious loses initiative!
+Round 1: fifthtoast jiggles the Staff of Fruit Salad
+Round 2: You jiggle the staff.  A bubble of multicolored energy expands outward from its tip, dealing a lovely 3 (+3) (+2) (+3) (+2) damage to your foe.
+Round 2: possessed can of tomatoes takes 13 damage.
+Round 2: fifthtoast wins the fight!
+You gain 2 Meat
+You acquire an item: razor-sharp can lid
+You acquire an item: tomato
+You gain 1 Wizardliness
+You gain 2 Cheek
+You gain a Moxie point!
+
+[71] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: undead elbow macaroni takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Meat
+You acquire an item: magicalness-in-a-can
+You gain 1 Strengthliness
+You gain 1 Wizardliness
+
+[72] Haunted Pantry
+Encounter: possessed can of tomatoes
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: possessed can of tomatoes takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 3 Meat
+You acquire an item: razor-sharp can lid
+You acquire an item: tomato
+You gain 1 Strongness
+You gain 1 Magicalness
+
+Visiting the Captain of the Gourd
+
+[73] Haunted Pantry
+Encounter: possessed can of tomatoes
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: possessed can of tomatoes takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 3 Meat
+You acquire an item: razor-sharp can lid
+You acquire an item: tomato
+You gain 1 Wizardliness
+You gain 2 Cheek
+
+Visiting the Captain of the Gourd
+You acquire an item: gourd potion
+
+use 1 gourd potion
+You gain 32 Mysteriousness
+You gain a Mysticality point!
+You gain a Level!
+
+jarlskills.php?justgothere=1
+jarlskills.php?action=getskill&getskid=14007
+You learned a new skill: The Most Important Meal
+
+[74] Bat Hole Entryway
+Encounter: pine bat
+Round 0: boolicious loses initiative!
+Adjusted combat item count: razor-sharp can lid (-5)
+Round 1: fifthtoast casts CHANCE!
+Round 2: pine bat takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 25 Meat
+You acquire an item: bat wing
+You acquire an item: Pine-Fresh air freshener
+You gain 2 Strongness
+You gain a Muscle point!
+You gain 1 Magicalness
+You gain 2 Sarcasm
+
+equip acc2 Pine-Fresh air freshener
+
+[75] Guano Junction
+Encounter: doughbat
+Round 0: boolicious loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: fifthtoast casts CHANCE!
+Round 3: doughbat takes 15 damage.
+Round 3: fifthtoast wins the fight!
+You gain 17 Meat
+You gain 2 Wizardliness
+You gain 4 Smarm
+
+[76] Guano Junction
+Encounter: perpendicular bat
+Round 0: boolicious wins initiative!
+Round 0: fifthtoast casts CHANCE! (auto-attack)
+Round 2: perpendicular bat takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 31 Meat
+You acquire an item: batgut
+You acquire an item: sonar-in-a-biscuit
+You gain 1 Fortitude
+You gain 1 Magicalness
+You gain 4 Sarcasm
+
+use 1 sonar-in-a-biscuit
+
+[77] Guano Junction
+Encounter: doughbat
+Round 0: boolicious loses initiative!
+You lose 3 hit points
+Round 1: fifthtoast casts CHANCE!
+Round 2: doughbat takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 24 Meat
+You acquire an item: wad of dough
+You gain 2 Magicalness
+You gain 4 Cheek
+
+use 1 magical mystery juice
+You gain 10 Mana Points
+
+[78] Rest in Clan Sofa (1 turns)
+You gain 11 hit points
+
+use 1 moxie weed
+You gain 4 Chutzpah
+You gain a Moxie point!
+
+use 4 magicalness-in-a-can
+You gain 6 Wizardliness
+You gain a Mysticality point!
+
+Visiting the pretentious artist
+
+Visiting the pretentious artist

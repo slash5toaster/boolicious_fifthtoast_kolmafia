@@ -1,0 +1,297 @@
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: Who?
+
+use 1 creepy voodoo doll
+
+buy 3 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (3)
+You spent 150 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless knick-knack
+You acquire an item: worthless trinket
+You acquire an item: worthless gewgaw
+
+trading 3 worthless items for 3 ten-leaf clovers
+You acquire ten-leaf clover (3)
+
+Use 3 ten-leaf clover
+You acquire disassembled clover (3)
+
+[842] Daily Dungeon (Room 0)
+
+[843] Daily Dungeon (Room 2)
+Encounter: Dungeon Fever
+
+[844] Daily Dungeon (Room 3)
+Encounter: Treasure!
+
+[844] Daily Dungeon (Room 4)
+Encounter: You Schmooze, You Lose
+You lose 72 hit points
+
+[845] Daily Dungeon (Room 5)
+Encounter: Brrrrrr.
+You lose 80 hit points
+
+[846] Daily Dungeon (Room 6)
+Encounter: Treasure!
+
+[846] Daily Dungeon (Room 7)
+Encounter: giant giant moth
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: giant giant moth takes 22 damage.
+Round 2: fifthtoast wins the fight!
+You gain 18 Meat
+You gain 1 Strengthliness
+You gain 2 Wizardliness
+You gain 2 Sarcasm
+
+[847] Daily Dungeon (Room 8)
+Encounter: Locked Door
+
+[848] Daily Dungeon (Room 9)
+Encounter: Did I Leave the Floor On?
+You lose 69 hit points
+
+[849] Daily Dungeon (Room 10)
+Encounter: Treasure!
+You acquire an item: fat loot token
+
+cast 1 Conjure Eggs
+You acquire cosmic egg (3)
+
+cast 1 Conjure Fruit
+You acquire cosmic fruit (3)
+
+cast 1 Conjure Vegetables
+You acquire cosmic vegetable (3)
+
+cast 1 Egg Man
+
+cast 1 Conjure Dough
+You acquire cosmic dough (3)
+
+[850] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 59 hit points
+You gain 30 Mana Points
+
+cobbsknob.php?level=3
+
+[851] Menagerie 3
+Encounter: Booze Giant
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: booze giant takes 22 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: booze giant takes 11 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: booze giant takes 75 damage.
+Round 4: booze giant takes 9 damage.
+Round 4: fifthtoast wins the fight!
+You gain 2 Strongness
+You gain 12 Enchantedness
+You gain 6 Smarm
+
+[852] Menagerie 3
+Encounter: Spectral Jellyfish
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: spectral jellyfish takes 22 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: spectral jellyfish takes 12 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: spectral jellyfish takes 75 damage.
+Round 4: spectral jellyfish takes 11 damage.
+Round 4: fifthtoast wins the fight!
+You gain 5 Beefiness
+You gain 8 Wizardliness
+You gain 5 Chutzpah
+
+[853] Menagerie 3
+Encounter: Portly Abomination
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: portly abomination takes 45 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: portly abomination takes 11 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: portly abomination takes 75 damage.
+Round 4: portly abomination takes 11 damage.
+Round 4: fifthtoast wins the fight!
+You gain 83 Meat
+You acquire an item: abominable blubber
+You gain 15 Magicalness
+You gain 4 Roguishness
+
+cobbsknob.php?level=3
+cobbsknob.php?level=3&action=cell37
+cobbsknob.php?level=3&action=cell37
+cobbsknob.php?level=2
+cobbsknob.php?action=dispensary
+You lose 20 hit points
+cobbsknob.php?level=1
+
+[854] Cobb's Knob Barracks
+Encounter: off-duty Knob Goblin Elite Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: off-duty knob goblin elite guard takes 45 damage.
+Round 2: fifthtoast wins the fight!
+You gain 60 Meat
+You acquire an item: Knob Goblin elite polearm
+You acquire an item: Cobb's Knob Wurstbrau
+You gain 5 Mysteriousness
+You gain 3 Cheek
+choice.php?forceoption=0
+
+[855] Cobb's Knob Barracks
+Encounter: Welcome to the Footlocker
+Took choice 522/1: knob jelly donut
+choice.php?pwd&whichchoice=522&option=1
+You acquire an item: Knob jelly donut
+
+[856] Cobb's Knob Barracks
+Encounter: off-duty Knob Goblin Elite Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: off-duty knob goblin elite guard takes 22 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: off-duty knob goblin elite guard takes 22 damage.
+Round 3: fifthtoast wins the fight!
+You gain 54 Meat
+You gain 3 Strengthliness
+You gain 5 Wizardliness
+
+[857] Cobb's Knob Barracks
+Encounter: swarm of Knob lice
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: swarm of knob lice takes 22 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: swarm of knob lice takes 22 damage.
+Round 3: fifthtoast wins the fight!
+You gain 1 Beefiness
+You gain 4 Mysteriousness
+You gain 2 Cheek
+
+[858] eXtreme Slope
+Encounter: sk8 gnome
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: sk8 gnome takes 22 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: sk8 gnome takes 12 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: sk8 gnome takes 75 damage.
+Round 4: sk8 gnome takes 12 damage.
+Round 4: fifthtoast wins the fight!
+You gain 67 Meat
+You acquire an item: t8r tots
+You gain 6 Strengthliness
+You gain 10 Magicalness
+You gain a Mysticality point!
+You gain 4 Roguishness
+
+[859] eXtreme Slope
+Encounter: eXtreme Orcish snowboarder
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: extreme orcish snowboarder takes 22 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: extreme orcish snowboarder takes 10 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: extreme orcish snowboarder takes 75 damage.
+Round 4: extreme orcish snowboarder takes 11 damage.
+Round 4: fifthtoast wins the fight!
+You gain 36 Meat
+You acquire an item: Mountain Stream soda
+You gain 4 Strengthliness
+You gain 9 Magicalness
+You gain 7 Cheek
+
+[860] eXtreme Slope
+Encounter: eXtreme Orcish snowboarder
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: extreme orcish snowboarder takes 22 damage.
+You lose 26 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: extreme orcish snowboarder takes 22 damage.
+You lose 27 hit points
+Round 3: fifthtoast casts BAKE!
+Round 4: extreme orcish snowboarder takes 11 damage.
+You lose 24 hit points
+Round 4: fifthtoast casts CHOP!
+Round 5: extreme orcish snowboarder takes 75 damage.
+Round 5: extreme orcish snowboarder takes 10 damage.
+Round 5: fifthtoast wins the fight!
+You gain 42 Meat
+You acquire an item: Mountain Stream soda
+You gain 4 Muscleboundness
+You gain 9 Enchantedness
+You gain 7 Sarcasm
+
+[861] Rest in Clan Sofa (1 turns)
+You gain 40 hit points
+
+[861] Rest in Clan Sofa (1 turns)
+You gain 4 hit points
+
+[861] Rest in Clan Sofa (1 turns)
+
+use 1 scroll of drastic healing
+choice.php?forceoption=0
+
+[864] eXtreme Slope
+Encounter: Saint Beernard
+Took choice 16/1: snowboarder pants
+choice.php?pwd&whichchoice=16&option=1
+You acquire an item: snowboarder pants
+
+[865] eXtreme Slope
+Encounter: sk8 gnome
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: sk8 gnome takes 22 damage.
+You lose 27 hit points
+Round 2: fifthtoast attacks!
+You lose 27 hit points
+Round 3: fifthtoast executes a macro!
+Round 3: fifthtoast casts CURDLE!
+Round 4: sk8 gnome takes 22 damage.
+You lose 27 hit points
+Round 4: fifthtoast casts BAKE!
+Round 5: sk8 gnome takes 12 damage.
+Round 5: fifthtoast casts CHOP!
+Round 6: sk8 gnome takes 75 damage.
+Round 6: sk8 gnome takes 10 damage.
+Round 6: fifthtoast wins the fight!
+You gain 63 Meat
+You gain 2 Fortitude
+You gain 9 Wizardliness
+You gain 8 Cheek
+
+[866] Rest in Clan Sofa (1 turns)
+You gain 39 hit points
+
+[866] Rest in Clan Sofa (1 turns)
+You gain 10 hit points
+
+[866] Rest in Clan Sofa (1 turns)
+
+use 1 scroll of drastic healing
+outfit eXtreme Cold-Weather Gear
