@@ -1418,3 +1418,61 @@ use 1 Meat maid
 [12015] Muscle Vacation
 Encounter: Bang!
 You acquire an item: stick of dynamite
+
+Visiting Pool Table in clan VIP lounge
+
+clan_viplounge.php?preaction=poolrecords
+
+Visiting Relaxing Hot Tub in clan VIP lounge
+You gain 282 hit points
+
+Visiting April Shower in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+What%3F%22
+
+buy 1 Trivial Avocations Card: What? for 270 each from 1742730 on 20130314
+You acquire an item: Trivial Avocations Card: What?
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #179/1200:
+Question: What was stolen from the Kilmer Museum of Biology on Bill second, 1953?
+Answer: A cauliflower and head cheese sandwich.
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+When%3F%22
+
+buy 1 Trivial Avocations Card: When? for 270 each from 1742730 on 20130314
+You acquire an item: Trivial Avocations Card: When?
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #424/1200:
+Question: When did the Invisible Conflict of Sparkswift Crack begin?
+Answer: A little after three o'clock.
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+Who%3F%22
+
+buy 1 Trivial Avocations Card: Who? for 274 each from 1742730 on 20130314
+You acquire an item: Trivial Avocations Card: Who?
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #816/1200:
+Question: Who won the silver medal for weight-lifting in the 1981 Olympics?
+Answer: A construction worker named Craine Romero.
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+Where%3F%22
+
+buy 1 Trivial Avocations Card: Where? for 260 each from 1742730 on 20130314
+You acquire an item: Trivial Avocations Card: Where?
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1127/1200:
+Question: Where was the Lady of Prefectford tarred and feathered for the crime of drinking right out of the carton?
+Answer: In an ironmongery in Keaton.
