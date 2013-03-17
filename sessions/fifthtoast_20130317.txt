@@ -501,3 +501,135 @@ You acquire an item: scroll of drastic healing
 use 5 tiny house
 You gain 114 hit points
 You gain 109 Mana Points
+
+[1429] Mysticality Vacation
+Encounter: Is it Schizoid Paranoia?
+You acquire an item: tropical orchid
+
+[1432] Moxie Vacation
+Encounter: A Moot Adventure
+You gain 50 Sarcasm
+
+[1435] Moxie Vacation
+Encounter: This mountain is pure snow!
+You gain 57 Roguishness
+You gain a Moxie point!
+
+[1438] Moxie Vacation
+Encounter: An Abominable Encounter
+You acquire abominable snowcone (2)
+You gain 421 Meat
+You acquire an item: dinghy plans
+
+[1441] Moxie Vacation
+Encounter: A Lucky Break
+You gain 48 Cheek
+You acquire an item: cast
+
+[1444] Moxie Vacation
+Encounter: This mountain is pure snow!
+You gain 44 Roguishness
+
+[1447] Moxie Vacation
+Encounter: Wired at the Ski Resort
+You acquire an item: barbed-wire fence
+
+[1450] Muscle Vacation
+Encounter: In the Desert
+You gain 41 Fortitude
+friars blessing 2
+You acquire an effect: Brother Corsican's Blessing (duration: 20 Adventures)
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chewing+gum+on+a+string%22
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+Visiting Hermit
+
+buy 1 dingy planks for 400 each from The General Store
+You acquire an item: dingy planks
+You spent 400 Meat
+
+use 1 dinghy plans
+You acquire an item: dingy dinghy
+
+[1453] Hippy Camp
+Encounter: Ethereal Koi Blossom, the Hippy Vegan Chef:
+
+[1454] Pirate Cove
+Encounter: swarthy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: swarthy pirate takes 15 damage.
+Round 2: fifthtoast attacks!
+Round 3: fifthtoast attacks!
+Round 4: fifthtoast executes a macro!
+Round 4: fifthtoast casts CURDLE!
+Round 5: swarthy pirate takes 15 damage.
+Round 5: fifthtoast casts CHOP!
+Round 6: swarthy pirate takes 50 damage.
+Round 6: fifthtoast wins the fight!
+You gain 26 Meat
+You acquire an item: stuffed shoulder parrot
+You gain 6 Fortitude
+You gain 6 Magicalness
+You gain 7 Smarm
+
+[1455] Pirate Cove
+Encounter: swarthy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: swarthy pirate takes 15 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: swarthy pirate takes 15 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: swarthy pirate takes 50 damage.
+Round 4: fifthtoast wins the fight!
+You gain 25 Meat
+You acquire an item: leotarrrd
+You gain 4 Strengthliness
+You gain 10 Enchantedness
+You gain 6 Sarcasm
+outfit Swashbuckling Getup
+
+buy 1 abridged dictionary for 1000 each from Barrrtleby's Barrrgain Books (Bees Hate You)
+You acquire an item: abridged dictionary
+You spent 1,000 Meat
+
+Visiting the Untinker
+untinker 1 abridged dictionary
+You acquire an item: bridge
+You acquire an item: dictionary
+
+place.php?whichplace=orc_chasm&action=bridge21&pwd=6d82cf19409afed9018b2e9c7c703425
+
+[1456] Orc Chasm
+Encounter: 1335 HaXx0r
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: 1335 haxx0r takes 15 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: 1335 haxx0r takes 15 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: 1335 haxx0r takes 50 damage.
+Round 4: fifthtoast wins the fight!
+You gain 32 Meat
+You acquire an item: Dyspepsi-Cola
+You gain 6 Muscleboundness
+You gain 14 Wizardliness
+You gain 4 Sarcasm
+
+use 1 64735 scroll
+You acquire an item: facsimile dictionary
+You acquire an item: drywall axe
+
+jarlskills.php?justgothere=1
