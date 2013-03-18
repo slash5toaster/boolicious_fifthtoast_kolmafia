@@ -17,8 +17,8 @@ FamiliarTrainingFrame=-8,-8
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=-8,-8,-1
-LoginFrame=465,132,0
+KoLDesktop=395,91,-1
+LoginFrame=582,260,0
 MailboxFrame=289,310,1
 MaximizerFrame=344,104
 MeatManageFrame=450,127
@@ -153,7 +153,7 @@ _poisonArrows=0
 _poolGames=3
 _precisionCasts=0
 _psychoJarFilled=false
-_psychoJarUsed=false
+_psychoJarUsed=true
 _radlibSummons=0
 _raindohCopiesMade=0
 _requestSandwichSucceeded=false
@@ -736,7 +736,7 @@ currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
 currentMojoFilters=0
-currentMood=default
+currentMood=powered
 currentNunneryMeat=87942
 currentPvpVictories
 currentSpleenUse=0
@@ -817,7 +817,7 @@ jungCharge=165
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
-lastAdventure=Dungeons of Doom
+lastAdventure=Fear Man's Level
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -881,12 +881,12 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-lastEncounter=large kobold
+lastEncounter=morbid skull
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
 lastGalleryUnlock=3
-lastGuildStoreOpen=4
+lastGuildStoreOpen=0
 lastGuyMadeOfBeesReset=4
 lastHermitReset=3
 lastHiddenCityAscension=3
@@ -898,7 +898,7 @@ lastManorUnlock=4
 lastMessageCount=15
 lastMessageId
 lastMiningReset=4
-lastNemesisReset=4
+lastNemesisReset=0
 lastPaperStrip3144=zig-zaggy\:KAZAM\:funny
 lastPaperStrip4138=fuzzy\:PYEW\:dangly
 lastPaperStrip4139=wibbly\:PSHOO\:careful
@@ -952,7 +952,7 @@ lastTavernSquare=23
 lastTelescopeReset=4
 lastTempleAdventures=-1
 lastTempleButtonsUnlock=4
-lastTempleUnlock=4
+lastTempleUnlock=0
 lastTowerClimb=4
 lastTr4pz0rQuest=3
 lastVioletFogMap=4
@@ -1129,7 +1129,7 @@ spadingData
 spiceMelangeUsed=false
 spookyPuttyCopiesMade=0
 spookyPuttyMonster=something <i>totally</i> unrecognizable
-stationaryButton1=4009
+stationaryButton1
 stationaryButton2
 stationaryButton3
 stationaryButton4
@@ -1200,11 +1200,11 @@ valueOfStill=0
 valueOfTome=500
 violetFogGoal=0
 violetFogLayout
-volcanoMaze1=2,4,7,9,24,29,32,35,46,58,63,66,72,75,80,82,87,96,105,107,111,128,130,132,136,140,142,151,156,160,163,165
-volcanoMaze2=6,8,10,14,16,31,33,38,40,50,54,57,62,73,77,79,89,93,101,110,112,115,117,120,126,129,135,144,146,154,164
-volcanoMaze3=0,15,18,20,25,27,36,42,45,47,53,60,64,65,68,69,92,100,103,109,113,114,119,122,124,131,134,147,150,152,158,168
-volcanoMaze4=1,11,13,17,19,22,28,34,39,43,49,51,59,61,67,71,78,81,85,86,88,90,95,98,104,106,108,116,123,125,127,133,138,143,145,149,153,161,167
-volcanoMaze5=3,5,12,21,23,26,30,37,41,44,48,52,55,56,70,74,76,83,91,94,97,99,102,118,121,137,139,141,148,155,157,159,162,166
+volcanoMaze1
+volcanoMaze2
+volcanoMaze3
+volcanoMaze4
+volcanoMaze5
 warProgress=finished
 waxMonster
 welcomeBackAdv=0
