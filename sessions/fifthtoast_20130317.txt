@@ -1,0 +1,635 @@
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 933 Meat
+
+use 1 Chester's bag of candy
+You acquire an item: marzipan skull
+You acquire an item: Angry Farmer candy
+You acquire Tasty Fun Good rice candy (2)
+You acquire an item: Yummy Tummy bean
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: Who?
+You acquire an item: Trivial Avocations Card: Where?
+
+use 1 creepy voodoo doll
+
+use 1 Taco Dan's Taco Stand Flier
+You acquire an item: Taco Dan's Taco Stand Chillacious Churro
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chewing+gum+on+a+string%22
+
+buy 3 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (3)
+You spent 150 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless trinket
+You acquire an item: worthless gewgaw
+You acquire an item: worthless knick-knack
+
+trading 3 worthless items for 3 ten-leaf clovers
+You acquire ten-leaf clover (3)
+
+Use 3 ten-leaf clover
+You acquire disassembled clover (3)
+
+cast 1 Conjure Eggs
+You acquire cosmic egg (3)
+
+cast 1 Conjure Vegetables
+You acquire cosmic vegetable (3)
+
+cast 1 Conjure Fruit
+You acquire cosmic fruit (3)
+
+cast 1 Egg Man
+
+cast 1 Conjure Dough
+You acquire cosmic dough (3)
+
+cast 1 Conjure Cheese
+You acquire cosmic cheese (3)
+
+[1402] Daily Dungeon (Room 0)
+
+[1403] Daily Dungeon (Room 2)
+Encounter: Did I Leave the Floor On?
+
+[1404] Daily Dungeon (Room 3)
+Encounter: Treasure!
+
+[1404] Daily Dungeon (Room 4)
+Encounter: tonic water elemental
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tonic water elemental takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 17 Meat
+You gain 5 Muscleboundness
+You gain 5 Mysteriousness
+You gain 2 Chutzpah
+
+[1405] Daily Dungeon (Room 5)
+Encounter: Locked Door
+
+[1405] Daily Dungeon (Room 6)
+Encounter: Treasure!
+
+[1405] Daily Dungeon (Room 7)
+Encounter: Locked Door
+
+[1405] Daily Dungeon (Room 8)
+Encounter: dairy ooze
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: dairy ooze takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 13 Meat
+You gain 4 Beefiness
+You gain 2 Enchantedness
+You gain 4 Chutzpah
+
+[1406] Daily Dungeon (Room 9)
+Encounter: Piledriver
+
+[1407] Daily Dungeon (Room 10)
+Encounter: Treasure!
+You acquire an item: fat loot token
+choice.php?forceoption=0
+
+[1408] Giant's Castle (Ground Floor)
+Encounter: Putting Off Is Off-Putting
+Took choice 673/1: very overdue library book, then skip adventure
+choice.php?pwd&whichchoice=673&option=1
+You acquire an item: very overdue library book
+
+use 1 very overdue library book
+You gain 51 Beefiness
+You gain 72 Mysteriousness
+You gain 73 Sarcasm
+
+[1409] Giant's Castle (Ground Floor)
+Encounter: Top of the Castle, Ma
+
+[1410] Giant's Castle (Top Floor)
+Encounter: Goth Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: goth giant takes 15 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: goth giant takes 15 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: goth giant takes 50 damage.
+Round 4: fifthtoast casts BAKE!
+Round 5: goth giant takes 35 damage.
+Round 5: fifthtoast casts BOIL!
+Round 6: goth giant takes 50 damage.
+Round 6: goth giant takes 33 damage.
+Round 6: fifthtoast wins the fight!
+You gain 160 Meat
+You acquire an item: thin black candle
+You gain 8 Muscleboundness
+You gain 14 Mysteriousness
+You gain 16 Cheek
+
+[1411] Giant's Castle (Top Floor)
+Encounter: Raver Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: raver giant takes 15 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: raver giant takes 15 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: raver giant takes 50 damage.
+Round 4: fifthtoast casts BAKE!
+Round 5: raver giant takes 32 damage.
+Round 5: raver giant takes 2 damage.
+Round 5: raver giant takes 10 damage.
+Round 5: raver giant takes 5 damage.
+You lose 12 hit points
+Round 5: fifthtoast casts BOIL!
+Round 6: raver giant takes 50 damage.
+Round 6: raver giant takes 33 damage.
+Round 6: fifthtoast wins the fight!
+You gain 148 Meat
+You acquire an item: Mick's IcyVapoHotness Rub
+You gain 9 Strengthliness
+You gain 19 Enchantedness
+You gain 13 Chutzpah
+
+[1412] Giant's Castle (Top Floor)
+Encounter: Steampunk Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: steampunk giant takes 15 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: steampunk giant takes 15 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: steampunk giant takes 50 damage.
+Round 4: steampunk giant takes 1 damage.
+Round 4: steampunk giant takes 2 damage.
+Round 4: steampunk giant takes 3 damage.
+You lose 11 hit points
+Round 4: fifthtoast casts BAKE!
+Round 5: steampunk giant takes 38 damage.
+Round 5: fifthtoast casts BOIL!
+Round 6: steampunk giant takes 50 damage.
+Round 6: steampunk giant takes 35 damage.
+Round 6: fifthtoast wins the fight!
+You gain 111 Meat
+You gain 13 Muscleboundness
+You gain 19 Magicalness
+You gain a Mysticality point!
+You gain 9 Sarcasm
+
+[1413] Giant's Castle (Top Floor)
+Encounter: Goth Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: goth giant takes 15 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: goth giant takes 15 damage.
+Round 3: goth giant takes 2 damage.
+Round 3: goth giant takes 3 damage.
+Round 3: goth giant takes 4 damage.
+You lose 8 hit points
+Round 3: fifthtoast casts CHOP!
+Round 4: goth giant takes 50 damage.
+Round 4: fifthtoast casts BAKE!
+Round 5: goth giant takes 31 damage.
+Round 5: fifthtoast casts BOIL!
+Round 6: goth giant takes 50 damage.
+Round 6: goth giant takes 30 damage.
+Round 6: fifthtoast wins the fight!
+You gain 176 Meat
+You gain 9 Fortitude
+You gain 18 Enchantedness
+You gain 9 Roguishness
+
+[1414] Giant's Castle (Top Floor)
+Encounter: Punk Rock Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: punk rock giant takes 15 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: punk rock giant takes 15 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: punk rock giant takes 50 damage.
+Round 4: fifthtoast casts BAKE!
+Round 5: punk rock giant takes 31 damage.
+Round 5: fifthtoast casts BOIL!
+Round 6: punk rock giant takes 50 damage.
+Round 6: punk rock giant takes 27 damage.
+Round 6: fifthtoast wins the fight!
+You gain 47 Meat
+You gain 9 Strongness
+You gain 22 Magicalness
+You gain 10 Roguishness
+
+[1415] Giant's Castle (Top Floor)
+Encounter: Punk Rock Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: punk rock giant takes 15 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: punk rock giant takes 15 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: punk rock giant takes 50 damage.
+Round 4: fifthtoast casts BAKE!
+Round 5: punk rock giant takes 36 damage.
+Round 5: fifthtoast casts BOIL!
+Round 6: punk rock giant takes 50 damage.
+Round 6: punk rock giant takes 36 damage.
+Round 6: fifthtoast wins the fight!
+You gain 52 Meat
+You gain 6 Strengthliness
+You gain 24 Magicalness
+You gain 13 Sarcasm
+
+[1416] Giant's Castle (Top Floor)
+Encounter: Goth Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: goth giant takes 15 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: goth giant takes 15 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: goth giant takes 50 damage.
+Round 4: fifthtoast casts BAKE!
+Round 5: goth giant takes 35 damage.
+Round 5: fifthtoast casts BOIL!
+Round 6: goth giant takes 50 damage.
+Round 6: goth giant takes 35 damage.
+Round 6: fifthtoast wins the fight!
+You gain 175 Meat
+You acquire an item: thin black candle
+You acquire an item: awful poetry journal
+You gain 6 Muscleboundness
+You gain 25 Magicalness
+You gain 5 Sarcasm
+You gain a Moxie point!
+
+[1417] Giant's Castle (Top Floor)
+Encounter: Raver Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: raver giant takes 15 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: raver giant takes 15 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: raver giant takes 50 damage.
+Round 4: fifthtoast casts BAKE!
+Round 5: raver giant takes 33 damage.
+Round 5: fifthtoast casts BOIL!
+Round 6: raver giant takes 50 damage.
+Round 6: raver giant takes 31 damage.
+Round 6: fifthtoast wins the fight!
+You gain 167 Meat
+You acquire an item: Angry Farmer candy
+You gain 11 Beefiness
+You gain a Muscle point!
+You gain 17 Wizardliness
+You gain 11 Roguishness
+
+[1418] Giant's Castle (Top Floor)
+Encounter: Goth Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: goth giant takes 15 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: goth giant takes 15 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: goth giant takes 50 damage.
+Round 4: fifthtoast casts BAKE!
+Round 5: goth giant takes 33 damage.
+Round 5: fifthtoast casts BOIL!
+Round 6: goth giant takes 50 damage.
+Round 6: goth giant takes 31 damage.
+Round 6: fifthtoast wins the fight!
+You gain 136 Meat
+You gain 7 Muscleboundness
+You gain 20 Wizardliness
+You gain 10 Roguishness
+
+[1419] Giant's Castle (Top Floor)
+Encounter: Punk Rock Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: punk rock giant takes 15 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: punk rock giant takes 15 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: punk rock giant takes 100 damage.
+Round 4: fifthtoast casts BAKE!
+Round 5: punk rock giant takes 29 damage.
+Round 5: fifthtoast wins the fight!
+You gain 63 Meat
+You gain 8 Muscleboundness
+You gain 21 Enchantedness
+You gain 13 Roguishness
+choice.php?forceoption=0
+
+[1420] Giant's Castle (Top Floor)
+Encounter: Copper Feel
+Took choice 677/1: With model airship, complete quest, otherwise fight Steampunk Giant
+choice.php?pwd&whichchoice=677&option=1
+Encounter: Keep On Turnin' the Wheel in the Sky
+Took choice 679/1: unknown
+choice.php?pwd&whichchoice=679&option=1
+
+[1422] Giant's Castle (Top Floor)
+Encounter: Steampunk Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: steampunk giant takes 15 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: steampunk giant takes 15 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: steampunk giant takes 50 damage.
+Round 4: fifthtoast attacks!
+Round 5: fifthtoast executes a macro!
+Round 5: fifthtoast casts CURDLE!
+Round 6: steampunk giant takes 15 damage.
+Round 6: fifthtoast executes a macro!
+Round 6: fifthtoast casts CURDLE!
+Round 7: steampunk giant takes 15 damage.
+Round 7: fifthtoast executes a macro!
+Round 7: fifthtoast casts BOIL!
+Round 8: fifthtoast casts CURDLE!
+Round 9: steampunk giant takes 15 damage.
+Round 9: fifthtoast casts CURDLE!
+Round 10: steampunk giant takes 15 damage.
+Round 10: fifthtoast casts CURDLE!
+Round 11: steampunk giant takes 15 damage.
+Round 11: fifthtoast wins the fight!
+You gain 110 Meat
+You acquire an item: brown felt tophat
+You gain 5 Strengthliness
+You gain 28 Wizardliness
+You gain 8 Cheek
+
+[1423] Rest in Clan Sofa (1 turns)
+You gain 50 Mojo Points
+choice.php?forceoption=0
+
+[1424] Giant's Castle (Top Floor)
+Encounter: Yeah, You're for Me, Punk Rock Giant
+Took choice 678/2: 500 meat
+choice.php?pwd&whichchoice=678&option=2
+You gain 458 Meat
+
+[1425] Giant's Castle (Top Floor)
+Encounter: Raver Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: raver giant takes 15 damage.
+Round 2: raver giant takes 1 damage.
+Round 2: raver giant takes 5 damage.
+Round 2: raver giant takes 4 damage.
+You lose 27 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: raver giant takes 15 damage.
+Round 3: raver giant takes 1 damage.
+Round 3: raver giant takes 5 damage.
+Round 3: raver giant takes 4 damage.
+You lose 28 hit points
+Round 3: fifthtoast casts CHOP!
+Round 4: raver giant takes 50 damage.
+Round 4: raver giant takes 2 damage.
+Round 4: raver giant takes 7 damage.
+Round 4: raver giant takes 5 damage.
+You lose 25 hit points
+Round 4: fifthtoast casts BAKE!
+Round 5: raver giant takes 30 damage.
+Round 5: raver giant takes 3 damage.
+Round 5: raver giant takes 6 damage.
+Round 5: raver giant takes 5 damage.
+You lose 25 hit points
+Round 5: fifthtoast wins the fight!
+You gain 173 Meat
+You acquire an item: Mick's IcyVapoHotness Rub
+You acquire an item: rave whistle
+You gain 10 Beefiness
+You gain 18 Wizardliness
+You gain a Mysticality point!
+You gain 10 Chutzpah
+
+[1426] Giant's Castle (Top Floor)
+Encounter: Punk Rock Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: punk rock giant takes 30 damage.
+Round 2: punk rock giant takes 2 damage.
+Round 2: punk rock giant takes 2 damage.
+Round 2: punk rock giant takes 5 damage.
+You lose 32 hit points
+
+[1427] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 98 hit points
+You gain 117 Mana Points
+You acquire an item: giant discarded plastic fork
+
+[1427] Giant's Castle (Top Floor)
+Encounter: Raver Giant
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: raver giant takes 15 damage.
+Round 2: raver giant takes 2 damage.
+Round 2: raver giant takes 6 damage.
+Round 2: raver giant takes 3 damage.
+You lose 29 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: raver giant takes 15 damage.
+Round 3: raver giant takes 1 damage.
+Round 3: raver giant takes 9 damage.
+Round 3: raver giant takes 3 damage.
+You lose 28 hit points
+Round 3: fifthtoast casts CHOP!
+Round 4: raver giant takes 50 damage.
+Round 4: raver giant takes 2 damage.
+Round 4: raver giant takes 10 damage.
+Round 4: raver giant takes 5 damage.
+You lose 28 hit points
+Round 4: fifthtoast casts BAKE!
+Round 5: raver giant takes 31 damage.
+Round 5: fifthtoast wins the fight!
+You gain 140 Meat
+You acquire an item: Angry Farmer candy
+You gain 6 Strongness
+You gain 19 Enchantedness
+You gain 16 Smarm
+choice.php?forceoption=0
+
+[1428] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/2: Penultimate Fantasy chest
+choice.php?pwd&whichchoice=182&option=2
+You acquire an item: Penultimate Fantasy chest
+
+use 3 Penultimate Fantasy chest
+You gain 403 Meat
+You acquire super-spiky hair gel (6)
+You acquire soft green echo eyedrop antidote (2)
+You acquire cocoa eggshell fragment (2)
+You acquire an item: tiny house
+You acquire phonics down (2)
+You acquire an item: scroll of drastic healing
+
+use 5 tiny house
+You gain 114 hit points
+You gain 109 Mana Points
+
+[1429] Mysticality Vacation
+Encounter: Is it Schizoid Paranoia?
+You acquire an item: tropical orchid
+
+[1432] Moxie Vacation
+Encounter: A Moot Adventure
+You gain 50 Sarcasm
+
+[1435] Moxie Vacation
+Encounter: This mountain is pure snow!
+You gain 57 Roguishness
+You gain a Moxie point!
+
+[1438] Moxie Vacation
+Encounter: An Abominable Encounter
+You acquire abominable snowcone (2)
+You gain 421 Meat
+You acquire an item: dinghy plans
+
+[1441] Moxie Vacation
+Encounter: A Lucky Break
+You gain 48 Cheek
+You acquire an item: cast
+
+[1444] Moxie Vacation
+Encounter: This mountain is pure snow!
+You gain 44 Roguishness
+
+[1447] Moxie Vacation
+Encounter: Wired at the Ski Resort
+You acquire an item: barbed-wire fence
+
+[1450] Muscle Vacation
+Encounter: In the Desert
+You gain 41 Fortitude
+friars blessing 2
+You acquire an effect: Brother Corsican's Blessing (duration: 20 Adventures)
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chewing+gum+on+a+string%22
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+Visiting Hermit
+
+buy 1 dingy planks for 400 each from The General Store
+You acquire an item: dingy planks
+You spent 400 Meat
+
+use 1 dinghy plans
+You acquire an item: dingy dinghy
+
+[1453] Hippy Camp
+Encounter: Ethereal Koi Blossom, the Hippy Vegan Chef:
+
+[1454] Pirate Cove
+Encounter: swarthy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: swarthy pirate takes 15 damage.
+Round 2: fifthtoast attacks!
+Round 3: fifthtoast attacks!
+Round 4: fifthtoast executes a macro!
+Round 4: fifthtoast casts CURDLE!
+Round 5: swarthy pirate takes 15 damage.
+Round 5: fifthtoast casts CHOP!
+Round 6: swarthy pirate takes 50 damage.
+Round 6: fifthtoast wins the fight!
+You gain 26 Meat
+You acquire an item: stuffed shoulder parrot
+You gain 6 Fortitude
+You gain 6 Magicalness
+You gain 7 Smarm
+
+[1455] Pirate Cove
+Encounter: swarthy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: swarthy pirate takes 15 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: swarthy pirate takes 15 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: swarthy pirate takes 50 damage.
+Round 4: fifthtoast wins the fight!
+You gain 25 Meat
+You acquire an item: leotarrrd
+You gain 4 Strengthliness
+You gain 10 Enchantedness
+You gain 6 Sarcasm
+outfit Swashbuckling Getup
+
+buy 1 abridged dictionary for 1000 each from Barrrtleby's Barrrgain Books (Bees Hate You)
+You acquire an item: abridged dictionary
+You spent 1,000 Meat
+
+Visiting the Untinker
+untinker 1 abridged dictionary
+You acquire an item: bridge
+You acquire an item: dictionary
+
+place.php?whichplace=orc_chasm&action=bridge21&pwd=6d82cf19409afed9018b2e9c7c703425
+
+[1456] Orc Chasm
+Encounter: 1335 HaXx0r
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: 1335 haxx0r takes 15 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: 1335 haxx0r takes 15 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: 1335 haxx0r takes 50 damage.
+Round 4: fifthtoast wins the fight!
+You gain 32 Meat
+You acquire an item: Dyspepsi-Cola
+You gain 6 Muscleboundness
+You gain 14 Wizardliness
+You gain 4 Sarcasm
+
+use 1 64735 scroll
+You acquire an item: facsimile dictionary
+You acquire an item: drywall axe
+
+jarlskills.php?justgothere=1

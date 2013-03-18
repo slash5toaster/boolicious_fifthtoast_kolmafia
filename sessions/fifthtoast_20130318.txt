@@ -1,0 +1,131 @@
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 918 Meat
+
+use 1 Chester's bag of candy
+You acquire marzipan skull (2)
+You acquire an item: Angry Farmer candy
+You acquire Tasty Fun Good rice candy (2)
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Who?
+You acquire an item: Trivial Avocations Card: Who?
+You acquire an item: Trivial Avocations Card: Where?
+
+use 1 creepy voodoo doll
+
+use 1 Taco Dan's Taco Stand Flier
+You acquire an item: Taco Dan's Taco Stand Taco
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chewing+gum+on+a+string%22
+
+buy 3 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (3)
+You spent 150 Meat
+
+add to closet: 1 worthless knick-knack
+
+use 3 chewing gum on a string
+You acquire an item: worthless trinket
+You acquire an item: worthless gewgaw
+You acquire an item: worthless knick-knack
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 4 worthless items for 4 ten-leaf clovers
+You acquire ten-leaf clover (4)
+
+Use 4 ten-leaf clover
+You acquire disassembled clover (4)
+
+cast 1 Conjure Eggs
+You acquire cosmic egg (3)
+
+cast 1 Conjure Fruit
+You acquire cosmic fruit (3)
+
+cast 1 Conjure Vegetables
+You acquire cosmic vegetable (3)
+
+cast 1 Egg Man
+
+cast 1 Conjure Cheese
+You acquire cosmic cheese (3)
+
+cast 1 Conjure Dough
+You acquire cosmic dough (3)
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #195/1200:
+Question: What did Meriadoc Belvedere's brother find in the pickle jar on Boozember sixth, 1972?
+Answer: Prime Minister Jack XIV, ruler of Blurstishire and the Four-Color Plains.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #319/1200:
+Question: According to <u>Thoughts of the Mountain Lions</u>, the book of prophecies revered by worshipers of The Skull Giant Arc'klor, when was Krampus the Frost Rust Monster supposed to walk the earth, destroying all the works of man?
+Answer: Beer o'clock.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #775/1200:
+Question: Who wrote the seizure-inducing sci-fi novel <u>Vizier of the Street Samurai's Moose</u>?
+Answer: A sugar glider.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1066/1200:
+Question: Where was Morris I, Marquess of X'tn'ch'roth, assassinated?
+Answer: The province of Bacon.
+
+[1457] Daily Dungeon (Room 1)
+Encounter: giant giant moth
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: giant giant moth takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 19 Meat
+You gain 2 Beefiness
+You gain 3 Wizardliness
+You gain 3 Smarm
+
+[1458] Daily Dungeon (Room 2)
+Encounter: The Night Gallery
+
+[1459] Daily Dungeon (Room 3)
+Encounter: Treasure!
+
+[1459] Daily Dungeon (Room 4)
+Encounter: Locked Door
+You lose 13 hit points
+
+[1460] Daily Dungeon (Room 5)
+Encounter: Locked Door
+
+[1461] Daily Dungeon (Room 6)
+Encounter: Treasure!
+
+[1461] Daily Dungeon (Room 7)
+Encounter: Dungeon Fever
+
+[1462] Daily Dungeon (Room 8)
+Encounter: Locked Door
+
+[1463] Daily Dungeon (Room 9)
+Encounter: Seriously, I Just Read It For the Articles
+
+[1464] Daily Dungeon (Room 10)
+Encounter: Treasure!
+You acquire an item: fat loot token
