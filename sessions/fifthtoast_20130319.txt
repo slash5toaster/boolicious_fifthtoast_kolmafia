@@ -1,0 +1,2420 @@
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 1,044 Meat
+
+use 1 Chester's bag of candy
+You acquire an item: marzipan skull
+You acquire Angry Farmer candy (2)
+You acquire Yummy Tummy bean (2)
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Who?
+You acquire an item: Trivial Avocations Card: Who?
+You acquire an item: Trivial Avocations Card: Who?
+
+use 1 creepy voodoo doll
+
+use 1 Taco Dan's Taco Stand Flier
+You acquire an item: Taco Dan's Taco Stand Taco
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chewing+gum+on+a+string%22
+
+buy 4 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (4)
+You spent 200 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless gewgaw
+You acquire an item: worthless knick-knack
+You acquire an item: worthless trinket
+
+add to closet: 1 worthless trinket
+
+add to closet: 1 worthless gewgaw
+
+add to closet: 1 worthless knick-knack
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless trinket
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless gewgaw
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 4 worthless items for 4 ten-leaf clovers
+You acquire ten-leaf clover (4)
+
+Use 4 ten-leaf clover
+You acquire disassembled clover (4)
+
+[1465] Daily Dungeon (Room 1)
+Encounter: Locked Door
+
+[1466] Daily Dungeon (Room 2)
+Encounter: Locked Door
+
+[1467] Daily Dungeon (Room 3)
+Encounter: Treasure!
+
+[1467] Daily Dungeon (Room 4)
+Encounter: Locked Door
+
+[1468] Daily Dungeon (Room 5)
+Encounter: vampire clam
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: vampire clam takes 15 damage.
+Round 2: fifthtoast wins the fight!
+You gain 22 Meat
+You gain 2 Muscleboundness
+You gain 4 Wizardliness
+You gain 3 Chutzpah
+
+[1469] Daily Dungeon (Room 6)
+Encounter: Treasure!
+
+[1469] Daily Dungeon (Room 7)
+Encounter: A Hairier Barrier
+
+[1470] Daily Dungeon (Room 8)
+Encounter: Blister in the Sun
+
+[1471] Daily Dungeon (Room 9)
+Encounter: Smooth Criminal
+
+[1472] Daily Dungeon (Room 10)
+Encounter: Treasure!
+You acquire an item: fat loot token
+
+[1473] Barrrney's Barrr
+Encounter: The Right to Bear Arrrrms
+You gain 60 Fortitude
+You gain a Muscle point!
+
+[1474] Barrrney's Barrr
+Encounter: You and the Cap'm Make it Hap'm
+You acquire an item: Cap'm Caronch's Map
+
+use 1 Cap'm Caronch's Map
+
+[1475] Cap'm Caronch's Map
+Encounter: booty crab
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: booty crab takes 15 damage.
+Round 2: fifthtoast casts CHOP!
+Round 3: booty crab takes 38 damage.
+Round 3: fifthtoast casts BAKE!
+Round 4: booty crab takes 32 damage.
+Round 4: fifthtoast wins the fight!
+You gain 296 Meat
+You acquire an item: Cap'm Caronch's nasty booty
+You gain 6 Muscleboundness
+You gain 17 Magicalness
+You gain 6 Sarcasm
+Encounter: This Adventure Bites
+You acquire an item: Orcish Frat House blueprints
+
+use 1 Orcish Frat House blueprints
+
+[1477] Orcish Frathouse Blueprints
+choice.php?forceoption=0
+Encounter: The Infiltrationist
+Took choice 188/3: frilly skirt (NOT equipped) + 3 hot wings (29 in inventory)
+choice.php?pwd&whichchoice=188&option=3
+You lose 93 hit points
+
+[1478] Rest in Clan Sofa (2 turns)
+You gain 100 hit points
+You gain 101 Mojo Points
+
+[1478] Rest in Clan Sofa (1 turns)
+You gain 37 hit points
+You gain 49 Mojo Points
+
+[1481] Frat House
+Encounter: Orcish Frat Boy
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: orcish frat boy (pledge) takes 15 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: orcish frat boy (pledge) takes 15 damage.
+Round 3: fifthtoast wins the fight!
+You gain 35 Meat
+You acquire an item: bottle of vodka
+You gain 5 Beefiness
+You gain 3 Enchantedness
+You gain 6 Cheek
+
+[1482] Frat House
+Encounter: Orcish Frat Boy
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: orcish frat boy (music lover) takes 30 damage.
+Round 2: fifthtoast wins the fight!
+You gain 32 Meat
+You gain 2 Strengthliness
+You gain 9 Enchantedness
+You gain 3 Smarm
+
+[1483] Frat House
+Encounter: Orcish Frat Boy
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: orcish frat boy (paddler) takes 15 damage.
+Round 2: fifthtoast attacks!
+Round 3: fifthtoast attacks!
+Round 4: fifthtoast executes a macro!
+Round 4: fifthtoast casts CURDLE!
+Round 5: orcish frat boy (paddler) takes 15 damage.
+Round 5: fifthtoast wins the fight!
+You gain 37 Meat
+You gain 3 Strengthliness
+You gain 7 Mysteriousness
+You gain 4 Cheek
+
+[1484] Rest in your dwelling
+You gain 98 hit points
+You gain 69 Mana Points
+outfit Filthy Hippy Disguise
+outfit Frat Boy Ensemble
+
+cast 1 Conjure Eggs
+You acquire cosmic egg (3)
+
+cast 1 Conjure Vegetables
+You acquire cosmic vegetable (3)
+
+cast 1 Conjure Fruit
+You acquire cosmic fruit (3)
+
+cast 1 Egg Man
+
+cast 1 Conjure Dough
+You acquire cosmic dough (3)
+
+cast 1 Conjure Cheese
+You acquire cosmic cheese (3)
+
+use 1 Orcish Frat House blueprints
+
+[1484] Orcish Frathouse Blueprints
+choice.php?forceoption=0
+Encounter: The Infiltrationist
+Took choice 188/1: Frat Boy Ensemble (equipped)
+choice.php?pwd&whichchoice=188&option=1
+You acquire an item: Cap'm Caronch's dentures
+Encounter: 
+outfit Swashbuckling Getup
+Encounter: Step Up to the Table, Put the Ball in Play
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #102/1200:
+Question: What was stolen from the Bale Museum of Quantum Mechanics on Jarlsuary tenth, 1955?
+Answer: A mandolin belonging to the Bishop of Zevroozlchester.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #321/1200:
+Question: According to <u>Goldthwait of the Vampire's Embers</u>, the book of prophecies revered by worshipers of The Death Giant Baaaal, when was Krampus the Demon Githyanki supposed to walk the earth, destroying all the works of man?
+Answer: According to the old calendar, the eighteenth day of the Month of the Beaver in the Year of the Coffee Cup.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #755/1200:
+Question: Who won the liverwurst medal for synchronized discus-throwing in the 1925 Olympics?
+Answer: Lady Perry I, ruler of Coney Island and the Indefatigable Plains.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1134/1200:
+Question: Where did Mr. Clancy McDurkee, inventor of the steam-powered crock-pot, get arrested for jaywalking?
+Answer: The Fabulous Canyons of Bale.
+choice.php?forceoption=0
+
+[1486] Barrrney's Barrr
+Encounter: Arrr You Man Enough?
+Took choice 187/2: Try later
+choice.php?pwd&whichchoice=187&option=2
+
+[1486] Barrrney's Barrr
+Encounter: tipsy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tipsy pirate takes 15 damage.
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: fifthtoast executes a macro!
+Round 3: fifthtoast casts CURDLE!
+Round 4: tipsy pirate takes 15 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: tipsy pirate takes 50 damage.
+Round 5: fifthtoast wins the fight!
+You gain 48 Meat
+You acquire an item: bottle of rum
+You gain 8 Fortitude
+You gain 8 Mysteriousness
+You gain 9 Cheek
+
+[1487] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tetchy pirate takes 30 damage.
+Round 2: tetchy pirate takes 1 damage.
+Round 2: tetchy pirate takes 10 damage.
+Round 2: tetchy pirate takes 4 damage.
+You lose 6 hit points
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: fifthtoast executes a macro!
+Round 3: fifthtoast casts CURDLE!
+Round 4: tetchy pirate takes 15 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: tetchy pirate takes 100 damage.
+Round 5: fifthtoast wins the fight!
+You gain 46 Meat
+You gain 4 Fortitude
+You gain 12 Wizardliness
+You gain 9 Sarcasm
+You gain a Moxie point!
+
+equip weapon Maxwell's Silver Hammer
+
+equip weapon Staff of Blood and Pudding
+
+[1488] Barrrney's Barrr
+Encounter: Abstinence Makes the Heart Grow Fonder
+You gain 60 Enchantedness
+
+[1489] Barrrney's Barrr
+Encounter: toothy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: toothy pirate takes 18 damage.
+Round 2: fifthtoast jiggles the Staff of Blood and Pudding
+Round 3: You jiggle the staff toward your opponent.  A stream of blood bursts from his body and pours into yours, dealing 8 damage and healing you.
+Round 3: toothy pirate takes 8 damage.
+Round 3: You gain 8 hit points.
+Round 3: fifthtoast executes a macro!
+Round 3: fifthtoast casts CURDLE!
+Round 4: toothy pirate takes 37 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: toothy pirate takes 62 damage.
+Round 5: fifthtoast wins the fight!
+You gain 50 Meat
+You gain 2 Muscleboundness
+You gain 11 Wizardliness
+You gain 13 Chutzpah
+
+[1490] Barrrney's Barrr
+Encounter: tipsy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tipsy pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: tipsy pirate takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tipsy pirate takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 53 Meat
+You gain 5 Strengthliness
+You gain 11 Wizardliness
+You gain a Mysticality point!
+You gain 8 Sarcasm
+
+[1491] Barrrney's Barrr
+Encounter: tipsy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tipsy pirate takes 18 damage.
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: fifthtoast executes a macro!
+Round 3: fifthtoast casts CURDLE!
+Round 4: tipsy pirate takes 18 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: tipsy pirate takes 125 damage.
+Round 5: fifthtoast wins the fight!
+You gain 50 Meat
+You gain 4 Fortitude
+You gain 13 Wizardliness
+You gain 8 Roguishness
+
+[1492] Barrrney's Barrr
+Encounter: tipsy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tipsy pirate takes 18 damage.
+Round 2: tipsy pirate takes 1 damage.
+Round 2: tipsy pirate takes 5 damage.
+Round 2: tipsy pirate takes 3 damage.
+You lose 5 hit points
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+Round 3: tipsy pirate drops 10 attack power.
+Round 3: tipsy pirate drops 9 defense.
+Round 3: fifthtoast executes a macro!
+Round 3: fifthtoast casts CURDLE!
+Round 4: tipsy pirate takes 18 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: tipsy pirate takes 62 damage.
+Round 5: fifthtoast wins the fight!
+You gain 42 Meat
+You gain 4 Strengthliness
+You gain 13 Enchantedness
+You gain 6 Chutzpah
+
+[1493] Barrrney's Barrr
+Encounter: Abstinence Makes the Heart Grow Fonder
+You gain 60 Enchantedness
+
+[1494] Barrrney's Barrr
+Encounter: tipsy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tipsy pirate takes 18 damage.
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: fifthtoast executes a macro!
+Round 3: fifthtoast casts CURDLE!
+Round 4: tipsy pirate takes 18 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: tipsy pirate takes 62 damage.
+Round 5: fifthtoast wins the fight!
+You gain 44 Meat
+You acquire an item: bottle of rum
+You acquire an item: cocktail napkin
+You gain 3 Fortitude
+You gain 13 Enchantedness
+You gain 9 Cheek
+
+[1495] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tetchy pirate takes 18 damage.
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+Round 3: tetchy pirate drops 10 attack power.
+Round 3: tetchy pirate drops 9 defense.
+Round 3: fifthtoast executes a macro!
+Round 3: fifthtoast casts CURDLE!
+Round 4: tetchy pirate takes 18 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: tetchy pirate takes 62 damage.
+Round 5: fifthtoast wins the fight!
+You gain 47 Meat
+You acquire an item: bottle of rum
+You gain 4 Strengthliness
+You gain 13 Enchantedness
+You gain 6 Roguishness
+
+[1496] Barrrney's Barrr
+Encounter: Arrr You Man Enough?
+Took choice 187/2: Try later
+choice.php?pwd&whichchoice=187&option=2&choiceform2=Back+off
+
+[1496] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tetchy pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: fifthtoast casts CURDLE!
+Round 4: tetchy pirate takes 37 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: tetchy pirate takes 62 damage.
+Round 5: fifthtoast wins the fight!
+You gain 44 Meat
+You gain 7 Strongness
+You gain 9 Magicalness
+You gain 10 Smarm
+
+[1497] Barrrney's Barrr
+Encounter: toothy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: toothy pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+Round 3: toothy pirate drops 10 attack power.
+Round 3: toothy pirate drops 10 defense.
+Round 3: fifthtoast casts CURDLE!
+Round 4: toothy pirate takes 18 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: toothy pirate takes 62 damage.
+Round 5: fifthtoast wins the fight!
+You gain 51 Meat
+You gain 7 Beefiness
+You gain 14 Mysteriousness
+You gain 4 Cheek
+
+[1498] Barrrney's Barrr
+Encounter: Get Real
+You gain 66 Cheek
+
+[1499] Barrrney's Barrr
+Encounter: Get Real
+You gain 66 Chutzpah
+You gain a Moxie point!
+
+[1500] Barrrney's Barrr
+Encounter: The Right to Bear Arrrrms
+You gain 60 Strongness
+You gain a Muscle point!
+
+[1501] Barrrney's Barrr
+Encounter: tipsy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tipsy pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: tipsy pirate takes 3 damage.
+Round 3: tipsy pirate takes 9 damage.
+Round 3: tipsy pirate takes 4 damage.
+You lose 6 hit points
+Round 3: fifthtoast casts CURDLE!
+Round 4: tipsy pirate takes 18 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: tipsy pirate takes 62 damage.
+Round 5: fifthtoast wins the fight!
+You gain 49 Meat
+You acquire an item: bottle of rum
+You gain 11 Fortitude
+You gain 8 Wizardliness
+You gain 5 Smarm
+
+[1502] Barrrney's Barrr
+Encounter: tipsy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tipsy pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+Round 3: tipsy pirate drops 8 attack power.
+Round 3: tipsy pirate drops 8 defense.
+Round 3: fifthtoast casts CURDLE!
+Round 4: tipsy pirate takes 18 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: tipsy pirate takes 62 damage.
+Round 5: fifthtoast wins the fight!
+You gain 44 Meat
+You acquire an item: cocktail napkin
+You gain 6 Beefiness
+You gain 11 Enchantedness
+You gain 7 Sarcasm
+
+[1503] Barrrney's Barrr
+Encounter: toothy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: toothy pirate takes 37 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: fifthtoast casts CURDLE!
+Round 4: toothy pirate takes 18 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: toothy pirate takes 62 damage.
+Round 5: fifthtoast wins the fight!
+You gain 43 Meat
+You acquire an item: bottle of rum
+You gain 11 Fortitude
+You gain 8 Wizardliness
+You gain 6 Sarcasm
+
+[1504] Barrrney's Barrr
+Encounter: tipsy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tipsy pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+Round 3: tipsy pirate drops 8 attack power.
+Round 3: tipsy pirate drops 10 defense.
+Round 3: fifthtoast casts CURDLE!
+Round 4: tipsy pirate takes 18 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: tipsy pirate takes 62 damage.
+Round 5: fifthtoast wins the fight!
+You gain 52 Meat
+You gain 9 Strengthliness
+You gain 8 Wizardliness
+You gain 7 Chutzpah
+
+[1505] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tetchy pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+Round 3: tetchy pirate drops 10 attack power.
+Round 3: tetchy pirate drops 9 defense.
+Round 3: fifthtoast casts CURDLE!
+Round 4: tetchy pirate takes 18 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: tetchy pirate takes 62 damage.
+Round 5: fifthtoast wins the fight!
+You gain 42 Meat
+You gain 6 Beefiness
+You gain 12 Enchantedness
+You gain 7 Cheek
+
+[1506] Barrrney's Barrr
+Encounter: Arrr You Man Enough?
+Took choice 187/1: 35.71% chance of winning
+choice.php?pwd&whichchoice=187&option=1&choiceform1=Step+up
+Insult: In all my years I've not seen a more loathsome worm than yerself!
+Retort: It can't be any worse than the smell of your breath!
+
+[1507] Barrrney's Barrr
+Encounter: Arrr You Man Enough?
+Took choice 187/2: Try later
+choice.php?pwd&whichchoice=187&option=2&choiceform2=Back+off
+
+[1507] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tetchy pirate takes 37 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: fifthtoast casts CURDLE!
+Round 4: tetchy pirate takes 18 damage.
+Round 4: tetchy pirate takes 2 damage.
+Round 4: tetchy pirate takes 7 damage.
+Round 4: tetchy pirate takes 3 damage.
+You lose 7 hit points
+Round 4: fifthtoast casts CHOP!
+Round 5: tetchy pirate takes 62 damage.
+Round 5: fifthtoast wins the fight!
+You gain 46 Meat
+You gain 8 Beefiness
+You gain 11 Wizardliness
+You gain a Mysticality point!
+You gain 6 Roguishness
+
+[1508] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tetchy pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: fifthtoast casts CURDLE!
+Round 4: tetchy pirate takes 18 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: tetchy pirate takes 62 damage.
+Round 5: fifthtoast wins the fight!
+You gain 43 Meat
+You gain 9 Muscleboundness
+You gain 7 Enchantedness
+You gain 9 Roguishness
+
+[1509] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tetchy pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: fifthtoast casts CURDLE!
+Round 4: tetchy pirate takes 18 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: tetchy pirate takes 62 damage.
+Round 5: fifthtoast wins the fight!
+You gain 40 Meat
+You gain 5 Strongness
+You gain 11 Magicalness
+You gain 8 Sarcasm
+
+[1510] Barrrney's Barrr
+Encounter: toothy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: toothy pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: fifthtoast casts CURDLE!
+Round 4: toothy pirate takes 18 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: toothy pirate takes 125 damage.
+Round 5: fifthtoast wins the fight!
+You gain 50 Meat
+You acquire an item: bottle of rum
+You gain 4 Muscleboundness
+You gain 10 Mysteriousness
+You gain 11 Cheek
+
+[1511] Barrrney's Barrr
+Encounter: Get Real
+You gain 66 Roguishness
+You gain a Moxie point!
+
+[1512] Barrrney's Barrr
+Encounter: tipsy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tipsy pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+Round 3: tipsy pirate drops 9 attack power.
+Round 3: tipsy pirate drops 8 defense.
+Round 3: fifthtoast casts CURDLE!
+Round 4: tipsy pirate takes 18 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: tipsy pirate takes 62 damage.
+Round 5: fifthtoast wins the fight!
+You gain 43 Meat
+You acquire an item: bottle of rum
+You acquire an item: cocktail napkin
+You gain 5 Strengthliness
+You gain 12 Enchantedness
+You gain 7 Smarm
+
+[1513] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tetchy pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: fifthtoast casts CURDLE!
+Round 4: tetchy pirate takes 18 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: tetchy pirate takes 62 damage.
+Round 5: fifthtoast wins the fight!
+You gain 40 Meat
+You acquire an item: bottle of rum
+You gain 6 Fortitude
+You gain 14 Magicalness
+You gain 5 Roguishness
+
+[1514] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tetchy pirate takes 18 damage.
+Round 2: tetchy pirate takes 3 damage.
+Round 2: tetchy pirate takes 10 damage.
+Round 2: tetchy pirate takes 5 damage.
+You lose 6 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: fifthtoast casts CURDLE!
+Round 4: tetchy pirate takes 18 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: tetchy pirate takes 62 damage.
+Round 5: fifthtoast wins the fight!
+You gain 41 Meat
+You acquire an item: cocktail napkin
+You gain 5 Beefiness
+You gain 12 Mysteriousness
+You gain 8 Roguishness
+
+[1515] Barrrney's Barrr
+Encounter: Get Real
+You gain 66 Smarm
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #55/1200:
+Question: What did Ol' B. J. Martin, mayor of Bacon, find when he opened the time capsule that had been buried under the King on Jarlsuary 1st, 1902?
+Answer: A broccoli that looked just like the Lord of Waxtoff.
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+When%3F%22
+
+buy 1 Trivial Avocations Card: When? for 289 each from 871883 on 20130319
+You acquire an item: Trivial Avocations Card: When?
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #463/1200:
+Question: When did the Last Hullabaloo of The Pistol-Packing Mountains begin?
+Answer: Half past five.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #888/1200:
+Question: Who wrote the psychedelia-influenced sci-fi novel <u>Nebula of the Unimaginable Tribe</u>?
+Answer: Grand Lord Leroy XII's Vietnamese pot-bellied pig.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1025/1200:
+Question: Where was the Tsar of X'tn'ch'roth given a Chicago overcoat for the crime of hacking the gibson?
+Answer: The Impossible Plains of Lemonbury Grove.
+
+[1516] Barrrney's Barrr
+Encounter: toothy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: toothy pirate takes 18 damage.
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: fifthtoast executes a macro!
+Round 3: fifthtoast uses the The Big Book of Pirate Insults!
+Round 4: fifthtoast casts CHOP!
+Round 5: toothy pirate takes 62 damage.
+Round 5: fifthtoast wins the fight!
+You gain 48 Meat
+You gain 7 Muscleboundness
+You gain 10 Enchantedness
+You gain 8 Chutzpah
+
+[1517] Barrrney's Barrr
+Encounter: Arrr You Man Enough?
+Took choice 187/1: 100.00% chance of winning
+choice.php?pwd&whichchoice=187&option=1&choiceform1=Step+up
+Insult: Suck on <i>this</i>, ye miserable, pestilent wretch!
+Retort: I'm not really comfortable being compared to your girlfriend that way.
+choice.php?forceoption=0
+
+[1518] Barrrney's Barrr
+Encounter: Arrr You Man Enough?
+Took choice 187/1: 100.00% chance of winning
+choice.php?pwd&whichchoice=187&option=1
+Insult: Do ye hear that, ye craven blackguard?  It be the sound of yer doom!
+Retort: It can't be any worse than the smell of your breath!
+Insult: When I'm through with ye, ye'll be crying like a little girl!
+Retort: It's an honor to learn from such an expert in the field.
+Insult: Arrr, the power of me serve'll flay the skin from yer bones!
+Retort: Obviously neither your tongue nor your wit is sharp enough for the job.
+
+[1519] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tetchy pirate takes 18 damage.
+Round 2: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 3: fifthtoast attacks!
+Round 4: fifthtoast casts CHOP!
+Round 5: tetchy pirate takes 62 damage.
+Round 5: fifthtoast wins the fight!
+You gain 41 Meat
+You acquire an item: bottle of rum
+You gain 6 Beefiness
+You gain 16 Enchantedness
+You gain 3 Chutzpah
+
+[1520] F'c'le
+Encounter: creamy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: creamy pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: creamy pirate takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: creamy pirate takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 64 Meat
+You acquire an item: ball polish
+You acquire an item: Oil of Parrrlay
+You acquire an item: creamsicle
+You acquire an item: cream stout
+You gain 6 Fortitude
+You gain 16 Magicalness
+You gain 7 Cheek
+
+use 1 ball polish
+
+[1521] F'c'le
+Encounter: chatty pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: chatty pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: chatty pirate takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: chatty pirate takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 58 Meat
+You gain 5 Strengthliness
+You gain 13 Mysteriousness
+You gain 11 Chutzpah
+
+[1522] F'c'le
+Encounter: Chatterboxing
+Took choice 191/1: moxie substats
+choice.php?whichchoice=191&option=1&pwd
+You gain 110 Smarm
+You gain a Moxie point!
+
+[1523] F'c'le
+Encounter: chatty pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: chatty pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: chatty pirate takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: chatty pirate takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 65 Meat
+You gain 6 Muscleboundness
+You gain 14 Mysteriousness
+You gain 8 Sarcasm
+
+[1524] F'c'le
+Encounter: crusty pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: crusty pirate takes 1 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: crusty pirate takes 1 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: crusty pirate takes 62 damage.
+Round 4: fifthtoast jiggles the Staff of Blood and Pudding
+Round 5: You jiggle the staff toward your opponent.  A stream of blood bursts from his body and pours into yours, dealing 7 damage and healing you.
+Round 5: crusty pirate takes 7 damage.
+Round 5: You gain 7 hit points.
+Round 5: fifthtoast casts BAKE!
+Round 6: crusty pirate takes 29 damage.
+Round 6: fifthtoast wins the fight!
+You gain 63 Meat
+You gain 3 Strongness
+You gain 19 Magicalness
+You gain 7 Sarcasm
+
+[1525] F'c'le
+Encounter: curmudgeonly pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: curmudgeonly pirate takes 18 damage.
+Round 2: fifthtoast casts CHOP!
+Round 3: curmudgeonly pirate takes 62 damage.
+Round 3: fifthtoast jiggles the Staff of Blood and Pudding
+Round 4: You jiggle the staff toward your opponent.  A stream of blood bursts from his body and pours into yours, dealing 10 damage and healing you.
+Round 4: curmudgeonly pirate takes 10 damage.
+Round 4: You gain 10 hit points.
+Round 4: fifthtoast wins the fight!
+You gain 69 Meat
+You acquire an item: mizzenmast mop
+You gain 7 Muscleboundness
+You gain 15 Magicalness
+You gain 7 Sarcasm
+
+[1526] F'c'le
+Encounter: chatty pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: chatty pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: chatty pirate takes 37 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: chatty pirate takes 125 damage.
+Round 4: fifthtoast wins the fight!
+You gain 59 Meat
+You gain 5 Beefiness
+You gain 18 Magicalness
+You gain 5 Smarm
+
+[1527] F'c'le
+Encounter: An Impractical Joke
+You gain 56 Chutzpah
+
+[1528] F'c'le
+Encounter: cleanly pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: cleanly pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: cleanly pirate takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: cleanly pirate takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 65 Meat
+You acquire an item: Tom's of the Spanish Main Toothpaste
+You gain 5 Beefiness
+You gain 15 Enchantedness
+You gain a Mysticality point!
+You gain 8 Smarm
+
+[1529] F'c'le
+Encounter: cleanly pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: cleanly pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: cleanly pirate takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: cleanly pirate takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 73 Meat
+You acquire an item: Tom's of the Spanish Main Toothpaste
+You acquire an item: Swabbie&trade; swab
+You gain 5 Strongness
+You gain a Muscle point!
+You gain 14 Magicalness
+You gain 10 Smarm
+
+[1530] F'c'le
+Encounter: clingy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: clingy pirate takes 37 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: clingy pirate takes 37 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: clingy pirate takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 69 Meat
+You gain 6 Strongness
+You gain 14 Mysteriousness
+You gain 10 Roguishness
+
+[1531] F'c'le
+Encounter: creamy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: creamy pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: creamy pirate takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: creamy pirate takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 54 Meat
+You gain 11 Strongness
+You gain 7 Mysteriousness
+You gain 11 Sarcasm
+You gain a Moxie point!
+
+[1532] F'c'le
+Encounter: curmudgeonly pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: curmudgeonly pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: curmudgeonly pirate takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: curmudgeonly pirate takes 125 damage.
+Round 4: fifthtoast wins the fight!
+You gain 66 Meat
+You acquire an item: curmudgel
+You acquire an item: all-purpose cleaner
+You gain 7 Muscleboundness
+You gain 12 Enchantedness
+You gain 10 Chutzpah
+
+[1533] F'c'le
+Encounter: crusty pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: crusty pirate takes 1 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: crusty pirate takes 1 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: crusty pirate takes 62 damage.
+Round 4: fifthtoast jiggles the Staff of Blood and Pudding
+Round 5: You jiggle the staff toward your opponent.  A stream of blood bursts from his body and pours into yours, dealing 7 damage and healing you.
+Round 5: crusty pirate takes 7 damage.
+Round 5: You gain 7 hit points.
+Round 5: fifthtoast casts BAKE!
+Round 6: crusty pirate takes 31 damage.
+Round 6: fifthtoast wins the fight!
+You gain 72 Meat
+You gain 11 Strengthliness
+You gain 11 Wizardliness
+You gain 6 Roguishness
+
+[1534] F'c'le
+Encounter: crusty pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: crusty pirate takes 1 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: crusty pirate takes 1 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: crusty pirate takes 62 damage.
+Round 4: fifthtoast jiggles the Staff of Blood and Pudding
+Round 5: You jiggle the staff toward your opponent.  A stream of blood bursts from his body and pours into yours, dealing 5 damage and healing you.
+Round 5: crusty pirate takes 5 damage.
+Round 5: You gain 5 hit points.
+Round 5: fifthtoast casts BAKE!
+Round 6: crusty pirate takes 28 damage.
+Round 6: fifthtoast wins the fight!
+You gain 66 Meat
+You acquire an item: barrrnacle
+You gain 8 Strongness
+You gain 11 Magicalness
+You gain 10 Smarm
+
+[1535] F'c'le
+Encounter: chatty pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: chatty pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: chatty pirate takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: chatty pirate takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 69 Meat
+You gain 5 Fortitude
+You gain 13 Wizardliness
+You gain 10 Cheek
+
+[1536] F'c'le
+Encounter: curmudgeonly pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: curmudgeonly pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: curmudgeonly pirate takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: curmudgeonly pirate takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 63 Meat
+You acquire an item: all-purpose cleaner
+You acquire an item: handful of sawdust
+You gain 9 Strengthliness
+You gain 13 Magicalness
+You gain 8 Smarm
+
+[1537] F'c'le
+Encounter: cleanly pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: cleanly pirate takes 18 damage.
+Round 2: fifthtoast casts CHOP!
+Round 3: cleanly pirate takes 62 damage.
+Round 3: fifthtoast jiggles the Staff of Blood and Pudding
+Round 4: You jiggle the staff toward your opponent.  A stream of blood bursts from his body and pours into yours, dealing 7 damage and healing you.
+Round 4: cleanly pirate takes 7 damage.
+Round 4: You gain 7 hit points.
+Round 4: fifthtoast wins the fight!
+You gain 73 Meat
+You acquire an item: Tom's of the Spanish Main Toothpaste
+You gain 7 Fortitude
+You gain 15 Mysteriousness
+You gain 7 Sarcasm
+
+[1538] F'c'le
+Encounter: clingy pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: clingy pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: clingy pirate takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: clingy pirate takes 125 damage.
+Round 4: fifthtoast wins the fight!
+You gain 71 Meat
+You gain 7 Fortitude
+You gain 12 Mysteriousness
+You gain 10 Cheek
+
+[1539] F'c'le
+Encounter: cleanly pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: cleanly pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: cleanly pirate takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: cleanly pirate takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 60 Meat
+You acquire an item: Tom's of the Spanish Main Toothpaste
+You gain 6 Strengthliness
+You gain 14 Wizardliness
+You gain 10 Chutzpah
+
+[1540] F'c'le
+Encounter: Come on Baby, Find My Pliers
+You gain 50 Strengthliness
+
+[1541] F'c'le
+Encounter: crusty pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: crusty pirate takes 1 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: crusty pirate takes 1 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: crusty pirate takes 62 damage.
+Round 4: fifthtoast jiggles the Staff of Blood and Pudding
+Round 5: You jiggle the staff toward your opponent.  A stream of blood bursts from his body and pours into yours, dealing 5 damage and healing you.
+Round 5: crusty pirate takes 5 damage.
+Round 5: You gain 5 hit points.
+Round 5: fifthtoast casts BAKE!
+Round 6: crusty pirate takes 28 damage.
+Round 6: fifthtoast wins the fight!
+You gain 70 Meat
+You gain 8 Fortitude
+You gain 14 Enchantedness
+You gain 8 Chutzpah
+
+[1542] F'c'le
+Encounter: chatty pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: chatty pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: chatty pirate takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: chatty pirate takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 54 Meat
+You gain 11 Fortitude
+You gain a Muscle point!
+You gain 7 Enchantedness
+You gain 13 Cheek
+
+[1543] F'c'le
+Encounter: cleanly pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: cleanly pirate takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: cleanly pirate takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: cleanly pirate takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 62 Meat
+You acquire an item: rigging shampoo
+You gain 11 Strongness
+You gain 11 Magicalness
+You gain 8 Cheek
+
+[1544] F'c'le
+Encounter: Chatterboxing
+Took choice 191/1: moxie substats
+choice.php?whichchoice=191&option=1&pwd
+You gain 118 Smarm
+You gain a Moxie point!
+
+use 1 mizzenmast mop
+
+use 1 rigging shampoo
+
+[1545] F'c'le
+Encounter: A Fledgling Pirate Is You!
+You gain 3,000 Meat
+You acquire an item: pirate fledges
+
+equip acc3 pirate fledges
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #33/1200:
+Question: What did Ignatz Paulson's dad find behind the toilet on Porktober first, 1911?
+Answer: A pumpkin and olive loaf sandwich.
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+When%3F%22
+
+buy 1 Trivial Avocations Card: When? for 289 each from 352918 on 20130319
+You acquire an item: Trivial Avocations Card: When?
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #374/1200:
+Question: When did the Wibbleford Stabbing Scientists win the national duck, duck, goose championship?
+Answer: According to the old calendar, the thirtieth day of the Month of the Moose in the Year of the Trolley-car.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #783/1200:
+Question: Who patented the internal combustion digital fork-cleaner?
+Answer: Pope Joachim X's guinea pig.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1036/1200:
+Question: Where was Huckleberry XV, Tsar of Wibbleford, elected?
+Answer: The village of Bobcat.
+
+[1546] F'c'le
+Encounter: cleanly pirate
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: cleanly pirate takes 18 damage.
+Round 2: fifthtoast casts CHOP!
+Round 3: cleanly pirate takes 62 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: cleanly pirate takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 68 Meat
+You gain 6 Fortitude
+You gain 16 Magicalness
+You gain 7 Cheek
+choice.php?forceoption=0
+
+[1547] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 84/3: Lord Spookyraven's spectacles
+choice.php?pwd&whichchoice=84&option=3
+You acquire an item: Lord Spookyraven's spectacles
+
+equip acc1 Lord Spookyraven's spectacles
+choice.php?forceoption=0
+
+[1548] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 84/2: mysticality substats
+choice.php?pwd&whichchoice=84&option=2
+You gain 95 Enchantedness
+You gain a Mysticality point!
+
+[1549] Haunted Bedroom
+Encounter: animated nightstand
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: animated nightstand (mahogany) takes 18 damage.
+Round 2: fifthtoast casts CHOP!
+Round 3: animated nightstand (mahogany) takes 62 damage.
+Round 3: fifthtoast jiggles the Staff of Blood and Pudding
+Round 4: You jiggle the staff toward your opponent.  A stream of blood bursts from its body and pours into yours, dealing 8 damage and healing you.
+Round 4: animated nightstand (mahogany) takes 8 damage.
+Round 4: You gain 8 hit points.
+Round 4: fifthtoast casts BAKE!
+Round 5: animated nightstand (mahogany) takes 17 damage.
+You lose 26 hit points
+Round 5: fifthtoast casts BOIL!
+Round 6: animated nightstand (mahogany) takes 62 damage.
+Round 6: animated nightstand (mahogany) takes 18 damage.
+Round 6: fifthtoast wins the fight!
+You acquire an item: half of a memo
+You acquire an item: old leather wallet
+You acquire an item: old coin purse
+You gain 7 Muscleboundness
+You gain 20 Enchantedness
+You gain 15 Chutzpah
+choice.php?forceoption=0
+
+[1550] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 82/1: old leather wallet
+choice.php?pwd&whichchoice=82&option=1
+You acquire an item: old leather wallet
+
+use 2 old leather wallet
+You gain 1,006 Meat
+
+[1551] Haunted Bedroom
+Encounter: animated nightstand
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: animated nightstand (mahogany) takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: animated nightstand (mahogany) takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: animated nightstand (mahogany) takes 62 damage.
+Round 4: fifthtoast jiggles the Staff of Blood and Pudding
+Round 5: You jiggle the staff toward your opponent.  A stream of blood bursts from its body and pours into yours, dealing 6 damage and healing you.
+Round 5: animated nightstand (mahogany) takes 6 damage.
+Round 5: You gain 6 hit points.
+Round 5: fifthtoast casts BAKE!
+Round 6: animated nightstand (mahogany) takes 17 damage.
+You lose 26 hit points
+Round 6: fifthtoast casts BOIL!
+Round 7: animated nightstand (mahogany) takes 62 damage.
+Round 7: animated nightstand (mahogany) takes 15 damage.
+Round 7: fifthtoast wins the fight!
+You acquire an item: old coin purse
+You gain 10 Beefiness
+You gain 23 Enchantedness
+You gain 8 Cheek
+choice.php?forceoption=0
+
+[1552] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 85/1: moxie and ballroom key step 1
+choice.php?pwd&whichchoice=85&option=1
+You gain 111 Smarm
+You gain a Moxie point!
+choice.php?forceoption=0
+
+[1553] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 84/2: mysticality substats
+choice.php?pwd&whichchoice=84&option=2
+You gain 104 Enchantedness
+You gain a Mysticality point!
+
+[1554] Haunted Bedroom
+Encounter: animated nightstand
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: animated nightstand (white) takes 37 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: animated nightstand (white) takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: animated nightstand (white) takes 62 damage.
+Round 4: fifthtoast jiggles the Staff of Blood and Pudding
+Round 5: You jiggle the staff toward your opponent.  A stream of blood bursts from its body and pours into yours, dealing 6 damage and healing you.
+Round 5: animated nightstand (white) takes 6 damage.
+Round 5: You gain 6 hit points.
+Round 5: fifthtoast casts BAKE!
+Round 6: animated nightstand (white) takes 17 damage.
+You lose 26 hit points
+Round 6: fifthtoast casts BOIL!
+Round 7: animated nightstand (white) takes 62 damage.
+Round 7: animated nightstand (white) takes 16 damage.
+Round 7: fifthtoast wins the fight!
+You acquire an item: grouchy restless spirit
+You gain 17 Strongness
+You gain 19 Enchantedness
+You gain 6 Sarcasm
+choice.php?forceoption=0
+
+[1555] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 82/2: muscle substats
+choice.php?pwd&whichchoice=82&option=2
+You gain 101 Fortitude
+You gain a Muscle point!
+
+[1556] Haunted Bedroom
+Encounter: animated nightstand
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: animated nightstand (mahogany) takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: animated nightstand (mahogany) takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: animated nightstand (mahogany) takes 62 damage.
+You lose 27 hit points
+Round 4: fifthtoast jiggles the Staff of Blood and Pudding
+Round 5: You jiggle the staff toward your opponent.  A stream of blood bursts from its body and pours into yours, dealing 9 damage and healing you.
+Round 5: animated nightstand (mahogany) takes 9 damage.
+Round 5: You gain 9 hit points.
+Round 5: fifthtoast casts BAKE!
+Round 6: animated nightstand (mahogany) takes 14 damage.
+Round 6: fifthtoast casts BOIL!
+Round 7: animated nightstand (mahogany) takes 125 damage.
+Round 7: animated nightstand (mahogany) takes 14 damage.
+Round 7: fifthtoast wins the fight!
+You acquire an item: old leather wallet
+You acquire an item: old coin purse
+You gain 8 Strongness
+You gain 25 Mysteriousness
+You gain 9 Smarm
+
+use 3 old coin purse
+You gain 1,496 Meat
+
+use 1 old leather wallet
+You gain 491 Meat
+
+manor2.php?place=ballroom
+
+[1557] Haunted Bathroom
+Encounter: malevolent hair clog
+Round 0: fifthtoast loses initiative!
+You lose 18 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: malevolent hair clog takes 36 damage.
+Round 2: fifthtoast casts CHOP!
+Round 3: malevolent hair clog takes 62 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: gob of wet hair
+You gain 4 Fortitude
+You gain 8 Enchantedness
+You gain 14 Cheek
+
+[1558] Haunted Bathroom
+Encounter: claw-foot bathtub
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: claw-foot bathtub takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: claw-foot bathtub takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: claw-foot bathtub takes 62 damage.
+Round 4: fifthtoast jiggles the Staff of Blood and Pudding
+Round 5: You jiggle the staff toward your opponent.  A stream of blood bursts from its body and pours into yours, dealing 7 damage and healing you.
+Round 5: claw-foot bathtub takes 7 damage.
+Round 5: You gain 7 hit points.
+Round 5: fifthtoast wins the fight!
+You acquire an item: bottle of Monsieur Bubble
+You acquire an item: fancy bath salts
+You gain 5 Strengthliness
+You gain 9 Mysteriousness
+You gain 11 Sarcasm
+
+[1559] Haunted Bathroom
+Encounter: toilet papergeist
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: toilet papergeist takes 36 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: toilet papergeist takes 36 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: toilet papergeist takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: roll of toilet paper
+You gain 2 Fortitude
+You gain 11 Wizardliness
+You gain 10 Chutzpah
+
+[1560] Haunted Bathroom
+Encounter: claw-foot bathtub
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: claw-foot bathtub takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: claw-foot bathtub takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: claw-foot bathtub takes 62 damage.
+Round 4: fifthtoast jiggles the Staff of Blood and Pudding
+Round 5: You jiggle the staff toward your opponent.  A stream of blood bursts from its body and pours into yours, dealing 8 damage and healing you.
+Round 5: claw-foot bathtub takes 8 damage.
+Round 5: You gain 8 hit points.
+Round 5: fifthtoast wins the fight!
+You acquire an item: fancy bath salts
+You gain 5 Muscleboundness
+You gain 10 Magicalness
+You gain 8 Sarcasm
+
+[1561] Haunted Bathroom
+Encounter: claw-foot bathtub
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: claw-foot bathtub takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: claw-foot bathtub takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: claw-foot bathtub takes 62 damage.
+Round 4: fifthtoast jiggles the Staff of Blood and Pudding
+Round 5: You jiggle the staff toward your opponent.  A stream of blood bursts from its body and pours into yours, dealing 8 damage and healing you.
+Round 5: claw-foot bathtub takes 8 damage.
+Round 5: You gain 8 hit points.
+Round 5: fifthtoast wins the fight!
+You acquire an item: fancy bath salts
+You gain 4 Fortitude
+You gain 14 Enchantedness
+You gain 5 Cheek
+
+[1562] Haunted Bathroom
+Encounter: claw-foot bathtub
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: claw-foot bathtub takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: claw-foot bathtub takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: claw-foot bathtub takes 62 damage.
+Round 4: fifthtoast jiggles the Staff of Blood and Pudding
+Round 5: You jiggle the staff toward your opponent.  A stream of blood bursts from its body and pours into yours, dealing 8 damage and healing you.
+Round 5: claw-foot bathtub takes 8 damage.
+Round 5: You gain 8 hit points.
+Round 5: fifthtoast wins the fight!
+You acquire an item: bottle of Monsieur Bubble
+You gain 7 Muscleboundness
+You gain 9 Enchantedness
+You gain 8 Sarcasm
+
+[1563] Haunted Bedroom
+Encounter: animated nightstand
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: animated nightstand (mahogany) takes 18 damage.
+You lose 27 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: animated nightstand (mahogany) takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: animated nightstand (mahogany) takes 125 damage.
+Round 4: fifthtoast jiggles the Staff of Blood and Pudding
+Round 5: You jiggle the staff toward your opponent.  A stream of blood bursts from its body and pours into yours, dealing 5 damage and healing you.
+Round 5: animated nightstand (mahogany) takes 5 damage.
+Round 5: You gain 5 hit points.
+Round 5: fifthtoast casts BAKE!
+Round 6: animated nightstand (mahogany) takes 16 damage.
+Round 6: fifthtoast wins the fight!
+You acquire an item: old leather wallet
+You acquire an item: old coin purse
+You gain 10 Fortitude
+You gain 21 Enchantedness
+You gain 11 Smarm
+
+[1564] Rest in Clan Sofa (2 turns)
+You gain 95 hit points
+You gain 100 Mojo Points
+
+[1566] Haunted Bedroom
+Encounter: animated nightstand
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: animated nightstand (white) takes 18 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: animated nightstand (white) takes 18 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: animated nightstand (white) takes 125 damage.
+Round 4: fifthtoast jiggles the Staff of Blood and Pudding
+Round 5: You jiggle the staff toward your opponent.  A stream of blood bursts from its body and pours into yours, dealing 10 damage and healing you.
+Round 5: animated nightstand (white) takes 10 damage.
+Round 5: You gain 10 hit points.
+Round 5: fifthtoast casts BAKE!
+Round 6: animated nightstand (white) takes 15 damage.
+Round 6: fifthtoast wins the fight!
+You acquire an item: grouchy restless spirit
+You gain 12 Strengthliness
+You gain 17 Wizardliness
+You gain 14 Chutzpah
+
+[1567] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 83/1: old coin purse
+choice.php?whichchoice=83&option=1&pwd
+You acquire an item: old coin purse
+
+[1568] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 82/1: old leather wallet
+choice.php?whichchoice=82&option=1&pwd
+You acquire an item: old leather wallet
+
+[1569] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 84/2: mysticality substats
+choice.php?whichchoice=84&option=2&pwd
+You gain 100 Wizardliness
+You gain a Mysticality point!
+
+[1570] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 82/1: old leather wallet
+choice.php?whichchoice=82&option=1&pwd
+You acquire an item: old leather wallet
+
+[1571] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 84/2: mysticality substats
+choice.php?whichchoice=84&option=2&pwd
+You gain 102 Enchantedness
+
+[1572] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 85/1: moxie
+choice.php?whichchoice=85&option=1&pwd
+You gain 111 Smarm
+You gain a Moxie point!
+choice.php?forceoption=0
+
+[1573] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 85/2: ballroom key step 2
+choice.php?pwd&whichchoice=85&option=2
+You acquire an item: Spookyraven ballroom key
+
+[1574] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: zombie waltzers takes 36 damage.
+Round 2: fifthtoast casts CHOP!
+Round 3: zombie waltzers takes 62 damage.
+Round 3: fifthtoast jiggles the Staff of Blood and Pudding
+Round 4: You jiggle the staff toward your opponents.  A stream of blood bursts from their bodies and pours into yours, dealing 5 damage and healing you.
+Round 4: zombie waltzers takes 5 damage.
+Round 4: You gain 5 hit points.
+Round 4: fifthtoast casts BAKE!
+Round 5: zombie waltzers takes 32 damage.
+Round 5: fifthtoast wins the fight!
+You gain 120 Meat
+You acquire an item: ballroom blintz
+You gain 7 Strongness
+You gain 15 Enchantedness
+You gain 6 Sarcasm
+
+[1575] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tapdancing skeleton takes 36 damage.
+Round 2: fifthtoast casts CHOP!
+Round 3: tapdancing skeleton takes 62 damage.
+Round 3: fifthtoast jiggles the Staff of Blood and Pudding
+Round 4: You jiggle the staff toward your opponent.  A stream of blood bursts from his body and pours into yours, dealing 7 damage and healing you.
+Round 4: tapdancing skeleton takes 7 damage.
+Round 4: You gain 7 hit points.
+Round 4: fifthtoast casts BAKE!
+Round 5: tapdancing skeleton takes 30 damage.
+Round 5: fifthtoast wins the fight!
+You gain 5 Strengthliness
+You gain 13 Mysteriousness
+You gain 10 Smarm
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #126/1200:
+Question: What was needed to defeat The Black Sorcerer Badfella in level 5, "Meltplain", in the popular video game "Mortal Evil III"?
+Answer: A twinkly monocle.
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+When%3F%22
+
+buy 1 Trivial Avocations Card: When? for 289 each from 352918 on 20130319
+You acquire an item: Trivial Avocations Card: When?
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #374/1200:
+Question: When did the Wibbleford Stabbing Scientists win the national duck, duck, goose championship?
+Answer: According to the old calendar, the thirtieth day of the Month of the Moose in the Year of the Trolley-car.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #837/1200:
+Question: What player for the Waxton Pretty Investment Bankers was inducted into the Hall of Fame for his or her last-second tackle in the 1997 thunderball championship?
+Answer: Vice-Viceroy Max II's dog.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1143/1200:
+Question: Where was Ulrich XVII, Tsar of Brazzleton, attacked by a marmoset?
+Answer: The Amazing Forests of Eggshire.
+
+[1576] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 36 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: floating platter of hors d'oeuvres takes 74 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: floating platter of hors d'oeuvres takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: desiccated apricot
+You acquire an item: hors d'oeuvre tray
+You gain 7 Beefiness
+You gain 17 Mysteriousness
+You gain a Mysticality point!
+You gain 4 Chutzpah
+
+[1577] Haunted Ballroom
+Encounter: Strung-Up Quartet
+Took choice 106/4: disable song
+choice.php?whichchoice=106&option=4&pwd
+
+[1577] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: zombie waltzers takes 36 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: zombie waltzers takes 36 damage.
+You lose 19 hit points
+Round 3: fifthtoast casts CHOP!
+Round 4: zombie waltzers takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 103 Meat
+You gain 12 Strengthliness
+You gain 9 Enchantedness
+You gain 8 Cheek
+
+[1578] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tapdancing skeleton takes 36 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: tapdancing skeleton takes 36 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tapdancing skeleton takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 5 Fortitude
+You gain 18 Enchantedness
+You gain 7 Chutzpah
+
+[1579] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?whichchoice=90&option=2&pwd
+You gain 112 Chutzpah
+You gain a Moxie point!
+
+[1580] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tapdancing skeleton takes 36 damage.
+Round 2: fifthtoast casts CHOP!
+Round 3: tapdancing skeleton takes 62 damage.
+Round 3: fifthtoast jiggles the Staff of Blood and Pudding
+Round 4: You jiggle the staff toward your opponent.  A stream of blood bursts from his body and pours into yours, dealing 7 damage and healing you.
+Round 4: tapdancing skeleton takes 7 damage.
+Round 4: You gain 7 hit points.
+Round 4: fifthtoast casts BAKE!
+Round 5: tapdancing skeleton takes 28 damage.
+Round 5: fifthtoast wins the fight!
+You gain 6 Strongness
+You gain 16 Magicalness
+You gain 7 Chutzpah
+
+[1581] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?whichchoice=90&option=2&pwd
+You gain 110 Chutzpah
+
+[1582] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: zombie waltzers takes 36 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: zombie waltzers takes 36 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: zombie waltzers takes 125 damage.
+Round 4: fifthtoast wins the fight!
+You gain 116 Meat
+You gain 7 Strongness
+You gain 13 Enchantedness
+You gain 8 Cheek
+
+[1583] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: zombie waltzers takes 36 damage.
+Round 2: fifthtoast casts CHOP!
+Round 3: zombie waltzers takes 62 damage.
+Round 3: fifthtoast jiggles the Staff of Blood and Pudding
+Round 4: You jiggle the staff toward your opponents.  A stream of blood bursts from their bodies and pours into yours, dealing 5 damage and healing you.
+Round 4: zombie waltzers takes 5 damage.
+Round 4: You gain 5 hit points.
+Round 4: fifthtoast casts BAKE!
+Round 5: zombie waltzers takes 30 damage.
+Round 5: fifthtoast wins the fight!
+You gain 92 Meat
+You gain 4 Strengthliness
+You gain 20 Enchantedness
+You gain 4 Sarcasm
+
+[1584] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?whichchoice=90&option=2&pwd
+You gain 112 Sarcasm
+You gain a Moxie point!
+
+[1585] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 36 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: floating platter of hors d'oeuvres takes 36 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: floating platter of hors d'oeuvres takes 125 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: desiccated apricot
+You gain 7 Strengthliness
+You gain 17 Wizardliness
+You gain 5 Roguishness
+
+[1586] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast loses initiative!
+You lose 21 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tapdancing skeleton takes 36 damage.
+Round 2: fifthtoast casts CHOP!
+Round 3: tapdancing skeleton takes 62 damage.
+Round 3: fifthtoast jiggles the Staff of Blood and Pudding
+Round 4: You jiggle the staff toward your opponent.  A stream of blood bursts from his body and pours into yours, dealing 7 damage and healing you.
+Round 4: tapdancing skeleton takes 7 damage.
+Round 4: You gain 7 hit points.
+Round 4: fifthtoast casts BAKE!
+Round 5: tapdancing skeleton takes 30 damage.
+Round 5: fifthtoast wins the fight!
+You gain 6 Beefiness
+You gain 18 Mysteriousness
+You gain 3 Chutzpah
+
+[1587] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?whichchoice=90&option=2&pwd
+You gain 109 Smarm
+You gain a Moxie point!
+
+[1588] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?whichchoice=90&option=2&pwd
+You gain 111 Roguishness
+
+[1589] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: zombie waltzers takes 36 damage.
+Round 2: fifthtoast casts CHOP!
+Round 3: zombie waltzers takes 62 damage.
+Round 3: fifthtoast jiggles the Staff of Blood and Pudding
+Round 4: You jiggle the staff toward your opponents.  A stream of blood bursts from their bodies and pours into yours, dealing 5 damage and healing you.
+Round 4: zombie waltzers takes 5 damage.
+Round 4: You gain 5 hit points.
+Round 4: fifthtoast casts BAKE!
+Round 5: zombie waltzers takes 30 damage.
+Round 5: fifthtoast wins the fight!
+You gain 111 Meat
+You acquire an item: ballroom blintz
+You gain 7 Strengthliness
+You gain 13 Magicalness
+You gain 9 Sarcasm
+
+[1590] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?whichchoice=90&option=2&pwd
+You gain 113 Chutzpah
+You gain a Moxie point!
+
+[1591] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: zombie waltzers takes 36 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: zombie waltzers takes 36 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: zombie waltzers takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 102 Meat
+You acquire an item: ballroom blintz
+You gain 8 Muscleboundness
+You gain 14 Mysteriousness
+You gain 7 Roguishness
+
+[1592] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?whichchoice=90&option=2&pwd
+You gain 116 Cheek
+
+[1593] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 36 damage.
+You lose 18 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: floating platter of hors d'oeuvres takes 36 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: floating platter of hors d'oeuvres takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: flute of flat champagne
+You gain 10 Strongness
+You gain a Muscle point!
+You gain 12 Enchantedness
+You gain 6 Roguishness
+You gain a Moxie point!
+
+[1594] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: zombie waltzers takes 36 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: zombie waltzers takes 36 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: zombie waltzers takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 96 Meat
+You gain 7 Strongness
+You gain 10 Wizardliness
+You gain 11 Chutzpah
+
+[1595] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 74 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: floating platter of hors d'oeuvres takes 36 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: floating platter of hors d'oeuvres takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: desiccated apricot
+You gain 9 Strongness
+You gain 11 Magicalness
+You gain 8 Chutzpah
+
+[1596] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: zombie waltzers takes 36 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: zombie waltzers takes 36 damage.
+You lose 18 hit points
+Round 3: fifthtoast casts CHOP!
+Round 4: zombie waltzers takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 117 Meat
+You acquire an item: ballroom blintz
+You gain 5 Strongness
+You gain 13 Mysteriousness
+You gain 9 Cheek
+
+[1597] Haunted Ballroom
+Encounter: Strung-Up Quartet
+Took choice 106/4: disable song
+choice.php?whichchoice=106&option=4&pwd
+
+[1597] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 36 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: floating platter of hors d'oeuvres takes 36 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: floating platter of hors d'oeuvres takes 125 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: dehydrated caviar
+You acquire an item: desiccated apricot
+You gain 7 Beefiness
+You gain 16 Enchantedness
+You gain a Mysticality point!
+You gain a Level!
+You gain 6 Smarm
+
+[1598] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tapdancing skeleton takes 36 damage.
+Round 2: fifthtoast casts CHOP!
+Round 3: tapdancing skeleton takes 62 damage.
+Round 3: fifthtoast jiggles the Staff of Blood and Pudding
+Round 4: You jiggle the staff toward your opponent.  A stream of blood bursts from his body and pours into yours, dealing 6 damage and healing you.
+Round 4: tapdancing skeleton takes 6 damage.
+Round 4: You gain 6 hit points.
+Round 4: fifthtoast casts BAKE!
+Round 5: tapdancing skeleton takes 36 damage.
+Round 5: fifthtoast wins the fight!
+You gain 10 Muscleboundness
+You gain 15 Magicalness
+You gain 5 Chutzpah
+
+[1599] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: zombie waltzers takes 36 damage.
+Round 2: fifthtoast casts CHOP!
+Round 3: zombie waltzers takes 62 damage.
+Round 3: fifthtoast jiggles the Staff of Blood and Pudding
+Round 4: You jiggle the staff toward your opponents.  A stream of blood bursts from their bodies and pours into yours, dealing 5 damage and healing you.
+Round 4: zombie waltzers takes 5 damage.
+Round 4: You gain 5 hit points.
+Round 4: fifthtoast casts BAKE!
+Round 5: zombie waltzers takes 32 damage.
+Round 5: fifthtoast wins the fight!
+You gain 105 Meat
+You gain 5 Strongness
+You gain 18 Mysteriousness
+You gain 6 Sarcasm
+
+[1600] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: zombie waltzers takes 36 damage.
+Round 2: fifthtoast casts CHOP!
+Round 3: zombie waltzers takes 62 damage.
+Round 3: fifthtoast jiggles the Staff of Blood and Pudding
+Round 4: You jiggle the staff toward your opponents.  A stream of blood bursts from their bodies and pours into yours, dealing 8 damage and healing you.
+Round 4: zombie waltzers takes 8 damage.
+Round 4: You gain 8 hit points.
+Round 4: fifthtoast casts BAKE!
+Round 5: zombie waltzers takes 32 damage.
+Round 5: fifthtoast wins the fight!
+You gain 92 Meat
+You gain 4 Muscleboundness
+You gain 13 Magicalness
+You gain 11 Cheek
+
+[1601] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 36 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: floating platter of hors d'oeuvres takes 36 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: floating platter of hors d'oeuvres takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: desiccated apricot
+You gain 7 Fortitude
+You gain 14 Magicalness
+You gain 8 Cheek
+
+[1602] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tapdancing skeleton takes 36 damage.
+You lose 18 hit points
+Round 2: fifthtoast casts CHOP!
+Round 3: tapdancing skeleton takes 62 damage.
+Round 3: fifthtoast jiggles the Staff of Blood and Pudding
+Round 4: You jiggle the staff toward your opponent.  A stream of blood bursts from his body and pours into yours, dealing 7 damage and healing you.
+Round 4: tapdancing skeleton takes 7 damage.
+Round 4: You gain 7 hit points.
+Round 4: fifthtoast casts BAKE!
+Round 5: tapdancing skeleton takes 28 damage.
+Round 5: fifthtoast wins the fight!
+You acquire an item: tap shoes
+You gain 7 Strongness
+You gain 13 Mysteriousness
+You gain 8 Smarm
+
+[1603] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tapdancing skeleton takes 36 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: tapdancing skeleton takes 74 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tapdancing skeleton takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 7 Muscleboundness
+You gain 13 Mysteriousness
+You gain 9 Cheek
+
+[1604] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?whichchoice=90&option=2&pwd
+You gain 114 Smarm
+You gain a Moxie point!
+
+[1605] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 36 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: floating platter of hors d'oeuvres takes 36 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: floating platter of hors d'oeuvres takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: flute of flat champagne
+You gain 4 Strongness
+You gain 16 Enchantedness
+You gain 8 Smarm
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #178/1200:
+Question: What was stolen from the Goldthwaitia Museum of Ludicrous Theories on Jarlsuary sixth, 1993?
+Answer: A taupe beetle.
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+When%3F%22
+
+buy 1 Trivial Avocations Card: When? for 289 each from 352918 on 20130319
+You acquire an item: Trivial Avocations Card: When?
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #473/1200:
+Question: According to <u>Patrol of the Wolf Bodices</u>, the book of prophecies revered by worshipers of The Demon Knight Scarforbidden, when was Englebert, Archduke of Moon Crag, supposed to have enslaved us all?
+Answer: Last Gruesday.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #812/1200:
+Question: Who wrote the seizure-inducing sci-fi novel <u>Hunters of the Sorcerer Vizier</u>?
+Answer: Joe, the last Marquess of Swampleton.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #962/1200:
+Question: Where did Dr. Doc Jones, inventor of the thermonuclear bucket, catch ebola?
+Answer: Sudoku, Flanders.
+
+[1606] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: zombie waltzers takes 36 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: zombie waltzers takes 36 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: zombie waltzers takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 119 Meat
+You gain 8 Strongness
+You gain 10 Mysteriousness
+You gain 10 Smarm
+
+[1607] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?whichchoice=90&option=2&pwd
+You gain 118 Chutzpah
+
+[1608] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tapdancing skeleton takes 36 damage.
+Round 2: fifthtoast casts CHOP!
+Round 3: tapdancing skeleton takes 62 damage.
+Round 3: fifthtoast jiggles the Staff of Blood and Pudding
+Round 4: You jiggle the staff toward your opponent.  A stream of blood bursts from his body and pours into yours, dealing 9 damage and healing you.
+Round 4: tapdancing skeleton takes 9 damage.
+Round 4: You gain 9 hit points.
+Round 4: fifthtoast casts BAKE!
+Round 5: tapdancing skeleton takes 30 damage.
+Round 5: fifthtoast wins the fight!
+You gain 4 Strongness
+You gain 21 Enchantedness
+You gain 3 Cheek
+
+[1609] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tapdancing skeleton takes 36 damage.
+Round 2: fifthtoast casts CHOP!
+Round 3: tapdancing skeleton takes 62 damage.
+Round 3: fifthtoast jiggles the Staff of Blood and Pudding
+Round 4: You jiggle the staff toward your opponent.  A stream of blood bursts from his body and pours into yours, dealing 10 damage and healing you.
+Round 4: tapdancing skeleton takes 10 damage.
+Round 4: You gain 10 hit points.
+Round 4: fifthtoast casts BAKE!
+Round 5: tapdancing skeleton takes 34 damage.
+Round 5: fifthtoast wins the fight!
+You gain 4 Strongness
+You gain 20 Magicalness
+You gain 5 Chutzpah
+
+[1610] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tapdancing skeleton takes 36 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: tapdancing skeleton takes 36 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tapdancing skeleton takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You gain 7 Fortitude
+You gain 7 Mysteriousness
+You gain 14 Sarcasm
+
+[1611] Haunted Ballroom
+Encounter: floating platter of hors d'oeuvres
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: floating platter of hors d'oeuvres takes 36 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: floating platter of hors d'oeuvres takes 36 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: floating platter of hors d'oeuvres takes 62 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: dehydrated caviar
+You gain 5 Strengthliness
+You gain 17 Wizardliness
+You gain 7 Roguishness
+
+[1612] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tapdancing skeleton takes 36 damage.
+You lose 18 hit points
+Round 2: fifthtoast casts CHOP!
+Round 3: tapdancing skeleton takes 62 damage.
+Round 3: fifthtoast jiggles the Staff of Blood and Pudding
+Round 4: You jiggle the staff toward your opponent.  A stream of blood bursts from his body and pours into yours, dealing 6 damage and healing you.
+Round 4: tapdancing skeleton takes 6 damage.
+Round 4: You gain 6 hit points.
+Round 4: fifthtoast casts BAKE!
+Round 5: tapdancing skeleton takes 32 damage.
+Round 5: fifthtoast wins the fight!
+You acquire an item: worn tophat
+You gain 6 Beefiness
+You gain 12 Magicalness
+You gain 9 Chutzpah
+
+[1613] Rest in Clan Sofa (2 turns)
+You gain 39 hit points
+You gain 108 Mojo Points
+
+[1615] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast loses initiative!
+You lose 18 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: zombie waltzers takes 36 damage.
+Round 2: fifthtoast casts CHOP!
+Round 3: zombie waltzers takes 62 damage.
+You lose 20 hit points
+Round 3: fifthtoast jiggles the Staff of Blood and Pudding
+Round 4: You jiggle the staff toward your opponents.  A stream of blood bursts from their bodies and pours into yours, dealing 5 damage and healing you.
+Round 4: zombie waltzers takes 5 damage.
+Round 4: You gain 5 hit points.
+Round 4: fifthtoast casts BAKE!
+Round 5: zombie waltzers takes 34 damage.
+Round 5: fifthtoast wins the fight!
+You gain 95 Meat
+You acquire an item: dance card
+You gain 9 Beefiness
+You gain 11 Enchantedness
+You gain 8 Chutzpah
+You gain a Moxie point!
+Jumping into the Awesome Ball Pit in the clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+[1616] Rest in your dwelling
+You gain 98 hit points
+You gain 344 Mana Points
+
+[1616] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: zombie waltzers takes 36 damage.
+Round 2: fifthtoast uses the bubbly potion!
+Round 3: fifthtoast uses the swirly potion!
+Round 4: fifthtoast uses the smoky potion!
+Round 5: fifthtoast casts BAKE!
+Round 6: zombie waltzers takes 54 damage.
+Round 6: fifthtoast casts FRY!
+Round 7: zombie waltzers takes 181 damage.
+Round 7: zombie waltzers takes 60 damage.
+Round 7: fifthtoast wins the fight!
+You gain 112 Meat
+You acquire an item: ballroom blintz
+You gain 9 Strongness
+You gain 14 Enchantedness
+You gain a Mysticality point!
+You gain 9 Roguishness
+
+[1617] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: tapdancing skeleton takes 36 damage.
+Round 2: fifthtoast uses the milky potion!
+Round 3: fifthtoast uses the effervescent potion!
+Round 4: fifthtoast uses the cloudy potion!
+Round 5: fifthtoast uses the murky potion!
+Round 6: fifthtoast executes a macro!
+Round 6: fifthtoast casts CURDLE!
+Round 7: tapdancing skeleton takes 36 damage.
+Round 7: fifthtoast casts CHOP!
+Round 8: tapdancing skeleton takes 62 damage.
+Round 8: fifthtoast jiggles the Staff of Blood and Pudding
+Round 9: You jiggle the staff toward your opponent.  A stream of blood bursts from his body and pours into yours, dealing 9 damage and healing you.
+Round 9: tapdancing skeleton takes 9 damage.
+Round 9: You gain 9 hit points.
+Round 9: fifthtoast wins the fight!
+You acquire an item: tap shoes
+You gain 9 Strengthliness
+You gain 14 Enchantedness
+You gain 10 Roguishness
