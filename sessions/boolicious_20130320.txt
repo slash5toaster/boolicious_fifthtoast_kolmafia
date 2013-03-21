@@ -262,3 +262,1178 @@ mallsell: 10 Crimbojito, 10 Feliz Navidad
 manageprices.php?action=update&price0[5398]=25000&limit0[5398]=0&price0[5401]=23000&limit0[5401]=0&price0[6173]=20000&limit0[6173]=0&price0[6239]=10000&limit0[6239]=0&price0[5268]=9005&limit0[5268]=0&price0[5409]=9000&limit0[5409]=0&price0[5259]=8000&limit0[5259]=0&price0[5277]=7500&limit0[5277]=0&price0[5252]=7000&limit0[5252]=0&price0[5411]=7000&limit0[5411]=0&price0[5274]=6700&limit0[5274]=0&price0[5471]=5800&limit0[5471]=0&price0[5270]=5600&limit0[5270]=3&price0[5253]=2700&limit0[5253]=0&price0[3301]=1500&limit0[3301]=0&price0[5098]=1000&limit0[5098]=0&price0[5091]=900&limit0[5091]=0&price0[5527]=850&limit0[5527]=0&price0[1166]=750&limit0[1166]=0&price0[5698]=670&limit0[5698]=0&price0[5094]=600&limit0[5094]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[2680]=300&limit0[2680]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[538]=260&limit0[538]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=0&price0[6074]=250&limit0[6074]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[6076]=230&limit0[6076]=0&price0[6083]=200&limit0[6083]=0&price0[1840]=200&limit0[1840]=0&price0[1803]=200&limit0[1803]=0&price0[5468]=200&limit0[5468]=0&price0[834]=190&limit0[834]=0&price0[472]=190&limit0[472]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[218]=155&limit0[218]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[475]=130&limit0[475]=0&price0[1655]=120&limit0[1655]=0&price0[5466]=111&limit0[5466]=0&price0[3019]=110&limit0[3019]=0&price0[6080]=100&limit0[6080]=0&price0[5469]=100&limit0[5469]=0&price0[1]=100&limit0[1]=0
 
 mallsell: 4 evil teddy bear sewing kit, 3 magnetic sculpture kit
+
+cast 2 Summon Resolutions
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be sexier
+
+use 3 Marquis de Poivre soda
+You gain 94 Mojo Points
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22black+cherry+soda%22
+
+buy 63 black cherry soda for 80 each from Black Market
+You acquire black cherry soda (63)
+You spent 5,040 Meat
+
+use 63 black cherry soda
+You gain 633 Mojo Points
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22black+cherry+soda%22
+
+buy 1 black cherry soda for 80 each from Black Market
+You acquire an item: black cherry soda
+You spent 80 Meat
+
+use 1 black cherry soda
+You gain 9 Mojo Points
+
+Visiting Pool Table in clan VIP lounge
+
+Visiting April Shower in clan VIP lounge
+
+shower warm
+You acquire an effect: Muscle Unbound (duration: 50 Adventures)
+friars blessing 2
+You acquire an effect: Brother Corsican's Blessing (duration: 20 Adventures)
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+
+clan_hobopolis.php?place=2
+
+[12404] Hobopolis Town Square
+Encounter: Claudius &quot;Casters on Crutches&quot; Capulet
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1508 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+After Battle: DocSavage looks at you, raises an eyebrow, and says &quot;Wait.  Why am I doing all the work?  Take this, and try to pick up some of the slack, would you?&quot;
+You acquire an item: psychoanalytic jar
+You gain 19 Strengthliness
+You gain 29 Magicalness
+You gain 37 Roguishness
+Richard takes a hobo skin
+
+familiar Evil Teddy Bear (20 lbs)
+choice.php?forceoption=0
+
+[12405] Hobopolis Town Square
+Encounter: Attention -- A Tent!
+Took choice 225/3: skip adventure
+choice.php?action=auto?whichchoice=225&option=3&pwd
+choice.php?forceoption=0
+
+[12405] Hobopolis Town Square
+Encounter: Attention -- A Tent!
+Took choice 225/3: skip adventure
+choice.php?action=auto?whichchoice=225&option=3&pwd
+
+[12405] Hobopolis Town Square
+Encounter: Flour-Dusted Nick, the Scientist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1525 damage.
+Round 2: boolicious wins the fight!
+You gain 25 Strongness
+You gain 29 Wizardliness
+You gain 31 Cheek
+Richard takes a hobo skin
+
+[12406] Hobopolis Town Square
+Encounter: Clancy Durden, the Sneak Thief
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1502 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Tonald, the 11 lb. Evil Teddy Bear
+You gain 24 Muscleboundness
+You gain 37 Enchantedness
+You gain 27 Roguishness
+You gain a Moxie point!
+Richard takes a hobo skin
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 100 each from 2036832 on 20130320
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+choice.php?forceoption=0
+
+[12407] Hobopolis Town Square
+Encounter: Marketplace Entrance
+Took choice 272/1: 89 nickels, NO  hobo code binder equipped
+choice.php?pwd&whichchoice=272&option=1
+Encounter: The Hobo Marketplace
+Took choice 232/2: unknown
+choice.php?pwd&whichchoice=232&option=2
+Encounter: Math Is Hard
+Took choice 246/1: unknown
+choice.php?pwd&whichchoice=246&option=1
+Encounter: Housewares
+Took choice 254/1: unknown
+choice.php?pwd&whichchoice=254&option=1
+Encounter: Black-and-Blue-and-Decker
+Took choice 255/4: unknown
+choice.php?pwd&whichchoice=255&option=4
+
+[12408] Hobopolis Town Square
+Encounter: Yancy Stemple, the Many-Bearded
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 20 hit points
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 1507 damage.
+Round 3: boolicious wins the fight!
+You gain 15 Muscleboundness
+You gain 36 Wizardliness
+You gain 34 Cheek
+Richard takes a hobo skin
+
+familiar Li'l Xenomorph (23 lbs)
+
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=8
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=7
+clan_hobopolis.php?place=2
+
+[12409] Hobopolis Town Square
+Encounter: P. T. &quot;Blinky&quot; Rutgers, the Future of Hoboing
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1505 damage.
+Round 2: boolicious wins the fight!
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 21 Strengthliness
+You gain 23 Enchantedness
+You gain 43 Cheek
+Richard takes a hobo skin
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22CSA+bravery+badge%22
+
+buy 1 CSA bravery badge for 100 each from 1105329 on 20130320
+You acquire an item: CSA bravery badge
+
+buy 1 CSA bravery badge for 100 each from 1439681 on 20130320
+You acquire an item: CSA bravery badge
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+[12410] Hobopolis Town Square
+Encounter: Manny &quot;Soccer Balls&quot; Mack, the Bedazzler
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1570 damage.
+Round 2: boolicious wins the fight!
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 26 Fortitude
+You gain 26 Magicalness
+You gain a Mysticality point!
+You gain 38 Cheek
+Richard takes a hobo skin
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+use 1 swirly potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+use 1 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #40/1200:
+Question: What did Barney Harris's boyfriend find in the icebox on Porktober sixth, 1957?
+Answer: An unobtrusive lawn.
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+When%3F%22
+
+buy 1 Trivial Avocations Card: When? for 200 each from 329837 on 20130320
+You acquire an item: Trivial Avocations Card: When?
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #338/1200:
+Question: When did Professor Craig Westinghouse win the Nobel Prize for Grant Proposal Writing?
+Answer: Porktober 3, 1984.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #803/1200:
+Question: Who wrote the popular biography of Empress Abe I of Blurstishire, <u>Grand Prime Minister of the Barbarian's Fiends</u>?
+Answer: A midwife named Pippin Spitzner.
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+Where%3F%22
+
+buy 1 Trivial Avocations Card: Where? for 200 each from 329837 on 20130320
+You acquire an item: Trivial Avocations Card: Where?
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1100/1200:
+Question: Where was Wade III, Earl of Waxtoff, impaled?
+Answer: In a tallow rending plant in Morcestecershire.
+
+[12411] Hobopolis Town Square
+Encounter: Thanatos &quot;Slow Dance&quot; Williams
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1514 damage.
+Round 2: boolicious wins the fight!
+After Battle: sigourney hiccups and coughs up something covered in corrosive goo. Your curiosity overcomes your gag reflex and you pick up the device.
+You acquire an item: transporter transponder
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 25 Muscleboundness
+You gain 26 Mysteriousness
+You gain 39 Roguishness
+Richard takes a hobo skin
+
+[12412] Hobopolis Town Square
+Encounter: Leopard Print Jocko &quot;Cheeseburger&quot; Adams
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1505 damage.
+Round 2: boolicious wins the fight!
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 20 Muscleboundness
+You gain 27 Mysteriousness
+You gain 42 Chutzpah
+Richard takes a hobo skin
+
+[12413] Hobopolis Town Square
+Encounter: 50-Tooth Andy Des Moines, the Explorer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1498 damage.
+Round 2: boolicious wins the fight!
+After Battle: sigourney hiccups and coughs up something covered in corrosive goo. Your curiosity overcomes your gag reflex and you pick up the device.
+You acquire an item: transporter transponder
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 21 Strengthliness
+You gain 27 Enchantedness
+You gain 40 Cheek
+Richard takes a hobo skin
+
+[12414] Hobopolis Town Square
+Encounter: Marketplace Entrance
+Took choice 272/1: 89 nickels, NO  hobo code binder equipped
+choice.php?whichchoice=272&option=1&pwd
+Encounter: The Hobo Marketplace
+choice 272/1: Wander over to the left (89 nickels, NO  hobo code binder equipped)
+choice 272/2: Wander over to the right (skip adventure)
+choice 272/3: Wander down the middle
+Took choice 232/2: unknown
+choice.php?pwd&whichchoice=232&option=2&choiceform2=Wander+over+to+the+right
+Encounter: Food Went A-Courtin'
+Took choice 234/2: unknown
+choice.php?pwd&whichchoice=234&option=2&choiceform2=Over+that+way
+Encounter: Booze, Glorious Booze
+Took choice 241/1: unknown
+choice.php?pwd&whichchoice=241&option=1&choiceform1=Wander+to+the+left
+
+[12415] Hobopolis Town Square
+Encounter: Attention -- A Tent!
+Took choice 225/3: skip adventure
+choice.php?whichchoice=225&option=3&pwd
+
+[12415] Hobopolis Town Square
+Encounter: Plausible Giancarlo Montague
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1003 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: sigourney, the 14 lb. Li'l Xenomorph
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 20 Fortitude
+You gain 27 Enchantedness
+You gain 40 Sarcasm
+Richard takes a hobo skin
+
+[12416] Hobopolis Town Square
+Encounter: Slimneck Kenny Westinghouse
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1018 damage.
+Round 2: boolicious wins the fight!
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 20 Strengthliness
+You gain 36 Enchantedness
+You gain 34 Chutzpah
+Richard takes a hobo skin
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 100 each from 2036832 on 20130320
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[12417] Hobopolis Town Square
+Encounter: Glue-Sniffin' Aldous Adams
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1004 damage.
+Round 2: boolicious wins the fight!
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 23 Strongness
+You gain 27 Wizardliness
+You gain 37 Cheek
+Richard takes a hobo skin
+
+[12418] Hobopolis Town Square
+Encounter: Marketplace Entrance
+Took choice 272/1: 89 nickels, NO  hobo code binder equipped
+choice.php?whichchoice=272&option=1&pwd
+Encounter: The Hobo Marketplace
+choice 272/1: Wander over to the left (89 nickels, NO  hobo code binder equipped)
+choice 272/2: Wander over to the right (skip adventure)
+choice 272/3: Wander down the middle
+Took choice 232/2: unknown
+choice.php?pwd&whichchoice=232&option=2&choiceform2=Wander+over+to+the+right
+Encounter: Salud
+Took choice 263/2: unknown
+choice.php?pwd&whichchoice=263&option=2&choiceform2=Go+that+way
+You acquire an effect: Trepandation (duration: 20 Adventures)
+
+[12419] Hobopolis Town Square
+Encounter: Attention -- A Tent!
+Took choice 225/3: skip adventure
+choice.php?whichchoice=225&option=3&pwd
+
+[12419] Hobopolis Town Square
+Encounter: Exoskeleton Cthulhu Harrison, the Assistant Manager
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1023 damage.
+You lose 46 Mojo Points
+Round 2: boolicious wins the fight!
+After Battle: sigourney hiccups and coughs up something covered in corrosive goo. Your curiosity overcomes your gag reflex and you pick up the device.
+You acquire an item: transporter transponder
+After Battle: sigourney brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 10 Strongness
+You gain 34 Wizardliness
+You gain 45 Cheek
+Richard takes a hobo skin
+
+[12420] Hobopolis Town Square
+Encounter: Whistling Peter &quot;Marigold&quot; Allen
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1008 damage.
+You lose 42 Mojo Points
+Round 2: boolicious wins the fight!
+After Battle: sigourney brokers a quick deal, and splits the profits with you.
+You acquire an item: hobo nickel
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 18 Fortitude
+You gain 19 Wizardliness
+You gain 47 Roguishness
+Richard takes a hobo skin
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+use 1 swirly potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+use 1 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+[12421] Hobopolis Town Square
+Encounter: Craine Brown, Ultralord of the Hobo Jungle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1020 damage.
+You lose 42 Mojo Points
+Round 2: boolicious wins the fight!
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 27 Strongness
+You gain 29 Enchantedness
+You gain 34 Cheek
+Richard takes a hobo skin
+
+[12422] Hobopolis Town Square
+Encounter: Frog-Eatin' Clive, the San Francisco Treat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 4 hit points
+You lose 33 Mojo Points
+Round 2: boolicious attacks!
+Round 3: normal hobo takes 1032 damage.
+You lose 37 Mojo Points
+Round 3: boolicious wins the fight!
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 27 Strongness
+You gain 26 Wizardliness
+You gain 35 Sarcasm
+Richard takes a hobo skin
+
+[12423] Hobopolis Town Square
+Encounter: Jedediah &quot;Chicken Sandwich&quot; Steadwick
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1049 damage.
+You lose 34 Mojo Points
+Round 2: boolicious wins the fight!
+After Battle: sigourney smiles on the inside. Unlike all other life-forms, it's doing it literally, with its second set of jaws.
+You gain 24 Beefiness
+You gain 27 Magicalness
+You gain 35 Chutzpah
+Richard takes a hobo skin
+
+[12424] Hobopolis Town Square
+Encounter: Marketplace Entrance
+Took choice 272/1: 91 nickels, NO  hobo code binder equipped
+choice.php?whichchoice=272&option=1&pwd
+Encounter: The Hobo Marketplace
+choice 272/1: Wander over to the left (91 nickels, NO  hobo code binder equipped)
+choice 272/2: Wander over to the right (skip adventure)
+choice 272/3: Wander down the middle
+Encounter: The Hobo Marketplace
+Took choice 232/1: unknown
+choice.php?pwd&whichchoice=232&option=1
+Encounter: Salud
+Took choice 263/1: unknown
+choice.php?pwd&whichchoice=263&option=1
+Encounter: Another Part of the Market
+Took choice 266/1: unknown
+choice.php?pwd&whichchoice=266&option=1
+Encounter: It's Fun To Stay There
+Took choice 268/2: 20 adv of +50% muscle
+choice.php?pwd&whichchoice=268&option=2
+You acquire an effect: It Didn't Kill You (duration: 20 Adventures)
+
+cast 4 Summon Resolutions
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be stronger
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22black+cherry+soda%22
+
+buy 46 black cherry soda for 80 each from Black Market
+You acquire black cherry soda (46)
+You spent 3,680 Meat
+
+use 46 black cherry soda
+You gain 475 Mojo Points
+
+use 2 devilish folio
+You acquire an effect: Dis Abled (duration: 60 Adventures)
+
+[12425] The Maelstrom of Lovers
+Encounter: Bettie Barulio
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bettie barulio takes 938 damage.
+You lose 39 Mojo points
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+After Battle: Your pet gives a smile (even if it lacks lips), / And it gives you a cheer with a couple Hip, Hips!
+You gain 19 Strongness
+You gain 14 Magicalness
+You gain 14 Roguishness
+
+[12426] The Maelstrom of Lovers
+Encounter: Marvin J. Sunny
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marvin j. sunny takes 991 damage.
+You lose 42 Mojo points
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+After Battle: Your pet did a thing; I don't know what it did. / Perhaps it went skiing, or huggled a squid?
+You acquire an item: transporter transponder
+After Battle: A smile from your buddy, your heart fills with joy, / You're getting experience, so don't be coy!
+You gain 13 Strongness
+You gain 11 Magicalness
+You gain 22 Roguishness
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 100 each from 2036832 on 20130320
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[12427] The Maelstrom of Lovers
+Encounter: Bettie Barulio
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bettie barulio takes 942 damage.
+You lose 34 Mojo points
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+After Battle: Your pet gives a smile (even if it lacks lips), / And it gives you a cheer with a couple Hip, Hips!
+You gain 10 Strongness
+You gain 13 Magicalness
+You gain 24 Roguishness
+
+[12428] The Maelstrom of Lovers
+Encounter: A Choice to be Made
+Took choice 566/1: Fight Boss
+choice.php?pwd&whichchoice=566&option=1&choiceform1=Of+course%2C+little+guy%21+Let%27s+leap+into+the+fray%21
+
+[12428] The Maelstrom of Lovers
+Encounter: Marvin J. Sunny
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: marvin j. sunny takes 945 damage.
+You lose 41 Mojo points
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+After Battle: A grin from your pet makes you feel more than thrilled, / Because it implies that you're getting more skilled.
+You gain 18 Strongness
+You gain 11 Magicalness
+You gain 17 Roguishness
+Unexpected error, debug log printed.
+Unexpected error, debug log printed.
+
+mallsell: 16 dusty bottle of glassy Zinfandel, 9 dusty bottle of vinegar Marsala, 9 dusty bottle of average Pinot Noir, 7 dusty bottle of bad Merlot
+Unexpected error, debug log printed.
+
+mallsell: 5 dusty bottle of glassy Zinfandel
+
+mallsell: 42 dusty bottle of great Port, 39 bottle of bubbles, 30 dusty bottle of spooky Muscat
+
+mallsell: 72 bottle of sewage schnapps
+
+[12429] The Maelstrom of Lovers
+Encounter: Marcus Macurgeon
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: marcus macurgeon takes 940 damage.
+You lose 39 Mojo points
+Round 2: boolicious wins the fight!
+You acquire an item: purple prose pen
+You acquire an item: jar full of wind
+After Battle: A smile from your buddy, your heart fills with joy, / You're getting experience, so don't be coy!
+You gain 15 Strongness
+You gain 14 Magicalness
+You gain 18 Roguishness
+
+[12430] The Maelstrom of Lovers
+Encounter: Thug 1 and Thug 2
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: thug 1 and thug 2 takes 26 damage.
+You lose 32 Mojo points
+Round 2: boolicious uses the jar full of wind!
+You lose 43 Mojo points
+Round 3: boolicious uses the jar full of wind!
+You lose 42 Mojo points
+Round 4: boolicious uses the jar full of wind!
+You lose 35 Mojo points
+Round 5: boolicious uses the jar full of wind!
+You lose 35 Mojo points
+Round 6: boolicious uses the jar full of wind!
+You lose 35 Mojo points
+Round 7: boolicious uses the jar full of wind!
+You lose 31 Mojo points
+Round 8: boolicious uses the jar full of wind!
+You lose 39 Mojo points
+Round 9: boolicious uses the jar full of wind!
+You lose 48 Mojo points
+Round 10: boolicious uses the jar full of wind!
+You lose 31 Mojo points
+Round 11: boolicious uses the jar full of wind!
+Round 12: boolicious wins the fight!
+You acquire an item: jealousy stone
+After Battle: Your pet smiles quite broadly, as if to say, / "Congrats! You have learned something useful today."
+You gain 15 Strongness
+You gain 10 Magicalness
+You gain 21 Roguishness
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22black+cherry+soda%22
+
+buy 52 black cherry soda for 80 each from Black Market
+You acquire black cherry soda (52)
+You spent 4,160 Meat
+
+use 52 black cherry soda
+You gain 524 Mojo Points
+
+uneffect Trepandation
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+use 1 swirly potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+use 1 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+[12431] The Maelstrom of Lovers
+Encounter: Mortimer Strauss
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: mortimer strauss takes 949 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: Mortimer's nostrum
+After Battle: Your pet gives a smile (even if it lacks lips), / And it gives you a cheer with a couple Hip, Hips!
+You gain 13 Strongness
+You gain 11 Magicalness
+You gain 21 Roguishness
+
+use 1 Mortimer's nostrum
+You acquire an effect: Limber as Mortimer (duration: 10 Adventures)
+
+[12432] The Maelstrom of Lovers
+Encounter: Marcus Macurgeon
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marcus macurgeon takes 939 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: sigourney, the 15 lb. Li'l Xenomorph
+You acquire an item: jar full of wind
+After Battle: Your pet smiles quite broadly, as if to say, / "Congrats! You have learned something useful today."
+You gain 13 Strongness
+You gain 11 Magicalness
+You gain 21 Roguishness
+
+[12433] The Maelstrom of Lovers
+Encounter: Mortimer Strauss
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: mortimer strauss takes 949 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: Mortimer's nostrum
+You acquire an item: jar full of wind
+After Battle: Your pet did a thing that might just save the day, / I'm afraid you were looking the opposite way.
+You acquire an item: transporter transponder
+After Battle: Your pet gives a smile (even if it lacks lips), / And it gives you a cheer with a couple Hip, Hips!
+You gain 9 Strongness
+You gain 11 Magicalness
+You gain 26 Roguishness
+
+[12434] The Maelstrom of Lovers
+Encounter: Wonderful Winifred Wongle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wonderful winifred wongle takes 945 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+After Battle: Your pet smiles quite broadly, as if to say, / "Congrats! You have learned something useful today."
+You gain 11 Strongness
+You gain 13 Magicalness
+You gain 23 Roguishness
+
+[12435] The Maelstrom of Lovers
+Encounter: Bettie Barulio
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bettie barulio takes 935 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+After Battle: A grin from your pet makes you feel more than thrilled, / Because it implies that you're getting more skilled.
+You gain 15 Strongness
+You gain 15 Magicalness
+You gain 17 Roguishness
+
+[12436] The Maelstrom of Lovers
+Encounter: Wonderful Winifred Wongle
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wonderful winifred wongle takes 934 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+After Battle: A grin from your pet makes you feel more than thrilled, / Because it implies that you're getting more skilled.
+You gain 11 Strongness
+You gain 14 Magicalness
+You gain 22 Roguishness
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 100 each from 2036832 on 20130320
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[12437] The Maelstrom of Lovers
+Encounter: Marvin J. Sunny
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marvin j. sunny takes 933 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+After Battle: Your pet indicates, with a grin of its grinner, / that it thinks you to be quite a winningful winner.
+You gain 18 Strongness
+You gain 11 Magicalness
+You gain 17 Roguishness
+
+[12438] The Maelstrom of Lovers
+Encounter: Mortimer Strauss
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 7 hit points
+Round 2: boolicious attacks!
+Round 3: mortimer strauss takes 945 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: jar full of wind
+After Battle: A grin from your pet makes you feel more than thrilled, / Because it implies that you're getting more skilled.
+You gain 11 Strongness
+You gain 18 Magicalness
+You gain 18 Roguishness
+
+[12439] The Maelstrom of Lovers
+Encounter: Marcus Macurgeon
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marcus macurgeon takes 940 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+After Battle: A grin from your pet makes you feel more than thrilled, / Because it implies that you're getting more skilled.
+You gain 12 Strongness
+You gain 15 Magicalness
+You gain 20 Roguishness
+
+[12440] The Maelstrom of Lovers
+Encounter: Bettie Barulio
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: bettie barulio takes 934 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+After Battle: Your pet indicates, with a grin of its grinner, / that it thinks you to be quite a winningful winner.
+You gain 8 Strongness
+You gain 7 Magicalness
+You gain 31 Roguishness
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+use 1 swirly potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+use 1 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #183/1200:
+Question: What did Cholly Garfunkel's grandma find in the hall closet on Petember fourth, 1958?
+Answer: A cravat belonging to the Queen of Taintingham.
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+When%3F%22
+
+buy 1 Trivial Avocations Card: When? for 288 each from 1768529 on 20130320
+You acquire an item: Trivial Avocations Card: When?
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #512/1200:
+Question: When did Li'l Horace Paulson win the Nobel Prize for Biology?
+Answer: Eleven-thirty in the afternoon.
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+Who%3F%22
+
+buy 1 Trivial Avocations Card: Who? for 280 each from 1768529 on 20130320
+You acquire an item: Trivial Avocations Card: Who?
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #728/1200:
+Question: Who won the mithril medal for blernsball in the 1994 Olympics?
+Answer: Nobody.
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+Where%3F%22
+
+buy 1 Trivial Avocations Card: Where? for 200 each from 329837 on 20130320
+You acquire an item: Trivial Avocations Card: Where?
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1144/1200:
+Question: Where was the Earl of Schmalbion tarred and feathered for the crime of indian-giving?
+Answer: In Sir Dale Montague's homie's owlry.
+
+[12441] The Maelstrom of Lovers
+Encounter: Bettie Barulio
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the jar full of wind!
+Round 2: boolicious uses the jar full of wind!
+Round 3: boolicious uses the jar full of wind!
+Round 4: boolicious attacks!
+Round 5: bettie barulio takes 963 damage.
+Round 5: boolicious wins the fight!
+You acquire an item: jar full of wind
+After Battle: Your pet smiles quite broadly, as if to say, / "Congrats! You have learned something useful today."
+You gain 16 Strongness
+You gain 11 Magicalness
+You gain 20 Roguishness
+
+familiar Fancypants Scarecrow (25 lbs)
+
+[12442] The Maelstrom of Lovers
+Encounter: Marvin J. Sunny
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: marvin j. sunny takes 934 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: jar full of wind
+You gain 10 Strongness
+You gain 11 Magicalness
+You gain 21 Roguishness
+
+[12443] The Glacier of Jerks
+Encounter: Hugo Von Douchington
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 5 hit points
+Round 2: boolicious attacks!
+You lose 2 hit points
+Round 3: boolicious attacks!
+Round 4: hugo von douchington takes 933 damage.
+Round 4: boolicious wins the fight!
+You acquire an item: half-empty carton of milk
+You acquire an item: dangerous jerkcicle
+You gain 4 Strongness
+You gain 17 Magicalness
+You gain 23 Roguishness
+
+[12444] The Glacier of Jerks
+Encounter: Dolores D. Smiley
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dolores d. smiley takes 942 damage.
+Round 2: boolicious wins the fight!
+You gain 10 Strongness
+You gain 13 Magicalness
+You gain 19 Roguishness
+
+[12445] The Glacier of Jerks
+Encounter: Wacky Zack Flacky
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wacky zack flacky takes 786 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+You gain 18 Strongness
+You gain 7 Magicalness
+You gain 15 Roguishness
+
+[12446] The Glacier of Jerks
+Encounter: Wacky Zack Flacky
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wacky zack flacky takes 791 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+You gain 6 Strongness
+You gain 14 Magicalness
+You gain 22 Roguishness
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 100 each from 2036832 on 20130320
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[12447] The Glacier of Jerks
+Encounter: Brock "Rocky" Flox
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: brock &quot;rocky&quot; flox takes 823 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+You gain 10 Strongness
+You gain 17 Magicalness
+You gain 16 Roguishness
+
+[12448] The Glacier of Jerks
+Encounter: Vivian Vibrian Vumian Varr
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: vivian vibrian vumian varr takes 783 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+You gain 10 Strongness
+You gain 15 Magicalness
+You gain 18 Roguishness
+
+[12449] The Glacier of Jerks
+Encounter: Hugo Von Douchington
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hugo von douchington takes 792 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: half-empty carton of milk
+You acquire an item: dangerous jerkcicle
+You gain 8 Strongness
+You gain 15 Magicalness
+You gain 19 Roguishness
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22CSA+bravery+badge%22
+
+buy 1 CSA bravery badge for 100 each from 2327558 on 20130320
+You acquire an item: CSA bravery badge
+
+buy 1 CSA bravery badge for 100 each from 2316230 on 20130320
+You acquire an item: CSA bravery badge
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+[12450] The Glacier of Jerks
+Encounter: Dolores D. Smiley
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dolores d. smiley takes 790 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+You gain 7 Strongness
+You gain 14 Magicalness
+You gain 21 Roguishness
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+use 1 swirly potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+use 1 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+[12451] The Glacier of Jerks
+Encounter: Wacky Zack Flacky
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wacky zack flacky takes 777 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+You gain 6 Strongness
+You gain 13 Magicalness
+You gain 24 Roguishness
+
+[12452] The Glacier of Jerks
+Encounter: Hugo Von Douchington
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: hugo von douchington takes 788 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: half-empty carton of milk
+You acquire an item: dangerous jerkcicle
+You gain 8 Strongness
+You gain 15 Magicalness
+You gain 20 Roguishness
+
+[12453] The Glacier of Jerks
+Encounter: Brock "Rocky" Flox
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: brock &quot;rocky&quot; flox takes 777 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: pink-belly slapper
+You acquire an item: dangerous jerkcicle
+You gain 10 Strongness
+You gain 13 Magicalness
+You gain 19 Roguishness
+
+[12454] The Glacier of Jerks
+Encounter: Dolores D. Smiley
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dolores d. smiley takes 785 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+You gain 7 Strongness
+You gain 10 Magicalness
+You gain 23 Roguishness
+You gain a Moxie point!
+
+[12455] The Glacier of Jerks
+Encounter: Vivian Vibrian Vumian Varr
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: vivian vibrian vumian varr takes 775 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+You gain 10 Strongness
+You gain 17 Magicalness
+You gain 15 Roguishness
+
+[12456] The Glacier of Jerks
+Encounter: Hugo Von Douchington
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: hugo von douchington takes 795 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+You gain 11 Strongness
+You gain 10 Magicalness
+You gain 20 Roguishness
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 100 each from 2036832 on 20130320
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[12457] The Glacier of Jerks
+Encounter: Wacky Zack Flacky
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wacky zack flacky takes 778 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+You acquire an item: dangerous jerkcicle
+You gain 8 Strongness
+You gain 13 Magicalness
+You gain 21 Roguishness
+
+[12458] The Glacier of Jerks
+Encounter: Wacky Zack Flacky
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: wacky zack flacky takes 793 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+You gain 15 Strongness
+You gain 11 Magicalness
+You gain 14 Roguishness
+
+[12459] The Glacier of Jerks
+Encounter: Dolores D. Smiley
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dolores d. smiley takes 785 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+You gain 10 Strongness
+You gain 9 Magicalness
+You gain 21 Roguishness
+
+[12460] The Glacier of Jerks
+Encounter: Brock "Rocky" Flox
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: brock &quot;rocky&quot; flox takes 776 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+You gain 9 Strongness
+You gain 17 Magicalness
+You gain 16 Roguishness
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+use 1 swirly potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+use 1 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+[12461] The Glacier of Jerks
+Encounter: Vivian Vibrian Vumian Varr
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 9 hit points
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: vivian vibrian vumian varr takes 788 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: dangerous jerkcicle
+You gain 13 Strongness
+You gain 11 Magicalness
+You gain 17 Roguishness
