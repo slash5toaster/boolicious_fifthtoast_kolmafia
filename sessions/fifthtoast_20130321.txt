@@ -1756,3 +1756,67 @@ choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
 
 [1878] The Lower Chambers (Rubble/Bomb)
 You lose 31 hit points
+
+equip off-hand ancient calendar
+
+equip shirt General Sage's Lonely Diamonds Club Jacket
+
+equip acc1 gold wedding ring
+
+equip acc2 tiny plastic Crimbo reindeer
+
+equip acc3 wristwatch of the white knight
+
+Using 2 cosmic vegetable to make 2 consummate sauerkraut
+You acquire consummate sauerkraut (2)
+
+eat 2 consummate sauerkraut
+You gain 1 Adventure
+You gain 25 Magicalness
+You gain 17 Chutzpah
+You gain 1 Fullness
+You gain 1 Adventure
+You gain 25 Enchantedness
+You gain a Mysticality point!
+You gain 13 Sarcasm
+You gain 1 Fullness
+
+Using 1 cosmic egg to make 1 consummate fried egg
+You acquire an item: consummate fried egg
+
+Using 1 cosmic fruit to make 1 adequate rum
+You acquire an item: adequate rum
+
+Using 1 adequate rum + 1 consummate fried egg to make 1 Over Easy Rider
+You acquire an item: Over Easy Rider
+
+drink 1 Over Easy Rider
+You gain 9 Adventures
+You gain 37 Smarm
+You gain 3 Drunkenness
+
+Use 1 Super Crimboman Ultra Mega Hypersword
+You acquire an item: Crimbo Elf creepy bobble-head
+You acquire an item: Crimbo stogie-scented room odorizer
+You acquire an item: Crimbo bottomless hot cocoa mug
+You acquire an item: Crimbo tree flocker
+You acquire an item: Crimbo light-up Rudolph doll
+
+take from closet: 1 bowl of cottage cheese
+You acquire an item: bowl of cottage cheese
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22dry+noodles%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22starchy+crossbow%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22basic+meat+crossbow%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22crossbow+string%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22meat+stack%22
+
+buy 1 starchy crossbow for 675 each from 2296823 on 20130321
+You acquire an item: starchy crossbow
+
+[1880] Smith 1 starchy crossbow + 1 bowl of cottage cheese
+You acquire an item: curdflinger
+Crafting used 1 each of bowl of cottage cheese and starchy crossbow
+
+Using  to make 1 cosmic six-pack
+You acquire an item: cosmic six-pack
