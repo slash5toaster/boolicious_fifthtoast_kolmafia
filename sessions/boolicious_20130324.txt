@@ -1,0 +1,946 @@
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 980 Meat
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+You acquire an item: stuffed key
+
+Visiting Looking Glass in clan VIP lounge
+You acquire an item: &quot;DRINK ME&quot; potion
+
+Visiting Crimbo Tree in clan VIP lounge
+You acquire an item: Jack-in-the-box
+
+swimming pool screwaround
+
+Doing handstand in clan VIP swimming pool
+
+Diving for treasure in clan VIP swimming pool
+
+Getting out of clan VIP swimming pool
+
+use 1 Manual of Dexterity
+
+use 1 Chester's bag of candy
+You acquire an item: marzipan skull
+You acquire Angry Farmer candy (2)
+You acquire an item: Tasty Fun Good rice candy
+You acquire an item: Yummy Tummy bean
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: Who?
+You acquire an item: Trivial Avocations Card: Where?
+
+use 1 creepy voodoo doll
+
+use 1 Taco Dan's Taco Stand Flier
+You acquire an item: Taco Dan's Taco Stand Taco
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chewing+gum+on+a+string%22
+
+buy 4 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (4)
+You spent 200 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless knick-knack
+You acquire an item: worthless trinket
+You acquire an item: worthless gewgaw
+
+add to closet: 1 worthless trinket
+
+add to closet: 1 worthless gewgaw
+
+add to closet: 1 worthless knick-knack
+
+use 1 chewing gum on a string
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless trinket
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless gewgaw
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 4 worthless items for 4 ten-leaf clovers
+You acquire ten-leaf clover (4)
+
+Use 4 ten-leaf clover
+You acquire disassembled clover (4)
+
+Harvesting your garden
+You acquire peppermint sprout (9)
+You gain 4,250 Meat
+
+Visiting the Fishing Village on the Secret Tropical Island Volcano Lair
+You acquire an item: fisherman's sack
+
+cast 1 Summon Crimbo Candy
+You acquire an item: Crimbo peppermint bark
+You acquire an item: Crimbo candied pecan
+You acquire an item: Crimbo peppermint bark
+
+cast 1 Summon Geeky Gifts
+You acquire an item: haggis-infused soap
+You acquire an item: magicberry tablets
+You acquire an item: haggis socks
+You acquire an item: Microplushie: Hippylase
+
+cast 15 Summon Resolutions
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be more adventurous
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be luckier
+You acquire an item: resolution: be more adventurous
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be feistier
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+use 1 swirly potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+use 1 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #264/1200:
+Question: What did Ogilvy Anderson's boyfriend find in the toilet tank on Bor seventh, 1971?
+Answer: A juicy desk.
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+When%3F%22
+
+buy 1 Trivial Avocations Card: When? for 267 each from 102069 on 20130324
+You acquire an item: Trivial Avocations Card: When?
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #560/1200:
+Question: When did the Reeves Amber Ninjas win the national knitting championship?
+Answer: 1589.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #662/1200:
+Question: Who outlawed the rubber rotary bucket?
+Answer: Tsar Curly XV's Siamese fighting fish.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #929/1200:
+Question: Where was the Archduke of Bacon electrocuted for the crime of being rude?
+Answer: In the village of Pittsburgh.
+
+use 1 Oscus's neverending soda
+You gain 252 Mojo Points
+
+[12474] Daily Dungeon (Room 0)
+
+[12475] Daily Dungeon (Room 2)
+Encounter: Giant Creepy Floating Skull
+
+[12476] Daily Dungeon (Room 3)
+Encounter: Treasure!
+
+[12476] Daily Dungeon (Room 4)
+Encounter: Did I Leave the Floor On?
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 100 each from 1809712 on 20130324
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[12477] Daily Dungeon (Room 5)
+Encounter: Locked Door
+
+[12478] Daily Dungeon (Room 6)
+Encounter: Treasure!
+
+[12478] Daily Dungeon (Room 7)
+Encounter: Locked Door
+
+[12479] Daily Dungeon (Room 8)
+Encounter: giant giant moth
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: giant giant moth takes 1897 damage.
+Round 2: boolicious wins the fight!
+You gain 16 Meat
+You gain 2 Wizardliness
+You gain 3 Cheek
+
+[12480] Daily Dungeon (Room 9)
+Encounter: vampire clam
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: vampire clam takes 1272 damage.
+Round 2: boolicious wins the fight!
+You gain 19 Meat
+You gain 3 Enchantedness
+You gain 3 Sarcasm
+
+[12481] Daily Dungeon (Room 10)
+Encounter: Treasure!
+You acquire an item: fat loot token
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 5 burned-out arcanodiodes
+
+[12482] Fantasy Airship
+Encounter: Protagonist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: protagonist takes 1192 damage.
+Round 2: boolicious wins the fight!
+You gain 94 Meat
+You acquire an item: phonics down
+You gain 8 Beefiness
+You gain 8 Magicalness
+You gain 13 Sarcasm
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+use 1 swirly potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+use 1 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+[12483] Fantasy Airship
+Encounter: Quiet Healer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: quiet healer takes 1195 damage.
+Round 2: boolicious wins the fight!
+You gain 136 Meat
+You gain 8 Fortitude
+You gain 11 Wizardliness
+You gain 8 Cheek
+
+[12484] Fantasy Airship
+Encounter: Spunky Princess
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 20 hit points
+Round 2: Heckel &amp; Jeckyl barks, "clap that man in irons, I say!" She is too frightened of being sent to the brig to attack this round.
+Round 2: boolicious attacks!
+Round 3: spunky princess takes 1198 damage.
+Round 3: boolicious wins the fight!
+You gain 126 Meat
+You acquire an item: cocoa eggshell fragment
+You gain 6 Strengthliness
+You gain 7 Enchantedness
+You gain a Mysticality point!
+You gain 13 Sarcasm
+
+[12485] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Spunky Princess
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spunky princess takes 1235 damage.
+Round 2: boolicious wins the fight!
+You gain 105 Meat
+You acquire an item: titanium assault umbrella
+You acquire an item: tiny house
+You gain 13 Strongness
+You gain 7 Magicalness
+You gain 7 Cheek
+
+[12486] Fantasy Airship
+Encounter: Spunky Princess
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spunky princess takes 1200 damage.
+Round 2: boolicious wins the fight!
+You gain 124 Meat
+You gain 3 Fortitude
+You gain 7 Magicalness
+You gain 15 Chutzpah
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 100 each from 1809712 on 20130324
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[12487] Fantasy Airship
+Encounter: Burly Sidekick
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: burly sidekick takes 1199 damage.
+Round 2: boolicious wins the fight!
+You gain 116 Meat
+You acquire an item: cocoa eggshell fragment
+You gain 6 Strongness
+You gain 10 Magicalness
+You gain 12 Cheek
+
+[12488] Fantasy Airship
+Encounter: Irritating Series of Random Encounters
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: irritating series of random encounters takes 1181 damage.
+Round 2: boolicious wins the fight!
+You gain 162 Meat
+You gain 12 Fortitude
+You gain 7 Wizardliness
+You gain 11 Smarm
+
+[12489] Fantasy Airship
+Encounter: MagiMechTech MechaMech
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: magimechtech mechamech takes 1180 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: photoprotoneutron torpedo
+You acquire an item: burned-out arcanodiode
+You gain 4 Beefiness
+You gain 17 Enchantedness
+You gain 12 Chutzpah
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22CSA+bravery+badge%22
+
+buy 2 CSA bravery badge for 100 each from 1436117 on 20130324
+You acquire CSA bravery badge (2)
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+[12490] Fantasy Airship
+Encounter: Quiet Healer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: quiet healer takes 845 damage.
+Round 2: boolicious wins the fight!
+You gain 117 Meat
+You gain 4 Fortitude
+You gain 9 Magicalness
+You gain 13 Chutzpah
+
+[12491] Fantasy Airship
+Encounter: MagiMechTech MechaMech
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: magimechtech mechamech takes 818 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: metallic A
+You acquire an item: burned-out arcanodiode
+You gain 15 Muscleboundness
+You gain 10 Enchantedness
+You gain 11 Roguishness
+
+[12492] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Quiet Healer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: quiet healer takes 856 damage.
+Round 2: boolicious wins the fight!
+You gain 124 Meat
+You gain 7 Strongness
+You gain 7 Mysteriousness
+You gain 13 Sarcasm
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22cloudy+potion%22
+
+buy 1 cloudy potion for 295 each from 2391397 on 20130324
+You acquire an item: cloudy potion of blessing
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+use 1 swirly potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+use 1 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+[12493] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Quiet Healer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 20 hit points
+Round 2: boolicious attacks!
+Round 3: quiet healer takes 845 damage.
+Round 3: boolicious wins the fight!
+You gain 114 Meat
+You acquire an item: scroll of drastic healing
+You acquire an item: soft green echo eyedrop antidote
+You gain 11 Fortitude
+You gain 5 Mysteriousness
+You gain 11 Cheek
+
+[12494] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Protagonist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: protagonist takes 846 damage.
+Round 2: boolicious wins the fight!
+You gain 112 Meat
+You acquire an item: super-spiky hair gel
+You acquire an item: ocarina of space
+You gain 4 Strongness
+You gain 8 Magicalness
+You gain 15 Smarm
+
+[12495] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Protagonist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: protagonist takes 837 damage.
+Round 2: boolicious wins the fight!
+You gain 111 Meat
+You acquire an item: super-spiky hair gel
+You gain 11 Strengthliness
+You gain 6 Magicalness
+You gain 12 Sarcasm
+
+[12496] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Protagonist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: protagonist takes 854 damage.
+Round 2: boolicious wins the fight!
+You gain 86 Meat
+You acquire an item: ridiculously huge sword
+You gain 7 Strengthliness
+You gain 9 Magicalness
+You gain 12 Smarm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 100 each from 1809712 on 20130324
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[12497] Fantasy Airship
+Encounter: Protagonist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: protagonist takes 839 damage.
+Round 2: boolicious wins the fight!
+You gain 107 Meat
+You acquire an item: super-spiky hair gel
+You acquire an item: phonics down
+You gain 6 Fortitude
+You gain 8 Mysteriousness
+You gain 14 Cheek
+
+[12498] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Spunky Princess
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spunky princess takes 856 damage.
+Round 2: boolicious wins the fight!
+You gain 105 Meat
+You gain 8 Fortitude
+You gain 5 Mysteriousness
+You gain 13 Smarm
+
+[12499] Fantasy Airship
+Encounter: Burly Sidekick
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: burly sidekick takes 847 damage.
+Round 2: boolicious wins the fight!
+You gain 131 Meat
+You gain 8 Beefiness
+You gain 7 Mysteriousness
+You gain 13 Chutzpah
+
+[12500] Fantasy Airship
+Encounter: MagiMechTech MechaMech
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: magimechtech mechamech takes 834 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: metallic A
+You acquire an item: burned-out arcanodiode
+You gain 7 Beefiness
+You gain 8 Magicalness
+You gain 18 Smarm
+
+[12501] Fantasy Airship
+Encounter: Spunky Princess
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spunky princess takes 863 damage.
+Round 2: boolicious wins the fight!
+You gain 106 Meat
+You acquire an item: cocoa eggshell fragment
+You gain 10 Strengthliness
+You gain 7 Wizardliness
+You gain 9 Roguishness
+
+[12502] Fantasy Airship
+Encounter: Irritating Series of Random Encounters
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: irritating series of random encounters takes 840 damage.
+Round 2: boolicious wins the fight!
+You gain 141 Meat
+You acquire an item: tiny house
+You acquire an item: cocoa eggshell fragment
+You gain 10 Fortitude
+You gain 6 Wizardliness
+You gain 14 Smarm
+
+[12503] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Spunky Princess
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spunky princess takes 889 damage.
+Round 2: boolicious wins the fight!
+You gain 110 Meat
+You gain 11 Fortitude
+You gain 8 Wizardliness
+You gain 8 Cheek
+
+[12504] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Burly Sidekick
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: burly sidekick takes 441 damage.
+Round 2: boolicious wins the fight!
+You gain 139 Meat
+You gain 11 Beefiness
+You gain 7 Mysteriousness
+You gain 11 Sarcasm
+
+[12505] Fantasy Airship
+Encounter: Quiet Healer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: quiet healer takes 489 damage.
+Round 2: boolicious wins the fight!
+You gain 106 Meat
+You gain 12 Fortitude
+You gain 4 Mysteriousness
+You gain 11 Chutzpah
+
+[12506] Fantasy Airship
+Encounter: Protagonist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: protagonist takes 438 damage.
+Round 2: boolicious wins the fight!
+You gain 98 Meat
+You acquire an item: super-spiky hair gel
+You acquire an item: phonics down
+You gain 8 Strongness
+You gain 4 Mysteriousness
+You gain 17 Smarm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+buy 1 Piddles for 100 each from 1809712 on 20130324
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[12507] Fantasy Airship
+Encounter: Burly Sidekick
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: burly sidekick takes 439 damage.
+Round 2: boolicious wins the fight!
+You gain 121 Meat
+You acquire an item: armgun
+You gain 10 Strengthliness
+You gain 5 Enchantedness
+You gain 14 Smarm
+
+[12508] Fantasy Airship
+Encounter: MagiMechTech MechaMech
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 9 hit points
+Round 2: Heckel &amp; Jeckyl barks, "clap that man in irons, I say!" It is too frightened of being sent to the brig to attack this round.
+Round 2: boolicious attacks!
+Round 3: magimechtech mechamech takes 438 damage.
+Round 3: boolicious wins the fight!
+You acquire an item: photoprotoneutron torpedo
+You acquire an item: burned-out arcanodiode
+You gain 10 Strengthliness
+You gain 6 Mysteriousness
+You gain 18 Chutzpah
+
+[12509] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Quiet Healer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: quiet healer takes 440 damage.
+Round 2: boolicious wins the fight!
+You gain 115 Meat
+You gain 10 Beefiness
+You gain 7 Magicalness
+You gain 10 Chutzpah
+
+[12510] Fantasy Airship
+Encounter: Spunky Princess
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: spunky princess takes 454 damage.
+Round 2: Heckel &amp; Jeckyl's bells jingle merrily.
+Round 2: boolicious wins the fight!
+You gain 106 Meat
+You gain 6 Strongness
+You gain 8 Enchantedness
+You gain 11 Cheek
+
+[12511] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Burly Sidekick
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: burly sidekick takes 444 damage.
+Round 2: boolicious wins the fight!
+You gain 107 Meat
+You gain 8 Beefiness
+You gain 8 Enchantedness
+You gain 11 Cheek
+
+[12512] Fantasy Airship
+Encounter: Irritating Series of Random Encounters
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 13 hit points
+Round 2: boolicious attacks!
+Round 3: irritating series of random encounters takes 444 damage.
+Round 3: boolicious wins the fight!
+You gain 134 Meat
+You gain 4 Muscleboundness
+You gain 11 Enchantedness
+You gain 13 Smarm
+
+[12513] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Burly Sidekick
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: burly sidekick takes 443 damage.
+Round 2: boolicious wins the fight!
+You gain 137 Meat
+You acquire an item: Mohawk wig
+You acquire an item: tiny house
+You gain 17 Beefiness
+You gain 4 Magicalness
+You gain 9 Roguishness
+
+[12514] Fantasy Airship
+Encounter: Quiet Healer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: quiet healer takes 455 damage.
+Round 2: boolicious wins the fight!
+You gain 124 Meat
+You acquire an item: scroll of drastic healing
+You acquire an item: Tears of the Quiet Healer
+You gain 10 Muscleboundness
+You gain 7 Mysteriousness
+You gain 11 Roguishness
+
+[12515] Fantasy Airship
+Encounter: Irritating Series of Random Encounters
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: irritating series of random encounters takes 451 damage.
+Round 2: boolicious wins the fight!
+You gain 155 Meat
+You gain 10 Strongness
+You gain 6 Mysteriousness
+You gain 15 Roguishness
+
+[12516] Fantasy Airship
+Encounter: Quiet Healer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: quiet healer takes 463 damage.
+Round 2: boolicious wins the fight!
+You gain 113 Meat
+You gain 7 Strengthliness
+You gain 9 Magicalness
+You gain 11 Cheek
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 100 each from 1809712 on 20130324
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[12517] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Burly Sidekick
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: burly sidekick takes 443 damage.
+Round 2: boolicious wins the fight!
+You gain 140 Meat
+You acquire an item: tiny house
+You gain 7 Beefiness
+You gain 8 Mysteriousness
+You gain 13 Chutzpah
+
+[12518] Fantasy Airship
+Encounter: Irritating Series of Random Encounters
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: irritating series of random encounters takes 440 damage.
+Round 2: boolicious wins the fight!
+You gain 138 Meat
+You gain 10 Muscleboundness
+You gain 5 Enchantedness
+You gain 15 Smarm
+
+[12519] Fantasy Airship
+Encounter: Burly Sidekick
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: burly sidekick takes 442 damage.
+Round 2: boolicious wins the fight!
+You gain 138 Meat
+You gain 11 Beefiness
+You gain 7 Magicalness
+You gain 11 Sarcasm
+
+[12520] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Protagonist
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: protagonist takes 447 damage.
+Round 2: boolicious wins the fight!
+You gain 89 Meat
+You gain 9 Strongness
+You gain 7 Mysteriousness
+You gain 13 Roguishness
+
+[12521] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Quiet Healer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: quiet healer takes 460 damage.
+Round 2: boolicious wins the fight!
+You gain 109 Meat
+You acquire an item: soft green echo eyedrop antidote
+You gain 5 Strongness
+You gain 6 Magicalness
+You gain 15 Chutzpah
+
+[12522] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Quiet Healer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: quiet healer takes 445 damage.
+Round 2: boolicious wins the fight!
+You gain 136 Meat
+You acquire an item: soft green echo eyedrop antidote
+You gain 8 Strongness
+You gain 5 Magicalness
+You gain 13 Chutzpah
+
+[12523] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Spunky Princess
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 10 hit points
+Round 2: boolicious attacks!
+Round 3: spunky princess takes 457 damage.
+Round 3: boolicious wins the fight!
+You gain 117 Meat
+You gain 4 Fortitude
+You gain 4 Mysteriousness
+You gain 16 Chutzpah
+
+[12524] Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/1: enter combat
+choice.php?whichchoice=182&option=1&pwd
+Encounter: Quiet Healer
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: quiet healer takes 444 damage.
+Round 2: boolicious wins the fight!
+You gain 101 Meat
+You gain 9 Strengthliness
+You gain 4 Wizardliness
+You gain 13 Roguishness
+
+[12525] Fantasy Airship
+Encounter: MagiMechTech MechaMech
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: magimechtech mechamech takes 438 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: metallic A
+You acquire an item: photoprotoneutron torpedo
+You acquire an item: burned-out arcanodiode
+You gain 7 Strengthliness
+You gain 6 Magicalness
+You gain 20 Sarcasm
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
