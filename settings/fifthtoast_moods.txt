@@ -7,10 +7,9 @@ lose_effect strange mental acuity => use 1 potion of teleportitis
 lose_effect strength of ten ettins => use 1 potion of detection
 
 [ default ]
-lose_effect leash of linguini => cast 1 leash of linguini
-lose_effect pasta oneness => cast 2 manicotti meditation
-lose_effect springy fusilli => cast 1 springy fusilli
+lose_effect belch the rainbow&trade; => use 2 piddles
 
 [ power ]
+lose_effect belch the rainbow&trade; => use 2 piddles
 lose_effect trivia master => use 1 Trivial Avocations Card: What?, 1 Trivial Avocations Card: When?, 1 Trivial Avocations Card: Who?, 1 Trivial Avocations Card: Where?
 
