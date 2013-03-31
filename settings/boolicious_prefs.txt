@@ -27,7 +27,7 @@ OptionsFrame=360,87,-1
 ProfileFrame=2662,393,-1
 RecentEventsFrame=474,284
 RequestFrame=375,103,-1
-RequestSynchFrame=0,0,-1
+RequestSynchFrame=375,102,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
 StoreManageFrame=-8,-8,1
@@ -37,7 +37,7 @@ _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
 _allYearSucker=false
-_aprilShower=false
+_aprilShower=true
 _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
@@ -45,13 +45,13 @@ _bagOfCandy=false
 _bagOfCandyUsed=true
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=false
+_ballpit=true
 _banderRunaways=0
 _bearHugs=0
 _beerLensDrops=0
 _benettonsCasts=0
 _bonersSummoned=false
-_bootStomps=0
+_bootStomps=6
 _borrowedTimeUsed=false
 _boxOfHammersUsed=false
 _boxingGloveArrows=0
@@ -133,7 +133,7 @@ _jiggleSteak=0
 _jingleBellUsed=false
 _jitbCharge=0
 _jukebox=false
-_jungDrops=0
+_jungDrops=1
 _klawSummons=0
 _kloopDrops=0
 _kolConSixPackUsed=false
@@ -148,18 +148,18 @@ _mayflySummons=0
 _mediumSiphons=0
 _nanorhinoBanishedMonster
 _navelRunaways=0
-_olympicSwimmingPool=false
+_olympicSwimmingPool=true
 _olympicSwimmingPoolItemFound=true
-_pasteDrops=0
+_pasteDrops=6
 _photocopyUsed=false
 _pieDrops=0
 _piePartsCount=0
 _pneumaticityPotionUsed=false
 _poisonArrows=0
-_poolGames=2
+_poolGames=3
 _precisionCasts=0
 _psychoJarFilled=false
-_psychoJarUsed=false
+_psychoJarUsed=true
 _radlibSummons=0
 _raindohCopiesMade=0
 _requestSandwichSucceeded=false
@@ -313,7 +313,7 @@ birdformSpooky=0
 birdformStench=0
 blackPuddingsDefeated=50
 blankOutUsed=0
-bootsCharged=false
+bootsCharged=true
 borisPoints=0
 breakableHandling=1
 breakableHandling1964=2
@@ -734,16 +734,16 @@ choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=false
+concertVisited=true
 counterScript
-crimboTreeDays=2
+crimboTreeDays=1
 currentBountyItem=0
-currentFullness=0
+currentFullness=2
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
 currentMojoFilters=0
-currentMood=default
+currentMood=powered
 currentNunneryMeat=87942
 currentPvpVictories
 currentSpleenUse=0
@@ -770,12 +770,12 @@ demonName6=Tatter
 demonName7=Ak'gyxoth
 demonName8=Kel'Gorefoo
 demonName9
-demonSummoned=false
+demonSummoned=true
 desktopHeight=600
 desktopWidth=800
 discardedKarma=0
 distentionPillActive=false
-dolphinItem=glistening fish meat
+dolphinItem=nurse's hat
 doorCode
 expressCardUsed=false
 extraRolloverAdventures=0
@@ -799,7 +799,7 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=33
-friarsBlessingReceived=false
+friarsBlessingReceived=true
 goldenMrAccessories=0
 gongPath=10
 gourdItemCount=12
@@ -820,11 +820,11 @@ hpAutoRecovery=0.2
 hpAutoRecoveryItems=free disco rest;medicinal herb's medicinal herbs;cannelloni cocoon;visit the nuns;relaxing hot tub;red pixel potion;really thick bandage;pok&euml;mann band-aid;filthy poultice;gauze garter;bottle of vangoghbitussin;plump juicy grub;elven medi-pack;generic healing potion;ancient magi-wipes;palm-frond fan;tongue of the walrus;tiny house;disco nap;lasagna bandages;cast;tongue of the otter;sugar shard;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent;notes from the elfpocalypse, chapter i;notes from the elfpocalypse, chapter ii;notes from the elfpocalypse, chapter iii;notes from the elfpocalypse, chapter iv;notes from the elfpocalypse, chapter v;notes from the elfpocalypse, chapter vi
 hpAutoRecoveryTarget=0.8
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
-jungCharge=8
+jungCharge=46
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
-lastAdventure=Daily Dungeon (Room 10)
+lastAdventure=Regret Man's Level
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -840,14 +840,14 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
-lastBreakfast=13
+lastBreakfast=14
 lastCellarReset=4
 lastChanceBurn
 lastChanceThreshold=100
 lastChasmReset=4
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastCouncilVisit=14
-lastCounterDay=13
+lastCounterDay=14
 lastDispensaryOpen=3
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -888,7 +888,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-lastEncounter=dodecapede
+lastEncounter=contemplative ghost
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -965,7 +965,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=4
 lastWuTangDefeated=1
 lastZapperWand=4
-libramSummons=9
+libramSummons=12
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=6
@@ -1011,8 +1011,8 @@ pastamancerOrbedType
 pendingMapReflections=5
 photocopyMonster=monster
 pieStuffing
-plantingDate=13
-plantingDay=1
+plantingDate=14
+plantingDay=2
 plantingLength=5
 plantingScript=frozen
 poolSharkCount=1
@@ -1083,7 +1083,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters
+relayCounters=13005\:Semirare window begin loc\=*\:lparen.gif\:13045\:Semirare window end loc\=*\:rparen.gif
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
@@ -1093,8 +1093,8 @@ safePickpocket=true
 scriptMRULength=0
 scriptMRUList
 seaodesFound=0
-semirareCounter=12670
-semirareLocation=The Ancient Hobo Burial Ground
+semirareCounter=12845
+semirareLocation=The Dive Bar
 serverAddsCustomCombat=false
 sexChanges=0
 showGainsPerUnit=false
@@ -1157,7 +1157,7 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=false
+telescopeLookedHigh=true
 telescopeUpgrades=1
 tempuraSummons=0
 textColors=crappy\:\#999999|good\:green|awesome\:blue|epic\:\#8a2be2|junk\:gray|memento\:olive|notavailable\:gray
