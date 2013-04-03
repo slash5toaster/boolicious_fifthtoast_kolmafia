@@ -1,0 +1,13 @@
+[ default ]
+item rock band flyers
+while !hpbelow 20
+    if match "It whips out a hammer" || match "whips out a crescent wrench" || match "whips out a pair of pliers" || match "whips out a screwdriver"
+        item molybdenum magnet
+        skill chop
+    endif
+    skill curdle
+    if hpbelow 200
+        jiggle chefstaff
+    endif
+endwhile
+
