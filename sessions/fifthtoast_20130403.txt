@@ -1955,3 +1955,173 @@ Took choice 451/4: mysticality substats
 choice.php?pwd&whichchoice=451&option=4&choiceform4=The+lower-case+E
 You gain 10 Wizardliness
 You gain 100 Mojo Points
+
+drink 1 mediocre lager
+You gain 2 Adventures
+You gain 15 Wizardliness
+You gain 9 Roguishness
+You gain 2 Drunkenness
+
+use 13 twinkly wad
+You gain 13 Adventures
+You gain 120 Fortitude
+You gain a Muscle point!
+You gain 118 Enchantedness
+You gain 127 Chutzpah
+You acquire an effect: Aspect of the Twinklefairy (duration: 130 Adventures)
+
+take from closet: 1 black striped oyster egg
+You acquire an item: black striped oyster egg
+
+use 1 black striped oyster egg
+You acquire an effect: Egg-stortionary Tactics (duration: 20 Adventures)
+You gain 11 Strongness
+
+take from closet: 1 black striped oyster egg
+You acquire an item: black striped oyster egg
+
+use 1 black striped oyster egg
+You acquire an effect: Egg-stortionary Tactics (duration: 20 Adventures)
+You gain 15 Strengthliness
+
+[3014] Daily Dungeon (Room 1)
+Encounter: Locked Door
+
+[3015] Daily Dungeon (Room 2)
+Encounter: Giant Creepy Floating Skull
+
+[3016] Daily Dungeon (Room 3)
+Encounter: Treasure!
+You acquire an item: extra-strength strongness elixir
+
+[3017] Daily Dungeon (Room 4)
+Encounter: tonic water elemental
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast uses the rock band flyers!
+Round 2: tonic water elemental takes 3 damage.
+Round 2: tonic water elemental takes 7 damage.
+Round 2: tonic water elemental takes 3 damage.
+You lose 1 hit point
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast uses the rock band flyers!
+Round 3: fifthtoast casts CURDLE!
+Round 4: tonic water elemental takes 22 damage.
+Round 4: fifthtoast wins the fight!
+You gain 28 Meat
+You gain 1 Strengthliness
+You gain 4 Magicalness
+You gain 4 Roguishness
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 2 Piddles for 100 each from 1809712 on 20130403
+You acquire Piddles (2)
+
+use 2 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 20 Adventures)
+
+[3018] Daily Dungeon (Room 5)
+Encounter: giant giant moth
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the rock band flyers!
+Round 2: giant giant moth takes 3 damage.
+Round 2: giant giant moth takes 7 damage.
+Round 2: giant giant moth takes 5 damage.
+You lose 1 hit point
+Round 2: fifthtoast wins the fight!
+You gain 25 Meat
+You gain 1 Fortitude
+You gain 3 Enchantedness
+You gain 4 Cheek
+
+[3019] Daily Dungeon (Room 6)
+Encounter: Treasure!
+You acquire an item: Pick-O-Matic lockpicks
+
+[3020] Daily Dungeon (Room 7)
+Encounter: Smooth Criminal
+
+[3021] Daily Dungeon (Room 8)
+Encounter: Did I Leave the Floor On?
+
+[3022] Daily Dungeon (Room 9)
+Encounter: apathetic lizardman
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the rock band flyers!
+Round 2: apathetic lizardman takes 2 damage.
+Round 2: apathetic lizardman takes 4 damage.
+Round 2: apathetic lizardman takes 4 damage.
+You lose 1 hit point
+Round 2: fifthtoast casts CURDLE!
+Round 3: apathetic lizardman takes 22 damage.
+Round 3: fifthtoast wins the fight!
+You gain 30 Meat
+You gain 5 Fortitude
+You gain 2 Mysteriousness
+You gain 2 Chutzpah
+
+[3023] Daily Dungeon (Room 10)
+Encounter: Treasure!
+You acquire an item: fat loot token
+
+adventure.php?snarfblat=118
+
+[3024] Hidden City (Square 24)
+Encounter: pygmy assault squad
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the rock band flyers!
+Round 2: pygmy assault squad takes 1 damage.
+Round 2: pygmy assault squad takes 9 damage.
+Round 2: pygmy assault squad takes 3 damage.
+You lose 13 hit points
+Round 2: fifthtoast casts CURDLE!
+Round 3: pygmy assault squad takes 45 damage.
+Round 3: fifthtoast casts CURDLE!
+Round 4: pygmy assault squad takes 45 damage.
+Round 4: fifthtoast casts CURDLE!
+Round 5: pygmy assault squad takes 45 damage.
+Round 5: fifthtoast casts CURDLE!
+Round 6: pygmy assault squad takes 45 damage.
+Round 6: fifthtoast wins the fight!
+You gain 209 Meat
+You acquire an item: jungle drum
+You gain 9 Strongness
+You gain 23 Enchantedness
+You gain 9 Cheek
+
+adventure.php?snarfblat=118
+
+[3025] Hidden City (Square 24)
+Encounter: boaraffe
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the rock band flyers!
+Round 2: boaraffe takes 3 damage.
+Round 2: boaraffe takes 5 damage.
+Round 2: boaraffe takes 3 damage.
+You lose 20 hit points
+Round 2: fifthtoast casts CURDLE!
+Round 3: boaraffe takes 22 damage.
+Round 3: fifthtoast casts CURDLE!
+Round 4: boaraffe takes 22 damage.
+Round 4: fifthtoast casts CURDLE!
+Round 5: boaraffe takes 22 damage.
+Round 5: fifthtoast casts CURDLE!
+Round 6: boaraffe takes 22 damage.
+Round 6: fifthtoast casts CURDLE!
+Round 7: boaraffe takes 22 damage.
+Round 7: fifthtoast casts CURDLE!
+Round 8: boaraffe takes 22 damage.
+Round 8: fifthtoast casts CURDLE!
+Round 9: boaraffe takes 22 damage.
+Round 9: fifthtoast wins the fight!
+You gain 169 Meat
+You acquire an item: long pork
+You gain 12 Strengthliness
+You gain 19 Mysteriousness
+You gain a Mysticality point!
+You gain 9 Sarcasm
+outfit War Hippy Fatigues
