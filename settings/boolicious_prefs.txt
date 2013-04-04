@@ -37,7 +37,7 @@ _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
 _allYearSucker=false
-_aprilShower=true
+_aprilShower=false
 _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
@@ -123,7 +123,7 @@ _jarlsFruitSummoned=false
 _jarlsMeatSummoned=false
 _jarlsPotatoSummoned=false
 _jarlsVeggiesSummoned=false
-_jickJarAvailable=false
+_jickJarAvailable=unknown
 _jiggleCheese=0
 _jiggleCheesedMonsters
 _jiggleCream=0
@@ -133,7 +133,7 @@ _jiggleSteak=0
 _jingleBellUsed=false
 _jitbCharge=0
 _jukebox=false
-_jungDrops=0
+_jungDrops=1
 _klawSummons=0
 _kloopDrops=0
 _kolConSixPackUsed=false
@@ -734,16 +734,16 @@ choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=true
+concertVisited=false
 counterScript
-crimboTreeDays=5
-currentBountyItem=0
+crimboTreeDays=3
+currentBountyItem=2471
 currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
 currentMojoFilters=0
-currentMood=powered
+currentMood=default
 currentNunneryMeat=87942
 currentPvpVictories
 currentSpleenUse=0
@@ -820,11 +820,11 @@ hpAutoRecovery=0.2
 hpAutoRecoveryItems=free disco rest;medicinal herb's medicinal herbs;cannelloni cocoon;visit the nuns;relaxing hot tub;red pixel potion;really thick bandage;pok&euml;mann band-aid;filthy poultice;gauze garter;bottle of vangoghbitussin;plump juicy grub;elven medi-pack;generic healing potion;ancient magi-wipes;palm-frond fan;tongue of the walrus;tiny house;disco nap;lasagna bandages;cast;tongue of the otter;sugar shard;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent;notes from the elfpocalypse, chapter i;notes from the elfpocalypse, chapter ii;notes from the elfpocalypse, chapter iii;notes from the elfpocalypse, chapter iv;notes from the elfpocalypse, chapter v;notes from the elfpocalypse, chapter vi
 hpAutoRecoveryTarget=0.8
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
-jungCharge=4
+jungCharge=16
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
-lastAdventure=Daily Dungeon (Room 10)
+lastAdventure=Hole in the Sky
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -840,14 +840,14 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
-lastBreakfast=1
+lastBreakfast=3
 lastCellarReset=4
 lastChanceBurn
 lastChanceThreshold=100
 lastChasmReset=4
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastCouncilVisit=14
-lastCounterDay=1
+lastCounterDay=3
 lastDispensaryOpen=3
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -888,7 +888,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-lastEncounter=pencil golem
+lastEncounter=The Burrowing Bishop
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -965,7 +965,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=4
 lastWuTangDefeated=1
 lastZapperWand=4
-libramSummons=16
+libramSummons=9
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=6
@@ -994,7 +994,7 @@ mpAutoRecoveryItems=free disco rest;galaktik's fizzy invigorating tonic;visit th
 mpAutoRecoveryTarget=0.5
 munchiesPillsUsed=0
 noodleSummons=0
-nunsVisits=1
+nunsVisits=0
 oceanAction=show
 oceanDestination=plinth
 olfactedMonster=ancient insane monk
@@ -1011,8 +1011,8 @@ pastamancerOrbedType
 pendingMapReflections=6
 photocopyMonster=monster
 pieStuffing
-plantingDate=1
-plantingDay=0
+plantingDate=3
+plantingDay=1
 plantingLength=5
 plantingScript=frozen
 poolSharkCount=1
@@ -1083,7 +1083,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-relayCounters=13154\:Fortune Cookie\:fortune.gif\:13181\:Fortune Cookie\:fortune.gif
+relayCounters
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
