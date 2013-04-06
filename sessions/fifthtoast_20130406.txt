@@ -1,0 +1,150 @@
+
+use 1 gremlin juice
+You acquire an effect: Comic Violence (duration: 5 Adventures)
+
+use 1 jaba&ntilde;ero-flavored chewing gum
+You acquire an effect: Spicy Mouth (duration: 5 Adventures)
+
+use 1 bubbly potion of teleportitis
+You acquire an effect: Teleportitis (duration: 10 Adventures)
+You acquire an item: huge mirror shard
+You acquire an item: easter egg balloon
+You acquire an item: fishtank
+
+equip hat astral chapeau
+
+equip back Misty Robe
+
+equip shirt ASCII shirt
+
+equip pants sugar shorts
+
+equip acc1 Mr. Joe's bangles
+
+equip acc2 gearbox necklace
+
+equip acc3 Pink Heart of Spirit
+
+cast 1 Conjure Eggs
+You acquire cosmic egg (3)
+
+cast 1 Conjure Vegetables
+You acquire cosmic vegetable (3)
+
+cast 1 Conjure Potato
+You acquire cosmic potato (3)
+
+cast 1 Conjure Fruit
+You acquire cosmic fruit (3)
+
+cast 1 Egg Man
+
+cast 1 Conjure Dough
+You acquire cosmic dough (3)
+
+[3217] Rest in Clan Sofa (4 turns)
+You gain 69 hit points
+You gain 300 Mojo Points
+
+[3217] Rest in Clan Sofa (1 turns)
+You gain 75 Mojo Points
+You acquire an item: Boris's key
+You acquire an item: Sneaky Pete's key
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 2 Piddles for 100 each from 1132390 on 20130406
+You acquire Piddles (2)
+
+use 2 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 20 Adventures)
+
+[3222] Haiku Dungeon
+Encounter: L imp
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: l imp takes 30 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: l imp takes 1 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: l imp takes 50 damage.
+Round 4: fifthtoast wins the fight!
+You gain 26 Meat
+You acquire an item: Imp Ale
+You gain 3 Fortitude
+You gain 6 Wizardliness
+You gain 6 Cheek
+
+[3223] Oasis in the Desert
+Encounter: Glug, Glug, Glug
+You acquire an effect: Ultrahydrated (duration: 5 Adventures)
+choice.php?forceoption=0
+
+[3224] Oasis in the Desert
+Encounter: The Oracle Will See You Now
+Took choice 3/3: make plus sign usable
+choice.php?pwd&whichchoice=3&option=3
+You lose 1,000 Meat
+
+use 1 plus sign
+
+use 1 plus sign
+You acquire small box (7)
+You acquire large box (9)
+You acquire magic whistle (2)
+You acquire royal jelly (4)
+You acquire mind flayer corpse (2)
+You acquire cornuthaum (5)
+You acquire vorpal blade (3)
+You acquire ring of aggravate monster (4)
+
+use 1 plus sign
+
+gnomes.php?place=elder
+gnomes.php?place=skills
+gnomes.php?place=tinker
+
+[3225] A Maze of Sewer Tunnels
+Encounter: cavewomyn hippy
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: cavewomyn hippy takes 1 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: cavewomyn hippy takes 50 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: cavewomyn hippy takes 50 damage.
+Round 4: fifthtoast casts FRY!
+Round 5: cavewomyn hippy takes 354 damage.
+Round 5: fifthtoast wins the fight!
+You gain 19 Muscleboundness
+You gain 33 Enchantedness
+You gain 16 Chutzpah
+
+equip weapon Staff of the Staff of Life
+
+equip off-hand hobo code binder
+
+postwarisland.php?place=concert
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+
+[3226] McMillicancuddy's Farm
+Encounter: possessed wine rack
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: possessed wine rack takes 44 damage.
+Round 2: possessed wine rack takes 2 damage.
+Round 2: possessed wine rack takes 1 damage.
+Round 2: possessed wine rack takes 3 damage.
+You lose 12 hit points
+Round 2: fifthtoast casts BOIL!
+Round 3: possessed wine rack takes 150 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: dusty bottle of great Port
+You gain 10 Muscleboundness
+You gain 20 Wizardliness
+You gain 14 Smarm
+You gain 4,236 Meat
