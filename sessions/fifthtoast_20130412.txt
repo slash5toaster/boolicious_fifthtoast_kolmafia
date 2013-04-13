@@ -791,3 +791,972 @@ You gain 5 Cheek
 
 Visiting the Bounty Hunter Hunter
 You acquire an item: filthy lucre
+
+[3408] Dungeons of Doom
+Encounter: A Dash of Boulder
+You gain 21 Fortitude
+You gain a Muscle point!
+choice.php?forceoption=0
+
+[3409] Dungeons of Doom
+Encounter: Ouch!  You bump into a door!
+Took choice 25/1: magic lamp
+choice.php?pwd&whichchoice=25&option=1
+You acquire an item: magic lamp
+
+[3410] Dungeons of Doom
+Encounter: A Dash of Boulder
+You gain 21 Beefiness
+
+[3411] Dungeons of Doom
+Encounter: swarm of killer bees
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast jiggles the Staff of the Staff of Life
+Round 2: You jiggle the staff.  A massive cloud of flour spews forth from it, totally enveloping you.  When the cloud clears, it becomes apparent that the flour has filled in all of the gaps in your skin, bone, and muscles left by your injuries.  You feel great!Your opponents cough, comically emitting a little puff of flour.
+Round 2: You gain 1 hit point.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: swarm of killer bees takes 22 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: swarm of killer bees takes 75 damage.
+Round 4: fifthtoast wins the fight!
+You gain 2 Muscleboundness
+You gain 7 Mysteriousness
+You gain 7 Cheek
+
+[3412] The Slime Tube
+Encounter: glistening Slime nodule
+Round 0: fifthtoast wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: slime1 takes 22 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: slime1 takes 75 damage.
+Round 3: fifthtoast jiggles the Staff of the Staff of Life
+Round 4: You jiggle the staff.  A massive cloud of flour spews forth from it, totally enveloping you.  When the cloud clears, it becomes apparent that the flour has filled in all of the gaps in your skin, bone, and muscles left by your injuries.  You feel great!Your opponent coughs, comically emitting a little puff of flour.
+Round 4: You gain 1 hit point.
+Round 4: fifthtoast casts CHOP!
+Round 5: slime1 takes 75 damage.
+Round 5: fifthtoast casts FRY!
+Round 6: slime1 takes 241 damage.
+Round 6: fifthtoast wins the fight!
+You gain 7 Strengthliness
+You gain 15 Magicalness
+You gain 10 Roguishness
+
+[3413] The Slime Tube
+Encounter: squirming Slime polyp
+Round 0: fifthtoast wins initiative!
+You lose 19 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: slime1 takes 22 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: slime1 takes 75 damage.
+Round 3: fifthtoast jiggles the Staff of the Staff of Life
+Round 4: You jiggle the staff.  A massive cloud of flour spews forth from it, totally enveloping you.  When the cloud clears, it becomes apparent that the flour has filled in all of the gaps in your skin, bone, and muscles left by your injuries.  You feel great!Your opponent coughs, comically emitting a little puff of flour.
+Round 4: You gain 19 hit points.
+Round 4: fifthtoast casts CHOP!
+Round 5: slime1 takes 75 damage.
+Round 5: slime1 takes 2 damage.
+Round 5: slime1 takes 2 damage.
+Round 5: slime1 takes 3 damage.
+You lose 7 hit points
+Round 5: fifthtoast casts FRY!
+Round 6: slime1 takes 240 damage.
+Round 6: fifthtoast wins the fight!
+You acquire an item: slimy fermented bile bladder
+You gain 8 Beefiness
+You gain 15 Wizardliness
+You gain 8 Roguishness
+
+clan_slimetube.php?action=chamois
+You lose an effect: Coated in Slime
+
+[3414] The Slime Tube
+Encounter: throbbing Slime lump
+Round 0: fifthtoast wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: slime1 takes 22 damage.
+Round 2: slime1 takes 3 damage.
+Round 2: slime1 takes 9 damage.
+Round 2: slime1 takes 5 damage.
+You lose 6 hit points
+Round 2: fifthtoast casts BOIL!
+Round 3: slime1 takes 75 damage.
+Round 3: slime1 takes 2 damage.
+Round 3: slime1 takes 7 damage.
+Round 3: slime1 takes 4 damage.
+You lose 2 hit points
+Round 3: fifthtoast jiggles the Staff of the Staff of Life
+Round 4: You jiggle the staff.  A massive cloud of flour spews forth from it, totally enveloping you.  When the cloud clears, it becomes apparent that the flour has filled in all of the gaps in your skin, bone, and muscles left by your injuries.  You feel great!Your opponent coughs, comically emitting a little puff of flour.
+Round 4: You gain 8 hit points.
+Round 4: fifthtoast casts CHOP!
+Round 5: slime1 takes 75 damage.
+Round 5: slime1 takes 1 damage.
+Round 5: slime1 takes 4 damage.
+Round 5: slime1 takes 5 damage.
+You lose 6 hit points
+Round 5: fifthtoast casts FRY!
+Round 6: slime1 takes 241 damage.
+Round 6: fifthtoast wins the fight!
+You gain 7 Strongness
+You gain 11 Mysteriousness
+You gain 14 Chutzpah
+
+[3415] The Slime Tube
+Encounter: throbbing Slime pseudopod
+Round 0: fifthtoast wins initiative!
+You lose 19 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: slime1 takes 22 damage.
+Round 2: slime1 takes 3 damage.
+Round 2: slime1 takes 5 damage.
+Round 2: slime1 takes 4 damage.
+You lose 8 hit points
+Round 2: fifthtoast casts BOIL!
+Round 3: slime1 takes 75 damage.
+Round 3: slime1 takes 2 damage.
+Round 3: slime1 takes 7 damage.
+Round 3: slime1 takes 5 damage.
+You lose 9 hit points
+Round 3: fifthtoast jiggles the Staff of the Staff of Life
+Round 4: You jiggle the staff.  A massive cloud of flour spews forth from it, totally enveloping you.  When the cloud clears, it becomes apparent that the flour has filled in all of the gaps in your skin, bone, and muscles left by your injuries.  You feel great!Your opponent coughs, comically emitting a little puff of flour.
+Round 4: You gain 36 hit points.
+Round 4: fifthtoast casts CHOP!
+Round 5: slime1 takes 75 damage.
+Round 5: fifthtoast casts FRY!
+Round 6: slime1 takes 456 damage.
+Round 6: fifthtoast wins the fight!
+You gain 8 Beefiness
+You gain 16 Enchantedness
+You gain 8 Chutzpah
+
+[3416] The Slime Tube
+Encounter: pulsating Slime lump
+Round 0: fifthtoast wins initiative!
+You lose 57 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: slime1 takes 22 damage.
+Round 2: slime1 takes 1 damage.
+Round 2: slime1 takes 9 damage.
+Round 2: slime1 takes 4 damage.
+You lose 8 hit points
+Round 2: fifthtoast casts BOIL!
+Round 3: slime1 takes 75 damage.
+Round 3: slime1 takes 2 damage.
+Round 3: slime1 takes 7 damage.
+Round 3: slime1 takes 5 damage.
+You lose 6 hit points
+Round 3: fifthtoast jiggles the Staff of the Staff of Life
+Round 4: You jiggle the staff.  There is a weak coughing sound, and a little puff of flour shoots out of the end of it.  Oh well.  You rub the flour on some of your wounds, and it helps a little.Your opponet is too busy snickering to attack you this round.
+Round 4: You gain 12 hit points.
+Round 4: fifthtoast casts CHOP!
+Round 5: slime1 takes 75 damage.
+Round 5: slime1 takes 3 damage.
+Round 5: slime1 takes 2 damage.
+Round 5: slime1 takes 4 damage.
+You lose 8 hit points
+Round 5: fifthtoast casts FRY!
+Round 6: slime1 takes 235 damage.
+Round 6: fifthtoast wins the fight!
+You gain 10 Beefiness
+You gain 16 Wizardliness
+You gain 6 Chutzpah
+
+[3417] The Slime Tube
+Encounter: dripping Slime polyp
+Round 0: fifthtoast wins initiative!
+You lose 124 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: slime1 takes 22 damage.
+Round 2: slime1 takes 3 damage.
+Round 2: slime1 takes 6 damage.
+Round 2: slime1 takes 3 damage.
+You lose 8 hit points
+Round 2: fifthtoast casts BOIL!
+Round 3: slime1 takes 75 damage.
+Round 3: slime1 takes 1 damage.
+Round 3: slime1 takes 6 damage.
+Round 3: slime1 takes 5 damage.
+You lose 8 hit points
+Round 3: fifthtoast jiggles the Staff of the Staff of Life
+Round 4: You jiggle the staff.  There is a weak coughing sound, and a little puff of flour shoots out of the end of it.  Oh well.  You rub the flour on some of your wounds, and it helps a little.Your opponet is too busy snickering to attack you this round.
+Round 4: You gain 12 hit points.
+Round 4: fifthtoast casts CHOP!
+Round 5: slime1 takes 75 damage.
+Round 5: slime1 takes 1 damage.
+Round 5: slime1 takes 6 damage.
+Round 5: slime1 takes 3 damage.
+You lose 7 hit points
+Round 5: fifthtoast casts FRY!
+Round 6: slime1 takes 247 damage.
+Round 6: fifthtoast wins the fight!
+You gain 9 Muscleboundness
+You gain 16 Wizardliness
+You gain 6 Roguishness
+
+[3418] The Slime Tube
+Encounter: Engulfed!
+Took choice 337/1: +1 rusty -> slime-covered item conversion
+choice.php?whichchoice=337&option=1&pwd
+
+[3419] The Slime Tube
+Encounter: throbbing Slime pseudopod
+Round 0: fifthtoast wins initiative!
+You lose 374 hit points
+
+[3420] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 100 hit points
+You gain 162 Mana Points
+
+Visiting Mr. Store
+
+mall.php?pudnuggler=jar&category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=3
+mall.php?pudnuggler=jar&category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=3&start=10
+mall.php?pudnuggler=jar&category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=3&start=20
+clan_slimetube.php?action=bucket
+clan_slimetube.php?action=chamois
+You lose an effect: Coated in Slime
+
+[3420] The Slime Tube
+Encounter: throbbing Slime nodule
+Round 0: fifthtoast wins initiative!
+You acquire an effect: Coated in Slime (duration: 10 Adventures)
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: slime1 takes 22 damage.
+Round 2: slime1 takes 2 damage.
+Round 2: slime1 takes 3 damage.
+Round 2: slime1 takes 5 damage.
+You lose 8 hit points
+Round 2: fifthtoast casts BOIL!
+Round 3: slime1 takes 75 damage.
+Round 3: slime1 takes 3 damage.
+Round 3: slime1 takes 2 damage.
+Round 3: slime1 takes 3 damage.
+You lose 4 hit points
+Round 3: fifthtoast jiggles the Staff of the Staff of Life
+Round 4: You jiggle the staff.  There is a weak coughing sound, and a little puff of flour shoots out of the end of it.  Oh well.  You rub the flour on some of your wounds, and it helps a little.Your opponet is too busy snickering to attack you this round.
+Round 4: You gain 12 hit points.
+Round 4: fifthtoast casts CHOP!
+Round 5: slime1 takes 75 damage.
+Round 5: slime1 takes 3 damage.
+Round 5: slime1 takes 6 damage.
+Round 5: slime1 takes 5 damage.
+You lose 8 hit points
+Round 5: fifthtoast casts FRY!
+Round 6: slime1 takes 249 damage.
+Round 6: fifthtoast wins the fight!
+You gain 9 Muscleboundness
+You gain 13 Mysteriousness
+You gain 9 Smarm
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 2 Piddles for 100 each from 2013921 on 20130412
+You acquire Piddles (2)
+
+use 2 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 20 Adventures)
+
+[3421] The Slime Tube
+Encounter: squirming Slime lump
+Round 0: fifthtoast wins initiative!
+You lose 19 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: slime1 takes 22 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: slime1 takes 75 damage.
+Round 3: slime1 takes 3 damage.
+Round 3: slime1 takes 4 damage.
+Round 3: slime1 takes 4 damage.
+You lose 3 hit points
+Round 3: fifthtoast jiggles the Staff of the Staff of Life
+Round 4: You jiggle the staff.  There is a weak coughing sound, and a little puff of flour shoots out of the end of it.  Oh well.  You rub the flour on some of your wounds, and it helps a little.Your opponet is too busy snickering to attack you this round.
+Round 4: You gain 13 hit points.
+Round 4: fifthtoast casts CHOP!
+Round 5: slime1 takes 150 damage.
+Round 5: fifthtoast wins the fight!
+You gain 7 Strengthliness
+You gain 12 Wizardliness
+You gain 13 Sarcasm
+
+clan_slimetube.php?action=chamois
+You lose an effect: Coated in Slime
+
+[3422] Rest in your dwelling
+You gain 98 hit points
+You gain 15 Mana Points
+
+eat 1 consummate brownie
+You gain 14 Adventures
+You gain 19 Strengthliness
+You gain 89 Magicalness
+You gain 25 Roguishness
+You gain 3 Fullness
+
+[3422] Black Forest
+Encounter: blackberry bush
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: blackberry bush takes 22 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: blackberry bush takes 75 damage.
+Round 3: fifthtoast jiggles the Staff of the Staff of Life
+Round 4: You jiggle the staff.  There is a weak coughing sound, and a little puff of flour shoots out of the end of it.  Oh well.  You rub the flour on some of your wounds, and it helps a little.Your opponet is too busy snickering to attack you this round.
+Round 4: You gain 12 hit points.
+Round 4: fifthtoast casts CHOP!
+Round 5: blackberry bush takes 75 damage.
+Round 5: fifthtoast wins the fight!
+You gain 11 Strengthliness
+You gain 13 Enchantedness
+You gain 8 Cheek
+
+Visiting the pretentious artist
+
+Visiting the pretentious artist
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=3&pudnuggler=%22pumpkin%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=3&pudnuggler=%22peppermint+crook%22
+
+[3423] McMillicancuddy's Farm
+Encounter: zombie duck
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: zombie duck takes 90 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: zombie duck takes 150 damage.
+Round 3: fifthtoast wins the fight!
+You gain 170 Meat
+You gain 9 Muscleboundness
+You gain 24 Enchantedness
+You gain 10 Cheek
+
+[3424] McMillicancuddy's Farm
+Encounter: swamp duck
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp duck takes 1 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: swamp duck takes 75 damage.
+Round 3: swamp duck takes 2 damage.
+Round 3: swamp duck takes 8 damage.
+Round 3: swamp duck takes 4 damage.
+You lose 13 hit points
+Round 3: fifthtoast jiggles the Staff of the Staff of Life
+Round 4: You jiggle the staff.  There is a weak coughing sound, and a little puff of flour shoots out of the end of it.  Oh well.  You rub the flour on some of your wounds, and it helps a little.Your opponet is too busy snickering to attack you this round.
+Round 4: You gain 13 hit points.
+Round 4: fifthtoast casts CHOP!
+Round 5: swamp duck takes 75 damage.
+Round 5: fifthtoast casts FRY!
+Round 6: swamp duck takes 494 damage.
+Round 6: fifthtoast wins the fight!
+You gain 177 Meat
+You acquire an item: fetid feather
+You gain 10 Fortitude
+You gain 22 Enchantedness
+You gain 11 Roguishness
+
+[3425] Hippy Camp (Stone Age)
+Encounter: sabre-toothed ferret
+Round 0: fifthtoast loses initiative!
+Round 1: sabre-toothed ferret takes 3 damage.
+Round 1: sabre-toothed ferret takes 7 damage.
+Round 1: sabre-toothed ferret takes 4 damage.
+You lose 30 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: sabre-toothed ferret takes 1 damage.
+Round 2: sabre-toothed ferret takes 2 damage.
+Round 2: sabre-toothed ferret takes 3 damage.
+Round 2: sabre-toothed ferret takes 3 damage.
+You lose 29 hit points
+Round 2: fifthtoast casts BOIL!
+Round 3: sabre-toothed ferret takes 75 damage.
+Round 3: sabre-toothed ferret takes 3 damage.
+Round 3: sabre-toothed ferret takes 8 damage.
+Round 3: sabre-toothed ferret takes 5 damage.
+You lose 33 hit points
+Round 3: fifthtoast jiggles the Staff of the Staff of Life
+Round 4: You jiggle the staff.  There is a weak coughing sound, and a little puff of flour shoots out of the end of it.  Oh well.  You rub the flour on some of your wounds, and it helps a little.Your opponet is too busy snickering to attack you this round.
+Round 4: You gain 12 hit points.
+Round 4: fifthtoast casts CHOP!
+Round 5: sabre-toothed ferret takes 75 damage.
+Round 5: sabre-toothed ferret takes 2 damage.
+Round 5: sabre-toothed ferret takes 10 damage.
+Round 5: sabre-toothed ferret takes 3 damage.
+You lose 30 hit points
+Round 5: fifthtoast wins the fight!
+You gain 192 Meat
+You gain 13 Strongness
+You gain 36 Mysteriousness
+You gain 15 Sarcasm
+
+[3426] Post-Cyrpt Cemetary
+Encounter: spiny skelelton
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: spiny skelelton takes 44 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: spiny skelelton takes 150 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: skeleton bone
+You gain 6 Muscleboundness
+You gain 4 Wizardliness
+You gain 4 Sarcasm
+
+mall.php?pudnuggler=eyedrop&category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=3
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=3
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+[3427] Help Richard make bandages (Mysticality) (20 turns)
+You gain 721 Enchantedness
+You gain some Mysticality points!
+[3447] Help Richard make grenades (Moxie) (20 turns)
+You gain 663 Cheek
+You gain some Moxie points!
+[3467] Help Richard make shakes (Muscle) (20 turns)
+You gain 553 Muscleboundness
+You gain some Muscle points!
+
+Draw 8 stars with 7 lines
+You acquire an item: Richard's star key
+
+Combine 1 skeleton bone + 1 loose teeth
+You acquire an item: skeleton key
+Crafting used 1 each of skeleton bone and loose teeth
+
+Use 1 disassembled clover
+You acquire an item: ten-leaf clover
+You acquire an item: stone tablet (Really Evil Rhythm)
+outfit Star Garb
+
+equip weapon star boomerang
+
+equip weapon star sword
+You acquire an item: stone tablet (Sinister Strumming)
+
+equip weapon Staff of the Standalone Cheese
+
+equip off-hand star buckler
+
+equip acc1 continuum transfunctioner
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 2 Piddles for 100 each from 1809712 on 20130412
+You acquire Piddles (2)
+
+use 2 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22CSA+bravery+badge%22
+
+buy 2 CSA bravery badge for 100 each from 1105329 on 20130412
+You acquire CSA bravery badge (2)
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+[3487] 8-Bit Realm
+Encounter: Goomba
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: goomba takes 22 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: red pixel
+You acquire an item: white pixel
+You acquire an item: black pixel
+You gain 2 Strongness
+You gain 2 Mysteriousness
+You gain 2 Chutzpah
+
+[3488] 8-Bit Realm
+Encounter: Tektite
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tektite takes 22 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: blue pixel
+You acquire an item: white pixel
+You acquire an item: black pixel
+You gain 2 Strengthliness
+You gain 3 Enchantedness
+
+[3489] 8-Bit Realm
+Encounter: Blooper
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: blooper takes 22 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: white pixel
+You acquire an item: white pixel
+You acquire an item: white pixel
+You gain 3 Enchantedness
+You gain 4 Smarm
+
+[3490] 8-Bit Realm
+Encounter: Octorok
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: octorok takes 22 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: red pixel
+You acquire an item: red pixel
+You acquire an item: red pixel
+You gain 1 Strongness
+You gain 4 Magicalness
+You gain 3 Cheek
+
+[3491] 8-Bit Realm
+Encounter: Bullet Bill
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: bullet bill takes 22 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: black pixel
+You acquire an item: black pixel
+You acquire an item: black pixel
+You gain 5 Mysteriousness
+You gain 2 Cheek
+
+[3492] 8-Bit Realm
+Encounter: Koopa Troopa
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: koopa troopa takes 22 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: green pixel
+You acquire an item: black pixel
+You gain 1 Fortitude
+You gain 4 Enchantedness
+
+[3493] 8-Bit Realm
+Encounter: Keese
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: keese takes 45 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: blue pixel
+You acquire an item: blue pixel
+You acquire an item: blue pixel
+You gain 1 Beefiness
+You gain 2 Wizardliness
+You gain 4 Sarcasm
+
+[3494] 8-Bit Realm
+Encounter: Keese
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: keese takes 22 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: blue pixel
+You acquire an item: blue pixel
+You acquire an item: blue pixel
+You gain 1 Muscleboundness
+You gain 4 Wizardliness
+You gain 2 Sarcasm
+
+[3495] 8-Bit Realm
+Encounter: Zol
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: zol takes 22 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: green pixel
+You acquire an item: green pixel
+You acquire an item: green pixel
+You gain 1 Fortitude
+You gain 3 Mysteriousness
+You gain 4 Cheek
+
+[3496] 8-Bit Realm
+Encounter: Goomba
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: goomba takes 22 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: red pixel
+You acquire an item: white pixel
+You acquire an item: black pixel
+You gain 2 Beefiness
+You gain 2 Mysteriousness
+You gain 2 Roguishness
+
+[3497] 8-Bit Realm
+Encounter: Tektite
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tektite takes 22 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: blue pixel
+You acquire an item: white pixel
+You acquire an item: black pixel
+You gain 1 Strongness
+You gain 3 Wizardliness
+You gain 2 Sarcasm
+
+[3498] 8-Bit Realm
+Encounter: Bullet Bill
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: bullet bill takes 22 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: black pixel
+You acquire an item: black pixel
+You acquire an item: black pixel
+You gain 4 Wizardliness
+You gain 4 Chutzpah
+
+[3499] 8-Bit Realm
+Encounter: Bullet Bill
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: bullet bill takes 22 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: black pixel
+You acquire an item: black pixel
+You acquire an item: black pixel
+You gain 2 Strongness
+You gain 3 Wizardliness
+You gain 2 Smarm
+
+[3500] 8-Bit Realm
+Encounter: Blooper
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: blooper takes 22 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: white pixel
+You acquire an item: white pixel
+You acquire an item: white pixel
+You gain 1 Muscleboundness
+You gain 2 Mysteriousness
+You gain 4 Chutzpah
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22white+pixel%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22red+pixel%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22green+pixel%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22blue+pixel%22
+
+buy 13 white pixel for 360 each from 1990987 on 20130412
+You acquire white pixel (13)
+
+Trade 30 white pixel
+
+equip acc1 makeshift SCUBA gear
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22giant+discarded+bottlecap%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22sponge+helmet%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22longhaired+hippy+wig%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22bat+hat%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Mark+IV+Steam-Hat%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Mark+II+Steam-Hat%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Mark+I+Steam-Hat%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chrome+helmet+turtle%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22bubblewrap+bottlecap+turtleban%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22skeletortoise%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22ironic+knit+cap%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22PVC+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22fish+stick%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22hairy+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22smoldering+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22meatspout+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22linoleum+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chrome+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Spirit+Precipice%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22asbestos+sword%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22big+stirring+stick%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Kentucky-fried+meat+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22soylent+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22wiffle-flail%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22flypaper+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22styrofoam+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22bubble+bauble+bow%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22velcro+shield%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22collapsible+baton%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22yakskin+buckler%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22scissor+duck%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22painted+shield%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22gnauga+hide+buckler%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22foon+of+fleshiness%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22foon+of+foulness%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22foon+of+fulmination%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22basic+meat+foon%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22incredibly+creepy+marionette%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22marionette%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22foon%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22penguin+thesaurus%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Dyspepsi-Cola+shield%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Cloaca-Cola+shield%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22voodoo+doll%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22sea+salt+scrubs%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22bat-ass+leather+jacket%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22demonskin+jacket%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22coconut+bikini+top%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22floral+print+shirt%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22filthy+hippy+poncho%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22frilly+shirt%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22old+school+Mafia+knickerbockers%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22eelskin+pants%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Cerebral+Culottes%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22flowing+hippy+skirt%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Dyspepsi-Cola+fatigues%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Cloaca-Cola+fatigues%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Mesmereyes%26trade%3B+contact+lenses%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Annual+Ascot%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22cursed+scrunchie%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22velcro+boots%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Pok%26euml%3Bmann+figurine%3A+Shoggoth%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22albatross+necklace%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22rainbow+pearl+ring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22rainbow+pearl+necklace%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22rainbow+pearl+earring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22solid+baconstone+ring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22amber+aviator+shades%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+Rene+C.+Corman%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22solid+baconstone+necklace%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22solid+baconstone+earring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22blackberry+galoshes%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Lockenstock%26trade%3B+sandals%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22gnatwing+earring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22shiny+tribal+beads%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22baconstone+ring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+the+Free+Man%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22lollipop+cufflinks%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22phat+turquoise+bracelet%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22eXtreme+nose+ring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22baconstone+pendant%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Mudflap-Girl+Ring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Mudflap-Girl+Necklace%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Ring+of+the+Sewer+Snake%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Putrid+Pendant%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22The+Ring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Choker+of+the+Ultragoth%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Ice-Cold+Beer+Ring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Ice-Cold+Aluminum+Necklace%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Ring+of+Fire%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Pendant+of+Fire%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+Bonerdagon%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22baconstone+bracelet%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22baconstone+earring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22reinforced+furry+underpants%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+pastamancer%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+sauceror%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+turtle+tamer%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22bottlecap+turtle%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+Uncle+Crimbo%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+accordion+thief%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22cheap+elven+gloves%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22string+of+blue+beads%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chintzy+accordion+pin%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chintzy+saucepan+earring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chintzy+turtle+brooch%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22teflon+spatula%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22pixel+whip%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Pasta+of+Peril%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%225-Alarm+Saucepan%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22llama+lama+gong%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22hair+of+the+fish%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22spooky+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22yellow+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22prismatic+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22orange+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22stench+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22smoky+potion%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22antique+bottle+of+cough+syrup%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22seal-brain+elixir%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22henna+tattoo%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22pirate+tract%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+What%3F%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22salamander+slurry%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22lime+supersucker%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22cold-filtered+water%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22bottled+inspiration%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22yellow+paisley+oyster+egg%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22extra-potent+gremlin+mutagen%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Mer-kin+smartjuice%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22hot+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22teeny-tiny+magic+scroll%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Climate+Colada%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22jug+of+baconstone+juice%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22flask+of+baconstone+juice%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22vial+of+baconstone+juice%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22patchouli+incense+stick%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22potion+of+temporary+gr8tness%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22hippy+paste%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22bottle+of+fire%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22lavender+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22thin+black+candle%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22pulled+violet+taffy%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22green+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Crimbo+candied+pecan%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22ointment+of+the+occult%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+When%3F%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tomato+juice+of+powerful+power%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+Where%3F%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Hawking%27s+Elixir+of+Brilliance%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22pink+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22kumquat+supersucker%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22banana+smoothie%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22gummi+snake%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22unstable+DNA%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22gremlin+mutagen%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22spooky+eyeliner%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22spooky+lipstick%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22sleaze+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22cold+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22pressurized+potion+of+perspicacity%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22sugar-coated+pine+cone%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22funky+dried+mushroom%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+Who%3F%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Lobos+Mints%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22twinkly+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22love+song+of+disturbing+obsession%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22white+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22love+song+of+smoldering+passion%22
+forestvillage.php?action=mystic
+You acquire an item: digital key
+You acquire an item: stone tablet (Squeezings of Woe)
+
+[3501] Sorceress' Hedge Maze
+Encounter: topiary golem
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: topiary golem takes 22 damage.
+Round 2: topiary golem takes 2 damage.
+Round 2: topiary golem takes 10 damage.
+Round 2: topiary golem takes 5 damage.
+You lose 13 hit points
+Round 2: fifthtoast casts BOIL!
+Round 3: topiary golem takes 75 damage.
+Round 3: topiary golem takes 1 damage.
+Round 3: topiary golem takes 10 damage.
+Round 3: topiary golem takes 4 damage.
+You lose 14 hit points
+Round 3: fifthtoast jiggles the Staff of the Standalone Cheese
+Round 4: You jiggle your staff, and a whirling wheel of cheese appears before you.  It bursts open, revealing the stench of untold aeons.  He first turns gray, then turns green, then turns tail and runs.  You won't see him again for a while, that's for sure.
+
+equip weapon Staff of the Staff of Life
+
+[3502] Sorceress' Hedge Maze
+Encounter: topiary golem
+Round 0: fifthtoast loses initiative!
+Round 1: topiary golem takes 2 damage.
+Round 1: topiary golem takes 10 damage.
+Round 1: topiary golem takes 4 damage.
+You lose 16 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: topiary golem takes 22 damage.
+Round 2: topiary golem takes 3 damage.
+Round 2: topiary golem takes 2 damage.
+Round 2: topiary golem takes 3 damage.
+You lose 15 hit points
+Round 2: fifthtoast casts BOIL!
+Round 3: topiary golem takes 75 damage.
+Round 3: topiary golem takes 1 damage.
+Round 3: topiary golem takes 7 damage.
+Round 3: topiary golem takes 4 damage.
+You lose 13 hit points
+Round 3: fifthtoast jiggles the Staff of the Staff of Life
+Round 4: You jiggle the staff.  There is a weak coughing sound, and a little puff of flour shoots out of the end of it.  Oh well.  You rub the flour on some of your wounds, and it helps a little.Your opponet is too busy snickering to attack you this round.
+Round 4: You gain 14 hit points.
+Round 4: fifthtoast casts CHOP!
+Round 5: topiary golem takes 75 damage.
+Round 5: fifthtoast casts FRY!
+Round 6: topiary golem takes 198 damage.
+Round 6: fifthtoast wins the fight!
+You gain 16 Beefiness
+You gain 33 Mysteriousness
+You gain 13 Sarcasm
+
+[3503] Sorceress' Hedge Maze
+Encounter: topiary golem
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: topiary golem takes 22 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: topiary golem takes 75 damage.
+Round 3: topiary golem takes 3 damage.
+Round 3: topiary golem takes 3 damage.
+Round 3: topiary golem takes 3 damage.
+You lose 13 hit points
+Round 3: fifthtoast jiggles the Staff of the Staff of Life
+Round 4: You jiggle the staff.  There is a weak coughing sound, and a little puff of flour shoots out of the end of it.  Oh well.  You rub the flour on some of your wounds, and it helps a little.Your opponet is too busy snickering to attack you this round.
+Round 4: You gain 11 hit points.
+Round 4: fifthtoast casts CHOP!
+Round 5: topiary golem takes 150 damage.
+Round 5: fifthtoast wins the fight!
+You acquire an item: hedge maze puzzle
+You gain 16 Muscleboundness
+You gain 33 Wizardliness
+You gain 11 Smarm
+Rotate the Middle-Left tile of the hedge maze puzzle
+
+[3504] Sorceress' Hedge Maze
+Encounter: topiary golem
+Round 0: fifthtoast loses initiative!
+Round 1: topiary golem takes 2 damage.
+Round 1: topiary golem takes 2 damage.
+Round 1: topiary golem takes 4 damage.
+You lose 10 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: topiary golem takes 22 damage.
+Round 2: topiary golem takes 3 damage.
+Round 2: topiary golem takes 2 damage.
+Round 2: topiary golem takes 5 damage.
+You lose 11 hit points
+Round 2: fifthtoast casts BOIL!
+Round 3: topiary golem takes 75 damage.
+Round 3: fifthtoast jiggles the Staff of the Staff of Life
+Round 4: You jiggle the staff.  There is a weak coughing sound, and a little puff of flour shoots out of the end of it.  Oh well.  You rub the flour on some of your wounds, and it helps a little.Your opponet is too busy snickering to attack you this round.
+Round 4: You gain 15 hit points.
+Round 4: fifthtoast casts CHOP!
+Round 5: topiary golem takes 75 damage.
+Round 5: topiary golem takes 3 damage.
+Round 5: topiary golem takes 7 damage.
+Round 5: topiary golem takes 3 damage.
+You lose 12 hit points
+Round 5: fifthtoast casts FRY!
+Round 6: topiary golem takes 186 damage.
+Round 6: fifthtoast wins the fight!
+You acquire an item: hedge maze puzzle
+You gain 15 Strengthliness
+You gain 27 Wizardliness
+You gain 18 Chutzpah
+Rotate the Lower-Left tile of the hedge maze puzzle
+Rotate the Lower-Middle tile of the hedge maze puzzle
