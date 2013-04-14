@@ -2479,3 +2479,250 @@ Encounter:
 mallsell: 4 can of Red Minotaur, 3 watered-down Red Minotaur
 
 manageprices.php?action=update&price0[5899]=21450&limit0[5899]=0&price0[5898]=20000&limit0[5898]=0&price0[6173]=20000&limit0[6173]=0&price0[5401]=13875&limit0[5401]=0&price0[5099]=9500&limit0[5099]=0&price0[5268]=7900&limit0[5268]=0&price0[5277]=7500&limit0[5277]=0&price0[5252]=7000&limit0[5252]=0&price0[5409]=6900&limit0[5409]=0&price0[5396]=6886&limit0[5396]=0&price0[5274]=6700&limit0[5274]=0&price0[5680]=6000&limit0[5680]=0&price0[5471]=5800&limit0[5471]=0&price0[5270]=5600&limit0[5270]=0&price0[6239]=3675&limit0[6239]=0&price0[5675]=2400&limit0[5675]=0&price0[5096]=2000&limit0[5096]=0&price0[5087]=1125&limit0[5087]=0&price0[5088]=1000&limit0[5088]=0&price0[5095]=950&limit0[5095]=0&price0[5094]=950&limit0[5094]=0&price0[5092]=949&limit0[5092]=0&price0[5089]=850&limit0[5089]=0&price0[5527]=850&limit0[5527]=0&price0[1166]=750&limit0[1166]=0&price0[226]=674&limit0[226]=0&price0[5093]=574&limit0[5093]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[2680]=300&limit0[2680]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[538]=260&limit0[538]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=3&price0[6074]=250&limit0[6074]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[6076]=230&limit0[6076]=0&price0[6083]=200&limit0[6083]=0&price0[1840]=200&limit0[1840]=0&price0[1803]=200&limit0[1803]=0&price0[5468]=200&limit0[5468]=0&price0[5698]=199&limit0[5698]=0&price0[834]=190&limit0[834]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[218]=155&limit0[218]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[475]=130&limit0[475]=0&price0[1655]=120&limit0[1655]=0&price0[5466]=111&limit0[5466]=0&price0[3019]=110&limit0[3019]=0&price0[6080]=100&limit0[6080]=0&price0[5469]=100&limit0[5469]=0&price0[1]=100&limit0[1]=0
+
+cast 1 Summon Crimbo Candy
+You acquire an item: Crimbo candied pecan
+You acquire an item: Crimbo candied pecan
+You acquire an item: Crimbo candied pecan
+
+cast 17 Summon Resolutions
+You acquire an item: resolution: be more adventurous
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be kinder
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be kinder
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be wealthier
+
+[13657] The Middle Chamber
+Encounter: tomb bat
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: tomb bat takes 663 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 96 Meat
+You acquire an item: mummy wrapping
+You gain 14 Fortitude
+You gain 15 Wizardliness
+You gain 19 Smarm
+
+use 3 Marquis de Poivre soda
+You gain 106 Mojo Points
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22black+cherry+soda%22
+
+buy 32 black cherry soda for 80 each from Black Market
+You acquire black cherry soda (32)
+You spent 2,560 Meat
+
+use 32 black cherry soda
+You gain 323 Mojo Points
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 100 each from 2013921 on 20130413
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[13658] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: iiti kitty takes 677 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: leathery cat skin
+You acquire an item: ancient Magi-Wipes
+You acquire an item: ancient vinyl coin purse
+You gain 14 Beefiness
+You gain 15 Magicalness
+You gain 17 Cheek
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22black+pudding%22
+
+buy 1 black pudding for 101 each from 845708 on 20130413
+You acquire an item: black pudding
+
+eat 1 black pudding
+You gain 5 Adventures
+You gain 11 Fortitude
+You gain 17 Magicalness
+You gain 11 Smarm
+You gain 3 Fullness
+
+buy 1 black pudding for 150 each from 870406 on 20130413
+You acquire an item: black pudding
+
+eat 1 black pudding
+You gain 6 Adventures
+You gain 12 Beefiness
+You gain 13 Enchantedness
+You gain 11 Cheek
+You gain 3 Fullness
+
+buy 1 black pudding for 150 each from 870406 on 20130413
+You acquire an item: black pudding
+
+eat 1 black pudding
+You gain 7 Adventures
+You gain 10 Strengthliness
+You gain 13 Wizardliness
+You gain 10 Sarcasm
+You gain 3 Fullness
+
+buy 1 black pudding for 150 each from 870406 on 20130413
+You acquire an item: black pudding
+
+eat 1 black pudding
+You gain 6 Adventures
+You gain 10 Strengthliness
+You gain 17 Magicalness
+You gain 11 Cheek
+You gain 3 Fullness
+
+buy 1 black pudding for 150 each from 870406 on 20130413
+You acquire an item: black pudding
+
+eat 1 black pudding
+You gain 7 Adventures
+You gain 12 Strongness
+You gain 14 Mysteriousness
+You gain 12 Sarcasm
+You gain 3 Fullness
+
+Visiting the Bounty Hunter Hunter
+
+[13659] Haiku Dungeon
+Encounter: gelatinous cube
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: gelatinous cube takes 803 damage.
+Round 2: boolicious wins the fight!
+After Battle: Your familiar strikes / just like a tiny ninja / (you missed what it did).
+You gain 47 Meat
+You acquire an item: rusty metal ring
+You gain 1 Roguishness
+
+[13660] Haiku Dungeon
+Encounter: amateur ninja
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: amateur ninja takes 794 damage.
+Round 2: boolicious wins the fight!
+After Battle: Mysterious friend / what did your familiar do? / Meditate on that.
+You gain 42 Meat
+You gain 1 Roguishness
+
+[13661] Haiku Dungeon
+Encounter: ferocious bugbear
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: ferocious bugbear takes 792 damage.
+Round 2: boolicious wins the fight!
+After Battle: Aw, that was so cute! / I wish you had just seen what / your buddy just did.
+You gain 47 Meat
+You acquire an item: bugbear bungguard
+You gain 1 Roguishness
+choice.php?forceoption=0
+
+[13662] Haiku Dungeon
+Encounter: Gravy Fairy Ring
+Took choice 297/1: mushrooms
+choice.php?pwd&whichchoice=297&option=1
+
+[13663] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: baa-relief sheep takes 746 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You gain 5 Muscleboundness
+You gain 6 Magicalness
+You gain 3 Roguishness
+choice.php?forceoption=0
+
+[13664] Hidden Temple
+Encounter: Such Great Heights
+Took choice 579/1: mysticality substats
+choice.php?pwd&whichchoice=579&option=1
+You gain 102 Wizardliness
+
+[13665] Hidden Temple
+Encounter: baa-relief sheep
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: baa-relief sheep takes 759 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You acquire an item: stone wool
+You gain 4 Muscleboundness
+You gain 6 Mysteriousness
+You gain a Mysticality point!
+You gain 5 Sarcasm
+
+[13666] Hidden Temple
+Encounter: craven carven raven
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: craven carven raven takes 748 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You acquire an item: shiny stones
+You gain 3 Strengthliness
+You gain 7 Enchantedness
+You gain 5 Chutzpah
+
+[13667] Hidden Temple
+Encounter: craven carven raven
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: craven carven raven takes 758 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the uncontrollable urge to dance is evidence of repressed sexual longing," and does a little soft-shoe.
+You acquire an item: shiny stones
+After Battle: DocSavage looks at you, raises an eyebrow, and says &quot;Wait.  Why am I doing all the work?  Take this, and try to pick up some of the slack, would you?&quot;
+You acquire an item: psychoanalytic jar
+You gain 4 Strongness
+You gain 5 Enchantedness
+You gain 5 Smarm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 100 each from 2013921 on 20130413
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+choice.php?forceoption=0
+
+[13668] Hidden Temple
+Encounter: Such Great Heights
