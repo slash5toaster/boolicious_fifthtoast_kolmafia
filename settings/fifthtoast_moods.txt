@@ -13,6 +13,7 @@ lose_effect standard issue bravery => use 2 csa bravery badge
 
 [ power ]
 lose_effect belch the rainbow&trade; => use 2 piddles
+lose_effect destructive resolve => use 2 resolution: be feistier
 lose_effect standard issue bravery => use 2 csa bravery badge
 lose_effect strange mental acuity => use 1 potion of mental acuity
 lose_effect trivia master => use 1 Trivial Avocations Card: What?, 1 Trivial Avocations Card: When?, 1 Trivial Avocations Card: Who?, 1 Trivial Avocations Card: Where?
