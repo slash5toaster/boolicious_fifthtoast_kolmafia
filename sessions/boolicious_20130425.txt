@@ -271,3 +271,1018 @@ shower warm
 You acquire an effect: Muscle Unbound (duration: 50 Adventures)
 concert 2
 You acquire an effect: Winklered (duration: 20 Adventures)
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be wealthier
+friars blessing 1
+You acquire an effect: Brother Flying Burrito's Blessing (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22thin+black+candle%22
+
+buy 3 thin black candle for 288 each from 861595 on 20130425
+You acquire thin black candle (3)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22scroll+of+ancient+forbidden+unspeakable+evil%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22disintegrating+quill+pen%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22inkwell%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tattered+scrap+of+paper%22
+
+buy 1 scroll of ancient forbidden unspeakable evil for 1870 each from 449830 on 20130425
+You acquire an item: scroll of ancient forbidden unspeakable evil
+summon Ak'gyxoth
+You acquire an item: pink pony
+You acquire an item: ocean motion
+You acquire an item: calle de miel
+
+[14291] The Mer-Kin Outpost
+Encounter: Mer-kin burglar
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: mer-kin burglar takes 1017 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 487 Meat
+You gain 67 Beefiness
+You gain 41 Enchantedness
+You gain a Mysticality point!
+You gain 75 Smarm
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22cloudy+potion%22
+
+buy 1 cloudy potion for 295 each from 1251781 on 20130425
+You acquire an item: cloudy potion of blessing
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22swirly+potion%22
+
+buy 1 swirly potion for 253 each from 2277305 on 20130425
+You acquire an item: swirly potion of mental acuity
+
+use 1 swirly potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22milky+potion%22
+
+buy 1 milky potion for 254 each from 2169141 on 20130425
+You acquire an item: milky potion of ettin strength
+
+use 1 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+[14293] The Mer-Kin Outpost
+Encounter: Mer-kin burglar
+Round 0: boolicious loses initiative!
+Round 1: mer-kin burglar takes 2 damage.
+Round 1: mer-kin burglar takes 9 damage.
+Round 1: mer-kin burglar takes 5 damage.
+You lose 61 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: mer-kin burglar takes 999 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 441 Meat
+You gain 50 Strongness
+You gain 52 Wizardliness
+You gain 79 Smarm
+
+use 9 Marquis de Poivre soda
+You gain 294 Mojo Points
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22black+cherry+soda%22
+
+buy 102 black cherry soda for 80 each from Black Market
+You acquire black cherry soda (102)
+You spent 8,160 Meat
+
+use 102 black cherry soda
+You gain 1,029 Mojo Points
+custom outfit SewerTogs
+
+[14295] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/3: open the grate
+choice.php?whichchoice=198&option=3&pwd
+
+[14295] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?whichchoice=199&option=1&pwd
+
+[14296] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 1514 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You gain 21 Beefiness
+You gain 16 Mysteriousness
+You gain 40 Smarm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 100 each from 1132390 on 20130425
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #185/1200:
+Question: What was stolen from the Crunkleford Museum of Things That Seemed Like a Great Idea at the Time on Boozember first, 1921?
+Answer: A carrot that looked just like the Queen of Calamaria.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #498/1200:
+Question: When did the Quiet Food Fight of The Indefatigable Oceans begin?
+Answer: Beer o'clock.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #824/1200:
+Question: Who wrote the absurd poetry collection <u>Secrets of the Lemur Sorcerer</u>?
+Answer: Empress Rufus VI's rat.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #970/1200:
+Question: Where was Zachary XIV, Duke of Taintingham, tortured to death?
+Answer: The Lightning Canyons of Llewllamarall.
+
+[14297] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 1493 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: sewer nuggets
+You gain 20 Fortitude
+You gain 17 Magicalness
+You gain 41 Sarcasm
+
+[14298] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/3: open the grate
+choice.php?whichchoice=198&option=3&pwd
+
+[14298] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 2237 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 211 Meat
+You acquire an item: sewer nuggets
+You gain 28 Strongness
+You gain 14 Wizardliness
+You gain 34 Smarm
+
+[14299] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 2236 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 236 Meat
+You acquire an item: sewer nuggets
+You gain 26 Strongness
+You gain 24 Wizardliness
+You gain 25 Sarcasm
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[14300] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/3: open the grate
+choice.php?whichchoice=198&option=3&pwd
+
+[14300] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?whichchoice=199&option=1&pwd
+
+[14301] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/3: turn the valve
+choice.php?whichchoice=197&option=3&pwd
+
+[14301] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 1501 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the uncontrollable urge to dance is evidence of repressed sexual longing," and does a little soft-shoe.
+You acquire an item: sewer nuggets
+You gain 28 Strengthliness
+You gain 18 Magicalness
+You gain 32 Chutzpah
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22cloudy+potion%22
+
+buy 1 cloudy potion for 295 each from 1251781 on 20130425
+You acquire an item: cloudy potion of blessing
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22swirly+potion%22
+
+buy 1 swirly potion for 253 each from 2277305 on 20130425
+You acquire an item: swirly potion of mental acuity
+
+use 1 swirly potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22milky+potion%22
+
+buy 1 milky potion for 254 each from 2169141 on 20130425
+You acquire an item: milky potion of ettin strength
+
+use 1 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+[14302] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 1509 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking and dancing are primal, universal symbols for acquiring meat and items, respectively."
+You gain 223 Meat
+You acquire an item: gator skin
+You acquire an item: sewer nuggets
+You gain 28 Strongness
+You gain 13 Wizardliness
+You gain 34 Sarcasm
+
+[14303] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/3: open the grate
+choice.php?whichchoice=198&option=3&pwd
+
+[14303] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?whichchoice=199&option=1&pwd
+
+[14304] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/3: turn the valve
+choice.php?whichchoice=197&option=3&pwd
+
+[14304] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?whichchoice=199&option=1&pwd
+
+[14305] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 1496 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You gain 28 Beefiness
+You gain 20 Wizardliness
+You gain 29 Sarcasm
+
+[14306] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?whichchoice=199&option=1&pwd
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+buy 1 Piddles for 100 each from 1132390 on 20130425
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[14307] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/3: open the grate
+choice.php?whichchoice=198&option=3&pwd
+
+[14307] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 1500 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 188 Meat
+You gain 20 Fortitude
+You gain 18 Wizardliness
+You gain 34 Chutzpah
+
+[14308] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/3: open the grate
+choice.php?whichchoice=198&option=3&pwd
+
+[14308] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?whichchoice=199&option=1&pwd
+
+[14309] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 1503 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: decaying goldfish liver
+You gain 23 Fortitude
+You gain 15 Mysteriousness
+You gain 37 Smarm
+
+[14310] A Maze of Sewer Tunnels
+Encounter: C. H. U. M. chieftain
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. chieftain takes 1469 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You acquire an item: bottle of sewage schnapps
+You acquire an item: sewer nuggets
+You acquire an item: bottle of sewage schnapps
+You acquire an item: sewer nuggets
+You gain 33 Strongness
+You gain 21 Wizardliness
+You gain 44 Roguishness
+
+[14311] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 1497 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You acquire an item: sewer nuggets
+You gain 26 Strongness
+You gain 22 Enchantedness
+You gain 30 Smarm
+
+[14312] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/3: open the grate
+choice.php?whichchoice=198&option=3&pwd
+
+[14312] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 1501 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You acquire an item: sewer nuggets
+You gain 29 Fortitude
+You gain 24 Wizardliness
+You gain 25 Sarcasm
+
+[14313] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?whichchoice=199&option=1&pwd
+
+[14314] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 1389 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You acquire an item: bottle of sewage schnapps
+You gain 25 Beefiness
+You gain 19 Magicalness
+You gain 34 Smarm
+
+[14315] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/3: open the grate
+choice.php?whichchoice=198&option=3&pwd
+
+[14315] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 1380 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You gain 20 Muscleboundness
+You gain 19 Mysteriousness
+You gain 39 Cheek
+
+[14316] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 900 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the little dance that I am doing is symbolic of my sublimated desire for material goods," and winks at you.
+You gain 162 Meat
+You gain 16 Muscleboundness
+You gain 20 Wizardliness
+You gain 36 Roguishness
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 100 each from 1132390 on 20130425
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[14317] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 914 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking and dancing are primal, universal symbols for acquiring meat and items, respectively."
+You gain 185 Meat
+You acquire an item: gator skin
+You acquire an item: sewer nuggets
+After Battle: DocSavage looks at you, raises an eyebrow, and says &quot;Wait.  Why am I doing all the work?  Take this, and try to pick up some of the slack, would you?&quot;
+You acquire an item: psychoanalytic jar
+You gain 17 Strengthliness
+You gain 22 Wizardliness
+You gain 34 Smarm
+
+[14318] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?whichchoice=199&option=1&pwd
+
+[14319] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/3: open the grate
+choice.php?whichchoice=198&option=3&pwd
+
+[14319] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?whichchoice=199&option=1&pwd
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+use 2 resolution: be feistier
+You acquire an effect: Destructive Resolve (duration: 40 Adventures)
+
+[14320] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/3: turn the valve
+choice.php?whichchoice=197&option=3&pwd
+
+[14320] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 942 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: sewer nuggets
+You gain 21 Beefiness
+You gain 19 Wizardliness
+You gain 38 Sarcasm
+
+[14321] A Maze of Sewer Tunnels
+Encounter: At Last!
+
+clan_hobopolis.php?place=2
+
+[14322] Hobopolis Town Square
+Encounter: Hoosegow Harold McMahon
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 896 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You gain 38 Strengthliness
+You gain 20 Enchantedness
+You gain 33 Smarm
+Richard takes a hobo skin
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22eyepatch%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22giant+discarded+torn-up+glove%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22palm-frond+capris%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22extra-large+palm-frond+toupee%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22powdered+wig%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22hot+cross+bow%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22asbestos+crossbow%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22linoleum+crossbow%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22ram+stick%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22bubblewrap+crossbow%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22penguin+skin+buckler%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22gnauga+hide+buckler%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22pretty+bouquet%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22souvenir+ski+t-shirt%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22supportive+bra%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22old+school+Mafia+knickerbockers%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22buoybottoms%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22sticky+meat+kilt%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22basic+meat+kilt%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Annual+Ascot%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Emblem+of+Ak%27gyxoth%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22rainbow+pearl+ring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22rainbow+pearl+necklace%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22rainbow+pearl+earring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22enormous+hoop+earring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22eXtreme+nose+ring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+disco+bandit%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+seal+clubber%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+sauceror%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22gray+bow+tie%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chintzy+disco+ball+pendant%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chintzy+seal+pendant%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22steel+sword%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22rattail+whip%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22rubber+band+gun%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22spooky+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Taco+Dan%27s+Taco+Stand+Chimichangarita%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22love+song+of+naughty+innuendo%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22yellow+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Knob+Goblin+love+potion%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22shaving+cream%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22shot+of+flower+schnapps%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22eyedrops+of+newt%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22orange+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22stench+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22super-spiky+hair+gel%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22love+song+of+icy+revenge%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+What%3F%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Angry+Farmer+candy%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Tasty+Fun+Good+rice+candy%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Crimbo+candied+pecan%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Crimbo+fudge%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Crimbo+peppermint+bark%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22breath+mint%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22handsomeness+potion%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22hot+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22toothbrush%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22potion+of+temporary+gr8tness%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22lavender+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22lime-and-chile-flavored+chewing+gum%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22green+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22CSA+bravery+badge%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22yellow+polka-dot+oyster+egg%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+When%3F%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tomato+juice+of+powerful+power%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+Where%3F%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22haggis-wrapped+haggis-stuffed+haggis%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22weremoose+spit%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22pink+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22pawn+cookie%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22serum+of+sarcasm%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22pirate+pamphlet%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22sleaze+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22cold+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22maple+syrup%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Black+No.+2%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+Who%3F%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22twinkly+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22roofie%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22white+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22roasted+marshmallow%22
+
+equip hat Hodgman's porkpie hat
+
+equip shirt letterman's jacket
+
+equip pants Hodgman's lobsterskin pants
+
+equip acc1 Hodgman's bow tie
+
+equip acc2 Chester's sunglasses
+
+equip acc3 Zombo's skull ring
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tomato+juice+of+powerful+power%22
+
+buy 1 tomato juice of powerful power for 443 each from 1877436 on 20130425
+You acquire an item: tomato juice of powerful power
+
+use 1 tomato juice of powerful power
+You acquire an effect: Tomato Power (duration: 5 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22cloudy+potion%22
+
+buy 1 cloudy potion for 295 each from 1251781 on 20130425
+You acquire an item: cloudy potion of blessing
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+cast 1 Stevedave's Shanty of Superiority
+You acquire an effect: Stevedave's Shanty of Superiority (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22haggis-wrapped+haggis-stuffed+haggis%22
+
+buy 1 haggis-wrapped haggis-stuffed haggis for 100 each from 1477286 on 20130425
+You acquire an item: haggis-wrapped haggis-stuffed haggis
+
+eat 1 haggis-wrapped haggis-stuffed haggis
+You gain 3 Adventures
+You gain 8 Cheek
+You acquire an effect: Highland Sheen (duration: 20 Adventures)
+You gain 2 Fullness
+
+use 1 all-year sucker
+You acquire an effect: Gonna Get You, Sucker (duration: 10 Adventures)
+
+telescope look high
+You acquire an effect: Starry-Eyed (duration: 10 Adventures)
+
+[14323] Hobopolis Town Square
+Encounter: Joachim &quot;Casters on Crutches&quot; Wallace
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1583 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You gain 29 Strengthliness
+You gain 15 Mysteriousness
+You gain 39 Roguishness
+Richard takes a hobo skin
+
+equip weapon skate blade
+
+[14324] Hobopolis Town Square
+Encounter: Many-Eyed Fritz, Whose Pants Are Indestructible
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1578 damage.
+Round 2: normal hobo drops 1 attack power.
+Round 2: normal hobo drops 1 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You gain 28 Strongness
+You gain 13 Mysteriousness
+You gain 44 Chutzpah
+Richard takes a hobo skin
+
+use 5 phial of hotness
+You acquire an effect: Hotform (duration: 25 Adventures)
+
+[14325] Hobopolis Town Square
+Encounter: Rufus &quot;Taco&quot; Reynolds
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1574 damage.
+Round 2: normal hobo drops 2 attack power.
+Round 2: normal hobo drops 1 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the uncontrollable urge to dance is evidence of repressed sexual longing," and does a little soft-shoe.
+You gain 24 Fortitude
+You gain 14 Mysteriousness
+You gain 45 Sarcasm
+Richard takes a charred hobo boots
+
+[14326] Hobopolis Town Square
+Encounter: Orphaned Updike Benedict, the Infirm
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1574 damage.
+Round 2: normal hobo drops 3 attack power.
+Round 2: normal hobo drops 3 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You gain 29 Fortitude
+You gain 24 Magicalness
+You gain 31 Chutzpah
+Richard takes a charred hobo boots
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 100 each from 1654200 on 20130425
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[14327] Hobopolis Town Square
+Encounter: Pizzaface Stevie &quot;Marigold&quot; Bush
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 1575 damage.
+Round 2: normal hobo drops 2 attack power.
+Round 2: normal hobo drops 1 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You gain 25 Fortitude
+You gain 24 Magicalness
+You gain 34 Chutzpah
+Richard takes a charred hobo boots
+
+[14328] Hobopolis Town Square
+Encounter: Judge Mikhail &quot;Mac&quot; Wilson, the Pumpkin-Patch Crooner
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 854 damage.
+Round 2: normal hobo drops 1 attack power.
+Round 2: normal hobo drops 3 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You gain 23 Strongness
+You gain 26 Mysteriousness
+You gain 35 Chutzpah
+Richard takes a charred hobo boots
+
+[14329] Hobopolis Town Square
+Encounter: Itinerant Merle, the Colchester Kid
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 861 damage.
+Round 2: normal hobo drops 1 attack power.
+Round 2: normal hobo drops 3 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You gain 26 Fortitude
+You gain 22 Magicalness
+You gain 35 Roguishness
+Richard takes a charred hobo boots
+
+[14330] Hobopolis Town Square
+Encounter: Mickey &quot;Rheumy&quot; Steadwick
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 860 damage.
+Round 2: normal hobo drops 1 attack power.
+Round 2: normal hobo drops 1 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the uncontrollable urge to dance is evidence of repressed sexual longing," and does a little soft-shoe.
+You gain 26 Beefiness
+You gain 22 Mysteriousness
+You gain 34 Chutzpah
+Richard takes a charred hobo boots
+
+[14331] Hobopolis Town Square
+Encounter: Balloonpopper Patrick Brooks
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 868 damage.
+Round 2: normal hobo drops 3 attack power.
+Round 2: normal hobo drops 1 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You gain 19 Strongness
+You gain 25 Magicalness
+You gain 39 Cheek
+Richard takes a charred hobo boots
+
+[14332] Hobopolis Town Square
+Encounter: Honest Twink &quot;Orc Pajamas&quot; Garcia
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 860 damage.
+Round 2: normal hobo drops 1 attack power.
+Round 2: normal hobo drops 2 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the uncontrollable urge to dance is evidence of repressed sexual longing," and does a little soft-shoe.
+You gain 25 Beefiness
+You gain 19 Enchantedness
+You gain 38 Chutzpah
+Richard takes a charred hobo boots
+
+[14333] Hobopolis Town Square
+Encounter: P. D. Q. Cartwright, the Vandal
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 823 damage.
+Round 2: normal hobo drops 3 attack power.
+Round 2: normal hobo drops 1 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You gain 21 Fortitude
+You gain 20 Mysteriousness
+You gain 40 Chutzpah
+You gain a Moxie point!
+Richard takes a charred hobo boots
+
+[14334] Hobopolis Town Square
+Encounter: Gin-Bucket Pete &quot;Powderpuff&quot; Garfield
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 834 damage.
+Round 2: normal hobo drops 3 attack power.
+Round 2: normal hobo drops 1 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You gain 20 Fortitude
+You gain 20 Wizardliness
+You gain 43 Smarm
+Richard takes a charred hobo boots
+
+[14335] Hobopolis Town Square
+Encounter: Several Teeth Willie, Whose Pants Are Indestructible
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 827 damage.
+Round 2: normal hobo drops 2 attack power.
+Round 2: normal hobo drops 3 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You gain 28 Fortitude
+You gain 18 Mysteriousness
+You gain 38 Chutzpah
+Richard takes a charred hobo boots
+
+[14336] Hobopolis Town Square
+Encounter: Honest T. J. O'Reilly
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 829 damage.
+Round 2: normal hobo drops 1 attack power.
+Round 2: normal hobo drops 3 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You gain 29 Muscleboundness
+You gain a Muscle point!
+You gain 21 Magicalness
+You gain 34 Roguishness
+Richard takes a charred hobo boots
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+buy 1 Piddles for 100 each from 1654200 on 20130425
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[14337] Hobopolis Town Square
+Encounter: Unnervingly Candid Louis, the Moistener
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 825 damage.
+Round 2: normal hobo drops 2 attack power.
+Round 2: normal hobo drops 2 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You gain 33 Muscleboundness
+You gain 10 Mysteriousness
+You gain 41 Roguishness
+Richard takes a charred hobo boots
+
+[14338] Hobopolis Town Square
+Encounter: Bean-Hoarder Manny Anderson
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 821 damage.
+Round 2: normal hobo drops 3 attack power.
+Round 2: normal hobo drops 1 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You gain 24 Muscleboundness
+You gain 24 Magicalness
+You gain 36 Sarcasm
+Richard takes a charred hobo boots
+
+[14339] Hobopolis Town Square
+Encounter: Tooth-And-Nail Ike Roosevelt, the Jack Mormon
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 18 hit points
+You lose 71 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: normal hobo takes 1201 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "the uncontrollable urge to dance is evidence of repressed sexual longing," and does a little soft-shoe.
+You gain 33 Fortitude
+You gain 18 Enchantedness
+You gain 34 Roguishness
+Richard takes a charred hobo boots
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[14340] Hobopolis Town Square
+Encounter: Black-Bottle Morris McDurkee
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 20 hit points
+You lose 69 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: normal hobo takes 1206 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You gain 21 Strengthliness
+You gain 21 Enchantedness
+You gain 40 Sarcasm
+Richard takes a charred hobo boots
+
+[14341] Hobopolis Town Square
+Encounter: Pizzaface Alvin Durden, the Hobo On Stilts
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 826 damage.
+Round 2: normal hobo drops 1 attack power.
+Round 2: normal hobo drops 3 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the uncontrollable urge to dance is evidence of repressed sexual longing," and does a little soft-shoe.
+You gain 25 Strongness
+You gain 19 Enchantedness
+You gain 39 Chutzpah
+Richard takes a charred hobo boots
+
+[14342] Hobopolis Town Square
+Encounter: Double Stuff Boris Nichols
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: normal hobo takes 835 damage.
+Round 2: normal hobo drops 1 attack power.
+Round 2: normal hobo drops 3 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the uncontrollable urge to dance is evidence of repressed sexual longing," and does a little soft-shoe.
+You gain 24 Beefiness
+You gain 21 Magicalness
+You gain 37 Sarcasm
+Richard takes a charred hobo boots
+
+[14343] Hobopolis Town Square
+Encounter: Marketplace Entrance
+Took choice 272/1: 75 nickels,  hobo code binder equipped
+choice.php?whichchoice=272&option=1&pwd
+Encounter: The Hobo Marketplace
+choice 272/1: Food Court (75 nickels,  hobo code binder equipped)
+choice 272/2: Shopping (skip adventure)
+choice 272/3: Health
+Took choice 231/1: unknown
+choice.php?pwd&whichchoice=231&option=1&choiceform1=Food+Court
+Encounter: Food Went A-Courtin'
+Took choice 233/1: unknown
+choice.php?pwd&whichchoice=233&option=1&choiceform1=Food
+Encounter: Food, Glorious Food
+Took choice 235/3: moxie food
+choice.php?pwd&whichchoice=235&option=3&choiceform3=Sizzling+Weasel+On+a+Stick
+Encounter: Sizzling Weasel On a Stick
+Took choice 239/1: unknown
+choice.php?pwd&whichchoice=239&option=1&choiceform1=Buy+a+sizzling+weasel+on+a+stick+for+20+hobo+nickels.
+You gain 71 Adventures
+You gain 344 Cheek
