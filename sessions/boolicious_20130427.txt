@@ -1,0 +1,1529 @@
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 1,000 Meat
+
+Visiting Crimbo Tree in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Looking Glass in clan VIP lounge
+You acquire an item: &quot;DRINK ME&quot; potion
+
+swimming pool screwaround
+Encounter: Screwing Around!
+
+Doing handstand in clan VIP swimming pool
+Encounter: Screwing Around!
+
+Diving for treasure in clan VIP swimming pool
+Encounter: Screwing Around!
+Encounter: Screwing Around!
+
+Getting out of clan VIP swimming pool
+
+use 1 Manual of Dexterity
+
+use 1 Chester's bag of candy
+You acquire marzipan skull (2)
+You acquire an item: Angry Farmer candy
+You acquire an item: Tasty Fun Good rice candy
+You acquire Yummy Tummy bean (2)
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: Who?
+
+use 1 creepy voodoo doll
+
+use 1 Taco Dan's Taco Stand Flier
+You acquire an item: Taco Dan's Taco Stand Taco
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chewing+gum+on+a+string%22
+
+buy 5 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (5)
+You spent 250 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless knick-knack
+You acquire an item: worthless trinket
+You acquire an item: worthless gewgaw
+
+add to closet: 1 worthless trinket
+
+add to closet: 1 worthless gewgaw
+
+add to closet: 1 worthless knick-knack
+
+use 2 chewing gum on a string
+You acquire an item: worthless trinket
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless trinket
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless gewgaw
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 5 worthless items for 5 ten-leaf clovers
+You acquire ten-leaf clover (5)
+
+Use 5 ten-leaf clover
+You acquire disassembled clover (5)
+
+Harvesting your garden
+You acquire peppermint sprout (3)
+You gain 4,329 Meat
+
+Visiting the Fishing Village on the Secret Tropical Island Volcano Lair
+You acquire an item: fisherman's sack
+
+cast 1 Summon Crimbo Candy
+You acquire an item: Crimbo fudge
+You acquire an item: Crimbo candied pecan
+You acquire an item: Crimbo peppermint bark
+
+cast 1 Summon Geeky Gifts
+You acquire an item: magicberry tablets
+You acquire an item: confusing LED clock
+You acquire an item: old-school calculator watch
+You acquire an item: Microplushie: Fauxnerditide
+
+cast 10 Summon Resolutions
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be kinder
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be feistier
+You acquire an item: resolution: be happier
+You acquire an item: resolution: be wealthier
+Visiting Little Brother
+
+Visiting Big Brother
+Unexpected error, debug log printed.
+--------------------
+6398	black glass	201304219	blackglass.gif	accessory	q	0
+black glass	0	none
+# black glass
+--------------------
+You acquire an item: black glass
+You acquire sand dollar (13)
+Unexpected error, debug log printed.
+
+use 1 Oscus's neverending soda
+You gain 286 Mojo Points
+
+use 3 Marquis de Poivre soda
+You gain 108 Mojo Points
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22black+cherry+soda%22
+
+buy 1 black cherry soda for 80 each from Black Market
+You acquire an item: black cherry soda
+You spent 80 Meat
+
+use 1 black cherry soda
+You gain 10 Mojo Points
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22black+cherry+soda%22
+
+buy 1 black cherry soda for 80 each from Black Market
+You acquire an item: black cherry soda
+You spent 80 Meat
+
+use 1 black cherry soda
+You gain 10 Mojo Points
+
+equip acc2 black glass
+
+[14448] The Caliginous Abyss
+Encounter: The Dark Cave of Dark Wonders, Through a Glass Darkly
+
+[14448] The Caliginous Abyss
+Encounter: Peanut
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: peanut takes 294 damage.
+Round 2: peanut drops 2 attack power.
+Round 2: peanut drops 1 defense.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 33 damage.
+Round 2: peanut takes 33 damage.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: peanut takes 462 damage.
+Round 3: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 35 damage.
+Round 3: peanut takes 35 damage.
+Round 3: boolicious attacks!
+Round 4: peanut takes 280 damage.
+Round 4: peanut drops 1 attack power.
+Round 4: peanut drops 3 defense.
+Round 4: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 32 damage.
+Round 4: peanut takes 32 damage.
+Round 4: boolicious attacks!
+Round 5: peanut takes 287 damage.
+Round 5: peanut drops 3 attack power.
+Round 5: peanut drops 2 defense.
+Round 5: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 26 damage.
+Round 5: peanut takes 26 damage.
+Round 5: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 35 Beefiness
+You gain 42 Enchantedness
+You gain 97 Smarm
+
+[14449] The Caliginous Abyss
+Encounter: eye in the darkness
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: eye in the darkness takes 355 damage.
+Round 2: eye in the darkness drops 1 attack power.
+Round 2: eye in the darkness drops 1 defense.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 43 damage.
+Round 2: eye in the darkness takes 43 damage.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: eye in the darkness takes 630 damage.
+Round 3: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 34 damage.
+Round 3: eye in the darkness takes 34 damage.
+Round 3: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 36 Strengthliness
+You gain 44 Wizardliness
+You gain 81 Chutzpah
+
+Visiting Big Brother
+
+trading 2 sand dollars for 2 dolphin whistles
+You acquire dolphin whistle (2)
+
+use 1 dolphin whistle
+
+[14450] Dolphin Whistle
+Encounter: rotten dolphin thief
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: rotten dolphin thief takes 641 damage.
+Round 2: rotten dolphin thief drops 2 attack power.
+Round 2: rotten dolphin thief drops 2 defense.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking him for 40 damage.
+Round 2: rotten dolphin thief takes 40 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: black tear
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 24 Strengthliness
+You gain 28 Magicalness
+You gain 57 Smarm
+
+[14451] The Caliginous Abyss
+Encounter: school of many
+Round 0: boolicious loses initiative!
+Round 1: school of many takes 2 damage.
+Round 1: school of many takes 10 damage.
+Round 1: school of many takes 4 damage.
+You lose 48 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: school of many takes 409 damage.
+Round 2: school of many drops 1 attack power.
+Round 2: school of many drops 2 defense.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 41 damage.
+Round 2: school of many takes 41 damage.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: school of many takes 679 damage.
+Round 3: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 38 damage.
+Round 3: school of many takes 38 damage.
+Round 3: boolicious attacks!
+Round 4: school of many takes 405 damage.
+Round 4: school of many drops 3 attack power.
+Round 4: school of many drops 1 defense.
+Round 4: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 44 damage.
+Round 4: school of many takes 44 damage.
+Round 4: school of many takes 2 damage.
+Round 4: school of many takes 7 damage.
+Round 4: school of many takes 5 damage.
+You lose 46 hit points
+Round 4: boolicious attacks!
+Round 5: school of many takes 396 damage.
+Round 5: school of many drops 2 attack power.
+Round 5: school of many drops 1 defense.
+Round 5: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 36 damage.
+Round 5: school of many takes 36 damage.
+Round 5: boolicious attacks!
+Round 6: school of many takes 411 damage.
+Round 6: school of many drops 2 attack power.
+Round 6: school of many drops 2 defense.
+Round 6: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 46 damage.
+Round 6: school of many takes 46 damage.
+Round 6: boolicious attacks!
+Round 7: school of many takes 403 damage.
+Round 7: school of many drops 2 attack power.
+Round 7: school of many drops 3 defense.
+Round 7: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 48 damage.
+Round 7: school of many takes 48 damage.
+Round 7: boolicious attacks!
+Round 8: school of many takes 404 damage.
+Round 8: school of many drops 1 attack power.
+Round 8: school of many drops 3 defense.
+Round 8: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 34 damage.
+Round 8: school of many takes 34 damage.
+Round 8: boolicious attacks!
+Round 9: school of many takes 413 damage.
+Round 9: school of many drops 3 attack power.
+Round 9: school of many drops 2 defense.
+Round 9: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 41 damage.
+Round 9: school of many takes 41 damage.
+Round 9: boolicious attacks!
+Round 10: school of many takes 418 damage.
+Round 10: school of many drops 3 attack power.
+Round 10: school of many drops 2 defense.
+Round 10: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 44 damage.
+Round 10: school of many takes 44 damage.
+Round 10: boolicious attacks!
+Round 11: school of many takes 411 damage.
+Round 11: school of many drops 3 attack power.
+Round 11: school of many drops 3 defense.
+Round 11: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 49 damage.
+Round 11: school of many takes 49 damage.
+Round 11: school of many takes 1 damage.
+Round 11: school of many takes 2 damage.
+Round 11: school of many takes 4 damage.
+You lose 42 hit points
+Round 11: boolicious attacks!
+Round 12: school of many takes 420 damage.
+Round 12: school of many drops 2 attack power.
+Round 12: school of many drops 2 defense.
+Round 12: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 41 damage.
+Round 12: school of many takes 41 damage.
+Round 12: boolicious attacks!
+Round 13: school of many takes 428 damage.
+Round 13: school of many drops 2 attack power.
+Round 13: school of many drops 1 defense.
+Round 13: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 48 damage.
+Round 13: school of many takes 48 damage.
+Round 13: school of many takes 3 damage.
+Round 13: school of many takes 2 damage.
+Round 13: school of many takes 4 damage.
+You lose 49 hit points
+Round 13: boolicious attacks!
+Round 14: school of many takes 416 damage.
+Round 14: school of many drops 1 attack power.
+Round 14: school of many drops 3 defense.
+Round 14: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 40 damage.
+Round 14: school of many takes 40 damage.
+Round 14: boolicious attacks!
+Round 15: school of many takes 428 damage.
+Round 15: school of many drops 2 attack power.
+Round 15: school of many drops 1 defense.
+Round 15: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 40 damage.
+Round 15: school of many takes 40 damage.
+Round 15: boolicious attacks!
+Round 16: school of many takes 416 damage.
+Round 16: school of many drops 1 attack power.
+Round 16: school of many drops 1 defense.
+Round 16: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 44 damage.
+Round 16: school of many takes 44 damage.
+Round 16: boolicious attacks!
+Round 17: school of many takes 416 damage.
+Round 17: school of many drops 1 attack power.
+Round 17: school of many drops 3 defense.
+Round 17: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 40 damage.
+Round 17: school of many takes 40 damage.
+Round 17: boolicious attacks!
+Round 18: school of many takes 431 damage.
+Round 18: school of many drops 2 attack power.
+Round 18: school of many drops 2 defense.
+Round 18: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 42 damage.
+Round 18: school of many takes 42 damage.
+Round 18: boolicious attacks!
+Round 19: school of many takes 430 damage.
+Round 19: school of many drops 3 attack power.
+Round 19: school of many drops 2 defense.
+Round 19: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 48 damage.
+Round 19: school of many takes 48 damage.
+Round 19: boolicious attacks!
+Round 20: school of many takes 432 damage.
+Round 20: school of many drops 3 attack power.
+Round 20: school of many drops 3 defense.
+Round 20: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 46 damage.
+Round 20: school of many takes 46 damage.
+Round 20: boolicious attacks!
+Round 21: school of many takes 468 damage.
+Round 21: school of many drops 2 attack power.
+Round 21: school of many drops 2 defense.
+Round 21: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 41 damage.
+Round 21: school of many takes 41 damage.
+Round 21: boolicious attacks!
+Round 22: school of many takes 432 damage.
+Round 22: school of many drops 1 attack power.
+Round 22: school of many drops 2 defense.
+Round 22: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 43 damage.
+Round 22: school of many takes 43 damage.
+Round 22: boolicious attacks!
+Round 23: school of many takes 431 damage.
+Round 23: school of many drops 3 attack power.
+Round 23: school of many drops 2 defense.
+Round 23: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 43 damage.
+Round 23: school of many takes 43 damage.
+Round 23: boolicious attacks!
+Round 24: school of many takes 446 damage.
+Round 24: school of many drops 3 attack power.
+Round 24: school of many drops 3 defense.
+Round 24: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 43 damage.
+Round 24: school of many takes 43 damage.
+Round 24: boolicious attacks!
+Round 25: school of many takes 448 damage.
+Round 25: school of many drops 3 attack power.
+Round 25: school of many drops 1 defense.
+Round 25: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 51 damage.
+Round 25: school of many takes 51 damage.
+Round 25: boolicious attacks!
+Round 26: school of many takes 455 damage.
+Round 26: school of many drops 1 attack power.
+Round 26: school of many drops 1 defense.
+Round 26: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 47 damage.
+Round 26: school of many takes 47 damage.
+Round 26: school of many takes 1 damage.
+Round 26: school of many takes 9 damage.
+Round 26: school of many takes 3 damage.
+You lose 42 hit points
+Round 26: boolicious attacks!
+Round 27: school of many takes 445 damage.
+Round 27: school of many drops 3 attack power.
+Round 27: school of many drops 1 defense.
+Round 27: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 44 damage.
+Round 27: school of many takes 44 damage.
+Round 27: school of many takes 1 damage.
+Round 27: school of many takes 8 damage.
+Round 27: school of many takes 5 damage.
+You lose 49 hit points
+Round 27: boolicious attacks!
+Round 28: school of many takes 441 damage.
+Round 28: school of many drops 1 attack power.
+Round 28: school of many drops 2 defense.
+Round 28: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 43 damage.
+Round 28: school of many takes 43 damage.
+Round 28: boolicious attacks!
+Round 29: school of many takes 443 damage.
+Round 29: school of many drops 2 attack power.
+Round 29: school of many drops 3 defense.
+Round 29: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 39 damage.
+Round 29: school of many takes 39 damage.
+Round 29: boolicious attacks!
+Round 30: school of many takes 458 damage.
+Round 30: school of many drops 1 attack power.
+Round 30: school of many drops 2 defense.
+Round 30: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 37 damage.
+Round 30: school of many takes 37 damage.
+Round 30: boolicious attacks!
+Round 31: school of many takes 455 damage.
+Round 31: school of many drops 2 attack power.
+Round 31: school of many drops 1 defense.
+Round 31: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 39 damage.
+Round 31: school of many takes 39 damage.
+Round 31: boolicious attacks!
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22cloudy+potion%22
+
+buy 1 cloudy potion for 250 each from 1877436 on 20130427
+You acquire an item: cloudy potion of blessing
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22CSA+bravery+badge%22
+
+buy 2 CSA bravery badge for 100 each from 246794 on 20130427
+You acquire CSA bravery badge (2)
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22swirly+potion%22
+
+buy 1 swirly potion for 250 each from 1877436 on 20130427
+You acquire an item: swirly potion of mental acuity
+
+use 1 swirly potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22milky+potion%22
+
+buy 1 milky potion for 250 each from 1877436 on 20130427
+You acquire an item: milky potion of ettin strength
+
+use 1 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #162/1200:
+Question: What was needed to defeat The Shadow Lawyer Wrathbeaver in level 8, "The Cerulean Trough", in the popular video game "Dead Iron II"?
+Answer: A turnip that looked just like the Vizier of Hamonrye.
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+When%3F%22
+
+buy 1 Trivial Avocations Card: When? for 270 each from 1114938 on 20130427
+You acquire an item: Trivial Avocations Card: When?
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #397/1200:
+Question: When did the Pretty Great Ruckus of The village of Flytrap begin?
+Answer: 1959.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #804/1200:
+Question: Who devised the original monomolecular sweater?
+Answer: Jack, the last Emperor of Taintingham.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #975/1200:
+Question: Where was the Grand Prince of Lurkmoor stoned to death for the crime of skateboarding?
+Answer: In Lord Aldous Jones's grandfather's haberdashery.
+
+[14452] The Caliginous Abyss
+Encounter: slithering thing
+Round 0: boolicious loses initiative!
+Round 1: slithering thing takes 2 damage.
+Round 1: slithering thing takes 6 damage.
+Round 1: slithering thing takes 3 damage.
+You lose 41 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: slithering thing takes 724 damage.
+Round 2: slithering thing drops 2 attack power.
+Round 2: slithering thing drops 3 defense.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 41 damage.
+Round 2: slithering thing takes 41 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 45 Meat, but the rest sinks into the murky depths.
+You gain 45 Beefiness
+You gain 40 Mysteriousness
+You gain 76 Cheek
+You gain a Moxie point!
+
+use 1 dolphin whistle
+
+[14453] The Caliginous Abyss
+Encounter: slithering thing
+Round 0: boolicious loses initiative!
+Round 1: slithering thing takes 1 damage.
+Round 1: slithering thing takes 9 damage.
+Round 1: slithering thing takes 3 damage.
+You lose 47 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: slithering thing takes 727 damage.
+Round 2: slithering thing drops 1 attack power.
+Round 2: slithering thing drops 3 defense.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 44 damage.
+Round 2: slithering thing takes 44 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 55 Meat
+You gain 33 Muscleboundness
+You gain 46 Enchantedness
+You gain 83 Cheek
+
+[14454] The Caliginous Abyss
+Encounter: school of many
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: school of many takes 1024 damage.
+Round 2: school of many drops 3 attack power.
+Round 2: school of many drops 2 defense.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 36 damage.
+Round 2: school of many takes 36 damage.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: school of many takes 1513 damage.
+Round 3: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 51 damage.
+Round 3: school of many takes 51 damage.
+Round 3: boolicious attacks!
+Round 4: school of many takes 1021 damage.
+Round 4: school of many drops 1 attack power.
+Round 4: school of many drops 1 defense.
+Round 4: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 38 damage.
+Round 4: school of many takes 38 damage.
+Round 4: boolicious attacks!
+Round 5: school of many takes 1071 damage.
+Round 5: school of many drops 1 attack power.
+Round 5: school of many drops 3 defense.
+Round 5: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 47 damage.
+Round 5: school of many takes 47 damage.
+Round 5: boolicious attacks!
+Round 6: school of many takes 1043 damage.
+Round 6: school of many drops 3 attack power.
+Round 6: school of many drops 2 defense.
+Round 6: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 46 damage.
+Round 6: school of many takes 46 damage.
+Round 6: boolicious attacks!
+Round 7: school of many takes 1036 damage.
+Round 7: school of many drops 1 attack power.
+Round 7: school of many drops 1 defense.
+Round 7: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 37 damage.
+Round 7: school of many takes 37 damage.
+Round 7: boolicious attacks!
+Round 8: school of many takes 1028 damage.
+Round 8: school of many drops 3 attack power.
+Round 8: school of many drops 2 defense.
+Round 8: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 47 damage.
+Round 8: school of many takes 47 damage.
+Round 8: boolicious attacks!
+Round 9: school of many takes 1039 damage.
+Round 9: school of many drops 2 attack power.
+Round 9: school of many drops 3 defense.
+Round 9: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 36 damage.
+Round 9: school of many takes 36 damage.
+Round 9: boolicious attacks!
+Round 10: school of many takes 1032 damage.
+Round 10: school of many drops 2 attack power.
+Round 10: school of many drops 1 defense.
+Round 10: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 46 damage.
+Round 10: school of many takes 46 damage.
+Round 10: boolicious attacks!
+Round 11: school of many takes 1053 damage.
+Round 11: school of many drops 3 attack power.
+Round 11: school of many drops 1 defense.
+Round 11: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 42 damage.
+Round 11: school of many takes 42 damage.
+Round 11: boolicious attacks!
+Round 12: school of many takes 1043 damage.
+Round 12: school of many drops 1 attack power.
+Round 12: school of many drops 3 defense.
+Round 12: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 35 damage.
+Round 12: school of many takes 35 damage.
+Round 12: boolicious attacks!
+Round 13: school of many takes 1040 damage.
+Round 13: school of many drops 3 attack power.
+Round 13: school of many drops 1 defense.
+Round 13: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 37 damage.
+Round 13: school of many takes 37 damage.
+Round 13: boolicious attacks!
+Round 14: school of many takes 1044 damage.
+Round 14: school of many drops 2 attack power.
+Round 14: school of many drops 2 defense.
+Round 14: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 48 damage.
+Round 14: school of many takes 48 damage.
+Round 14: school of many takes 1 damage.
+Round 14: school of many takes 4 damage.
+Round 14: school of many takes 4 damage.
+You lose 47 hit points
+Round 14: boolicious attacks!
+Round 15: school of many takes 1055 damage.
+Round 15: school of many drops 1 attack power.
+Round 15: school of many drops 1 defense.
+Round 15: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 41 damage.
+Round 15: school of many takes 41 damage.
+Round 15: boolicious attacks!
+Round 16: school of many takes 1054 damage.
+Round 16: school of many drops 1 attack power.
+Round 16: school of many drops 1 defense.
+Round 16: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 43 damage.
+Round 16: school of many takes 43 damage.
+Round 16: boolicious attacks!
+Round 17: school of many takes 1048 damage.
+Round 17: school of many drops 1 attack power.
+Round 17: school of many drops 3 defense.
+Round 17: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 47 damage.
+Round 17: school of many takes 47 damage.
+Round 17: boolicious attacks!
+Round 18: school of many takes 1058 damage.
+Round 18: school of many drops 1 attack power.
+Round 18: school of many drops 3 defense.
+Round 18: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 35 damage.
+Round 18: school of many takes 35 damage.
+Round 18: school of many takes 3 damage.
+Round 18: school of many takes 2 damage.
+Round 18: school of many takes 5 damage.
+You lose 50 hit points
+Round 18: boolicious attacks!
+Round 19: school of many takes 1053 damage.
+Round 19: school of many drops 2 attack power.
+Round 19: school of many drops 3 defense.
+Round 19: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 46 damage.
+Round 19: school of many takes 46 damage.
+Round 19: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 40 Fortitude
+You gain a Muscle point!
+You gain 47 Enchantedness
+You gain 82 Sarcasm
+
+telescope look high
+You acquire an effect: Starry-Eyed (duration: 10 Adventures)
+Jumping into the Awesome Ball Pit in the clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+pool aggressive
+You acquire an effect: Billiards Belligerence (duration: 10 Adventures)
+
+pool strategic
+You acquire an effect: Mental A-cue-ity (duration: 10 Adventures)
+
+pool stylish
+You acquire an effect: Hustlin' (duration: 10 Adventures)
+
+swimming pool submarine
+You acquire an effect: Silent Running (duration: 50 Adventures)
+
+shower cold
+You acquire shard of double-ice (3)
+friars blessing 2
+You acquire an effect: Brother Corsican's Blessing (duration: 20 Adventures)
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+
+Visiting Relaxing Hot Tub in clan VIP lounge
+You gain 1,514 hit points
+
+postwarisland.php?place=nunnery&pwd&action=nuns
+You gain 1 hit point
+
+[14455] The Caliginous Abyss
+Encounter: eye in the darkness
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: eye in the darkness takes 2270 damage.
+Round 2: eye in the darkness drops 1 attack power.
+Round 2: eye in the darkness drops 2 defense.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 38 damage.
+Round 2: eye in the darkness takes 38 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 44 Strongness
+You gain 43 Magicalness
+You gain 76 Smarm
+
+use 2 willyweed
+You acquire an effect: Wet Willied (duration: 60 Adventures)
+
+use 2 fish juice box
+You acquire an effect: Really Deep Breath (duration: 60 Adventures)
+You acquire an effect: Fishy (duration: 40 Adventures)
+
+use 1 fish-liver oil
+You acquire an effect: Fishy Fortification (duration: 5 Adventures)
+
+[14456] The Caliginous Abyss
+Encounter: school of many
+Round 0: boolicious loses initiative!
+Round 1: school of many takes 2 damage.
+Round 1: school of many takes 6 damage.
+Round 1: school of many takes 3 damage.
+You lose 51 hit points
+Round 1: boolicious uses the unbearable light!
+You acquire an effect: Everything Looks Yellow (duration: 149 Adventures)
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 41 damage.
+Round 2: school of many takes 41 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 32 Strongness
+You gain 44 Mysteriousness
+You gain 93 Smarm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 100 each from 1524990 on 20130427
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[14457] The Caliginous Abyss
+Encounter: school of many
+Round 0: boolicious loses initiative!
+Round 1: school of many takes 1 damage.
+Round 1: school of many takes 5 damage.
+Round 1: school of many takes 3 damage.
+You lose 51 hit points
+Round 1: boolicious uses the imitation crab meat!
+Round 2: school of many takes 205 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 42 damage.
+Round 2: school of many takes 42 damage.
+Round 2: boolicious executes a macro!
+Round 2: boolicious attacks!
+Round 3: school of many takes 2435 damage.
+Round 3: school of many drops 1 attack power.
+Round 3: school of many drops 3 defense.
+Round 3: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 49 damage.
+Round 3: school of many takes 49 damage.
+Round 3: boolicious casts MOXIOUS MANEUVER!
+Round 4: school of many takes 2283 damage.
+Round 4: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 34 damage.
+Round 4: school of many takes 34 damage.
+Round 4: school of many takes 2 damage.
+Round 4: school of many takes 10 damage.
+Round 4: school of many takes 3 damage.
+You lose 47 hit points
+Round 4: boolicious attacks!
+Round 5: school of many takes 2428 damage.
+Round 5: school of many drops 3 attack power.
+Round 5: school of many drops 2 defense.
+Round 5: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 34 damage.
+Round 5: school of many takes 34 damage.
+Round 5: boolicious attacks!
+You lose 6 hit points
+Round 6: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 41 damage.
+Round 6: school of many takes 41 damage.
+Round 6: boolicious attacks!
+Round 7: school of many takes 2461 damage.
+Round 7: school of many drops 3 attack power.
+Round 7: school of many drops 1 defense.
+Round 7: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 40 damage.
+Round 7: school of many takes 40 damage.
+Round 7: boolicious attacks!
+Round 8: school of many takes 2441 damage.
+Round 8: school of many drops 1 attack power.
+Round 8: school of many drops 1 defense.
+Round 8: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 38 damage.
+Round 8: school of many takes 38 damage.
+Round 8: boolicious attacks!
+Round 9: school of many takes 2426 damage.
+Round 9: school of many drops 1 attack power.
+Round 9: school of many drops 2 defense.
+Round 9: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 47 damage.
+Round 9: school of many takes 47 damage.
+Round 9: boolicious attacks!
+Round 10: school of many takes 2447 damage.
+Round 10: school of many drops 2 attack power.
+Round 10: school of many drops 2 defense.
+Round 10: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 36 damage.
+Round 10: school of many takes 36 damage.
+Round 10: school of many takes 3 damage.
+Round 10: school of many takes 10 damage.
+Round 10: school of many takes 5 damage.
+You lose 50 hit points
+Round 10: boolicious attacks!
+Round 11: school of many takes 2426 damage.
+Round 11: school of many drops 3 attack power.
+Round 11: school of many drops 2 defense.
+Round 11: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 41 damage.
+Round 11: school of many takes 41 damage.
+Round 11: school of many takes 2 damage.
+Round 11: school of many takes 9 damage.
+Round 11: school of many takes 4 damage.
+You lose 52 hit points
+Round 11: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 50 Muscleboundness
+You gain 43 Enchantedness
+You gain 75 Sarcasm
+
+[14458] The Caliginous Abyss
+Encounter: school of many
+Round 0: boolicious loses initiative!
+Round 1: boolicious uses the shard of double-ice!
+Round 2: school of many takes 2811 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 1 damage.
+Round 2: school of many takes 1 damage.
+Round 2: boolicious attacks!
+Round 3: school of many takes 2434 damage.
+Round 3: school of many drops 3 attack power.
+Round 3: school of many drops 1 defense.
+Round 3: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 1 damage.
+Round 3: school of many takes 1 damage.
+Round 3: boolicious executes a macro!
+Round 3: boolicious attacks!
+Round 4: school of many takes 2419 damage.
+Round 4: school of many drops 3 attack power.
+Round 4: school of many drops 3 defense.
+Round 4: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 1 damage.
+Round 4: school of many takes 1 damage.
+Round 4: boolicious casts MOXIOUS MANEUVER!
+Round 5: school of many takes 2245 damage.
+Round 5: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 1 damage.
+Round 5: school of many takes 1 damage.
+Round 5: boolicious attacks!
+Round 6: school of many takes 2420 damage.
+Round 6: school of many drops 2 attack power.
+Round 6: school of many drops 1 defense.
+Round 6: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 1 damage.
+Round 6: school of many takes 1 damage.
+Round 6: school of many takes 2 damage.
+Round 6: school of many takes 12 damage.
+Round 6: school of many takes 4 damage.
+You lose 42 hit points
+Round 6: boolicious attacks!
+Round 7: school of many takes 2423 damage.
+Round 7: school of many drops 2 attack power.
+Round 7: school of many drops 3 defense.
+Round 7: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 1 damage.
+Round 7: school of many takes 1 damage.
+Round 7: boolicious attacks!
+You lose 11 hit points
+Round 8: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 1 damage.
+Round 8: school of many takes 1 damage.
+Round 8: school of many takes 1 damage.
+Round 8: school of many takes 18 damage.
+Round 8: school of many takes 3 damage.
+You lose 46 hit points
+Round 8: boolicious attacks!
+Round 9: school of many takes 2426 damage.
+Round 9: school of many drops 2 attack power.
+Round 9: school of many drops 1 defense.
+Round 9: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 1 damage.
+Round 9: school of many takes 1 damage.
+Round 9: boolicious attacks!
+Round 10: school of many takes 2420 damage.
+Round 10: school of many drops 2 attack power.
+Round 10: school of many drops 3 defense.
+Round 10: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 1 damage.
+Round 10: school of many takes 1 damage.
+Round 10: boolicious attacks!
+Round 11: school of many takes 2447 damage.
+Round 11: school of many drops 2 attack power.
+Round 11: school of many drops 2 defense.
+Round 11: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 1 damage.
+Round 11: school of many takes 1 damage.
+Round 11: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 33 Beefiness
+You gain 51 Magicalness
+You gain 83 Roguishness
+
+[14459] The Caliginous Abyss
+Encounter: slithering thing
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: slithering thing takes 1736 damage.
+Round 2: slithering thing drops 2 attack power.
+Round 2: slithering thing drops 3 defense.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 34 damage.
+Round 2: slithering thing takes 34 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 50 Meat
+You gain 41 Muscleboundness
+You gain 41 Enchantedness
+You gain 79 Smarm
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[14460] The Caliginous Abyss
+Encounter: slithering thing
+Round 0: boolicious loses initiative!
+Round 1: slithering thing takes 1 damage.
+Round 1: slithering thing takes 7 damage.
+Round 1: slithering thing takes 3 damage.
+You lose 48 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: slithering thing takes 1747 damage.
+Round 2: slithering thing drops 3 attack power.
+Round 2: slithering thing drops 2 defense.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 50 damage.
+Round 2: slithering thing takes 50 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 46 Meat, but the rest sinks into the murky depths.
+You gain 38 Muscleboundness
+You gain 47 Enchantedness
+You gain 77 Sarcasm
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22cloudy+potion%22
+
+buy 1 cloudy potion for 250 each from 1877436 on 20130427
+You acquire an item: cloudy potion of blessing
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22swirly+potion%22
+
+buy 1 swirly potion for 250 each from 1877436 on 20130427
+You acquire an item: swirly potion of mental acuity
+
+use 1 swirly potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22milky+potion%22
+
+buy 1 milky potion for 250 each from 1877436 on 20130427
+You acquire an item: milky potion of ettin strength
+
+use 1 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+[14461] The Caliginous Abyss
+Encounter: slithering thing
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: slithering thing takes 1689 damage.
+Round 2: slithering thing drops 2 attack power.
+Round 2: slithering thing drops 1 defense.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 51 damage.
+Round 2: slithering thing takes 51 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 53 Meat
+You gain 37 Fortitude
+You gain 47 Wizardliness
+You gain 78 Cheek
+
+[14462] The Caliginous Abyss
+Encounter: eye in the darkness
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: eye in the darkness takes 2288 damage.
+Round 2: eye in the darkness drops 1 attack power.
+Round 2: eye in the darkness drops 1 defense.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 41 damage.
+Round 2: eye in the darkness takes 41 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 41 Strengthliness
+You gain 42 Magicalness
+You gain a Mysticality point!
+You gain 78 Chutzpah
+
+[14463] The Caliginous Abyss
+Encounter: school of many
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: school of many takes 2353 damage.
+Round 2: school of many drops 3 attack power.
+Round 2: school of many drops 1 defense.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 36 damage.
+Round 2: school of many takes 36 damage.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: school of many takes 2244 damage.
+Round 3: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 46 damage.
+Round 3: school of many takes 46 damage.
+Round 3: boolicious attacks!
+Round 4: school of many takes 2348 damage.
+Round 4: school of many drops 2 attack power.
+Round 4: school of many drops 1 defense.
+Round 4: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 39 damage.
+Round 4: school of many takes 39 damage.
+Round 4: boolicious attacks!
+Round 5: school of many takes 2338 damage.
+Round 5: school of many drops 1 attack power.
+Round 5: school of many drops 2 defense.
+Round 5: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 34 damage.
+Round 5: school of many takes 34 damage.
+Round 5: boolicious attacks!
+Round 6: school of many takes 2359 damage.
+Round 6: school of many drops 3 attack power.
+Round 6: school of many drops 1 defense.
+Round 6: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 42 damage.
+Round 6: school of many takes 42 damage.
+Round 6: boolicious attacks!
+Round 7: school of many takes 2363 damage.
+Round 7: school of many drops 2 attack power.
+Round 7: school of many drops 1 defense.
+Round 7: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 41 damage.
+Round 7: school of many takes 41 damage.
+Round 7: boolicious attacks!
+You lose 6 hit points
+Round 8: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 39 damage.
+Round 8: school of many takes 39 damage.
+Round 8: boolicious attacks!
+Round 9: school of many takes 2339 damage.
+Round 9: school of many drops 2 attack power.
+Round 9: school of many drops 2 defense.
+Round 9: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 44 damage.
+Round 9: school of many takes 44 damage.
+Round 9: boolicious attacks!
+Round 10: school of many takes 2360 damage.
+Round 10: school of many drops 2 attack power.
+Round 10: school of many drops 1 defense.
+Round 10: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 37 damage.
+Round 10: school of many takes 37 damage.
+Round 10: boolicious attacks!
+Round 11: school of many takes 2362 damage.
+Round 11: school of many drops 2 attack power.
+Round 11: school of many drops 2 defense.
+Round 11: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 41 damage.
+Round 11: school of many takes 41 damage.
+Round 11: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 35 Fortitude
+You gain 51 Mysteriousness
+You gain 83 Cheek
+
+[14464] The Caliginous Abyss
+Encounter: slithering thing
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: slithering thing takes 1700 damage.
+Round 2: slithering thing drops 2 attack power.
+Round 2: slithering thing drops 1 defense.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 50 damage.
+Round 2: slithering thing takes 50 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 53 Meat
+You gain 38 Muscleboundness
+You gain 38 Magicalness
+You gain 84 Chutzpah
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 100 each from 1524990 on 20130427
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[14465] The Caliginous Abyss
+Encounter: eye in the darkness
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: eye in the darkness takes 1524 damage.
+Round 2: eye in the darkness drops 1 attack power.
+Round 2: eye in the darkness drops 1 defense.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 34 damage.
+Round 2: eye in the darkness takes 34 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 41 Muscleboundness
+You gain 47 Magicalness
+You gain 74 Chutzpah
+
+[14466] The Caliginous Abyss
+Encounter: school of many
+Round 0: boolicious loses initiative!
+Round 1: boolicious uses the pool torpedo!
+Round 2: school of many takes 323 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 48 damage.
+Round 2: school of many takes 48 damage.
+Adjusted combat item count: pool torpedo
+Round 2: boolicious uses the pool torpedo!
+Round 3: school of many takes 307 damage.
+Round 3: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 47 damage.
+Round 3: school of many takes 47 damage.
+Adjusted combat item count: pool torpedo
+Round 3: boolicious uses the pool torpedo!
+Round 4: school of many takes 257 damage.
+Round 4: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 41 damage.
+Round 4: school of many takes 41 damage.
+Round 4: school of many takes 1 damage.
+Round 4: school of many takes 7 damage.
+Round 4: school of many takes 4 damage.
+You lose 48 hit points
+Adjusted combat item count: pool torpedo
+Round 4: boolicious casts MOXIOUS MANEUVER!
+Round 5: school of many takes 2213 damage.
+Round 5: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 39 damage.
+Round 5: school of many takes 39 damage.
+Round 5: school of many takes 1 damage.
+Round 5: school of many takes 3 damage.
+Round 5: school of many takes 5 damage.
+You lose 46 hit points
+Round 5: boolicious executes a macro!
+Round 5: boolicious attacks!
+Round 6: school of many takes 1559 damage.
+Round 6: school of many drops 2 attack power.
+Round 6: school of many drops 3 defense.
+Round 6: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 42 damage.
+Round 6: school of many takes 42 damage.
+Round 6: boolicious casts MOXIOUS MANEUVER!
+Round 7: school of many takes 2219 damage.
+Round 7: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 49 damage.
+Round 7: school of many takes 49 damage.
+Round 7: boolicious attacks!
+Round 8: school of many takes 1562 damage.
+Round 8: school of many drops 1 attack power.
+Round 8: school of many drops 2 defense.
+Round 8: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 34 damage.
+Round 8: school of many takes 34 damage.
+Round 8: boolicious attacks!
+Round 9: school of many takes 1553 damage.
+Round 9: school of many drops 2 attack power.
+Round 9: school of many drops 3 defense.
+Round 9: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 40 damage.
+Round 9: school of many takes 40 damage.
+Round 9: boolicious attacks!
+Round 10: school of many takes 1559 damage.
+Round 10: school of many drops 1 attack power.
+Round 10: school of many drops 3 defense.
+Round 10: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 37 damage.
+Round 10: school of many takes 37 damage.
+Round 10: boolicious attacks!
+Round 11: school of many takes 1576 damage.
+Round 11: school of many drops 3 attack power.
+Round 11: school of many drops 1 defense.
+Round 11: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 41 damage.
+Round 11: school of many takes 41 damage.
+Round 11: boolicious attacks!
+Round 12: school of many takes 1569 damage.
+Round 12: school of many drops 2 attack power.
+Round 12: school of many drops 3 defense.
+Round 12: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 46 damage.
+Round 12: school of many takes 46 damage.
+Round 12: school of many takes 3 damage.
+Round 12: school of many takes 3 damage.
+Round 12: school of many takes 4 damage.
+You lose 48 hit points
+Round 12: boolicious attacks!
+Round 13: school of many takes 1564 damage.
+Round 13: school of many drops 3 attack power.
+Round 13: school of many drops 3 defense.
+Round 13: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 40 damage.
+Round 13: school of many takes 40 damage.
+Round 13: boolicious attacks!
+Round 14: school of many takes 1569 damage.
+Round 14: school of many drops 3 attack power.
+Round 14: school of many drops 2 defense.
+Round 14: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 36 damage.
+Round 14: school of many takes 36 damage.
+Round 14: boolicious attacks!
+Round 15: school of many takes 1626 damage.
+Round 15: school of many drops 3 attack power.
+Round 15: school of many drops 1 defense.
+Round 15: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 51 damage.
+Round 15: school of many takes 51 damage.
+Round 15: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 44 Beefiness
+You gain 39 Enchantedness
+You gain 85 Smarm
+
+[14467] The Caliginous Abyss
+Encounter: slithering thing
+Round 0: boolicious loses initiative!
+Round 1: boolicious uses the pool torpedo!
+Round 2: slithering thing takes 196 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 46 damage.
+Round 2: slithering thing takes 46 damage.
+Adjusted combat item count: pool torpedo
+Round 2: boolicious uses the pool torpedo!
+Round 3: slithering thing takes 212 damage.
+Round 3: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 36 damage.
+Round 3: slithering thing takes 36 damage.
+Adjusted combat item count: pool torpedo
+Round 3: boolicious uses the pool torpedo!
+Round 4: slithering thing takes 202 damage.
+Round 4: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 46 damage.
+Round 4: slithering thing takes 46 damage.
+Round 4: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 50 Meat
+You gain 29 Strongness
+You gain 56 Enchantedness
+You gain 79 Sarcasm
+
+[14468] The Caliginous Abyss
+Encounter: slithering thing
+Round 0: boolicious loses initiative!
+Adjusted combat item count: pool torpedo
+Round 1: boolicious uses the pool torpedo!
+Round 2: slithering thing takes 189 damage.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 40 damage.
+Round 2: slithering thing takes 40 damage.
+Adjusted combat item count: pool torpedo
+Round 2: boolicious uses the pool torpedo!
+Round 3: slithering thing takes 250 damage.
+Round 3: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 47 damage.
+Round 3: slithering thing takes 47 damage.
+Adjusted combat item count: pool torpedo
+Round 3: boolicious attacks!
+Round 4: slithering thing takes 1121 damage.
+Round 4: slithering thing drops 1 attack power.
+Round 4: slithering thing drops 3 defense.
+Round 4: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 34 damage.
+Round 4: slithering thing takes 34 damage.
+Round 4: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 46 Meat, but the rest sinks into the murky depths.
+You gain 31 Strongness
+You gain 57 Magicalness
+You gain 75 Roguishness
+You gain a Moxie point!
+
+[14469] The Caliginous Abyss
+Encounter: school of many
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: school of many takes 1584 damage.
+Round 2: school of many drops 1 attack power.
+Round 2: school of many drops 1 defense.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 39 damage.
+Round 2: school of many takes 39 damage.
+Round 2: school of many takes 3 damage.
+Round 2: school of many takes 5 damage.
+Round 2: school of many takes 4 damage.
+You lose 51 hit points
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: school of many takes 2213 damage.
+Round 3: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 44 damage.
+Round 3: school of many takes 44 damage.
+Round 3: boolicious attacks!
+Round 4: school of many takes 1553 damage.
+Round 4: school of many drops 2 attack power.
+Round 4: school of many drops 3 defense.
+Round 4: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 47 damage.
+Round 4: school of many takes 47 damage.
+Round 4: boolicious attacks!
+Round 5: school of many takes 1557 damage.
+Round 5: school of many drops 1 attack power.
+Round 5: school of many drops 3 defense.
+Round 5: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 48 damage.
+Round 5: school of many takes 48 damage.
+Round 5: boolicious attacks!
+Round 6: school of many takes 1571 damage.
+Round 6: school of many drops 1 attack power.
+Round 6: school of many drops 3 defense.
+Round 6: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 38 damage.
+Round 6: school of many takes 38 damage.
+Round 6: boolicious attacks!
+Round 7: school of many takes 1563 damage.
+Round 7: school of many drops 2 attack power.
+Round 7: school of many drops 1 defense.
+Round 7: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 45 damage.
+Round 7: school of many takes 45 damage.
+Round 7: boolicious attacks!
+Round 8: school of many takes 1569 damage.
+Round 8: school of many drops 1 attack power.
+Round 8: school of many drops 3 defense.
+Round 8: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 42 damage.
+Round 8: school of many takes 42 damage.
+Round 8: boolicious attacks!
+Round 9: school of many takes 1568 damage.
+Round 9: school of many drops 1 attack power.
+Round 9: school of many drops 1 defense.
+Round 9: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 36 damage.
+Round 9: school of many takes 36 damage.
+Round 9: boolicious attacks!
+Round 10: school of many takes 1574 damage.
+Round 10: school of many drops 3 attack power.
+Round 10: school of many drops 3 defense.
+Round 10: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 47 damage.
+Round 10: school of many takes 47 damage.
+Round 10: boolicious attacks!
+Round 11: school of many takes 1581 damage.
+Round 11: school of many drops 2 attack power.
+Round 11: school of many drops 1 defense.
+Round 11: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 47 damage.
+Round 11: school of many takes 47 damage.
+Round 11: boolicious attacks!
+Round 12: school of many takes 1565 damage.
+Round 12: school of many drops 2 attack power.
+Round 12: school of many drops 3 defense.
+Round 12: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 36 damage.
+Round 12: school of many takes 36 damage.
+Round 12: school of many takes 2 damage.
+Round 12: school of many takes 6 damage.
+Round 12: school of many takes 3 damage.
+You lose 51 hit points
+Round 12: boolicious attacks!
+Round 13: school of many takes 1585 damage.
+Round 13: school of many drops 3 attack power.
+Round 13: school of many drops 3 defense.
+Round 13: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 37 damage.
+Round 13: school of many takes 37 damage.
+Round 13: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 42 Beefiness
+You gain 49 Enchantedness
+You gain 78 Sarcasm
+
+[14470] The Caliginous Abyss
+Encounter: school of many
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: school of many takes 1566 damage.
+Round 2: school of many drops 3 attack power.
+Round 2: school of many drops 3 defense.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 46 damage.
+Round 2: school of many takes 46 damage.
+Round 2: boolicious casts MOXIOUS MANEUVER!
+Round 3: school of many takes 2212 damage.
+Round 3: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 43 damage.
+Round 3: school of many takes 43 damage.
+Round 3: school of many takes 3 damage.
+Round 3: school of many takes 2 damage.
+Round 3: school of many takes 4 damage.
+You lose 49 hit points
+Round 3: boolicious attacks!
+Round 4: school of many takes 1567 damage.
+Round 4: school of many drops 1 attack power.
+Round 4: school of many drops 1 defense.
+Round 4: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 44 damage.
+Round 4: school of many takes 44 damage.
+Round 4: boolicious attacks!
+Round 5: school of many takes 1568 damage.
+Round 5: school of many drops 2 attack power.
+Round 5: school of many drops 1 defense.
+Round 5: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 42 damage.
+Round 5: school of many takes 42 damage.
+Round 5: school of many takes 2 damage.
+Round 5: school of many takes 9 damage.
+Round 5: school of many takes 4 damage.
+You lose 47 hit points
+Round 5: boolicious attacks!
+Round 6: school of many takes 1562 damage.
+Round 6: school of many drops 1 attack power.
+Round 6: school of many drops 1 defense.
+Round 6: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 50 damage.
+Round 6: school of many takes 50 damage.
+Round 6: boolicious attacks!
+Round 7: school of many takes 1554 damage.
+Round 7: school of many drops 1 attack power.
+Round 7: school of many drops 1 defense.
+Round 7: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 49 damage.
+Round 7: school of many takes 49 damage.
+Round 7: boolicious attacks!
+Round 8: school of many takes 1566 damage.
+Round 8: school of many drops 1 attack power.
+Round 8: school of many drops 1 defense.
+Round 8: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 37 damage.
+Round 8: school of many takes 37 damage.
+Round 8: boolicious attacks!
+Round 9: school of many takes 1563 damage.
+Round 9: school of many drops 2 attack power.
+Round 9: school of many drops 3 defense.
+Round 9: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 34 damage.
+Round 9: school of many takes 34 damage.
+Round 9: school of many takes 2 damage.
+Round 9: school of many takes 6 damage.
+Round 9: school of many takes 5 damage.
+You lose 44 hit points
+Round 9: boolicious attacks!
+Round 10: school of many takes 1567 damage.
+Round 10: school of many drops 1 attack power.
+Round 10: school of many drops 3 defense.
+Round 10: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 46 damage.
+Round 10: school of many takes 46 damage.
+Round 10: school of many takes 3 damage.
+Round 10: school of many takes 10 damage.
+Round 10: school of many takes 5 damage.
+You lose 50 hit points
+Round 10: boolicious attacks!
+Round 11: school of many takes 1568 damage.
+Round 11: school of many drops 3 attack power.
+Round 11: school of many drops 1 defense.
+Round 11: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 46 damage.
+Round 11: school of many takes 46 damage.
+Round 11: boolicious attacks!
+Round 12: school of many takes 1566 damage.
+Round 12: school of many drops 3 attack power.
+Round 12: school of many drops 2 defense.
+Round 12: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 49 damage.
+Round 12: school of many takes 49 damage.
+Round 12: boolicious attacks!
+Round 13: school of many takes 1567 damage.
+Round 13: school of many drops 3 attack power.
+Round 13: school of many drops 1 defense.
+Round 13: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking them for 51 damage.
+Round 13: school of many takes 51 damage.
+Round 13: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 36 Beefiness
+You gain 48 Wizardliness
+You gain 85 Smarm
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22cloudy+potion%22
+
+buy 1 cloudy potion for 290 each from 2398994 on 20130427
+You acquire an item: cloudy potion of blessing
+
+use 1 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22milky+potion%22
+
+buy 1 milky potion for 250 each from 1877436 on 20130427
+You acquire an item: milky potion of ettin strength
+
+use 1 milky potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22swirly+potion%22
+
+buy 1 swirly potion for 250 each from 1877436 on 20130427
+You acquire an item: swirly potion of mental acuity
+
+use 1 swirly potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+[14471] The Caliginous Abyss
+Encounter: eye in the darkness
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: eye in the darkness takes 1518 damage.
+Round 2: eye in the darkness drops 1 attack power.
+Round 2: eye in the darkness drops 3 defense.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 37 damage.
+Round 2: eye in the darkness takes 37 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 37 Strongness
+You gain 31 Magicalness
+You gain 94 Roguishness
+
+[14472] The Caliginous Abyss
+Encounter: slithering thing
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: slithering thing takes 1125 damage.
+Round 2: slithering thing drops 2 attack power.
+Round 2: slithering thing drops 3 defense.
+Round 2: "I do hope you won't find it cold-hearted of me should I, rather than giving you the cold shoulder, give you a cold knee in your sensitive bits," Heckel &amp; Jeckyl says, kicking it for 37 damage.
+Round 2: slithering thing takes 37 damage.
+Round 2: boolicious wins the fight!
+After Battle: "You may rest assured that even with the considerable shrinking effect at play, here, I am still rather impressively endowed for a scarecrow," Heckel &amp; Jeckyl says, winking and grinning.
+You gain 43 Meat, but the rest sinks into the murky depths.
+You gain 44 Strongness
+You gain 33 Enchantedness
+You gain 84 Smarm
+
+mallsell: 24 pool torpedo
+
+add to stash: 15 pool torpedo
