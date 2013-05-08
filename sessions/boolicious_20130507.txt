@@ -1484,3 +1484,209 @@ mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&n
 mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22infernal+toilet+brush%22
 Unexpected error, debug log printed.
 Unexpected error, debug log printed.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+May 7, 2013 - Jarlsuary 5
+
+Ronald: full moon
+Grimace: first quarter
+Mini-moon: in front of Grimace, L side
+
+Valentine's Day: 7 days
+St. Sneaky Pete's Day: 14 days
+Oyster Egg Day: 21 days
+El Dia De Los Muertos Borrachos: 29 days
+Generic Summer Holiday: 38 days
+Dependence Day: 47 days
+Arrrbor Day: 55 days
+Lab&oacute;r Day: 65 days
+Halloween: 75 days
+Feast of Boris: 82 days
+Yuletide: 87 days
+Festival of Jarlsberg: 92 days
+
+
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: boolicious
+Class: Accordion Thief
+
+Lv: 26
+HP: 879 / 2,063
+MP: 249 / 1,969
+
+Mus: 1,927 (495), tnp = 462
+Mys: 1,969 (524), tnp = 585
+Mox: 2,473 (660), tnp = 494
+
+Advs: 26
+Meat: 570,490
+
+Full: 0 / 20
+Drunk: 0 / 14
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: hardened slime hat
+Weapon: titanium assault umbrella
+Off-hand: battered hubcap
+Shirt: eXtreme Bi-Polar Fleece Vest
+Pants: hardened slime pants
+Container: palm-frond cloak
+
+Acc. 1: enchanted handwarmer
+Acc. 2: Pok&euml;mann figurine: Duck
+Acc. 3: hardened slime belt
+
+Pet: Fancypants Scarecrow (17 lbs)
+Item: double-ice britches
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chronic Indigestion
+ - Conjure Relaxing Campfire
+ - Stomach of Steel
+ - Summon Crimbo Candy
+ - Transcendent Olfaction
+
+Seal Clubber
+ - Rage of the Reindeer
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Accordion Thief
+ - Aloysius' Antiphon of Aptitude
+ - Brawnee's Anthem of Absorption
+ - Carlweather's Cantata of Confrontation
+ - Cletus's Canticle of Celerity
+ - Donho's Bubbly Ballad
+ - Fat Leon's Phat Loot Lyric
+ - Jackasses' Symphony of Destruction
+ - Moxie of the Mariachi
+ - Sing
+ - Stevedave's Shanty of Superiority
+ - The Magical Mojomuscular Melody
+ - The Moxious Madrigal
+ - The Ode to Booze
+ - The Polka of Plenty
+ - The Power Ballad of the Arrowsmith
+ - The Psalm of Pointiness
+ - The Sonata of Sneakiness
+ - Ur-Kel's Aria of Annoyance
+
+Conditional
+ - Moxious Maneuver
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Geeky Gifts
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Mariachi Mood
+Belch the Rainbow™
+Coldform (4)
+Trivia Master (8)
+Strange Mental Acuity (8)
+Izchak's Blessing (8)
+Strength of Ten Ettins (8)
+Abominably Slippery (9)
+Mental A-cue-ity (9)
+Celestial Sheen (9)
+Hustlin' (9)
+Starry-Eyed (9)
+Billiards Belligerence (9)
+Rage of the Reindeer (15)
+Protection from Bad Stuff (19)
+Elvish (19)
+Brother Corsican's Blessing (19)
+Having a Ball! (19)
+Irresistible Resolve (20)
+Brilliant Resolve (20)
+Standard Issue Bravery (28)
+Muscle Unbound (49)
+Silent Running (49)
+Fishily Speeding (52)
+Scarysauce (316)
+♫ Aloysius' Antiphon of Aptitude (316)
+Jingle Jangle Jingle (316)
+Reptilian Fortitude (316)
+Jabañero Saucesphere (316)
+Empathy (316)
+Ghostly Shell (316)
+Tenacity of the Snapper (316)
+Elemental Saucesphere (316)
+Astral Shell (316)
+Jalapeño Saucesphere (316)
+♫ Stevedave's Shanty of Superiority (316)
+♫ Cringle's Curative Carol (316)
+
+
+ > modifiers
+
+ML: +0
+Enc: -10.00%
+Init: +120.00%
+
+Exp: +6.57
+Meat: +201.92%
+Item: +10.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 3 Summon Resolutions
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be happier
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22thin+black+candle%22
+
+buy 2 thin black candle for 288 each from 1053259 on 20130507
+You acquire thin black candle (2)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22scroll+of+ancient+forbidden+unspeakable+evil%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22disintegrating+quill+pen%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22inkwell%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tattered+scrap+of+paper%22
+
+buy 1 disintegrating quill pen for 100 each from 1037198 on 20130507
+You acquire an item: disintegrating quill pen
+
+buy 1 inkwell for 100 each from 1388395 on 20130507
+You acquire an item: inkwell
+
+buy 1 tattered scrap of paper for 1738 each from 1342093 on 20130507
+You acquire an item: tattered scrap of paper
+
+Use 1 disintegrating quill pen + 1 inkwell + 1 tattered scrap of paper
+You acquire an item: scroll of ancient forbidden unspeakable evil
+summon Ak'gyxoth
+You acquire an item: a little sump'm sump'm
+You acquire an item: rockin' wagon
+You acquire an item: slip 'n' slide
+
+Visiting Relaxing Hot Tub in clan VIP lounge
+You gain 1,184 hit points
