@@ -1,0 +1,942 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+May 12, 2013 - Frankruary 2
+
+Ronald: waxing crescent
+Grimace: full moon
+Mini-moon: front center
+
+Valentine's Day: 2 days
+St. Sneaky Pete's Day: 9 days
+Oyster Egg Day: 16 days
+El Dia De Los Muertos Borrachos: 24 days
+Generic Summer Holiday: 33 days
+Dependence Day: 42 days
+Arrrbor Day: 50 days
+Lab&oacute;r Day: 60 days
+Halloween: 70 days
+Feast of Boris: 77 days
+Yuletide: 82 days
+Festival of Jarlsberg: 87 days
+
+
+Muscle bonus today and yesterday.
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Jarlsberg
+
+Lv: 5
+HP: 15 / 27
+MP: 54 / 54
+
+Mus: 9 (6), tnp = 5
+Mys: 36 (20), tnp = 38
+Mox: 14 (11), tnp = 13
+
+Advs: 44
+Meat: 1,638
+
+Full: 0 / 10
+Drunk: 0 / 9
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Jarlsberg's hat
+Weapon: Staff of Blood and Pudding
+Off-hand: astral statuette
+Shirt: (none)
+Pants: old sweatpants
+
+Acc. 1: vampire collar
+Acc. 2: ring of half-assed regeneration
+Acc. 3: shiny ring
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Avatar Of Jarlsberg
+ - Bake
+ - Boil
+ - Conjure Eggs
+ - Conjure Fruit
+ - Conjure Potato
+ - Conjure Vegetables
+ - Curdle
+ - Food Coma
+ - Hippotatomous
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Glittering Eyelashes (4)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +1.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+buy 4 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (4)
+You spent 200 Meat
+
+use 1 chewing gum on a string
+You acquire an item: Hollandaise helmet
+
+use 1 chewing gum on a string
+You acquire an item: stolen accordion
+
+use 1 chewing gum on a string
+You acquire an item: ravioli hat
+
+use 1 chewing gum on a string
+You acquire an item: helmet turtle
+
+buy 4 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (4)
+You spent 200 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+add to closet: 1 worthless gewgaw
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+add to closet: 1 worthless gewgaw
+
+use 1 chewing gum on a string
+You acquire an item: mariachi hat
+
+use 1 chewing gum on a string
+You acquire an item: worthless trinket
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+add to closet: 1 worthless trinket
+
+use 1 chewing gum on a string
+You acquire an item: seal-clubbing club
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: saucepan
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless trinket
+You acquire an item: worthless trinket
+
+take from closet: 2 worthless gewgaw
+You acquire worthless gewgaw (2)
+
+trading 4 worthless items for 4 ten-leaf clovers
+You acquire ten-leaf clover (4)
+
+cast 1 Conjure Vegetables
+You acquire cosmic vegetable (3)
+
+cast 1 Conjure Eggs
+You acquire cosmic egg (3)
+
+cast 1 Conjure Potato
+You acquire cosmic potato (3)
+
+cast 1 Conjure Fruit
+You acquire cosmic fruit (3)
+
+[66] Rest in your dwelling
+You gain 8 hit points
+You gain 40 Mana Points
+
+pull: 1 cottage
+
+use 1 cottage
+
+pull: 1 Trivial Avocations board game, 2 Trivial Avocations Card: When?
+
+pull: 1 Staff of the Midnight Snack, 1 Staff of the Short Order Cook
+
+cast 1 Hippotatomous
+
+[66] Guano Junction
+Encounter: 
+
+equip acc2 Pine-Fresh air freshener
+
+[66] Guano Junction
+Encounter: How I Wonder What You're At
+You lose 5 hit points
+You acquire an item: sonar-in-a-biscuit
+You acquire an item: sonar-in-a-biscuit
+
+use 1 sonar-in-a-biscuit
+
+use 1 sonar-in-a-biscuit
+
+[67] Guano Junction
+Encounter: How I Wonder What You're At
+You lose 5 hit points
+You acquire an item: sonar-in-a-biscuit
+You acquire an item: sonar-in-a-biscuit
+
+Use 2 ten-leaf clover
+You acquire disassembled clover (2)
+
+use 1 sonar-in-a-biscuit
+
+[68] Boss Bat's Lair
+Encounter: beefy bodyguard bat
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast jiggles the Staff of Blood and Pudding
+Round 2: You jiggle the staff toward your opponent.  A stream of blood bursts from his body and pours into yours, dealing 5 damage and healing you.
+Round 2: beefy bodyguard bat takes 5 damage.
+Round 2: You gain 5 hit points.
+You lose 14 hit points
+Round 2: fifthtoast casts BOIL!
+Round 3: beefy bodyguard bat takes 42 damage.
+Round 3: fifthtoast wins the fight!
+You gain 260 Meat
+You gain 1 Muscleboundness
+You gain 8 Enchantedness
+You gain 2 Cheek
+
+[69] Boss Bat's Lair
+Encounter: beefy bodyguard bat
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: beefy bodyguard bat takes 26 damage.
+Round 2: fifthtoast wins the fight!
+You gain 234 Meat
+You gain 1 Strengthliness
+You gain 8 Magicalness
+You gain 2 Chutzpah
+
+[70] Boss Bat's Lair
+Encounter: beefy bodyguard bat
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: beefy bodyguard bat takes 26 damage.
+Round 2: fifthtoast wins the fight!
+You gain 251 Meat
+You gain 3 Beefiness
+You gain a Muscle point!
+You gain 6 Mysteriousness
+You gain 2 Smarm
+
+[71] Boss Bat's Lair
+Encounter: beefy bodyguard bat
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: beefy bodyguard bat takes 26 damage.
+Round 2: fifthtoast wins the fight!
+You gain 266 Meat
+You gain 1 Muscleboundness
+You gain 9 Magicalness
+You gain 1 Cheek
+
+[72] Rest in your dwelling
+You gain 60 hit points
+You gain 1 Mana Point
+
+canadia.php?action=changedial&whichlevel=4
+
+[72] Boss Bat's Lair
+Encounter: The Boss Bat
+Round 0: fifthtoast loses initiative!
+You lose 25 hit points
+Round 1: fifthtoast casts BOIL!
+Round 2: boss bat takes 43 damage.
+You lose 27 hit points
+
+[73] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 59 hit points
+You gain 15 Mana Points
+
+pull: 1 arrrgyle socks
+
+equip acc1 arrrgyle socks
+
+buy 5 glittery mascara for 24 each from The General Store
+You acquire glittery mascara (5)
+You spent 120 Meat
+
+use 5 glittery mascara
+You acquire an effect: Glittering Eyelashes (duration: 15 Adventures)
+
+pull: 1 sk8board
+
+equip acc1 sk8board
+
+[73] Boss Bat's Lair
+Encounter: beefy bodyguard bat
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: beefy bodyguard bat takes 26 damage.
+You lose 17 hit points
+Round 2: fifthtoast casts BOIL!
+Round 3: beefy bodyguard bat takes 42 damage.
+Round 3: fifthtoast wins the fight!
+You gain 260 Meat
+You gain 4 Strongness
+You gain 4 Wizardliness
+You gain 4 Sarcasm
+
+canadia.php?place=machine
+canadia.php?action=changedial&whichlevel=0
+
+[74] Boss Bat's Lair
+Encounter: The Boss Bat
+Round 0: fifthtoast loses initiative!
+You lose 22 hit points
+
+[75] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 58 hit points
+You gain 15 Mana Points
+
+[75] Boss Bat's Lair
+Encounter: The Boss Bat
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: fifthtoast casts BOIL!
+Round 3: boss bat takes 50 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: dense meat stack
+You acquire an item: Boss Bat bandana
+You gain 1 Fortitude
+You gain 10 Mysteriousness
+You gain a Mysticality point!
+You gain 3 Smarm
+You gain a Moxie point!
+You acquire an item: batskin belt
+
+[76] Outskirts of The Knob
+Encounter: Code Red
+You acquire an item: Knob Goblin encryption key
+
+use 1 Cobb's Knob map
+
+[77] Cobb's Knob Barracks
+Encounter: Knob Goblin Elite Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin elite guard takes 26 damage.
+You lose 13 hit points
+Round 2: fifthtoast jiggles the Staff of Blood and Pudding
+Round 3: You jiggle the staff toward your opponent.  A stream of blood bursts from his body and pours into yours, dealing 7 damage and healing you.
+Round 3: knob goblin elite guard takes 7 damage.
+Round 3: You gain 7 hit points.
+Round 3: fifthtoast wins the fight!
+You gain 48 Meat
+You acquire an item: Cobb's Knob Wurstbrau
+You gain 2 Fortitude
+You gain 7 Magicalness
+You gain 2 Cheek
+
+pull: 1 Knob Goblin deluxe scimitar, 1 Knob Goblin elite polearm
+
+[78] Cobb's Knob Barracks
+Encounter: Cobb's Knob lab key
+You acquire an item: Cobb's Knob lab key
+
+[78] Cobb's Knob Barracks
+Encounter: swarm of Knob lice
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: swarm of knob lice takes 26 damage.
+You lose 14 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: swarm of knob lice takes 26 damage.
+Round 3: fifthtoast wins the fight!
+You gain 1 Strengthliness
+You gain 9 Enchantedness
+You gain 2 Sarcasm
+
+[79] Cobb's Knob Barracks
+Encounter: off-duty Knob Goblin Elite Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: off-duty knob goblin elite guard takes 26 damage.
+You lose 18 hit points
+
+[80] Rest in Clan Sofa (1 turns)
+You gain 25 hit points
+
+[81] Cobb's Knob Barracks
+Encounter: Knob Goblin Elite Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin elite guard takes 26 damage.
+You lose 18 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: knob goblin elite guard takes 26 damage.
+Round 3: fifthtoast wins the fight!
+You gain 55 Meat
+You acquire an item: Knob Goblin elite helm
+You acquire an item: Cobb's Knob Wurstbrau
+You gain 3 Strongness
+You gain 8 Mysteriousness
+You gain 1 Sarcasm
+
+[82] Cobb's Knob Barracks
+Encounter: swarm of Knob lice
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: swarm of knob lice takes 26 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: swarm of knob lice takes 26 damage.
+Round 3: fifthtoast wins the fight!
+You gain 2 Beefiness
+You gain 5 Wizardliness
+You gain 4 Sarcasm
+
+[83] Cobb's Knob Barracks
+Encounter: off-duty Knob Goblin Elite Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: off-duty knob goblin elite guard takes 52 damage.
+Round 2: fifthtoast wins the fight!
+You gain 43 Meat
+You gain 4 Beefiness
+You gain a Muscle point!
+You gain 6 Enchantedness
+You gain 3 Smarm
+
+[84] Cobb's Knob Barracks
+Encounter: Knob Goblin Elite Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin elite guard takes 26 damage.
+You lose 13 hit points
+
+[85] Rest in Clan Sofa (1 turns)
+You gain 25 hit points
+
+[86] Cobb's Knob Barracks
+Encounter: off-duty Knob Goblin Elite Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: off-duty knob goblin elite guard takes 26 damage.
+You lose 23 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: off-duty knob goblin elite guard takes 26 damage.
+Round 3: fifthtoast wins the fight!
+You gain 47 Meat
+You gain 4 Beefiness
+You gain 9 Mysteriousness
+You gain a Mysticality point!
+
+[87] Rest in Clan Sofa (1 turns)
+You gain 26 hit points
+You gain 5 Mana Points
+
+[88] Cobb's Knob Barracks
+Encounter: Welcome to the Footlocker
+Took choice 522/2: skip adventure
+choice.php?whichchoice=522&option=2&pwd
+
+[88] Cobb's Knob Barracks
+Encounter: swarm of Knob lice
+Round 0: fifthtoast loses initiative!
+You lose 13 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swarm of knob lice takes 26 damage.
+You lose 13 hit points
+Round 2: fifthtoast casts BOIL!
+Round 3: swarm of knob lice takes 47 damage.
+Round 3: fifthtoast wins the fight!
+You gain 1 Beefiness
+You gain 9 Wizardliness
+You gain 1 Chutzpah
+
+[89] Rest in Clan Sofa (1 turns)
+You gain 24 hit points
+
+[90] Cobb's Knob Barracks
+Encounter: Welcome to the Footlocker
+Took choice 522/2: skip adventure
+choice.php?whichchoice=522&option=2&pwd
+
+[90] Cobb's Knob Barracks
+Encounter: swarm of Knob lice
+Round 0: fifthtoast loses initiative!
+You lose 13 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swarm of knob lice takes 26 damage.
+You lose 14 hit points
+
+[91] Rest in Clan Sofa (1 turns)
+You gain 25 hit points
+
+[92] Cobb's Knob Barracks
+Encounter: off-duty Knob Goblin Elite Guard
+Round 0: fifthtoast loses initiative!
+You lose 24 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: off-duty knob goblin elite guard takes 26 damage.
+You lose 24 hit points
+
+[93] Rest in Clan Sofa (1 turns)
+You gain 25 hit points
+
+[94] Cobb's Knob Barracks
+Encounter: Knob Goblin Elite Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin elite guard takes 26 damage.
+You lose 17 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: knob goblin elite guard takes 26 damage.
+Round 3: fifthtoast wins the fight!
+You gain 57 Meat
+You gain 2 Strengthliness
+You gain 7 Wizardliness
+You gain 2 Cheek
+
+[95] Cobb's Knob Barracks
+Encounter: Knob Goblin Elite Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin elite guard takes 26 damage.
+You lose 20 hit points
+
+[96] Rest in Clan Sofa (1 turns)
+You gain 25 hit points
+
+[97] Cobb's Knob Barracks
+Encounter: off-duty Knob Goblin Elite Guard
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: off-duty knob goblin elite guard takes 26 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: off-duty knob goblin elite guard takes 38 damage.
+Round 3: fifthtoast wins the fight!
+You gain 47 Meat
+You gain 1 Strengthliness
+You gain 8 Mysteriousness
+You gain 3 Chutzpah
+
+[98] Cobb's Knob Barracks
+Encounter: swarm of Knob lice
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: swarm of knob lice takes 52 damage.
+Round 2: fifthtoast wins the fight!
+You gain 3 Beefiness
+You gain 6 Wizardliness
+You gain 2 Roguishness
+
+[99] Cobb's Knob Barracks
+Encounter: off-duty Knob Goblin Elite Guard
+Round 0: fifthtoast loses initiative!
+You lose 17 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: off-duty knob goblin elite guard takes 26 damage.
+You lose 17 hit points
+
+[100] Rest in Clan Sofa (1 turns)
+You gain 25 hit points
+
+[101] Cobb's Knob Barracks
+Encounter: Knob Goblin Elite Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin elite guard takes 26 damage.
+You lose 19 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: knob goblin elite guard takes 26 damage.
+Round 3: fifthtoast wins the fight!
+You gain 41 Meat
+You acquire an item: Knob Goblin elite helm
+You acquire an item: Cobb's Knob Wurstbrau
+You gain 3 Muscleboundness
+You gain a Muscle point!
+You gain 9 Mysteriousness
+You gain a Mysticality point!
+
+[102] Cobb's Knob Barracks
+Encounter: Welcome to the Footlocker
+Took choice 522/2: skip adventure
+choice.php?whichchoice=522&option=2&pwd
+
+[102] Cobb's Knob Barracks
+Encounter: off-duty Knob Goblin Elite Guard
+Round 0: fifthtoast loses initiative!
+You lose 23 hit points
+
+[103] Rest in Clan Sofa (1 turns)
+You gain 25 hit points
+
+[104] Cobb's Knob Barracks
+Encounter: Welcome to the Footlocker
+Took choice 522/2: skip adventure
+choice.php?whichchoice=522&option=2&pwd
+
+[104] Cobb's Knob Barracks
+Encounter: off-duty Knob Goblin Elite Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: off-duty knob goblin elite guard takes 26 damage.
+You lose 24 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: off-duty knob goblin elite guard takes 26 damage.
+Round 3: fifthtoast wins the fight!
+You gain 56 Meat
+You gain 2 Beefiness
+You gain 8 Enchantedness
+You gain 3 Smarm
+
+[105] Rest in Clan Sofa (1 turns)
+You gain 25 hit points
+You gain 11 Mana Points
+
+[106] Cobb's Knob Barracks
+Encounter: swarm of Knob lice
+Round 0: fifthtoast loses initiative!
+You lose 12 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swarm of knob lice takes 52 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 Strongness
+You gain 6 Mysteriousness
+You gain 1 Sarcasm
+You gain a Moxie point!
+
+[107] Cobb's Knob Barracks
+Encounter: Welcome to the Footlocker
+Took choice 522/2: skip adventure
+choice.php?whichchoice=522&option=2&pwd
+
+[107] Cobb's Knob Barracks
+Encounter: swarm of Knob lice
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: swarm of knob lice takes 26 damage.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: swarm of knob lice takes 26 damage.
+Round 3: fifthtoast wins the fight!
+You gain 2 Strongness
+You gain 5 Magicalness
+You gain 4 Smarm
+
+[108] Cobb's Knob Barracks
+Encounter: Knob Goblin Elite Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin elite guard takes 26 damage.
+You lose 13 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: knob goblin elite guard takes 26 damage.
+Round 3: fifthtoast wins the fight!
+You gain 45 Meat
+You acquire an item: knob bugle
+You gain 1 Strengthliness
+You gain 9 Wizardliness
+You gain 1 Chutzpah
+
+[109] Rest in Clan Sofa (1 turns)
+You gain 25 hit points
+
+Using 2 cosmic potato to make 2 acceptable vodka
+You acquire acceptable vodka (2)
+
+drink 2 acceptable vodka
+You gain 5 Adventures
+You gain 29 Magicalness
+You gain a Mysticality point!
+You gain 14 Smarm
+You gain 3 Drunkenness
+You gain 4 Adventures
+You gain 30 Enchantedness
+You gain 12 Sarcasm
+You gain a Moxie point!
+You gain 3 Drunkenness
+
+Using 2 cosmic vegetable to make 2 consummate soup
+You acquire consummate soup (2)
+
+eat 2 consummate soup
+You gain 11 Adventures
+You gain 24 Enchantedness
+You gain a Mysticality point!
+You gain 12 Sarcasm
+You gain 4 Fullness
+You gain 6 Adventures
+You gain 30 Magicalness
+You gain 16 Roguishness
+You gain a Moxie point!
+You gain 4 Fullness
+
+Using 1 cosmic vegetable to make 1 consummate sauerkraut
+You acquire an item: consummate sauerkraut
+
+eat 1 consummate sauerkraut
+You gain 1 Adventure
+You gain 26 Wizardliness
+You gain a Mysticality point!
+You gain 20 Roguishness
+You gain 1 Fullness
+
+pull: 1 Knob Goblin harem pants, 1 Knob Goblin harem veil
+
+[110] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Girl
+Round 0: fifthtoast loses initiative!
+You lose 10 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin harem girl takes 26 damage.
+Round 2: fifthtoast wins the fight!
+You gain 2 Strongness
+You gain 10 Mysteriousness
+
+[111] Cobb's Knob Harem
+Encounter: Knob Goblin Madam
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin madam takes 26 damage.
+You lose 16 hit points
+
+[112] Rest in Clan Sofa (1 turns)
+You gain 26 hit points
+
+[113] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Guard
+Round 0: fifthtoast loses initiative!
+You lose 18 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin harem guard takes 26 damage.
+Round 2: fifthtoast wins the fight!
+You gain 1 Strengthliness
+You gain 6 Wizardliness
+You gain 4 Roguishness
+
+[114] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin harem guard takes 26 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: Knob nuts
+You gain 6 Beefiness
+You gain 4 Wizardliness
+You gain 2 Roguishness
+
+[115] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Guard
+Round 0: fifthtoast loses initiative!
+You lose 11 hit points
+
+[116] Rest in Clan Sofa (1 turns)
+You gain 25 hit points
+
+[117] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Girl
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin harem girl takes 26 damage.
+Round 2: fifthtoast wins the fight!
+You gain 1 Strengthliness
+You gain a Muscle point!
+You gain 8 Magicalness
+You gain 2 Chutzpah
+You gain a Moxie point!
+
+[118] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Girl
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin harem girl takes 26 damage.
+Round 2: fifthtoast wins the fight!
+You gain 2 Fortitude
+You gain 7 Mysteriousness
+You gain a Mysticality point!
+You gain 2 Cheek
+
+[119] Cobb's Knob Harem
+Encounter: Knob Goblin Madam
+Round 0: fifthtoast loses initiative!
+You lose 13 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin madam takes 26 damage.
+You lose 15 hit points
+
+[120] Rest in Clan Sofa (1 turns)
+You gain 25 hit points
+
+[121] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Girl
+Round 0: fifthtoast loses initiative!
+You lose 15 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin harem girl takes 26 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: Knob Goblin harem veil
+You acquire an item: swindleblossom
+You gain 3 Fortitude
+You gain 5 Magicalness
+You gain 3 Smarm
+
+[122] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Girl
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin harem girl takes 26 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: Knob Goblin harem veil
+You gain 8 Wizardliness
+You gain 3 Cheek
+
+[122] Rest in your dwelling
+
+[123] Cobb's Knob Harem
+You gain 58 hit points
+You gain 12 Mana Points
+Encounter: Knob Goblin Harem Girl
+Round 0: fifthtoast loses initiative!
+You lose 7 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin harem girl takes 26 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: swindleblossom
+You gain 3 Muscleboundness
+You gain 7 Mysteriousness
+You gain 1 Chutzpah
+
+[124] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin harem guard takes 26 damage.
+Round 2: fifthtoast wins the fight!
+You gain 1 Beefiness
+You gain 7 Mysteriousness
+You gain 3 Roguishness
+
+[125] Cobb's Knob Harem
+Encounter: Knob Goblin Madam
+Round 0: fifthtoast loses initiative!
+You lose 14 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin madam takes 26 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: knob goblin madam takes 96 damage.
+Round 3: fifthtoast wins the fight!
+You gain 2 Strengthliness
+You gain 10 Mysteriousness
+You gain 1 Smarm
+
+[126] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin harem guard takes 26 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 Beefiness
+You gain 7 Enchantedness
+You gain 1 Sarcasm
+
+[127] Rest in your dwelling
+
+[127] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin harem guard takes 26 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: Knob nuts
+You gain 4 Fortitude
+You gain 6 Magicalness
+You gain 1 Roguishness
+You gain 60 hit points
+You gain 1 Mana Point
+
+[128] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Girl
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin harem girl takes 26 damage.
+Round 2: fifthtoast wins the fight!
+You gain 1 Strongness
+You gain 8 Magicalness
+You gain a Mysticality point!
+You gain 2 Cheek
+
+[129] Cobb's Knob Harem
+Encounter: Knob Goblin Harem Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin harem guard takes 26 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 Beefiness
+You gain a Muscle point!
+You gain 2 Wizardliness
+You gain 4 Roguishness
+
+[130] Cobb's Knob Harem
+Encounter: Knob Goblin Madam
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin madam takes 52 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: Knob Goblin perfume
+You gain 2 Strongness
+You gain 8 Mysteriousness
+You gain 2 Chutzpah
