@@ -1,0 +1,1817 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+May 23, 2013 - Starch 5
+
+Ronald: full moon
+Grimace: first quarter
+Mini-moon: front center
+
+Oyster Egg Day: 5 days
+El Dia De Los Muertos Borrachos: 13 days
+Generic Summer Holiday: 22 days
+Dependence Day: 31 days
+Arrrbor Day: 39 days
+Lab&oacute;r Day: 49 days
+Halloween: 59 days
+Feast of Boris: 66 days
+Yuletide: 71 days
+Festival of Jarlsberg: 76 days
+Valentine's Day: 87 days
+St. Sneaky Pete's Day: 94 days
+
+
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Jarlsberg
+
+Lv: 9
+HP: 132 / 141
+MP: 180 / 338
+
+Mus: 93 (45), tnp = 45
+Mys: 215 (75), tnp = 122
+Mox: 105 (51), tnp = 81
+
+Advs: 128
+Meat: 12,343
+
+Full: 0 / 10
+Drunk: 0 / 14
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: fuzzy earmuffs
+Weapon: Staff of the Staff of Life
+Off-hand: astral statuette
+Shirt: (none)
+Pants: trousers of the white knight
+Container: Misty Robe
+
+Acc. 1: Jarlsberg's earring
+Acc. 2: arrrgyle socks
+Acc. 3: freshwater pearl necklace
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - Liver of Steel
+
+Avatar Of Jarlsberg
+ - Bake
+ - Best Served Cold
+ - Boil
+ - Conjure Dough
+ - Conjure Eggs
+ - Conjure Fruit
+ - Conjure Meat Product
+ - Conjure Potato
+ - Conjure Vegetables
+ - Curdle
+ - Food Coma
+ - Fry
+ - Hippotatomous
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Glittering Eyelashes (15)
+Hairy Palms (18)
+Trivia Master (30)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: When?
+
+buy 4 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (4)
+You spent 200 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless trinket
+You acquire an item: worthless gewgaw
+You acquire an item: worthless knick-knack
+
+add to closet: 1 worthless trinket
+
+add to closet: 1 worthless gewgaw
+
+add to closet: 1 worthless knick-knack
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless trinket
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless gewgaw
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 4 worthless items for 4 ten-leaf clovers
+You acquire ten-leaf clover (4)
+
+cast 1 Conjure Eggs
+You acquire cosmic egg (3)
+
+cast 1 Conjure Fruit
+You acquire cosmic fruit (3)
+
+cast 1 Conjure Potato
+You acquire cosmic potato (3)
+
+cast 1 Conjure Vegetables
+You acquire cosmic vegetable (3)
+
+cast 1 Hippotatomous
+
+cast 1 Conjure Dough
+You acquire cosmic dough (3)
+
+cast 1 Conjure Meat Product
+You acquire cosmic potted meat product (3)
+
+[647] Smut Orc Logging Camp
+Encounter: S&M 4-EVER
+You acquire weirdwood plank (3)
+You acquire long hard screw (3)
+
+[648] Smut Orc Logging Camp
+Encounter: S&M 4-EVER
+You acquire weirdwood plank (3)
+You acquire long hard screw (3)
+
+place.php?whichplace=orc_chasm&action=bridge20
+place.php?whichplace=orc_chasm&action=bridge29
+
+[649] Smut Orc Logging Camp
+Encounter: S&M 4-EVER
+You acquire weirdwood plank (3)
+You acquire long hard screw (3)
+
+place.php?whichplace=orc_chasm&action=label2
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+place.php?whichplace=highlands&action=highlands_dude
+choice.php?forceoption=0
+
+[650] Outskirts of The Knob
+Encounter: Malice in Chains
+Took choice 111/3: enter combat
+choice.php?pwd&whichchoice=111&option=3
+Encounter: sleeping Knob Goblin Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: sleeping knob goblin guard takes 45 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Meat
+You acquire an item: viking helmet
+You acquire an item: Knob Goblin scimitar
+You gain 1 Muscleboundness
+You gain 3 Wizardliness
+You gain 1 Chutzpah
+
+[651] Outskirts of The Knob
+Encounter: Knob Goblin Barbecue Team
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin barbecue team takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 9 Meat
+You acquire an item: bowl of cottage cheese
+You gain 2 Fortitude
+You gain 3 Mysteriousness
+
+[652] Outskirts of The Knob
+Encounter: Knob Goblin Barbecue Team
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin barbecue team takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 11 Meat
+You acquire an item: bowl of cottage cheese
+You acquire an item: Knob Goblin tongs
+You gain 2 Mysteriousness
+You gain 3 Smarm
+
+[653] Outskirts of The Knob
+Encounter: Knob Goblin Assistant Chef
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: knob goblin assistant chef takes 45 damage.
+Round 2: fifthtoast wins the fight!
+You gain 8 Meat
+You acquire an item: Knob Goblin tongs
+You gain 3 Strongness
+You gain 2 Enchantedness
+
+[654] Outskirts of The Knob
+Encounter: Sub-Assistant Knob Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: sub-assistant knob mad scientist takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 7 Meat
+You acquire an item: strongness elixir
+You acquire an item: Knob Goblin firecracker
+You gain 2 Beefiness
+You gain 3 Enchantedness
+
+[655] Outskirts of The Knob
+Encounter: sleeping Knob Goblin Guard
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: sleeping knob goblin guard takes 45 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Meat
+You acquire an item: viking helmet
+You acquire an item: Knob Goblin scimitar
+You gain 1 Fortitude
+You gain 4 Enchantedness
+choice.php?forceoption=0
+
+[656] Outskirts of The Knob
+Encounter: Knob Goblin BBQ
+Took choice 113/1: complete cake quest
+choice.php?pwd&whichchoice=113&option=1
+You acquire an item: lit birthday cake
+You lose 2 hit points
+
+[657] Haunted Kitchen
+Encounter: possessed silverware drawer
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: possessed silverware drawer takes 45 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: corn holder
+You acquire an item: antique packet of ketchup
+You gain 2 Enchantedness
+You gain 3 Cheek
+
+[658] Haunted Pantry
+Encounter: Happy Birthday, Claude
+You acquire an item: pat-a-cake pendant
+
+Visiting the Captain of the Gourd
+
+[659] A-Boo Peak
+Encounter: Faction Traction = Inaction
+
+[659] A-Boo Peak
+Encounter: Battlie Knight Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: battlie knight ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 3 Muscleboundness
+You gain 16 Wizardliness
+You gain 6 Chutzpah
+
+[660] A-Boo Peak
+Encounter: Whatsian Commando Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: whatsian commando ghost takes 180 damage.
+Round 2: fifthtoast wins the fight!
+You gain 10 Strengthliness
+You gain 9 Enchantedness
+You gain 5 Sarcasm
+
+[661] A-Boo Peak
+Encounter: Space Tourist Explorer Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: space tourist explorer ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 8 Fortitude
+You gain 8 Mysteriousness
+You gain 7 Roguishness
+
+[662] A-Boo Peak
+Encounter: Claybender Sorcerer Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: claybender sorcerer ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 Strengthliness
+You gain 9 Mysteriousness
+You gain 9 Cheek
+
+[663] A-Boo Peak
+Encounter: Space Tourist Explorer Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: space tourist explorer ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 2 Beefiness
+You gain 16 Mysteriousness
+You gain 6 Sarcasm
+
+[664] A-Boo Peak
+Encounter: Dusken Raider Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: dusken raider ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 2 Beefiness
+You gain 17 Magicalness
+You gain 4 Roguishness
+
+[665] A-Boo Peak
+Encounter: Dusken Raider Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: dusken raider ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 Strengthliness
+You gain 7 Magicalness
+You gain 9 Smarm
+
+[666] A-Boo Peak
+Encounter: Dusken Raider Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: dusken raider ghost takes 180 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: Duskwalker syringe
+You gain 8 Strengthliness
+You gain a Muscle point!
+You gain 11 Mysteriousness
+You gain 2 Chutzpah
+
+[667] A-Boo Peak
+Encounter: Claybender Sorcerer Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: claybender sorcerer ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Strongness
+You gain 14 Wizardliness
+You gain a Mysticality point!
+You gain 3 Chutzpah
+
+[668] A-Boo Peak
+Encounter: Claybender Sorcerer Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: claybender sorcerer ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 3 Strongness
+You gain 11 Enchantedness
+You gain 7 Chutzpah
+
+[669] A-Boo Peak
+Encounter: Whatsian Commando Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: whatsian commando ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 8 Muscleboundness
+You gain 13 Enchantedness
+You gain 4 Sarcasm
+
+[670] A-Boo Peak
+Encounter: Battlie Knight Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: battlie knight ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 8 Beefiness
+You gain 10 Mysteriousness
+You gain 4 Cheek
+
+[671] A-Boo Peak
+Encounter: Space Tourist Explorer Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: space tourist explorer ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 Strengthliness
+You gain 17 Enchantedness
+You gain 3 Cheek
+
+[672] A-Boo Peak
+Encounter: Dusken Raider Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: dusken raider ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 3 Beefiness
+You gain 14 Enchantedness
+You gain 7 Roguishness
+You gain a Moxie point!
+
+[673] A-Boo Peak
+Encounter: Whatsian Commando Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: whatsian commando ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 Strongness
+You gain 10 Mysteriousness
+You gain 10 Smarm
+
+[674] A-Boo Peak
+Encounter: Claybender Sorcerer Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: claybender sorcerer ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Fortitude
+You gain 13 Magicalness
+You gain 4 Cheek
+
+[675] A-Boo Peak
+Encounter: Battlie Knight Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: battlie knight ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: Whoompa Fur Pants
+You gain 5 Strengthliness
+You gain 14 Magicalness
+You gain 4 Cheek
+
+equip pants Whoompa Fur Pants
+
+[676] A-Boo Peak
+Encounter: Dusken Raider Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: dusken raider ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 Strengthliness
+You gain 13 Magicalness
+You gain 5 Sarcasm
+
+[677] A-Boo Peak
+Encounter: Battlie Knight Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: battlie knight ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 9 Fortitude
+You gain 9 Magicalness
+You gain 5 Cheek
+
+[678] A-Boo Peak
+Encounter: Dusken Raider Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: dusken raider ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 Strengthliness
+You gain 15 Mysteriousness
+You gain 5 Smarm
+
+[679] A-Boo Peak
+Encounter: Whatsian Commando Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: whatsian commando ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Fortitude
+You gain 14 Enchantedness
+You gain a Mysticality point!
+You gain 5 Smarm
+
+[680] A-Boo Peak
+Encounter: Space Tourist Explorer Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: space tourist explorer ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 3 Strengthliness
+You gain 15 Wizardliness
+You gain 6 Cheek
+
+[681] A-Boo Peak
+Encounter: Whatsian Commando Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: whatsian commando ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Strengthliness
+You gain 15 Mysteriousness
+You gain 4 Smarm
+
+[682] A-Boo Peak
+Encounter: Claybender Sorcerer Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: claybender sorcerer ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 Strongness
+You gain 14 Mysteriousness
+You gain 3 Chutzpah
+
+[683] A-Boo Peak
+Encounter: Whatsian Commando Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: whatsian commando ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 7 Strengthliness
+You gain a Muscle point!
+You gain 14 Mysteriousness
+You gain 4 Cheek
+
+[684] A-Boo Peak
+Encounter: Battlie Knight Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: battlie knight ghost takes 180 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: Battlie Light Saver
+You acquire an item: Whoompa Fur Pants
+You gain 5 Strongness
+You gain 10 Mysteriousness
+You gain 7 Chutzpah
+
+[685] A-Boo Peak
+Encounter: Dusken Raider Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: dusken raider ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 8 Muscleboundness
+You gain 10 Wizardliness
+You gain 5 Smarm
+
+[686] A-Boo Peak
+Encounter: Space Tourist Explorer Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: space tourist explorer ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 7 Muscleboundness
+You gain 10 Magicalness
+You gain 5 Chutzpah
+
+[687] A-Boo Peak
+Encounter: Space Tourist Explorer Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: space tourist explorer ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: A-Boo clue
+You gain 4 Strongness
+You gain 11 Mysteriousness
+You gain 7 Roguishness
+
+[688] A-Boo Peak
+Encounter: Dusken Raider Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: dusken raider ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: A-Boo clue
+You gain 5 Fortitude
+You gain 14 Mysteriousness
+You gain 4 Roguishness
+
+use 1 A-Boo clue
+choice.php?forceoption=0
+
+[689] A-Boo Peak
+Encounter: The Horror...
+Took choice 611/1: 12 spooky damage, 12 cold damage
+choice.php?pwd&whichchoice=611&option=1
+Encounter: spooky damage
+You lose 11 hit points
+You lose 12 hit points
+Took choice 611/1: 24 spooky damage, 24 cold damage
+choice.php?pwd&whichchoice=611&option=1
+Encounter: spooky damage
+You lose 23 hit points
+You lose 23 hit points
+Encounter: The Horror...
+Took choice 611/2: Flee
+choice.php?pwd&whichchoice=611&option=2
+
+[690] Rest in your dwelling
+You gain 28 hit points
+You gain 1 Mana Point
+
+[690] Rest in your dwelling
+You gain 30 hit points
+You gain 1 Mana Point
+
+[690] A-Boo Peak
+Encounter: Battlie Knight Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: battlie knight ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: Battlie Light Saver
+You gain 5 Muscleboundness
+You gain 10 Magicalness
+You gain 8 Smarm
+
+equip acc3 badass belt
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #154/1200:
+Question: What was stolen from the X'tn'ch'roth Museum of Scientific Things on Frankruary tenth, 1905?
+Answer: A pumpkin that looked just like the Tsar of X'tn'ch'roth.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #319/1200:
+Question: According to <u>Thoughts of the Mountain Lions</u>, the book of prophecies revered by worshipers of The Skull Giant Arc'klor, when was Krampus the Frost Rust Monster supposed to walk the earth, destroying all the works of man?
+Answer: Beer o'clock.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #744/1200:
+Question: Who wrote the extremely disturbing action-thriller <u>Viceroy of the Cleric's Herrings</u>?
+Answer: An earwig.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1198/1200:
+Question: Where was the Queen of Llewllamarall burned at the stake for the crime of lewd behavior?
+Answer: In a brewery in Crunkleford.
+friars blessing 2
+You acquire an effect: Brother Corsican's Blessing (duration: 20 Adventures)
+
+[691] Rest in your dwelling
+You gain 29 hit points
+You gain 123 Mana Points
+
+use 1 A-Boo clue
+choice.php?forceoption=0
+
+[691] A-Boo Peak
+Encounter: The Horror...
+Took choice 611/1: 12 spooky damage, 12 cold damage
+choice.php?pwd&whichchoice=611&option=1
+Encounter: spooky damage
+You lose 11 hit points
+You lose 11 hit points
+Took choice 611/1: 24 spooky damage, 24 cold damage
+choice.php?pwd&whichchoice=611&option=1
+Encounter: spooky damage
+You lose 23 hit points
+You lose 24 hit points
+Took choice 611/1: 48 spooky damage, 48 cold damage
+choice.php?pwd&whichchoice=611&option=1
+You lose 48 hit points
+You lose 47 hit points
+
+[692] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 30 hit points
+You gain 59 Mana Points
+
+[692] A-Boo Peak
+Encounter: Space Tourist Explorer Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: space tourist explorer ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 Strengthliness
+You gain 16 Enchantedness
+You gain 3 Sarcasm
+
+[693] A-Boo Peak
+Encounter: Claybender Sorcerer Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: claybender sorcerer ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: Polysniff Perfume
+You gain 6 Strongness
+You gain 10 Mysteriousness
+You gain 5 Cheek
+
+[694] A-Boo Peak
+Encounter: Whatsian Commando Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: whatsian commando ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 3 Fortitude
+You gain 16 Mysteriousness
+You gain a Mysticality point!
+You gain 6 Sarcasm
+You gain a Moxie point!
+
+[695] A-Boo Peak
+Encounter: Whatsian Commando Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: whatsian commando ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: T.U.R.D.S. Key
+You gain 5 Strongness
+You gain 16 Mysteriousness
+You gain 3 Roguishness
+
+[696] A-Boo Peak
+Encounter: Dusken Raider Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: dusken raider ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 7 Beefiness
+You gain 7 Mysteriousness
+You gain 8 Sarcasm
+
+[697] A-Boo Peak
+Encounter: Claybender Sorcerer Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: claybender sorcerer ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: A-Boo clue
+You acquire an item: Polysniff Perfume
+You gain 5 Fortitude
+You gain 15 Magicalness
+You gain 3 Roguishness
+
+use 1 A-Boo clue
+choice.php?forceoption=0
+
+[698] A-Boo Peak
+Encounter: The Horror...
+Took choice 611/1: 12 spooky damage, 12 cold damage
+choice.php?pwd&whichchoice=611&option=1
+Encounter: spooky damage
+You lose 11 hit points
+You lose 12 hit points
+Took choice 611/1: 24 spooky damage, 24 cold damage
+choice.php?pwd&whichchoice=611&option=1
+Encounter: spooky damage
+You lose 23 hit points
+You lose 24 hit points
+Took choice 611/2: Flee
+choice.php?pwd&whichchoice=611&option=2
+
+[699] Rest in your dwelling
+You gain 29 hit points
+You gain 1 Mana Point
+
+[699] A-Boo Peak
+Encounter: Whatsian Commando Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: whatsian commando ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Muscleboundness
+You gain 17 Magicalness
+You gain 1 Chutzpah
+
+[700] A-Boo Peak
+Encounter: Battlie Knight Ghost
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast casts CURDLE! (auto-attack)
+Round 2: battlie knight ghost takes 90 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Beefiness
+You gain 11 Magicalness
+You gain 6 Chutzpah
+
+[701] A-Boo Peak
+Encounter: Come On Ghosty, Light My Pyre
+
+[702] Oil Peak
+Encounter: Pushin' Down on Me, Pushin' Down on You
+
+[702] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast jiggles the Staff of the Staff of Life
+Round 2: You jiggle the staff.  A massive cloud of flour spews forth from it, totally enveloping you.  When the cloud clears, it becomes apparent that the flour has filled in all of the gaps in your skin, bone, and muscles left by your injuries.  You feel great!Your opponent coughs, comically emitting a little puff of flour.
+Round 2: You gain 24 hit points.
+Round 2: fifthtoast attacks!
+Round 3: fifthtoast executes a macro!
+Round 3: fifthtoast casts FRY!
+Round 4: oil slick takes 1 damage.
+Round 4: fifthtoast casts CURDLE!
+Round 5: oil slick takes 45 damage.
+Round 5: fifthtoast casts BOIL!
+Round 6: oil slick takes 300 damage.
+Round 6: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 11 Strengthliness
+You gain 10 Magicalness
+You gain 5 Cheek
+
+[703] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts FRY!
+Round 2: oil slick takes 1 damage.
+Round 2: fifthtoast casts CURDLE!
+Round 3: oil slick takes 45 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: oil slick takes 150 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 4 Muscleboundness
+You gain a Muscle point!
+You gain 15 Wizardliness
+You gain 7 Cheek
+
+[704] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts FRY!
+Round 2: oil slick takes 1 damage.
+Round 2: fifthtoast casts CURDLE!
+Round 3: oil slick takes 45 damage.
+You lose 13 hit points
+Round 3: fifthtoast casts BOIL!
+Round 4: oil slick takes 150 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 2 Beefiness
+You gain 20 Enchantedness
+You gain 4 Chutzpah
+
+[705] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts FRY!
+Round 2: oil slick takes 1 damage.
+Round 2: fifthtoast casts CURDLE!
+Round 3: oil slick takes 90 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 4 Strongness
+You gain 17 Wizardliness
+You gain 6 Cheek
+
+[706] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts FRY!
+Round 2: oil slick takes 1 damage.
+Round 2: fifthtoast casts CURDLE!
+Round 3: oil slick takes 45 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: oil slick takes 150 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 8 Strongness
+You gain 13 Enchantedness
+You gain 5 Cheek
+
+[707] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts FRY!
+Round 2: oil slick takes 1 damage.
+Round 2: fifthtoast casts CURDLE!
+Round 3: oil slick takes 45 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: oil slick takes 150 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 4 Muscleboundness
+You gain 17 Wizardliness
+You gain a Mysticality point!
+You gain 6 Chutzpah
+
+[708] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 300 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 6 Muscleboundness
+You gain 14 Mysteriousness
+You gain 6 Roguishness
+
+[709] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 6 Muscleboundness
+You gain 11 Mysteriousness
+You gain 8 Roguishness
+
+[710] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 5 Muscleboundness
+You gain 9 Wizardliness
+You gain 11 Smarm
+
+[711] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 4 Fortitude
+You gain 18 Magicalness
+You gain 5 Chutzpah
+
+[712] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 300 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 9 Fortitude
+You gain 14 Wizardliness
+You gain 3 Roguishness
+
+[713] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 4 Strongness
+You gain 17 Wizardliness
+You gain 5 Cheek
+
+Use 12 bubblin' crude
+You acquire an item: jar of oil
+
+[714] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 3 Beefiness
+You gain 19 Wizardliness
+You gain 4 Chutzpah
+
+[715] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 3 Fortitude
+You gain 17 Wizardliness
+You gain 6 Cheek
+
+[716] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 5 Fortitude
+You gain 15 Magicalness
+You gain 6 Cheek
+You gain a Moxie point!
+
+[717] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 6 Strongness
+You gain 16 Magicalness
+You gain a Mysticality point!
+You gain 5 Roguishness
+
+[718] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 10 Fortitude
+You gain 11 Mysteriousness
+You gain 3 Chutzpah
+
+[719] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 4 Fortitude
+You gain 14 Mysteriousness
+You gain 8 Sarcasm
+
+[720] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 7 Muscleboundness
+You gain 13 Wizardliness
+You gain 7 Cheek
+
+[721] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 7 Strongness
+You gain a Muscle point!
+You gain 9 Enchantedness
+You gain 9 Sarcasm
+
+[722] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+You lose 25 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 3 Strengthliness
+You gain 15 Magicalness
+You gain 7 Sarcasm
+
+[723] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+You lose 28 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 5 Strengthliness
+You gain 15 Enchantedness
+You gain 6 Roguishness
+
+[724] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+You lose 28 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 8 Strengthliness
+You gain 11 Wizardliness
+You gain 7 Cheek
+
+[725] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+You lose 28 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 7 Muscleboundness
+You gain 13 Magicalness
+You gain 7 Smarm
+
+Use 12 bubblin' crude
+You acquire an item: jar of oil
+
+[726] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 6 Strengthliness
+You gain 15 Mysteriousness
+You gain 5 Cheek
+
+[727] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 7 Strongness
+You gain 15 Enchantedness
+You gain 4 Cheek
+
+use 2 bubblin' crude
+
+[728] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+You lose 26 hit points
+Round 1: fifthtoast casts BAKE!
+Round 2: oil slick takes 10 damage.
+You lose 27 hit points
+
+[729] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 28 hit points
+You gain 60 Mana Points
+
+[729] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+You lose 26 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 6 Beefiness
+You gain 14 Magicalness
+You gain 6 Sarcasm
+
+[730] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 6 Fortitude
+You gain 11 Enchantedness
+You gain a Mysticality point!
+You gain 8 Smarm
+
+[731] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+You lose 27 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 8 Fortitude
+You gain 13 Enchantedness
+You gain 6 Chutzpah
+
+[732] Rest in Clan Sofa (1 turns)
+You gain 46 hit points
+
+[733] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+You lose 25 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 7 Strongness
+You gain 11 Wizardliness
+You gain 7 Cheek
+
+[734] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+You lose 28 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 300 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 7 Muscleboundness
+You gain 13 Wizardliness
+You gain 6 Roguishness
+
+[735] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 6 Beefiness
+You gain 14 Mysteriousness
+You gain 6 Chutzpah
+You gain a Moxie point!
+
+[736] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 300 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 6 Fortitude
+You gain 17 Wizardliness
+You gain 2 Chutzpah
+
+[737] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 9 Beefiness
+You gain 11 Mysteriousness
+You gain 6 Chutzpah
+
+[738] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+You lose 26 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 6 Strengthliness
+You gain 11 Magicalness
+You gain 9 Roguishness
+
+Use 11 bubblin' crude
+You acquire an item: oil pan
+
+[739] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 3 Strongness
+You gain a Muscle point!
+You gain 20 Wizardliness
+You gain 2 Roguishness
+
+[740] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+You lose 24 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 4 Beefiness
+You gain 16 Mysteriousness
+You gain 6 Sarcasm
+
+[741] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 7 Strongness
+You gain 13 Enchantedness
+You gain 6 Cheek
+
+[742] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 5 Strengthliness
+You gain 18 Wizardliness
+You gain 3 Sarcasm
+
+[743] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 10 Strengthliness
+You gain 8 Mysteriousness
+You gain a Mysticality point!
+You gain 8 Cheek
+
+[744] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+You lose 27 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 6 Fortitude
+You gain 13 Mysteriousness
+You gain 8 Cheek
+
+[745] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+You lose 25 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 7 Fortitude
+You gain 14 Magicalness
+You gain 5 Smarm
+
+[746] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+You lose 27 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 8 Strengthliness
+You gain 16 Wizardliness
+You gain 2 Cheek
+
+[747] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 300 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 4 Muscleboundness
+You gain 17 Magicalness
+You gain 5 Cheek
+
+[748] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+You lose 29 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 300 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 8 Beefiness
+You gain 15 Magicalness
+You gain 4 Roguishness
+
+Use 3 bubblin' crude
+You acquire an item: oily boid
+
+[749] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+You lose 26 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 7 Muscleboundness
+You gain 10 Enchantedness
+You gain 8 Cheek
+
+[750] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 9 Strengthliness
+You gain 14 Enchantedness
+You gain 3 Cheek
+
+[751] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+You lose 27 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 5 Muscleboundness
+You gain 16 Mysteriousness
+You gain 7 Smarm
+
+Use 10 bubblin' crude
+You acquire an item: oil slacks
+
+[752] Rest in Clan Sofa (1 turns)
+You gain 46 hit points
+
+[753] Oil Peak
+Encounter: oil slick
+Round 0: fifthtoast loses initiative!
+You lose 27 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: oil slick takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: bubblin' crude
+You gain 7 Muscleboundness
+You gain 14 Enchantedness
+You gain 5 Chutzpah
+
+[754] Oil Peak
+Encounter: Unimpressed with Pressure
+
+Using 2 cosmic potted meat product to make 2 consummate meatloaf
+You acquire consummate meatloaf (2)
+
+eat 2 consummate meatloaf
+You gain 12 Adventures
+You gain 25 Mysteriousness
+You gain 17 Cheek
+You gain 5 Fullness
+You gain 7 Adventures
+You gain 26 Magicalness
+You gain a Mysticality point!
+You gain 11 Smarm
+You gain a Moxie point!
+You gain 5 Fullness
+
+Using 4 cosmic potato to make 4 consummate french fries
+You acquire consummate french fries (4)
+
+Using 4 cosmic fruit to make 4 adequate rum
+You acquire adequate rum (4)
+
+Using 4 adequate rum + 4 consummate french fries to make 4 Le Roi
+You acquire Le Roi (4)
+
+drink 4 Le Roi
+You gain 10 Adventures
+You gain 37 Cheek
+You gain 3 Drunkenness
+You gain 9 Adventures
+You gain 31 Sarcasm
+You gain 3 Drunkenness
+You gain 10 Adventures
+You gain 33 Smarm
+You gain 3 Drunkenness
+You gain 10 Adventures
+You gain 35 Cheek
+You gain a Moxie point!
+You gain 3 Drunkenness
+
+drink 1 mediocre lager
+You gain 2 Adventures
+You gain 13 Mysteriousness
+You gain 6 Cheek
+You gain 2 Drunkenness
+
+use 1 strongness elixir
+You gain 1 Strongness
+
+buy 14 strongness elixir for 200 each from The General Store
+You acquire strongness elixir (14)
+You spent 2,800 Meat
+
+use 14 strongness elixir
+You gain 25 Strengthliness
+You gain a Muscle point!
+choice.php?forceoption=0
+
+[755] Twin Peak
+Encounter: Welcome to the Great Overlook Lodge
+Took choice 604/1: unknown
+choice.php?pwd&whichchoice=604&option=1
+Encounter: Welcome to the Great Overlook Lodge
+Took choice 604/1: unknown
+choice.php?pwd&whichchoice=604&option=1
+
+[755] Twin Peak
+Encounter: bearpig topiary animal
+Round 0: fifthtoast loses initiative!
+You lose 25 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: bearpig topiary animal takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 3 Muscleboundness
+You gain 15 Wizardliness
+You gain 9 Cheek
+
+[756] Twin Peak
+Encounter: bearpig topiary animal
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: bearpig topiary animal takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: rusty hedge trimmers
+You gain 6 Strongness
+You gain 13 Enchantedness
+You gain 7 Chutzpah
+
+use 1 rusty hedge trimmers
+choice.php?forceoption=0
+
+[757] Twin Peak
+Encounter: Lost in the Great Overlook Lodge
+Took choice 606/3: need Jar of Oil
+choice.php?pwd&whichchoice=606&option=3
+Encounter: There's Always Music In the Air
+Took choice 609/1: unknown
+choice.php?pwd&whichchoice=609&option=1
+Encounter: He Is the Arm, and He Sounds Like This
+Took choice 616/1: unknown
+choice.php?pwd&whichchoice=616&option=1
+
+[758] Twin Peak
+Encounter: the Big Wheelin' Twins
+Round 0: fifthtoast loses initiative!
+You lose 32 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: big wheelin' twins takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 62 Meat
+You acquire an item: badge of authority
+You acquire an item: vial of The Glistening
+You gain 2 Beefiness
+You gain 20 Magicalness
+You gain 7 Roguishness
+choice.php?forceoption=0
+
+[759] Twin Peak
+Encounter: Lost in the Great Overlook Lodge
+
+equip hat Knob Goblin harem veil
+
+equip acc3 Pine-Fresh air freshener
+Took choice 606/1: need +4 stench resist, have 2
+choice.php?pwd&whichchoice=606&option=1
+Encounter: Room 237
+Took choice 607/1: unknown
+choice.php?pwd&whichchoice=607&option=1
+
+[760] Twin Peak
+Encounter: Mismatched Twins
+Round 0: fifthtoast loses initiative!
+You lose 28 hit points
+Round 1: fifthtoast jiggles the Staff of the Staff of Life
+Round 2: You jiggle the staff.  A massive cloud of flour spews forth from it, totally enveloping you.  When the cloud clears, it becomes apparent that the flour has filled in all of the gaps in your skin, bone, and muscles left by your injuries.  You feel great!Your opponents cough, comically emitting a little puff of flour.
+Round 2: You gain 52 hit points.
+Round 2: fifthtoast casts BOIL!
+Round 3: mismatched twins takes 300 damage.
+Round 3: fifthtoast wins the fight!
+You gain 61 Meat
+You gain 4 Fortitude
+You gain 13 Mysteriousness
+You gain 11 Cheek
+
+[761] Twin Peak
+Encounter: bearpig topiary animal
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: bearpig topiary animal takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: rusty hedge trimmers
+You gain 6 Fortitude
+You gain 11 Mysteriousness
+You gain 8 Chutzpah
+
+use 1 rusty hedge trimmers
+choice.php?forceoption=0
+Encounter: Lost in the Great Overlook Lodge
+Took choice 606/1: need +4 stench resist, have 4
+choice.php?pwd&whichchoice=606&option=1
+Encounter: Room 237
+Took choice 607/1: unknown
+choice.php?pwd&whichchoice=607&option=1
+
+equip weapon Staff of the Light Lunch
+
+equip pants oil slacks
+
+equip acc1 Bonerdagon necklace
+
+equip acc3 infernal insoles
+
+equip weapon Staff of the Staff of Life
+
+[763] Twin Peak
+Encounter: the Bubblemint Twins
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: bubblemint twins takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 68 Meat
+You acquire an item: that gum you like
+You gain 9 Fortitude
+You gain 11 Wizardliness
+You gain 8 Sarcasm
+
+[764] Twin Peak
+Encounter: Creepy Ginger Twin
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: creepy ginger twin takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 52 Meat
+You acquire an item: creepy ginger ale
+You acquire an item: stolen necklace
+You gain 7 Strengthliness
+You gain 17 Enchantedness
+You gain 5 Sarcasm
+
+[765] Twin Peak
+Encounter: bearpig topiary animal
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: bearpig topiary animal takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 11 Muscleboundness
+You gain 9 Enchantedness
+You gain 4 Roguishness
+choice.php?forceoption=0
+
+[766] Twin Peak
+Encounter: Lost in the Great Overlook Lodge
+Took choice 606/6: flee
+choice.php?pwd&whichchoice=606&option=6
+
+equip acc1 Baron von Ratsworth's monocle
+
+equip acc2 observational glasses
+
+equip acc3 screwing pooch
+
+[766] Twin Peak
+Encounter: the Troll Twins
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: troll twins takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 82 Meat
+You gain 6 Muscleboundness
+You gain 15 Wizardliness
+You gain 7 Roguishness
+
+[767] Twin Peak
+Encounter: Mismatched Twins
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: mismatched twins takes 300 damage.
+Round 2: fifthtoast wins the fight!
+You gain 62 Meat
+You gain 8 Strengthliness
+You gain 14 Wizardliness
+You gain a Mysticality point!
+You gain 5 Roguishness
+
+[768] Twin Peak
+Encounter: the Big Wheelin' Twins
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: big wheelin' twins takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 60 Meat
+You gain 7 Strongness
+You gain 16 Enchantedness
+You gain 5 Roguishness
+
+[769] Twin Peak
+Encounter: Mismatched Twins
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: mismatched twins takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 57 Meat
+You acquire an item: giant motorcycle boots
+You gain 12 Fortitude
+You gain 10 Enchantedness
+You gain 4 Smarm
+You gain a Moxie point!
+
+[770] Twin Peak
+Encounter: spider (duck?) topiary animal
+Round 0: fifthtoast loses initiative!
+You lose 29 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: spider (duck?) topiary animal takes 300 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 Muscleboundness
+You gain 16 Enchantedness
+You gain 6 Cheek
+
+[771] Twin Peak
+Encounter: the Big Wheelin' Twins
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: big wheelin' twins takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 75 Meat
+You gain 6 Strongness
+You gain a Muscle point!
+You gain 17 Magicalness
+You gain 5 Roguishness
+
+[772] Twin Peak
+Encounter: Synecdoche, Twin Peak
+You acquire an item: miniature boiler
+
+equip weapon Staff of the Healthy Breakfast
+
+pull: 1 miner's helmet
+
+equip hat miner's helmet
+
+pull: 1 lucky rabbit's foot
+
+equip acc3 lucky rabbit's foot
+
+pull: 1 eye of the Tiger-lily
+
+equip off-hand eye of the Tiger-lily

@@ -1,9 +1,9 @@
 [ default ]
-skill fry
-skill grill
-skill curdle
 skill boil
 jiggle chefstaff
+skill curdle
+skill fry
+skill grill
 skill chop
 skill fry
 
