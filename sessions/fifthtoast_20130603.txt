@@ -675,3 +675,588 @@ Encounter: Badger Badger Badger Badger
 [927] Daily Dungeon (Room 10)
 Encounter: Treasure!
 You acquire an item: fat loot token
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+June 3, 2013 - April 8
+
+Ronald: waning crescent
+Grimace: waning crescent
+Mini-moon: front center
+
+El Dia De Los Muertos Borrachos: 2 days
+Generic Summer Holiday: 11 days
+Dependence Day: 20 days
+Arrrbor Day: 28 days
+Lab&oacute;r Day: 38 days
+Halloween: 48 days
+Feast of Boris: 55 days
+Yuletide: 60 days
+Festival of Jarlsberg: 65 days
+Valentine's Day: 76 days
+St. Sneaky Pete's Day: 83 days
+Oyster Egg Day: 90 days
+
+
+Moxie bonus today and tomorrow.
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Jarlsberg
+
+Lv: 10
+HP: 59 / 113
+MP: 267 / 267
+
+Mus: 65 (57), tnp = 40
+Mys: 168 (91), tnp = 44
+Mox: 71 (63), tnp = 106
+
+Advs: 150
+Meat: 11,705
+
+Full: 0 / 10
+Drunk: 0 / 14
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: fuzzy earmuffs
+Weapon: Staff of the Staff of Life
+Off-hand: astral statuette
+Shirt: (none)
+Pants: trousers of the white knight
+Container: Misty Robe
+
+Acc. 1: Jarlsberg's earring
+Acc. 2: arrrgyle socks
+Acc. 3: badass belt
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - Liver of Steel
+ - Really Expensive Jewelrycrafting
+
+Avatar Of Jarlsberg
+ - Bake
+ - Best Served Cold
+ - Boil
+ - Chop
+ - Conjure Dough
+ - Conjure Eggs
+ - Conjure Fruit
+ - Conjure Meat Product
+ - Conjure Potato
+ - Conjure Vegetables
+ - Curdle
+ - Food Coma
+ - Fry
+ - Hippotatomous
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Glittering Eyelashes (5)
+Pretending to Pretend (7)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +1.50
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: Who?
+
+buy 4 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (4)
+You spent 200 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless trinket
+You acquire an item: worthless gewgaw
+You acquire an item: worthless knick-knack
+
+add to closet: 1 worthless trinket
+
+add to closet: 1 worthless gewgaw
+
+add to closet: 1 worthless knick-knack
+
+use 1 chewing gum on a string
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless trinket
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless gewgaw
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 4 worthless items for 4 ten-leaf clovers
+You acquire ten-leaf clover (4)
+friars blessing 2
+You acquire an effect: Brother Corsican's Blessing (duration: 20 Adventures)
+
+[928] Daily Dungeon (Room 0)
+
+[928] Giant's Castle (Top Floor)
+Encounter: Punk Rock Giant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: punk rock giant takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 55 Meat
+You gain 14 Beefiness
+You gain 21 Wizardliness
+You gain 9 Chutzpah
+choice.php?forceoption=0
+
+[929] Giant's Castle (Ground Floor)
+Encounter: There's No Ability Like Possibility
+Took choice 672/1: 3 random items
+choice.php?pwd&whichchoice=672&option=1
+You acquire an item: worthless trinket
+You acquire an item: worthless knick-knack
+You acquire an item: stolen sushi
+
+[930] Giant's Castle (Ground Floor)
+Encounter: Foodie Giant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: foodie giant takes 150 damage.
+You lose 60 hit points
+Round 2: fifthtoast jiggles the Staff of the Staff of Life
+Round 3: You jiggle the staff.  There is a weak coughing sound, and a little puff of flour shoots out of the end of it.  Oh well.  You rub the flour on some of your wounds, and it helps a little.Your opponet is too busy snickering to attack you this round.
+Round 3: You gain 10 hit points.
+Round 3: fifthtoast casts CURDLE!
+Round 4: foodie giant takes 45 damage.
+Round 4: fifthtoast wins the fight!
+You gain 97 Meat
+You acquire an item: giant artisanal rice peeler
+You acquire an item: chipotle wasabi cilantro aioli
+You gain 10 Strongness
+You gain 21 Magicalness
+You gain 7 Roguishness
+
+[931] Giant's Castle (Top Floor)
+Encounter: Raver Giant
+Round 0: fifthtoast loses initiative!
+You lose 68 hit points
+
+[932] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 30 hit points
+You gain 69 Mana Points
+
+[932] Rest in Clan Sofa (1 turns)
+You gain 51 hit points
+
+[932] Rest in Clan Sofa (1 turns)
+
+use 1 scroll of drastic healing
+
+[934] Giant's Castle (Top Floor)
+Encounter: Goth Giant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: goth giant takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 159 Meat
+You gain 11 Fortitude
+You gain 15 Mysteriousness
+You gain a Mysticality point!
+You gain 11 Roguishness
+
+[935] Twin Peak
+Encounter: What Kind of Party <i>Is</i> This?
+You acquire an effect: Your Interest is Peaked (duration: 10 Adventures)
+
+Use 3 ten-leaf clover
+You acquire disassembled clover (3)
+
+[936] Twin Peak
+Encounter: spider (duck?) topiary animal
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: spider (duck?) topiary animal takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 Fortitude
+You gain 15 Wizardliness
+You gain 7 Cheek
+
+[937] Twin Peak
+Encounter: Mismatched Twins
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: mismatched twins takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 58 Meat
+You gain 4 Beefiness
+You gain a Muscle point!
+You gain 16 Enchantedness
+You gain 8 Smarm
+
+[938] Twin Peak
+Encounter: the Bubblemint Twins
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: bubblemint twins takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 65 Meat
+You gain 5 Beefiness
+You gain 14 Magicalness
+You gain 9 Cheek
+
+[939] Twin Peak
+Encounter: the Troll Twins
+Round 0: fifthtoast loses initiative!
+You lose 29 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: troll twins takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 70 Meat
+You gain 7 Strengthliness
+You gain 14 Mysteriousness
+You gain 7 Roguishness
+
+[940] Twin Peak
+Encounter: the Troll Twins
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: troll twins takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 72 Meat
+You gain 7 Muscleboundness
+You gain 20 Enchantedness
+You gain 2 Chutzpah
+choice.php?forceoption=0
+
+[941] Twin Peak
+Encounter: Lost in the Great Overlook Lodge
+Took choice 606/6: flee
+choice.php?pwd&whichchoice=606&option=6
+
+pull: 1 palm-frond cloak
+
+equip back palm-frond cloak
+
+equip pants Whoompa Fur Pants
+
+equip acc1 Pine-Fresh air freshener
+unequip acc1
+
+equip acc2 Pine-Fresh air freshener
+
+use 1 Polysniff Perfume
+You acquire an effect: Neutered Nostrils (duration: 10 Adventures)
+
+[941] Twin Peak
+Encounter: elephant (meatcar?) topiary animal
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+You lose 24 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts BOIL!
+Round 3: elephant (meatcar?) topiary animal takes 150 damage.
+Round 3: fifthtoast wins the fight!
+You gain 7 Strengthliness
+You gain 5 Enchantedness
+You gain 13 Cheek
+choice.php?forceoption=0
+
+[942] Twin Peak
+Encounter: Lost in the Great Overlook Lodge
+Took choice 606/1: need +4 stench resist, have 7
+choice.php?pwd&whichchoice=606&option=1
+Encounter: Room 237
+Took choice 607/1: unknown
+choice.php?pwd&whichchoice=607&option=1
+
+[943] Twin Peak
+Encounter: Mismatched Twins
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: mismatched twins takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 62 Meat
+You acquire an item: artisanal limoncello
+You gain 6 Fortitude
+You gain 13 Wizardliness
+You gain 9 Chutzpah
+
+[944] Twin Peak
+Encounter: spider (duck?) topiary animal
+Round 0: fifthtoast loses initiative!
+You lose 24 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: spider (duck?) topiary animal takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 Strongness
+You gain 11 Wizardliness
+You gain 9 Roguishness
+
+[945] Twin Peak
+Encounter: bearpig topiary animal
+Round 0: fifthtoast loses initiative!
+You lose 20 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: bearpig topiary animal takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 Beefiness
+You gain 18 Enchantedness
+You gain 3 Roguishness
+
+[946] Twin Peak
+Encounter: the Bubblemint Twins
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: bubblemint twins takes 300 damage.
+Round 2: fifthtoast wins the fight!
+You gain 61 Meat
+You gain 7 Strengthliness
+You gain 16 Wizardliness
+You gain 5 Cheek
+
+[947] Twin Peak
+Encounter: Creepy Ginger Twin
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: creepy ginger twin takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 54 Meat
+You acquire an item: creepy ginger ale
+You gain 3 Fortitude
+You gain 21 Wizardliness
+You gain 5 Roguishness
+
+[948] Twin Peak
+Encounter: elephant (meatcar?) topiary animal
+Round 0: fifthtoast loses initiative!
+You lose 23 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: elephant (meatcar?) topiary animal takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 1 Muscleboundness
+You gain 18 Enchantedness
+You gain a Mysticality point!
+You gain 7 Smarm
+You gain a Moxie point!
+choice.php?forceoption=0
+
+[949] Twin Peak
+Encounter: Lost in the Great Overlook Lodge
+Took choice 606/6: flee
+choice.php?pwd&whichchoice=606&option=6
+
+pull: 1 worn tophat
+
+equip hat worn tophat
+
+pull: 1 little round pebble
+
+equip off-hand little round pebble
+
+equip back Misty Robe
+
+equip pants oil slacks
+
+equip acc1 Bonerdagon necklace
+
+pull: 1 furniture dolly
+
+equip acc3 furniture dolly
+
+[949] Twin Peak
+Encounter: Mismatched Twins
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: mismatched twins takes 125 damage.
+Round 2: fifthtoast wins the fight!
+You gain 72 Meat
+You gain 2 Strengthliness
+You gain 18 Magicalness
+You gain 8 Smarm
+
+[950] Twin Peak
+Encounter: the Big Wheelin' Twins
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: big wheelin' twins takes 125 damage.
+Round 2: fifthtoast wins the fight!
+You gain 57 Meat
+You gain 6 Strengthliness
+You gain 13 Mysteriousness
+You gain 9 Sarcasm
+
+[951] Twin Peak
+Encounter: bearpig topiary animal
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: bearpig topiary animal takes 125 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: rusty hedge trimmers
+You gain 5 Muscleboundness
+You gain 15 Wizardliness
+You gain 6 Sarcasm
+
+use 1 rusty hedge trimmers
+choice.php?forceoption=0
+Encounter: Lost in the Great Overlook Lodge
+Took choice 606/4: need +40% init, have 150.0%
+choice.php?pwd&whichchoice=606&option=4
+Encounter: To Catch a Killer
+Took choice 610/1: unknown
+choice.php?pwd&whichchoice=610&option=1
+Encounter: Now It's Dark
+Took choice 617/1: unknown
+choice.php?pwd&whichchoice=617&option=1
+You acquire an item: gold wedding ring
+
+[954] Twin Peak
+Encounter: Creepy Ginger Twin
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: creepy ginger twin takes 125 damage.
+Round 2: fifthtoast wins the fight!
+You gain 61 Meat
+You gain 9 Fortitude
+You gain 16 Enchantedness
+You gain 4 Roguishness
+
+[955] Twin Peak
+Encounter: spider (duck?) topiary animal
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: spider (duck?) topiary animal takes 125 damage.
+Round 2: fifthtoast wins the fight!
+You gain 7 Fortitude
+You gain 8 Wizardliness
+You gain 10 Smarm
+
+[956] Twin Peak
+Encounter: Mismatched Twins
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: mismatched twins takes 125 damage.
+Round 2: fifthtoast wins the fight!
+You gain 65 Meat
+You gain 5 Strongness
+You gain 17 Wizardliness
+You gain 7 Sarcasm
+
+pull: 1 Mark V Steam-Hat
+
+equip hat Mark V Steam-Hat
+
+equip weapon Staff of the Healthy Breakfast
+
+equip off-hand eye of the Tiger-lily
+
+equip acc1 Baron von Ratsworth's monocle
+
+pull: 1 Green Clover of Justice
+
+equip acc2 Green Clover of Justice
+
+pull: 1 Zinc Delta of Tranquility
+
+equip acc3 Zinc Delta of Tranquility
+
+[957] Twin Peak
+Encounter: the Bubblemint Twins
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+You lose 17 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts BOIL!
+Round 3: bubblemint twins takes 200 damage.
+Round 3: fifthtoast wins the fight!
+You gain 69 Meat
+You gain 12 Fortitude
+You gain 11 Enchantedness
+You gain 4 Roguishness
+
+[958] Twin Peak
+Encounter: elephant (meatcar?) topiary animal
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: elephant (meatcar?) topiary animal takes 100 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: rusty hedge trimmers
+You gain 7 Strengthliness
+You gain 10 Magicalness
+You gain 8 Cheek
+
+use 1 rusty hedge trimmers
+
+place.php?whichplace=highlands&action=highlands_dude
+You acquire an item: Misty Robe
+
+equip back Misty Robe
+
+[959] Giant's Castle (Top Floor)
+Encounter: Goth Giant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts BOIL!
+Round 2: goth giant takes 100 damage.
+You lose 49 hit points
+Round 2: fifthtoast jiggles the Staff of the Healthy Breakfast
+Round 3: You jiggle the staff.  A tendril of egg yolk emerges from the end of it and vanishes into your chest.  You feel better, but your opponent looks pretty disgusted.
+Round 3: You gain 13 hit points.
+Round 3: fifthtoast casts CURDLE!
+Round 4: goth giant takes 30 damage.
+You lose 48 hit points
+
+[960] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 28 hit points
+You gain 69 Mana Points
