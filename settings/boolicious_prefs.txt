@@ -17,10 +17,10 @@ FamiliarTrainingFrame=335,64
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=278,0,-1
-LoginFrame=465,132,0
+KoLDesktop=-4,-3,-1
+LoginFrame=725,305,0
 MailboxFrame=289,310,1
-MaximizerFrame=-8,-8
+MaximizerFrame=629,301
 MeatManageFrame=450,127
 MushroomFrame=560,77,1
 OptionsFrame=-8,-8,-1
@@ -58,7 +58,7 @@ _boxingGloveArrows=0
 _brickoEyeSummons=0
 _brickoFights=0
 _cameraUsed=false
-_candySummons=1
+_candySummons=0
 _carboLoaded=false
 _carnieCandyDrops=0
 _carrotNoseDrops=0
@@ -96,7 +96,7 @@ _gnomeAdv=0
 _gongDrops=0
 _gothKidCharge=0
 _gothKidFights=0
-_grimoireGeekySummons=1
+_grimoireGeekySummons=0
 _grooseDrops=0
 _guildManualUsed=true
 _hareAdv=0
@@ -743,7 +743,11 @@ counterScript
 cozyCounter6332=0
 cozyCounter6333=0
 cozyCounter6334=0
+<<<<<<< HEAD
 crimboTreeDays=6
+=======
+crimboTreeDays=5
+>>>>>>> c2a824136a7f48b4d53d4a982c6de49f73ca9796
 currentBountyItem=0
 currentFullness=0
 currentHippyStore=hippy
@@ -832,7 +836,7 @@ kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
 lassoTraining
-lastAdventure=Fernswarthy's Basement (Level 294)
+lastAdventure=Hobopolis Town Square
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -848,14 +852,22 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
+<<<<<<< HEAD
 lastBreakfast=2
+=======
+lastBreakfast=3
+>>>>>>> c2a824136a7f48b4d53d4a982c6de49f73ca9796
 lastCellarReset=4
 lastChanceBurn
 lastChanceThreshold=100
 lastChasmReset=4
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastCouncilVisit=25
+<<<<<<< HEAD
 lastCounterDay=2
+=======
+lastCounterDay=3
+>>>>>>> c2a824136a7f48b4d53d4a982c6de49f73ca9796
 lastDispensaryOpen=3
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -973,7 +985,11 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=4
 lastWuTangDefeated=1
 lastZapperWand=4
+<<<<<<< HEAD
 libramSummons=12
+=======
+libramSummons=0
+>>>>>>> c2a824136a7f48b4d53d4a982c6de49f73ca9796
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=6
@@ -984,7 +1000,7 @@ manaBurningThreshold=-0.05
 manaBurningTrigger=-0.05
 maxManaBurn=1000
 maximizerMRULength=0
-maximizerMRUList=mainstat;spell dmg;mus;mys;item drop
+maximizerMRUList=spell dmg;mys;MP;mainstat;mus
 maximizerMRUSize=5
 mayflyExperience=0
 meansuckerPrice=400
@@ -1019,7 +1035,7 @@ pastamancerGhostType
 pastamancerOrbedExperience=0
 pastamancerOrbedName
 pastamancerOrbedType
-pendingMapReflections=11
+pendingMapReflections=12
 photocopyMonster=monster
 pieStuffing
 plantingDate=2
@@ -1094,7 +1110,11 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
+<<<<<<< HEAD
 relayCounters=1285\:Semirare window begin loc\=*\:lparen.gif\:1325\:Semirare window end loc\=*\:rparen.gif
+=======
+relayCounters=16007\:Semirare window end loc\=*\:rparen.gif
+>>>>>>> c2a824136a7f48b4d53d4a982c6de49f73ca9796
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
