@@ -17,7 +17,7 @@ FamiliarTrainingFrame=335,64
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=278,0,-1
+KoLDesktop=-4,-3,-1
 LoginFrame=725,305,0
 MailboxFrame=289,310,1
 MaximizerFrame=629,301
@@ -141,14 +141,14 @@ _leafblowerML=1
 _legendaryBeat=false
 _lookingGlass=true
 _lunchBreak=false
-_madTeaParty=true
+_madTeaParty=false
 _mayflowerDrops=0
 _mayflySummons=0
 _mediumSiphons=0
 _nanorhinoBanishedMonster
 _navelRunaways=0
 _olympicSwimmingPool=true
-_olympicSwimmingPoolItemFound=false
+_olympicSwimmingPoolItemFound=true
 _pasteDrops=0
 _photocopyUsed=false
 _pieDrops=0
@@ -743,9 +743,9 @@ counterScript
 cozyCounter6332=0
 cozyCounter6333=0
 cozyCounter6334=0
-crimboTreeDays=6
+crimboTreeDays=5
 currentBountyItem=0
-currentFullness=1
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -848,14 +848,14 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
-lastBreakfast=2
+lastBreakfast=3
 lastCellarReset=4
 lastChanceBurn
 lastChanceThreshold=100
 lastChasmReset=4
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastCouncilVisit=25
-lastCounterDay=2
+lastCounterDay=3
 lastDispensaryOpen=3
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -895,8 +895,8 @@ lastDwarfOreRunes=IOJH
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
-lastEmptiedStorage=-1
-lastEncounter=Mr. R. T. Cartwright, the President's Long-Lost Brother
+lastEmptiedStorage=4
+lastEncounter=Screwing Around\!
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -1009,7 +1009,7 @@ oceanAction=show
 oceanDestination=plinth
 oilPeakProgress=310.66 
 olfactedMonster=ancient insane monk
-oscusSodaUsed=true
+oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=5
 pastamancerGhostExperience=0
@@ -1168,7 +1168,7 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=false
+telescopeLookedHigh=true
 telescopeUpgrades=1
 tempuraSummons=0
 textColors=crappy\:\#999999|good\:green|awesome\:blue|epic\:\#8a2be2|junk\:gray|memento\:olive|notavailable\:gray
