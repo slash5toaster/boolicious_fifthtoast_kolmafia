@@ -1,6 +1,6 @@
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
->>>>>>>=fd12a45c821209888ab88aff742eb6526f3a63e0
+>>>>>>>=c2a824136a7f48b4d53d4a982c6de49f73ca9796
 AdventureFrame=880,282,0
 BuffBotFrame=603,307,0
 BuffRequestFrame=-8,-8
@@ -17,8 +17,8 @@ FamiliarTrainingFrame=335,64
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=-4,-3,-1
-LoginFrame=725,305,0
+KoLDesktop=-8,-8,-1
+LoginFrame=465,132,0
 MailboxFrame=289,310,1
 MaximizerFrame=629,301
 MeatManageFrame=450,127
@@ -30,7 +30,7 @@ RequestFrame=375,103,-1
 RequestSynchFrame=375,102,-1
 SendMessageFrame=529,397,-1
 SkillBuffFrame=459,345,1
-StoreManageFrame=-8,-8,3
+StoreManageFrame=321,82,3
 TabbedChatFrame=481,41,0
 TrophyFrame=273,274,-1
 _absintheDrops=0
@@ -58,7 +58,7 @@ _boxingGloveArrows=0
 _brickoEyeSummons=0
 _brickoFights=0
 _cameraUsed=false
-_candySummons=0
+_candySummons=1
 _carboLoaded=false
 _carnieCandyDrops=0
 _carrotNoseDrops=0
@@ -96,7 +96,7 @@ _gnomeAdv=0
 _gongDrops=0
 _gothKidCharge=0
 _gothKidFights=0
-_grimoireGeekySummons=0
+_grimoireGeekySummons=1
 _grooseDrops=0
 _guildManualUsed=true
 _hareAdv=0
@@ -743,12 +743,8 @@ counterScript
 cozyCounter6332=0
 cozyCounter6333=0
 cozyCounter6334=0
-<<<<<<< HEAD
-crimboTreeDays=6
-=======
-crimboTreeDays=5
->>>>>>> c2a824136a7f48b4d53d4a982c6de49f73ca9796
-currentBountyItem=0
+crimboTreeDays=4
+currentBountyItem=2472
 currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
@@ -765,7 +761,7 @@ cyrptCrannyEvilness=0
 cyrptNicheEvilness=0
 cyrptNookEvilness=0
 cyrptTotalEvilness=0
-dailyDungeonDone=false
+dailyDungeonDone=true
 dbNemesisSkill1=0
 dbNemesisSkill2=0
 dbNemesisSkill3=0
@@ -836,7 +832,7 @@ kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
 lassoTraining
-lastAdventure=Hobopolis Town Square
+lastAdventure=Bugbear Pens
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -852,22 +848,14 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
-<<<<<<< HEAD
-lastBreakfast=2
-=======
-lastBreakfast=3
->>>>>>> c2a824136a7f48b4d53d4a982c6de49f73ca9796
+lastBreakfast=4
 lastCellarReset=4
 lastChanceBurn
 lastChanceThreshold=100
 lastChasmReset=4
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastCouncilVisit=25
-<<<<<<< HEAD
-lastCounterDay=2
-=======
-lastCounterDay=3
->>>>>>> c2a824136a7f48b4d53d4a982c6de49f73ca9796
+lastCounterDay=4
 lastDispensaryOpen=3
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -908,7 +896,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-lastEncounter=Screwing Around\!
+lastEncounter=bugged bugbear
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -985,11 +973,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=4
 lastWuTangDefeated=1
 lastZapperWand=4
-<<<<<<< HEAD
-libramSummons=12
-=======
-libramSummons=0
->>>>>>> c2a824136a7f48b4d53d4a982c6de49f73ca9796
+libramSummons=18
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=6
@@ -1025,7 +1009,7 @@ oceanAction=show
 oceanDestination=plinth
 oilPeakProgress=310.66 
 olfactedMonster=ancient insane monk
-oscusSodaUsed=false
+oscusSodaUsed=true
 outrageousSombreroUsed=false
 parasolUsed=5
 pastamancerGhostExperience=0
@@ -1038,8 +1022,8 @@ pastamancerOrbedType
 pendingMapReflections=12
 photocopyMonster=monster
 pieStuffing
-plantingDate=2
-plantingDay=3
+plantingDate=4
+plantingDay=4
 plantingLength=5
 plantingScript=frozen
 poolSharkCount=1
@@ -1084,7 +1068,7 @@ questL12War=finished
 questL13Final=finished
 questM01Untinker=finished
 questM02Artist=finished
-questM03Bugbear=unstarted
+questM03Bugbear=started
 questM04Galaktic=finished
 questM05Toot=unstarted
 questM06Gourd=finished
@@ -1110,11 +1094,7 @@ raveCombo6
 reagentSummons=0
 recentLocations=5
 recoveryScript
-<<<<<<< HEAD
-relayCounters=1285\:Semirare window begin loc\=*\:lparen.gif\:1325\:Semirare window end loc\=*\:rparen.gif
-=======
-relayCounters=16007\:Semirare window end loc\=*\:rparen.gif
->>>>>>> c2a824136a7f48b4d53d4a982c6de49f73ca9796
+relayCounters
 relayShowSpoilers=true
 rememberDesktopSize=false
 requireBoxServants=false
