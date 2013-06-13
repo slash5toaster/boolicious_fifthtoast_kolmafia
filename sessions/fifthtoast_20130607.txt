@@ -1,0 +1,1311 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+June 7, 2013 - Martinus 4
+
+Ronald: waxing gibbous
+Grimace: waxing crescent
+Mini-moon: far left
+
+Generic Summer Holiday: 7 days
+Dependence Day: 16 days
+Arrrbor Day: 24 days
+Lab&oacute;r Day: 34 days
+Halloween: 44 days
+Feast of Boris: 51 days
+Yuletide: 56 days
+Festival of Jarlsberg: 61 days
+Valentine's Day: 72 days
+St. Sneaky Pete's Day: 79 days
+Oyster Egg Day: 86 days
+El Dia De Los Muertos Borrachos: 94 days
+
+
+Mysticism bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Avatar of Jarlsberg
+
+Lv: 10
+HP: 138 / 234
+MP: 182 / 321
+
+Mus: 151 (68), tnp = 125
+Mys: 214 (103), tnp = 197
+Mox: 160 (72), tnp = 51
+
+Advs: 85
+Meat: 24,794
+
+Full: 0 / 10
+Drunk: 0 / 14
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Mark V Steam-Hat
+Weapon: Staff of the Staff of Life
+Off-hand: eye of the Tiger-lily
+Shirt: (none)
+Pants: oil slacks
+Container: Misty Robe
+
+Acc. 1: Baron von Ratsworth's monocle
+Acc. 2: Green Clover of Justice
+Acc. 3: Lord Spookyraven's spectacles
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - Liver of Steel
+ - Really Expensive Jewelrycrafting
+
+Avatar Of Jarlsberg
+ - Bake
+ - Best Served Cold
+ - Boil
+ - Chop
+ - Conjure Dough
+ - Conjure Eggs
+ - Conjure Fruit
+ - Conjure Meat Product
+ - Conjure Potato
+ - Conjure Vegetables
+ - Curdle
+ - Food Coma
+ - Fry
+ - Hippotatomous
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Half-Eaten Brain (9)
+Brother Corsican's Blessing (20)
+Having a Ball! (20)
+Scarysauce (375)
+Ghostly Shell (375)
+♫ Aloysius' Antiphon of Aptitude (375)
+Tenacity of the Snapper (375)
+Jingle Jangle Jingle (375)
+Elemental Saucesphere (375)
+Astral Shell (375)
+Reptilian Fortitude (375)
+Jabañero Saucesphere (375)
+Jalapeño Saucesphere (375)
+♫ Stevedave's Shanty of Superiority (375)
+♫ Cringle's Curative Carol (375)
+Empathy (375)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +35.00%
+
+Exp: +1.00
+Meat: +0.00%
+Item: +33.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 1,003 Meat
+
+use 1 Chester's bag of candy
+You acquire an item: marzipan skull
+You acquire an item: Angry Farmer candy
+You acquire Tasty Fun Good rice candy (2)
+You acquire an item: Yummy Tummy bean
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: Where?
+
+use 1 creepy voodoo doll
+
+use 1 Taco Dan's Taco Stand Flier
+You acquire an item: Taco Dan's Taco Stand Taco
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chewing+gum+on+a+string%22
+
+buy 3 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (3)
+You spent 150 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless knick-knack
+You acquire an item: worthless trinket
+You acquire an item: worthless gewgaw
+
+trading 3 worthless items for 3 ten-leaf clovers
+You acquire ten-leaf clover (3)
+
+Use 3 ten-leaf clover
+You acquire disassembled clover (3)
+
+cast 1 Conjure Eggs
+You acquire cosmic egg (3)
+
+cast 1 Conjure Fruit
+You acquire cosmic fruit (3)
+
+cast 1 Conjure Potato
+You acquire cosmic potato (3)
+
+cast 1 Conjure Vegetables
+You acquire cosmic vegetable (3)
+
+cast 1 Hippotatomous
+
+cast 1 Conjure Dough
+You acquire cosmic dough (3)
+
+cast 1 Conjure Meat Product
+You acquire cosmic potted meat product (3)
+
+uneffect Half-Eaten Brain
+choice.php?forceoption=0
+
+[1171] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 85/1: moxie
+choice.php?pwd&whichchoice=85&option=1
+You gain 102 Smarm
+You gain a Moxie point!
+choice.php?forceoption=0
+
+[1172] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 84/2: mysticality substats
+choice.php?pwd&whichchoice=84&option=2
+You gain 114 Mysteriousness
+choice.php?forceoption=0
+
+[1173] Haunted Bedroom
+Encounter: One Nightstand
+Took choice 82/2: muscle substats
+choice.php?pwd&whichchoice=82&option=2
+You gain 105 Fortitude
+
+[1174] Haunted Ballroom
+Encounter: zombie waltzers
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: zombie waltzers takes 74 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: zombie waltzers takes 250 damage.
+Round 3: fifthtoast wins the fight!
+You gain 101 Meat
+You gain 5 Fortitude
+You gain 21 Enchantedness
+You gain 9 Chutzpah
+
+[1175] Haunted Ballroom
+Encounter: tapdancing skeleton
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tapdancing skeleton takes 74 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: tapdancing skeleton takes 250 damage.
+Round 3: fifthtoast wins the fight!
+You gain 12 Muscleboundness
+You gain 17 Magicalness
+You gain 6 Smarm
+choice.php?forceoption=0
+
+[1176] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/1: enter combat
+choice.php?pwd&whichchoice=90&option=1
+Encounter: ghastly organist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: ghastly organist takes 37 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: ghastly organist takes 125 damage.
+Round 3: fifthtoast wins the fight!
+You gain 99 Meat
+You gain 8 Fortitude
+You gain a Muscle point!
+You gain 20 Mysteriousness
+You gain 8 Sarcasm
+choice.php?forceoption=0
+
+[1177] Haunted Ballroom
+Encounter: Curtains
+Took choice 90/2: moxie substats
+choice.php?pwd&whichchoice=90&option=2
+You gain 103 Chutzpah
+You gain a Moxie point!
+
+[1178] Haunted Bathroom
+Encounter: Off the Rack
+You acquire an item: towel
+
+[1179] Haunted Bathroom
+Encounter: toilet papergeist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: toilet papergeist takes 74 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: toilet papergeist takes 500 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: roll of toilet paper
+You gain 7 Muscleboundness
+You gain 14 Enchantedness
+You gain 9 Cheek
+
+[1180] Haunted Bathroom
+Encounter: toilet papergeist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: toilet papergeist takes 74 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: toilet papergeist takes 250 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: roll of toilet paper
+You gain 6 Muscleboundness
+You gain 15 Wizardliness
+You gain a Mysticality point!
+You gain a Level!
+You gain 9 Sarcasm
+
+jarlskills.php?justgothere=1
+jarlskills.php?action=getskill&getskid=14024
+You learned a new skill: Grill
+
+[1181] Black Forest
+Encounter: black widow
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: black widow takes 37 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: black widow takes 125 damage.
+Round 3: fifthtoast wins the fight!
+You gain 45 Meat
+You acquire an item: black picnic basket
+You gain 10 Fortitude
+You gain 19 Mysteriousness
+You gain 12 Cheek
+
+[1182] Black Forest
+Encounter: black adder
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: black adder takes 37 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: black adder takes 125 damage.
+Round 4: fifthtoast wins the fight!
+You gain 89 Meat
+You acquire an item: adder bladder
+You acquire an item: sunken eyes
+You gain 8 Muscleboundness
+You gain 30 Mysteriousness
+You gain 4 Smarm
+
+[1183] Black Forest
+Encounter: blackberry bush
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: blackberry bush takes 37 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: blackberry bush takes 125 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: blackberry
+You gain 9 Muscleboundness
+You gain 24 Magicalness
+You gain 7 Chutzpah
+
+pull: 16 anti-anti-antidote
+
+[1184] Black Forest
+Encounter: black panther
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: black panther takes 37 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: black panther takes 125 damage.
+Round 3: fifthtoast wins the fight!
+You gain 149 Meat
+You acquire an item: broken wings
+You gain 16 Muscleboundness
+You gain 10 Wizardliness
+You gain 14 Chutzpah
+
+[1185] Black Forest
+Encounter: A Man in Black
+You acquire an item: black market map
+
+[1186] Black Forest
+Encounter: black widow
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: black widow takes 37 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: black widow takes 250 damage.
+Round 3: fifthtoast wins the fight!
+You gain 53 Meat
+You gain 6 Fortitude
+You gain 21 Wizardliness
+You gain 14 Chutzpah
+
+Combine 1 broken wings + 1 sunken eyes
+You acquire an item: reassembled blackbird
+Crafting used 1 each of broken wings and sunken eyes
+
+add to closet: 2 Corpse Island iced tea
+
+add to closet: 1 corpse on the beach
+
+add to closet: 3 corpsedriver
+
+add to closet: 3 stolen sushi
+
+add to closet: 2 mind flayer corpse
+
+add to closet: 6 Mad Train wine
+
+add to closet: 2 artisanal limoncello
+
+add to closet: 1 bowl of cottage cheese
+
+add to closet: 4 flute of flat champagne
+
+add to closet: 1 blackberry
+
+add to closet: 6 cocoa eggshell fragment
+
+add to closet: 2 dehydrated caviar
+
+add to closet: 2 desiccated apricot
+
+add to closet: 6 magicalness-in-a-can
+
+add to closet: 1 moxie weed
+
+add to closet: 2 royal jelly
+
+add to closet: 5 stalk of asparagus
+
+add to closet: 2 Taco Dan's Taco Stand Taco
+
+add to closet: 3 tasty tart
+
+add to closet: 9 tomato
+
+use 1 Mountain Stream soda
+You gain 9 Mana Points
+
+use 1 Mountain Stream soda
+You gain 8 Mana Points
+
+use 1 Mountain Stream soda
+You gain 9 Mana Points
+
+use 1 Mountain Stream soda
+You gain 6 Mana Points
+
+use 1 Mountain Stream soda
+You gain 8 Mana Points
+
+use 1 black picnic basket
+You acquire an item: Blackfly Chardonnay
+You acquire an item: black & tan
+You acquire an item: black pepper
+
+use 1 creepy voodoo doll
+
+use 2 briefcase
+You acquire an item: fat stacks of cash
+You gain 300 Meat
+
+use 3 pile of dusty animal bones
+You acquire an item: dusty sixth cervical vertebra
+
+use 1 black market map
+
+buy 1 forged identification documents for 5000 each from Black Market
+You acquire an item: forged identification documents
+You spent 5,000 Meat
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22cog+and+sprocket+assembly%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22cog%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22sprocket+assembly%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22sprocket%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22spring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22meat+engine%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22full+meat+tank%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22empty+meat+tank%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22meat+stack%22
+
+pull: 2 full meat tank
+
+buy 1 cog and sprocket assembly for 147 each from 562292 on 20130607
+You acquire an item: cog and sprocket assembly
+
+Combine 1 full meat tank + 1 cog and sprocket assembly
+You acquire an item: meat engine
+Crafting used 1 each of cog and sprocket assembly and full meat tank
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22dope+wheels%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tires%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22sweet+rims%22
+
+pull: 21 tires
+
+buy 1 sweet rims for 300 each from The General Store
+You acquire an item: sweet rims
+You spent 300 Meat
+
+Combine 1 tires + 1 sweet rims
+You acquire an item: dope wheels
+Crafting used 1 each of sweet rims and tires
+
+Combine 1 dope wheels + 1 meat engine
+You acquire an item: bitchin' meatcar
+Crafting used 1 each of meat engine and dope wheels
+
+[1187] Muscle Vacation
+Encounter: Covert Operations
+You acquire an item: your father's MacGuffin diary
+
+diary.php?textversion=1
+diary.php?textversion=1&pwd=a176f11e0aea49ae87a89dd7fe430732
+
+use 1 bindle of joy
+You acquire an item: Chester's cutoffs
+
+use 1 Evilometer
+
+use 1 that gum you like
+You acquire an effect: Sugar Rush (duration: 5 Adventures)
+
+use 1 reassembled blackbird
+
+use 1 carton of astral energy drinks
+You acquire astral energy drink (3)
+
+diary.php?whichpage=1
+diary.php?whichpage=2
+diary.php?whichpage=3
+diary.php?whichpage=4
+diary.php?whichpage=3
+diary.php?whichpage=4
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chewing+gum+on+a+string%22
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+Visiting Hermit
+
+buy 1 dingy planks for 400 each from The General Store
+You acquire an item: dingy planks
+You spent 400 Meat
+
+[1190] Muscle Vacation
+Encounter: Man Down at the Hoedown
+You gain 43 Muscleboundness
+
+[1193] Muscle Vacation
+Encounter: In the Desert
+You gain 40 Fortitude
+You gain a Muscle point!
+
+[1196] Muscle Vacation
+Encounter: The Reckonin'
+You gain 45 Strongness
+
+[1199] Muscle Vacation
+Encounter: Roadblocker
+You gain 46 Strongness
+You acquire an item: dinghy plans
+
+use 1 dinghy plans
+You acquire an item: dingy dinghy
+
+[1202] Pirate Cove
+Encounter: Filching the Undarrwear
+You gain 15 Chutzpah
+choice.php?forceoption=0
+
+[1203] Pirate Cove
+Encounter: The Arrrbitrator
+Took choice 22/3: small meat boost
+choice.php?pwd&whichchoice=22&option=3
+You gain 100 Meat
+
+Emptying storage
+
+take from closet: 1 stunt nuts
+You acquire an item: stunt nuts
+
+take from closet: 51 carbonated soy milk
+You acquire carbonated soy milk (51)
+outfit Star Garb
+outfit Swashbuckling Getup
+
+equip hat fuzzy earmuffs
+
+equip weapon Maxwell's Silver Hammer
+
+equip off-hand astral statuette
+
+equip back Misty Robe
+
+equip pants trousers of the white knight
+
+equip acc1 gearbox necklace
+
+equip acc2 Pink Heart of Spirit
+
+equip acc3 blackberry slippers
+outfit Swashbuckling Getup
+
+[1204] Barrrney's Barrr
+Encounter: Abstinence Makes the Heart Grow Fonder
+You gain 66 Wizardliness
+
+[1205] Barrrney's Barrr
+Encounter: Abstinence Makes the Heart Grow Fonder
+You gain 66 Mysteriousness
+You gain a Mysticality point!
+
+[1206] Barrrney's Barrr
+Encounter: toothy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: toothy pirate takes 37 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: toothy pirate takes 125 damage.
+Round 3: fifthtoast wins the fight!
+You gain 43 Meat
+You acquire an item: cocktail napkin
+You gain 6 Muscleboundness
+You gain 17 Wizardliness
+You gain 6 Chutzpah
+
+buy 1 abridged dictionary for 1000 each from Barrrtleby's Barrrgain Books (Bees Hate You)
+You acquire an item: abridged dictionary
+You spent 1,000 Meat
+
+Visiting the Untinker
+untinker 1 abridged dictionary
+You acquire an item: bridge
+You acquire an item: dictionary
+
+[1207] Barrrney's Barrr
+Encounter: Abstinence Makes the Heart Grow Fonder
+You gain 66 Mysteriousness
+
+[1208] Barrrney's Barrr
+Encounter: tipsy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 2: fifthtoast attacks!
+Round 3: fifthtoast executes a macro!
+Round 3: fifthtoast casts CURDLE!
+Round 4: tipsy pirate takes 37 damage.
+Round 4: fifthtoast casts BOIL!
+Round 5: tipsy pirate takes 125 damage.
+Round 5: fifthtoast wins the fight!
+You gain 47 Meat
+You acquire an item: bottle of rum
+You acquire an item: bottle of rum
+You gain 6 Muscleboundness
+You gain 13 Mysteriousness
+You gain 9 Cheek
+
+equip weapon Staff of Blood and Pudding
+
+[1209] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tetchy pirate takes 41 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: tetchy pirate takes 275 damage.
+Round 3: fifthtoast wins the fight!
+You gain 33 Meat
+You gain 5 Muscleboundness
+You gain 17 Magicalness
+You gain 6 Roguishness
+
+[1210] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tetchy pirate takes 41 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: tetchy pirate takes 137 damage.
+Round 3: fifthtoast wins the fight!
+You gain 38 Meat
+You gain 5 Muscleboundness
+You gain 19 Mysteriousness
+You gain 4 Cheek
+
+[1211] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tetchy pirate takes 41 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: tetchy pirate takes 275 damage.
+Round 3: fifthtoast wins the fight!
+You gain 42 Meat
+You gain 7 Strongness
+You gain 15 Mysteriousness
+You gain 6 Cheek
+
+[1212] Barrrney's Barrr
+Encounter: toothy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: toothy pirate takes 41 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: toothy pirate takes 137 damage.
+Round 3: fifthtoast wins the fight!
+You gain 41 Meat
+You gain 7 Muscleboundness
+You gain 14 Mysteriousness
+You gain 7 Sarcasm
+You gain a Moxie point!
+
+[1213] Barrrney's Barrr
+Encounter: tipsy pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tipsy pirate takes 41 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: tipsy pirate takes 137 damage.
+Round 3: fifthtoast wins the fight!
+You gain 45 Meat
+You acquire an item: bottle of rum
+You gain 3 Fortitude
+You gain a Muscle point!
+You gain 18 Mysteriousness
+You gain 6 Sarcasm
+
+[1214] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast loses initiative!
+Round 1: tetchy pirate takes 2 damage.
+Round 1: tetchy pirate takes 7 damage.
+Round 1: tetchy pirate takes 5 damage.
+You lose 5 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tetchy pirate takes 82 damage.
+Round 2: fifthtoast wins the fight!
+You gain 34 Meat
+You gain 8 Strengthliness
+You gain 15 Mysteriousness
+You gain a Mysticality point!
+You gain 6 Chutzpah
+
+[1215] Barrrney's Barrr
+Encounter: You and the Cap'm Make it Hap'm
+You acquire an item: Cap'm Caronch's Map
+
+use 1 Cap'm Caronch's Map
+
+[1216] Cap'm Caronch's Map
+Encounter: booty crab
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: booty crab takes 41 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: booty crab takes 137 damage.
+Round 3: fifthtoast wins the fight!
+You gain 334 Meat
+You acquire an item: Cap'm Caronch's nasty booty
+You gain 8 Strengthliness
+You gain 15 Magicalness
+You gain 10 Chutzpah
+Encounter: This Adventure Bites
+You acquire an item: Orcish Frat House blueprints
+
+use 1 Orcish Frat House blueprints
+
+[1218] Orcish Frathouse Blueprints
+choice.php?forceoption=0
+Encounter: The Infiltrationist
+Took choice 188/1: Frat Boy Ensemble (NOT equipped)
+choice.php?pwd&whichchoice=188&option=1
+You lose 96 hit points
+
+[1219] Rest in your dwelling
+You gain 28 hit points
+You gain 110 Mana Points
+outfit Filthy Hippy Disguise
+outfit Frat Boy Ensemble
+Encounter: The Hazer Becomes the Hazed
+You gain 15 Strongness
+You acquire an item: bottle of whiskey
+
+use 2 small box
+You acquire an item: bubbly potion
+You acquire cloudy potion (2)
+You acquire an item: effervescent potion
+You acquire an item: dark potion
+You acquire an item: murky potion
+
+use 3 large box
+You acquire an item: milky potion
+You acquire an item: swirly potion
+You acquire bubbly potion (2)
+You acquire smoky potion (2)
+You acquire an item: cloudy potion
+You acquire an item: effervescent potion
+You acquire an item: fizzy potion
+You acquire dark potion (4)
+You acquire an item: murky potion
+Encounter: I Just Wanna Fly
+Encounter: The Big Frat House in the Sky
+You gain 50 Meat
+Encounter: The Big Frat House in the Sky
+You gain 50 Meat
+Encounter: Kegstand!  Kegstand!  Kegstand!
+You gain 3 Drunkenness
+You gain 20 Beefiness
+Encounter: The Hazer Becomes the Hazed
+You gain 15 Strongness
+You acquire an item: bottle of whiskey
+
+[1225] Hippy Camp
+Encounter: crusty hippy jewelry maker
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast uses the fizzy potion!
+Round 2: fifthtoast uses the cloudy potion!
+Round 3: fifthtoast uses the bubbly potion!
+Round 4: fifthtoast uses the milky potion!
+Round 5: fifthtoast uses the murky potion!
+Round 6: fifthtoast uses the effervescent potion!
+Round 7: fifthtoast uses the effervescent potion!
+Round 8: fifthtoast uses the dark potion!
+Round 9: crusty hippy jewelry maker drops 3 attack power.
+Round 9: crusty hippy jewelry maker drops 2 defense.
+Round 9: fifthtoast uses the swirly potion!
+Round 10: fifthtoast executes a macro!
+Round 10: fifthtoast casts CURDLE!
+Round 11: crusty hippy jewelry maker takes 1 damage.
+Round 11: fifthtoast casts BOIL!
+Round 12: crusty hippy jewelry maker takes 125 damage.
+Round 12: fifthtoast wins the fight!
+You acquire an item: hemp string
+
+Combine 1 hemp string + 1 vertebra of the Bonerdagon
+You acquire an item: Bonerdagon necklace
+Crafting used 1 each of hemp string and vertebra of the Bonerdagon
+You gain 4 Beefiness
+You gain 8 Magicalness
+You gain 5 Roguishness
+
+use 5 fizzy potion of ettin strength
+You acquire an effect: Strength of Ten Ettins (duration: 50 Adventures)
+
+use 7 cloudy potion of blessing
+You acquire an effect: Izchak's Blessing (duration: 70 Adventures)
+
+use 7 milky potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 70 Adventures)
+
+use 4 effervescent potion of detection
+You acquire an effect: Object Detection (duration: 40 Adventures)
+
+[1226] Hippy Camp
+Encounter: filthy hippy jewelry maker
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: filthy hippy jewelry maker takes 1 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: filthy hippy jewelry maker takes 125 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: hemp string
+You acquire an item: patchouli incense stick
+You acquire an item: beach glass bead
+You gain 2 Fortitude
+You gain 8 Enchantedness
+You gain 7 Smarm
+
+[1227] Pirate Cove
+Encounter: Remembarrr the Main
+You acquire an item: Spanish fly trap
+
+equip off-hand Spanish fly trap
+
+[1228] Pirate Cove
+Encounter: shifty pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: shifty pirate takes 30 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: shifty pirate takes 100 damage.
+Round 3: fifthtoast wins the fight!
+You gain 44 Meat
+You acquire an item: flaregun
+You gain 7 Muscleboundness
+You gain 14 Mysteriousness
+You gain 5 Roguishness
+
+[1229] Pirate Cove
+Encounter: smarmy pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: smarmy pirate takes 30 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: smarmy pirate takes 100 damage.
+Round 3: fifthtoast wins the fight!
+You gain 29 Meat
+You gain 5 Beefiness
+You gain 15 Enchantedness
+You gain 4 Smarm
+outfit Swashbuckling Getup
+
+[1230] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tetchy pirate takes 30 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: tetchy pirate takes 100 damage.
+Round 3: fifthtoast wins the fight!
+You gain 39 Meat
+You acquire an item: cocktail napkin
+You gain 2 Fortitude
+You gain 19 Magicalness
+You gain 8 Sarcasm
+
+equip weapon Staff of Blood and Pudding
+
+[1231] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tetchy pirate takes 67 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: tetchy pirate takes 225 damage.
+Round 3: fifthtoast wins the fight!
+You gain 41 Meat
+You gain 8 Beefiness
+You gain 11 Enchantedness
+You gain 9 Chutzpah
+
+[1232] Barrrney's Barrr
+Encounter: tipsy pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tipsy pirate takes 33 damage.
+Round 2: tipsy pirate takes 1 damage.
+Round 2: tipsy pirate takes 4 damage.
+Round 2: tipsy pirate takes 5 damage.
+You lose 7 hit points
+Round 2: fifthtoast casts BOIL!
+Round 3: tipsy pirate takes 112 damage.
+Round 3: fifthtoast wins the fight!
+You gain 38 Meat
+You gain 7 Strengthliness
+You gain 9 Wizardliness
+You gain 12 Cheek
+
+[1233] Barrrney's Barrr
+Encounter: The Right to Bear Arrrrms
+You gain 60 Beefiness
+You gain a Muscle point!
+
+[1234] Barrrney's Barrr
+Encounter: toothy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: toothy pirate takes 33 damage.
+Round 2: fifthtoast casts BOIL!
+Round 3: toothy pirate takes 225 damage.
+Round 3: fifthtoast wins the fight!
+You gain 44 Meat
+You gain 10 Beefiness
+You gain 13 Wizardliness
+You gain 6 Roguishness
+
+use 1 Orcish Frat House blueprints
+
+[1235] Orcish Frathouse Blueprints
+Encounter: The Infiltrationist
+Took choice 188/3: frilly skirt (NOT equipped) + 3 hot wings (0 in inventory)
+choice.php?pwd&whichchoice=188&option=3
+You lose 83 hit points
+
+[1236] Rest in your dwelling
+You gain 28 hit points
+You gain 3 Mana Points
+outfit Frat Boy Ensemble
+
+use 1 Orcish Frat House blueprints
+
+[1236] Orcish Frathouse Blueprints
+choice.php?forceoption=0
+Encounter: The Infiltrationist
+Took choice 188/1: Frat Boy Ensemble (equipped)
+choice.php?pwd&whichchoice=188&option=1
+You acquire an item: Cap'm Caronch's dentures
+outfit Swashbuckling Getup
+Encounter: Step Up to the Table, Put the Ball in Play
+choice.php?forceoption=0
+
+[1238] Barrrney's Barrr
+Encounter: Arrr You Man Enough?
+Took choice 187/2: Try later
+choice.php?pwd&whichchoice=187&option=2
+
+[1238] Barrrney's Barrr
+Encounter: tipsy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast uses the The Big Book of Pirate Insults!
+Round 2: tipsy pirate drops 9 attack power.
+Round 2: tipsy pirate drops 10 defense.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: tipsy pirate takes 30 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: tipsy pirate takes 100 damage.
+Round 4: fifthtoast wins the fight!
+You gain 40 Meat
+You acquire an item: bottle of rum
+You gain 7 Strengthliness
+You gain 13 Wizardliness
+You gain 8 Chutzpah
+
+[1239] Barrrney's Barrr
+Encounter: toothy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the The Big Book of Pirate Insults!
+Round 2: toothy pirate drops 10 attack power.
+Round 2: toothy pirate drops 10 defense.
+Round 2: fifthtoast casts CURDLE!
+Round 3: toothy pirate takes 30 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: toothy pirate takes 100 damage.
+Round 4: fifthtoast wins the fight!
+You gain 46 Meat
+You gain 7 Beefiness
+You gain 16 Magicalness
+You gain 6 Cheek
+
+[1240] Barrrney's Barrr
+Encounter: toothy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the The Big Book of Pirate Insults!
+Round 2: toothy pirate drops 10 attack power.
+Round 2: toothy pirate drops 8 defense.
+Round 2: fifthtoast casts CURDLE!
+Round 3: toothy pirate takes 30 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: toothy pirate takes 100 damage.
+Round 4: fifthtoast wins the fight!
+You gain 45 Meat
+You acquire an item: bottle of rum
+You gain 8 Beefiness
+You gain 17 Magicalness
+You gain 4 Smarm
+
+[1241] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 2: fifthtoast casts CURDLE!
+Round 3: tetchy pirate takes 30 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: tetchy pirate takes 100 damage.
+Round 4: fifthtoast wins the fight!
+You gain 36 Meat
+You gain 6 Strengthliness
+You gain 16 Mysteriousness
+You gain 7 Cheek
+
+[1242] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 2: fifthtoast casts CURDLE!
+Round 3: tetchy pirate takes 30 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: tetchy pirate takes 100 damage.
+Round 4: fifthtoast wins the fight!
+You gain 37 Meat
+You gain 5 Beefiness
+You gain 17 Wizardliness
+You gain 7 Smarm
+
+[1243] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 2: fifthtoast casts CURDLE!
+Round 3: tetchy pirate takes 30 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: tetchy pirate takes 100 damage.
+Round 4: fifthtoast wins the fight!
+You gain 37 Meat
+You acquire an item: bottle of rum
+You gain 3 Strengthliness
+You gain 17 Mysteriousness
+You gain a Mysticality point!
+You gain 8 Sarcasm
+
+[1244] Barrrney's Barrr
+Encounter: tipsy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 2: fifthtoast casts CURDLE!
+Round 3: tipsy pirate takes 30 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: tipsy pirate takes 100 damage.
+Round 4: fifthtoast wins the fight!
+You gain 48 Meat
+You gain 9 Strongness
+You gain 15 Wizardliness
+You gain 4 Cheek
+
+[1245] Barrrney's Barrr
+Encounter: toothy pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the The Big Book of Pirate Insults!
+Round 2: toothy pirate drops 10 attack power.
+Round 2: toothy pirate drops 9 defense.
+Round 2: fifthtoast casts CURDLE!
+Round 3: toothy pirate takes 60 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: toothy pirate takes 100 damage.
+Round 4: fifthtoast wins the fight!
+You gain 43 Meat
+You gain 6 Strengthliness
+You gain 16 Wizardliness
+You gain 7 Roguishness
+
+[1246] Barrrney's Barrr
+Encounter: Get Real
+You gain 60 Smarm
+You gain a Moxie point!
+
+[1247] Barrrney's Barrr
+Encounter: tipsy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 2: fifthtoast casts CURDLE!
+Round 3: tipsy pirate takes 60 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: tipsy pirate takes 100 damage.
+Round 4: fifthtoast wins the fight!
+You gain 38 Meat
+You acquire an item: bottle of rum
+You gain 6 Strongness
+You gain 13 Mysteriousness
+You gain 10 Sarcasm
+
+[1248] Barrrney's Barrr
+Encounter: Arrr You Man Enough?
+Took choice 187/2: Try later
+choice.php?pwd&whichchoice=187&option=2&choiceform2=Back+off
+
+[1248] Barrrney's Barrr
+Encounter: tipsy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the The Big Book of Pirate Insults!
+Round 2: tipsy pirate drops 10 attack power.
+Round 2: tipsy pirate drops 8 defense.
+Round 2: fifthtoast casts CURDLE!
+Round 3: tipsy pirate takes 30 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: tipsy pirate takes 100 damage.
+Round 4: fifthtoast wins the fight!
+You gain 45 Meat
+You acquire an item: bottle of rum
+You gain 3 Muscleboundness
+You gain 17 Wizardliness
+You gain 9 Cheek
+
+[1249] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the The Big Book of Pirate Insults!
+Round 2: tetchy pirate drops 10 attack power.
+Round 2: tetchy pirate drops 10 defense.
+Round 2: fifthtoast casts CURDLE!
+Round 3: tetchy pirate takes 30 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: tetchy pirate takes 100 damage.
+Round 4: fifthtoast wins the fight!
+You gain 33 Meat
+You gain 8 Beefiness
+You gain 9 Wizardliness
+You gain 10 Smarm
+
+[1250] Barrrney's Barrr
+Encounter: toothy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 2: fifthtoast casts CURDLE!
+Round 3: toothy pirate takes 30 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: toothy pirate takes 100 damage.
+Round 4: fifthtoast wins the fight!
+You gain 40 Meat
+You gain 7 Fortitude
+You gain 17 Mysteriousness
+You gain 4 Chutzpah
+
+[1251] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 2: fifthtoast casts CURDLE!
+Round 3: tetchy pirate takes 30 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: tetchy pirate takes 100 damage.
+Round 4: fifthtoast wins the fight!
+You gain 42 Meat
+You gain 8 Fortitude
+You gain 17 Wizardliness
+You gain 4 Chutzpah
+
+[1252] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the The Big Book of Pirate Insults!
+Round 2: tetchy pirate drops 9 attack power.
+Round 2: tetchy pirate drops 9 defense.
+Round 2: fifthtoast casts CURDLE!
+Round 3: tetchy pirate takes 30 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: tetchy pirate takes 100 damage.
+Round 4: fifthtoast wins the fight!
+You gain 41 Meat
+You gain 7 Fortitude
+You gain 16 Enchantedness
+You gain 7 Roguishness
+
+[1253] Barrrney's Barrr
+Encounter: tetchy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the The Big Book of Pirate Insults!
+Round 2: tetchy pirate drops 8 attack power.
+Round 2: tetchy pirate drops 9 defense.
+Round 2: fifthtoast casts CURDLE!
+Round 3: tetchy pirate takes 30 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: tetchy pirate takes 100 damage.
+Round 4: fifthtoast wins the fight!
+You gain 44 Meat
+You gain 6 Strongness
+You gain 18 Magicalness
+You gain 5 Chutzpah
+
+[1254] Barrrney's Barrr
+Encounter: tipsy pirate
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 2: fifthtoast casts CURDLE!
+Round 3: tipsy pirate takes 30 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: tipsy pirate takes 200 damage.
+Round 4: fifthtoast wins the fight!
+You gain 48 Meat
+You acquire an item: bottle of rum
+You gain 9 Fortitude
+You gain 14 Wizardliness
+You gain 5 Cheek
+
+[1255] Barrrney's Barrr
+Encounter: toothy pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast uses the The Big Book of Pirate Insults!
+You acquire an effect: Embarrassed (duration: 1 Adventure)
+Round 2: fifthtoast casts CURDLE!
+Round 3: toothy pirate takes 30 damage.
+Round 3: fifthtoast casts BOIL!
+Round 4: toothy pirate takes 100 damage.
+Round 4: fifthtoast wins the fight!
+You gain 40 Meat
+You acquire an item: bottle of rum
+You gain 7 Strongness
+You gain 16 Magicalness
+You gain 6 Roguishness
