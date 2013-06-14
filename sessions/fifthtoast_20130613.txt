@@ -1,0 +1,593 @@
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 1,082 Meat
+
+use 1 Chester's bag of candy
+You acquire an item: marzipan skull
+You acquire Tasty Fun Good rice candy (2)
+You acquire Yummy Tummy bean (2)
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: When?
+
+use 1 creepy voodoo doll
+
+use 1 Taco Dan's Taco Stand Flier
+You acquire an item: Taco Dan's Taco Stand Taco
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chewing+gum+on+a+string%22
+
+buy 4 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (4)
+You spent 200 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless knick-knack
+You acquire an item: worthless gewgaw
+You acquire an item: worthless trinket
+
+add to closet: 1 worthless trinket
+
+add to closet: 1 worthless gewgaw
+
+add to closet: 1 worthless knick-knack
+
+use 1 chewing gum on a string
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless trinket
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless gewgaw
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 4 worthless items for 4 ten-leaf clovers
+You acquire ten-leaf clover (4)
+
+Use 7 ten-leaf clover
+You acquire disassembled clover (7)
+
+cobbsknob.php?level=3
+
+[1570] Menagerie 2
+Encounter: Grass Elemental
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: grass elemental takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: grass elemental takes 11 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: grass elemental takes 125 damage.
+Round 4: grass elemental takes 10 damage.
+Round 4: fifthtoast wins the fight!
+You gain 3 Muscleboundness
+You gain 8 Magicalness
+You gain 6 Sarcasm
+
+[1571] Menagerie 2
+Encounter: Weremoose
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: weremoose takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: weremoose takes 13 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: weremoose takes 125 damage.
+Round 4: weremoose takes 13 damage.
+Round 4: fifthtoast wins the fight!
+You gain 54 Meat
+You gain 5 Muscleboundness
+You gain 13 Wizardliness
+You gain 2 Roguishness
+
+[1572] Menagerie 2
+Encounter: Carnivorous Moxie Weed
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: carnivorous moxie weed takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: carnivorous moxie weed takes 12 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: carnivorous moxie weed takes 125 damage.
+Round 4: carnivorous moxie weed takes 12 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: moxie weed
+You gain 3 Muscleboundness
+You gain 8 Mysteriousness
+You gain 7 Cheek
+
+[1573] Menagerie 2
+Encounter: Carnivorous Moxie Weed
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: carnivorous moxie weed takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: carnivorous moxie weed takes 11 damage.
+You lose 11 hit points
+Round 3: fifthtoast casts CHOP!
+Round 4: carnivorous moxie weed takes 125 damage.
+Round 4: carnivorous moxie weed takes 11 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: giant moxie weed
+You gain 10 Strengthliness
+You gain 9 Wizardliness
+You gain 1 Roguishness
+
+[1574] Menagerie 2
+Encounter: Weremoose
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: weremoose takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: weremoose takes 9 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: weremoose takes 125 damage.
+Round 4: weremoose takes 10 damage.
+Round 4: fifthtoast wins the fight!
+You gain 63 Meat
+You gain 5 Beefiness
+You gain 11 Mysteriousness
+You gain 2 Cheek
+
+[1575] Menagerie 2
+Encounter: Grass Elemental
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: grass elemental takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: grass elemental takes 11 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: grass elemental takes 125 damage.
+Round 4: grass elemental takes 11 damage.
+Round 4: fifthtoast wins the fight!
+You gain 4 Strongness
+You gain 9 Enchantedness
+You gain 4 Roguishness
+
+[1576] Menagerie 2
+Encounter: Grass Elemental
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: grass elemental takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: grass elemental takes 11 damage.
+You lose 10 hit points
+Round 3: fifthtoast casts CHOP!
+Round 4: grass elemental takes 125 damage.
+Round 4: grass elemental takes 11 damage.
+Round 4: fifthtoast wins the fight!
+You gain 8 Fortitude
+You gain 9 Mysteriousness
+You gain 1 Roguishness
+
+[1577] Menagerie 2
+Encounter: Carnivorous Moxie Weed
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: carnivorous moxie weed takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: carnivorous moxie weed takes 12 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: carnivorous moxie weed takes 125 damage.
+Round 4: carnivorous moxie weed takes 12 damage.
+Round 4: fifthtoast wins the fight!
+You gain 2 Fortitude
+You gain 14 Enchantedness
+You gain a Mysticality point!
+You gain a Level!
+You gain 4 Sarcasm
+
+[1578] Menagerie 2
+Encounter: Carnivorous Moxie Weed
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: carnivorous moxie weed takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: carnivorous moxie weed takes 11 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: carnivorous moxie weed takes 250 damage.
+Round 4: carnivorous moxie weed takes 10 damage.
+Round 4: fifthtoast wins the fight!
+You gain 5 Fortitude
+You gain 7 Enchantedness
+You gain 7 Roguishness
+
+[1579] Menagerie 2
+Encounter: Grass Elemental
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: grass elemental takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: grass elemental takes 10 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: grass elemental takes 125 damage.
+Round 4: grass elemental takes 11 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: leaf of grass
+You gain 5 Fortitude
+You gain 9 Mysteriousness
+You gain 4 Smarm
+You gain a Moxie point!
+
+[1580] Menagerie 2
+Encounter: Grass Elemental
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: grass elemental takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: grass elemental takes 13 damage.
+Round 3: fifthtoast wins the fight!
+You gain 4 Strengthliness
+You gain 10 Enchantedness
+You gain 3 Sarcasm
+
+[1581] Menagerie 2
+Encounter: Weremoose
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: weremoose takes 75 damage.
+Round 2: fifthtoast wins the fight!
+You gain 55 Meat
+You gain 4 Fortitude
+You gain 11 Enchantedness
+You gain 3 Cheek
+
+[1582] Menagerie 2
+Encounter: Grass Elemental
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: grass elemental takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: grass elemental takes 11 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: grass elemental takes 125 damage.
+Round 4: grass elemental takes 9 damage.
+Round 4: fifthtoast wins the fight!
+You gain 7 Fortitude
+You gain 8 Mysteriousness
+You gain 4 Roguishness
+
+[1583] Menagerie 2
+Encounter: Grass Elemental
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: grass elemental takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: grass elemental takes 10 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: grass elemental takes 125 damage.
+Round 4: grass elemental takes 9 damage.
+Round 4: fifthtoast wins the fight!
+You gain 2 Fortitude
+You gain 11 Magicalness
+You gain 5 Sarcasm
+
+[1584] Menagerie 2
+Encounter: Carnivorous Moxie Weed
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: carnivorous moxie weed takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: carnivorous moxie weed takes 10 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: carnivorous moxie weed takes 125 damage.
+Round 4: carnivorous moxie weed takes 10 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: giant moxie weed
+You gain 4 Strongness
+You gain 10 Wizardliness
+You gain 4 Sarcasm
+
+[1585] Menagerie 2
+Encounter: Carnivorous Moxie Weed
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: carnivorous moxie weed takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: carnivorous moxie weed takes 12 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: carnivorous moxie weed takes 125 damage.
+Round 4: carnivorous moxie weed takes 11 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: moxie weed
+You gain 7 Beefiness
+You gain 5 Wizardliness
+You gain 7 Chutzpah
+
+[1586] Menagerie 2
+Encounter: Weremoose
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: weremoose takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: weremoose takes 12 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: weremoose takes 125 damage.
+Round 4: weremoose takes 12 damage.
+Round 4: fifthtoast wins the fight!
+You gain 71 Meat
+You acquire an item: weremoose spit
+You gain 5 Strongness
+You gain 9 Wizardliness
+You gain 4 Cheek
+
+[1587] Daily Dungeon (Room 1)
+Encounter: Locked Door
+
+[1588] Daily Dungeon (Room 2)
+Encounter: Locked Door
+
+[1589] Daily Dungeon (Room 3)
+Encounter: Treasure!
+
+[1589] Daily Dungeon (Room 4)
+Encounter: giant giant moth
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: giant giant moth takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 17 Meat
+You gain 3 Strengthliness
+You gain 2 Roguishness
+
+[1590] Daily Dungeon (Room 5)
+Encounter: Badger Badger Badger Badger
+
+[1591] Daily Dungeon (Room 6)
+Encounter: Treasure!
+
+[1591] Daily Dungeon (Room 7)
+Encounter: Dungeon Fever
+
+[1592] Daily Dungeon (Room 8)
+Encounter: The Biggest Bathtub Ever
+
+[1593] Daily Dungeon (Room 9)
+Encounter: You'll Put Your Eye Out
+You lose 67 hit points
+
+[1594] Daily Dungeon (Room 10)
+Encounter: Treasure!
+You acquire an item: fat loot token
+
+cast 1 Conjure Eggs
+You acquire cosmic egg (3)
+
+cast 1 Conjure Fruit
+You acquire cosmic fruit (3)
+
+cast 1 Conjure Potato
+You acquire cosmic potato (3)
+
+cast 1 Conjure Vegetables
+You acquire cosmic vegetable (3)
+
+cast 1 Conjure Dough
+You acquire cosmic dough (3)
+
+cast 1 Conjure Meat Product
+You acquire cosmic potted meat product (3)
+
+cobbsknob.php?level=3
+cobbsknob.php?level=3&action=cell37
+
+[1595] Menagerie 3
+Encounter: Spectral Jellyfish
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: spectral jellyfish takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: spectral jellyfish takes 10 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: spectral jellyfish takes 125 damage.
+Round 4: spectral jellyfish takes 11 damage.
+Round 4: fifthtoast wins the fight!
+You gain 5 Strengthliness
+You gain 8 Enchantedness
+You gain 5 Chutzpah
+
+cobbsknob.php?level=3
+cobbsknob.php?level=3&action=cell37
+
+[1596] Wildlife Sanctuarrrrrgh
+Encounter: swamp beaver warrior
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp beaver warrior takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: swamp beaver warrior takes 12 damage.
+Round 3: fifthtoast wins the fight!
+You gain 25 Meat
+You gain 3 Beefiness
+You gain a Muscle point!
+You gain 6 Enchantedness
+
+[1597] Wildlife Sanctuarrrrrgh
+Encounter: From Bad to Worst
+choice 698/1: Head into swamp beaver territory
+choice 698/2: Explore the village
+Took choice 698/1: unknown
+choice.php?pwd&whichchoice=698&option=1&choiceform1=Head+into+swamp+beaver+territory
+
+[1597] Swamp Beaver Territory
+Encounter: swamp beaver warrior
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp beaver warrior takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: swamp beaver warrior takes 11 damage.
+Round 3: fifthtoast wins the fight!
+You gain 29 Meat
+You gain 2 Muscleboundness
+You gain 4 Wizardliness
+You gain 3 Chutzpah
+
+[1598] Swamp Beaver Territory
+Encounter: swamp beaver shaman
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp beaver shaman takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: swamp beaver shaman takes 11 damage.
+Round 3: fifthtoast wins the fight!
+You gain 18 Meat
+You gain 4 Strengthliness
+You gain 7 Magicalness
+You gain 4 Smarm
+
+[1599] Swamp Beaver Territory
+Encounter: swamp beaver lumberjack
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp beaver lumberjack takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: swamp beaver lumberjack takes 11 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: swamp beaver lumberjack takes 125 damage.
+Round 4: swamp beaver lumberjack takes 11 damage.
+Round 4: fifthtoast wins the fight!
+You gain 24 Meat
+You gain 3 Beefiness
+You gain 8 Magicalness
+You gain 4 Roguishness
+
+[1600] Swamp Beaver Territory
+Encounter: swamp beaver shaman
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp beaver shaman takes 37 damage.
+You lose 7 hit points
+Round 2: fifthtoast casts BAKE!
+Round 3: swamp beaver shaman takes 10 damage.
+Round 3: fifthtoast wins the fight!
+You gain 16 Meat
+You acquire an item: shamanic beads
+You acquire an item: moonberry wine cooler
+You gain 7 Beefiness
+You gain 6 Mysteriousness
+You gain 3 Smarm
+
+[1601] Swamp Beaver Territory
+Encounter: swamp beaver lumberjack
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp beaver lumberjack takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: swamp beaver lumberjack takes 10 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: swamp beaver lumberjack takes 250 damage.
+Round 4: swamp beaver lumberjack takes 11 damage.
+Round 4: fifthtoast wins the fight!
+You gain 26 Meat
+You gain 8 Muscleboundness
+You gain 7 Enchantedness
+You gain 1 Cheek
+
+[1602] Swamp Beaver Territory
+Encounter: swamp beaver shaman
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp beaver shaman takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: swamp beaver shaman takes 13 damage.
+Round 3: fifthtoast wins the fight!
+You gain 20 Meat
+You gain 5 Beefiness
+You gain 6 Mysteriousness
+You gain 4 Smarm
+
+[1603] Swamp Beaver Territory
+Encounter: No Corn, Only Thorns
+choice 702/1: Go north.
+choice 702/2: Go east.
+choice 702/3: Go south.
+choice 702/4: Go west.
+Took choice 702/2: unknown
+choice.php?pwd&whichchoice=702&option=2&choiceform2=Go+east.
+choice.php?forceoption=0
+
+[1603] Swamp Beaver Territory
+Encounter: No Corn, Only Thorns
+Took choice 702/2: unknown
+choice.php?pwd&whichchoice=702&option=2
+
+[1603] Swamp Beaver Territory
+Encounter: swamp beaver warrior
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp beaver warrior takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: swamp beaver warrior takes 13 damage.
+Round 3: fifthtoast wins the fight!
+You gain 21 Meat
+You gain 3 Strongness
+You gain 3 Enchantedness
+You gain 3 Sarcasm
+
+[1604] Swamp Beaver Territory
+Encounter: swamp beaver lumberjack
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp beaver lumberjack takes 75 damage.
+Round 2: fifthtoast wins the fight!
+You gain 25 Meat
+You acquire an item: fine aged cheddarwurst
+You gain 2 Strongness
+You gain 11 Wizardliness
+You gain 2 Cheek
+
+[1605] Swamp Beaver Territory
+Encounter: No Corn, Only Thorns
+choice 702/1: Go north.
+choice 702/2: Go east.
+choice 702/3: Go south.
+choice 702/4: Go west.
+Took choice 702/4: unknown
+choice.php?pwd&whichchoice=702&option=4&choiceform4=Go+west.
+Encounter: No Corn, Only Thorns
+Took choice 702/1: unknown
+choice.php?pwd&whichchoice=702&option=1&choiceform1=Go+north.
+Encounter: No Corn, Only Thorns
+Took choice 702/4: unknown
+choice.php?pwd&whichchoice=702&option=4&choiceform4=Go+west.
+Encounter: No Corn, Only Thorns
