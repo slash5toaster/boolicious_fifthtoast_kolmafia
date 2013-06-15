@@ -1,0 +1,3770 @@
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 974 Meat
+
+use 1 Chester's bag of candy
+You acquire Angry Farmer candy (3)
+You acquire an item: Tasty Fun Good rice candy
+You acquire Yummy Tummy bean (2)
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: What?
+
+use 1 creepy voodoo doll
+
+use 1 Taco Dan's Taco Stand Flier
+You acquire an item: Taco Dan's Taco Stand Chimichangarita
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chewing+gum+on+a+string%22
+
+buy 3 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (3)
+You spent 150 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless gewgaw
+You acquire an item: worthless knick-knack
+You acquire an item: worthless trinket
+
+trading 3 worthless items for 3 ten-leaf clovers
+You acquire ten-leaf clover (3)
+
+Use 3 ten-leaf clover
+You acquire disassembled clover (3)
+
+cast 1 Conjure Eggs
+You acquire cosmic egg (3)
+
+cast 1 Conjure Fruit
+You acquire cosmic fruit (3)
+
+cast 1 Conjure Potato
+You acquire cosmic potato (3)
+
+cast 1 Conjure Vegetables
+You acquire cosmic vegetable (3)
+
+cast 1 Hippotatomous
+
+cast 1 Conjure Cheese
+You acquire cosmic cheese (3)
+
+cast 1 Conjure Dough
+You acquire cosmic dough (3)
+
+cast 1 Conjure Meat Product
+You acquire cosmic potted meat product (3)
+
+[1621] Whitey's Grove
+Encounter: whitesnake
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: whitesnake takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 11 Meat
+You acquire an item: white snake skin
+You gain 2 Strongness
+You gain 7 Wizardliness
+You gain 3 Roguishness
+choice.php?forceoption=0
+
+[1622] Whitey's Grove
+Encounter: Don't Fence Me In
+Took choice 73/3: wedding cake, white rice 3x (+2x w/ rice bowl)
+choice.php?pwd&whichchoice=73&option=3
+You acquire an item: piece of wedding cake
+You acquire an item: white rice
+
+[1623] Whitey's Grove
+Encounter: Knight in White Satin
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knight in white satin takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 26 Meat
+You gain 4 Muscleboundness
+You gain 9 Mysteriousness
+You gain 1 Smarm
+
+[1624] Palindome
+Encounter: Bob Racecar
+Round 0: fifthtoast loses initiative!
+You lose 45 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: bob racecar takes 37 damage.
+You lose 42 hit points
+
+[1625] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 88 hit points
+You gain 113 Mana Points
+
+[1625] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 43 Meat
+You acquire an item: Knob Goblin seltzer
+You gain 3 Beefiness
+You gain 10 Enchantedness
+You gain 4 Sarcasm
+
+[1626] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: knob goblin alchemist takes 37 damage.
+Round 3: fifthtoast casts BAKE!
+Round 4: knob goblin alchemist takes 26 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: philosopher's scone
+You gain 3 Muscleboundness
+You gain 9 Magicalness
+You gain a Mysticality point!
+You gain 5 Smarm
+
+cobbsknob.php?level=2
+
+[1627] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 47 Meat
+You gain 4 Strengthliness
+You gain 11 Magicalness
+You gain 2 Chutzpah
+
+[1628] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin very mad scientist takes 75 damage.
+Round 2: fifthtoast wins the fight!
+You gain 42 Meat
+You acquire an item: bunch of square grapes
+You gain 3 Strengthliness
+You gain 14 Mysteriousness
+You gain 2 Roguishness
+
+[1629] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin alchemist takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: knob goblin alchemist takes 25 damage.
+Round 3: fifthtoast wins the fight!
+You gain 6 Muscleboundness
+You gain 8 Enchantedness
+You gain 3 Roguishness
+
+[1630] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin very mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 47 Meat
+You gain 5 Fortitude
+You gain 10 Enchantedness
+You gain 3 Sarcasm
+
+[1631] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin very mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 53 Meat
+You acquire an item: scrumptious reagent
+You gain 5 Muscleboundness
+You gain 8 Enchantedness
+You gain 5 Roguishness
+
+cobbsknob.php?level=2
+cobbsknob.php?action=dispensary
+You lose 20 hit points
+cobbsknob.php?action=tomenagerie
+cobbsknob.php?level=3&action=cell37
+cobbsknob.php?level=2
+
+[1632] Knob Shaft
+Encounter: ghost miner
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: ghost miner takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 Strengthliness
+You gain 6 Mysteriousness
+You gain 3 Sarcasm
+
+cobbsknob.php?level=2
+
+[1633] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 48 Meat
+You gain 3 Strongness
+You gain 9 Enchantedness
+You gain 5 Chutzpah
+
+[1634] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin very mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 45 Meat
+You gain 7 Strongness
+You gain 9 Enchantedness
+You gain 3 Sarcasm
+
+[1635] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin very mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 45 Meat
+You acquire an item: scrumptious reagent
+You acquire an item: Knob Goblin melon baller
+You acquire an item: bunch of square grapes
+You gain 5 Fortitude
+You gain 10 Magicalness
+You gain 3 Chutzpah
+
+[1636] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin alchemist takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: knob goblin alchemist takes 24 damage.
+Round 3: fifthtoast wins the fight!
+You gain 6 Muscleboundness
+You gain 6 Wizardliness
+You gain 4 Cheek
+
+[1637] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 41 Meat
+You gain 4 Muscleboundness
+You gain 9 Magicalness
+You gain 4 Roguishness
+
+[1638] Weird Swamp Village
+Encounter: swamp owl
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp owl takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: swamp owl takes 24 damage.
+Round 3: fifthtoast wins the fight!
+You gain 19 Meat
+You gain 3 Strengthliness
+You gain 9 Mysteriousness
+You gain 8 Cheek
+
+[1639] Weird Swamp Village
+Encounter: swamp gator
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp gator takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 28 Meat
+You gain 5 Strongness
+You gain 7 Wizardliness
+You gain 4 Roguishness
+
+[1640] Weird Swamp Village
+Encounter: swamp gator
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp gator takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 28 Meat
+You acquire an item: fine aged cheddarwurst
+You gain 4 Beefiness
+You gain 7 Magicalness
+You gain 5 Smarm
+
+[1641] Wildlife Sanctuarrrrrgh
+Encounter: swamp beaver warrior
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp beaver warrior takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: swamp beaver warrior takes 22 damage.
+Round 3: fifthtoast wins the fight!
+You gain 23 Meat
+You gain 5 Muscleboundness
+You gain 6 Mysteriousness
+You gain 4 Roguishness
+
+[1642] Wildlife Sanctuarrrrrgh
+Encounter: swamp beaver warrior
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp beaver warrior takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: swamp beaver warrior takes 27 damage.
+Round 3: fifthtoast wins the fight!
+You gain 23 Meat
+You acquire an item: fine aged cheddarwurst
+You gain 3 Muscleboundness
+You gain 8 Magicalness
+You gain 3 Chutzpah
+
+[1643] Wildlife Sanctuarrrrrgh
+Encounter: swamp entity
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp entity takes 1 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: swamp entity takes 24 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: swamp entity takes 125 damage.
+Round 4: swamp entity takes 25 damage.
+Round 4: fifthtoast wins the fight!
+You gain 20 Meat
+You acquire an item: delicious swamp muck
+You gain 2 Strongness
+You gain 7 Magicalness
+You gain 4 Chutzpah
+
+[1644] Wildlife Sanctuarrrrrgh
+Encounter: swamp gator
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp gator takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 27 Meat
+You gain 3 Beefiness
+You gain 11 Enchantedness
+You gain 2 Chutzpah
+
+[1645] Wildlife Sanctuarrrrrgh
+Encounter: swamp gator
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp gator takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 26 Meat
+You gain 2 Fortitude
+You gain 8 Magicalness
+You gain 5 Chutzpah
+
+[1646] Dark and Spooky Swamp
+Encounter: smell-o-the-wisp
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: smell-o-the-wisp takes 1 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: smell-o-the-wisp takes 23 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: smell-o-the-wisp takes 125 damage.
+Round 4: smell-o-the-wisp takes 25 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: bottled swamp gas
+You gain 5 Beefiness
+You gain 7 Enchantedness
+You gain 1 Roguishness
+
+[1647] Dark and Spooky Swamp
+Encounter: swamp hag
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp hag takes 1 damage.
+Round 2: swamp hag takes 1 damage.
+Round 2: swamp hag takes 7 damage.
+Round 2: swamp hag takes 3 damage.
+You lose 1 hit point
+Round 2: fifthtoast casts BAKE!
+Round 3: swamp hag takes 23 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: swamp hag takes 125 damage.
+Round 4: swamp hag takes 24 damage.
+Round 4: fifthtoast wins the fight!
+You gain 24 Meat
+You gain 5 Beefiness
+You gain 7 Wizardliness
+You gain 4 Roguishness
+
+[1648] Dark and Spooky Swamp
+Encounter: swamp hag
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp hag takes 1 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: swamp hag takes 26 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: swamp hag takes 125 damage.
+Round 4: swamp hag takes 26 damage.
+Round 4: fifthtoast wins the fight!
+You gain 29 Meat
+You gain 4 Strongness
+You gain a Muscle point!
+You gain 8 Enchantedness
+You gain 4 Smarm
+
+[1649] Dark and Spooky Swamp
+Encounter: swamp hag
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: swamp hag takes 1 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: swamp hag takes 24 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: swamp hag takes 125 damage.
+Round 4: swamp hag takes 26 damage.
+Round 4: fifthtoast wins the fight!
+You gain 27 Meat
+You acquire an item: moonberry wine cooler
+You gain 5 Strengthliness
+You gain 7 Wizardliness
+You gain 4 Roguishness
+
+[1650] Ruined Wizard Tower
+Encounter: haunted skullabra
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: haunted skullabra takes 74 damage.
+Round 2: fifthtoast wins the fight!
+You gain 3 Fortitude
+You gain 10 Magicalness
+You gain 6 Chutzpah
+You gain a Moxie point!
+
+[1651] Ruined Wizard Tower
+Encounter: bogart
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: bogart takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: bogart takes 22 damage.
+Round 3: fifthtoast wins the fight!
+You gain 33 Meat
+You acquire an item: fine aged cheddarwurst
+You gain 4 Fortitude
+You gain 11 Mysteriousness
+You gain 6 Roguishness
+
+[1652] Ruined Wizard Tower
+Encounter: haunted skullabra
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: haunted skullabra takes 150 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Beefiness
+You gain 9 Magicalness
+You gain 3 Smarm
+
+[1653] Ruined Wizard Tower
+Encounter: bogart
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: bogart takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: bogart takes 20 damage.
+Round 3: fifthtoast wins the fight!
+You gain 30 Meat
+You gain 11 Beefiness
+You gain 5 Wizardliness
+You gain 5 Roguishness
+
+[1654] Rest in your dwelling
+You gain 88 hit points
+You gain 1 Mana Point
+
+[1654] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 40 Meat
+You gain 6 Muscleboundness
+You gain 6 Magicalness
+You gain 4 Chutzpah
+
+[1655] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 41 Meat
+You gain 5 Strengthliness
+You gain 6 Enchantedness
+You gain 6 Roguishness
+
+[1656] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin alchemist takes 75 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: half-baked potion
+You gain 4 Muscleboundness
+You gain 6 Mysteriousness
+You gain 6 Smarm
+
+[1657] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin very mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 39 Meat
+You acquire an item: Knob Goblin superseltzer
+You gain 4 Strengthliness
+You gain 9 Mysteriousness
+You gain a Mysticality point!
+You gain 5 Sarcasm
+
+[1658] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 35 Meat
+You gain 3 Muscleboundness
+You gain 10 Wizardliness
+You gain 3 Smarm
+
+[1659] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin very mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 47 Meat
+You acquire an item: scrumptious reagent
+You gain 2 Beefiness
+You gain 11 Magicalness
+You gain 5 Chutzpah
+
+[1660] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin very mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 45 Meat
+You gain 4 Strongness
+You gain 7 Enchantedness
+You gain 7 Cheek
+
+[1661] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin alchemist takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: knob goblin alchemist takes 26 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: half-baked potion
+You gain 2 Beefiness
+You gain 9 Wizardliness
+You gain 6 Cheek
+
+[1662] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 46 Meat
+You gain 6 Strongness
+You gain 6 Enchantedness
+You gain 5 Chutzpah
+
+[1663] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin mad scientist takes 75 damage.
+Round 2: fifthtoast wins the fight!
+You gain 43 Meat
+You gain 5 Muscleboundness
+You gain 8 Mysteriousness
+You gain 4 Chutzpah
+
+[1664] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin very mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 48 Meat
+You acquire an item: bunch of square grapes
+You gain 4 Muscleboundness
+You gain 7 Magicalness
+You gain 7 Roguishness
+
+[1665] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 40 Meat
+You gain 3 Beefiness
+You gain 13 Wizardliness
+You gain 2 Roguishness
+
+[1666] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 45 Meat
+You gain 5 Fortitude
+You gain 10 Wizardliness
+You gain 3 Sarcasm
+
+[1667] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin alchemist takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: knob goblin alchemist takes 25 damage.
+Round 3: fifthtoast wins the fight!
+You gain 3 Strongness
+You gain 9 Enchantedness
+You gain 4 Cheek
+
+[1668] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 42 Meat
+You gain 3 Strongness
+You gain 7 Wizardliness
+You gain 7 Cheek
+
+[1669] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin very mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 49 Meat
+You acquire an item: scrumptious reagent
+You gain 2 Fortitude
+You gain 15 Enchantedness
+You gain 2 Roguishness
+
+[1670] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin very mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 52 Meat
+You gain 3 Muscleboundness
+You gain 11 Enchantedness
+You gain 4 Roguishness
+
+[1671] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 42 Meat
+You gain 3 Fortitude
+You gain 9 Magicalness
+You gain 5 Smarm
+
+[1672] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin mad scientist takes 75 damage.
+Round 2: fifthtoast wins the fight!
+You gain 43 Meat
+You gain 7 Fortitude
+You gain 8 Mysteriousness
+You gain 2 Cheek
+
+[1673] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin alchemist takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: knob goblin alchemist takes 24 damage.
+Round 3: fifthtoast wins the fight!
+You gain 6 Strongness
+You gain 8 Mysteriousness
+You gain 3 Roguishness
+
+[1674] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin very mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 43 Meat
+You gain 4 Beefiness
+You gain 10 Wizardliness
+You gain 4 Chutzpah
+
+[1675] Cobb's Knob Laboratory
+Encounter: Knob Goblin Very Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: knob goblin very mad scientist takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 42 Meat
+You acquire an item: Knob Goblin superseltzer
+You gain 4 Strongness
+You gain 10 Wizardliness
+You gain 4 Roguishness
+
+[1676] Cobb's Knob Laboratory
+Encounter: You Can Top Our Desserts, But You Can't Beat Our Meats
+You acquire an item: bottle of Mystic Shell
+
+[1678] Cook 1 wet stew + 1 stunt nuts
+You acquire an item: wet stunt nut stew
+Crafting used 1 each of stunt nuts and wet stew
+
+[1677] Cobb's Knob Laboratory
+Encounter: Mega Gem
+You acquire an item: Mega Gem
+
+equip acc2 Mega Gem
+
+cobbsknob.php?level=2
+choice.php?forceoption=0
+
+[1678] Palindome
+Encounter: Dr. Awkward
+Took choice 131/1: unknown
+choice.php?pwd&whichchoice=131&option=1
+Encounter: Dr. Awkward
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: dr. awkward takes 75 damage.
+Round 2: dr. awkward heals 21 hit points.
+Round 2: fifthtoast casts BAKE!
+Round 3: dr. awkward takes 25 damage.
+Round 3: dr. awkward takes 1 damage.
+Round 3: dr. awkward takes 2 damage.
+Round 3: dr. awkward takes 3 damage.
+You lose 48 hit points
+Round 3: fifthtoast casts CHOP!
+Round 4: dr. awkward takes 125 damage.
+Round 4: dr. awkward takes 27 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: Staff of Fats
+You acquire an item: Drowsy Sword
+You gain 42 Beefiness
+You gain 62 Mysteriousness
+You gain 32 Smarm
+
+Use 4 duct tape
+You acquire an item: duct tape wallet
+
+Combine 1 tisket + 1 tasket
+You acquire an item: oyster basket
+Crafting used 1 each of tisket and tasket
+
+Combine 1 Staff of Fats + 1 headpiece of the Staff of Ed
+You acquire an item: Staff of Ed
+Crafting used 1 each of Staff of Fats and headpiece of the Staff of Ed
+
+Combine 2 evil golden arch + 2 evil golden arch
+
+Combine 1 evil golden arch + 1 evil golden arch
+You acquire an item: evil golden arches
+Crafting used 1 each of evil golden arch and evil golden arch
+
+use 1 evil golden arches
+You acquire an item: Jumbo Dr. Lucifer
+You acquire an item: Double Bacon Beelzeburger
+You acquire an item: Lord of the Flies-sized fries
+
+Combine 1 chrome ore + 1 acoustic guitarrr
+You acquire an item: heavy metal thunderrr guitarrr
+Crafting used 1 each of chrome ore and acoustic guitarrr
+
+equip weapon heavy metal thunderrr guitarrr
+
+use 1 drab sonata
+
+use 1 grue egg
+
+use 1 cloudy potion
+You acquire an effect: Izchak's Blessing (duration: 10 Adventures)
+
+equip weapon oil pan
+
+equip off-hand astral statuette
+
+equip acc2 gearbox necklace
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22giant+discarded+bottlecap%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22sponge+helmet%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22bat+hat%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22longhaired+hippy+wig%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Mark+IV+Steam-Hat%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Mark+II+Steam-Hat%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Mark+I+Steam-Hat%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chrome+helmet+turtle%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22bubblewrap+bottlecap+turtleban%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22skeletortoise%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22ironic+knit+cap%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22PVC+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22skate+board%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22hairy+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22fish+stick%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22smoldering+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22meatspout+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22linoleum+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22staph+of+homophones%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chrome+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Spirit+Precipice%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22asbestos+sword%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22big+stirring+stick%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Kentucky-fried+meat+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22soylent+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22flypaper+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22styrofoam+staff%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22bubble+bauble+bow%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22velcro+shield%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22collapsible+baton%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22yakskin+buckler%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22scissor+duck%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22painted+shield%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22gnauga+hide+buckler%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22foon+of+fleshiness%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22foon+of+foulness%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22foon+of+fulmination%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22basic+meat+foon%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22incredibly+creepy+marionette%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22marionette%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22foon%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22penguin+thesaurus%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Dyspepsi-Cola+shield%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Cloaca-Cola+shield%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22voodoo+doll%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22old+school+Mafia+knickerbockers%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22cane-mail+pants%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Cerebral+Culottes%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22flowing+hippy+skirt%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22eelskin+pants%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Dyspepsi-Cola+fatigues%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Cloaca-Cola+fatigues%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Annual+Ascot%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22velcro+boots%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Pok%26euml%3Bmann+figurine%3A+Shoggoth%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22albatross+necklace%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22amber+aviator+shades%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+Rene+C.+Corman%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22blackberry+galoshes%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Lockenstock%26trade%3B+sandals%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22shiny+tribal+beads%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22witch+wart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+the+Free+Man%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22lollipop+cufflinks%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22phat+turquoise+bracelet%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Mudflap-Girl+Ring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Mudflap-Girl+Necklace%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Ring+of+the+Sewer+Snake%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Putrid+Pendant%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Ice-Cold+Beer+Ring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Ice-Cold+Aluminum+Necklace%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Ring+of+Fire%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Pendant+of+Fire%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+strand+of+DNA%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+Bonerdagon%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22baconstone+bracelet%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22reinforced+furry+underpants%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+pastamancer%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+sauceror%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+turtle+tamer%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22bottlecap+turtle%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+Uncle+Crimbo%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tiny+plastic+accordion+thief%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22cheap+elven+gloves%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22string+of+blue+beads%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chintzy+accordion+pin%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chintzy+saucepan+earring%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chintzy+turtle+brooch%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22teflon+spatula%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22pixel+whip%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Pasta+of+Peril%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%225-Alarm+Saucepan%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22llama+lama+gong%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22hair+of+the+fish%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22spooky+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22yellow+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22prismatic+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22orange+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22stench+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22antique+bottle+of+cough+syrup%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22seal-brain+elixir%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22henna+tattoo%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Mer-kin+saltsquid%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+What%3F%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22salamander+slurry%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22lime+supersucker%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22cold-filtered+water%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22pickle-flavored+chewing+gum%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22bottled+inspiration%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22yellow+paisley+oyster+egg%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22extra-potent+gremlin+mutagen%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Mer-kin+smartjuice%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22hot+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22teeny-tiny+magic+scroll%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Climate+Colada%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22jug+of+baconstone+juice%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22flask+of+baconstone+juice%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22vial+of+baconstone+juice%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22patchouli+incense+stick%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22potion+of+temporary+gr8tness%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22hippy+paste%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22bottle+of+fire%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22lavender+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22thin+black+candle%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22pulled+violet+taffy%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22green+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Crimbo+candied+pecan%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22CSA+bravery+badge%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22ointment+of+the+occult%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+When%3F%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22tomato+juice+of+powerful+power%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+Where%3F%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Hawking%27s+Elixir+of+Brilliance%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22pink+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22kumquat+supersucker%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22banana+smoothie%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22gummi+snake%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22unstable+DNA%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22gremlin+mutagen%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Okee-Dokee+soda%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22spooky+eyeliner%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22spooky+lipstick%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22sleaze+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22cold+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22pressurized+potion+of+perspicacity%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22sugar-coated+pine+cone%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22funky+dried+mushroom%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Trivial+Avocations+Card%3A+Who%3F%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Lobos+Mints%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22twinkly+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22jaba%26ntilde%3Bero-flavored+chewing+gum%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22love+song+of+disturbing+obsession%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22white+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22love+song+of+smoldering+passion%22
+beach.php?action=woodencity
+
+[1679] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 75 damage.
+Round 2: tomb bat takes 3 damage.
+Round 2: tomb bat takes 9 damage.
+Round 2: tomb bat takes 4 damage.
+You lose 38 hit points
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 24 damage.
+Round 3: tomb bat takes 2 damage.
+Round 3: tomb bat takes 8 damage.
+Round 3: tomb bat takes 3 damage.
+You lose 41 hit points
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 22 damage.
+Round 4: fifthtoast wins the fight!
+You gain 46 Meat
+You gain 14 Strengthliness
+You gain a Muscle point!
+You gain 29 Mysteriousness
+You gain a Mysticality point!
+You gain 10 Sarcasm
+
+[1680] The Upper Chamber
+Encounter: tomb asp
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb asp takes 37 damage.
+Round 2: tomb asp takes 3 damage.
+Round 2: tomb asp takes 3 damage.
+Round 2: tomb asp takes 4 damage.
+You lose 36 hit points
+
+[1681] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 90 hit points
+You gain 131 Mana Points
+
+[1681] Daily Dungeon (Room 1)
+Encounter: giant giant moth
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: giant giant moth takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 14 Meat
+You gain 1 Fortitude
+You gain 7 Mysteriousness
+You gain 3 Sarcasm
+
+[1682] Daily Dungeon (Room 2)
+Encounter: Sewage Moat
+
+[1683] Daily Dungeon (Room 3)
+Encounter: Treasure!
+
+[1683] Daily Dungeon (Room 4)
+Encounter: vampire clam
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: vampire clam takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 20 Meat
+You gain 2 Muscleboundness
+You gain 8 Mysteriousness
+You gain 2 Chutzpah
+
+[1684] Daily Dungeon (Room 5)
+Encounter: Smooth Criminal
+
+[1685] Daily Dungeon (Room 6)
+Encounter: Treasure!
+
+[1685] Daily Dungeon (Room 7)
+Encounter: Locked Door
+
+[1686] Daily Dungeon (Room 8)
+Encounter: tonic water elemental
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tonic water elemental takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 18 Meat
+You gain 1 Strengthliness
+You gain 4 Wizardliness
+You gain 7 Roguishness
+
+[1687] Daily Dungeon (Room 9)
+Encounter: The Biggest Bathtub Ever
+
+[1688] Daily Dungeon (Room 10)
+Encounter: Treasure!
+You acquire an item: fat loot token
+Jumping into the Awesome Ball Pit in the clan rumpus room
+You acquire an effect: Having a Ball! (duration: 20 Adventures)
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #286/1200:
+Question: What was stolen from the Flansburgh Museum of Poking Things With a Stick to See What Happens on Petember first, 1976?
+Answer: A broccoli and paté sandwich.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #590/1200:
+Question: When did the Terrible Food Fight of Vicious Grotto begin?
+Answer: Starch 5, 1919.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #607/1200:
+Question: Who won the mithril medal for figure-skating in the 1967 Olympics?
+Answer: Sven Roosevelt's daughter Stan.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1028/1200:
+Question: Where was Frederick XV, Prince of Winklesbury, assassinated?
+Answer: On the last train to Reeves.
+
+use 1 twinkly wad
+You gain 1 Adventure
+You gain 10 Muscleboundness
+You gain 8 Mysteriousness
+You gain 9 Smarm
+You acquire an effect: Aspect of the Twinklefairy (duration: 10 Adventures)
+
+[1689] The Upper Chamber
+Encounter: Whee!
+You acquire an item: carved wooden wheel
+
+[1690] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 27 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 27 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: ancient Magi-Wipes
+You gain 13 Beefiness
+You gain 27 Magicalness
+You gain 11 Smarm
+You gain a Moxie point!
+
+[1691] The Upper Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 48 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 52 damage.
+Round 4: fifthtoast wins the fight!
+You gain 50 Meat
+You acquire an item: canopic jar
+You acquire an item: mummy wrapping
+You gain 7 Muscleboundness
+You gain 29 Magicalness
+You gain 13 Cheek
+
+[1692] The Upper Chamber
+Encounter: tomb asp
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb asp takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb asp takes 21 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb asp takes 125 damage.
+Round 4: tomb asp takes 23 damage.
+Round 4: fifthtoast wins the fight!
+You gain 93 Meat
+You acquire an item: unidentified jerky
+You gain 14 Fortitude
+You gain 29 Wizardliness
+You gain 9 Cheek
+
+equip weapon Staff of the Healthy Breakfast
+
+[1693] The Upper Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 50 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 48 damage.
+Round 4: fifthtoast wins the fight!
+You gain 54 Meat
+You gain 11 Strengthliness
+You gain 29 Enchantedness
+You gain 10 Sarcasm
+
+[1694] The Upper Chamber
+Encounter: tomb rat
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast jiggles the Staff of the Healthy Breakfast
+Round 2: You jiggle the staff.  A tendril of egg yolk emerges from the end of it and vanishes into your chest.  You feel better, but your opponent looks pretty disgusted.
+Round 2: You gain 10 hit points.
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: tomb rat takes 37 damage.
+Round 3: fifthtoast casts BAKE!
+Round 4: tomb rat takes 25 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: tomb rat takes 250 damage.
+Round 5: tomb rat takes 28 damage.
+Round 5: fifthtoast wins the fight!
+You gain 75 Meat
+You gain 9 Muscleboundness
+You gain 33 Wizardliness
+You gain 7 Roguishness
+
+[1695] The Upper Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast casts CURDLE!
+Round 3: tomb servant takes 74 damage.
+Round 3: fifthtoast casts BAKE!
+Round 4: tomb servant takes 46 damage.
+Round 4: fifthtoast casts CHOP!
+Round 5: tomb servant takes 125 damage.
+Round 5: tomb servant takes 50 damage.
+Round 5: fifthtoast wins the fight!
+You gain 40 Meat
+You acquire an item: unidentified jerky
+You acquire an item: mummy wrapping
+You acquire an item: ancient protein powder
+You gain 17 Strongness
+You gain 19 Mysteriousness
+You gain 12 Sarcasm
+
+[1696] The Upper Chamber
+Encounter: tomb asp
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb asp takes 75 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb asp takes 21 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb asp takes 125 damage.
+Round 4: tomb asp takes 20 damage.
+Round 4: fifthtoast wins the fight!
+You gain 92 Meat
+You gain 18 Strengthliness
+You gain 27 Magicalness
+You gain 6 Chutzpah
+
+[1697] The Upper Chamber
+Encounter: tomb asp
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb asp takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb asp takes 27 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb asp takes 125 damage.
+Round 4: tomb asp takes 28 damage.
+Round 4: fifthtoast wins the fight!
+You gain 115 Meat
+You gain 14 Fortitude
+You gain 25 Wizardliness
+You gain a Mysticality point!
+You gain 12 Chutzpah
+
+[1698] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: tomb servant takes 1 damage.
+Round 2: tomb servant takes 1 damage.
+Round 2: tomb servant takes 3 damage.
+You lose 13 hit points
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 54 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 50 damage.
+Round 4: fifthtoast wins the fight!
+You gain 47 Meat
+You gain 15 Fortitude
+You gain 25 Enchantedness
+You gain 8 Smarm
+
+[1699] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 134/1: Turn the wheel
+choice.php?pwd&whichchoice=134&option=1&choiceform1=Turn+the+wheel
+
+[1700] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 75 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 20 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 250 damage.
+Round 4: tomb bat takes 22 damage.
+Round 4: fifthtoast wins the fight!
+You gain 54 Meat
+You acquire an item: mummy wrapping
+You gain 7 Muscleboundness
+You gain 35 Enchantedness
+You gain 11 Cheek
+
+[1701] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 25 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 23 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: ancient Magi-Wipes
+You gain 9 Strengthliness
+You gain 27 Wizardliness
+You gain 14 Smarm
+
+[1702] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 50 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 48 damage.
+Round 4: fifthtoast wins the fight!
+You gain 56 Meat
+You gain 11 Fortitude
+You gain 20 Mysteriousness
+You gain 17 Roguishness
+
+[1703] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 24 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 22 damage.
+Round 4: fifthtoast wins the fight!
+You gain 50 Meat
+You gain 8 Muscleboundness
+You gain 31 Mysteriousness
+You gain 14 Sarcasm
+
+[1704] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 25 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 22 damage.
+Round 4: fifthtoast wins the fight!
+You gain 15 Beefiness
+You gain a Muscle point!
+You gain 21 Magicalness
+You gain 14 Chutzpah
+
+[1705] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1706] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1707] The Lower Chambers (Token/Empty)
+You acquire an item: ancient bronze token
+
+[1708] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 46 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 52 damage.
+Round 4: fifthtoast wins the fight!
+You gain 48 Meat
+You gain 14 Beefiness
+You gain 26 Mysteriousness
+You gain 9 Roguishness
+
+[1709] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 24 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 22 damage.
+Round 4: fifthtoast wins the fight!
+You gain 44 Meat
+You acquire an item: mummy wrapping
+You gain 13 Muscleboundness
+You gain 32 Enchantedness
+You gain 7 Chutzpah
+
+[1710] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1711] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[1712] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 50 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 50 damage.
+Round 4: fifthtoast wins the fight!
+You gain 52 Meat
+You acquire an item: mummy wrapping
+You acquire an item: ancient ice cream scoop
+You gain 9 Muscleboundness
+You gain 27 Mysteriousness
+You gain 13 Cheek
+
+[1713] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 150 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 50 damage.
+Round 3: fifthtoast wins the fight!
+You gain 51 Meat
+You acquire an item: ancient protein powder
+You gain 16 Fortitude
+You gain 25 Wizardliness
+You gain a Mysticality point!
+You gain 9 Roguishness
+You gain a Moxie point!
+
+[1714] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 48 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 50 damage.
+Round 4: fifthtoast wins the fight!
+You gain 45 Meat
+You acquire an item: unidentified jerky
+You gain 12 Strengthliness
+You gain 24 Wizardliness
+You gain 13 Chutzpah
+
+[1715] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 150 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 46 damage.
+Round 3: fifthtoast wins the fight!
+You gain 45 Meat
+You acquire an item: canopic jar
+You acquire an item: mummy wrapping
+You gain 18 Strongness
+You gain 21 Enchantedness
+You gain 8 Sarcasm
+
+[1716] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1717] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 23 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 24 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: leathery cat skin
+You acquire an item: ancient Magi-Wipes
+You gain 16 Strongness
+You gain 22 Wizardliness
+You gain 12 Roguishness
+
+[1718] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 48 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 250 damage.
+Round 4: tomb servant takes 56 damage.
+Round 4: fifthtoast wins the fight!
+You gain 52 Meat
+You acquire an item: canopic jar
+You gain 15 Beefiness
+You gain 21 Enchantedness
+You gain 11 Cheek
+
+[1719] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: tomb bat takes 2 damage.
+Round 2: tomb bat takes 10 damage.
+Round 2: tomb bat takes 5 damage.
+You lose 49 hit points
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 24 damage.
+Round 3: tomb bat takes 2 damage.
+Round 3: tomb bat takes 8 damage.
+Round 3: tomb bat takes 5 damage.
+You lose 49 hit points
+
+[1720] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 89 hit points
+You gain 98 Mana Points
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #53/1200:
+Question: What was stolen from the New Brunswick Museum of Research on Frankruary second, 1932?
+Answer: The mechanical pedal-powered aunt.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #313/1200:
+Question: According to <u>Legend of the Robot Sorcerer</u>, the book of prophecies revered by worshipers of The Blood Knight Dave, when was Grimtooth the Demon Owlbear supposed to walk the earth, destroying all the works of man?
+Answer: Last Doomsday.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #703/1200:
+Question: Who won the platinum medal for weight-lifting in the 1984 Olympics?
+Answer: Duchess Claudius XV.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1022/1200:
+Question: Where was T. J. XVIII, Earl of Gallston, attacked by a lemur?
+Answer: Blight Thicket.
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22CSA+bravery+badge%22
+
+buy 1 CSA bravery badge for 100 each from 2237329 on 20130615
+You acquire an item: CSA bravery badge
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+use 1 spooky eyeliner
+You acquire an effect: Gothy (duration: 10 Adventures)
+
+use 1 twinkly wad
+You gain 1 Adventure
+You gain 9 Strengthliness
+You gain 10 Mysteriousness
+You gain 10 Roguishness
+You acquire an effect: Aspect of the Twinklefairy (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 2 Piddles for 100 each from 1064819 on 20130615
+You acquire Piddles (2)
+
+use 2 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22resolution%3A+be+feistier%22
+
+buy 1 resolution: be feistier for 100 each from 2237329 on 20130615
+You acquire an item: resolution: be feistier
+
+buy 1 resolution: be feistier for 100 each from 2312062 on 20130615
+You acquire an item: resolution: be feistier
+
+use 2 resolution: be feistier
+You acquire an effect: Destructive Resolve (duration: 40 Adventures)
+
+[1720] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 21 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 22 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: leathery cat skin
+You acquire an item: ancient Magi-Wipes
+You gain 10 Muscleboundness
+You gain 28 Wizardliness
+You gain 11 Smarm
+
+[1721] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 50 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 48 damage.
+Round 4: fifthtoast wins the fight!
+You gain 50 Meat
+You acquire an item: canopic jar
+You gain 12 Fortitude
+You gain 21 Wizardliness
+You gain 15 Roguishness
+
+[1722] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 48 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 250 damage.
+Round 4: tomb servant takes 46 damage.
+Round 4: fifthtoast wins the fight!
+You gain 45 Meat
+You acquire an item: mummy wrapping
+You gain 12 Strongness
+You gain 27 Enchantedness
+You gain 9 Cheek
+
+[1723] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 50 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 52 damage.
+Round 4: fifthtoast wins the fight!
+You gain 52 Meat
+You gain 13 Beefiness
+You gain 27 Enchantedness
+You gain 8 Cheek
+
+[1724] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 44 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 42 damage.
+Round 4: fifthtoast wins the fight!
+You gain 54 Meat
+You gain 17 Fortitude
+You gain a Muscle point!
+You gain 22 Wizardliness
+You gain 10 Roguishness
+
+[1725] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1
+
+[1726] The Lower Chambers (Rubble/Bomb)
+You acquire an item: ancient bomb
+
+mall.php?pudnuggler=tomb+&category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=5
+
+buy 2 tomb ratchet for 1200 each from 2135313 on 20130615
+You acquire tomb ratchet (2)
+
+use 1 tomb ratchet
+
+use 1 tomb ratchet
+
+use 1 tomb ratchet
+
+[1727] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/2: skip adventure
+choice.php?pwd&whichchoice=135&option=2&choiceform2=Leave+the+wheel+alone
+
+[1727] The Lower Chambers (Empty/Empty/Ed's Chamber)
+You lose 30 hit points
+
+buy 4 tomb ratchet for 1400 each from 2087373 on 20130615
+You acquire tomb ratchet (4)
+
+use 1 tomb ratchet
+
+use 1 tomb ratchet
+
+use 1 tomb ratchet
+
+[1728] The Lower Chambers (Rubble/Bomb)
+
+use 1 tomb ratchet
+
+[1729] The Lower Chambers (Token/Empty)
+You acquire an item: ancient bronze token
+
+buy 1 tomb ratchet for 1400 each from 2087373 on 20130615
+You acquire an item: tomb ratchet
+
+buy 1 tomb ratchet for 1400 each from 2087365 on 20130615
+You acquire an item: tomb ratchet
+
+buy 1 tomb ratchet for 1400 each from 1905911 on 20130615
+You acquire an item: tomb ratchet
+
+use 1 tomb ratchet
+
+use 1 tomb ratchet
+
+[1730] The Lower Chambers (Empty/Empty/Ed's Chamber)
+
+use 1 tomb ratchet
+
+Using 1 cosmic potato to make 1 consummate baked potato
+You acquire an item: consummate baked potato
+
+Using 1 cosmic potted meat product to make 1 consummate steak
+You acquire an item: consummate steak
+
+Using 1 cosmic vegetable to make 1 consummate soup
+You acquire an item: consummate soup
+
+Using 1 consummate soup + 1 consummate steak + 1 consummate baked potato to make 1 sublime stew
+You acquire an item: sublime stew
+
+eat 1 sublime stew
+You gain 27 Adventures
+You gain 47 Enchantedness
+You gain a Mysticality point!
+You gain 29 Sarcasm
+You gain 6 Fullness
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22milk+of+magnesium%22
+
+buy 1 milk of magnesium for 800 each from 2297774 on 20130615
+You acquire an item: milk of magnesium
+
+use 1 milk of magnesium
+You acquire an effect: Got Milk (duration: 10 Adventures)
+
+Using 1 cosmic dough to make 1 consummate bagel
+You acquire an item: consummate bagel
+
+eat 1 consummate bagel
+You gain 9 Adventures
+You gain 17 Strongness
+You gain 33 Enchantedness
+You gain 4 Fullness
+You lose some of an effect: Got Milk
+
+Using 4 cosmic potato to make 4 consummate french fries
+You acquire consummate french fries (4)
+
+Using 4 cosmic fruit to make 4 adequate rum
+You acquire adequate rum (4)
+
+Using 4 adequate rum + 4 consummate french fries to make 4 Le Roi
+You acquire Le Roi (4)
+
+drink 4 Le Roi
+You gain 9 Adventures
+You gain 34 Smarm
+You gain 3 Drunkenness
+You gain 8 Adventures
+You gain 33 Sarcasm
+You gain a Moxie point!
+You gain 3 Drunkenness
+You gain 10 Adventures
+You gain 38 Cheek
+You gain 3 Drunkenness
+You gain 10 Adventures
+You gain 34 Smarm
+You gain 3 Drunkenness
+
+Using 1 cosmic potato to make 1 acceptable vodka
+You acquire an item: acceptable vodka
+
+Using  to make 1 cosmic six-pack
+You acquire an item: cosmic six-pack
+
+Use 1 cosmic six-pack
+You acquire mediocre lager (6)
+
+drink 1 mediocre lager
+You gain 2 Adventures
+You gain 14 Magicalness
+You gain 6 Roguishness
+You gain 2 Drunkenness
+
+[1731] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 24 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 25 damage.
+Round 4: fifthtoast wins the fight!
+You gain 46 Meat
+You acquire an item: mummy wrapping
+You gain 9 Beefiness
+You gain 37 Wizardliness
+You gain 8 Smarm
+
+[1732] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 75 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 24 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 25 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: leathery cat skin
+You gain 9 Fortitude
+You gain 31 Magicalness
+You gain 10 Smarm
+
+[1733] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 24 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 26 damage.
+Round 4: fifthtoast wins the fight!
+You gain 51 Meat
+You gain 14 Strongness
+You gain 25 Wizardliness
+You gain 14 Roguishness
+
+[1734] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 27 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 29 damage.
+Round 4: fifthtoast wins the fight!
+You gain 52 Meat
+You gain 15 Strongness
+You gain 24 Magicalness
+You gain 13 Smarm
+
+[1735] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1736] The Lower Chambers (Rubble/Bomb)
+You acquire an item: ancient bomb
+
+[1737] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1738] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 2 Piddles for 100 each from 1582182 on 20130615
+You acquire Piddles (2)
+
+use 2 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22CSA+bravery+badge%22
+
+buy 1 CSA bravery badge for 100 each from 1721904 on 20130615
+You acquire an item: CSA bravery badge
+
+buy 1 CSA bravery badge for 100 each from 1064819 on 20130615
+You acquire an item: CSA bravery badge
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+[1739] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1740] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1741] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1742] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1743] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1744] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1745] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1746] The Lower Chambers (Rubble/Bomb)
+Encounter: The Ancient Buried Pyramid
+
+[1747] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 26 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 25 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: unidentified jerky
+You acquire an item: ancient Magi-Wipes
+You acquire an item: ancient vinyl coin purse
+You gain 7 Fortitude
+You gain 32 Magicalness
+You gain 10 Chutzpah
+
+[1748] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 52 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 52 damage.
+Round 4: fifthtoast wins the fight!
+You gain 59 Meat
+You acquire an item: canopic jar
+You acquire an item: mummy wrapping
+You acquire an item: ancient protein powder
+You gain 10 Fortitude
+You gain 29 Enchantedness
+You gain 10 Sarcasm
+
+[1749] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1750] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 25 damage.
+Round 3: tomb bat takes 3 damage.
+Round 3: tomb bat takes 2 damage.
+Round 3: tomb bat takes 3 damage.
+You lose 33 hit points
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 29 damage.
+Round 4: fifthtoast wins the fight!
+You gain 50 Meat
+You acquire an item: mummy wrapping
+You gain 14 Strengthliness
+You gain 30 Enchantedness
+You gain a Mysticality point!
+You gain 8 Smarm
+
+[1751] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast loses initiative!
+Round 1: iiti kitty takes 1 damage.
+Round 1: iiti kitty takes 5 damage.
+Round 1: iiti kitty takes 3 damage.
+You lose 28 hit points
+
+[1752] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 89 hit points
+You gain 99 Mana Points
+
+[1752] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: tomb servant takes 2 damage.
+Round 2: tomb servant takes 1 damage.
+Round 2: tomb servant takes 4 damage.
+You lose 25 hit points
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 52 damage.
+Round 3: tomb servant takes 2 damage.
+Round 3: tomb servant takes 1 damage.
+Round 3: tomb servant takes 5 damage.
+You lose 26 hit points
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 48 damage.
+Round 4: fifthtoast wins the fight!
+You gain 46 Meat
+You acquire an item: canopic jar
+You acquire an item: mummy wrapping
+You gain 13 Strongness
+You gain 21 Wizardliness
+You gain 14 Roguishness
+
+[1753] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: iiti kitty takes 1 damage.
+Round 2: iiti kitty takes 6 damage.
+Round 2: iiti kitty takes 5 damage.
+You lose 18 hit points
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 23 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 24 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: ancient Magi-Wipes
+You acquire an item: mummy wrapping
+You gain 11 Strengthliness
+You gain 28 Wizardliness
+You gain 11 Roguishness
+You gain a Moxie point!
+
+[1754] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 27 damage.
+Round 3: iiti kitty takes 2 damage.
+Round 3: iiti kitty takes 7 damage.
+Round 3: iiti kitty takes 5 damage.
+You lose 28 hit points
+
+[1755] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 88 hit points
+You gain 99 Mana Points
+
+use 1 twinkly wad
+You gain 1 Adventure
+You gain 9 Strengthliness
+You gain 11 Magicalness
+You gain 9 Cheek
+You acquire an effect: Aspect of the Twinklefairy (duration: 10 Adventures)
+
+[1755] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast uses the effervescent potion!
+Round 2: tomb servant takes 3 damage.
+Round 2: tomb servant takes 1 damage.
+Round 2: tomb servant takes 4 damage.
+You lose 22 hit points
+Round 2: fifthtoast uses the swirly potion!
+Round 3: fifthtoast uses the bubbly potion!
+Round 4: tomb servant takes 3 damage.
+Round 4: tomb servant takes 1 damage.
+Round 4: tomb servant takes 4 damage.
+You lose 18 hit points
+Round 4: fifthtoast uses the dark potion!
+Round 5: tomb servant drops 3 attack power.
+Round 5: tomb servant drops 3 defense.
+Round 5: fifthtoast uses the fizzy potion!
+Round 6: tomb servant takes 1 damage.
+Round 6: tomb servant takes 1 damage.
+Round 6: tomb servant takes 5 damage.
+You lose 36 hit points
+Round 6: fifthtoast uses the milky potion!
+Round 7: fifthtoast uses the murky potion!
+Round 8: fifthtoast jiggles the Staff of the Healthy Breakfast
+Round 9: You jiggle the staff.  A tendril of egg yolk emerges from the end of it and vanishes into your chest.  You feel better, but your opponent looks pretty disgusted.
+Round 9: You gain 15 hit points.
+Round 9: fifthtoast executes a macro!
+Round 9: fifthtoast casts CURDLE!
+Round 10: tomb servant takes 74 damage.
+Round 10: tomb servant takes 1 damage.
+Round 10: tomb servant takes 1 damage.
+Round 10: tomb servant takes 4 damage.
+You lose 40 hit points
+
+[1756] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 89 hit points
+You gain 99 Mana Points
+
+[1756] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: tomb bat takes 2 damage.
+Round 2: tomb bat takes 4 damage.
+Round 2: tomb bat takes 5 damage.
+You lose 27 hit points
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 24 damage.
+Round 3: tomb bat takes 3 damage.
+Round 3: tomb bat takes 2 damage.
+Round 3: tomb bat takes 3 damage.
+You lose 28 hit points
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 250 damage.
+Round 4: tomb bat takes 25 damage.
+Round 4: fifthtoast wins the fight!
+You gain 57 Meat
+You gain 11 Beefiness
+You gain 37 Wizardliness
+You gain 7 Cheek
+
+[1757] Rest in your dwelling
+You gain 88 hit points
+You gain 1 Mana Point
+
+use 1 milky potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #172/1200:
+Question: What did Professor Grant Cooper, mayor of Llewllamarall, find when he opened the time capsule that had been buried under a caribou on Frankruary 1st, 1934?
+Answer: A real-estate agent.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #420/1200:
+Question: According to <u>Secrets of the Ruby Chipmunks</u>, the book of prophecies revered by worshipers of The Black Necromancer Goldthwait, when was Dave, Grand Duchess of Rubynotch, supposed to have enslaved us all?
+Answer: Frankruary 3, 1923.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #612/1200:
+Question: Who won the platinum medal for hyperball in the 1927 Olympics?
+Answer: Lady Hilary V.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #920/1200:
+Question: Where was Romeo VI, Duchess of Limberford, married?
+Answer: Quirm, Coney Island.
+
+[1757] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: tomb servant takes 3 damage.
+Round 2: tomb servant takes 1 damage.
+Round 2: tomb servant takes 5 damage.
+You lose 13 hit points
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 46 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 44 damage.
+Round 4: fifthtoast wins the fight!
+You gain 53 Meat
+You acquire an item: canopic jar
+You gain 16 Strengthliness
+You gain 19 Mysteriousness
+You gain 13 Roguishness
+
+[1758] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 50 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 54 damage.
+Round 4: fifthtoast wins the fight!
+You gain 47 Meat
+You acquire an item: canopic jar
+You acquire an item: unidentified jerky
+You acquire an item: mummy wrapping
+You gain 7 Fortitude
+You gain 33 Enchantedness
+You gain 9 Smarm
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 2 Piddles for 100 each from 1582182 on 20130615
+You acquire Piddles (2)
+
+use 2 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22resolution%3A+be+feistier%22
+
+buy 2 resolution: be feistier for 100 each from 2312062 on 20130615
+You acquire resolution: be feistier (2)
+
+use 2 resolution: be feistier
+You acquire an effect: Destructive Resolve (duration: 40 Adventures)
+
+[1759] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: tomb bat takes 3 damage.
+Round 2: tomb bat takes 6 damage.
+Round 2: tomb bat takes 3 damage.
+You lose 16 hit points
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 26 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 25 damage.
+Round 4: fifthtoast wins the fight!
+You gain 58 Meat
+You gain 14 Strengthliness
+You gain a Muscle point!
+You gain 28 Magicalness
+You gain 11 Cheek
+
+[1760] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 23 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 22 damage.
+Round 4: fifthtoast wins the fight!
+You gain 13 Strongness
+You gain 21 Wizardliness
+You gain 15 Roguishness
+
+[1761] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 27 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 25 damage.
+Round 4: fifthtoast wins the fight!
+You gain 8 Fortitude
+You gain 25 Mysteriousness
+You gain 16 Sarcasm
+
+[1762] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1763] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: tomb servant takes 2 damage.
+Round 2: tomb servant takes 1 damage.
+Round 2: tomb servant takes 4 damage.
+You lose 16 hit points
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 46 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 42 damage.
+Round 4: fifthtoast wins the fight!
+You gain 45 Meat
+You acquire an item: ancient protein powder
+You gain 11 Fortitude
+You gain 26 Magicalness
+You gain 12 Smarm
+
+use 1 twinkly wad
+You gain 1 Adventure
+You gain 10 Muscleboundness
+You gain 9 Wizardliness
+You gain a Mysticality point!
+You gain 8 Roguishness
+You acquire an effect: Aspect of the Twinklefairy (duration: 10 Adventures)
+
+[1764] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 48 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 50 damage.
+Round 4: fifthtoast wins the fight!
+You gain 42 Meat
+You gain 17 Strengthliness
+You gain 24 Enchantedness
+You gain 8 Cheek
+
+[1765] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 48 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 44 damage.
+Round 4: fifthtoast wins the fight!
+You gain 54 Meat
+You gain 10 Beefiness
+You gain 32 Wizardliness
+You gain 6 Roguishness
+
+use 1 milky potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+[1766] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1767] The Lower Chambers (Empty/Empty/Ed's Chamber)
+
+[1768] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1769] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 24 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 26 damage.
+Round 4: fifthtoast wins the fight!
+You gain 52 Meat
+You gain 12 Beefiness
+You gain 21 Magicalness
+You gain 19 Roguishness
+
+[1770] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1771] The Lower Chambers (Rubble/Bomb)
+
+[1772] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1773] The Lower Chambers (Token/Empty)
+You acquire an item: ancient bronze token
+
+use 1 twinkly wad
+You gain 1 Adventure
+You gain 10 Strengthliness
+You gain 9 Wizardliness
+You gain 9 Smarm
+You acquire an effect: Aspect of the Twinklefairy (duration: 10 Adventures)
+
+[1774] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 50 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 250 damage.
+Round 4: tomb servant takes 48 damage.
+Round 4: fifthtoast wins the fight!
+You gain 44 Meat
+You acquire an item: ancient ice cream scoop
+You gain 8 Fortitude
+You gain 29 Wizardliness
+You gain 12 Smarm
+
+[1775] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 29 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 26 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: leathery cat skin
+You acquire an item: Iiti Kitty phone charm
+You acquire an item: ancient Magi-Wipes
+You acquire an item: ancient vinyl coin purse
+You gain 14 Fortitude
+You gain 29 Enchantedness
+You gain 8 Cheek
+
+use 1 milky potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+[1776] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 22 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 24 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: leathery cat skin
+You acquire an item: ancient Magi-Wipes
+You acquire an item: ancient vinyl coin purse
+You gain 10 Beefiness
+You gain 30 Magicalness
+You gain 10 Cheek
+
+[1777] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: tomb bat takes 3 damage.
+Round 2: tomb bat takes 4 damage.
+Round 2: tomb bat takes 4 damage.
+You lose 15 hit points
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 24 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 23 damage.
+Round 4: fifthtoast wins the fight!
+You gain 57 Meat
+You gain 8 Muscleboundness
+You gain 32 Mysteriousness
+You gain 13 Smarm
+
+[1778] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 24 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 26 damage.
+Round 4: fifthtoast wins the fight!
+You gain 54 Meat
+You acquire an item: mummy wrapping
+You gain 13 Beefiness
+You gain 18 Magicalness
+You gain 21 Smarm
+You gain a Moxie point!
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 2 Piddles for 100 each from 1582182 on 20130615
+You acquire Piddles (2)
+
+use 2 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22CSA+bravery+badge%22
+
+buy 2 CSA bravery badge for 100 each from 1064819 on 20130615
+You acquire CSA bravery badge (2)
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+[1779] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 26 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 250 damage.
+Round 4: tomb bat takes 26 damage.
+Round 4: fifthtoast wins the fight!
+You gain 54 Meat
+You gain 12 Beefiness
+You gain 25 Enchantedness
+You gain 17 Chutzpah
+
+[1780] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+
+[1780] Rest in your dwelling
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1781] Rest in your dwelling
+You gain 90 hit points
+You gain 121 Mana Points
+
+use 1 scroll of drastic healing
+
+[1781] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 50 damage.
+Round 3: tomb servant takes 3 damage.
+Round 3: tomb servant takes 1 damage.
+Round 3: tomb servant takes 5 damage.
+You lose 16 hit points
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 50 damage.
+Round 4: fifthtoast wins the fight!
+You gain 45 Meat
+You acquire an item: canopic jar
+You gain 17 Muscleboundness
+You gain 22 Magicalness
+You gain a Mysticality point!
+You gain 9 Chutzpah
+
+[1782] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 46 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 250 damage.
+Round 4: tomb servant takes 44 damage.
+Round 4: fifthtoast wins the fight!
+You gain 52 Meat
+You acquire an item: ancient protein powder
+You gain 10 Strongness
+You gain a Muscle point!
+You gain 28 Mysteriousness
+You gain 12 Smarm
+
+[1783] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 27 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 27 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: leathery cat skin
+You acquire an item: unidentified jerky
+You gain 14 Beefiness
+You gain 21 Magicalness
+You gain 13 Sarcasm
+
+use 1 twinkly wad
+You gain 1 Adventure
+You gain 9 Beefiness
+You gain 8 Mysteriousness
+You gain 9 Cheek
+You acquire an effect: Aspect of the Twinklefairy (duration: 10 Adventures)
+
+[1784] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1785] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 25 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 25 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: ancient Magi-Wipes
+You gain 9 Fortitude
+You gain 27 Enchantedness
+You gain 14 Chutzpah
+
+use 1 milky potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #117/1200:
+Question: What did Dr. Carl Harris, mayor of Llewllamarall, find when he opened the time capsule that had been buried under the Emperor on Jarlsuary 1st, 2054?
+Answer: A pope.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #587/1200:
+Question: According to <u>Lions of the Street Samurai's Wizard</u>, the book of prophecies revered by worshipers of The Devil Sorcerer Xxyrg, when was Grimtooth the Skull Bugbear supposed to walk the earth, destroying all the works of man?
+Answer: 1433.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #681/1200:
+Question: Who wrote the absurd short-story collection <u>Planet of the Dungeonmaster's Embers</u>?
+Answer: A construction worker named Terry Wilson.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1153/1200:
+Question: Where was the Archduke of Waxtoff crappo bappoed for the crime of spitting on a bishop?
+
+[1786] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1787] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 44 damage.
+Round 3: tomb servant takes 3 damage.
+Round 3: tomb servant takes 1 damage.
+Round 3: tomb servant takes 5 damage.
+You lose 14 hit points
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 46 damage.
+Round 4: fifthtoast wins the fight!
+You gain 50 Meat
+You gain 9 Fortitude
+You gain 28 Wizardliness
+You gain 12 Sarcasm
+
+[1788] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 24 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 27 damage.
+Round 4: fifthtoast wins the fight!
+You gain 52 Meat
+You gain 15 Strongness
+You gain 26 Enchantedness
+You gain 12 Smarm
+
+[1789] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 23 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 23 damage.
+Round 4: fifthtoast wins the fight!
+You gain 12 Strengthliness
+You gain 28 Magicalness
+You gain 10 Chutzpah
+
+[1790] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1791] The Lower Chambers (Rubble/Bomb)
+You acquire an item: ancient bomb
+
+[1792] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 25 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 25 damage.
+Round 4: fifthtoast wins the fight!
+You gain 40 Meat
+You acquire an item: unidentified jerky
+You acquire an item: mummy wrapping
+You gain 9 Muscleboundness
+You gain 32 Mysteriousness
+You gain 13 Chutzpah
+
+[1793] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 52 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 56 damage.
+Round 4: fifthtoast wins the fight!
+You gain 52 Meat
+You acquire an item: canopic jar
+You gain 7 Fortitude
+You gain 29 Magicalness
+You gain 12 Smarm
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22twinkly+wad%22
+
+buy 1 twinkly wad for 330 each from 312759 on 20130615
+You acquire an item: twinkly wad
+
+use 1 twinkly wad
+You gain 1 Adventure
+You gain 10 Strongness
+You gain 9 Mysteriousness
+You gain 10 Roguishness
+You acquire an effect: Aspect of the Twinklefairy (duration: 10 Adventures)
+
+[1794] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 24 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 24 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: leathery cat skin
+You gain 12 Strongness
+You gain 26 Wizardliness
+You gain a Mysticality point!
+You gain 13 Cheek
+
+[1795] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 23 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 24 damage.
+Round 4: fifthtoast wins the fight!
+You gain 12 Muscleboundness
+You gain 27 Wizardliness
+You gain 12 Roguishness
+
+use 1 milky potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+[1796] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 26 damage.
+Round 3: tomb bat takes 2 damage.
+Round 3: tomb bat takes 8 damage.
+Round 3: tomb bat takes 5 damage.
+You lose 16 hit points
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 250 damage.
+Round 4: tomb bat takes 25 damage.
+Round 4: fifthtoast wins the fight!
+You gain 51 Meat
+You acquire an item: leathery bat skin
+You gain 11 Beefiness
+You gain 30 Magicalness
+You gain 12 Cheek
+You gain a Moxie point!
+
+[1797] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 26 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 23 damage.
+Round 4: fifthtoast wins the fight!
+You gain 42 Meat
+You gain 13 Strengthliness
+You gain 22 Magicalness
+You gain 16 Smarm
+
+[1798] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 2 Piddles for 100 each from 1582182 on 20130615
+You acquire Piddles (2)
+
+use 2 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22resolution%3A+be+feistier%22
+
+buy 2 resolution: be feistier for 100 each from 2312062 on 20130615
+You acquire resolution: be feistier (2)
+
+use 2 resolution: be feistier
+You acquire an effect: Destructive Resolve (duration: 40 Adventures)
+
+[1799] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 25 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 25 damage.
+Round 4: fifthtoast wins the fight!
+You gain 50 Meat
+You gain 9 Strengthliness
+You gain 29 Enchantedness
+You gain 16 Cheek
+
+[1800] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 24 damage.
+Round 3: iiti kitty takes 2 damage.
+Round 3: iiti kitty takes 4 damage.
+Round 3: iiti kitty takes 5 damage.
+You lose 13 hit points
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 250 damage.
+Round 4: iiti kitty takes 25 damage.
+Round 4: fifthtoast wins the fight!
+You gain 11 Strengthliness
+You gain 26 Mysteriousness
+You gain 12 Chutzpah
+
+[1801] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast loses initiative!
+Unexpected error, debug log printed.
+Unexpected error, debug log printed.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 24 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 23 damage.
+Round 4: fifthtoast wins the fight!
+You gain 52 Meat
+You acquire an item: mummy wrapping
+You gain 12 Strongness
+You gain 28 Wizardliness
+You gain 13 Cheek
+
+[1802] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 48 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 46 damage.
+Round 4: fifthtoast wins the fight!
+You gain 48 Meat
+You acquire an item: mummy wrapping
+You acquire an item: ancient protein powder
+You gain 18 Strongness
+You gain a Muscle point!
+You gain 19 Enchantedness
+You gain 11 Chutzpah
+
+[1803] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 22 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 24 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: unidentified jerky
+You acquire an item: mummy wrapping
+You gain 17 Muscleboundness
+You gain 19 Wizardliness
+You gain 13 Sarcasm
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22twinkly+wad%22
+
+buy 1 twinkly wad for 330 each from 312759 on 20130615
+You acquire an item: twinkly wad
+
+use 1 twinkly wad
+You gain 1 Adventure
+You gain 10 Fortitude
+You gain 11 Wizardliness
+You gain 9 Cheek
+You acquire an effect: Aspect of the Twinklefairy (duration: 10 Adventures)
+
+[1804] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 27 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 25 damage.
+Round 4: fifthtoast wins the fight!
+You gain 49 Meat
+You acquire an item: leathery bat skin
+You gain 13 Fortitude
+You gain 29 Wizardliness
+You gain 11 Cheek
+
+[1805] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 25 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 26 damage.
+Round 4: fifthtoast wins the fight!
+You gain 47 Meat
+You gain 8 Fortitude
+You gain 33 Magicalness
+You gain a Mysticality point!
+You gain 12 Sarcasm
+
+use 1 milky potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+[1806] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1807] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 44 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 44 damage.
+Round 4: fifthtoast wins the fight!
+You gain 54 Meat
+You gain 10 Strongness
+You gain 32 Wizardliness
+You gain 7 Cheek
+
+[1808] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: iiti kitty takes 1 damage.
+Round 2: iiti kitty takes 10 damage.
+Round 2: iiti kitty takes 5 damage.
+You lose 16 hit points
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 22 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 25 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: ancient Magi-Wipes
+You acquire an item: mummy wrapping
+You gain 12 Muscleboundness
+You gain 29 Enchantedness
+You gain 10 Cheek
+
+[1809] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 52 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 250 damage.
+Round 4: tomb servant takes 54 damage.
+Round 4: fifthtoast wins the fight!
+You gain 45 Meat
+You gain 16 Strongness
+You gain 19 Enchantedness
+You gain 14 Smarm
+
+[1810] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 48 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 48 damage.
+Round 4: fifthtoast wins the fight!
+You gain 49 Meat
+You acquire an item: canopic jar
+You acquire an item: ancient protein powder
+You gain 13 Strengthliness
+You gain 21 Wizardliness
+You gain 14 Cheek
+
+[1811] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 44 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 48 damage.
+Round 4: fifthtoast wins the fight!
+You gain 51 Meat
+You acquire an item: mummy wrapping
+You gain 14 Fortitude
+You gain 26 Mysteriousness
+You gain 8 Sarcasm
+
+[1812] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: tomb bat takes 3 damage.
+Round 2: tomb bat takes 3 damage.
+Round 2: tomb bat takes 4 damage.
+You lose 18 hit points
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 26 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 24 damage.
+Round 4: fifthtoast wins the fight!
+You gain 47 Meat
+You acquire an item: mummy wrapping
+You gain 15 Beefiness
+You gain 24 Mysteriousness
+You gain 14 Smarm
+
+[1813] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 75 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 25 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 23 damage.
+Round 4: fifthtoast wins the fight!
+You gain 50 Meat
+You gain 16 Strongness
+You gain 26 Enchantedness
+You gain 11 Roguishness
+
+buy 1 twinkly wad for 330 each from 312759 on 20130615
+You acquire an item: twinkly wad
+
+use 1 twinkly wad
+You gain 1 Adventure
+You gain 8 Strongness
+You gain 11 Magicalness
+You gain 10 Smarm
+You gain a Moxie point!
+You acquire an effect: Aspect of the Twinklefairy (duration: 10 Adventures)
+
+[1814] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 22 damage.
+Round 3: iiti kitty takes 2 damage.
+Round 3: iiti kitty takes 7 damage.
+Round 3: iiti kitty takes 4 damage.
+You lose 14 hit points
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 21 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: ancient Magi-Wipes
+You gain 10 Beefiness
+You gain 26 Wizardliness
+You gain 14 Sarcasm
+
+[1815] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 75 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 29 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 27 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: leathery cat skin
+You acquire an item: unidentified jerky
+You acquire an item: ancient Magi-Wipes
+You gain 10 Beefiness
+You gain a Muscle point!
+You gain 28 Mysteriousness
+You gain 13 Cheek
+
+use 1 milky potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #120/1200:
+Question: What was needed to defeat The Evil Giant Goldthwait in level 2, "Claw Stingray Point", in the popular video game "Pokemann Zone XVII"?
+Answer: A house belonging to the Vice-Archduke of Pucehawk.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #309/1200:
+Question: When did the Invisible Police Action of The village of Madlib begin?
+Answer: Never.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #814/1200:
+Question: What player for the Prefectford Orwellian Hobos was inducted into the Hall of Fame for his or her last-second epiphany in the 1974 pole-vaulting championship?
+Answer: Slim, the last Prince of Shaffly-on-Surrey.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1188/1200:
+Question: Where was Nicky I, Duchess of Burglechester, elected?
+Answer: In an ironmongery in Stoatsford.
+
+[1816] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 46 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 48 damage.
+Round 4: fifthtoast wins the fight!
+You gain 48 Meat
+You acquire an item: canopic jar
+You gain 11 Fortitude
+You gain 24 Mysteriousness
+You gain 14 Roguishness
+
+[1817] The Middle Chamber
+Encounter: Iiti Kitty
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: iiti kitty takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: iiti kitty takes 26 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: iiti kitty takes 125 damage.
+Round 4: iiti kitty takes 26 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: leathery cat skin
+You acquire an item: ancient Magi-Wipes
+You acquire an item: mummy wrapping
+You gain 15 Strengthliness
+You gain 25 Magicalness
+You gain a Mysticality point!
+You gain 9 Sarcasm
+
+[1818] The Middle Chamber
+Encounter: tomb servant
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb servant takes 74 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb servant takes 50 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb servant takes 125 damage.
+Round 4: tomb servant takes 48 damage.
+Round 4: fifthtoast wins the fight!
+You gain 58 Meat
+You acquire an item: canopic jar
+You acquire an item: mummy wrapping
+You gain 13 Strengthliness
+You gain 24 Mysteriousness
+You gain 12 Cheek
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 2 Piddles for 100 each from 1582182 on 20130615
+You acquire Piddles (2)
+
+use 2 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22CSA+bravery+badge%22
+
+buy 2 CSA bravery badge for 100 each from 1064819 on 20130615
+You acquire CSA bravery badge (2)
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+use 1 CSA bravery badge
+You acquire an effect: Standard Issue Bravery (duration: 20 Adventures)
+
+[1819] The Middle Chamber
+Encounter: tomb bat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: tomb bat takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: tomb bat takes 27 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: tomb bat takes 125 damage.
+Round 4: tomb bat takes 28 damage.
+Round 4: fifthtoast wins the fight!
+You gain 52 Meat
+You acquire an item: unidentified jerky
+You gain 17 Strongness
+You gain 22 Magicalness
+You gain 13 Smarm
+
+[1820] The Middle Chamber
+Encounter: Wheel in the Pyramid, Keep on Turning
+Took choice 135/1: Turn the wheel
+choice.php?pwd&whichchoice=135&option=1&choiceform1=Turn+the+wheel
+
+[1821] The Lower Chambers (Empty/Empty/Ed's Chamber)
+
+[1822] The Lower Chambers (Empty/Rubble)
+Encounter: Ed the Undying
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: ed the undying (1) takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: ed the undying (1) takes 23 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: ed the undying (1) takes 125 damage.
+Round 4: ed the undying (1) takes 24 damage.
+Round 4: fifthtoast jiggles the Staff of the Healthy Breakfast
+Round 5: You jiggle the staff.  A tendril of egg yolk emerges from the end of it and vanishes into your chest.  You feel better, but your opponent looks pretty disgusted.
+Round 5: You gain 11 hit points.
+Round 5: ed the undying (1) takes 24 damage.
+Round 5: fifthtoast casts BOIL!
+Round 6: ed the undying (1) takes 125 damage.
+Round 6: ed the undying (1) takes 24 damage.
+Round 6: fifthtoast wins the fight!
+You gain 26 Strengthliness
+You gain 42 Magicalness
+You gain 17 Roguishness
+Encounter: Ed the Undying
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: ed the undying (2) takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: ed the undying (2) takes 23 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: ed the undying (2) takes 125 damage.
+Round 4: ed the undying (2) takes 23 damage.
+Round 4: fifthtoast jiggles the Staff of the Healthy Breakfast
+Round 5: You jiggle the staff.  A tendril of egg yolk emerges from the end of it and vanishes into your chest.  You feel better, but your opponent looks pretty disgusted.
+Round 5: You gain 12 hit points.
+Round 5: ed the undying (2) takes 24 damage.
+Round 5: fifthtoast casts BOIL!
+Round 6: ed the undying (2) takes 125 damage.
+Round 6: ed the undying (2) takes 22 damage.
+Round 6: fifthtoast wins the fight!
+You gain 23 Fortitude
+You gain 41 Wizardliness
+You gain 21 Sarcasm
+Encounter: Ed the Undying
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: ed the undying (3) takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: ed the undying (3) takes 25 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: ed the undying (3) takes 125 damage.
+Round 4: ed the undying (3) takes 27 damage.
+Round 4: fifthtoast wins the fight!
+You gain 26 Strengthliness
+You gain 39 Magicalness
+You gain 20 Chutzpah
+Encounter: Ed the Undying
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: ed the undying (4) takes 37 damage.
+Round 2: fifthtoast casts BAKE!
+Round 3: ed the undying (4) takes 25 damage.
+Round 3: fifthtoast casts CHOP!
+Round 4: ed the undying (4) takes 125 damage.
+Round 4: ed the undying (4) takes 21 damage.
+Round 4: fifthtoast wins the fight!
+You gain 15 Beefiness
+You gain 46 Magicalness
+You gain 25 Chutzpah
+Encounter: Ed the Undying
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: ed the undying (5) takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 20 Strengthliness
+You gain 43 Magicalness
+You gain a Mysticality point!
+You gain 22 Sarcasm
+Encounter: Ed the Undying
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: ed the undying (6) takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 20 Fortitude
+You gain 44 Magicalness
+You gain 21 Smarm
+You gain a Moxie point!
+Encounter: Ed the Undying
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CURDLE!
+Round 2: ed the undying (7) takes 37 damage.
+Round 2: fifthtoast wins the fight!
+You gain 18 Strongness
+You gain a Muscle point!
+You gain 48 Magicalness
+You gain 20 Roguishness
+You acquire an item: Holy MacGuffin
+You acquire an item: handful of confetti
+
+use 6 handful of confetti
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22twinkly+wad%22
+
+buy 1 twinkly wad for 330 each from 312759 on 20130615
+You acquire an item: twinkly wad
+
+use 1 twinkly wad
+You gain 1 Adventure
+You gain 9 Muscleboundness
+You gain 11 Mysteriousness
+You gain 10 Smarm
+You acquire an effect: Aspect of the Twinklefairy (duration: 10 Adventures)
+
+use 1 milky potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+[1829] Wartime Hippy Camp
+Encounter: You Better Work It
+You gain 70 Fortitude
+
+[1830] Wartime Hippy Camp
+Encounter: Ultimately Lame
+You gain 77 Wizardliness
+
+[1831] Wartime Hippy Camp
+Encounter: My Dog Has No Nose
+You gain 70 Cheek
+
+[1832] Wartime Hippy Camp
+Encounter: You Better Work It
+You gain 70 Strongness
+
+[1833] Wartime Hippy Camp
+Encounter: You Better Work It
+You gain 70 Strongness
+You gain a Muscle point!
+
+[1834] Wartime Hippy Camp
+Encounter: Ultimately Lame
+You gain 77 Mysteriousness
+
+[1835] Wartime Hippy Camp
+Encounter: My Dog Has No Nose
+You gain 70 Cheek
+
+[1836] Wartime Hippy Camp
+Encounter: My Dog Has No Nose
+You gain 70 Cheek
+You gain a Moxie point!
+
+[1837] Wartime Hippy Camp
+Encounter: You Better Work It
+You gain 70 Beefiness
+
+buy 1 twinkly wad for 330 each from 312759 on 20130615
+You acquire an item: twinkly wad
+
+use 1 twinkly wad
+You gain 1 Adventure
+You gain 9 Strongness
+You gain 8 Wizardliness
+You gain 9 Roguishness
+You acquire an effect: Aspect of the Twinklefairy (duration: 10 Adventures)
+
+use 1 milky potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+[1838] Wartime Hippy Camp
+Encounter: You Better Work It
+You gain 70 Strengthliness
+Encounter: You Better Work It
+You gain 70 Fortitude
+You gain a Muscle point!
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 2 Piddles for 100 each from 1582182 on 20130615
+You acquire Piddles (2)
+
+use 2 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22resolution%3A+be+feistier%22
+
+buy 2 resolution: be feistier for 100 each from 2312062 on 20130615
+You acquire resolution: be feistier (2)
+
+use 2 resolution: be feistier
+You acquire an effect: Destructive Resolve (duration: 40 Adventures)
+
+[1840] Wartime Hippy Camp
+Encounter: You Better Work It
+You gain 70 Beefiness
+
+[1840] Wartime Frat House
+Encounter: Know Thine Enemy
+You gain 77 Magicalness
+You gain a Mysticality point!
+
+[1842] Wartime Frat House
+Encounter: V is for Victory
+You gain 70 Muscleboundness
+You gain a Muscle point!
+
+[1843] Wartime Frat House
+Encounter: Know Thine Enemy
+You gain 77 Wizardliness
+
+[1844] Wartime Frat House
+Encounter: Know Thine Enemy
+You gain 77 Mysteriousness
+
+[1845] Wartime Frat House
+Encounter: Of Human Bondage
+You gain 70 Sarcasm
+You lose 10 Meat
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #118/1200:
+Question: What did Isaiah Garfunkel's mom find under the sink on Petember fifth, 1973?
+Answer: A knife belonging to the Pope of Zevroozlchester.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #385/1200:
+Question: When did the Quiet Food Fight of The province of Burblegroat begin?
+Answer: 1634.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #647/1200:
+Question: Who made fun of the aetheric original bucket?
+Answer: King Eustace XII's ferret.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #950/1200:
+Question: Where was the Earl of Marmosettia crucified for the crime of spitting on a bishop?
+Answer: In a comic shop in Reeves.
+
+[1846] Wartime Frat House
+Encounter: V is for Victory
+You gain 70 Fortitude
+Encounter: V is for Victory
+You gain 70 Fortitude
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22twinkly+wad%22
+
+buy 1 twinkly wad for 330 each from 312759 on 20130615
+You acquire an item: twinkly wad
+
+use 1 twinkly wad
+You gain 1 Adventure
+You gain 10 Fortitude
+You gain 10 Enchantedness
+You gain 8 Chutzpah
+You acquire an effect: Aspect of the Twinklefairy (duration: 10 Adventures)
+
+use 1 milky potion of mental acuity
+You acquire an effect: Strange Mental Acuity (duration: 10 Adventures)
+
+[1848] Wartime Frat House
+Encounter: Know Thine Enemy
+You gain 77 Mysteriousness
+You gain a Mysticality point!
+Encounter: V is for Victory
+You gain 70 Strongness
+You gain a Muscle point!
