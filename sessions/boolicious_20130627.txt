@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
                Player Snapshot
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -158,10 +159,18 @@ Visiting Soda Machine in clan rumpus room
 You acquire an item: Marquis de Poivre soda
 Visiting Potted Meat Tree in clan rumpus room
 You gain 988 Meat
+=======
+use 1 cheap toaster
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+>>>>>>> 6dc53d3a7a13a2e9034032883faa08881344852a
 
 Visiting Crimbo Tree in clan VIP lounge
 
 Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+<<<<<<< HEAD
 You acquire an item: stuffed Baron von Ratsworth
 
 Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
@@ -171,6 +180,10 @@ Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
 
 Visiting Looking Glass in clan VIP lounge
 You acquire an item: &quot;DRINK ME&quot; potion
+=======
+
+Visiting Looking Glass in clan VIP lounge
+>>>>>>> 6dc53d3a7a13a2e9034032883faa08881344852a
 
 swimming pool screwaround
 
@@ -183,6 +196,7 @@ Getting out of clan VIP swimming pool
 use 1 Manual of Dexterity
 
 use 1 Chester's bag of candy
+<<<<<<< HEAD
 You acquire an item: marzipan skull
 You acquire an item: Angry Farmer candy
 You acquire Tasty Fun Good rice candy (2)
@@ -192,10 +206,15 @@ use 1 Trivial Avocations board game
 You acquire an item: Trivial Avocations Card: Who?
 You acquire an item: Trivial Avocations Card: Where?
 You acquire an item: Trivial Avocations Card: Who?
+=======
+
+use 1 Trivial Avocations board game
+>>>>>>> 6dc53d3a7a13a2e9034032883faa08881344852a
 
 use 1 creepy voodoo doll
 
 use 1 Taco Dan's Taco Stand Flier
+<<<<<<< HEAD
 You acquire an item: Taco Dan's Taco Stand Chillacious Churro
 
 pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
@@ -2681,3 +2700,7 @@ You gain a Moxie point!
 [16813] Help Richard make bandages (Mysticality) (10 turns)
 You gain 976 Mysteriousness
 You gain a Mysticality point!
+=======
+
+Visiting the Fishing Village on the Secret Tropical Island Volcano Lair
+>>>>>>> 6dc53d3a7a13a2e9034032883faa08881344852a
