@@ -1,0 +1,577 @@
+
+use 1 Frobozz Real-Estate Company Instant House (TM)
+
+[4] Outskirts of The Knob
+Encounter: sleeping Knob Goblin Guard
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: sleeping knob goblin guard takes 154 damage.
+Round 2: fifthtoast wins the fight!
+Your familiar gains a pound: cocopuf, the 2 lb. Cocoabo
+You gain 5 Meat
+You acquire an item: viking helmet
+You gain 22 Strengthliness
+You gain 7 Magicalness
+You gain 10 Sarcasm
+
+cast 1 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 5 Adventures)
+
+[5] Outskirts of The Knob
+Encounter: The Ghost of Dr. Hobo Jones
+You acquire an item: Dr. Hobo's map
+
+use 1 Dr. Hobo's map
+
+[6] Outskirts of The Knob
+Encounter: sleeping Knob Goblin Guard
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: sleeping knob goblin guard takes 173 damage.
+Round 2: fifthtoast wins the fight!
+You gain 4 Meat
+You gain 13 Strengthliness
+You gain 15 Enchantedness
+You gain 12 Roguishness
+
+pull: 5000 Meat
+
+buy 2 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (2)
+You spent 100 Meat
+
+use 1 chewing gum on a string
+You acquire an item: saucepan
+
+use 1 chewing gum on a string
+You acquire an item: disco ball
+
+buy 2 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (2)
+You spent 100 Meat
+
+use 1 chewing gum on a string
+You acquire an item: mariachi hat
+
+use 1 chewing gum on a string
+You acquire an item: ravioli hat
+
+buy 2 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (2)
+You spent 100 Meat
+
+use 1 chewing gum on a string
+You acquire an item: Hollandaise helmet
+
+use 1 chewing gum on a string
+You acquire an item: turtle totem
+
+buy 2 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (2)
+You spent 100 Meat
+
+use 1 chewing gum on a string
+You acquire an item: stolen accordion
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+add to closet: 1 worthless knick-knack
+
+use 1 chewing gum on a string
+You acquire an item: pasta spoon
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 2 worthless items for 2 ten-leaf clovers
+
+buy 1 hermit permit for 100 each from The General Store
+You acquire an item: hermit permit
+You spent 100 Meat
+
+trading 2 worthless items for 2 ten-leaf clovers
+You acquire ten-leaf clover (2)
+
+Use 2 ten-leaf clover
+You acquire disassembled clover (2)
+
+pull: 1 scorpion whip
+
+equip weapon scorpion whip
+
+use 1 Dr. Hobo's map
+
+[7] Haunted Pantry
+Encounter: possessed can of tomatoes
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: possessed can of tomatoes takes 125 damage.
+Round 2: fifthtoast attacks!
+Round 3: possessed can of tomatoes takes 126 damage.
+Round 3: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 3: possessed can of tomatoes drops 1 attack power.
+Round 3: possessed can of tomatoes drops 1 defense.
+Round 3: possessed can of tomatoes takes 25 damage.
+Round 3: fifthtoast wins the fight!
+You gain 2 Meat
+You gain 20 Strengthliness
+You gain 9 Mysteriousness
+You gain 10 Roguishness
+choice.php?forceoption=0
+
+[8] Haunted Pantry
+Encounter: The Baker's Dilemma
+Took choice 114/1: accept cake quest
+choice.php?action=auto?whichchoice=114&option=1&pwd
+You acquire an item: unlit birthday cake
+
+[8] Haunted Pantry
+Encounter: undead elbow macaroni
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: undead elbow macaroni takes 130 damage.
+Round 2: undead elbow macaroni takes 31 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 Meat
+You gain 18 Strongness
+You gain 13 Magicalness
+You gain 9 Cheek
+choice.php?forceoption=0
+
+[9] Haunted Pantry
+Encounter: Oh No, Hobo
+Took choice 115/1: enter combat
+choice.php?action=auto?whichchoice=115&option=1&pwd
+Encounter: drunken half-orc hobo
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: drunken half-orc hobo takes 127 damage.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 12 Meat.
+Round 2: fifthtoast attacks!
+Round 3: drunken half-orc hobo takes 127 damage.
+Round 3: drunken half-orc hobo takes 26 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: Mad Train wine
+You gain 18 Muscleboundness
+You gain 14 Magicalness
+You gain a Mysticality point!
+You gain 8 Roguishness
+
+[10] Haunted Pantry
+Encounter: flame-broiled meat blob
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: flame-broiled meat blob takes 126 damage.
+Round 2: fifthtoast attacks!
+Round 3: flame-broiled meat blob takes 125 damage.
+Round 3: fifthtoast wins the fight!
+Your familiar gains a pound: cocopuf, the 3 lb. Cocoabo
+You gain 19 Meat
+You acquire an item: meat paste
+You gain 19 Beefiness
+You gain 14 Mysteriousness
+You gain 7 Sarcasm
+
+equip weapon cast-iron legacy paddle
+
+buy 5 Ben-Gal™ Balm for 24 each from The General Store
+You acquire Ben-Gal&trade; Balm (5)
+You spent 120 Meat
+
+use 5 Ben-Gal&trade; Balm
+You acquire an effect: Go Get 'Em, Tiger! (duration: 15 Adventures)
+
+cast 1 Seal Clubbing Frenzy
+You acquire an effect: Seal Clubbing Frenzy (duration: 5 Adventures)
+
+[11] Haunted Pantry
+Encounter: Trespasser
+Took choice 117/2: mysticality substats
+choice.php?whichchoice=117&option=2&pwd
+You gain 4 Magicalness
+You lose 2 hit points
+
+[12] Haunted Pantry
+Encounter: Shoe of Many Colors
+You acquire an item: pretentious palette
+
+Visiting the pretentious artist
+
+[13] Sleazy Back Alley
+Encounter: drunken half-orc hobo
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: drunken half-orc hobo takes 193 damage.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 4 damage.
+Round 2: drunken half-orc hobo takes 4 damage.
+Round 2: fifthtoast wins the fight!
+You gain 19 Fortitude
+You gain 15 Enchantedness
+You gain 6 Roguishness
+You gain a Moxie point!
+
+[14] Sleazy Back Alley
+Encounter: They Tried and Pailed
+You acquire an item: pail of pretentious paint
+
+[15] Sleazy Back Alley
+Encounter: drunken half-orc hobo
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: drunken half-orc hobo takes 191 damage.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 6 damage.
+Round 2: drunken half-orc hobo takes 6 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: Mad Train wine
+You acquire an item: moxie weed
+You gain 17 Strengthliness
+You gain 15 Mysteriousness
+You gain 7 Roguishness
+
+Visiting the pretentious artist
+
+[16] Outskirts of The Knob
+Encounter: sleeping Knob Goblin Guard
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+
+[16] Outskirts of The Knob
+Round 1: fifthtoast attacks!
+Round 2: sleeping knob goblin guard takes 194 damage.
+Round 2: fifthtoast wins the fight!
+You gain 6 Meat
+You acquire an item: Knob Goblin scimitar
+You gain 15 Fortitude
+You gain a Muscle point!
+You gain 8 Magicalness
+You gain 16 Chutzpah
+
+[17] Outskirts of The Knob
+Encounter: Brushed off...
+You acquire an item: pretentious paintbrush
+
+[18] Outskirts of The Knob
+Encounter: Up In Their Grill
+Took choice 543/1: unknown
+choice.php?whichchoice=543&option=1&pwd
+You acquire an item: 11-inch knob sausage
+
+[19] Outskirts of The Knob
+Encounter: Sub-Assistant Knob Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: sub-assistant knob mad scientist takes 189 damage.
+Round 2: fifthtoast wins the fight!
+You gain 7 Meat
+You acquire an item: Knob Goblin firecracker
+You gain 21 Beefiness
+You gain 8 Magicalness
+You gain 10 Chutzpah
+
+[20] Outskirts of The Knob
+Encounter: Sub-Assistant Knob Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: sub-assistant knob mad scientist takes 189 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 Meat
+You acquire an item: Knob Goblin firecracker
+You gain 17 Strengthliness
+You gain 11 Enchantedness
+You gain 11 Cheek
+
+[21] Outskirts of The Knob
+Encounter: sleeping Knob Goblin Guard
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: sleeping knob goblin guard takes 199 damage.
+Round 2: fifthtoast wins the fight!
+You gain 5 Meat
+You acquire an item: viking helmet
+You acquire an item: Knob Goblin pants
+You acquire an item: Knob Goblin scimitar
+You gain 20 Strengthliness
+You gain 13 Wizardliness
+You gain 6 Roguishness
+
+[22] Outskirts of The Knob
+Encounter: Knob Goblin Barbecue Team
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: knob goblin barbecue team takes 200 damage.
+Round 2: fifthtoast wins the fight!
+Your familiar gains a pound: cocopuf, the 4 lb. Cocoabo
+You gain 12 Meat
+You acquire an item: bowl of cottage cheese
+You acquire an item: Knob Goblin tongs
+You gain 19 Muscleboundness
+You gain 13 Wizardliness
+You gain 8 Sarcasm
+
+[23] Outskirts of The Knob
+Encounter: Code Red
+You acquire an item: Knob Goblin encryption key
+
+[24] Spooky Forest
+Encounter: bar
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: bar takes 189 damage.
+Round 2: cocopuf coos softly, and nuzzles you with his beak.
+You gain 11 hit points
+You gain 11 Muscularity Points
+Round 2: fifthtoast wins the fight!
+You gain 14 Meat
+You acquire an item: bar skin
+You gain 15 Muscleboundness
+You gain 11 Enchantedness
+You gain 13 Sarcasm
+
+[25] Spooky Forest
+Encounter: warwelf
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: warwelf takes 186 damage.
+Round 2: fifthtoast wins the fight!
+You gain 11 Meat
+You gain 15 Strengthliness
+You gain 7 Magicalness
+You gain 18 Smarm
+choice.php?forceoption=0
+
+[26] Spooky Forest
+Encounter: Arboreal Respite
+Took choice 502/2: gain mosquito larva or spooky mushrooms, gain quest coin, get stats or fight a vampire
+choice.php?pwd&whichchoice=502&option=2
+Encounter: Consciousness of a Stream
+Took choice 505/1: gain mosquito larva then 3 spooky mushrooms
+choice.php?pwd&whichchoice=505&option=1
+You acquire an item: mosquito larva
+You gain 500 Meat
+
+Visiting Bart Ender
+
+[27] Tavern Cellar (row 1, col 4)
+Encounter: drunken rat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: drunken rat takes 183 damage.
+Round 2: fifthtoast wins the fight!
+You gain 9 Meat
+You acquire an item: rat whisker
+You gain 18 Beefiness
+You gain 19 Magicalness
+You gain 5 Smarm
+
+[28] Tavern Cellar (row 1, col 3)
+Encounter: drunken rat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: drunken rat takes 154 damage.
+You lose 1 hit point
+Round 2: fifthtoast uses the Knob Goblin firecracker and uses the Knob Goblin firecracker!
+Round 3: drunken rat takes 2 damage.
+Round 3: drunken rat takes 4 damage.
+Round 3: fifthtoast wins the fight!
+You gain 11 Meat
+You acquire an item: rat whisker
+You gain 17 Beefiness
+You gain 15 Enchantedness
+You gain 10 Cheek
+
+[29] Tavern Cellar (row 1, col 2)
+Encounter: drunken rat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: drunken rat takes 149 damage.
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 2: drunken rat drops 2 attack power.
+Round 2: drunken rat drops 2 defense.
+Round 2: fifthtoast attacks!
+Round 3: drunken rat takes 155 damage.
+Round 3: fifthtoast wins the fight!
+You gain 10 Meat
+You acquire an item: rat whisker
+You acquire an item: rat appendix
+You gain 17 Strongness
+You gain 13 Mysteriousness
+You gain 12 Cheek
+
+[30] Tavern Cellar (row 1, col 1)
+Encounter: drunken rat
+Round 0: fifthtoast loses initiative!
+You lose 1 hit point
+Round 1: fifthtoast attacks!
+Round 2: drunken rat takes 153 damage.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 6 damage.
+Round 2: drunken rat takes 6 damage.
+Round 2: fifthtoast wins the fight!
+You gain 8 Meat
+You acquire an item: rat whisker
+You gain 19 Beefiness
+You gain 8 Mysteriousness
+You gain 14 Sarcasm
+
+[31] Tavern Cellar (row 1, col 1)
+Encounter: The Tavern Cellar
+
+[31] Tavern Cellar (row 2, col 1)
+Encounter: drunken rat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: drunken rat takes 163 damage.
+Round 2: fifthtoast wins the fight!
+You gain 10 Meat
+You acquire an item: rat whisker
+You acquire an item: rat appendix
+You gain 21 Strongness
+You gain 18 Wizardliness
+You gain 3 Smarm
+choice.php?forceoption=0
+
+[32] Tavern Cellar (row 3, col 1)
+Encounter: Those Who Came Before You
+Took choice 510/1: unknown
+choice.php?pwd&whichchoice=510&option=1
+You acquire an item: seal-blubber candle
+You acquire an item: figurine of a wretched-looking seal
+You acquire an item: Ben-Gal&trade; Balm
+You acquire an item: shiny ring
+
+[33] Tavern Cellar (row 4, col 1)
+Encounter: drunken rat
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: drunken rat takes 197 damage.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 7 damage.
+Round 2: drunken rat takes 7 damage.
+Round 2: fifthtoast wins the fight!
+You gain 9 Meat
+You acquire an item: rat whisker
+You gain 20 Muscleboundness
+You gain 15 Wizardliness
+You gain 7 Cheek
+choice.php?forceoption=0
+
+[34] Tavern Cellar (row 5, col 1)
+Encounter: Of Course!
+Took choice 509/1: unknown
+choice.php?pwd&whichchoice=509&option=1
+
+Visiting Bart Ender
+You acquire Typical Tavern swill (3)
+
+Visiting Gunther, Lord of the Smackdown
+
+Visiting Olaf the Janitor
+You acquire an item: Degrassi Knoll shopping list
+
+use 1 Degrassi Knoll shopping list
+
+Visiting Torg, the Trainer
+
+guild.php?action=buyskill&skillid=8
+You learned a new skill: Hide of the Otter
+guild.php?action=buyskill&skillid=9
+You learned a new skill: Claws of the Otter
+guild.php?action=buyskill&skillid=7
+You learned a new skill: Tongue of the Otter
+guild.php?action=buyskill&skillid=3
+You learned a new skill: Thrust-Smack
+guild.php?action=buyskill&skillid=6
+guild.php?action=buyskill&skillid=10
+
+[35] Outskirts of The Knob
+Encounter: Knob Goblin Assistant Chef
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: knob goblin assistant chef takes 161 damage.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 7 damage.
+Round 2: knob goblin assistant chef takes 7 damage.
+Round 2: fifthtoast wins the fight!
+Your familiar gains a pound: cocopuf, the 5 lb. Cocoabo
+You gain 7 Meat
+You acquire an item: Knob Goblin tongs
+You acquire an item: chef's hat
+You gain 22 Strengthliness
+You gain 10 Wizardliness
+You gain 7 Chutzpah
+
+[36] Outskirts of The Knob
+Encounter: Knob Goblin Barbecue Team
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: knob goblin barbecue team takes 164 damage.
+Round 2: fifthtoast wins the fight!
+You gain 9 Meat
+You gain 13 Strongness
+You gain 14 Enchantedness
+You gain 13 Roguishness
+
+[37] Outskirts of The Knob
+Encounter: A Funny Thing Happened...
+You gain 75 Meat
+You lose 1 hit point
+
+[38] Outskirts of The Knob
+Encounter: sleeping Knob Goblin Guard
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+You lose 1 hit point
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 30 Meat.
+Round 2: fifthtoast attacks!
+Round 3: sleeping knob goblin guard takes 161 damage.
+Round 3: fifthtoast wins the fight!
+You gain 5 Meat
+You acquire an item: viking helmet
+You acquire an item: Knob Goblin scimitar
+You gain 19 Beefiness
+You gain 9 Wizardliness
+You gain 10 Smarm
+
+[39] Outskirts of The Knob
+Encounter: Sub-Assistant Knob Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 1: fifthtoast attacks!
+Round 2: sub-assistant knob mad scientist takes 174 damage.
+Round 2: fifthtoast wins the fight!
+You gain 7 Meat
+You acquire an item: Knob Goblin pants
+You acquire an item: Knob Goblin firecracker
+You gain 16 Beefiness
+You gain 16 Enchantedness
+You gain 8 Smarm
+Round 0: fifthtoast attacks!
+Round 0: fifthtoast attacks!
+Round 0: fifthtoast attacks!
+Round 0: fifthtoast attacks!
+Round 0: fifthtoast attacks!
+Visiting the Trapper
+
+Visiting the pretentious artist
+You acquire an item: pail
