@@ -1,0 +1,213 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+July 7, 2013 - Carlvember 2
+
+Ronald: waxing crescent
+Grimace: new moon
+Mini-moon: in front of Grimace, R side
+
+Lab&oacute;r Day: 4 days
+Halloween: 14 days
+Feast of Boris: 21 days
+Yuletide: 26 days
+Festival of Jarlsberg: 31 days
+Valentine's Day: 42 days
+St. Sneaky Pete's Day: 49 days
+Oyster Egg Day: 56 days
+El Dia De Los Muertos Borrachos: 64 days
+Generic Summer Holiday: 73 days
+Dependence Day: 82 days
+Arrrbor Day: 90 days
+
+
+3 days until Mysticism.
+
+
+ > status
+
+Name: fifthtoast
+Class: Seal Clubber
+
+Lv: 15
+HP: 431 / 431
+MP: 182 / 182
+
+Mus: 275 (212), tnp = 245
+Mys: 182 (159), tnp = 73
+Mox: 176 (158), tnp = 161
+
+Advs: 80
+Meat: 4,689
+
+Full: 0 / 15
+Drunk: 0 / 14
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: mesh cap
+Weapon: cast-iron legacy paddle
+Off-hand: (none)
+Shirt: white hat hacker T-shirt
+Pants: black greaves
+
+Acc. 1: Pink Heart of Spirit
+Acc. 2: Orange Star of Sacrifice
+Acc. 3: Pine-Fresh air freshener
+
+Pet: Cocoabo (15 lbs)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+
+Seal Clubber
+ - Claws of the Otter
+ - Clobber
+ - Hide of the Otter
+ - Seal Clubbing Frenzy
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Pastamancer
+ - Cannelloni Cocoon
+ - Entangling Noodles
+ - Lasagna Bandages
+ - Weapon of the Pastalord
+
+Sauceror
+ - Saucy Salve
+
+Disco Bandit
+ - Ambidextrous Funkslinging
+
+Gnome Trainer
+ - Gnomish Hardigness
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +11.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+buy 2 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (2)
+You spent 100 Meat
+
+use 2 chewing gum on a string
+You acquire an item: disco mask
+You acquire an item: worthless trinket
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+add to closet: 1 worthless trinket
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless trinket
+You acquire an item: worthless trinket
+
+trading 2 worthless items for 2 ten-leaf clovers
+You acquire ten-leaf clover (2)
+
+[280] Daily Dungeon (Room 0)
+You lose 221 hit points
+
+[281] Daily Dungeon (Room 2)
+Encounter: Locked Door
+
+[282] Daily Dungeon (Room 3)
+Encounter: Treasure!
+
+[282] Daily Dungeon (Room 4)
+Encounter: dairy ooze
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: dairy ooze takes 159 damage.
+Round 2: fifthtoast wins the fight!
+You gain 14 Meat
+You gain 18 Strongness
+You gain 14 Enchantedness
+You gain 11 Roguishness
+
+[283] Daily Dungeon (Room 5)
+Encounter: Badger Badger Badger Badger
+
+[284] Daily Dungeon (Room 6)
+Encounter: Treasure!
+
+[284] Daily Dungeon (Room 7)
+Encounter: Seriously, I Just Read It For the Articles
+You lose 257 hit points
+
+[285] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 39 hit points
+You gain 40 Muscularity Points
+
+Visiting the Captain of the Gourd
+You acquire an item: gourd potion
+
+use 1 gourd potion
+You gain 31 Strengthliness
+
+use 1 gourd potion
+
+Visiting the Captain of the Gourd
+You acquire an item: gourd potion
+
+use 1 gourd potion
+You gain 32 Strongness
+
+Visiting the Captain of the Gourd
+You acquire an item: gourd potion
+
+use 1 gourd potion
+You gain 30 Strengthliness
+
+Visiting the Captain of the Gourd
+You acquire an item: gourd potion
+
+Visiting the Captain of the Gourd
+
+[286] The Penultimate Fantasy Airship
+Encounter: The Beginning of the End of the Penultimate Fantasy
+choice.php?forceoption=0
+
+[286] The Penultimate Fantasy Airship
+Encounter: Random Lack of an Encounter
+Took choice 182/4: model airship and combat
+choice.php?pwd&whichchoice=182&option=4
+You acquire an item: model airship
+
+cast 1 Cannelloni Cocoon
+You gain 392 hit points
