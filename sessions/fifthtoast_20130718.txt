@@ -344,3 +344,367 @@ You gain 80 Muscularity Points
 [384] Daily Dungeon (Room 1)
 Encounter: Seriously, I Just Read It For the Articles
 You lose 233 hit points
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+July 18, 2013 - Porktober 5
+
+Ronald: full moon
+Grimace: third quarter
+Mini-moon: in front of Grimace, R side
+
+Halloween: 3 days
+Feast of Boris: 10 days
+Yuletide: 15 days
+Festival of Jarlsberg: 20 days
+Valentine's Day: 31 days
+St. Sneaky Pete's Day: 38 days
+Oyster Egg Day: 45 days
+El Dia De Los Muertos Borrachos: 53 days
+Generic Summer Holiday: 62 days
+Dependence Day: 71 days
+Arrrbor Day: 79 days
+Lab&oacute;r Day: 89 days
+
+
+Mysticism bonus today (not tomorrow).
+
+
+ > status
+
+Name: fifthtoast
+Class: Seal Clubber
+
+Lv: 15
+HP: 0 / 250
+MP: 163 / 163
+
+Mus: 158 (217), tnp = 316
+Mys: 94 (163), tnp = 240
+Mox: 93 (161), tnp = 128
+
+Advs: 186
+Meat: 6,270
+
+Full: 0 / 15
+Drunk: 0 / 19
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Snow Queen Crown
+Weapon: cast-iron legacy paddle
+Off-hand: (none)
+Shirt: white hat hacker T-shirt
+Pants: black greaves
+
+Acc. 1: eXtreme mittens
+Acc. 2: Orange Star of Sacrifice
+Acc. 3: ring of gain strength
+
+Pet: Cocoabo (18 lbs)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+
+Seal Clubber
+ - Claws of the Otter
+ - Clobber
+ - Hide of the Otter
+ - Seal Clubbing Frenzy
+ - Thrust-Smack
+ - Tongue of the Otter
+ - Tongue of the Walrus
+
+Pastamancer
+ - Cannelloni Cocoon
+ - Entangling Noodles
+ - Lasagna Bandages
+ - Weapon of the Pastalord
+
+Sauceror
+ - Saucy Salve
+
+Disco Bandit
+ - Ambidextrous Funkslinging
+
+Gnome Trainer
+ - Gnomish Hardigness
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Beaten Up (3)
+Seal Clubbing Frenzy (4)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +6.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[385] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 39 hit points
+You gain 80 Muscularity Points
+
+use 1 Cobb's Knob map
+
+[386] Cobb's Knob Kitchens
+Encounter: Knob Goblin Sous Chef
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: knob goblin sous chef takes 141 damage.
+Round 2: cocopuf coos softly, and nuzzles you with his beak.
+You gain 24 hit points
+You gain 24 Muscularity Points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: knob goblin sous chef takes 158 damage.
+Round 3: fifthtoast wins the fight!
+You gain 17 Meat
+You acquire an item: Knob sausage
+You acquire an item: Knob Goblin spatula
+You gain 15 Fortitude
+You gain 18 Enchantedness
+You gain 11 Chutzpah
+
+Use 1 disassembled clover
+You acquire an item: ten-leaf clover
+
+[387] Cobb's Knob Kitchens
+Encounter: Luck in the Kitchens
+You acquire an item: Knob Kitchen grab-bag
+
+use 1 Knob Kitchen grab-bag
+You acquire an item: spices
+You acquire Knob sausage (2)
+You acquire an item: Knob mushroom
+
+pull: 1 Knob Goblin harem pants, 1 Knob Goblin harem veil
+outfit Knob Goblin Harem Girl Disguise
+
+equip hat mesh cap
+
+equip weapon cast-iron legacy paddle
+
+equip shirt white hat hacker T-shirt
+
+equip pants black greaves
+
+equip acc1 Pink Heart of Spirit
+
+equip acc2 Orange Star of Sacrifice
+
+equip acc3 astral mask
+outfit Knob Goblin Harem Girl Disguise
+
+[388] Cobb's Knob Harem
+Encounter: Plucked
+You lose 3 hit points
+You acquire an effect: Knob Goblin Perfume (duration: 1 Adventure)
+
+use 1 Medicinal Herb's medicinal herbs
+You gain 340 hit points
+
+[389] Throne Room
+Encounter: The Knob Goblin King
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+You lose 3 hit points
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 2: knob goblin king drops 6 attack power.
+Round 2: knob goblin king drops 6 defense.
+Round 2: fifthtoast attacks!
+Round 3: knob goblin king takes 111 damage.
+Round 3: cocopuf coos softly, and nuzzles you with his beak.
+You gain 26 hit points
+You gain 26 Muscularity Points
+Round 3: fifthtoast uses the wussiness potion and uses the Knob Goblin firecracker!
+Round 4: knob goblin king drops 5 attack power.
+Round 4: knob goblin king drops 5 defense.
+Round 4: knob goblin king takes 4 damage.
+Round 4: fifthtoast attacks!
+Round 5: knob goblin king takes 118 damage.
+Round 5: fifthtoast wins the fight!
+You acquire an item: dense meat stack (2)
+You acquire an item: Crown of the Goblin King
+You acquire an item: Cobb's Knob lab key
+You gain 64 Strengthliness
+You gain 21 Enchantedness
+You gain 21 Roguishness
+
+[390] The Penultimate Fantasy Airship
+Encounter: Irritating Series of Random Encounters
+Round 0: fifthtoast loses initiative!
+You lose 39 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: irritating series of random encounters takes 43 damage.
+You lose 39 hit points
+Round 2: fifthtoast attacks!
+Round 3: irritating series of random encounters takes 51 damage.
+You lose 42 hit points
+Round 3: fifthtoast attacks!
+Round 4: irritating series of random encounters takes 56 damage.
+Round 4: cocopuf paws at the ground for a second, and then charges your opponent, bashing them for 19 damage.
+Round 4: irritating series of random encounters takes 19 damage.
+You lose 39 hit points
+Round 4: fifthtoast attacks!
+You lose 3 hit points
+Round 5: cocopuf paws at the ground for a second, and then charges your opponent, bashing them for 21 damage.
+Round 5: irritating series of random encounters takes 21 damage.
+You lose 41 hit points
+Round 5: fifthtoast executes a macro!
+Round 5: fifthtoast attacks!
+Round 6: irritating series of random encounters takes 47 damage.
+You lose 39 hit points
+Round 6: fifthtoast attacks!
+Round 7: irritating series of random encounters takes 44 damage.
+Round 7: fifthtoast wins the fight!
+You gain 151 Meat
+You acquire an item: tiny house
+You gain 29 Fortitude
+You gain 21 Wizardliness
+You gain 15 Smarm
+
+[391] The Penultimate Fantasy Airship
+Encounter: Protagonist
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: protagonist takes 65 damage.
+You lose 37 hit points
+Round 2: fifthtoast attacks!
+Round 3: protagonist takes 67 damage.
+Round 3: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 42 damage. LIMIT BREAK!
+Round 3: protagonist takes 42 damage.
+You lose 39 hit points
+Round 3: fifthtoast attacks!
+Round 4: protagonist takes 57 damage.
+Round 4: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 69 Meat.
+You lose 39 hit points
+Round 4: fifthtoast uses the wussiness potion and uses the Knob Goblin firecracker!
+Round 5: protagonist drops 5 attack power.
+Round 5: protagonist drops 5 defense.
+Round 5: protagonist takes 3 damage.
+Round 5: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 69 Meat.
+Round 5: fifthtoast wins the fight!
+You gain 104 Meat
+You acquire an item: phonics down
+You gain 30 Fortitude
+You gain 17 Enchantedness
+You gain 18 Cheek
+
+use 1 phonics down
+You acquire an effect: Tingly Elbows (duration: 3 Adventures)
+You gain 47 hit points
+You gain 49 Muscularity Points
+Visiting Potted Meat Tree in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Jumping into the Awesome Ball Pit in the clan rumpus room
+
+equip hat mesh cap
+
+equip pants black greaves
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #77/1200:
+Question: What was needed to defeat The Terror Witchlord Hasslehoff in level 2, "The Lost Ruins", in the popular video game "Solid Warfare IX"?
+Answer: A gunsmith.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #435/1200:
+Question: When did Lord Charlie Walker win the Nobel Prize for Phrenology?
+Answer: Last Thursday.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #815/1200:
+Question: Who wrote the children's collection of memoirs <u>Blasphemy of the Solar Raiders</u>?
+Answer: A budgie named Buster.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1130/1200:
+Question: Where did Ol' Tucker Rodriguez, inventor of the aetheric telegraph, lose his virginity?
+Answer: In Sir Ferris Martin's roommate's tallow rending plant.
+
+buy 1 blood of the Wereseal for 500 each from Smacketeria
+You acquire an item: blood of the Wereseal
+You spent 500 Meat
+
+use 1 blood of the Wereseal
+You acquire an effect: Temporary Lycanthropy (duration: 10 Adventures)
+
+buy 5 Ben-Gal™ Balm for 24 each from The General Store
+You acquire Ben-Gal&trade; Balm (5)
+You spent 120 Meat
+
+use 5 Ben-Gal&trade; Balm
+You acquire an effect: Go Get 'Em, Tiger! (duration: 15 Adventures)
+
+[392] The Penultimate Fantasy Airship
+Encounter: Irritating Series of Random Encounters
+Round 0: fifthtoast loses initiative!
+
+use 1 Medicinal Herb's medicinal herbs
+
+mall.php?pudnuggler=herb&category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=3
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: irritating series of random encounters takes 452 damage.
+Round 2: fifthtoast wins the fight!
+You gain 128 Meat
+You acquire an item: tiny house
+You gain 36 Beefiness
+You gain 20 Enchantedness
+You gain 9 Smarm
+
+use 4 tiny house
+You gain 86 hit points
+You gain 94 Muscularity Points
+
+cast 1 Tongue of the Walrus
+You gain 37 hit points
+
+cast 1 Tongue of the Walrus
+You gain 30 hit points
+
+cast 1 Tongue of the Walrus
+You gain 39 hit points
+
+cast 1 Tongue of the Walrus
+You gain 31 hit points
+
+cast 1 Tongue of the Walrus
+You gain 38 hit points
