@@ -1,9 +1,4 @@
 [ default ]
-skill curdle
-skill bake
-skill chop
-skill freeze
-jiggle chefstaff
-skill boil
-skill fry
+attack with weapon
+attack with weapon
 
