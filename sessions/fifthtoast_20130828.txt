@@ -323,3 +323,401 @@ You gain 5 hit points
 You lose an effect: Beaten Up
 You gain 5 hit points
 You gain 5 Mana Points
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+August 28, 2013 - Starch 6
+
+Ronald: waning gibbous
+Grimace: first quarter
+Mini-moon: behind Ronald
+
+Oyster Egg Day: 4 days
+El Dia De Los Muertos Borrachos: 12 days
+Generic Summer Holiday: 21 days
+Dependence Day: 30 days
+Arrrbor Day: 38 days
+Lab&oacute;r Day: 48 days
+Halloween: 58 days
+Feast of Boris: 65 days
+Yuletide: 70 days
+Festival of Jarlsberg: 75 days
+Valentine's Day: 86 days
+St. Sneaky Pete's Day: 93 days
+
+
+3 days until Muscle.
+
+
+ > status
+
+Name: fifthtoast
+Class: Sauceror
+
+Lv: 1
+HP: 8 / 8
+MP: 8 / 8
+
+Mus: 4 (3), tnp = 7
+Mys: 5 (4), tnp = 8
+Mox: 3 (2), tnp = 5
+
+Advs: 33
+Meat: 92
+
+Full: 0 / 15
+Drunk: 0 / 14
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: (none)
+Weapon: saucepan
+Off-hand: (none)
+Shirt: astral shirt
+Pants: old sweatpants
+
+Acc. 1: (none)
+Acc. 2: (none)
+Acc. 3: (none)
+
+Pet: Cocoabo (1 lbs)
+Item: (none)
+
+ > skills
+
+Seal Clubber
+ - Tongue of the Walrus
+
+Pastamancer
+ - Cannelloni Cocoon
+ - Entangling Noodles
+ - Lasagna Bandages
+ - Weapon of the Pastalord
+
+Sauceror
+ - Salsaball
+ - Sauce Contemplation
+ - Saucy Salve
+
+Disco Bandit
+ - Ambidextrous Funkslinging
+
+Gnome Trainer
+ - Gnomish Hardigness
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +1.50
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: When?
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+cast 1 Sauce Contemplation
+You acquire an effect: Saucemastery (duration: 5 Adventures)
+
+Visiting the pretentious artist
+
+Visiting the pretentious artist
+
+[8] The Sleazy Back Alley
+Encounter: 
+
+[8] The Spooky Gravy Barrow
+Encounter: 
+
+[8] The Hallowed Halls
+Encounter: sporto
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast casts SALSABALL!
+Round 2: sporto takes 3 damage.
+Round 2: fifthtoast casts SALSABALL!
+Round 3: sporto takes 4 damage.
+Round 3: fifthtoast wins the fight!
+Your familiar gains a pound: cocopuf, the 2 lb. Cocoabo
+You gain 29 Meat
+You acquire an item: twisted-up wet towel
+You gain 1 Strengthliness
+You gain 2 Wizardliness
+You gain 2 Smarm
+
+equip weapon twisted-up wet towel
+
+[9] The Hallowed Halls
+Encounter: motorhead
+Round 0: fifthtoast loses initiative!
+You lose 3 hit points
+Round 1: fifthtoast attacks!
+Round 2: motorhead takes 1 damage.
+You lose 3 hit points
+Round 2: fifthtoast casts SALSABALL!
+Round 3: motorhead takes 4 damage.
+Round 3: fifthtoast wins the fight!
+You gain 28 Meat
+You acquire an item: hair oil
+You acquire an item: scrap metal
+You gain 1 Strongness
+You gain 3 Magicalness
+You gain 1 Roguishness
+
+use 1 hair oil
+You acquire an effect: Slicked-Back Do (duration: 10 Adventures)
+
+[10] Rest in your dwelling
+You gain 5 hit points
+You gain 5 Mana Points
+
+cast 1 Lasagna Bandages
+You gain 22 hit points
+
+Visiting Gorgonzola, the Chief Chef
+
+pull: 6000 Meat
+
+use 1 astral hot dog dinner
+You acquire astral hot dog (3)
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+add to closet: 1 worthless gewgaw
+
+use 1 chewing gum on a string
+You acquire an item: mariachi hat
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: pasta spoon
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+use 1 chewing gum on a string
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless gewgaw
+You acquire an item: worthless gewgaw
+
+trading 2 worthless items for 2 ten-leaf clovers
+You acquire ten-leaf clover (2)
+
+eat 1 astral hot dog
+You gain 6 Adventures
+You gain 60 Fortitude
+You gain some Muscle points!
+You gain 59 Enchantedness
+You gain some Mysticality points!
+You gain some Levels!
+You gain 60 Sarcasm
+You gain some Moxie points!
+You gain 3 Fullness
+
+[11] The Hallowed Halls
+Encounter: sporto
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast casts SALSABALL!
+Round 2: sporto takes 3 damage.
+You lose 8 hit points
+Round 2: fifthtoast casts SALSABALL!
+Round 3: sporto takes 3 damage.
+You lose 8 hit points
+
+[12] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 5 hit points
+You gain 5 Mana Points
+
+cast 1 Lasagna Bandages
+You gain 27 hit points
+
+[13] The Hallowed Halls
+Encounter: motorhead
+Round 0: fifthtoast loses initiative!
+You lose 7 hit points
+Round 1: fifthtoast casts SALSABALL!
+Round 2: motorhead takes 3 damage.
+You lose 7 hit points
+
+[14] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 3 hit points
+You gain 5 Mana Points
+
+[15] Rest in your dwelling
+You gain 5 hit points
+You gain 5 Mana Points
+Visiting Soda Machine in clan rumpus room
+
+cast 1 Sauce Contemplation
+You acquire an effect: Saucemastery (duration: 5 Adventures)
+
+[16] The Hallowed Halls
+Encounter: dweebie
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast casts SALSABALL!
+Round 2: dweebie takes 3 damage.
+You lose 4 hit points
+Round 2: fifthtoast attacks!
+Round 3: dweebie takes 17 damage.
+Round 3: fifthtoast wins the fight!
+You gain 43 Meat
+You acquire an item: slide rule
+You gain 4 Beefiness
+You gain 6 Mysteriousness
+You gain 1 Roguishness
+
+cast 1 Lasagna Bandages
+You gain 18 hit points
+
+[17] The Hallowed Halls
+Encounter: sporto
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: sporto takes 16 damage.
+Round 2: fifthtoast wins the fight!
+You gain 29 Meat
+You acquire an item: surgical tape
+You gain 1 Fortitude
+You gain 7 Enchantedness
+You gain 4 Cheek
+
+[18] The Hallowed Halls
+Encounter: wastoid
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: wastoid takes 1 damage.
+You lose 4 hit points
+Round 2: fifthtoast casts SALSABALL!
+Round 3: wastoid takes 3 damage.
+Round 3: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 5 damage.
+Round 3: wastoid takes 5 damage.
+Round 3: fifthtoast wins the fight!
+You gain 18 Meat
+You gain 5 Muscleboundness
+You gain a Muscle point!
+You gain 3 Enchantedness
+You gain 3 Sarcasm
+
+[19] The Hallowed Halls
+Encounter: dweebie
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: dweebie takes 1 damage.
+Round 2: fifthtoast casts SALSABALL!
+Round 3: dweebie takes 4 damage.
+Round 3: fifthtoast casts SALSABALL!
+Round 4: dweebie takes 3 damage.
+Round 4: fifthtoast wins the fight!
+Your familiar gains a pound: cocopuf, the 3 lb. Cocoabo
+You gain 37 Meat
+You gain 6 Strongness
+You gain 4 Enchantedness
+You gain a Mysticality point!
+You gain 1 Roguishness
+
+[20] The Hallowed Halls
+Encounter: sporto
+Round 0: fifthtoast loses initiative!
+You lose 4 hit points
+Round 1: fifthtoast attacks!
+Round 2: sporto takes 1 damage.
+You lose 4 hit points
+Round 2: fifthtoast casts SALSABALL!
+Round 3: sporto takes 3 damage.
+You lose 4 hit points
+
+[21] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 4 hit points
+You gain 5 Mana Points
+
+cast 1 Lasagna Bandages
+You gain 28 hit points
+
+[22] The Hallowed Halls
+Encounter: sporto
+Round 0: fifthtoast loses initiative!
+You lose 4 hit points
+Round 1: fifthtoast casts SALSABALL!
+Round 2: sporto takes 3 damage.
+You acquire an intrinsic: Nerd is the Word
+You lose 4 hit points
+Round 2: fifthtoast attacks!
+Round 3: sporto takes 1 damage.
+You lose 4 hit points
+Round 3: fifthtoast casts SALSABALL!
+Round 4: sporto takes 5 damage.
+Round 4: fifthtoast wins the fight!
+You gain 29 Meat
+You acquire an item: twisted-up wet towel
+You acquire an item: stepmom's booze
+You gain 5 Enchantedness
+You gain 2 Roguishness
+
+buy 5 glittery mascara for 24 each from The General Store
+You acquire glittery mascara (5)
+You spent 120 Meat
+
+use 5 glittery mascara
+You acquire an effect: Glittering Eyelashes (duration: 15 Adventures)
+
+cast 1 Sauce Contemplation
+You acquire an effect: Saucemastery (duration: 5 Adventures)
+
+cast 3 Sauce Contemplation
+You acquire an effect: Saucemastery (duration: 15 Adventures)
+
+[23] Rest in your dwelling
+You gain 5 hit points
+You gain 5 Mana Points
+
+[24] Rest in your dwelling
+You gain 4 hit points
+You gain 5 Mana Points
+
+[25] Rest in your dwelling
+You gain 3 hit points
+You gain 5 Mana Points
+
+cast 3 Sauce Contemplation
+You acquire an effect: Saucemastery (duration: 15 Adventures)
+
+cast 3 Sauce Contemplation
+You acquire an effect: Saucemastery (duration: 15 Adventures)
