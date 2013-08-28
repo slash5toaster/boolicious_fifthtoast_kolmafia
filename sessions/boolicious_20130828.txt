@@ -1193,3 +1193,1051 @@ mallsell: 1 Pok&euml;mann figurine: Porkachu, 1 Pok&euml;mann figurine: Shoggoth
 
 manageprices.php?action=update&price0[5100]=9690&limit0[5100]=0&price0[5259]=7000&limit0[5259]=0&price0[5395]=6980&limit0[5395]=0&price0[5099]=6000&limit0[5099]=0&price0[5101]=4500&limit0[5101]=0&price0[6105]=3000&limit0[6105]=0&price0[5088]=1000&limit0[5088]=0&price0[5464]=900&limit0[5464]=0&price0[6239]=875&limit0[6239]=0&price0[1166]=750&limit0[1166]=0&price0[5087]=600&limit0[5087]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[3849]=336&limit0[3849]=0&price0[2680]=300&limit0[2680]=0&price0[5097]=300&limit0[5097]=0&price0[5094]=275&limit0[5094]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[2397]=260&limit0[2397]=0&price0[538]=260&limit0[538]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=3&price0[1840]=200&limit0[1840]=0&price0[5468]=200&limit0[5468]=0&price0[5098]=200&limit0[5098]=0&price0[834]=190&limit0[834]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[218]=155&limit0[218]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[1655]=120&limit0[1655]=0&price0[5466]=111&limit0[5466]=0&price0[3019]=110&limit0[3019]=0&price0[6080]=100&limit0[6080]=0&price0[6077]=100&limit0[6077]=0&price0[5469]=100&limit0[5469]=0&price0[5467]=100&limit0[5467]=0&price0[1]=100&limit0[1]=0&price0[6072]=100&limit0[6072]=0&price0[6073]=100&limit0[6073]=0
 manageprices.php?action=update&price0[5100]=9690&limit0[5100]=0&price0[5259]=7000&limit0[5259]=0&price0[5395]=6980&limit0[5395]=0&price0[5101]=3000&limit0[5101]=0&price0[5099]=1700&limit0[5099]=0&price0[6105]=1175&limit0[6105]=0&price0[5088]=1000&limit0[5088]=0&price0[5464]=900&limit0[5464]=0&price0[6239]=875&limit0[6239]=0&price0[1166]=750&limit0[1166]=0&price0[5087]=600&limit0[5087]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[3849]=336&limit0[3849]=0&price0[5097]=300&limit0[5097]=0&price0[2680]=300&limit0[2680]=0&price0[5094]=275&limit0[5094]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[2397]=260&limit0[2397]=0&price0[538]=260&limit0[538]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[3858]=250&limit0[3858]=3&price0[2979]=250&limit0[2979]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[1840]=200&limit0[1840]=0&price0[5098]=200&limit0[5098]=0&price0[5468]=200&limit0[5468]=0&price0[834]=190&limit0[834]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[218]=155&limit0[218]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[1655]=120&limit0[1655]=0&price0[5466]=111&limit0[5466]=0&price0[3019]=110&limit0[3019]=0&price0[6072]=100&limit0[6072]=0&price0[6080]=100&limit0[6080]=0&price0[6073]=100&limit0[6073]=0&price0[6077]=100&limit0[6077]=0&price0[5469]=100&limit0[5469]=0&price0[5467]=100&limit0[5467]=0&price0[1]=100&limit0[1]=0
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+August 28, 2013 - Starch 6
+
+Ronald: waning gibbous
+Grimace: first quarter
+Mini-moon: behind Ronald
+
+Oyster Egg Day: 4 days
+El Dia De Los Muertos Borrachos: 12 days
+Generic Summer Holiday: 21 days
+Dependence Day: 30 days
+Arrrbor Day: 38 days
+Lab&oacute;r Day: 48 days
+Halloween: 58 days
+Feast of Boris: 65 days
+Yuletide: 70 days
+Festival of Jarlsberg: 75 days
+Valentine's Day: 86 days
+St. Sneaky Pete's Day: 93 days
+
+
+3 days until Muscle.
+
+
+ > status
+
+Name: boolicious
+Class: Accordion Thief
+
+Lv: 28
+HP: 1100 / 1,100
+MP: 1066 / 1,066
+
+Mus: 1,064 (560), tnp = 774
+Mys: 1,066 (592), tnp = 866
+Mox: 1,366 (752), tnp = 1,285
+
+Advs: 139
+Meat: 625,365
+
+Full: 0 / 20
+Drunk: 0 / 14
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: hardened slime hat
+Weapon: skate blade
+Off-hand: wicker shield
+Shirt: letterman's jacket
+Pants: Hodgman's lobsterskin pants
+Container: Misty Cape
+
+Acc. 1: Ol' Scratch's manacles
+Acc. 2: Hodgman's bow tie
+Acc. 3: hardened slime belt
+
+Pet: Angry Jung Man (30 lbs)
+Item: Red Book
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chronic Indigestion
+ - Conjure Relaxing Campfire
+ - Stomach of Steel
+ - Summon Crimbo Candy
+ - Transcendent Olfaction
+
+Seal Clubber
+ - Rage of the Reindeer
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Accordion Thief
+ - Aloysius' Antiphon of Aptitude
+ - Brawnee's Anthem of Absorption
+ - Carlweather's Cantata of Confrontation
+ - Cletus's Canticle of Celerity
+ - Donho's Bubbly Ballad
+ - Fat Leon's Phat Loot Lyric
+ - Jackasses' Symphony of Destruction
+ - Moxie of the Mariachi
+ - Sing
+ - Stevedave's Shanty of Superiority
+ - The Magical Mojomuscular Melody
+ - The Moxious Madrigal
+ - The Ode to Booze
+ - The Polka of Plenty
+ - The Power Ballad of the Arrowsmith
+ - The Psalm of Pointiness
+ - The Sonata of Sneakiness
+ - Ur-Kel's Aria of Annoyance
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Geeky Gifts
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Greedy Resolve
+Destructive Resolve
+Rage of the Reindeer (6)
+Mariachi Mood (6)
+Belch the Rainbow™ (6)
+Irresistible Resolve (16)
+Brilliant Resolve (16)
+Muscle Unbound (56)
+♫ The Sonata of Sneakiness (104)
+Scarysauce (104)
+Ghostly Shell (104)
+Tenacity of the Snapper (104)
+Jingle Jangle Jingle (104)
+Elemental Saucesphere (104)
+Astral Shell (104)
+Reptilian Fortitude (104)
+Jabañero Saucesphere (104)
+Jalapeño Saucesphere (104)
+♫ Stevedave's Shanty of Superiority (104)
+♫ Cringle's Curative Carol (104)
+Empathy (104)
+Silent Running (106)
+
+
+ > modifiers
+
+ML: +0
+Enc: -15.00%
+Init: +0.00%
+
+Exp: +2.00
+Meat: +165.24%
+Item: +67.62%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 4 Summon Resolutions
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be luckier
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be happier
+
+use 12 Marquis de Poivre soda
+You gain 414 Mojo Points
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22black+cherry+soda%22
+
+buy 2 black cherry soda for 80 each from Black Market
+You acquire black cherry soda (2)
+You spent 160 Meat
+
+use 2 black cherry soda
+You gain 21 Mojo Points
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22black+cherry+soda%22
+
+buy 1 black cherry soda for 80 each from Black Market
+You acquire an item: black cherry soda
+You spent 80 Meat
+
+use 1 black cherry soda
+You gain 11 Mojo Points
+
+museum.php?floor=0
+museum.php?floor=0
+museum.php?floor=2
+museum.php?floor=3
+museum.php?floor=4
+museum.php?floor=3&place=leaderboards&whichboard=14
+
+Visiting the Captain of the Gourd
+
+town_right.php?action=jung&whichperson=gourdcaptain
+You acquire an item: jar of psychoses (The Captain of the Gourd)
+
+use 1 jar of psychoses (The Captain of the Gourd)
+
+use 2 resolution: be feistier
+You acquire an effect: Destructive Resolve (duration: 40 Adventures)
+
+use 1 resolution: be wealthier
+You acquire an effect: Greedy Resolve (duration: 20 Adventures)
+choice.php?forceoption=0
+
+[17850] The Gourd!
+Encounter: To Meet a Gourd
+Took choice 619/1: unknown
+choice.php?pwd&whichchoice=619&option=1
+Encounter: tin can conspirator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: tin can conspirator takes 1174 damage.
+Round 2: tin can conspirator drops 11 attack power.
+Round 2: tin can conspirator drops 10 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 21 Meat
+You acquire an item: razor-sharp can lid
+You acquire an item: censored can label
+You gain 2 Muscleboundness
+You gain 4 Mysteriousness
+You gain 5 Smarm
+Encounter: spider conspirator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spider conspirator takes 1164 damage.
+Round 2: spider conspirator drops 12 attack power.
+Round 2: spider conspirator drops 11 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking and dancing are primal, universal symbols for acquiring meat and items, respectively."
+You gain 37 Meat
+You gain 3 Strengthliness
+You gain 4 Mysteriousness
+You gain 5 Chutzpah
+Encounter: goblin conspirator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: goblin conspirator takes 1174 damage.
+Round 2: goblin conspirator drops 12 attack power.
+Round 2: goblin conspirator drops 13 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 58 Meat
+You acquire an item: Knob Goblin firecracker
+You acquire an item: Illuminati earpiece
+You gain 3 Strengthliness
+You gain 4 Enchantedness
+You gain 4 Sarcasm
+Encounter: goblin conspirator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: goblin conspirator takes 1168 damage.
+Round 2: goblin conspirator drops 12 attack power.
+Round 2: goblin conspirator drops 14 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 61 Meat
+You acquire an item: Knob Goblin firecracker
+You acquire an item: Knob Goblin firecracker
+You gain 3 Beefiness
+You gain 5 Enchantedness
+You gain 3 Chutzpah
+Encounter: goblin conspirator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: goblin conspirator takes 1161 damage.
+Round 2: goblin conspirator drops 13 attack power.
+Round 2: goblin conspirator drops 11 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the little dance that I am doing is symbolic of my sublimated desire for material goods," and winks at you.
+You gain 47 Meat
+You acquire an item: Knob Goblin firecracker
+You gain 4 Strengthliness
+You gain 3 Enchantedness
+You gain 4 Chutzpah
+Encounter: goblin conspirator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: goblin conspirator takes 1170 damage.
+Round 2: goblin conspirator drops 13 attack power.
+Round 2: goblin conspirator drops 12 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 45 Meat
+You acquire an item: Illuminati earpiece
+You gain 4 Muscleboundness
+You gain 3 Wizardliness
+You gain 4 Cheek
+
+use 1 Illuminati earpiece
+Encounter: A Blow Is Struck!
+Took choice 620/1: unknown
+choice.php?pwd&whichchoice=620&option=1
+Encounter: spider conspirator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spider conspirator takes 1051 damage.
+Round 2: spider conspirator drops 10 attack power.
+Round 2: spider conspirator drops 15 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 39 Meat
+You acquire an item: spider web
+You gain 2 Strongness
+You gain 7 Wizardliness
+You gain 3 Smarm
+Encounter: spider conspirator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spider conspirator takes 1054 damage.
+Round 2: spider conspirator drops 15 attack power.
+Round 2: spider conspirator drops 14 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "this creature clearly has an unhealthy obsession with material things."
+You gain 45 Meat
+You acquire an item: spider web
+You gain 3 Strengthliness
+You gain 3 Wizardliness
+You gain 5 Smarm
+Encounter: tin can conspirator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 20 hit points
+Round 2: boolicious attacks!
+Round 3: tin can conspirator takes 1046 damage.
+Round 3: tin can conspirator drops 15 attack power.
+Round 3: tin can conspirator drops 11 defense.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 29 Meat
+You acquire an item: razor-sharp can lid
+You acquire an item: razor-sharp can lid
+You gain 4 Mysteriousness
+You gain 5 Roguishness
+Encounter: canned goblin conspirator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: canned goblin conspirator takes 1037 damage.
+Round 2: canned goblin conspirator drops 13 attack power.
+Round 2: canned goblin conspirator drops 13 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking and dancing are primal, universal symbols for acquiring meat and items, respectively."
+You gain 47 Meat
+You acquire an item: Knob Goblin firecracker
+You gain 5 Muscleboundness
+You gain 4 Mysteriousness
+You gain 4 Smarm
+Encounter: tin spider conspirator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: tin spider conspirator takes 1068 damage.
+Round 2: tin spider conspirator drops 14 attack power.
+Round 2: tin spider conspirator drops 14 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the little dance that I am doing is symbolic of my sublimated desire for material goods," and winks at you.
+You gain 53 Meat
+You acquire an item: spider web
+You gain 4 Strengthliness
+You gain 3 Mysteriousness
+You gain 6 Sarcasm
+Encounter: spider-goblin conspirator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spider-goblin conspirator takes 1048 damage.
+Round 2: spider-goblin conspirator drops 12 attack power.
+Round 2: spider-goblin conspirator drops 11 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 66 Meat
+You acquire an item: Knob Goblin firecracker
+You gain 4 Muscleboundness
+You gain 3 Mysteriousness
+You gain 7 Chutzpah
+Encounter: Hold the Line!
+
+cast 2 Moxie of the Mariachi
+
+cast 2 Rage of the Reindeer
+
+use 1 resolution: be sexier
+Took choice 621/2: unknown
+choice.php?pwd&whichchoice=621&option=2
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 395 each from 860777 on 20130828
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+use 1 resolution: be smarter
+You acquire an effect: Brilliant Resolve (duration: 20 Adventures)
+
+use 1 resolution: be sexier
+You acquire an effect: Irresistible Resolve (duration: 20 Adventures)
+
+buy 1 Piddles for 395 each from 860777 on 20130828
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+choice.php?forceoption=0
+
+[17862] The Gourd!
+Encounter: Return To the Fray!
+Took choice 623/1: unknown
+choice.php?pwd&whichchoice=623&option=1
+Encounter: canned goblin conspirator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: canned goblin conspirator takes 1145 damage.
+Round 2: canned goblin conspirator drops 12 attack power.
+Round 2: canned goblin conspirator drops 12 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 55 Meat
+You acquire an item: Knob Goblin firecracker
+You gain 5 Beefiness
+You gain 3 Wizardliness
+You gain 4 Chutzpah
+Encounter: canned goblin conspirator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 19 hit points
+Round 2: boolicious attacks!
+Round 3: canned goblin conspirator takes 1146 damage.
+Round 3: canned goblin conspirator drops 14 attack power.
+Round 3: canned goblin conspirator drops 12 defense.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "the little dance that I am doing is symbolic of my sublimated desire for material goods," and winks at you.
+You gain 53 Meat
+You gain 2 Muscleboundness
+You gain 4 Magicalness
+You gain 7 Roguishness
+Encounter: tin spider conspirator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: tin spider conspirator takes 1169 damage.
+Round 2: tin spider conspirator drops 15 attack power.
+Round 2: tin spider conspirator drops 14 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 55 Meat
+You gain 2 Strongness
+You gain 3 Magicalness
+You gain 8 Cheek
+Encounter: tin spider conspirator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: tin spider conspirator takes 1150 damage.
+Round 2: tin spider conspirator drops 10 attack power.
+Round 2: tin spider conspirator drops 10 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 55 Meat
+You gain 3 Strengthliness
+You gain 6 Wizardliness
+You gain 4 Cheek
+Encounter: canned goblin conspirator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: canned goblin conspirator takes 1154 damage.
+Round 2: canned goblin conspirator drops 12 attack power.
+Round 2: canned goblin conspirator drops 13 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "this creature clearly has an unhealthy obsession with material things."
+You gain 50 Meat
+You acquire an item: razor-sharp can lid
+You gain 2 Beefiness
+You gain 5 Mysteriousness
+You gain 5 Sarcasm
+Encounter: canned goblin conspirator
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: canned goblin conspirator takes 1154 damage.
+Round 2: canned goblin conspirator drops 15 attack power.
+Round 2: canned goblin conspirator drops 13 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 61 Meat
+You acquire an item: razor-sharp can lid
+You gain 2 Muscleboundness
+You gain 4 Mysteriousness
+You gain 6 Roguishness
+Encounter: The Moment of Truth
+Took choice 622/1: unknown
+choice.php?pwd&whichchoice=622&option=1
+Encounter: Fnord the Unspeakable
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CONJURE RELAXING CAMPFIRE!
+Round 2: fnord the unspeakable takes 200 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You acquire an item: spider web
+You acquire an item: razor-sharp can lid
+You acquire an item: Knob Goblin firecracker
+You acquire an item: Knob Goblin firecracker
+You gain 3 Beefiness
+You gain 4 Wizardliness
+You gain 8 Chutzpah
+Encounter: Goodbye Fnord
+Took choice 634/1: unknown
+choice.php?pwd&whichchoice=634&option=1
+You acquire an item: fancy gourd potion
+
+use 1 fancy gourd potion
+You gain 37 Muscleboundness
+You gain 36 Mysteriousness
+You gain 33 Sarcasm
+
+telescope look 
+
+telescope look high
+You acquire an effect: Starry-Eyed (duration: 10 Adventures)
+
+use 1 resolution: be wealthier
+You acquire an effect: Greedy Resolve (duration: 20 Adventures)
+
+[17870] A Massive Ziggurat
+Encounter: dense liana
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: dense liana takes 1087 damage.
+Round 2: dense liana drops 14 attack power.
+Round 2: dense liana drops 14 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: exotic jungle fruit
+You gain 8 Muscleboundness
+You gain 16 Wizardliness
+You gain 20 Cheek
+
+[17871] A Massive Ziggurat
+Encounter: dense liana
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: dense liana takes 1073 damage.
+Round 2: dense liana drops 15 attack power.
+Round 2: dense liana drops 15 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You gain 7 Strengthliness
+You gain 11 Wizardliness
+You gain 24 Cheek
+
+[17872] The Hidden Park
+Encounter: pygmy blowgunner
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: pygmy blowgunner takes 1084 damage.
+Round 2: pygmy blowgunner drops 14 attack power.
+Round 2: pygmy blowgunner drops 14 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the little dance that I am doing is symbolic of my sublimated desire for material goods," and winks at you.
+You gain 259 Meat
+You acquire an item: pygmy blowgun
+You gain 13 Beefiness
+You gain 9 Wizardliness
+You gain 24 Roguishness
+
+[17873] An Overgrown Shrine (Southwest)
+Encounter: dense liana
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: dense liana takes 1082 damage.
+Round 2: dense liana drops 15 attack power.
+Round 2: dense liana drops 14 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You acquire an item: exotic jungle fruit
+You gain 11 Muscleboundness
+You gain 13 Wizardliness
+You gain 19 Chutzpah
+
+[17874] An Overgrown Shrine (Southwest)
+Encounter: dense liana
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: dense liana takes 1076 damage.
+Round 2: dense liana drops 10 attack power.
+Round 2: dense liana drops 13 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You acquire an item: exotic jungle fruit
+You gain 13 Fortitude
+You gain 8 Wizardliness
+You gain 21 Roguishness
+
+[17875] An Overgrown Shrine (Southwest)
+Encounter: dense liana
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: dense liana takes 1076 damage.
+Round 2: dense liana drops 15 attack power.
+Round 2: dense liana drops 12 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You acquire an item: exotic jungle fruit
+You gain 14 Beefiness
+You gain 11 Magicalness
+You gain 18 Chutzpah
+choice.php?forceoption=0
+
+[17876] An Overgrown Shrine (Southwest)
+Encounter: Water You Dune
+Took choice 783/1: unknown
+choice.php?pwd&whichchoice=783&option=1
+
+[17877] An Overgrown Shrine (Northwest)
+Encounter: dense liana
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dense liana takes 1082 damage.
+Round 2: dense liana drops 10 attack power.
+Round 2: dense liana drops 12 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: exotic jungle fruit
+You gain 11 Beefiness
+You gain 11 Enchantedness
+You gain 19 Smarm
+
+[17878] An Overgrown Shrine (Northwest)
+Encounter: dense liana
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: dense liana takes 1068 damage.
+Round 2: dense liana drops 12 attack power.
+Round 2: dense liana drops 15 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You acquire an item: exotic jungle fruit
+You gain 10 Strengthliness
+You gain 11 Wizardliness
+You gain 21 Smarm
+
+[17879] An Overgrown Shrine (Northwest)
+Encounter: dense liana
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: dense liana takes 1084 damage.
+Round 2: dense liana drops 12 attack power.
+Round 2: dense liana drops 15 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You acquire an item: exotic jungle fruit
+You gain 9 Fortitude
+You gain 14 Enchantedness
+You gain 20 Chutzpah
+choice.php?forceoption=0
+
+[17880] An Overgrown Shrine (Northwest)
+Encounter: Earthbound and Down
+Took choice 781/1: unknown
+choice.php?pwd&whichchoice=781&option=1
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 395 each from 860777 on 20130828
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+choice.php?forceoption=0
+
+[17881] An Overgrown Shrine (Southwest)
+Encounter: Water You Dune
+Took choice 783/6: unknown
+choice.php?pwd&whichchoice=783&option=6
+
+[17881] The Hidden Hospital
+Encounter: pygmy janitor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: pygmy janitor takes 1032 damage.
+Round 2: pygmy janitor drops 12 attack power.
+Round 2: pygmy janitor drops 14 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 161 Meat
+You acquire an item: jungle floor wax
+You gain 9 Strongness
+You gain 16 Magicalness
+You gain 17 Cheek
+
+familiar Fancypants Scarecrow (25 lbs)
+
+[17882] The Hidden Hospital
+Encounter: pygmy witch surgeon
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: pygmy witch surgeon takes 1053 damage.
+Round 2: pygmy witch surgeon drops 12 attack power.
+Round 2: pygmy witch surgeon drops 15 defense.
+Round 2: boolicious wins the fight!
+You gain 240 Meat
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: bloodied surgical dungarees
+You gain 11 Muscleboundness
+You gain 13 Wizardliness
+You gain 19 Roguishness
+
+[17883] The Hidden Hospital
+Encounter: pygmy witch nurse
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: pygmy witch nurse takes 1038 damage.
+Round 2: pygmy witch nurse drops 11 attack power.
+Round 2: pygmy witch nurse drops 12 defense.
+Round 2: boolicious wins the fight!
+You gain 128 Meat
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: blood-pressure cuff
+You gain 11 Muscleboundness
+You gain 13 Magicalness
+You gain 21 Roguishness
+
+[17884] The Hidden Hospital
+Encounter: pygmy orderlies
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: pygmy orderlies takes 1043 damage.
+Round 2: pygmy orderlies drops 11 attack power.
+Round 2: pygmy orderlies drops 11 defense.
+Round 2: boolicious wins the fight!
+You gain 282 Meat
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You gain 7 Muscleboundness
+You gain 15 Magicalness
+You gain 24 Sarcasm
+
+use 1 resolution: be smarter
+You acquire an effect: Brilliant Resolve (duration: 20 Adventures)
+
+use 1 resolution: be sexier
+You acquire an effect: Irresistible Resolve (duration: 20 Adventures)
+
+[17885] The Hidden Hospital
+Encounter: pygmy janitor
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: pygmy janitor takes 1043 damage.
+Round 2: pygmy janitor drops 13 attack power.
+Round 2: pygmy janitor drops 13 defense.
+Round 2: boolicious wins the fight!
+You gain 100 Meat
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: jungle floor wax
+You gain 8 Strengthliness
+You gain 11 Wizardliness
+You gain 24 Smarm
+
+[17886] The Hidden Hospital
+Encounter: pygmy orderlies
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: pygmy orderlies takes 1053 damage.
+Round 2: pygmy orderlies drops 11 attack power.
+Round 2: pygmy orderlies drops 10 defense.
+Round 2: boolicious wins the fight!
+You gain 219 Meat
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: compression stocking
+You acquire an item: midriff scrubs
+You gain 13 Muscleboundness
+You gain 13 Mysteriousness
+You gain 20 Roguishness
+
+[17887] The Hidden Hospital
+Encounter: pygmy janitor
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: pygmy janitor takes 1039 damage.
+Round 2: pygmy janitor drops 14 attack power.
+Round 2: pygmy janitor drops 15 defense.
+Round 2: boolicious wins the fight!
+You gain 94 Meat
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: book of matches
+You gain 6 Beefiness
+You gain 9 Magicalness
+You gain 25 Cheek
+
+[17888] The Hidden Hospital
+Encounter: pygmy witch nurse
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: pygmy witch nurse takes 1029 damage.
+Round 2: pygmy witch nurse drops 15 attack power.
+Round 2: pygmy witch nurse drops 11 defense.
+Round 2: boolicious wins the fight!
+You gain 130 Meat
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: blood-pressure cuff
+You gain 12 Strengthliness
+You gain 13 Enchantedness
+You gain 19 Smarm
+
+[17889] The Hidden Hospital
+Encounter: pygmy witch surgeon
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: pygmy witch surgeon takes 1042 damage.
+Round 2: pygmy witch surgeon drops 13 attack power.
+Round 2: pygmy witch surgeon drops 10 defense.
+Round 2: boolicious wins the fight!
+You gain 241 Meat
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: surgical apron
+You gain 11 Fortitude
+You gain 11 Mysteriousness
+You gain 20 Chutzpah
+
+use 2 resolution: be feistier
+You acquire an effect: Destructive Resolve (duration: 40 Adventures)
+
+use 1 resolution: be wealthier
+You acquire an effect: Greedy Resolve (duration: 20 Adventures)
+
+[17890] An Overgrown Shrine (Northeast)
+Encounter: dense liana
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: dense liana takes 1049 damage.
+Round 2: dense liana drops 10 attack power.
+Round 2: dense liana drops 11 defense.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: exotic jungle fruit
+You gain 9 Beefiness
+You gain 11 Mysteriousness
+You gain 22 Sarcasm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 395 each from 860777 on 20130828
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[17891] An Overgrown Shrine (Northeast)
+Encounter: dense liana
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: dense liana takes 1040 damage.
+Round 2: dense liana drops 15 attack power.
+Round 2: dense liana drops 10 defense.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: exotic jungle fruit
+You gain 13 Muscleboundness
+You gain 10 Mysteriousness
+You gain 19 Cheek
+
+eat 1 exotic jungle fruit
+You gain 3 Adventures
+You gain 25 Muscleboundness
+You gain 28 Mysteriousness
+You gain 27 Smarm
+You acquire an effect: Full of Fruit, Yourself (duration: 25 Adventures)
+You gain 1 Fullness
+
+[17892] An Overgrown Shrine (Northeast)
+Encounter: dense liana
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: dense liana takes 1069 damage.
+Round 2: dense liana drops 14 attack power.
+Round 2: dense liana drops 11 defense.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You gain 7 Strengthliness
+You gain 10 Mysteriousness
+You gain 19 Sarcasm
+choice.php?forceoption=0
+
+[17893] An Overgrown Shrine (Northeast)
+Encounter: Air Apparent
+choice 785/1: Place your head in the impression
+choice 785/6: Leave the altar
+Took choice 785/1: unknown
+choice.php?pwd&whichchoice=785&option=1
+
+[17894] The Hidden Office Building
+Encounter: pygmy headhunter
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: pygmy headhunter takes 1092 damage.
+Round 2: pygmy headhunter drops 15 attack power.
+Round 2: pygmy headhunter drops 12 defense.
+Round 2: boolicious wins the fight!
+You gain 263 Meat
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: briefcase
+You gain 7 Beefiness
+You gain 10 Mysteriousness
+You gain 19 Chutzpah
+
+[17895] The Hidden Office Building
+Encounter: pygmy janitor
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: pygmy janitor takes 1063 damage.
+Round 2: pygmy janitor drops 13 attack power.
+Round 2: pygmy janitor drops 12 defense.
+Round 2: boolicious wins the fight!
+You gain 94 Meat
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You gain 12 Strengthliness
+You gain 10 Enchantedness
+You gain 13 Smarm
+
+[17896] The Hidden Office Building
+Encounter: pygmy headhunter
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: pygmy headhunter takes 1086 damage.
+Round 2: pygmy headhunter drops 12 attack power.
+Round 2: pygmy headhunter drops 15 defense.
+Round 2: boolicious wins the fight!
+You gain 209 Meat
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: pointed stick
+You acquire an item: briefcase
+You gain 7 Beefiness
+You gain 14 Enchantedness
+You gain 17 Chutzpah
+
+use 2 briefcase
+You acquire fat stacks of cash (2)
+
+[17897] An Overgrown Shrine (Southeast)
+Encounter: dense liana
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: dense liana takes 1068 damage.
+Round 2: dense liana drops 12 attack power.
+Round 2: dense liana drops 12 defense.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: exotic jungle fruit
+You gain 10 Strongness
+You gain 10 Magicalness
+You gain 16 Chutzpah
+
+[17898] An Overgrown Shrine (Southeast)
+Encounter: dense liana
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: dense liana takes 1070 damage.
+Round 2: dense liana drops 12 attack power.
+Round 2: dense liana drops 10 defense.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: exotic jungle fruit
+You gain 8 Muscleboundness
+You gain 10 Magicalness
+You gain 17 Cheek
+
+[17899] An Overgrown Shrine (Southeast)
+Encounter: dense liana
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: dense liana takes 1086 damage.
+Round 2: dense liana drops 13 attack power.
+Round 2: dense liana drops 14 defense.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: exotic jungle fruit
+You gain 11 Beefiness
+You gain 8 Enchantedness
+You gain 17 Smarm
+choice.php?forceoption=0
+
+[17900] An Overgrown Shrine (Southeast)
+Encounter: Fire When Ready
+
+cast 2 Rage of the Reindeer
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+[17900] An Overgrown Shrine (Southeast)
+Encounter: Fire When Ready
+Encounter: Fire When Ready
+choice 787/1: Place your head in the impression
+choice 787/6: Back off
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+Encounter: Fire When Ready
+choice 787/1: Place your head in the impression
+choice 787/6: Back off
+Took choice 787/1: unknown
+choice.php?pwd&whichchoice=787&option=1
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 395 each from 860777 on 20130828
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[17901] The Hidden Park
+Encounter: pygmy bowler
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: pygmy bowler takes 1083 damage.
+Round 2: pygmy bowler drops 10 attack power.
+Round 2: pygmy bowler drops 12 defense.
+Round 2: boolicious wins the fight!
+You gain 166 Meat
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: bowling ball
+You gain 9 Muscleboundness
+You gain 16 Mysteriousness
+You gain 14 Roguishness
+
+[17902] The Hidden Park
+Encounter: pygmy blowgunner
+Round 0: boolicious wins initiative!
