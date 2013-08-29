@@ -1,0 +1,513 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+August 29, 2013 - Starch 7
+
+Ronald: third quarter
+Grimace: waxing gibbous
+Mini-moon: in front of Ronald, L side
+
+Oyster Egg Day: 3 days
+El Dia De Los Muertos Borrachos: 11 days
+Generic Summer Holiday: 20 days
+Dependence Day: 29 days
+Arrrbor Day: 37 days
+Lab&oacute;r Day: 47 days
+Halloween: 57 days
+Feast of Boris: 64 days
+Yuletide: 69 days
+Festival of Jarlsberg: 74 days
+Valentine's Day: 85 days
+St. Sneaky Pete's Day: 92 days
+
+
+2 days until Muscle.
+
+
+ > status
+
+Name: fifthtoast
+Class: Sauceror
+
+Lv: 3
+HP: 17 / 17
+MP: 9 / 23
+
+Mus: 10 (9), tnp = 7
+Mys: 15 (11), tnp = 14
+Mox: 10 (9), tnp = 19
+
+Advs: 56
+Meat: 5,877
+
+Full: 0 / 15
+Drunk: 0 / 14
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: (none)
+Weapon: twisted-up wet towel
+Off-hand: (none)
+Shirt: astral shirt
+Pants: old sweatpants
+
+Acc. 1: (none)
+Acc. 2: (none)
+Acc. 3: (none)
+
+Pet: Cocoabo (3 lbs)
+Item: (none)
+
+ > skills
+
+Seal Clubber
+ - Tongue of the Walrus
+
+Pastamancer
+ - Cannelloni Cocoon
+ - Entangling Noodles
+ - Lasagna Bandages
+ - Weapon of the Pastalord
+
+Sauceror
+ - Salsaball
+ - Sauce Contemplation
+ - Saucy Salve
+
+Disco Bandit
+ - Ambidextrous Funkslinging
+
+Gnome Trainer
+ - Gnomish Hardigness
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Glittering Eyelashes (7)
+Saucemastery (42)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +1.50
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Trivial Avocations board game
+
+[31] The Haunted Pantry
+Encounter: 
+
+pull: 1 magic lamp
+
+equip off-hand magic lamp
+
+pull: 1 shiny ring
+
+equip acc3 shiny ring
+
+pull: 1 Knob Goblin Uberpants
+
+equip pants Knob Goblin Uberpants
+
+buy 5 fortune cookie for 40 each from The General Store
+You acquire fortune cookie (5)
+You spent 200 Meat
+unequip acc3
+
+equip acc2 shiny ring
+
+eat 1 fortune cookie
+You gain 1 Adventure
+You gain 1 Fullness
+Lucky numbers: 93, 150, 43
+
+[31] The Hallowed Halls
+Encounter: sporto
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast casts SALSABALL!
+Round 2: sporto takes 3 damage.
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent.  She looks a little bit confused.
+Round 2: sporto drops 1 attack power.
+Round 2: sporto drops 1 defense.
+You lose 4 hit points
+Round 2: fifthtoast attacks!
+Round 3: sporto takes 16 damage.
+Round 3: fifthtoast wins the fight!
+Your familiar gains a pound: cocopuf, the 4 lb. Cocoabo
+You gain 27 Meat
+You acquire an item: stepmom's booze
+You gain 2 Beefiness
+You gain 4 Magicalness
+You gain 2 Sarcasm
+
+[32] The Hallowed Halls
+Encounter: motorhead
+Round 0: fifthtoast loses initiative!
+You lose 4 hit points
+Round 1: fifthtoast attacks!
+Round 2: motorhead takes 1 damage.
+You lose 3 hit points
+Round 2: fifthtoast casts SALSABALL!
+Round 3: motorhead takes 3 damage.
+Round 3: fifthtoast casts SALSABALL!
+Round 4: motorhead takes 4 damage.
+Round 4: fifthtoast casts SALSABALL!
+Round 5: motorhead takes 3 damage.
+You lose 3 hit points
+Round 5: fifthtoast casts SALSABALL!
+Round 6: motorhead takes 4 damage.
+Round 6: fifthtoast wins the fight!
+You gain 31 Meat
+You gain 4 Mysteriousness
+You gain 4 Chutzpah
+
+[33] Rest in your dwelling
+You gain 3 hit points
+You gain 5 Mana Points
+
+pull: 1 barskin tent
+
+use 1 barskin tent
+
+tutorial.php?action=toot
+
+[34] The Noob Cave
+Encounter: 
+
+cast 1 Lasagna Bandages
+You gain 26 hit points
+
+[34] Chemistry Class
+Encounter: dropped base
+Round 0: fifthtoast loses initiative!
+You lose 6 hit points
+Round 1: fifthtoast attacks!
+Round 2: dropped base takes 1 damage.
+You lose 5 hit points
+Round 2: fifthtoast casts SALSABALL!
+Round 3: dropped base takes 4 damage.
+Round 3: fifthtoast casts SALSABALL!
+Round 4: dropped base takes 3 damage.
+You lose 5 hit points
+Round 4: fifthtoast casts SALSABALL!
+Round 5: dropped base takes 3 damage.
+You lose 6 hit points
+
+[35] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 18 hit points
+You gain 20 Mana Points
+
+[36] The Hallowed Halls
+Encounter: wastoid
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: wastoid takes 1 damage.
+You lose 3 hit points
+Round 2: fifthtoast casts SALSABALL!
+Round 3: wastoid takes 3 damage.
+You lose 2 hit points
+Round 3: fifthtoast casts SALSABALL!
+Round 4: wastoid takes 3 damage.
+Round 4: fifthtoast casts SALSABALL!
+Round 5: wastoid takes 4 damage.
+Round 5: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 5: wastoid drops 2 attack power.
+Round 5: wastoid drops 2 defense.
+Round 5: fifthtoast wins the fight!
+You gain 20 Meat
+You acquire an item: illegal firecracker
+You gain 1 Strengthliness
+You gain 4 Enchantedness
+You gain 2 Cheek
+
+[37] The Hallowed Halls
+Encounter: dweebie
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast casts SALSABALL!
+Round 2: dweebie takes 4 damage.
+Round 2: fifthtoast casts SALSABALL!
+Round 3: dweebie takes 4 damage.
+You acquire an intrinsic: Nerd is the Word
+Round 3: cocopuf squawks loudly and runs in a circle around your opponent.  He looks a little bit confused.
+Round 3: dweebie drops 2 attack power.
+Round 3: dweebie drops 2 defense.
+You lose 2 hit points
+Round 3: fifthtoast casts SALSABALL!
+Round 4: dweebie takes 8 damage.
+Round 4: fifthtoast wins the fight!
+You gain 34 Meat
+You gain 2 Strengthliness
+You gain 4 Enchantedness
+You gain a Mysticality point!
+You gain 2 Cheek
+
+[38] Rest in your dwelling
+You gain 18 hit points
+You gain 20 Mana Points
+
+[39] Chemistry Class
+Encounter: Bunsen burner and beaker
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast uses the illegal firecracker!
+Round 2: bunsen burner and beaker takes 36 damage.
+Round 2: cocopuf coos softly, and nuzzles you with his beak.
+You gain 11 hit points
+You gain 11 Mana Points
+Round 2: fifthtoast wins the fight!
+You gain 5 Enchantedness
+You gain 3 Chutzpah
+
+[40] Chemistry Class
+Encounter: dropped base
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: dropped base takes 1 damage.
+You lose 6 hit points
+Round 2: fifthtoast casts ENTANGLING NOODLES!
+Round 3: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 30 Meat.
+Round 3: fifthtoast casts SALSABALL!
+Round 4: dropped base takes 4 damage.
+Round 4: cocopuf coos softly, and nuzzles you with his beak.
+You gain 12 hit points
+You gain 12 Mana Points
+Round 4: fifthtoast casts SALSABALL!
+Round 5: dropped base takes 4 damage.
+Round 5: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 5: dropped base drops 2 attack power.
+Round 5: dropped base drops 2 defense.
+Round 5: fifthtoast casts SALSABALL!
+Round 6: dropped base takes 4 damage.
+Round 6: fifthtoast wins the fight!
+You gain 2 Strengthliness
+You gain a Muscle point!
+You gain 5 Enchantedness
+You gain 1 Roguishness
+
+[41] The Hallowed Halls
+Encounter: sporto
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: sporto takes 16 damage.
+Round 2: fifthtoast wins the fight!
+You gain 26 Meat
+You acquire an item: twisted-up wet towel
+You gain 3 Fortitude
+You gain 5 Enchantedness
+You gain 1 Cheek
+
+[42] The Hallowed Halls
+Encounter: dweebie
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: dweebie takes 19 damage.
+Round 2: fifthtoast wins the fight!
+You gain 36 Meat
+You acquire an item: slide rule
+You gain 4 Muscleboundness
+You gain 3 Mysteriousness
+You gain 1 Chutzpah
+
+[43] The Hallowed Halls
+Encounter: sporto
+Round 0: fifthtoast loses initiative!
+You lose 5 hit points
+Round 1: fifthtoast attacks!
+Round 2: sporto takes 1 damage.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing her for 6 damage.
+Round 2: sporto takes 6 damage.
+You lose 4 hit points
+Round 2: fifthtoast casts SALSABALL!
+Round 3: sporto takes 4 damage.
+Round 3: cocopuf squawks loudly and runs in a circle around your opponent.  She looks a little bit confused.
+Round 3: sporto drops 2 attack power.
+Round 3: sporto drops 2 defense.
+Round 3: fifthtoast casts SALSABALL!
+Round 4: sporto takes 3 damage.
+Round 4: fifthtoast wins the fight!
+You gain 31 Meat
+You acquire an item: surgical tape
+You gain 6 Wizardliness
+You gain a Mysticality point!
+You gain a Level!
+You gain 2 Sarcasm
+
+Visiting Gorgonzola, the Chief Chef
+
+[44] The Hallowed Halls
+Encounter: motorhead
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+You lose 1 hit point
+Round 2: fifthtoast casts SALSABALL!
+Round 3: motorhead takes 3 damage.
+You lose 4 hit points
+Round 3: fifthtoast casts SALSABALL!
+Round 4: motorhead takes 3 damage.
+You lose 3 hit points
+Round 4: fifthtoast attacks!
+Round 5: motorhead takes 16 damage.
+Round 5: fifthtoast wins the fight!
+Your familiar gains a pound: cocopuf, the 5 lb. Cocoabo
+You gain 29 Meat
+You gain 1 Strongness
+You gain 5 Enchantedness
+You gain 2 Cheek
+You gain a Moxie point!
+
+[45] The Hallowed Halls
+Encounter: sporto
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: sporto takes 1 damage.
+You lose 4 hit points
+Round 2: fifthtoast casts SALSABALL!
+Round 3: sporto takes 4 damage.
+Round 3: fifthtoast casts RETURN!
+
+[46] Rest in your dwelling
+You gain 19 hit points
+You gain 20 Mana Points
+
+[47] The Hallowed Halls
+Encounter: wastoid
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: wastoid takes 17 damage.
+Round 2: fifthtoast wins the fight!
+You gain 20 Meat
+You acquire an item: fountain 'soda'
+You gain 8 Enchantedness
+
+[48] The Hallowed Halls
+Encounter: motorhead
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: motorhead takes 1 damage.
+Round 2: fifthtoast casts SALSABALL!
+Round 3: motorhead takes 3 damage.
+Round 3: fifthtoast casts SALSABALL!
+Round 4: motorhead takes 3 damage.
+You lose 3 hit points
+Round 4: fifthtoast casts SALSABALL!
+Round 5: motorhead takes 8 damage.
+Round 5: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 20 Meat.
+Round 5: fifthtoast wins the fight!
+You gain 27 Meat
+You gain 3 Fortitude
+You gain 2 Magicalness
+You gain 3 Chutzpah
+
+[49] The Hallowed Halls
+Encounter: dweebie
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: dweebie takes 1 damage.
+Round 2: fifthtoast casts SALSABALL!
+Round 3: dweebie takes 3 damage.
+Round 3: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 34 Meat.
+You lose 3 hit points
+Round 3: fifthtoast casts SALSABALL!
+Round 4: dweebie takes 4 damage.
+You lose 3 hit points
+Round 4: fifthtoast casts SALSABALL!
+Round 5: dweebie takes 3 damage.
+Round 5: fifthtoast casts SALSABALL!
+Round 6: dweebie takes 4 damage.
+Round 6: fifthtoast wins the fight!
+You gain 42 Meat
+You gain 1 Strongness
+You gain 5 Magicalness
+You gain 2 Cheek
+
+[50] Art Class
+Encounter: wire sculpture
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: wire sculpture takes 1 damage.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing it for 8 damage.
+Round 2: wire sculpture takes 8 damage.
+You lose 6 hit points
+Round 2: fifthtoast casts SALSABALL!
+Round 3: wire sculpture takes 4 damage.
+You lose 6 hit points
+
+[51] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 20 hit points
+You gain 20 Mana Points
+choice.php?forceoption=0
+
+[52] Art Class
+Encounter: Delirium in the Cafeterium
+Took choice 700/1: unknown
+choice.php?pwd&whichchoice=700&option=1
+You lose 6 hit points
+
+[53] Art Class
+Encounter: misproportioned portrait
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: misproportioned portrait takes 17 damage.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 20 Meat.
+Round 2: fifthtoast wins the fight!
+You gain 1 Strengthliness
+You gain 6 Wizardliness
+You gain a Mysticality point!
+You gain 1 Cheek
+
+[54] Art Class
+Encounter: clay golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: clay golem takes 1 damage.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat.  He wings it to you.
+You gain 26 Meat.
+Round 2: fifthtoast casts SALSABALL!
+Round 3: clay golem takes 5 damage.
+Round 3: cocopuf squawks loudly and runs in a circle around your opponent.  It looks a little bit confused.
+Round 3: clay golem drops 2 attack power.
+Round 3: clay golem drops 2 defense.
+You lose 3 hit points
+Round 3: fifthtoast casts SALSABALL!
+Round 4: clay golem takes 5 damage.
+Round 4: fifthtoast casts SALSABALL!
+Round 5: clay golem takes 3 damage.
+Round 5: fifthtoast wins the fight!
+You gain 2 Strengthliness
+You gain 5 Wizardliness
+You gain 2 Smarm
+
+[55] The Hallowed Halls
+Encounter: wastoid
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: wastoid takes 17 damage.
+Round 2: fifthtoast wins the fight!
+You gain 24 Meat
+You acquire an item: illegal firecracker
+You gain 3 Strengthliness
+You gain 4 Wizardliness
+You gain 1 Sarcasm
