@@ -1,0 +1,815 @@
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 957 Meat
+
+Visiting Crimbo Tree in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+You acquire an item: stuffed teddy butler
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+You acquire an item: bejeweled cufflinks
+
+Visiting Looking Glass in clan VIP lounge
+You acquire an item: &quot;DRINK ME&quot; potion
+
+swimming pool screwaround
+
+Doing handstand in clan VIP swimming pool
+
+Diving for treasure in clan VIP swimming pool
+
+Getting out of clan VIP swimming pool
+
+use 1 Manual of Dexterity
+
+use 1 Chester's bag of candy
+You acquire marzipan skull (2)
+You acquire Angry Farmer candy (2)
+You acquire Tasty Fun Good rice candy (2)
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: What?
+
+use 1 creepy voodoo doll
+
+use 1 Taco Dan's Taco Stand Flier
+You acquire an item: Taco Dan's Taco Stand Chillacious Churro
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chewing+gum+on+a+string%22
+
+buy 5 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (5)
+You spent 250 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless knick-knack
+You acquire an item: worthless gewgaw
+You acquire an item: worthless trinket
+
+add to closet: 1 worthless trinket
+
+add to closet: 1 worthless gewgaw
+
+add to closet: 1 worthless knick-knack
+
+use 2 chewing gum on a string
+You acquire an item: worthless trinket
+You acquire an item: worthless knick-knack
+
+take from closet: 1 worthless trinket
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless gewgaw
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 5 worthless items for 5 ten-leaf clovers
+You acquire ten-leaf clover (5)
+
+Use 28 ten-leaf clover
+You acquire disassembled clover (28)
+You gain 4,284 Meat
+
+Visiting the Fishing Village on the Secret Tropical Island Volcano Lair
+You acquire an item: fisherman's sack
+
+Harvesting your garden
+You acquire peppermint sprout (3)
+
+cast 1 Summon Geeky Gifts
+You acquire an item: magicberry tablets
+You acquire an item: haggis-infused soap
+You acquire an item: Thinknerd T-shirt grab bag
+You acquire an item: Microplushie: Otakulone
+
+cast 1 Summon Clip Art
+You acquire an item: Beignet Milgranet
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be feistier
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be feistier
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be feistier
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Soda Machine in clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+Visiting the Fishing Village on the Secret Tropical Island Volcano Lair
+
+cast 1 Summon Clip Art
+You acquire an item: blunt cat claw
+
+cast 1 Summon Clip Art
+You acquire an item: bobcat grenade
+
+[17903] Mix 1 mushroom fermenting solution + 1 warm mushroom
+You acquire an item: flat mushroom wine
+Crafting used 1 each of warm mushroom and mushroom fermenting solution
+
+[17904] Mix 1 mushroom fermenting solution + 1 flaming mushroom
+You acquire an item: flaming mushroom wine
+Crafting used 1 each of flaming mushroom and mushroom fermenting solution
+
+mallsell: 1 flaming mushroom wine, 1 flat mushroom wine
+
+manageprices.php?action=update&price0[1139]=13000&limit0[1139]=0&price0[1143]=10000&limit0[1143]=0&price0[5100]=9690&limit0[5100]=0&price0[5259]=7000&limit0[5259]=0&price0[5395]=6980&limit0[5395]=0&price0[5101]=3000&limit0[5101]=3&price0[5099]=1700&limit0[5099]=0&price0[6105]=1175&limit0[6105]=0&price0[5464]=900&limit0[5464]=0&price0[6239]=875&limit0[6239]=0&price0[1166]=750&limit0[1166]=0&price0[5087]=600&limit0[5087]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[3849]=336&limit0[3849]=0&price0[5097]=300&limit0[5097]=0&price0[2680]=300&limit0[2680]=0&price0[5094]=275&limit0[5094]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[2397]=260&limit0[2397]=0&price0[538]=260&limit0[538]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[1840]=200&limit0[1840]=0&price0[5098]=200&limit0[5098]=0&price0[5468]=200&limit0[5468]=0&price0[834]=190&limit0[834]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[218]=155&limit0[218]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[1655]=120&limit0[1655]=0&price0[5466]=111&limit0[5466]=0&price0[3019]=110&limit0[3019]=0&price0[6072]=100&limit0[6072]=0&price0[6080]=100&limit0[6080]=0&price0[6073]=100&limit0[6073]=0&price0[6077]=100&limit0[6077]=0&price0[5469]=100&limit0[5469]=0&price0[5467]=100&limit0[5467]=0&price0[1]=100&limit0[1]=0
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be kinder
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be wealthier
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be sexier
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be sexier
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be smarter
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be stronger
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be feistier
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be feistier
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be smarter
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be wealthier
+
+Visiting the Bounty Hunter Hunter
+
+accept bounty assignment to collect 11 non-Euclidean hooves
+
+[17904] The Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 1119 damage.
+Round 2: empty suit of armor drops 11 attack power.
+Round 2: empty suit of armor drops 15 defense.
+Round 2: boolicious wins the fight!
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: antique spear
+You gain 7 Strongness
+You gain 9 Magicalness
+You gain 12 Smarm
+
+use 1 resolution: be smarter
+You acquire an effect: Brilliant Resolve (duration: 20 Adventures)
+
+use 1 resolution: be sexier
+You acquire an effect: Irresistible Resolve (duration: 20 Adventures)
+
+[17905] The Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 13 hit points
+Round 2: boolicious attacks!
+Round 3: cubist bull takes 1110 damage.
+Round 3: cubist bull drops 11 attack power.
+Round 3: cubist bull drops 10 defense.
+Round 3: boolicious wins the fight!
+You gain 280 Meat
+After Battle: Heckel &amp; Jeckyl does a half-hearted little dance, grumbling. "Don't you have any proper trousers? If the lads from my club should witness this, I'd hear no end of it."
+You acquire an item: non-Euclidean hoof
+You gain 7 Beefiness
+You gain 9 Mysteriousness
+You gain 9 Roguishness
+
+familiar Angry Jung Man (30 lbs)
+
+[17906] The Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 1110 damage.
+Round 2: guy with a pitchfork, and his wife drops 10 attack power.
+Round 2: guy with a pitchfork, and his wife drops 10 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monsters while you were fighting.
+You gain 251 Meat
+After Battle: DocSavage looks at you, raises an eyebrow, and says &quot;Wait.  Why am I doing all the work?  Take this, and try to pick up some of the slack, would you?&quot;
+You acquire an item: psychoanalytic jar
+You gain 8 Fortitude
+You gain 11 Wizardliness
+You gain 8 Sarcasm
+
+[17907] The Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 1155 damage.
+Round 2: empty suit of armor drops 13 attack power.
+Round 2: empty suit of armor drops 13 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You gain 6 Strongness
+You gain 6 Mysteriousness
+You gain 15 Smarm
+
+[17908] The Haunted Gallery
+Encounter: Out in the Garden
+Took choice 89/3: Dreams and Lights
+choice.php?whichchoice=89&option=3&pwd
+You acquire an effect: Dreams and Lights (duration: 10 Adventures)
+
+[17909] The Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 1112 damage.
+Round 2: guy with a pitchfork, and his wife drops 13 attack power.
+Round 2: guy with a pitchfork, and his wife drops 15 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "these creatures clearly have an unhealthy obsession with material things."
+You gain 244 Meat
+You gain 3 Strengthliness
+You gain 5 Enchantedness
+You gain 17 Cheek
+
+use 1 resolution: be wealthier
+You acquire an effect: Greedy Resolve (duration: 20 Adventures)
+
+[17910] The Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 1115 damage.
+Round 2: cubist bull drops 11 attack power.
+Round 2: cubist bull drops 13 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 604 Meat
+You acquire an item: non-Euclidean hoof
+You gain 5 Strongness
+You gain 9 Enchantedness
+You gain 11 Smarm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 475 each from 1507256 on 20130829
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[17911] The Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 1109 damage.
+Round 2: guy with a pitchfork, and his wife drops 12 attack power.
+Round 2: guy with a pitchfork, and his wife drops 11 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the little dance that I am doing is symbolic of my sublimated desire for material goods," and winks at you.
+You gain 236 Meat
+You gain 4 Strongness
+You gain 9 Mysteriousness
+You gain 14 Chutzpah
+
+[17912] The Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 1114 damage.
+Round 2: empty suit of armor drops 15 attack power.
+Round 2: empty suit of armor drops 14 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You acquire an item: antique spear
+You gain 6 Muscleboundness
+You gain 9 Enchantedness
+You gain 12 Roguishness
+
+[17913] The Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: cubist bull takes 1109 damage.
+Round 3: cubist bull drops 15 attack power.
+Round 3: cubist bull drops 15 defense.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 588 Meat
+You acquire an item: non-Euclidean hoof
+You gain 6 Fortitude
+You gain 6 Magicalness
+You gain 13 Chutzpah
+
+[17914] The Haunted Gallery
+Encounter: Out in the Garden
+Took choice 89/1: Wolf Knight
+choice.php?whichchoice=89&option=1&pwd
+Encounter: Knight (Wolf)
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knight (wolf) takes 1111 damage.
+Round 2: knight (wolf) drops 11 attack power.
+Round 2: knight (wolf) drops 14 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You acquire an item: snarling wolf shield
+You gain 11 Beefiness
+You gain 6 Enchantedness
+You gain 11 Smarm
+
+[17915] The Haunted Gallery
+Encounter: Louvre It or Leave It 
+Took choice 91/1: Enter the Drawing
+choice.php?whichchoice=91&option=1&pwd
+Encounter: Louvre It or Leave It (Escher: Relativity)
+Took choice 92/3: Mondrian: Moxie, Manetwich, Pinot Renoir
+choice.php?whichchoice=92&option=3&pwd
+Encounter: Louvre It or Leave It (Mondrian)
+Took choice 96/2: David: The Death of Socrates: Moxie, Manetwich
+choice.php?whichchoice=96&option=2&pwd
+Encounter: Louvre It or Leave It (David: The Death of Socrates)
+Took choice 100/2: Moxie
+choice.php?whichchoice=100&option=2&pwd
+You gain 200 Cheek
+
+[17916] The Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 1116 damage.
+Round 2: guy with a pitchfork, and his wife drops 12 attack power.
+Round 2: guy with a pitchfork, and his wife drops 14 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the little dance that I am doing is symbolic of my sublimated desire for material goods," and winks at you.
+You gain 262 Meat
+You gain 4 Strengthliness
+You gain 14 Mysteriousness
+You gain 10 Roguishness
+
+[17917] The Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 1096 damage.
+Round 2: cubist bull drops 15 attack power.
+Round 2: cubist bull drops 12 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking and dancing are primal, universal symbols for acquiring meat and items, respectively."
+You gain 538 Meat
+You acquire an item: non-Euclidean hoof
+You gain 8 Strongness
+You gain 6 Mysteriousness
+You gain 16 Sarcasm
+
+[17918] The Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 1088 damage.
+Round 2: cubist bull drops 15 attack power.
+Round 2: cubist bull drops 15 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the little dance that I am doing is symbolic of my sublimated desire for material goods," and winks at you.
+You gain 514 Meat
+You acquire an item: non-Euclidean hoof
+You gain 5 Beefiness
+You gain 10 Magicalness
+You gain 17 Cheek
+
+[17919] The Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 1090 damage.
+Round 2: empty suit of armor drops 15 attack power.
+Round 2: empty suit of armor drops 10 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: antique shield
+You gain 6 Strengthliness
+You gain 10 Wizardliness
+You gain 18 Cheek
+
+[17920] The Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 1091 damage.
+Round 2: guy with a pitchfork, and his wife drops 10 attack power.
+Round 2: guy with a pitchfork, and his wife drops 15 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monsters while you were fighting.
+You gain 257 Meat
+You gain 7 Beefiness
+You gain 11 Wizardliness
+You gain 15 Roguishness
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 475 each from 1507256 on 20130829
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[17921] The Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 1098 damage.
+Round 2: cubist bull drops 11 attack power.
+Round 2: cubist bull drops 15 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "this creature clearly has an unhealthy obsession with material things."
+You gain 599 Meat
+You acquire an item: non-Euclidean hoof
+You gain 6 Strengthliness
+You gain 8 Wizardliness
+You gain 17 Chutzpah
+
+[17922] The Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 1084 damage.
+Round 2: empty suit of armor drops 10 attack power.
+Round 2: empty suit of armor drops 11 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You gain 3 Strengthliness
+You gain 10 Magicalness
+You gain 19 Sarcasm
+
+[17923] The Haunted Gallery
+Encounter: Out in the Garden
+Took choice 89/3: Dreams and Lights
+choice.php?whichchoice=89&option=3&pwd
+You acquire an effect: Dreams and Lights (duration: 10 Adventures)
+
+[17924] The Haunted Gallery
+Encounter: Louvre It or Leave It 
+Took choice 91/1: Enter the Drawing
+choice.php?whichchoice=91&option=1&pwd
+Encounter: Louvre It or Leave It (Escher: Relativity)
+Took choice 92/3: Mondrian: Moxie, Manetwich, Pinot Renoir
+choice.php?whichchoice=92&option=3&pwd
+Encounter: Louvre It or Leave It (Mondrian)
+Took choice 96/2: David: The Death of Socrates: Moxie, Manetwich
+choice.php?whichchoice=96&option=2&pwd
+Encounter: Louvre It or Leave It (David: The Death of Socrates)
+Took choice 100/2: Moxie
+choice.php?whichchoice=100&option=2&pwd
+You gain 200 Cheek
+You gain a Moxie point!
+
+use 1 resolution: be smarter
+You acquire an effect: Brilliant Resolve (duration: 20 Adventures)
+
+use 1 resolution: be sexier
+You acquire an effect: Irresistible Resolve (duration: 20 Adventures)
+
+[17925] The Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 1097 damage.
+Round 2: guy with a pitchfork, and his wife drops 12 attack power.
+Round 2: guy with a pitchfork, and his wife drops 15 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monsters while you were fighting.
+You gain 273 Meat
+You gain 12 Beefiness
+You gain 9 Enchantedness
+You gain 11 Sarcasm
+
+[17926] The Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 1100 damage.
+Round 2: cubist bull drops 13 attack power.
+Round 2: cubist bull drops 12 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "this creature clearly has an unhealthy obsession with material things."
+You gain 541 Meat
+You acquire an item: broken sword
+You acquire an item: non-Euclidean hoof
+You gain 5 Beefiness
+You gain 9 Magicalness
+You gain 17 Roguishness
+
+[17927] The Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 1102 damage.
+Round 2: cubist bull drops 10 attack power.
+Round 2: cubist bull drops 11 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 530 Meat
+You acquire an item: non-Euclidean hoof
+You gain 7 Muscleboundness
+You gain 8 Wizardliness
+You gain 15 Roguishness
+
+[17928] The Haunted Gallery
+Encounter: Out in the Garden
+Took choice 89/2: Snake Knight
+choice.php?whichchoice=89&option=2&pwd
+Encounter: Knight (Snake)
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: knight (snake) takes 1087 damage.
+Round 2: knight (snake) drops 11 attack power.
+Round 2: knight (snake) drops 12 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You gain 7 Muscleboundness
+You gain 11 Magicalness
+You gain 16 Roguishness
+
+[17929] The Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 1101 damage.
+Round 2: cubist bull drops 12 attack power.
+Round 2: cubist bull drops 12 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 551 Meat
+You acquire an item: non-Euclidean hoof
+You gain 12 Strongness
+You gain 6 Enchantedness
+You gain 13 Smarm
+
+use 2 resolution: be feistier
+You acquire an effect: Destructive Resolve (duration: 40 Adventures)
+
+use 1 resolution: be wealthier
+You acquire an effect: Greedy Resolve (duration: 20 Adventures)
+
+[17930] The Haunted Gallery
+Encounter: Louvre It or Leave It 
+Took choice 91/1: Enter the Drawing
+choice.php?whichchoice=91&option=1&pwd
+Encounter: Louvre It or Leave It (Escher: Relativity)
+Took choice 92/3: Mondrian: Moxie, Manetwich, Pinot Renoir
+choice.php?whichchoice=92&option=3&pwd
+Encounter: Louvre It or Leave It (Mondrian)
+Took choice 96/2: David: The Death of Socrates: Moxie, Manetwich
+choice.php?whichchoice=96&option=2&pwd
+Encounter: Louvre It or Leave It (David: The Death of Socrates)
+Took choice 100/2: Moxie
+choice.php?whichchoice=100&option=2&pwd
+You gain 200 Cheek
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 475 each from 1507256 on 20130829
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[17931] The Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 1095 damage.
+Round 2: empty suit of armor drops 15 attack power.
+Round 2: empty suit of armor drops 10 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You gain 7 Muscleboundness
+You gain 8 Enchantedness
+You gain 19 Smarm
+
+[17932] The Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 1092 damage.
+Round 2: cubist bull drops 11 attack power.
+Round 2: cubist bull drops 13 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 506 Meat
+You acquire an item: non-Euclidean hoof
+You gain 7 Strongness
+You gain 8 Enchantedness
+You gain 15 Cheek
+
+[17933] The Haunted Gallery
+Encounter: guy with a pitchfork, and his wife
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: guy with a pitchfork, and his wife takes 1095 damage.
+Round 2: guy with a pitchfork, and his wife drops 13 attack power.
+Round 2: guy with a pitchfork, and his wife drops 10 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "these creatures clearly have an unhealthy obsession with material things."
+You gain 289 Meat
+You gain 7 Strongness
+You gain 8 Wizardliness
+You gain 18 Chutzpah
+
+[17934] The Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 1095 damage.
+Round 2: empty suit of armor drops 13 attack power.
+Round 2: empty suit of armor drops 10 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You acquire an item: antique helmet
+You gain 7 Beefiness
+You gain 11 Enchantedness
+You gain 14 Chutzpah
+
+[17935] The Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 1100 damage.
+Round 2: empty suit of armor drops 13 attack power.
+Round 2: empty suit of armor drops 14 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You acquire an item: antique spear
+You gain 4 Muscleboundness
+You gain 14 Magicalness
+You gain 18 Chutzpah
+
+[17936] The Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 1092 damage.
+Round 2: empty suit of armor drops 13 attack power.
+Round 2: empty suit of armor drops 14 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: antique helmet
+You gain 8 Muscleboundness
+You gain 8 Magicalness
+You gain 17 Cheek
+
+[17937] The Haunted Gallery
+Encounter: Louvre It or Leave It 
+Took choice 91/1: Enter the Drawing
+choice.php?whichchoice=91&option=1&pwd
+Encounter: Louvre It or Leave It (Escher: Relativity)
+Took choice 92/3: Mondrian: Moxie, Manetwich, Pinot Renoir
+choice.php?whichchoice=92&option=3&pwd
+Encounter: Louvre It or Leave It (Mondrian)
+Took choice 96/2: David: The Death of Socrates: Moxie, Manetwich
+choice.php?whichchoice=96&option=2&pwd
+Encounter: Louvre It or Leave It (David: The Death of Socrates)
+Took choice 100/2: Moxie
+choice.php?whichchoice=100&option=2&pwd
+You gain 200 Cheek
+
+[17938] The Haunted Gallery
+Encounter: empty suit of armor
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: empty suit of armor takes 1094 damage.
+Round 2: empty suit of armor drops 10 attack power.
+Round 2: empty suit of armor drops 10 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You gain 7 Beefiness
+You gain 8 Enchantedness
+You gain 18 Roguishness
+
+[17939] The Haunted Gallery
+Encounter: cubist bull
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: cubist bull takes 1098 damage.
+Round 2: cubist bull drops 10 attack power.
+Round 2: cubist bull drops 13 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 572 Meat
+You acquire an item: non-Euclidean hoof
+You gain 5 Fortitude
+You gain 10 Magicalness
+You gain 18 Roguishness
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+Visiting Hot Dog Stand in clan VIP lounge
+
+eat one with everything
+You gain 7 Adventures
+You gain 20 Wizardliness
+You acquire an effect: Inner Dog (duration: 50 Adventures)
+You gain 2 Fullness
+
+eat sly dog
+
+Visiting Pool Table in clan VIP lounge
+
+pool aggressive
+You acquire an effect: Billiards Belligerence (duration: 10 Adventures)
+
+pool strategic
+You acquire an effect: Mental A-cue-ity (duration: 10 Adventures)
+
+pool stylish
+You acquire an effect: Hustlin' (duration: 10 Adventures)
+
+Visiting Looking Glass in clan VIP lounge
+
+Visiting April Shower in clan VIP lounge
+
+shower cold
+You acquire shard of double-ice (4)
+
+Visiting Crimbo Tree in clan VIP lounge
+
+Visiting Swimming Pool in clan VIP lounge
+
+swimming pool submarine
+You acquire an effect: Silent Running (duration: 50 Adventures)
