@@ -1,6 +1,6 @@
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
->>>>>>>=6dc53d3a7a13a2e9034032883faa08881344852a
+>>>>>>>=0df052989dc35d480cc7f1bb9933261cd890cb91
 AdventureFrame=880,282,0
 BuffBotFrame=603,307,0
 BuffRequestFrame=-8,-8
@@ -17,13 +17,8 @@ FamiliarTrainingFrame=335,64
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-<<<<<<< HEAD
-KoLDesktop=395,91,-1
-LoginFrame=582,260,0
-=======
 KoLDesktop=537,135,-1
 LoginFrame=725,305,0
->>>>>>> 0df052989dc35d480cc7f1bb9933261cd890cb91
 MailboxFrame=289,310,1
 MaximizerFrame=-8,-8
 MeatManageFrame=450,127
@@ -42,7 +37,7 @@ _absintheDrops=0
 _aguaDrops=0
 _akgyxothUsed=false
 _allYearSucker=false
-_aprilShower=true
+_aprilShower=false
 _astralDrops=0
 _badlyRomanticArrows=0
 _bagOTricksUsed=false
@@ -71,7 +66,7 @@ _carrotNoseDrops=0
 _chipBags=0
 _chocolateCigarsUsed=0
 _chocolatesUsed=0
-_clipartSummons=3
+_clipartSummons=0
 _coalPaperweightUsed=false
 _coldOne=false
 _companionshipCasts=0
@@ -91,7 +86,7 @@ _dreamJarDrops=0
 _elronsCasts=0
 _envyfishEggUsed=false
 _essentialTofuUsed=false
-_fancyHotDogEaten=true
+_fancyHotDogEaten=false
 _favorRareSummons=0
 _feastUsed=0
 _feastedFamiliars
@@ -108,7 +103,7 @@ _gnomeAdv=0
 _gongDrops=0
 _gothKidCharge=0
 _gothKidFights=0
-_grimoireGeekySummons=1
+_grimoireGeekySummons=0
 _grooseDrops=0
 _guildManualUsed=true
 _hareAdv=0
@@ -144,7 +139,7 @@ _jiggleSteak=0
 _jingleBellUsed=false
 _jitbCharge=0
 _jukebox=false
-_jungDrops=1
+_jungDrops=0
 _klawSummons=0
 _kloopDrops=0
 _kolConSixPackUsed=false
@@ -159,7 +154,7 @@ _mayflySummons=0
 _mediumSiphons=0
 _nanorhinoBanishedMonster
 _navelRunaways=0
-_olympicSwimmingPool=true
+_olympicSwimmingPool=false
 _olympicSwimmingPoolItemFound=true
 _pasteDrops=0
 _photocopyUsed=false
@@ -167,10 +162,10 @@ _pieDrops=0
 _piePartsCount=0
 _pneumaticityPotionUsed=false
 _poisonArrows=0
-_poolGames=3
+_poolGames=0
 _precisionCasts=0
 _psychoJarFilled=false
-_psychoJarUsed=true
+_psychoJarUsed=false
 _radlibSummons=0
 _raindohCopiesMade=0
 _raveStealCount=0
@@ -774,13 +769,9 @@ counterScript
 cozyCounter6332=0
 cozyCounter6333=0
 cozyCounter6334=0
-crimboTreeDays=6
+crimboTreeDays=5
 currentBountyItem=0
-<<<<<<< HEAD
-currentFullness=1
-=======
-currentFullness=2
->>>>>>> 0df052989dc35d480cc7f1bb9933261cd890cb91
+currentFullness=0
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -883,20 +874,12 @@ hpAutoRecovery=0.2
 hpAutoRecoveryItems=rest at your campground;free disco rest;medicinal herb's medicinal herbs;cannelloni cocoon;visit the nuns;relaxing hot tub;red pixel potion;really thick bandage;pok&euml;mann band-aid;filthy poultice;gauze garter;bottle of vangoghbitussin;plump juicy grub;elven medi-pack;generic healing potion;ancient magi-wipes;palm-frond fan;tongue of the walrus;tiny house;disco nap;lasagna bandages;cast;tongue of the otter;sugar shard;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent;notes from the elfpocalypse, chapter i;notes from the elfpocalypse, chapter ii;notes from the elfpocalypse, chapter iii;notes from the elfpocalypse, chapter iv;notes from the elfpocalypse, chapter v;notes from the elfpocalypse, chapter vi
 hpAutoRecoveryTarget=0.8
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
-<<<<<<< HEAD
-jungCharge=43
-=======
 jungCharge=28
->>>>>>> 0df052989dc35d480cc7f1bb9933261cd890cb91
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
 lassoTraining
-<<<<<<< HEAD
-lastAdventure=The Hidden Park
-=======
 lastAdventure=The Haunted Gallery
->>>>>>> 0df052989dc35d480cc7f1bb9933261cd890cb91
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -912,19 +895,14 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
-lastBreakfast=6
+lastBreakfast=7
 lastCellarReset=4
 lastChanceBurn
 lastChanceThreshold=100
 lastChasmReset=4
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
-<<<<<<< HEAD
-lastCouncilVisit=28
-lastCounterDay=5
-=======
 lastCouncilVisit=25
-lastCounterDay=6
->>>>>>> 0df052989dc35d480cc7f1bb9933261cd890cb91
+lastCounterDay=7
 lastDispensaryOpen=3
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -965,11 +943,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-<<<<<<< HEAD
-lastEncounter=pygmy blowgunner
-=======
 lastEncounter=cubist bull
->>>>>>> 0df052989dc35d480cc7f1bb9933261cd890cb91
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -1047,11 +1021,7 @@ lastTr4pz0rQuest=3
 lastVioletFogMap=4
 lastWuTangDefeated=1
 lastZapperWand=4
-<<<<<<< HEAD
-libramSummons=24
-=======
-libramSummons=13
->>>>>>> 0df052989dc35d480cc7f1bb9933261cd890cb91
+libramSummons=0
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=6
@@ -1248,13 +1218,13 @@ telescope4
 telescope5
 telescope6
 telescope7
-telescopeLookedHigh=true
+telescopeLookedHigh=false
 telescopeUpgrades=1
 tempuraSummons=0
 textColors=crappy\:\#999999|good\:green|awesome\:blue|epic\:\#8a2be2|junk\:gray|memento\:olive|notavailable\:gray
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=3
+tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
 twinPeakProgress=0
