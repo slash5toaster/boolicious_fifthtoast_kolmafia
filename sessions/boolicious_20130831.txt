@@ -837,3 +837,381 @@ Round 5: boolicious attacks!
 Round 6: x bottles of beer on a golem takes 4 damage.
 Round 6: boolicious casts WAVE OF SAUCE!
 Round 7: boolicious casts RETURN!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+August 31, 2013 - April 1
+
+Ronald: new moon
+Grimace: full moon
+Mini-moon: in front of Grimace, R side
+
+Oyster Egg Day: tomorrow
+El Dia De Los Muertos Borrachos: 9 days
+Generic Summer Holiday: 18 days
+Dependence Day: 27 days
+Arrrbor Day: 35 days
+Lab&oacute;r Day: 45 days
+Halloween: 55 days
+Feast of Boris: 62 days
+Yuletide: 67 days
+Festival of Jarlsberg: 72 days
+Valentine's Day: 83 days
+St. Sneaky Pete's Day: 90 days
+
+
+Muscle bonus today and tomorrow.
+
+
+ > status
+
+Name: boolicious
+Class: Accordion Thief
+
+Lv: 28
+HP: 1815 / 4,326
+MP: 2404 / 4,779
+
+Mus: 4,290 (560), tnp = 170
+Mys: 4,779 (592), tnp = 102
+Mox: 4,454 (753), tnp = 834
+
+Advs: 195
+Meat: 211,516
+
+Full: 0 / 20
+Drunk: 0 / 14
+Spleen: 1 / 15
+
+
+ > equipment
+
+Hat: Hodgman's porkpie hat
+Weapon: Rock and Roll Legend
+Off-hand: (none)
+Shirt: letterman's jacket
+Pants: Hodgman's lobsterskin pants
+Container: Misty Cape
+
+Acc. 1: Ol' Scratch's manacles
+Acc. 2: Hodgman's bow tie
+Acc. 3: Chester's sunglasses
+
+Pet: Angry Jung Man (35 lbs)
+Item: Red Book
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Chronic Indigestion
+ - Conjure Relaxing Campfire
+ - Stomach of Steel
+ - Summon Crimbo Candy
+ - Transcendent Olfaction
+
+Seal Clubber
+ - Rage of the Reindeer
+ - Tongue of the Walrus
+
+Sauceror
+ - Wave of Sauce
+
+Accordion Thief
+ - Aloysius' Antiphon of Aptitude
+ - Brawnee's Anthem of Absorption
+ - Carlweather's Cantata of Confrontation
+ - Cletus's Canticle of Celerity
+ - Donho's Bubbly Ballad
+ - Fat Leon's Phat Loot Lyric
+ - Jackasses' Symphony of Destruction
+ - Moxie of the Mariachi
+ - Sing
+ - Stevedave's Shanty of Superiority
+ - The Magical Mojomuscular Melody
+ - The Moxious Madrigal
+ - The Ode to Booze
+ - The Polka of Plenty
+ - The Power Ballad of the Arrowsmith
+ - The Psalm of Pointiness
+ - The Sonata of Sneakiness
+ - Ur-Kel's Aria of Annoyance
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Geeky Gifts
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+3 of 3 AT buffs active.
+Lucky Cat is Lucky (2)
+Aspect of the Twinklefairy (4)
+Slippery Oiliness (4)
+Gonna Get You, Sucker (4)
+Strange Mental Acuity (4)
+Tomato Power (4)
+Greedy Resolve (5)
+Starry-Eyed (7)
+Mariachi Mood (7)
+Belch the Rainbow™ (7)
+Scarysauce (8)
+Jingle Jangle Jingle (8)
+Reptilian Fortitude (8)
+Jabañero Saucesphere (8)
+Empathy (8)
+♫ The Sonata of Sneakiness (8)
+Ghostly Shell (8)
+Tenacity of the Snapper (8)
+Elemental Saucesphere (8)
+Astral Shell (8)
+Jalapeño Saucesphere (8)
+♫ Stevedave's Shanty of Superiority (8)
+♫ Cringle's Curative Carol (8)
+Purity of Spirit (9)
+Mental A-cue-ity (14)
+Hustlin' (14)
+Elvish (14)
+Billiards Belligerence (14)
+Standard Issue Bravery (14)
+Having a Ball! (14)
+Rage of the Reindeer (17)
+Irresistible Resolve (20)
+Brilliant Resolve (20)
+Trivia Master (24)
+Destructive Resolve (25)
+Inner Dog (44)
+Muscle Unbound (47)
+Silent Running (60)
+Buy! Sell! Buy! Sell! (94)
+
+
+ > modifiers
+
+ML: +0
+Enc: -15.00%
+Init: +50.00%
+
+Exp: +2.00
+Meat: +195.75%
+Item: +85.87%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cast 9 Summon Resolutions
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be sexier
+You acquire an item: resolution: be smarter
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be stronger
+You acquire an item: resolution: be wealthier
+You acquire an item: resolution: be happier
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22black+cherry+soda%22
+
+[17946] The Daily Dungeon
+
+buy 230 black cherry soda for 80 each from Black Market
+You acquire black cherry soda (230)
+You spent 18,400 Meat
+
+use 230 black cherry soda
+You gain 2,314 Mojo Points
+
+[17946] The Daily Dungeon
+Encounter: It's Almost Certainly a Trap
+choice 693/1: Proceed forward cautiously
+choice 693/3: Proceed backwards cautiously
+Took choice 693/1: unknown
+choice.php?pwd&whichchoice=693&option=1&choiceform1=Proceed+forward+cautiously
+You lose 2,163 hit points
+You gain 15 Beefiness
+You gain 17 Wizardliness
+You gain 10 Sarcasm
+
+Visiting Relaxing Hot Tub in clan VIP lounge
+You lose an effect: Beaten Up
+You gain 4,297 hit points
+choice.php?forceoption=0
+
+[17947] The Daily Dungeon
+Encounter: I Wanna Be a Door
+Took choice 692/1: unknown
+choice.php?pwd&whichchoice=692&option=1
+You lose 865 hit points
+
+[17948] The Daily Dungeon
+Encounter: giant giant moth
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CHRONIC INDIGESTION!
+Round 2: giant giant moth takes 5 damage.
+Round 2: boolicious casts CHRONIC INDIGESTION!
+Round 3: giant giant moth takes 6 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "this creature clearly has an unhealthy obsession with material things."
+You gain 53 Meat
+You gain 4 Strongness
+You gain 3 Enchantedness
+You gain 3 Smarm
+choice.php?forceoption=0
+
+[17949] The Daily Dungeon
+Encounter: It's Almost Certainly a Trap
+Took choice 693/1: unknown
+choice.php?pwd&whichchoice=693&option=1
+You lose 2,163 hit points
+You gain 20 Muscleboundness
+You gain 16 Wizardliness
+You gain 11 Cheek
+
+use 1 resolution: be wealthier
+You acquire an effect: Greedy Resolve (duration: 20 Adventures)
+choice.php?forceoption=0
+
+[17950] The Daily Dungeon
+Encounter: The First Chest Isn't the Deepest.
+Took choice 690/1: unknown
+choice.php?pwd&whichchoice=690&option=1
+You acquire an item: suntan lotion of moxiousness
+choice.php?forceoption=0
+
+[17951] The Daily Dungeon
+Encounter: It's Almost Certainly a Trap
+Took choice 693/1: unknown
+choice.php?pwd&whichchoice=693&option=1
+You lose 1,447 hit points
+You gain 22 Strongness
+You gain 9 Mysteriousness
+You gain 12 Roguishness
+
+Visiting Relaxing Hot Tub in clan VIP lounge
+You lose an effect: Beaten Up
+You gain 2,864 hit points
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 400 each from 869972 on 20130831
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[17952] The Daily Dungeon
+Encounter: dairy ooze
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: dairy ooze takes 2319 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the little dance that I am doing is symbolic of my sublimated desire for material goods," and winks at you.
+You gain 43 Meat
+You acquire an item: mana curds
+After Battle: DocSavage looks at you, raises an eyebrow, and says &quot;Wait.  Why am I doing all the work?  Take this, and try to pick up some of the slack, would you?&quot;
+You acquire an item: psychoanalytic jar
+You gain 2 Beefiness
+You gain 5 Mysteriousness
+You gain 3 Cheek
+choice.php?forceoption=0
+
+[17953] The Daily Dungeon
+Encounter: I Wanna Be a Door
+Took choice 692/5: unknown
+choice.php?pwd&whichchoice=692&option=5
+choice.php?forceoption=0
+
+[17954] The Daily Dungeon
+Encounter: I Wanna Be a Door
+Took choice 692/4: unknown
+choice.php?pwd&whichchoice=692&option=4
+choice.php?forceoption=0
+
+[17955] The Daily Dungeon
+Encounter: Second Chest
+Took choice 691/1: unknown
+choice.php?pwd&whichchoice=691&option=1
+You acquire an item: ring of half-assed regeneration
+
+[17956] The Daily Dungeon
+Encounter: apathetic lizardman
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: apathetic lizardman takes 3637 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "this creature clearly has an unhealthy obsession with material things."
+You gain 56 Meat
+You acquire an item: flavorless gruel
+You gain 3 Strengthliness
+You gain 3 Enchantedness
+You gain 5 Sarcasm
+
+[17957] The Daily Dungeon
+Encounter: sabre-toothed lime
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+You lose 3 hit points
+Round 2: boolicious attacks!
+Round 3: sabre-toothed lime takes 3654 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 45 Meat
+You acquire an item: twist of lime
+You gain 3 Muscleboundness
+You gain 3 Wizardliness
+You gain 4 Sarcasm
+choice.php?forceoption=0
+
+[17958] The Daily Dungeon
+Encounter: It's Almost Certainly a Trap
+Took choice 693/1: unknown
+choice.php?pwd&whichchoice=693&option=1
+You lose 1,110 hit points
+choice.php?forceoption=0
+
+[17959] The Daily Dungeon
+Encounter: I Wanna Be a Door
+Took choice 692/3: unknown
+choice.php?pwd&whichchoice=692&option=3
+choice.php?forceoption=0
+
+[17959] The Daily Dungeon
+Encounter: The Final Reward
+Took choice 689/1: unknown
+choice.php?pwd&whichchoice=689&option=1
+You acquire an item: fat loot token
+
+[17960] The Daily Dungeon
+Encounter: Daily Done, John.
+
+Visiting Vending Machine
+
+swimming pool submarine
+You acquire an effect: Silent Running (duration: 50 Adventures)
+
+familiar Cocoabo (25 lbs)
+
+familiar Fancypants Scarecrow (20 lbs)
+
+Visiting Hot Dog Stand in clan VIP lounge
+
+eat sly dog
+You gain 8 Adventures
+You gain 14 Roguishness
+You acquire an effect: Top Dog (duration: 50 Adventures)
+You gain 2 Fullness
+
+Visiting the Bounty Hunter Hunter
