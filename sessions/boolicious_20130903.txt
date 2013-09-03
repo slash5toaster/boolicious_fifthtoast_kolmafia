@@ -1,0 +1,256 @@
+choice.php?forceoption=0
+
+[17967] The Daily Dungeon
+Encounter: It's Almost Certainly a Trap
+Took choice 693/1: unknown
+choice.php?pwd&whichchoice=693&option=1
+You lose 788 hit points
+choice.php?forceoption=0
+
+[17968] The Daily Dungeon
+Encounter: I Wanna Be a Door
+Took choice 692/5: unknown
+choice.php?pwd&whichchoice=692&option=5
+
+[17969] The Daily Dungeon
+Encounter: pencil golem
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: pencil golem takes 2089 damage.
+Round 2: Trot flops toward it, gasping for water, and manages to tailsmack it for 7 slimy, clammy damage.
+Round 2: pencil golem takes 7 damage.
+Round 2: Trot blasts you with his seltzer bottle.  The rage you feel is mitigated by the refreshingness of the bubbles.
+You gain 7 Mojo Points
+Round 2: boolicious wins the fight!
+You acquire an item: pencil stub
+You gain 65 Strengthliness
+You gain 52 Mysteriousness
+You gain 100 Chutzpah
+
+use 2 resolution: be feistier
+You acquire an effect: Destructive Resolve (duration: 40 Adventures)
+
+use 1 resolution: be wealthier
+You acquire an effect: Greedy Resolve (duration: 20 Adventures)
+choice.php?forceoption=0
+
+[17970] The Daily Dungeon
+Encounter: It's Almost Certainly a Trap
+Took choice 693/1: unknown
+choice.php?pwd&whichchoice=693&option=1
+You lose 508 hit points
+
+[17971] Rest in your dwelling
+You acquire an effect: Lucky Cat Is Lucky (duration: 5 Adventures)
+You gain 40 hit points
+You gain 42 Mojo Points
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 460 each from 1515124 on 20130903
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+choice.php?forceoption=0
+
+[17972] The Daily Dungeon
+Encounter: The First Chest Isn't the Deepest.
+
+uneffect Lucky Cat is Lucky
+Encounter: The First Chest Isn't the Deepest.
+choice 690/1: Open the chest
+choice 690/3: Ignore the chest
+Took choice 690/1: unknown
+choice.php?pwd&whichchoice=690&option=1&choiceform1=Open+the+chest
+You acquire an item: extra-strength strongness elixir
+choice.php?forceoption=0
+
+[17973] The Daily Dungeon
+Encounter: It's Almost Certainly a Trap
+Took choice 693/1: unknown
+choice.php?pwd&whichchoice=693&option=1
+You lose 508 hit points
+
+[17974] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 40 hit points
+You gain 42 Mojo Points
+
+cast 21 Tongue of the Walrus
+You gain 733 hit points
+
+cast 1 Tongue of the Walrus
+You gain 36 hit points
+
+[17975] The Daily Dungeon
+Encounter: mayonnaise wasp
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: mayonnaise wasp takes 1524 damage.
+Round 2: boolicious wins the fight!
+You acquire an item: glob of spoiled mayo
+You gain 47 Strongness
+You gain 64 Enchantedness
+You gain 106 Roguishness
+choice.php?forceoption=0
+
+[17976] The Daily Dungeon
+Encounter: I Wanna Be a Door
+Took choice 692/5: unknown
+choice.php?pwd&whichchoice=692&option=5
+choice.php?forceoption=0
+
+[17977] The Daily Dungeon
+Encounter: I Wanna Be a Door
+Took choice 692/5: unknown
+choice.php?pwd&whichchoice=692&option=5
+You lose 304 hit points
+choice.php?forceoption=0
+
+[17978] The Daily Dungeon
+Encounter: Second Chest
+Took choice 691/1: unknown
+choice.php?pwd&whichchoice=691&option=1
+You acquire an item: enchanted barbell
+
+use 1 enchanted barbell
+You gain 8 Muscleboundness
+
+[17979] The Daily Dungeon
+Encounter: vampire clam
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: vampire clam takes 1575 damage.
+Round 2: Trot flops toward it, gasping for water, and manages to tailsmack it for 8 slimy, clammy damage.
+Round 2: vampire clam takes 8 damage.
+Round 2: Trot blasts you with his seltzer bottle.  The rage you feel is mitigated by the refreshingness of the bubbles.
+You gain 8 Mojo Points
+Round 2: boolicious wins the fight!
+You gain 39 Meat
+You acquire an item: vampire chowder
+You gain 60 Fortitude
+You gain 57 Enchantedness
+You gain 106 Chutzpah
+
+[17980] The Daily Dungeon
+Encounter: sabre-toothed lime
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sabre-toothed lime takes 1527 damage.
+Round 2: Trot flops toward it, gasping for water, and manages to tailsmack it for 5 slimy, clammy damage.
+Round 2: sabre-toothed lime takes 5 damage.
+Round 2: Trot blasts you with his seltzer bottle.  The rage you feel is mitigated by the refreshingness of the bubbles.
+You gain 5 Mojo Points
+Round 2: boolicious wins the fight!
+You gain 27 Meat
+You acquire an item: twist of lime
+You gain 51 Muscleboundness
+You gain 61 Enchantedness
+You gain 104 Chutzpah
+You gain a Moxie point!
+choice.php?forceoption=0
+
+[17981] The Daily Dungeon
+Encounter: It's Almost Certainly a Trap
+choice 693/1: Proceed forward cautiously
+choice 693/3: Proceed backwards cautiously
+Took choice 693/1: unknown
+choice.php?pwd&whichchoice=693&option=1
+You lose 508 hit points
+
+Harvesting your garden
+You acquire peppermint sprout (3)
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 1,002 Meat
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chewing+gum+on+a+string%22
+
+buy 4 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (4)
+You spent 200 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless trinket
+You acquire an item: worthless knick-knack
+You acquire an item: worthless gewgaw
+
+add to closet: 1 worthless trinket
+
+add to closet: 1 worthless gewgaw
+
+add to closet: 1 worthless knick-knack
+
+use 1 chewing gum on a string
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless trinket
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless gewgaw
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 4 worthless items for 4 ten-leaf clovers
+You acquire ten-leaf clover (4)
+
+Visiting the Fishing Village on the Secret Tropical Island Volcano Lair
+You acquire an item: fisherman's sack
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be sexier
+
+Use 13 ten-leaf clover
+You acquire disassembled clover (13)
+
+cast 19 Tongue of the Walrus
+You gain 663 hit points
+
+cast 1 Tongue of the Walrus
+You gain 33 hit points
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 460 each from 1515124 on 20130903
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+choice.php?forceoption=0
+
+[17982] The Daily Dungeon
+Encounter: I Wanna Be a Door
+Took choice 692/4: unknown
+choice.php?pwd&whichchoice=692&option=4
+choice.php?forceoption=0
+
+[17983] The Daily Dungeon
+Encounter: The Final Reward
+Took choice 689/1: unknown
+choice.php?pwd&whichchoice=689&option=1
+You acquire an item: fat loot token
+
+[17984] The Daily Dungeon
+Encounter: Daily Done, John.
+
+Donating 10000 Meat to the Statue of Sneaky Pete
+You gain 68 Cheek
