@@ -93,8 +93,6 @@ var numPreds = {
 	"times": true,
 	"hpbelow": true,
 	"hppercentbelow": true,
-	"monsterhpabove": true,
-	"monsterhpbelow": true,
 	"mpbelow": true,
 	"mppercentbelow": true,
 	"didcritical": true,

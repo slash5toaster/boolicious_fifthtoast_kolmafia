@@ -7,30 +7,30 @@ a.error {
 	text-decoration: underline;
 }
 
-.elementnone {
+.element0 {
 	color: #000000;
 }
 
-.elementcold {
+.element1 {
 	color: #0000ff;
 }
 
-.elementhot {
+.element2 {
 	color: #ff0000;
 }
 
-.elementsleaze {
+.element3 {
 	color: #8a2be2;
 }
 
-.elementspooky {
+.element4 {
 	color: #808080;
 }
 
-.elementstench {
+.element5 {
 	color: #008000;
 }
 
-.elementslime {
+.element6 {
 	color: #006400;
 }
