@@ -1,0 +1,277 @@
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Who?
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: Who?
+
+buy 2 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (2)
+You spent 100 Meat
+
+use 2 chewing gum on a string
+You acquire an item: worthless trinket
+You acquire an item: helmet turtle
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You acquire an item: chewing gum on a string
+You spent 50 Meat
+
+add to closet: 1 worthless trinket
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless trinket
+You acquire an item: worthless trinket
+
+trading 2 worthless items for 2 ten-leaf clovers
+You acquire ten-leaf clover (2)
+
+Use 2 ten-leaf clover
+You acquire disassembled clover (2)
+
+pull: 1 goat beard
+
+equip hat goat beard
+
+equip weapon slide rule
+
+pull: 1 trousers of the white knight
+
+equip pants trousers of the white knight
+
+pull: 1 Jarlsberg's earring
+
+equip acc2 Jarlsberg's earring
+
+pull: 1 tiny plastic Big Candy
+
+equip acc3 tiny plastic Big Candy
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #255/1200:
+Question: What was needed to defeat The Demon Knight Warcarve in level 7, "Crackedcoppice", in the popular video game "Solid Age XV"?
+Answer: A lawyer.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #541/1200:
+Question: When did the Swampleton Babbling Nuns win the national bobsledding championship?
+Answer: Porktober 7, 1906.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #798/1200:
+Question: Who wrote about the broken quantum toaster?
+Answer: Duchess Archie XVII, ruler of Nickelodeon and the Invisible Canyons.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1165/1200:
+Question: Where did Señor Glenn Nichols, inventor of the rotary telegraph, sprain his foot?
+Answer: In a haberdashery in Wibbleford.
+
+buy 5 glittery mascara for 24 each from The General Store
+You acquire glittery mascara (5)
+You spent 120 Meat
+
+use 5 glittery mascara
+You acquire an effect: Glittering Eyelashes (duration: 15 Adventures)
+
+[116] The Spooky Forest
+Encounter: 
+
+[116] The Hallowed Halls
+Encounter: 
+
+[116] The Hallowed Halls
+Encounter: 
+unequip hat
+
+[116] The Hallowed Halls
+Encounter: motorhead
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: motorhead takes 6 damage.
+You lose 8 hit points
+Round 2: fifthtoast attacks!
+Round 3: motorhead takes 27 damage.
+Round 3: fifthtoast wins the fight!
+You gain 32 Meat
+You gain 4 Beefiness
+You gain 15 Magicalness
+You gain a Mysticality point!
+You gain 10 Roguishness
+
+[117] Rest in your dwelling
+You gain 20 hit points
+You gain 20 Mana Points
+
+[118] Rest in your dwelling
+You gain 20 hit points
+You gain 20 Mana Points
+
+[119] Rest in your dwelling
+You gain 19 hit points
+You gain 20 Mana Points
+
+[120] The Hallowed Halls
+Encounter: peripatetic pirate
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: peripatetic pirate takes 28 damage.
+Round 2: fifthtoast attacks!
+Round 3: peripatetic pirate takes 28 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: can of Binarrrca
+You gain 7 Muscleboundness
+You gain 19 Enchantedness
+You gain 3 Roguishness
+You gain a Moxie point!
+
+[121] The Hallowed Halls
+Encounter: motorhead
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: motorhead takes 5 damage.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 11 damage.
+Round 2: motorhead takes 11 damage.
+You lose 8 hit points
+Round 2: fifthtoast attacks!
+Round 3: motorhead takes 5 damage.
+You lose 9 hit points
+Round 3: fifthtoast attacks!
+Round 4: motorhead takes 4 damage.
+Round 4: cocopuf roots around in the ground, and comes up with some Meat. He wings it to you.
+You gain 44 Meat.
+You lose 8 hit points
+Round 4: fifthtoast attacks!
+Round 5: motorhead takes 6 damage.
+Round 5: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 11 damage.
+Round 5: motorhead takes 11 damage.
+Round 5: fifthtoast wins the fight!
+You gain 32 Meat
+You acquire an item: hair oil
+You gain 7 Muscleboundness
+You gain 15 Mysteriousness
+You gain 8 Chutzpah
+
+use 1 hair oil
+You acquire an effect: Slicked-Back Do (duration: 10 Adventures)
+
+[122] The Hallowed Halls
+Encounter: wastoid
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: wastoid takes 23 damage.
+Round 2: fifthtoast attacks!
+Round 3: wastoid takes 25 damage.
+Round 3: fifthtoast wins the fight!
+You gain 18 Meat
+You acquire an item: fountain 'soda'
+You gain 9 Muscleboundness
+You gain a Muscle point!
+You gain 10 Mysteriousness
+You gain 9 Cheek
+
+[123] The Hallowed Halls
+Encounter: dweebie
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: dweebie takes 4 damage.
+You lose 9 hit points
+Round 2: fifthtoast attacks!
+Round 3: dweebie takes 26 damage.
+You lose 11 hit points
+Round 3: fifthtoast attacks!
+Round 4: dweebie takes 5 damage.
+Round 4: cocopuf roots around in the ground, and comes up with some Meat. He wings it to you.
+You gain 44 Meat.
+Round 4: fifthtoast wins the fight!
+You gain 34 Meat
+You gain 7 Beefiness
+You gain 18 Magicalness
+You gain a Mysticality point!
+You gain 4 Roguishness
+
+[124] Art Class
+Encounter: misproportioned portrait
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: misproportioned portrait takes 24 damage.
+Round 2: cocopuf coos softly, and nuzzles you with his beak.
+You gain 17 hit points
+You gain 17 Mana Points
+Round 2: fifthtoast attacks!
+Round 3: misproportioned portrait takes 22 damage.
+Round 3: fifthtoast wins the fight!
+You gain 5 Strongness
+You gain 17 Mysteriousness
+You gain 9 Cheek
+
+[125] Art Class
+Encounter: clay golem
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: clay golem takes 4 damage.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat. He wings it to you.
+You gain 33 Meat.
+You lose 13 hit points
+Round 2: fifthtoast casts WEAPON OF THE PASTALORD!
+Round 3: clay golem takes 200 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: lump of clay
+You gain 11 Strongness
+You gain 14 Mysteriousness
+You gain 6 Sarcasm
+You gain a Moxie point!
+
+cast 1 Lasagna Bandages
+You gain 26 hit points
+
+cast 1 Tongue of the Walrus
+You gain 39 hit points
+
+use 1 lump of clay
+You acquire an item: old coin purse
+
+use 1 lump of clay
+
+[126] Art Class
+Encounter: wire sculpture
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast casts WEAPON OF THE PASTALORD!
+Round 2: wire sculpture takes 81 damage.
+Round 2: fifthtoast wins the fight!
+You gain 9 Strongness
+You gain a Muscle point!
+You gain 16 Enchantedness
+You gain a Mysticality point!
+You gain 6 Roguishness
+
+[127] Art Class
+Encounter: wire sculpture
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast attacks!
+Round 2: wire sculpture takes 4 damage.
+You lose 13 hit points
+Round 2: fifthtoast casts WEAPON OF THE PASTALORD!
+Round 3: wire sculpture takes 108 damage.
+Round 3: fifthtoast wins the fight!
+You gain 7 Muscleboundness
+You gain 13 Mysteriousness
+You gain 12 Sarcasm
+
+[128] Shop Class
+Encounter: demonic jigsaw
+Round 0: fifthtoast wins initiative!
+Round 1: fifthtoast casts WEAPON OF THE PASTALORD!
+Round 2: demonic jigsaw takes 83 damage.
+Round 2: fifthtoast wins the fight!
+You gain 8 Fortitude
+You gain 17 Enchantedness
+You gain 7 Sarcasm
