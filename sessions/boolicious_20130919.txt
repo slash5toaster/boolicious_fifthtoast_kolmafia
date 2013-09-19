@@ -116,3 +116,145 @@ You gain 254 Mojo Points
 
 Harvesting your garden
 You acquire peppermint sprout (3)
+
+pick 11
+You acquire an item: flaming mushroom
+
+pick 9
+You acquire an item: frozen mushroom
+
+Visiting Innabox
+
+Visiting The Plunger
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 300 each from 1515124 on 20130919
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+use 2 resolution: be feistier
+You acquire an effect: Destructive Resolve (duration: 40 Adventures)
+
+use 1 resolution: be wealthier
+You acquire an effect: Greedy Resolve (duration: 20 Adventures)
+
+[18060] Post-Quest Bugbear Pens
+Encounter: The Right To Bugbear Arms
+You gain 10 Strengthliness
+
+[18061] Post-Quest Bugbear Pens
+Encounter: Nothing up my sleeve...
+You gain 11 Mysteriousness
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[18062] Post-Quest Bugbear Pens
+Encounter: The Right To Bugbear Arms
+You gain 10 Strongness
+
+[18063] Post-Quest Bugbear Pens
+Encounter: It doesn't grow on trees, you know!
+You gain 75 Meat
+
+[18064] Post-Quest Bugbear Pens
+Encounter: ambulatory pirate
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: ambulatory pirate takes 1783 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You acquire an item: can of Binarrrca
+You gain 10 Muscleboundness
+You gain 8 Magicalness
+You gain 25 Chutzpah
+
+use 1 resolution: be smarter
+You acquire an effect: Brilliant Resolve (duration: 20 Adventures)
+
+use 1 resolution: be sexier
+You acquire an effect: Irresistible Resolve (duration: 20 Adventures)
+
+[18065] Post-Quest Bugbear Pens
+Encounter: Nothing up my sleeve...
+You gain 11 Magicalness
+
+[18066] Post-Quest Bugbear Pens
+Encounter: The Animal Instinct
+You gain 50 Meat
+
+[18067] Post-Quest Bugbear Pens
+Encounter: Wrasslin'
+You gain 11 Fortitude
+
+[18068] Post-Quest Bugbear Pens
+Encounter: Deuces Wild
+You gain 10 Cheek
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 300 each from 1515124 on 20130919
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[18069] Post-Quest Bugbear Pens
+Encounter: Ma Cherie
+You gain 10 Cheek
+
+[18070] The Spooky Gravy Barrow
+Encounter: 
+
+Visiting Mayor Zapruder
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be kinder
+
+cast 1 Summon Geeky Gifts
+You acquire an item: haggis-wrapped haggis-stuffed haggis
+You acquire an item: 37x37x37 puzzle cube
+You acquire an item: actual reality goggles
+You acquire an item: Microplushie: Gothochondria
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be kinder
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be feistier
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be stronger
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be luckier
+
+cast 1 Summon Clip Art
+You acquire an item: Bright Water
+
+cast 1 Summon Clip Art
+You acquire an item: cold-filtered water
+
+cast 1 Summon Clip Art
+You acquire an item: holy bomb, batman
+
+mallsell: 82 disassembled clover
+
+manageprices.php?action=update&price0[1300]=15000&limit0[1300]=0&price0[1139]=13000&limit0[1139]=0&price0[5100]=9690&limit0[5100]=0&price0[5259]=7000&limit0[5259]=0&price0[5101]=3000&limit0[5101]=0&price0[5099]=1700&limit0[5099]=0&price0[196]=1250&limit0[196]=0&price0[5464]=900&limit0[5464]=0&price0[1166]=750&limit0[1166]=0&price0[5445]=690&limit0[5445]=0&price0[5087]=600&limit0[5087]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[3849]=336&limit0[3849]=0&price0[2680]=300&limit0[2680]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[2397]=260&limit0[2397]=0&price0[538]=260&limit0[538]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[1840]=200&limit0[1840]=0&price0[5468]=200&limit0[5468]=3&price0[834]=190&limit0[834]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[218]=155&limit0[218]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[1655]=120&limit0[1655]=0&price0[5466]=111&limit0[5466]=0&price0[3019]=110&limit0[3019]=0&price0[6072]=100&limit0[6072]=0&price0[6080]=100&limit0[6080]=0&price0[6077]=100&limit0[6077]=0&price0[5469]=100&limit0[5469]=0&price0[5467]=100&limit0[5467]=0&price0[1]=100&limit0[1]=0
+manageprices.php?action=update&price0[1300]=15000&limit0[1300]=0&price0[5100]=8400&limit0[5100]=0&price0[1139]=8000&limit0[1139]=0&price0[5259]=6000&limit0[5259]=0&price0[5101]=2400&limit0[5101]=0&price0[196]=1250&limit0[196]=0&price0[5099]=1000&limit0[5099]=0&price0[5445]=690&limit0[5445]=0&price0[5087]=500&limit0[5087]=0&price0[1166]=500&limit0[1166]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[3849]=336&limit0[3849]=0&price0[2680]=300&limit0[2680]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[2397]=260&limit0[2397]=0&price0[538]=260&limit0[538]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[1840]=200&limit0[1840]=0&price0[5468]=200&limit0[5468]=0&price0[834]=190&limit0[834]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[218]=155&limit0[218]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[1655]=120&limit0[1655]=3&price0[5466]=111&limit0[5466]=0&price0[3019]=110&limit0[3019]=0&price0[6072]=100&limit0[6072]=0&price0[6080]=100&limit0[6080]=0&price0[6077]=100&limit0[6077]=0&price0[5469]=100&limit0[5469]=0&price0[5467]=100&limit0[5467]=0&price0[5464]=100&limit0[5464]=0&price0[1]=100&limit0[1]=0
+backoffice.php?which=3
+
+mallsell: 10 &quot;DRINK ME&quot; potion
+
+mallsell: 8 37x37x37 puzzle cube
+
+manageprices.php?action=update&price0[1300]=15000&limit0[1300]=0&price0[5100]=8400&limit0[5100]=0&price0[1139]=8000&limit0[1139]=0&price0[5259]=6000&limit0[5259]=0&price0[5101]=2400&limit0[5101]=0&price0[6075]=1500&limit0[6075]=0&price0[196]=1250&limit0[196]=0&price0[5099]=1000&limit0[5099]=0&price0[5445]=690&limit0[5445]=0&price0[5087]=500&limit0[5087]=0&price0[1166]=500&limit0[1166]=0&price0[594]=410&limit0[594]=0&price0[2687]=400&limit0[2687]=0&price0[3849]=336&limit0[3849]=0&price0[2680]=300&limit0[2680]=0&price0[622]=272&limit0[622]=0&price0[632]=264&limit0[632]=0&price0[2397]=260&limit0[2397]=0&price0[538]=260&limit0[538]=0&price0[616]=258&limit0[616]=0&price0[613]=256&limit0[613]=0&price0[3858]=250&limit0[3858]=0&price0[2979]=250&limit0[2979]=0&price0[541]=240&limit0[541]=0&price0[399]=230&limit0[399]=0&price0[2093]=230&limit0[2093]=0&price0[1840]=200&limit0[1840]=0&price0[5468]=200&limit0[5468]=0&price0[834]=190&limit0[834]=0&price0[776]=190&limit0[776]=0&price0[3864]=164&limit0[3864]=0&price0[312]=160&limit0[312]=0&price0[218]=155&limit0[218]=0&price0[299]=150&limit0[299]=0&price0[2613]=150&limit0[2613]=0&price0[4508]=150&limit0[4508]=0&price0[1655]=120&limit0[1655]=0&price0[5466]=111&limit0[5466]=0&price0[3019]=110&limit0[3019]=0&price0[6072]=100&limit0[6072]=0&price0[6080]=100&limit0[6080]=0&price0[6077]=100&limit0[6077]=0&price0[5469]=100&limit0[5469]=0&price0[5467]=100&limit0[5467]=3&price0[5464]=100&limit0[5464]=0&price0[1]=100&limit0[1]=0
