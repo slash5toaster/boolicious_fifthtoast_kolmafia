@@ -1,0 +1,769 @@
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 981 Meat
+
+Visiting Crimbo Tree in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+You acquire an item: stuffed teddy butler
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Looking Glass in clan VIP lounge
+You acquire an item: &quot;DRINK ME&quot; potion
+
+swimming pool screwaround
+
+Doing handstand in clan VIP swimming pool
+
+Diving for treasure in clan VIP swimming pool
+
+Getting out of clan VIP swimming pool
+
+use 1 Manual of Dexterity
+
+use 1 Chester's bag of candy
+You acquire an item: marzipan skull
+You acquire Angry Farmer candy (2)
+You acquire Yummy Tummy bean (2)
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: When?
+
+use 1 creepy voodoo doll
+
+use 1 Taco Dan's Taco Stand Flier
+You acquire an item: Taco Dan's Taco Stand Taco
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chewing+gum+on+a+string%22
+
+buy 4 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (4)
+You spent 200 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless gewgaw
+You acquire an item: worthless trinket
+You acquire an item: worthless knick-knack
+
+add to closet: 1 worthless trinket
+
+add to closet: 1 worthless gewgaw
+
+add to closet: 1 worthless knick-knack
+
+use 1 chewing gum on a string
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless trinket
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless gewgaw
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 4 worthless items for 4 ten-leaf clovers
+You acquire ten-leaf clover (4)
+
+Use 4 ten-leaf clover
+You acquire disassembled clover (4)
+You gain 4,933 Meat
+
+Visiting the Fishing Village on the Secret Tropical Island Volcano Lair
+You acquire an item: fisherman's sack
+
+cast 1 Summon Clip Art
+You acquire an item: holy bomb, batman
+
+cast 1 Summon Clip Art
+You acquire an item: The Bomb
+
+cast 1 Summon Clip Art
+You acquire an item: cheezburger
+
+Harvesting your garden
+You acquire peppermint sprout (6)
+choice.php?forceoption=0
+
+[18070] The Shore, Inc. Travel Agency
+Encounter: Welcome to The Shore, Inc.
+Took choice 793/1: Muscle Vacation
+choice.php?pwd&whichchoice=793&option=1
+You lose 3 Adventures
+You spent 500 Meat
+You gain 517 Fortitude
+You acquire an item: Shore Inc. Ship Trip Scrip
+choice.php?forceoption=0
+
+[18073] The Shore, Inc. Travel Agency
+Encounter: Welcome to The Shore, Inc.
+Took choice 793/4: unknown
+choice.php?pwd&whichchoice=793&option=4
+
+Visiting The Shore, Inc. Gift Shop
+choice.php?forceoption=0
+
+[18073] The Shore, Inc. Travel Agency
+Encounter: Welcome to The Shore, Inc.
+Took choice 793/2: Mysticality Vacation
+choice.php?pwd&whichchoice=793&option=2
+You lose 3 Adventures
+You spent 500 Meat
+You gain 385 Wizardliness
+You acquire an item: Shore Inc. Ship Trip Scrip
+choice.php?forceoption=0
+
+[18076] The Shore, Inc. Travel Agency
+Encounter: Welcome to The Shore, Inc.
+Took choice 793/3: Moxie Vacation
+choice.php?pwd&whichchoice=793&option=3
+You lose 3 Adventures
+You spent 500 Meat
+You gain 390 Sarcasm
+You acquire an item: Shore Inc. Ship Trip Scrip
+choice.php?forceoption=0
+
+[18079] The Shore, Inc. Travel Agency
+Encounter: Welcome to The Shore, Inc.
+Took choice 793/4: unknown
+choice.php?pwd&whichchoice=793&option=4
+
+Visiting The Shore, Inc. Gift Shop
+
+trading 1 Shore Inc. Ship Trip Scrip for 1 dude ranch souvenir crate
+You acquire an item: dude ranch souvenir crate
+
+use 1 dude ranch souvenir crate
+You acquire bottle of whiskey (2)
+You acquire coconut shell (3)
+choice.php?forceoption=0
+
+[18079] The Shore, Inc. Travel Agency
+Encounter: Welcome to The Shore, Inc.
+Took choice 793/4: unknown
+choice.php?pwd&whichchoice=793&option=4
+
+Visiting The Shore, Inc. Gift Shop
+
+trading 1 Shore Inc. Ship Trip Scrip for 1 tropical island souvenir crate
+You acquire an item: tropical island souvenir crate
+
+use 1 tropical island souvenir crate
+You acquire bottle of rum (3)
+You acquire an item: little paper umbrella
+You acquire tropical orchid (2)
+
+trading 1 Shore Inc. Ship Trip Scrip for 1 ski resort souvenir crate
+You acquire an item: ski resort souvenir crate
+
+use 1 ski resort souvenir crate
+You acquire bottle of vodka (2)
+You acquire magical ice cubes (3)
+You acquire an item: barbed-wire fence
+You acquire an item: souvenir ski t-shirt
+outfit Cold Comforts
+
+place.php?whichplace=town_wrong&action=townwrong_artist_quest
+custom outfit Sewer Togs
+
+Visiting Hot Dog Stand in clan VIP lounge
+
+eat savage macho dog
+You gain 7 Adventures
+You gain 18 Strongness
+You acquire an effect: Macho, Macho Dog (duration: 50 Adventures)
+You gain 2 Fullness
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 275 each from 1879553 on 20130921
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+use 1 resolution: be wealthier
+You acquire an effect: Greedy Resolve (duration: 20 Adventures)
+
+[18079] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 873 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: bottle of sewage schnapps
+You gain 25 Strengthliness
+You gain 20 Enchantedness
+You gain 33 Chutzpah
+
+[18080] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 3 hit points
+Round 2: boolicious attacks!
+Round 3: c. h. u. m. takes 796 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You acquire an item: bottle of sewage schnapps
+You gain 26 Strengthliness
+You gain 16 Magicalness
+You gain 36 Chutzpah
+
+[18081] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 786 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the uncontrollable urge to dance is evidence of repressed sexual longing," and does a little soft-shoe.
+You acquire an item: decaying goldfish liver
+You gain 20 Fortitude
+You gain 21 Mysteriousness
+You gain 33 Sarcasm
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[18082] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 818 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 213 Meat
+You gain 24 Beefiness
+You gain 24 Magicalness
+You gain 27 Chutzpah
+
+[18083] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 797 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: decaying goldfish liver
+You acquire an item: sewer nuggets
+You acquire an item: sewer nuggets
+You gain 17 Strengthliness
+You gain 13 Wizardliness
+You gain 44 Cheek
+
+[18084] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/1: take the tunnel
+choice.php?whichchoice=197&option=1&pwd
+
+use 1 resolution: be smarter
+You acquire an effect: Brilliant Resolve (duration: 20 Adventures)
+
+use 1 resolution: be sexier
+You acquire an effect: Irresistible Resolve (duration: 20 Adventures)
+
+[18085] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/3: open the grate
+choice.php?whichchoice=198&option=3&pwd
+
+[18085] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?whichchoice=199&option=1&pwd
+
+[18086] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 807 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the little dance that I am doing is symbolic of my sublimated desire for material goods," and winks at you.
+You gain 234 Meat
+You acquire an item: sewer nuggets
+You gain 16 Beefiness
+You gain 16 Enchantedness
+You gain 41 Sarcasm
+
+[18087] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 795 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You acquire an item: sewer nuggets
+You gain 16 Fortitude
+You gain 26 Enchantedness
+You gain 36 Smarm
+
+[18088] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 797 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 213 Meat
+You acquire an item: sewer nuggets
+After Battle: DocSavage looks at you, raises an eyebrow, and says &quot;Wait. Why am I doing all the work? Take this, and try to pick up some of the slack, would you?&quot;
+You acquire an item: psychoanalytic jar
+You gain 26 Muscleboundness
+You gain 27 Magicalness
+You gain 23 Cheek
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 275 each from 1879553 on 20130921
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[18089] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 791 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking and dancing are primal, universal symbols for acquiring meat and items, respectively."
+You gain 165 Meat
+You acquire an item: gator skin
+You gain 16 Strengthliness
+You gain 17 Mysteriousness
+You gain 39 Chutzpah
+
+[18090] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/1: take the tunnel
+choice.php?whichchoice=197&option=1&pwd
+
+[18091] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 786 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 205 Meat
+You acquire an item: sewer nuggets
+You gain 23 Strengthliness
+You gain 14 Wizardliness
+You gain 38 Sarcasm
+You gain a Moxie point!
+
+[18092] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 804 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You acquire an item: sewer nuggets
+You gain 18 Fortitude
+You gain 19 Enchantedness
+You gain 38 Roguishness
+
+[18093] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?whichchoice=199&option=1&pwd
+
+[18094] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/3: open the grate
+choice.php?whichchoice=198&option=3&pwd
+
+[18094] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 795 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You acquire an item: bottle of sewage schnapps
+You acquire an item: sewer nuggets
+You gain 16 Beefiness
+You gain 18 Wizardliness
+You gain a Mysticality point!
+You gain 42 Chutzpah
+
+[18095] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+You lose 3 hit points
+Round 2: boolicious attacks!
+Round 3: giant zombie goldfish takes 806 damage.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "the uncontrollable urge to dance is evidence of repressed sexual longing," and does a little soft-shoe.
+You acquire an item: decaying goldfish liver
+You acquire an item: sewer nuggets
+You gain 13 Fortitude
+You gain a Muscle point!
+You gain 21 Wizardliness
+You gain 40 Smarm
+
+[18096] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 796 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: sewer nuggets
+You gain 20 Muscleboundness
+You gain 19 Mysteriousness
+You gain 36 Cheek
+
+[18097] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 796 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You gain 18 Strengthliness
+You gain 24 Wizardliness
+You gain 33 Chutzpah
+
+[18098] A Maze of Sewer Tunnels
+Encounter: Disgustin' Junction
+Took choice 198/3: open the grate
+choice.php?whichchoice=198&option=3&pwd
+
+[18098] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 786 damage.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "this creature clearly has an unhealthy obsession with material things."
+You gain 181 Meat
+You acquire an item: gator skin
+You acquire an item: sewer nuggets
+You acquire an item: sewer nuggets
+You gain 16 Muscleboundness
+You gain 27 Magicalness
+You gain 31 Sarcasm
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+buy 1 Piddles for 275 each from 1879553 on 20130921
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+use 2 resolution: be feistier
+You acquire an effect: Destructive Resolve (duration: 40 Adventures)
+
+use 1 resolution: be wealthier
+You acquire an effect: Greedy Resolve (duration: 20 Adventures)
+
+[18099] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?whichchoice=199&option=1&pwd
+
+[18100] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?whichchoice=199&option=1&pwd
+
+[18101] A Maze of Sewer Tunnels
+Encounter: Somewhat Higher and Mostly Dry
+Took choice 197/1: take the tunnel
+choice.php?whichchoice=197&option=1&pwd
+
+cast 2 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (duration: 20 Adventures)
+
+[18102] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 96 damage.
+Round 2: boolicious attacks!
+Round 3: giant zombie goldfish takes 96 damage.
+Round 3: boolicious casts CONJURE RELAXING CAMPFIRE!
+Round 4: giant zombie goldfish takes 112 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You gain 20 Strongness
+You gain 14 Mysteriousness
+You gain 41 Chutzpah
+
+[18103] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 96 damage.
+Round 2: boolicious attacks!
+Round 3: c. h. u. m. takes 96 damage.
+Round 3: boolicious casts CONJURE RELAXING CAMPFIRE!
+Round 4: c. h. u. m. takes 114 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: sewer nuggets
+You gain 20 Strongness
+You gain 20 Enchantedness
+You gain 37 Sarcasm
+
+[18104] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 96 damage.
+Round 2: boolicious attacks!
+Round 3: c. h. u. m. takes 96 damage.
+You lose 22 hit points
+Round 3: boolicious casts CONJURE RELAXING CAMPFIRE!
+Round 4: c. h. u. m. takes 112 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You gain 16 Strongness
+You gain 28 Magicalness
+You gain 33 Chutzpah
+
+use 1 resolution: be smarter
+You acquire an effect: Brilliant Resolve (duration: 20 Adventures)
+
+use 1 resolution: be sexier
+You acquire an effect: Irresistible Resolve (duration: 20 Adventures)
+
+[18105] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 96 damage.
+Round 2: boolicious attacks!
+Round 3: c. h. u. m. takes 96 damage.
+Round 3: boolicious casts CONJURE RELAXING CAMPFIRE!
+Round 4: c. h. u. m. takes 111 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You gain 21 Muscleboundness
+You gain 17 Magicalness
+You gain 40 Sarcasm
+
+[18106] A Maze of Sewer Tunnels
+Encounter: giant zombie goldfish
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: giant zombie goldfish takes 96 damage.
+Round 2: boolicious attacks!
+Round 3: giant zombie goldfish takes 96 damage.
+Round 3: boolicious casts CONJURE RELAXING CAMPFIRE!
+Round 4: giant zombie goldfish takes 111 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "the urge to dance demonstrates repressed feelings of inadequacy about one's psychoanalytical abilities," and does a little dance.
+You gain 26 Fortitude
+You gain 21 Enchantedness
+You gain 30 Sarcasm
+
+[18107] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 96 damage.
+Round 2: boolicious attacks!
+Round 3: c. h. u. m. takes 96 damage.
+Round 3: boolicious casts CONJURE RELAXING CAMPFIRE!
+Round 4: c. h. u. m. takes 111 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "dancing is an expression of several base human urges, sublimated into a more socially acceptable form of expression," as he does a few pirouettes.
+You acquire an item: bottle of sewage schnapps
+You acquire an item: sewer nuggets
+You gain 17 Fortitude
+You gain 24 Mysteriousness
+You gain 36 Smarm
+
+[18108] A Maze of Sewer Tunnels
+Encounter: sewer gator
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sewer gator takes 96 damage.
+Round 2: boolicious attacks!
+Round 3: sewer gator takes 96 damage.
+Round 3: boolicious casts CONJURE RELAXING CAMPFIRE!
+Round 4: sewer gator takes 118 damage.
+Round 4: boolicious casts CONJURE RELAXING CAMPFIRE!
+Round 5: sewer gator takes 112 damage.
+Round 5: boolicious wins the fight!
+After Battle: DocSavage says, "winking and dancing are primal, universal symbols for acquiring meat and items, respectively."
+You gain 184 Meat
+You acquire an item: gator skin
+You gain 12 Strengthliness
+You gain 27 Mysteriousness
+You gain 37 Cheek
+
+cast 2 Moxie of the Mariachi
+You acquire an effect: Mariachi Mood (duration: 10 Adventures)
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22Piddles%22
+
+buy 1 Piddles for 275 each from 1879553 on 20130921
+You acquire an item: Piddles
+
+use 1 Piddles
+You acquire an effect: Belch the Rainbow&trade; (duration: 10 Adventures)
+
+[18109] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 96 damage.
+Round 2: boolicious attacks!
+Round 3: c. h. u. m. takes 96 damage.
+Round 3: boolicious casts CONJURE RELAXING CAMPFIRE!
+Round 4: c. h. u. m. takes 118 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "the uncontrollable urge to dance is evidence of repressed sexual longing," and does a little soft-shoe.
+You acquire an item: bottle of sewage schnapps
+You gain 25 Muscleboundness
+You gain 21 Wizardliness
+You gain 31 Roguishness
+
+[18110] A Maze of Sewer Tunnels
+Encounter: C. H. U. M.
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: c. h. u. m. takes 96 damage.
+Round 2: boolicious attacks!
+Round 3: c. h. u. m. takes 96 damage.
+Round 3: boolicious casts CONJURE RELAXING CAMPFIRE!
+Round 4: c. h. u. m. takes 111 damage.
+Round 4: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You gain 21 Strongness
+You gain 24 Enchantedness
+You gain 32 Chutzpah
+
+[18111] A Maze of Sewer Tunnels
+Encounter: The Former or the Ladder
+Took choice 199/1: take the tunnel
+choice.php?whichchoice=199&option=1&pwd
+
+[18112] A Maze of Sewer Tunnels
+Encounter: At Last!
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22gatorskin+umbrella%22
+
+buy 1 gatorskin umbrella for 1870 each from 2264385 on 20130921
+You acquire an item: gatorskin umbrella
+
+equip weapon gatorskin umbrella
+
+clan_hobopolis.php?place=1
+clan_hobopolis.php?place=2
+clan_hobopolis.php?place=3
+clan_hobopolis.php?place=3&action=talkrichard&whichtalk=3
+clan_hobopolis.php?place=1
+
+Visiting The Terrified Eagle Inn
+
+clan_dreadsylvania.php?place=carriage
+
+Visiting The Terrified Eagle Inn
+
+[18113] Dreadsylvanian Woods
+Encounter: Noisome-Tail, Stainer of Teens
+Round 0: boolicious loses initiative!
+You lose 421 hit points
+You acquire an effect: Nauseated (duration: 6 Adventures)
+Round 1: boolicious casts CONJURE RELAXING CAMPFIRE!
+Round 2: stench werewolf takes 87 damage.
+You lose 28 hit points
+You lose 328 hit points
+You acquire an effect: Nauseated (duration: 6 Adventures)
+
+[18114] Rest in your dwelling
+You acquire an effect: Lucky Cat Is Lucky (duration: 5 Adventures)
+You lose an effect: Beaten Up
+You gain 40 hit points
+You gain 42 Mojo Points
+
+cast 14 Tongue of the Walrus
+You gain 509 hit points
+
+cast 1 Tongue of the Walrus
+You gain 35 hit points
+
+postwarisland.php?place=nunnery&pwd&action=nuns
+You gain 106 hit points
+
+pool aggressive
+You acquire an effect: Billiards Belligerence (duration: 10 Adventures)
+
+pool strategic
+You acquire an effect: Mental A-cue-ity (duration: 10 Adventures)
+
+pool stylish
+You acquire an effect: Hustlin' (duration: 10 Adventures)
+
+swimming pool submarine
+You acquire an effect: Silent Running (duration: 50 Adventures)
+
+shower warm
+You acquire an effect: Muscle Unbound (duration: 50 Adventures)
+friars blessing 2
+You acquire an effect: Brother Corsican's Blessing (duration: 20 Adventures)
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+
+familiar Exotic Parrot (25 lbs)
