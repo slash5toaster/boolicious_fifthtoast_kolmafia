@@ -1,0 +1,448 @@
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+
+use 1 cheap toaster
+You acquire an item: toast
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 997 Meat
+
+Visiting Crimbo Tree in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Looking Glass in clan VIP lounge
+You acquire an item: &quot;DRINK ME&quot; potion
+
+swimming pool screwaround
+
+Doing handstand in clan VIP swimming pool
+
+Diving for treasure in clan VIP swimming pool
+
+Getting out of clan VIP swimming pool
+
+use 1 Manual of Dexterity
+
+use 1 Chester's bag of candy
+You acquire an item: Angry Farmer candy
+You acquire Yummy Tummy bean (5)
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: Who?
+
+use 1 creepy voodoo doll
+
+use 1 Taco Dan's Taco Stand Flier
+You acquire an item: Taco Dan's Taco Stand Chimichangarita
+
+pull: 0 worthless trinket, 0 worthless gewgaw, 0 worthless knick-knack
+
+add to closet: 2 worthless knick-knack
+
+use 2 chewing gum on a string
+You acquire an item: worthless knick-knack
+You acquire an item: worthless gewgaw
+
+take from closet: 2 worthless knick-knack
+You acquire worthless knick-knack (2)
+
+trading 4 worthless items for 4 ten-leaf clovers
+You acquire ten-leaf clover (4)
+
+Use 4 ten-leaf clover
+You acquire disassembled clover (4)
+You gain 4,901 Meat
+
+Visiting the Fishing Village on the Secret Tropical Island Volcano Lair
+You acquire an item: fisherman's sack
+
+Harvesting your garden
+You acquire peppermint sprout (3)
+
+cast 1 Summon Geeky Gifts
+You acquire an item: haggis-wrapped haggis-stuffed haggis
+You acquire an item: 37x37x37 puzzle cube
+You acquire an item: haggis socks
+You acquire an item: Microplushie: Raverdrine
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be wealthier
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be stronger
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be sexier
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be stronger
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be sexier
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be feistier
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be wealthier
+
+cast 1 Summon Resolutions
+You acquire an item: resolution: be smarter
+
+pool aggressive
+You acquire an effect: Billiards Belligerence (duration: 10 Adventures)
+
+pool strategic
+You acquire an effect: Mental A-cue-ity (duration: 10 Adventures)
+
+pool stylish
+You acquire an effect: Hustlin' (duration: 10 Adventures)
+
+swimming pool submarine
+You acquire an effect: Silent Running (duration: 50 Adventures)
+
+shower warm
+You acquire an effect: Muscle Unbound (duration: 50 Adventures)
+concert 1
+You acquire an effect: Elvish (duration: 20 Adventures)
+
+[18191] The Daily Dungeon
+Encounter: It's Almost Certainly a Trap
+choice 693/1: Proceed forward cautiously (Suffer elemental damage, get stats)
+choice 693/3: Proceed backwards cautiously (Leave, no turn spent)
+Took choice 693/1: Suffer elemental damage, get stats
+choice.php?pwd&whichchoice=693&option=1&choiceform1=Proceed+forward+cautiously
+You lose 425 hit points
+You gain 106 Beefiness
+You gain 87 Wizardliness
+You gain 81 Cheek
+
+[18192] The Daily Dungeon
+Encounter: I Wanna Be a Door
+Took choice 692/2: unlock door with key, no turn spent
+choice.php?pwd&whichchoice=692&option=2&choiceform2=Use+a+skeleton+key
+
+[18192] The Daily Dungeon
+Encounter: dodecapede
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: dodecapede takes 1195 damage.
+Round 2: dodecapede drops 13 attack power.
+Round 2: dodecapede drops 13 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 23 Meat
+You acquire an item: clutch of dodecapede eggs
+After Battle: DocSavage looks at you, raises an eyebrow, and says &quot;Wait. Why am I doing all the work? Take this, and try to pick up some of the slack, would you?&quot;
+You acquire an item: psychoanalytic jar
+You gain 2 Muscleboundness
+You gain 2 Wizardliness
+You gain 1 Chutzpah
+
+[18193] The Daily Dungeon
+Encounter: It's Almost Certainly a Trap
+Took choice 693/1: Suffer elemental damage, get stats
+choice.php?pwd&whichchoice=693&option=1&choiceform1=Proceed+forward+cautiously
+You lose 425 hit points
+You gain 98 Beefiness
+You gain 81 Wizardliness
+You gain a Mysticality point!
+You gain 77 Chutzpah
+
+postwarisland.php?place=nunnery&pwd&action=nuns
+You gain 694 hit points
+
+[18194] The Daily Dungeon
+Encounter: The First Chest Isn't the Deepest.
+Took choice 690/1: Get item
+choice.php?pwd&whichchoice=690&option=1&choiceform1=Open+the+chest
+You acquire an item: suntan lotion of moxiousness
+
+[18195] The Daily Dungeon
+Encounter: It's Almost Certainly a Trap
+Took choice 693/1: Suffer elemental damage, get stats
+choice.php?pwd&whichchoice=693&option=1&choiceform1=Proceed+forward+cautiously
+You lose 425 hit points
+You gain 107 Strongness
+You gain 81 Enchantedness
+You gain 78 Cheek
+You gain a Moxie point!
+
+[18196] The Daily Dungeon
+Encounter: giant giant moth
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: giant giant moth takes 1152 damage.
+Round 2: giant giant moth drops 12 attack power.
+Round 2: giant giant moth drops 11 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the little dance that I am doing is symbolic of my sublimated desire for material goods," and winks at you.
+You gain 37 Meat
+You acquire an item: giant giant moth dust
+You gain 2 Strengthliness
+You gain 3 Smarm
+
+[18197] The Daily Dungeon
+Encounter: I Wanna Be a Door
+Took choice 692/3: pick lock with lockpicks, no turn spent
+choice.php?pwd&whichchoice=692&option=3&choiceform3=Use+your+lockpicks
+
+[18197] The Daily Dungeon
+Encounter: I Wanna Be a Door
+Took choice 692/5: bypass trap with mysticality
+choice.php?pwd&whichchoice=692&option=5&choiceform5=Magic+it+open
+
+[18198] The Daily Dungeon
+Encounter: Second Chest
+Took choice 691/1: Get item
+choice.php?pwd&whichchoice=691&option=1&choiceform1=Open+the+chest
+You acquire an item: can of maces
+
+[18199] The Daily Dungeon
+Encounter: vampire clam
+Round 0: boolicious wins initiative!
+Round 2: boolicious attacks!
+Round 3: vampire clam takes 1135 damage.
+Round 3: vampire clam drops 13 attack power.
+Round 3: vampire clam drops 10 defense.
+Round 3: boolicious wins the fight!
+After Battle: DocSavage says, "this creature clearly has an unhealthy obsession with material things."
+You gain 49 Meat
+You acquire an item: vampire chowder
+You gain 6 Strengthliness
+You gain 3 Wizardliness
+You gain 5 Roguishness
+
+[18200] The Daily Dungeon
+Encounter: pencil golem
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: pencil golem takes 1159 damage.
+You lose 4 hit points
+Round 2: pencil golem drops 9 attack power.
+Round 2: pencil golem drops 6 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "It would appear your foe had an unhealthy obsession with material goods. Let us endeavor to help him rid himself of that obsession."
+You acquire an item: pencil stub
+You gain 2 Wizardliness
+You gain 2 Sarcasm
+
+[18201] The Daily Dungeon
+Encounter: It's Almost Certainly a Trap
+Took choice 693/1: Suffer elemental damage, get stats
+choice.php?pwd&whichchoice=693&option=1&choiceform1=Proceed+forward+cautiously
+You lose 425 hit points
+You gain 98 Fortitude
+You gain a Muscle point!
+You gain 75 Enchantedness
+You gain 75 Smarm
+
+[18202] The Daily Dungeon
+Encounter: I Wanna Be a Door
+Took choice 692/4: bypass trap with muscle
+choice.php?pwd&whichchoice=692&option=4&choiceform4=Bash+it+down
+
+[18203] The Daily Dungeon
+Encounter: The Final Reward
+Took choice 689/1: Get fat loot token
+choice.php?pwd&whichchoice=689&option=1&choiceform1=Open+it%21
+You acquire an item: fat loot token
+
+Visiting Relaxing Hot Tub in clan VIP lounge
+You gain 365 hit points
+
+Visiting Pool Table in clan VIP lounge
+
+Visiting Hot Dog Stand in clan VIP lounge
+
+eat devil dog
+You gain 12 Adventures
+You gain 5 PvP Fights
+You acquire an effect: Devil Inside (duration: 30 Adventures)
+You gain 3 Fullness
+
+Visiting Hot Dog Stand in clan VIP lounge
+
+eat savage macho dog
+choice.php?forceoption=0
+
+[18204] An Overgrown Shrine (Southeast)
+Encounter: Fire When Ready
+Took choice 787/3: Get Blessing of Charcoatl
+choice.php?pwd&whichchoice=787&option=3
+You acquire an effect: Blessing of Charcoatl (duration: 20 Adventures)
+choice.php?forceoption=0
+
+[18204] An Overgrown Shrine (Northwest)
+Encounter: Earthbound and Down
+Took choice 781/6: skip adventure
+choice.php?pwd&whichchoice=781&option=6
+
+[18204] A Massive Ziggurat
+Encounter: dense liana
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: dense liana takes 1012 damage.
+Round 2: dense liana drops 14 attack power.
+Round 2: dense liana drops 11 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "as this monster has no meat, I shall collect my fee for psychoanalysis in material goods."
+You acquire an item: exotic jungle fruit
+You gain 11 Beefiness
+You gain 9 Magicalness
+You gain 21 Sarcasm
+choice.php?forceoption=0
+
+[18205] A Massive Ziggurat
+Encounter: Legend of the Temple in the Hidden City
+Took choice 791/6: skip adventure
+choice.php?pwd&whichchoice=791&option=6
+choice.php?forceoption=0
+
+[18205] An Overgrown Shrine (Southwest)
+Encounter: Water You Dune
+Took choice 783/6: skip adventure
+choice.php?pwd&whichchoice=783&option=6
+choice.php?forceoption=0
+
+[18205] The Hidden Park
+Encounter: Where Does The Lone Ranger Take His Garbagester?
+Took choice 789/1: Get random items
+choice.php?pwd&whichchoice=789&option=1
+You acquire an item: imitation White Russian
+You acquire an item: bowling ball
+choice.php?forceoption=0
+
+[18206] The Hidden Park
+Encounter: Where Does The Lone Ranger Take His Garbagester?
+Took choice 789/2: Relocate pygmy janitors to Hidden Park
+choice.php?pwd&whichchoice=789&option=2
+
+[18207] The Hidden Park
+Encounter: pygmy janitor
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: pygmy janitor takes 974 damage.
+Round 2: pygmy janitor drops 15 attack power.
+Round 2: pygmy janitor drops 10 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage looks for some extra items and meat, claiming it's his fee for the psychoanalysis he did of the monster while you were fighting.
+You gain 150 Meat
+You gain 11 Strengthliness
+You gain 16 Mysteriousness
+You gain 14 Sarcasm
+
+[18208] The Hidden Park
+Encounter: pygmy assault squad
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: pygmy assault squad takes 988 damage.
+Round 2: pygmy assault squad drops 12 attack power.
+Round 2: pygmy assault squad drops 11 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking and dancing are primal, universal symbols for acquiring meat and items, respectively."
+You gain 294 Meat
+You gain 7 Strengthliness
+You gain 11 Mysteriousness
+You gain 22 Cheek
+
+[18209] The Hidden Park
+Encounter: boaraffe
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: boaraffe takes 1031 damage.
+Round 2: boaraffe drops 14 attack power.
+Round 2: boaraffe drops 15 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking and dancing are primal, universal symbols for acquiring meat and items, respectively."
+You gain 244 Meat
+You gain 19 Strengthliness
+You gain 10 Enchantedness
+You gain 14 Chutzpah
+
+[18210] The Hidden Park
+Encounter: Dr. Henry "Dakota" Fanning, Ph.D., R.I.P.
+You acquire an item: antique machete
+You acquire an item: cool whip
+
+[18211] The Hidden Park
+Encounter: boaraffe
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: boaraffe takes 700 damage.
+Round 2: boaraffe drops 15 attack power.
+Round 2: boaraffe drops 11 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking and dancing are primal, universal symbols for acquiring meat and items, respectively."
+You gain 183 Meat
+You gain 12 Muscleboundness
+You gain 10 Enchantedness
+You gain 18 Cheek
+choice.php?forceoption=0
+
+[18212] The Hidden Park
+Encounter: Where Does The Lone Ranger Take His Garbagester?
+Took choice 789/1: Get random items
+choice.php?pwd&whichchoice=789&option=1
+You acquire an item: imitation White Russian
+You acquire an item: bowling ball
+
+[18213] The Hidden Park
+Encounter: pygmy janitor
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: pygmy janitor takes 662 damage.
+Round 2: pygmy janitor drops 11 attack power.
+Round 2: pygmy janitor drops 13 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 163 Meat
+You acquire an item: book of matches
+You gain 8 Fortitude
+You gain 7 Magicalness
+You gain 24 Cheek
+
+[18214] The Hidden Park
+Encounter: boaraffe
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: boaraffe takes 688 damage.
+Round 2: boaraffe drops 11 attack power.
+Round 2: boaraffe drops 10 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "the little dance that I am doing is symbolic of my sublimated desire for material goods," and winks at you.
+You gain 205 Meat
+You acquire an item: long pork
+You gain 8 Strongness
+You gain 8 Wizardliness
+You gain 22 Cheek
+
+[18215] The Hidden Park
+Encounter: boaraffe
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: boaraffe takes 682 damage.
+Round 2: boaraffe drops 15 attack power.
+Round 2: boaraffe drops 15 defense.
+Round 2: boolicious wins the fight!
+After Battle: DocSavage says, "winking of the eyelids and dancing are both indicative of a repressed desire--a desire for material gain."
+You gain 229 Meat
+You gain 20 Strongness
+You gain 9 Magicalness
+You gain 13 Smarm
