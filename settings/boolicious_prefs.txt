@@ -45,7 +45,7 @@ _bagOfCandy=false
 _bagOfCandyUsed=true
 _ballInACupUsed=false
 _ballastTurtleUsed=false
-_ballpit=false
+_ballpit=true
 _banderRunaways=0
 _bearHugs=0
 _beerLensDrops=0
@@ -87,6 +87,7 @@ _dreamJarDrops=0
 _elronsCasts=0
 _envyfishEggUsed=false
 _essentialTofuUsed=false
+_eternalCarBatteryUsed=false
 _fancyHotDogEaten=false
 _favorRareSummons=0
 _feastUsed=0
@@ -130,7 +131,7 @@ _jarlsFruitSummoned=false
 _jarlsMeatSummoned=false
 _jarlsPotatoSummoned=false
 _jarlsVeggiesSummoned=false
-_jickJarAvailable=unknown
+_jickJarAvailable=false
 _jiggleCheese=0
 _jiggleCheesedMonsters
 _jiggleCream=0
@@ -140,7 +141,7 @@ _jiggleSteak=0
 _jingleBellUsed=false
 _jitbCharge=0
 _jukebox=false
-_jungDrops=0
+_jungDrops=1
 _klawSummons=0
 _kloopDrops=0
 _kolConSixPackUsed=false
@@ -161,7 +162,7 @@ _mayflySummons=0
 _mediumSiphons=0
 _nanorhinoBanishedMonster
 _navelRunaways=0
-_olympicSwimmingPool=false
+_olympicSwimmingPool=true
 _olympicSwimmingPoolItemFound=true
 _pasteDrops=0
 _photocopyUsed=false
@@ -169,7 +170,7 @@ _pieDrops=0
 _piePartsCount=0
 _pneumaticityPotionUsed=false
 _poisonArrows=0
-_poolGames=0
+_poolGames=3
 _precisionCasts=0
 _psychoJarFilled=false
 _psychoJarUsed=false
@@ -801,15 +802,15 @@ choiceAdventure91=1
 chosenTrip
 clanAttacksEnabled=false
 cocktailSummons=0
-concertVisited=false
+concertVisited=true
 counterScript
 cozyCounter6332=0
 cozyCounter6333=0
 cozyCounter6334=0
-crimboTreeDays=5
+crimboTreeDays=7
 crudeMonster
 currentBountyItem=0
-currentFullness=0
+currentFullness=3
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -887,7 +888,8 @@ fossilP=0
 fossilS=0
 fossilW=0
 fratboysDefeated=33
-friarsBlessingReceived=false
+friarsBlessingReceived=true
+gameProBossSpecialPower=Unknown
 ghostPencil1=false
 ghostPencil2=false
 ghostPencil3=false
@@ -909,6 +911,7 @@ grimoire3Summons=0
 guardTurtlesFreed=0
 guyMadeOfBeesCount=3
 guyMadeOfBeesDefeated=true
+haciendaLayout=000000000000000000
 hermitHax0red=false
 heroDonationBoris=41500
 heroDonationJarlsberg=50000
@@ -925,13 +928,13 @@ hpAutoRecovery=0.2
 hpAutoRecoveryItems=rest at your campground;free disco rest;medicinal herb's medicinal herbs;cannelloni cocoon;visit the nuns;relaxing hot tub;red pixel potion;really thick bandage;pok&euml;mann band-aid;filthy poultice;gauze garter;bottle of vangoghbitussin;plump juicy grub;elven medi-pack;generic healing potion;ancient magi-wipes;palm-frond fan;tongue of the walrus;tiny house;disco nap;lasagna bandages;cast;tongue of the otter;sugar shard;doc galaktik's restorative balm;doc galaktik's ailment ointment;doc galaktik's pungent unguent;notes from the elfpocalypse, chapter i;notes from the elfpocalypse, chapter ii;notes from the elfpocalypse, chapter iii;notes from the elfpocalypse, chapter iv;notes from the elfpocalypse, chapter v;notes from the elfpocalypse, chapter vi
 hpAutoRecoveryTarget=0.8
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
-jungCharge=12
+jungCharge=18
 kingLiberated=true
 kingLiberatedScript
 knownAscensions=4
 kolhsTotalSchoolSpirited=0
 lassoTraining
-lastAdventure=The Hidden Park
+lastAdventure=The Old Landfill
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -947,7 +950,7 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
-lastBreakfast=10
+lastBreakfast=1
 lastCellarReset=4
 lastChanceBurn
 lastChanceThreshold=100
@@ -955,7 +958,7 @@ lastChasmReset=4
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastColosseumRoundWon=0
 lastCouncilVisit=25
-lastCounterDay=10
+lastCounterDay=1
 lastDispensaryOpen=3
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -996,7 +999,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-lastEncounter=boaraffe
+lastEncounter=The Bathroom of Ten Men
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -1092,6 +1095,7 @@ mayflyExperience=0
 meansuckerPrice=400
 meatDropSpading=false
 merkinLockkeyMonster
+merkinQuestPath=none
 merkinVocabularyMastery=0
 mineLayout1=\#54<img src\="http\://images.kingdomofloathing.com/itemimages/jewel.gif" alt\="stone of eXtreme power" title\="stone of eXtreme power" class\=hand onClick\='descitem(376860845)'>
 mineLayout2
@@ -1196,6 +1200,11 @@ raveCombo4
 raveCombo5
 raveCombo6
 reagentSummons=0
+reanimatorArms=0
+reanimatorLegs=0
+reanimatorSkulls=0
+reanimatorWeirdParts=0
+reanimatorWings=0
 recentLocations=5
 recoveryScript
 relayCounters
