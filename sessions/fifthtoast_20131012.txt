@@ -1,0 +1,72 @@
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: Where?
+
+buy 3 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (3)
+You spent 150 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless knick-knack
+You acquire an item: worthless gewgaw
+You acquire an item: worthless trinket
+
+trading 3 worthless items for 3 ten-leaf clovers
+You acquire ten-leaf clover (3)
+
+Use 3 ten-leaf clover
+You acquire disassembled clover (3)
+
+buy 1 tires for 28 each from Degrassi Knoll Bakery and Hardware Store
+You acquire an item: tires
+You spent 28 Meat
+
+buy 1 sweet rims for 300 each from The General Store
+You acquire an item: sweet rims
+You spent 300 Meat
+
+Combine 1 tires + 1 sweet rims
+You acquire an item: dope wheels
+Crafting used 1 each of sweet rims and tires
+
+buy 1 empty meat tank for 20 each from Degrassi Knoll Bakery and Hardware Store
+You acquire an item: empty meat tank
+You spent 20 Meat
+
+Create 1 meat stack
+You acquire an item: meat stack
+You lose 100 Meat
+
+Combine 1 empty meat tank + 1 meat stack
+You acquire an item: full meat tank
+Crafting used 1 each of meat stack and empty meat tank
+
+buy 1 cog for 20 each from Degrassi Knoll Bakery and Hardware Store
+You acquire an item: cog
+You spent 20 Meat
+
+buy 1 sprocket for 20 each from Degrassi Knoll Bakery and Hardware Store
+You acquire an item: sprocket
+You spent 20 Meat
+
+buy 1 spring for 20 each from Degrassi Knoll Bakery and Hardware Store
+You acquire an item: spring
+You spent 20 Meat
+
+Combine 1 sprocket + 1 spring
+You acquire an item: sprocket assembly
+Crafting used 1 each of spring and sprocket
+
+Combine 1 cog + 1 sprocket assembly
+You acquire an item: cog and sprocket assembly
+Crafting used 1 each of cog and sprocket assembly
+
+Combine 1 full meat tank + 1 cog and sprocket assembly
+You acquire an item: meat engine
+Crafting used 1 each of cog and sprocket assembly and full meat tank
+
+Combine 1 dope wheels + 1 meat engine
+You acquire an item: bitchin' meatcar
+Crafting used 1 each of meat engine and dope wheels
