@@ -17,7 +17,7 @@ FamiliarTrainingFrame=335,64
 FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
-KoLDesktop=519,130,-1
+KoLDesktop=-2,-3,-1
 LoginFrame=725,305,0
 MailboxFrame=289,310,1
 MaximizerFrame=344,104
@@ -67,7 +67,7 @@ _cheerleaderSteam=200
 _chipBags=0
 _chocolateCigarsUsed=0
 _chocolatesUsed=0
-_clipartSummons=0
+_clipartSummons=1
 _coalPaperweightUsed=false
 _coldOne=false
 _companionshipCasts=0
@@ -106,7 +106,7 @@ _gnomeAdv=0
 _gongDrops=0
 _gothKidCharge=0
 _gothKidFights=0
-_grimoireGeekySummons=0
+_grimoireGeekySummons=1
 _grooseDrops=0
 _guildManualUsed=true
 _hareAdv=0
@@ -232,7 +232,6 @@ _vitachocCapsulesUsed=0
 _vmaskAdv=0
 _vmaskBanisherUsed=false
 _whiteRiceDrops=0
-_yearbookCameraTarget
 _zapCount=0
 addingScrolls=2
 afterAdventureScript
@@ -820,7 +819,7 @@ counterScript
 cozyCounter6332=0
 cozyCounter6333=0
 cozyCounter6334=0
-crimboTreeDays=2
+crimboTreeDays=7
 crudeMonster=something <i>totally</i> unrecognizable
 currentBountyItem=0
 currentFullness=0
@@ -964,7 +963,7 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
-lastBreakfast=4
+lastBreakfast=8
 lastCastleGroundUnlock=-1
 lastCastleTopUnlock=-1
 lastCellarReset=4
@@ -974,7 +973,7 @@ lastChasmReset=4
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastColosseumRoundWon=0
 lastCouncilVisit=25
-lastCounterDay=4
+lastCounterDay=8
 lastDispensaryOpen=3
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -1015,7 +1014,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-lastEncounter=Screwing Around\!
+lastEncounter=junksprite horseshoe sharpener
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -1094,7 +1093,7 @@ lastVioletFogMap=4
 lastWuTangDefeated=1
 lastYearbookCameraAscension=-1
 lastZapperWand=4
-libramSummons=0
+libramSummons=10
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=6
@@ -1137,6 +1136,14 @@ olfactedMonster=junksprite sharpener
 oscusSodaUsed=false
 outrageousSombreroUsed=false
 parasolUsed=5
+pastaThrall1
+pastaThrall2
+pastaThrall3
+pastaThrall4
+pastaThrall5
+pastaThrall6
+pastaThrall7
+pastaThrall8
 pastamancerGhostExperience=0
 pastamancerGhostName
 pastamancerGhostSummons=0
@@ -1308,7 +1315,7 @@ testudinalTeachings
 textColors=crappy\:\#999999|good\:green|awesome\:blue|epic\:\#8a2be2|junk\:gray|memento\:olive|notavailable\:gray
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=0
+tomeSummons=1
 totalCharitableDonations=0
 trapperOre=chrome
 turtleBlessingTurns=0
@@ -1381,5 +1388,7 @@ welcomeBackAdv=0
 wineCellarProgress=0
 workteaClue
 yearbookCameraAscensions=0
+yearbookCameraPending=false
+yearbookCameraTarget
 yearbookCameraUpgrades=0
 zombiePoints=0
