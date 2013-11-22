@@ -1,0 +1,24 @@
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: What?
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22chewing+gum+on+a+string%22
+
+buy 3 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (3)
+You spent 150 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless trinket
+You acquire an item: worthless gewgaw
+You acquire an item: worthless knick-knack
+
+trading 3 worthless items for 3 ten-leaf clovers
+You acquire ten-leaf clover (3)
+
+Use 3 ten-leaf clover
+You acquire disassembled clover (3)
+
+pull: 4 can of Binarrrca, 15 roll of toilet paper
