@@ -1,0 +1,114 @@
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: What?
+
+buy 2 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (2)
+You spent 100 Meat
+
+use 2 chewing gum on a string
+You acquire an item: worthless trinket
+You acquire an item: worthless gewgaw
+
+trading 2 worthless items for 2 ten-leaf clovers
+You acquire ten-leaf clover (2)
+
+Use 2 ten-leaf clover
+You acquire disassembled clover (2)
+You acquire an item: candied nuts
+You acquire an item: candied bolts
+You acquire an item: candied bolts
+You acquire an item: candied bolts
+
+ascend.php?action=reset&confirm=1&confirm2=1&pwd=7e1d7728379edce26737083501459009
+
+Welcome to Valhalla!
+You have 61 banked Karma.
+You gain 11 Karma
+Your new Karma balance is 72
+
+Buy astral hot dog dinner for 1 Karma (initial balance = 72)
+You spend 1 Karma
+
+Buy astral longbow for 10 Karma (initial balance = 71)
+You spend 10 Karma
+
+Ascend as a Normal Male Pastamancer under the Vole sign on a Class Act II: A Class For Pigs path, banking 61 Karma.
+
+place.php?whichplace=forestvillage&action=fv_friar
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+	   Beginning New Ascension	     
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Ascension #8:
+Softcore Class Act II: A Class For Pigs Pastamancer
+Vole
+
+
+Pastamancer
+ - Arched Eyebrow of the Archmage
+ - Bind Angel Hair Wisp
+ - Bind Lasagmbie
+ - Bind Penne Dreadful
+ - Bind Spice Ghost
+ - Bind Undead Elbow Macaroni
+ - Bind Vampieroghi
+ - Bind Vermincelli
+ - Bringing Up the Rear
+ - Cannelloni Cannon
+ - Cannelloni Cocoon
+ - Entangling Noodles
+ - Flavour of Magic
+ - Lasagna Bandages
+ - Leash of Linguini
+ - Manicotti Meditation
+ - Pastamastery
+ - Ravioli Shurikens
+ - Shield of the Pastalord
+ - Spaghetti Spear
+ - Spirit of Bacon Grease
+ - Spirit of Cayenne
+ - Spirit of Garlic
+ - Spirit of Nothing
+ - Spirit of Peppermint
+ - Spirit of Ravioli
+ - Spirit of Rigatoni
+ - Spirit of Wormwood
+ - Springy Fusilli
+ - Stuffed Mortar Shell
+ - Subtle and Quick to Anger
+ - Thrall Unit Tactics
+ - Tolerance of the Kitchen
+ - Transcendent Al Dente
+ - Transcendental Noodlecraft
+ - Utensil Twist
+ - Weapon of the Pastalord
+ - Wizard Squint
+
+Gnome Trainer
+ - Gnomish Hardigness
+ - Torso Awaregness
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+Visiting Doc Galaktik
+
+main.php?refreshtop=true&noobmessage=true
+tutorial.php?action=toot
+You acquire an item: letter from King Ralph XI
+
+use 1 letter from King Ralph XI
+You acquire an item: pork elf goodies sack
+You acquire an item: disassembled clover
+
+place.php?whichplace=town_right&action=townright_gourd_loud
+place.php?whichplace=town_right&action=townright_gourd_loud&subaction=acceptgourdquest
+
+Visiting Gorgonzola, the Chief Chef
