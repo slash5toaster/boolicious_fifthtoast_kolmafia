@@ -6,6 +6,10 @@ lose_effect song of accompaniment => cast 1 song of accompaniment
 lose_effect strange mental acuity => use 1 potion of teleportitis
 lose_effect strength of ten ettins => use 1 potion of detection
 
+[ dec13 ]
+lose_effect al dente inferno => cast 2 transcendent al dente
+lose_effect pasta oneness => cast 2 manicotti meditation
+
 [ default ]
 lose_effect belch the rainbow&trade; => use 2 piddles
 lose_effect destructive resolve => use 2 resolution: be feistier
