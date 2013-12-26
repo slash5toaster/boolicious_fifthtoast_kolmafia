@@ -89,7 +89,7 @@ _elronsCasts=0
 _envyfishEggUsed=false
 _essentialTofuUsed=false
 _eternalCarBatteryUsed=false
-_fancyHotDogEaten=false
+_fancyHotDogEaten=true
 _favorRareSummons=0
 _feastUsed=0
 _feastedFamiliars
@@ -115,7 +115,7 @@ _hippyMeatCollected=true
 _hipsterAdv=0
 _hobbyHorseUsed=false
 _hoboUnderlingSummons=0
-_hotTubSoaks=3
+_hotTubSoaks=2
 _hyperinflatedSealLungUsed=false
 _iceballUses=0
 _inigosCasts=0
@@ -158,7 +158,7 @@ _leafblowerML=1
 _legendaryBeat=false
 _lookingGlass=true
 _lunchBreak=false
-_madTeaParty=false
+_madTeaParty=true
 _mayflowerDrops=0
 _mayflySummons=0
 _mediumSiphons=0
@@ -831,15 +831,15 @@ counterScript
 cozyCounter6332=0
 cozyCounter6333=0
 cozyCounter6334=0
-crimboTreeDays=7
+crimboTreeDays=6
 crudeMonster=something <i>totally</i> unrecognizable
 currentBountyItem=0
-currentFullness=10
+currentFullness=13
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
 currentMojoFilters=0
-currentMood=default
+currentMood=powered
 currentNunneryMeat=87942
 currentPvpVictories
 currentSpleenUse=0
@@ -977,7 +977,7 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
-lastBreakfast=12
+lastBreakfast=13
 lastCastleGroundUnlock=-1
 lastCastleTopUnlock=-1
 lastCellarReset=4
@@ -987,7 +987,7 @@ lastChasmReset=4
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastColosseumRoundWon=0
 lastCouncilVisit=25
-lastCounterDay=12
+lastCounterDay=13
 lastDispensaryOpen=3
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -1028,7 +1028,7 @@ lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
 lastEmptiedStorage=4
-lastEncounter=Bertil Halvarddotter the Warbear Foot Soldier
+lastEncounter=Melker Hjalmarlund the Warbear Foot Soldier
 lastFilthClearance=4
 lastFratboyCall=-1
 lastFriarCeremonyAscension=4
@@ -1171,7 +1171,7 @@ pastamancerGhostType
 pastamancerOrbedExperience=0
 pastamancerOrbedName
 pastamancerOrbedType
-pendingMapReflections=12
+pendingMapReflections=13
 photocopyMonster=monster
 pieStuffing
 plantingDate=10
