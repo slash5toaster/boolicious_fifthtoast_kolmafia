@@ -1,0 +1,157 @@
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: When?
+
+buy 2 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (2)
+You spent 100 Meat
+
+use 2 chewing gum on a string
+You acquire an item: worthless trinket
+You acquire an item: worthless gewgaw
+
+trading 2 worthless items for 2 ten-leaf clovers
+You acquire ten-leaf clover (2)
+
+Use 2 ten-leaf clover
+You acquire disassembled clover (2)
+
+cast 1 Pastamastery
+You acquire dry noodles (5)
+You acquire an item: anniversary gift box
+
+use 1 anniversary gift box
+
+cast 2 Manicotti Meditation
+You acquire an effect: Pasta Oneness (duration: 10 Adventures)
+
+[262] 8-Bit Realm
+Encounter: Bullet Bill
+Round 0: fifthtoast loses initiative!
+
+pull: 3 Trivial Avocations Card: Where?
+Round 1: fifthtoast attacks!
+Round 2: Mark sinks his fangs into your opponent, draining 4 points worth of blood. You feel a wave of resonant health energy pass from him to you.
+Round 2: bullet bill takes 4 damage.
+You gain 4 hit points
+Round 2: fifthtoast wins the fight!
+You acquire an item: black pixel
+You acquire an item: black pixel
+You gain 1 Fortitude
+You gain 6 Mysteriousness
+You gain 9 Chutzpah
+
+woods.php?action=woodshippy
+Encounter: Hippy Talkin'
+Took choice 798/1: unknown
+choice.php?pwd&whichchoice=798&option=1
+Encounter: Hippy Talkin'
+Took choice 798/1: unknown
+choice.php?pwd&whichchoice=798&option=1
+Encounter: Hippy Talkin'
+Took choice 798/1: unknown
+choice.php?pwd&whichchoice=798&option=1
+Encounter: Hippy Talkin'
+Took choice 798/1: unknown
+choice.php?pwd&whichchoice=798&option=1
+Encounter: Hippy Talkin'
+Took choice 798/1: unknown
+choice.php?pwd&whichchoice=798&option=1
+Encounter: Hippy Talkin'
+Took choice 798/1: unknown
+choice.php?pwd&whichchoice=798&option=1
+Encounter: Hippy Talkin'
+Took choice 798/1: unknown
+choice.php?pwd&whichchoice=798&option=1
+
+[263] The Old Landfill
+Encounter: junksprite pail bender
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast attacks! (auto-attack)
+Round 2: junksprite bender takes 26 damage.
+Round 2: Mark sinks his fangs into your opponent, draining 6 points worth of blood. You feel a wave of resonant health energy pass from him to you.
+Round 2: junksprite bender takes 6 damage.
+You gain 6 hit points
+Round 2: fifthtoast wins the fight!
+You gain 2 Beefiness
+You gain 10 Wizardliness
+You gain a Mysticality point!
+You gain a Level!
+You gain 7 Roguishness
+You acquire an item: Cobb's Knob map
+
+use 1 Cobb's Knob map
+You acquire an item: tiny plastic GORM-8
+You acquire an item: tiny plastic warbear
+
+Visiting the pretentious artist
+Selling 23 rat whiskers to the pretentious artist
+You gain 1,150 Meat
+
+place.php?whichplace=crimbo2013&action=cr13_trailer
+Encounter: Uncle Crimbo's Trailer
+Took choice 809/1: unknown
+choice.php?pwd&whichchoice=809&option=1
+place.php?whichplace=crimbo2013&action=cr13_krampus
+
+[264] WarBear Fortress (First Level)
+Encounter: Algot Viktorbork the Warbear Foot Soldier
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast attacks! (auto-attack)
+You lose 2 hit points
+Round 2: warbear foot soldier takes 10 damage.
+Round 2: Mark jabs your opponent with his fangs, and sucks out 3 points worth of their blood. Somehow, this results in more health for you? I don't know how that works.
+Round 2: warbear foot soldier takes 3 damage.
+You gain 3 hit points
+You lose 11 hit points
+Round 2: fifthtoast attacks!
+Round 3: warbear foot soldier takes 10 damage.
+Round 3: Mark sucks out a bunch of your opponent's blood, where a 'bunch' is roughly 4 points worth. Then he restores your hit points! Presumably these two events are related somehow.
+You gain 4 hit points
+Round 3: fifthtoast wins the fight!
+You acquire an item: warbear whosit
+You gain 3 Strengthliness
+You gain 13 Magicalness
+You gain 6 Sarcasm
+
+pull: 1 trousers of the white knight
+
+equip pants trousers of the white knight
+
+pull: 1 arrrgyle socks
+
+equip acc2 arrrgyle socks
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (duration: 1 Adventure)
+Trivia card #266/1200:
+Question: What was needed to defeat The Fire Witchlord Evilthing in level 2, "Grind Tundra", in the popular video game "Splatter Duty VIII"?
+Answer: An indigo tiger.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (duration: 1 Adventure)
+Trivia card #302/1200:
+Question: When did the Last Hullabaloo of The Invisible Woods begin?
+Answer: Febtober 5, 1942.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (duration: 1 Adventure)
+Trivia card #772/1200:
+Question: Who won the diamond medal for gibbering in the 1981 Olympics?
+Answer: Lord Niles Thompson of Farnsworthington.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up
+You lose an effect: You Know When to Walk Away
+You lose an effect: You Know Who to Call
+You acquire an effect: Trivia Master (duration: 30 Adventures)
+Trivia card #1062/1200:
+Question: Where was the King of Winklesbury crappo bappoed for the crime of hacking the gibson?
+Answer: On the last train to Claremont.
+
+eat 1 gingerbread robot
+You gain 10 Adventures
+You acquire an effect: Gingerbread Robust (duration: 20 Adventures)
+You gain 2 Fullness
