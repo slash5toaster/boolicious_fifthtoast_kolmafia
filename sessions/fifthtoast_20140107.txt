@@ -1,0 +1,777 @@
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: Who?
+
+use 1 festive warbear bank
+You lose 25 Meat
+You gain 1 Meat
+
+buy 2 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (2)
+You spent 100 Meat
+
+use 2 chewing gum on a string
+You acquire an item: worthless knick-knack
+You acquire an item: worthless gewgaw
+
+trading 2 worthless items for 2 ten-leaf clovers
+You acquire ten-leaf clover (2)
+
+Use 2 ten-leaf clover
+You acquire disassembled clover (2)
+
+cast 1 Pastamastery
+You acquire dry noodles (5)
+
+cast 1 Cannelloni Cocoon
+You gain 71 hit points
+
+cast 1 Transcendent Al Dente
+You lose 1 Adventure
+You acquire an effect: Al Dente Inferno (duration: 10 Adventures)
+
+[268] Cobb's Knob Barracks
+Encounter: Cobb's Knob lab key
+You acquire an item: Cobb's Knob lab key
+
+[268] Cobb's Knob Barracks
+Encounter: off-duty Knob Goblin Elite Guard
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: Mark bites your opponent and drains out 3 points worth of he blood. Then he waggles his fingers at you mystically and says "Blah! Blah!" and for some reason you feel healthier.
+Round 2: off-duty knob goblin elite guard takes 3 damage.
+You gain 3 hit points
+Round 2: fifthtoast wins the fight!
+You gain 62 Meat
+You acquire an item: Knob Goblin elite shirt
+You gain 5 Beefiness
+You gain 10 Wizardliness
+You gain 3 Roguishness
+
+pull: 1 Knob Goblin harem pants, 1 Knob Goblin harem veil
+
+pull: 1 Knob Goblin deluxe scimitar, 1 Knob Goblin elite helm, 1 Knob Goblin elite pants, 1 Knob Goblin elite polearm
+outfit Knob Goblin Elite Guard Uniform
+
+[269] Cobb's Knob Barracks
+Encounter: It's Time to Play...  Password!
+
+[270] Cobb's Knob Barracks
+Encounter: Sleeping Near the Enemy
+You gain 1 hit point
+You gain 28 Mana Points
+
+[271] Cobb's Knob Barracks
+Encounter: Sleeping Near the Enemy
+You gain 1 hit point
+You gain 1 Mana Point
+
+cast 2 Manicotti Meditation
+You acquire an effect: Pasta Oneness (duration: 10 Adventures)
+
+[272] Cobb's Knob Barracks
+Encounter: Knob Goblin Elite Guard Captain
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast attacks! (auto-attack)
+Round 2: knob goblin elite guard captain takes 43 damage.
+Round 2: Mark drinks 5 points worth of your opponent's blood, converts it to magical energy, then gives you some of that magical energy, which your body converts back into blood. Seems kind of a roundabout way of doing it, but it works.
+Round 2: knob goblin elite guard captain takes 5 damage.
+You gain 5 hit points
+Round 2: fifthtoast wins the fight!
+You gain 287 Meat
+You acquire an item: Knob Goblin elite helm
+You acquire an item: Knob Goblin elite pants
+You acquire an item: Knob Goblin elite polearm
+You gain 9 Fortitude
+You gain 26 Mysteriousness
+You gain a Mysticality point!
+You gain 14 Chutzpah
+
+[273] Cobb's Knob Harem
+Encounter: A Massage with a Message
+You gain 25 Beefiness
+You gain a Muscle point!
+You gain 25 Mysteriousness
+You gain 28 Roguishness
+You gain a Moxie point!
+
+[274] Cobb's Knob Harem
+Encounter: Therein Lies the Rub
+
+[274] Cobb's Knob Treasury
+Encounter: Meat For Nothing and the Harem for Free
+You gain 300 Meat
+
+[275] Cobb's Knob Kitchens
+Encounter: The Cake Boss
+You acquire an item: Knob cake pan
+
+cobbsknob.php?action=tolabs
+cobbsknob.php?action=dispensary
+
+buy 1 Knob Goblin steroids for 250 each from The Knob Dispensary
+You acquire an item: Knob Goblin steroids
+You spent 250 Meat
+
+cobbsknob.php?level=2
+
+[276] The Knob Shaft
+Encounter: ghost miner
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast attacks! (auto-attack)
+Round 2: ghost miner takes 1 damage.
+Round 2: Mark jabs your opponent with his fangs, and sucks out 1 points worth of their blood. Somehow, this results in more health for you? I don't know how that works.
+Round 2: ghost miner takes 1 damage.
+You gain 1 hit point
+Round 2: fifthtoast attacks!
+Round 3: ghost miner takes 1 damage.
+Round 3: Mark sucks out 1 points worth of your opponent's blood, and gives some of it to you. Ever see a mama bird feed her chicks?
+Round 3: ghost miner takes 1 damage.
+You gain 1 hit point
+Round 3: fifthtoast executes a macro!
+Round 3: fifthtoast attacks!
+Round 4: ghost miner takes 1 damage.
+Round 4: Mark sucks out 1 points worth of your opponent's blood, and gives some of it to you. Ever see a mama bird feed her chicks?
+Round 4: ghost miner takes 1 damage.
+You gain 1 hit point
+Round 4: fifthtoast attacks!
+Round 5: ghost miner takes 1 damage.
+Round 5: Mark sucks out a bunch of your opponent's blood, where a 'bunch' is roughly 1 points worth. Then he restores your hit points! Presumably these two events are related somehow.
+You gain 1 hit point
+Round 5: fifthtoast casts RETURN!
+
+cobbsknob.php?level=2
+
+cast 1 Transcendent Al Dente
+You lose 1 Adventure
+You acquire an effect: Al Dente Inferno (duration: 10 Adventures)
+
+[278] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast attacks! (auto-attack)
+Round 2: knob goblin mad scientist takes 54 damage.
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent. He looks a little bit confused.
+Round 2: knob goblin mad scientist drops 5 attack power.
+Round 2: knob goblin mad scientist drops 5 defense.
+Round 2: Mark sinks his fangs into your opponent, draining 3 points worth of blood. You feel a wave of resonant health energy pass from him to you.
+Round 2: knob goblin mad scientist takes 3 damage.
+You gain 3 hit points
+Round 2: fifthtoast wins the fight!
+You gain 40 Meat
+You acquire an item: Knob Goblin seltzer
+You gain 5 Strongness
+You gain 11 Mysteriousness
+You gain 7 Sarcasm
+
+cobbsknob.php?level=2
+cobbsknob.php?action=tomenagerie
+cobbsknob.php?level=1
+
+[279] Throne Room
+Encounter: Inside Cobb's Knob
+You lose 10 hit points
+
+[279] Cobb's Knob Kitchens
+Encounter: Batter Up!
+You acquire an item: Knob batter
+
+[281] Cook 1 Knob batter + 1 Knob cake pan
+You acquire an item: unfrosted Knob cake
+Crafting used 1 each of Knob cake pan and Knob batter
+
+[280] Cobb's Knob Kitchens
+Encounter: Jacking Frosting
+You acquire an item: Knob frosting
+
+[281] Cobb's Knob Kitchens
+Encounter: Aced the Cakes
+
+Visiting The Plunger
+
+Visiting Innabox
+
+[282] Cook 1 Knob frosting + 1 unfrosted Knob cake
+
+buy 1 Dramatic™ range for 1000 each from The General Store
+You acquire an item: Dramatic&trade; range
+You spent 1,000 Meat
+
+use 1 Dramatic&trade; range
+
+[282] Cook 1 unfrosted Knob cake + 1 Knob frosting
+You acquire an item: Knob cake
+Crafting used 1 each of Knob frosting and unfrosted Knob cake
+Learned recipe: Cook Stuff: (-1)
+
+cast 2 Manicotti Meditation
+You acquire an effect: Pasta Oneness (duration: 10 Adventures)
+
+[282] Throne Room
+Encounter: The Knob Goblin King
+Round 0: fifthtoast loses initiative!
+You lose 8 hit points
+Round 1: fifthtoast attacks!
+Round 2: knob goblin king takes 39 damage.
+Round 2: Mark drinks 6 points worth of your opponent's blood, converts it to magical energy, then gives you some of that magical energy, which your body converts back into blood. Seems kind of a roundabout way of doing it, but it works.
+Round 2: knob goblin king takes 6 damage.
+You gain 6 hit points
+Round 2: fifthtoast attacks!
+Round 3: knob goblin king takes 40 damage.
+Round 3: Mark sucks out a bunch of your opponent's blood, where a 'bunch' is roughly 3 points worth. Then he restores your hit points! Presumably these two events are related somehow.
+You gain 3 hit points
+Round 3: fifthtoast wins the fight!
+You acquire an item: dense meat stack (2)
+You acquire an item: Crown of the Goblin King
+You gain 24 Strengthliness
+You gain 39 Wizardliness
+You gain a Mysticality point!
+You gain 21 Chutzpah
+
+equip hat Crown of the Goblin King
+
+pull: 1 Colander of Em-er'il
+
+equip hat Colander of Em-er'il
+
+pull: 1 Staff of the Short Order Cook
+
+equip weapon Staff of the Short Order Cook
+
+pull: 1 Glass Balls of the Goblin King
+
+equip off-hand Glass Balls of the Goblin King
+
+pull: 1 white hat hacker T-shirt
+
+equip shirt white hat hacker T-shirt
+
+pull: 1 Angelhair Culottes
+
+equip pants Angelhair Culottes
+
+pull: 1 Jarlsberg's earring
+
+equip acc1 Jarlsberg's earring
+
+pull: 1 tiny plastic Big Candy
+
+equip acc3 tiny plastic Big Candy
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=10&pudnuggler=%22glittery+mascara%22
+
+buy 4 glittery mascara for 24 each from The General Store
+You acquire glittery mascara (4)
+You spent 96 Meat
+
+use 5 glittery mascara
+You acquire an effect: Glittering Eyelashes (duration: 15 Adventures)
+
+[283] The Dark Neck of the Woods
+Encounter: W imp
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast attacks! (auto-attack)
+Round 2: w imp takes 31 damage.
+Round 2: cocopuf coos softly, and nuzzles you with his beak.
+You gain 20 hit points
+You gain 20 Mana Points
+Round 2: Mark drinks 5 points worth of your opponent's blood, converts it to magical energy, then gives you some of that magical energy, which your body converts back into blood. Seems kind of a roundabout way of doing it, but it works.
+Round 2: w imp takes 5 damage.
+You gain 5 hit points
+Round 2: fifthtoast attacks!
+Round 3: w imp takes 31 damage.
+Round 3: Mark sinks his fangs into your opponent, draining 5 points worth of blood. You feel a wave of resonant health energy pass from him to you.
+Round 3: w imp takes 5 damage.
+You gain 5 hit points
+Round 3: fifthtoast wins the fight!
+You gain 29 Meat
+You acquire an item: Imp Ale
+You gain 7 Beefiness
+You gain 11 Enchantedness
+You gain 6 Sarcasm
+
+[284] The Dark Neck of the Woods
+Encounter: How Do We Do It? Quaint and Curious Volume!
+You gain 250 Meat
+
+[285] The Dark Neck of the Woods
+Encounter: Hellion
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast attacks! (auto-attack)
+Round 2: hellion takes 1 damage.
+Round 2: Mark sucks out 6 points worth of your opponent's blood, and gives some of it to you. Ever see a mama bird feed her chicks?
+Round 2: hellion takes 6 damage.
+You gain 6 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: hellion takes 1 damage.
+Round 3: cocopuf roots around in the ground, and comes up with some Meat. He wings it to you.
+You gain 62 Meat.
+Round 3: Mark drains 6 points worth of blood out of your opponent, and passes the savings on to you.
+Round 3: hellion takes 6 damage.
+You gain 6 hit points
+You lose 4 hit points
+Round 3: fifthtoast attacks!
+Round 4: hellion takes 1 damage.
+Round 4: Mark, just for a change, heals a bunch of your hit points first, and then sucks 6 points worth of blood out of your opponent.
+Round 4: hellion takes 6 damage.
+You gain 6 hit points
+You lose 3 hit points
+Round 4: fifthtoast attacks!
+Round 5: hellion takes 1 damage.
+Round 5: Mark jabs your opponent with his fangs, and sucks out 5 points worth of their blood. Somehow, this results in more health for you? I don't know how that works.
+Round 5: hellion takes 5 damage.
+You gain 5 hit points
+Round 5: fifthtoast attacks!
+Round 6: hellion takes 1 damage.
+Round 6: Mark drains 3 points worth of blood out of your opponent, and passes the savings on to you.
+Round 6: hellion takes 3 damage.
+You gain 3 hit points
+Round 6: fifthtoast jiggles the Staff of the Short Order Cook
+Round 7: You jiggle your chefstaff toward your opponent, and a bolt of force shoots out at him, dealing 11 damage.
+Round 7: hellion takes 11 damage.
+Round 7: Mark bites your opponent and drains out 4 points worth of he blood. Then he waggles his fingers at you mystically and says "Blah! Blah!" and for some reason you feel healthier.
+Round 7: hellion takes 4 damage.
+You gain 4 hit points
+Round 7: fifthtoast attacks!
+Round 8: hellion takes 1 damage.
+Round 8: Mark drains 4 points worth of blood out of your opponent, and passes the savings on to you.
+Round 8: hellion takes 4 damage.
+You gain 4 hit points
+Round 8: fifthtoast uses the Knob Goblin firecracker!
+Round 9: hellion takes 3 damage.
+Round 9: Mark jabs your opponent with his fangs, and sucks out 6 points worth of their blood. Somehow, this results in more health for you? I don't know how that works.
+Round 9: hellion takes 6 damage.
+You gain 6 hit points
+Round 9: fifthtoast wins the fight!
+You acquire an item: hellion cube
+You gain 8 Strongness
+You gain a Muscle point!
+You gain 17 Magicalness
+You gain 5 Smarm
+
+[286] The Dark Neck of the Woods
+Encounter: W imp
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: w imp takes 13 damage.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 17 damage.
+Round 2: w imp takes 17 damage.
+Round 2: Mark drains 3 points worth of blood out of your opponent, and passes the savings on to you.
+Round 2: w imp takes 3 damage.
+You gain 3 hit points
+Round 2: fifthtoast attacks!
+Round 3: w imp takes 13 damage.
+Round 3: Mark sucks out a bunch of your opponent's blood, where a 'bunch' is roughly 3 points worth. Then he restores your hit points! Presumably these two events are related somehow.
+You gain 3 hit points
+Round 3: fifthtoast wins the fight!
+You gain 26 Meat
+You acquire an item: wussiness potion
+You gain 9 Muscleboundness
+You gain 5 Wizardliness
+You gain a Mysticality point!
+You gain 9 Cheek
+You gain a Moxie point!
+
+cast 1 Transcendent Al Dente
+You lose 1 Adventure
+You acquire an effect: Al Dente Inferno (duration: 10 Adventures)
+
+[288] The Dark Neck of the Woods
+Encounter: P imp
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: p imp takes 12 damage.
+Round 2: Mark drinks 4 points worth of your opponent's blood, converts it to magical energy, then gives you some of that magical energy, which your body converts back into blood. Seems kind of a roundabout way of doing it, but it works.
+Round 2: p imp takes 4 damage.
+You gain 4 hit points
+Round 2: fifthtoast attacks!
+Round 3: p imp takes 12 damage.
+Round 3: cocopuf roots around in the ground, and comes up with some Meat. He wings it to you.
+You gain 60 Meat.
+Round 3: Mark, just for a change, heals a bunch of your hit points first, and then sucks 3 points worth of blood out of your opponent.
+Round 3: p imp takes 3 damage.
+You gain 3 hit points
+Round 3: fifthtoast attacks!
+Round 4: p imp takes 11 damage.
+Round 4: Mark bites your opponent and drains out 5 points worth of he blood. Then he waggles his fingers at you mystically and says "Blah! Blah!" and for some reason you feel healthier.
+Round 4: p imp takes 5 damage.
+You gain 5 hit points
+Round 4: fifthtoast wins the fight!
+You gain 30 Meat
+You acquire an item: hot wing
+You acquire an item: Imp Ale
+You gain 2 Muscleboundness
+You gain 17 Enchantedness
+You gain 6 Roguishness
+
+[289] The Dark Neck of the Woods
+Encounter: W imp
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast attacks! (auto-attack)
+Round 2: w imp takes 13 damage.
+Round 2: cocopuf coos softly, and nuzzles you with his beak.
+You gain 20 hit points
+You gain 20 Mana Points
+Round 2: Mark sucks out a bunch of your opponent's blood, where a 'bunch' is roughly 4 points worth. Then he restores your hit points! Presumably these two events are related somehow.
+You gain 4 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: w imp takes 15 damage.
+Round 3: Mark jabs your opponent with his fangs, and sucks out 3 points worth of their blood. Somehow, this results in more health for you? I don't know how that works.
+Round 3: w imp takes 3 damage.
+You gain 3 hit points
+Round 3: fifthtoast attacks!
+Round 4: w imp takes 12 damage.
+Round 4: cocopuf coos softly, and nuzzles you with his beak.
+You gain 22 hit points
+You gain 22 Mana Points
+Round 4: Mark jabs your opponent with his fangs, and sucks out 3 points worth of their blood. Somehow, this results in more health for you? I don't know how that works.
+Round 4: w imp takes 3 damage.
+You gain 3 hit points
+Round 4: fifthtoast wins the fight!
+You gain 34 Meat
+You acquire an item: ruby W
+You gain 5 Strongness
+You gain 12 Magicalness
+You gain 6 Sarcasm
+
+[290] The Dark Neck of the Woods
+Encounter: P imp
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast attacks! (auto-attack)
+Round 2: p imp takes 12 damage.
+Round 2: cocopuf roots around in the ground, and comes up with some Meat. He wings it to you.
+You gain 50 Meat.
+Round 2: Mark drinks 3 points worth of your opponent's blood, converts it to magical energy, then gives you some of that magical energy, which your body converts back into blood. Seems kind of a roundabout way of doing it, but it works.
+Round 2: p imp takes 3 damage.
+You gain 3 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: p imp takes 12 damage.
+Round 3: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 17 damage.
+Round 3: p imp takes 17 damage.
+Round 3: Mark sucks out a bunch of your opponent's blood, where a 'bunch' is roughly 4 points worth. Then he restores your hit points! Presumably these two events are related somehow.
+You gain 4 hit points
+Round 3: fifthtoast wins the fight!
+You gain 31 Meat
+You gain 2 Beefiness
+You gain 17 Magicalness
+You gain 6 Sarcasm
+
+[291] The Dark Neck of the Woods
+Encounter: W imp
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast attacks! (auto-attack)
+Round 2: w imp takes 12 damage.
+Round 2: cocopuf coos softly, and nuzzles you with his beak.
+You gain 21 hit points
+You gain 21 Mana Points
+Round 2: Mark drains 3 points worth of blood out of your opponent, and passes the savings on to you.
+Round 2: w imp takes 3 damage.
+You gain 3 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: w imp takes 12 damage.
+Round 3: cocopuf coos softly, and nuzzles you with his beak.
+You gain 20 hit points
+You gain 20 Mana Points
+Round 3: Mark jabs your opponent with his fangs, and sucks out 3 points worth of their blood. Somehow, this results in more health for you? I don't know how that works.
+Round 3: w imp takes 3 damage.
+You gain 3 hit points
+Round 3: fifthtoast attacks!
+Round 4: w imp takes 11 damage.
+Round 4: Mark bites your opponent and drains out 5 points worth of he blood. Then he waggles his fingers at you mystically and says "Blah! Blah!" and for some reason you feel healthier.
+Round 4: w imp takes 5 damage.
+You gain 5 hit points
+Round 4: fifthtoast wins the fight!
+You gain 35 Meat
+You gain 6 Muscleboundness
+You gain 11 Wizardliness
+You gain 6 Chutzpah
+
+cast 2 Manicotti Meditation
+You acquire an effect: Pasta Oneness (duration: 10 Adventures)
+
+[292] The Dark Neck of the Woods
+Encounter: Hellion
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast attacks! (auto-attack)
+You lose 1 hit point
+Round 2: Mark drinks 5 points worth of your opponent's blood, converts it to magical energy, then gives you some of that magical energy, which your body converts back into blood. Seems kind of a roundabout way of doing it, but it works.
+Round 2: hellion takes 5 damage.
+You gain 5 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: hellion takes 2 damage.
+Round 3: Mark sucks out 6 points worth of your opponent's blood, and gives some of it to you. Ever see a mama bird feed her chicks?
+Round 3: hellion takes 6 damage.
+You gain 6 hit points
+Round 3: fifthtoast attacks!
+Round 4: hellion takes 1 damage.
+Round 4: Mark drains 5 points worth of blood out of your opponent, and passes the savings on to you.
+Round 4: hellion takes 5 damage.
+You gain 5 hit points
+You lose 3 hit points
+Round 4: fifthtoast attacks!
+Round 5: hellion takes 2 damage.
+Round 5: Mark sucks out 6 points worth of your opponent's blood, and gives some of it to you. Ever see a mama bird feed her chicks?
+Round 5: hellion takes 6 damage.
+You gain 6 hit points
+Round 5: fifthtoast attacks!
+Round 6: hellion takes 2 damage.
+Round 6: Mark sinks his fangs into your opponent, draining 4 points worth of blood. You feel a wave of resonant health energy pass from him to you.
+Round 6: hellion takes 4 damage.
+You gain 4 hit points
+Round 6: fifthtoast attacks!
+Round 7: hellion takes 1 damage.
+Round 7: Mark jabs your opponent with his fangs, and sucks out 3 points worth of their blood. Somehow, this results in more health for you? I don't know how that works.
+Round 7: hellion takes 3 damage.
+You gain 3 hit points
+Round 7: fifthtoast attacks!
+Round 8: hellion takes 2 damage.
+Round 8: cocopuf squawks loudly and runs in a circle around your opponent. He looks a little bit confused.
+Round 8: hellion drops 5 attack power.
+Round 8: hellion drops 5 defense.
+Round 8: Mark drinks 6 points worth of your opponent's blood, converts it to magical energy, then gives you some of that magical energy, which your body converts back into blood. Seems kind of a roundabout way of doing it, but it works.
+Round 8: hellion takes 6 damage.
+You gain 6 hit points
+Round 8: fifthtoast attacks!
+Round 9: hellion takes 5 damage.
+Round 9: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 15 damage.
+Round 9: hellion takes 15 damage.
+Round 9: Mark sinks his fangs into your opponent, draining 4 points worth of blood. You feel a wave of resonant health energy pass from him to you.
+Round 9: hellion takes 4 damage.
+You gain 4 hit points
+Round 9: fifthtoast wins the fight!
+You gain 9 Fortitude
+You gain 8 Magicalness
+You gain a Mysticality point!
+You gain 11 Smarm
+
+[293] The Dark Neck of the Woods
+Encounter: W imp
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast attacks! (auto-attack)
+Round 2: w imp takes 11 damage.
+Round 2: cocopuf squawks loudly and runs in a circle around your opponent. He looks a little bit confused.
+Round 2: w imp drops 5 attack power.
+Round 2: w imp drops 5 defense.
+Round 2: Mark bites your opponent and drains out 6 points worth of he blood. Then he waggles his fingers at you mystically and says "Blah! Blah!" and for some reason you feel healthier.
+Round 2: w imp takes 6 damage.
+You gain 6 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: w imp takes 16 damage.
+Round 3: Mark drinks 3 points worth of your opponent's blood, converts it to magical energy, then gives you some of that magical energy, which your body converts back into blood. Seems kind of a roundabout way of doing it, but it works.
+Round 3: w imp takes 3 damage.
+You gain 3 hit points
+Round 3: fifthtoast attacks!
+Round 4: w imp takes 17 damage.
+Round 4: Mark drains 4 points worth of blood out of your opponent, and passes the savings on to you.
+Round 4: w imp takes 4 damage.
+You gain 4 hit points
+Round 4: fifthtoast wins the fight!
+You gain 30 Meat
+You gain 4 Fortitude
+You gain 13 Magicalness
+You gain 6 Cheek
+
+[294] The Dark Neck of the Woods
+Encounter: Strike One!
+You acquire an item: imp unity ring
+
+[295] The Dark Neck of the Woods
+Encounter: P imp
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast attacks! (auto-attack)
+Round 2: p imp takes 1 damage.
+Round 2: Mark jabs your opponent with his fangs, and sucks out 3 points worth of their blood. Somehow, this results in more health for you? I don't know how that works.
+Round 2: p imp takes 3 damage.
+You gain 3 hit points
+You lose 9 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: p imp takes 1 damage.
+Round 3: cocopuf coos softly, and nuzzles you with his beak.
+You gain 20 hit points
+You gain 20 Mana Points
+Round 3: Mark drains 3 points worth of blood out of your opponent, and passes the savings on to you.
+Round 3: p imp takes 3 damage.
+You gain 3 hit points
+You lose 9 hit points
+Round 3: fifthtoast attacks!
+Round 4: p imp takes 1 damage.
+Round 4: Mark drinks 4 points worth of your opponent's blood, converts it to magical energy, then gives you some of that magical energy, which your body converts back into blood. Seems kind of a roundabout way of doing it, but it works.
+Round 4: p imp takes 4 damage.
+You gain 4 hit points
+You lose 9 hit points
+Round 4: fifthtoast attacks!
+Round 5: p imp takes 1 damage.
+Round 5: Mark, just for a change, heals a bunch of your hit points first, and then sucks 4 points worth of blood out of your opponent.
+Round 5: p imp takes 4 damage.
+You gain 4 hit points
+You lose 10 hit points
+Round 5: fifthtoast attacks!
+Round 6: p imp takes 1 damage.
+Round 6: Mark, just for a change, heals a bunch of your hit points first, and then sucks 3 points worth of blood out of your opponent.
+Round 6: p imp takes 3 damage.
+You gain 3 hit points
+You lose 9 hit points
+Round 6: fifthtoast attacks!
+Round 7: p imp takes 1 damage.
+Round 7: cocopuf squawks loudly and runs in a circle around your opponent. He looks a little bit confused.
+Round 7: p imp drops 5 attack power.
+Round 7: p imp drops 5 defense.
+Round 7: Mark jabs your opponent with his fangs, and sucks out 5 points worth of their blood. Somehow, this results in more health for you? I don't know how that works.
+Round 7: p imp takes 5 damage.
+You gain 5 hit points
+You lose 10 hit points
+Round 7: fifthtoast attacks!
+Round 8: p imp takes 1 damage.
+Round 8: Mark, just for a change, heals a bunch of your hit points first, and then sucks 5 points worth of blood out of your opponent.
+Round 8: p imp takes 5 damage.
+You gain 5 hit points
+You lose 9 hit points
+Round 8: fifthtoast attacks!
+Round 9: p imp takes 1 damage.
+Round 9: Mark bites your opponent and drains out 5 points worth of he blood. Then he waggles his fingers at you mystically and says "Blah! Blah!" and for some reason you feel healthier.
+Round 9: p imp takes 5 damage.
+You gain 5 hit points
+You lose 6 hit points
+Round 9: fifthtoast attacks!
+Round 10: p imp takes 1 damage.
+Round 10: Mark, just for a change, heals a bunch of your hit points first, and then sucks 5 points worth of blood out of your opponent.
+Round 10: p imp takes 5 damage.
+You gain 5 hit points
+Round 10: fifthtoast wins the fight!
+After Battle: Mark looks more powerful...
+You gain 28 Meat
+You gain 2 Strongness
+You gain 15 Magicalness
+You gain 8 Chutzpah
+
+[296] The Dark Neck of the Woods
+Encounter: Hellion
+Round 0: fifthtoast loses initiative!
+You lose 15 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: hellion takes 1 damage.
+Round 2: cocopuf paws at the ground for a second, and then charges your opponent, bashing him for 15 damage.
+Round 2: hellion takes 15 damage.
+Round 2: Mark drains 6 points worth of blood out of your opponent, and passes the savings on to you.
+Round 2: hellion takes 6 damage.
+You gain 6 hit points
+You lose 14 hit points
+Round 2: fifthtoast attacks!
+Round 3: hellion takes 1 damage.
+Round 3: Mark bites your opponent and drains out 7 points worth of he blood. Then he waggles his fingers at you mystically and says "Blah! Blah!" and for some reason you feel healthier.
+Round 3: hellion takes 7 damage.
+You gain 7 hit points
+You lose 15 hit points
+Round 3: fifthtoast attacks!
+Round 4: hellion takes 1 damage.
+Round 4: Mark sucks out 8 points worth of your opponent's blood, and gives some of it to you. Ever see a mama bird feed her chicks?
+Round 4: hellion takes 8 damage.
+You gain 8 hit points
+Round 4: fifthtoast attacks!
+Round 5: hellion takes 1 damage.
+Round 5: Mark jabs your opponent with his fangs, and sucks out 8 points worth of their blood. Somehow, this results in more health for you? I don't know how that works.
+Round 5: hellion takes 8 damage.
+You gain 8 hit points
+You lose 15 hit points
+Round 5: fifthtoast attacks!
+Round 6: hellion takes 1 damage.
+Round 6: cocopuf squawks loudly and runs in a circle around your opponent. He looks a little bit confused.
+Round 6: hellion drops 5 attack power.
+Round 6: hellion drops 5 defense.
+Round 6: Mark, just for a change, heals a bunch of your hit points first, and then sucks 8 points worth of blood out of your opponent.
+Round 6: hellion takes 8 damage.
+You gain 8 hit points
+Round 6: fifthtoast wins the fight!
+You gain 6 Strengthliness
+You gain 15 Magicalness
+You gain 8 Cheek
+You gain a Moxie point!
+
+cast 1 Transcendent Al Dente
+You lose 1 Adventure
+You acquire an effect: Al Dente Inferno (duration: 10 Adventures)
+
+[298] The Dark Neck of the Woods
+Encounter: P imp
+Round 0: fifthtoast loses initiative!
+You lose 7 hit points
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: p imp takes 1 damage.
+Round 2: Mark sinks his fangs into your opponent, draining 6 points worth of blood. You feel a wave of resonant health energy pass from him to you.
+Round 2: p imp takes 6 damage.
+You gain 6 hit points
+You lose 8 hit points
+Round 2: fifthtoast attacks!
+Round 3: p imp takes 1 damage.
+Round 3: Mark sucks out 8 points worth of your opponent's blood, and gives some of it to you. Ever see a mama bird feed her chicks?
+Round 3: p imp takes 8 damage.
+You gain 8 hit points
+You lose 7 hit points
+Round 3: fifthtoast attacks!
+Round 4: p imp takes 1 damage.
+Round 4: Mark sucks out 6 points worth of your opponent's blood, and gives some of it to you. Ever see a mama bird feed her chicks?
+Round 4: p imp takes 6 damage.
+You gain 6 hit points
+You lose 8 hit points
+Round 4: fifthtoast attacks!
+Round 5: p imp takes 1 damage.
+Round 5: Mark jabs your opponent with his fangs, and sucks out 5 points worth of their blood. Somehow, this results in more health for you? I don't know how that works.
+Round 5: p imp takes 5 damage.
+You gain 5 hit points
+Round 5: fifthtoast attacks!
+Round 6: p imp takes 1 damage.
+Round 6: Mark drinks 8 points worth of your opponent's blood, converts it to magical energy, then gives you some of that magical energy, which your body converts back into blood. Seems kind of a roundabout way of doing it, but it works.
+Round 6: p imp takes 8 damage.
+You gain 8 hit points
+You lose 8 hit points
+Round 6: fifthtoast attacks!
+Round 7: p imp takes 1 damage.
+Round 7: Mark bites your opponent and drains out 6 points worth of he blood. Then he waggles his fingers at you mystically and says "Blah! Blah!" and for some reason you feel healthier.
+Round 7: p imp takes 6 damage.
+You gain 6 hit points
+Round 7: fifthtoast attacks!
+Round 8: p imp takes 1 damage.
+Round 8: Mark, just for a change, heals a bunch of your hit points first, and then sucks 8 points worth of blood out of your opponent.
+Round 8: p imp takes 8 damage.
+You gain 8 hit points
+Round 8: fifthtoast wins the fight!
+You gain 32 Meat
+You gain 6 Muscleboundness
+You gain a Muscle point!
+You gain 11 Magicalness
+You gain 6 Sarcasm
+
+[299] The Dark Neck of the Woods
+Encounter: Hellion
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast attacks!
+Round 2: hellion takes 1 damage.
+Round 2: Mark sucks out a bunch of your opponent's blood, where a 'bunch' is roughly 6 points worth. Then he restores your hit points! Presumably these two events are related somehow.
+You gain 6 hit points
+You lose 14 hit points
+Round 2: fifthtoast attacks!
+Round 3: hellion takes 1 damage.
+Round 3: Mark sucks out 6 points worth of your opponent's blood, and gives some of it to you. Ever see a mama bird feed her chicks?
+Round 3: hellion takes 6 damage.
+You gain 6 hit points
+You lose 15 hit points
+Round 3: fifthtoast attacks!
+Round 4: hellion takes 1 damage.
+Round 4: Mark sucks out a bunch of your opponent's blood, where a 'bunch' is roughly 5 points worth. Then he restores your hit points! Presumably these two events are related somehow.
+You gain 5 hit points
+You lose 14 hit points
