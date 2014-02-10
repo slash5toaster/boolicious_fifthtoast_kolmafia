@@ -18,7 +18,7 @@ FaxRequestFrame=194,526,-1
 FlowerHunterFrame=403,267,0
 ItemManageFrame=592,332,-1
 KoLDesktop=128,191,-1
-LoginFrame=605,279,0
+LoginFrame=725,305,0
 MailboxFrame=289,310,1
 MaximizerFrame=344,104
 MeatManageFrame=450,127
@@ -67,11 +67,12 @@ _cheerleaderSteam=200
 _chipBags=0
 _chocolateCigarsUsed=0
 _chocolatesUsed=0
-_clipartSummons=3
+_clipartSummons=0
 _coalPaperweightUsed=false
 _coldOne=false
 _companionshipCasts=0
 _cosmicSixPackConjured=false
+_crappyCameraUsed=false
 _creepyVoodooDollUsed=true
 _crimboTree=true
 _cursedKegUsed=false
@@ -106,7 +107,12 @@ _gnomeAdv=0
 _gongDrops=0
 _gothKidCharge=0
 _gothKidFights=0
-_grimoireGeekySummons=1
+_grimBuff=false
+_grimFairyTaleDrops=0
+_grimFairyTaleDropsCrown=0
+_grimoireGeekySummons=0
+_grimstoneMaskDrops=0
+_grimstoneMaskDropsCrown=0
 _grooseDrops=0
 _guildManualUsed=true
 _hareAdv=0
@@ -159,6 +165,7 @@ _leafblowerML=1
 _legendaryBeat=false
 _lookingGlass=true
 _lunchBreak=false
+_lupineHormonesUsed=false
 _madTeaParty=false
 _managerialManipulationUsed=false
 _mayflowerDrops=0
@@ -232,6 +239,12 @@ _treasuryHaremMeatCollected=false
 _trivialAvocationsGame=true
 _turtlePowerCast=false
 _ultraMegaSourBallUsed=false
+_unknownEasyBountyItem
+_unknownHardBountyItem
+_unknownSpecialBountyItem
+_untakenEasyBountyItem
+_untakenHardBountyItem
+_untakenSpecialBountyItem
 _userMods
 _vitachocCapsulesUsed=0
 _vmaskAdv=0
@@ -241,6 +254,7 @@ _warbearBreakfastMachineUsed=false
 _warbearGyrocopterUsed=false
 _warbearSodaMachineUsed=false
 _whiteRiceDrops=0
+_workshedItemUsed=false
 _zapCount=0
 addingScrolls=2
 afterAdventureScript
@@ -825,6 +839,8 @@ choiceAdventure9=1
 choiceAdventure90=2
 choiceAdventure91=1
 chosenTrip
+cinderellaMinutesToMidnight=0
+cinderellaScore=0
 clanAttacksEnabled=false
 cocktailSummons=0
 concertVisited=false
@@ -833,10 +849,13 @@ counterScript
 cozyCounter6332=0
 cozyCounter6333=0
 cozyCounter6334=0
+crappyCameraMonster
 crimboTreeDays=7
 crudeMonster=something <i>totally</i> unrecognizable
 currentBountyItem=0
+currentEasyBountyItem
 currentFullness=0
+currentHardBountyItem
 currentHippyStore=hippy
 currentJunkyardLocation
 currentJunkyardTool
@@ -844,6 +863,7 @@ currentMojoFilters=0
 currentMood=powered
 currentNunneryMeat=87942
 currentPvpVictories
+currentSpecialBountyItem
 currentSpleenUse=0
 currentWheelPosition=mysticality
 customCombatScript=boolicious
@@ -937,6 +957,7 @@ gourdItemCount=12
 grimoire1Summons=0
 grimoire2Summons=0
 grimoire3Summons=0
+grimstoneMaskPath
 guardTurtlesFreed=0
 guyMadeOfBeesCount=3
 guyMadeOfBeesDefeated=true
@@ -981,7 +1002,7 @@ lastBangPotion827=teleportitis
 lastBangPotionReset=4
 lastBarrelSmashed=0
 lastBattlefieldReset=4
-lastBreakfast=3
+lastBreakfast=10
 lastCastleGroundUnlock=-1
 lastCastleTopUnlock=-1
 lastCellarReset=4
@@ -991,7 +1012,7 @@ lastChasmReset=4
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastColosseumRoundWon=0
 lastCouncilVisit=25
-lastCounterDay=3
+lastCounterDay=10
 lastDispensaryOpen=3
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -1031,7 +1052,7 @@ lastDwarfOreRunes=IOJH
 lastEVHelmetReset=-1
 lastEVHelmetValue=0
 lastEasterEggBalloon=4
-lastEmptiedStorage=-1
+lastEmptiedStorage=4
 lastEncounter=Master Sergeant Soren Larss&ouml;ns&oslash;nsen the Hardened Warbear Officer
 lastFilthClearance=4
 lastFratboyCall=-1
@@ -1112,7 +1133,7 @@ lastVioletFogMap=4
 lastWuTangDefeated=1
 lastYearbookCameraAscension=-1
 lastZapperWand=4
-libramSummons=9
+libramSummons=0
 libraryCardUsed=false
 louvreDesiredGoal=6
 louvreGoal=6
@@ -1265,6 +1286,8 @@ rememberDesktopSize=false
 requireBoxServants=false
 requireSewerTestItems=false
 romanticTarget
+rumpelstiltskinKidsRescued=0
+rumpelstiltskinTurnsUsed=0
 safePickpocket=true
 scriptMRULength=0
 scriptMRUList
@@ -1302,6 +1325,7 @@ skillBurn6023=-100
 skillBurn6024=-100
 skillBurn6026=-100
 skillBurn6028=-100
+skillBurn90=-100
 skillLevel46=0
 skillLevel47=0
 skillLevel48=0
@@ -1350,7 +1374,7 @@ testudinalTeachings
 textColors=crappy\:\#999999|good\:green|awesome\:blue|epic\:\#8a2be2|junk\:gray|memento\:olive|notavailable\:gray
 thanksMessage=Thank you for the donation\!
 timesRested=0
-tomeSummons=3
+tomeSummons=0
 totalCharitableDonations=0
 trapperOre=chrome
 turtleBlessingTurns=0
