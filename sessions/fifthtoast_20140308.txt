@@ -1,0 +1,97 @@
+
+buy 3 chewing gum on a string for 50 each from The General Store
+You acquire chewing gum on a string (3)
+You spent 150 Meat
+
+use 3 chewing gum on a string
+You acquire an item: worthless gewgaw
+You acquire an item: worthless trinket
+You acquire an item: worthless knick-knack
+
+trading 3 worthless items for 3 ten-leaf clovers
+You acquire ten-leaf clover (3)
+
+Use 3 ten-leaf clover
+You acquire disassembled clover (3)
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: Who?
+
+use 1 festive warbear bank
+You lose 25 Meat
+You gain 6 Meat
+
+cast 1 Pastamastery
+You acquire dry noodles (5)
+
+main.php?action=noresetnotification
+
+Visiting Doc Galaktik
+
+cast 1 Spirit of Peppermint
+You acquire an intrinsic: Spirit of Peppermint
+
+cast 20 Manicotti Meditation
+You acquire an effect: Pasta Oneness (duration: 100 Adventures)
+
+cast 4 Arched Eyebrow of the Archmage
+You acquire an effect: Arched Eyebrow of the Archmage (duration: 40 Adventures)
+
+cast 4 Springy Fusilli
+You acquire an effect: Springy Fusilli (duration: 40 Adventures)
+
+cast 4 Wizard Squint
+You lose an effect: Arched Eyebrow of the Archmage
+You acquire an effect: Wizard Squint (duration: 40 Adventures)
+friars blessing 1
+You acquire an effect: Brother Flying Burrito's Blessing (duration: 20 Adventures)
+
+cast 1 Transcendent Al Dente
+You lose 1 Adventure
+You acquire an effect: Al Dente Inferno (duration: 10 Adventures)
+
+[340] Infernal Rackets Backstage
+Encounter: suckubus
+Round 0: fifthtoast wins initiative!
+Round 0: fifthtoast attacks! (auto-attack)
+Round 2: suckubus takes 1 damage.
+Round 2: Mark, just for a change, heals a bunch of your hit points first, and then sucks 6 points worth of blood out of your opponent.
+Round 2: suckubus takes 6 damage.
+You gain 6 hit points
+You lose 16 hit points
+Round 2: fifthtoast executes a macro!
+Round 2: fifthtoast attacks!
+Round 3: suckubus takes 1 damage.
+Round 3: cocopuf paws at the ground for a second, and then charges your opponent, bashing her for 19 damage.
+Round 3: suckubus takes 19 damage.
+Round 3: Mark, just for a change, heals a bunch of your hit points first, and then sucks 4 points worth of blood out of your opponent.
+Round 3: suckubus takes 4 damage.
+You gain 4 hit points
+You lose 18 hit points
+Round 3: fifthtoast attacks!
+Round 4: suckubus takes 1 damage.
+Round 4: cocopuf coos softly, and nuzzles you with his beak.
+You gain 24 hit points
+You gain 24 Mana Points
+Round 4: Mark sucks out a bunch of your opponent's blood, where a 'bunch' is roughly 6 points worth. Then he restores your hit points! Presumably these two events are related somehow.
+You gain 6 hit points
+You lose 17 hit points
+Round 4: fifthtoast attacks!
+Round 5: suckubus takes 1 damage.
+Round 5: Mark jabs your opponent with his fangs, and sucks out 7 points worth of their blood. Somehow, this results in more health for you? I don't know how that works.
+Round 5: suckubus takes 7 damage.
+You gain 7 hit points
+You lose 16 hit points
+Round 5: fifthtoast attacks!
+Round 6: suckubus takes 1 damage.
+Round 6: Mark drinks 4 points worth of your opponent's blood, converts it to magical energy, then gives you some of that magical energy, which your body converts back into blood. Seems kind of a roundabout way of doing it, but it works.
+Round 6: suckubus takes 4 damage.
+You gain 4 hit points
+You lose 14 hit points
+
+[341] Rest in your dwelling
+You lose an effect: Beaten Up
+You gain 3 hit points
+You gain 5 Mana Points
