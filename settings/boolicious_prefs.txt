@@ -50,6 +50,7 @@ _banderRunaways=0
 _bearHugs=0
 _beerLensDrops=0
 _benettonsCasts=0
+_blankoutUsed=false
 _bonersSummoned=false
 _bootStomps=0
 _borrowedTimeUsed=false
@@ -71,6 +72,7 @@ _clipartSummons=0
 _coalPaperweightUsed=false
 _coldOne=false
 _companionshipCasts=0
+_corruptedStardustUsed=false
 _cosmicSixPackConjured=false
 _crappyCameraUsed=false
 _creepyVoodooDollUsed=true
@@ -84,6 +86,8 @@ _deluxeKlawSummons=3
 _demandSandwich=0
 _discoKnife=false
 _distentionPillUsed=false
+_dnaHybrid=false
+_dnaPotionsMade=0
 _donhosCasts=0
 _dreamJarDrops=0
 _elronsCasts=0
@@ -169,6 +173,7 @@ _lupineHormonesUsed=false
 _madTeaParty=false
 _managerialManipulationUsed=false
 _mayflowerDrops=0
+_mayflySummons=0
 _mediumSiphons=0
 _nanorhinoBanishedMonster
 _nanorhinoCharge=100
@@ -181,6 +186,11 @@ _pantsgivingCrumbs=0
 _pantsgivingFullness=0
 _pastaAdditive=false
 _pasteDrops=0
+_peteJukeboxFixed=0
+_peteJumpedShark=0
+_petePartyThrown=false
+_petePeeledOut=0
+_peteRiotIncited=false
 _photocopyUsed=false
 _pieDrops=0
 _piePartsCount=0
@@ -224,6 +234,8 @@ _stressBallSqueezes=0
 _stuffedPocketwatchUsed=false
 _styxSprayUsed=false
 _sugarSummons=0
+_summonAnnoyanceUsed=false
+_sweetToothUsed=false
 _syntheticDogHairPillUsed=false
 _tacoFlierUsed=true
 _taffyRareSummons=0
@@ -776,6 +788,7 @@ choiceAdventure678=4
 choiceAdventure679=1
 choiceAdventure681=1
 choiceAdventure689=1
+choiceAdventure694=1
 choiceAdventure695=1
 choiceAdventure7=1
 choiceAdventure706=1
@@ -831,8 +844,13 @@ choiceAdventure82=2
 choiceAdventure83=3
 choiceAdventure84=2
 choiceAdventure85=1
+choiceAdventure851=1
+choiceAdventure852=1
+choiceAdventure853=1
+choiceAdventure854=1
 choiceAdventure86=2
 choiceAdventure87=2
+choiceAdventure873=1
 choiceAdventure88=2
 choiceAdventure89=3
 choiceAdventure9=1
@@ -850,7 +868,7 @@ cozyCounter6332=0
 cozyCounter6333=0
 cozyCounter6334=0
 crappyCameraMonster
-crimboTreeDays=7
+crimboTreeDays=0
 crudeMonster=something <i>totally</i> unrecognizable
 currentBountyItem=0
 currentEasyBountyItem
@@ -895,6 +913,7 @@ desktopHeight=600
 desktopWidth=800
 discardedKarma=0
 distentionPillActive=false
+dnaSyringe
 dolphinItem=dragonfish caviar
 doorCode
 dreadScroll1=0
@@ -980,6 +999,7 @@ hpAutoRecoveryItems=rest at your campground;free disco rest;medicinal herb's med
 hpAutoRecoveryTarget=0.8
 iceSculptureMonster
 invalidBuffMessage=You sent an amount which does not correspond to a valid buff amount.
+jarlsbergPoints=0
 jungCharge=18
 kingLiberated=true
 kingLiberatedScript
@@ -987,6 +1007,7 @@ knownAscensions=4
 kolhsTotalSchoolSpirited=0
 lassoTraining
 lastAdventure=WarBear Fortress (Third Level)
+lastAnticheeseDay=-5
 lastArcadeAscension=-1
 lastBadMoonReset=-1
 lastBallroomUnlock=3
@@ -1011,8 +1032,9 @@ lastChanceThreshold=100
 lastChasmReset=4
 lastChessboard=BRe2,BQg2,BKe3,BPf3,BNc4,BBb6,BNc6,BRg6,BBa7,BNe7,BBf7,WBe8
 lastColosseumRoundWon=0
-lastCouncilVisit=25
+lastCouncilVisit=29
 lastCounterDay=10
+lastDesertUnlock=4
 lastDispensaryOpen=3
 lastDoorCodeReset=4
 lastDustyBottle2271=6
@@ -1064,6 +1086,7 @@ lastGuyMadeOfBeesReset=4
 lastHermitReset=3
 lastHiddenCityAscension=3
 lastHippyCall=-1
+lastIslandUnlock=4
 lastKeyotronUse=-1
 lastKingLiberation=4
 lastLouvreMap=4
@@ -1199,6 +1222,12 @@ pastamancerOrbedExperience=0
 pastamancerOrbedName
 pastamancerOrbedType
 pendingMapReflections=13
+peteMotorbikeCowling
+peteMotorbikeGasTank
+peteMotorbikeHeadlight
+peteMotorbikeMuffler
+peteMotorbikeSeat
+peteMotorbikeTires
 photocopyMonster=monster
 pieStuffing
 plantingDate=10
@@ -1227,7 +1256,6 @@ questG05Dark=finished
 questG06Delivery=finished
 questI01Scapegoat=unstarted
 questI02Beat=unstarted
-questI02Beat =unstarted
 questL02Larva=finished
 questL03Rat=finished
 questL04Bat=finished
@@ -1313,6 +1341,8 @@ skillBurn1019=-100
 skillBurn14008=-100
 skillBurn14028=-100
 skillBurn14038=-100
+skillBurn15011=-100
+skillBurn15028=-100
 skillBurn3=-100
 skillBurn5017=-100
 skillBurn6014=-100
@@ -1332,6 +1362,7 @@ skillLevel48=0
 slimelingFullness=0.0
 slimelingStacksDropped=0
 slimelingStacksDue=0
+sneakyPetePoints=0
 sortByRoom=true
 spadingData
 spiceMelangeUsed=false
@@ -1359,6 +1390,7 @@ sugarCounter4181=0
 sugarCounter4182=0
 sugarCounter4183=0
 sugarCounter4191=0
+summonAnnoyanceCost=11
 tavernLayout=1111111111115113111111611
 telescope1=a smiling man smoking a pipe
 telescope2
