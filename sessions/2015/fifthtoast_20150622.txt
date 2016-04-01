@@ -1,0 +1,50 @@
+
+showplayer.php?who=2303242
+
+buy 3 chewing gum on a string for 50 each from The General Store
+You spent 150 Meat
+You acquire chewing gum on a string (3)
+
+use 1 chewing gum on a string
+You acquire an item: Hollandaise helmet
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+add to closet: 1 worthless knick-knack
+
+use 1 chewing gum on a string
+You acquire an item: pasta spoon
+
+buy 2 chewing gum on a string for 50 each from The General Store
+You spent 100 Meat
+You acquire chewing gum on a string (2)
+
+use 1 chewing gum on a string
+You acquire an item: disco mask
+
+use 1 chewing gum on a string
+You acquire an item: seal-clubbing club
+
+buy 2 chewing gum on a string for 50 each from The General Store
+You spent 100 Meat
+You acquire chewing gum on a string (2)
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+add to closet: 1 worthless knick-knack
+
+use 1 chewing gum on a string
+You acquire an item: worthless knick-knack
+
+take from closet: 2 worthless knick-knack
+You acquire worthless knick-knack (2)
+
+trading 3 worthless items for 3 ten-leaf clovers
+You acquire ten-leaf clover (3)
+
+Use 3 ten-leaf clover
+You acquire disassembled clover (3)
+
+main.php?action=noresetnotification
