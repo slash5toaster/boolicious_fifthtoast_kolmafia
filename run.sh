@@ -20,7 +20,7 @@ case $HOST in
        ;;
   * )
        echo $HOST "using default java "
-       if [ -e $(which java) ] ;then 
+       if [ -e $(which java) ] ;then
          JAVABIN=$(which java)
        fi
        ;;
@@ -30,9 +30,10 @@ pushd ~/.kolmafia/
 #svn cleanup
 #svn up  --password 1aK8U30UMO
 #svn commit -m $(date +%F-%H%M)  --password 1aK8U30UMO
-git fetch --all 
+git fetch --all
 git commit -a -m  $(date +%F-%H%M)
-$JAVABIN -jar ~/.kolmafia/KoLmafia-latest.jar 
+$JAVABIN -jar ~/.kolmafia/KoLmafia-latest.jar
+git push
 
 pushd sessions
 git add *$(date -u +%Y%m%d)*
@@ -45,7 +46,7 @@ git add *$(date -u +%Y%m%d)*
 git add *$(date +%Y%m%d)*
 popd
 
-#svn up --password 1aK8U30UMO 
+#svn up --password 1aK8U30UMO
 #svn commit -m $(date +%F-%H%M) --password 1aK8U30UMO
 git commit -a -m  $(date +%F-%H%M)
 #git push $GITREMOTE
