@@ -11,6 +11,7 @@
 *.mo
 *.ncb
 *.obj
+*.old
 *.opensdf
 *.orig
 *.pch
