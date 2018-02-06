@@ -10,14 +10,6 @@ case $HOST in
        #echo $HOST
        #JAVABIN=/usr/local/jdk1.7.0_01/jre/bin/java
        #;;
-#  "ussf319388" )
-#       echo $HOST
-#       JAVABIN=/usr/lib/jvm/java-6-openjdk/jre/bin/java
-#       ;;
-  "ussf311936" )
-       echo $HOST
-       JAVABIN=/usr/bin/java
-       ;;
   * )
        echo $HOST "using default java "
        if [ -e $(which java) ] ;then
