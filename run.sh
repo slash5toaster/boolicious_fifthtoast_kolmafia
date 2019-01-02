@@ -19,7 +19,7 @@ case $HOST in
 esac
 
 pushd ~/.kolmafia/
-git fetch --all -p 
+git fetch --all -p
 git commit -a -m  $(date +%F-%H%M)
 $JAVABIN -jar ~/.kolmafia/KoLmafia-latest.jar
 git push
@@ -35,8 +35,5 @@ git add *$(date -u +%Y%m%d)*
 git add *$(date +%Y%m%d)*
 popd
 
-#svn up --password 1aK8U30UMO
-#svn commit -m $(date +%F-%H%M) --password 1aK8U30UMO
 git commit -a -m  $(date +%F-%H%M)
-#git push $GITREMOTE
 popd
