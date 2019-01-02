@@ -19,7 +19,7 @@ else
        -o $KM_ROOT/KoLmafia-latest.jar
   if [[ $(git status --porcelain --untracked-files=no | wc -l) -gt 0 ]] ; then
     git add KoLmafia-latest.jar
-    git commit -m "Update to $KM_VERSION" KoLmafia-latest.jar
+    git commit -m "Update to $KM_VERSION" KoLmafia-latest.jar km_version 
     echo $KM_VERSION | tee $KM_ROOT/km_version
   fi
 fi
