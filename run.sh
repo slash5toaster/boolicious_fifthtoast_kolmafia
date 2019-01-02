@@ -19,10 +19,7 @@ case $HOST in
 esac
 
 pushd ~/.kolmafia/
-#svn cleanup
-#svn up  --password 1aK8U30UMO
-#svn commit -m $(date +%F-%H%M)  --password 1aK8U30UMO
-git fetch --all
+git fetch --all -p 
 git commit -a -m  $(date +%F-%H%M)
 $JAVABIN -jar ~/.kolmafia/KoLmafia-latest.jar
 git push
