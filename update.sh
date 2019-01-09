@@ -23,3 +23,6 @@ else
     echo $KM_VERSION | tee $KM_ROOT/km_version
   fi
 fi
+
+# End of file, if this is missing the file is truncated
+###################################################################################################
