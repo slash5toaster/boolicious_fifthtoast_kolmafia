@@ -18,9 +18,9 @@ else
   curl $KM_BUILD_URL/KoLmafia-${KM_VERSION}.jar \
        -o $KM_ROOT/KoLmafia-latest.jar
   if [[ $(git status --porcelain --untracked-files=no | wc -l) -gt 0 ]] ; then
-    git add KoLmafia-latest.jar
-    git commit -m "Update to $KM_VERSION" KoLmafia-latest.jar km_version 
     echo $KM_VERSION | tee $KM_ROOT/km_version
+    git add KoLmafia-latest.jar km_version
+    git commit -m "Update to $KM_VERSION" KoLmafia-latest.jar km_version
   fi
 fi
 
