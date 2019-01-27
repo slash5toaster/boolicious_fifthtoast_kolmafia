@@ -1,0 +1,3710 @@
+
+use 1 Chester's bag of candy
+You acquire marzipan skull (2)
+You acquire Yummy Tummy bean (3)
+
+main.php?checkbfast=25
+
+use 1 Taco Dan's Taco Stand Flier
+You acquire an item: Taco Dan's Taco Stand Chillacious Churro
+
+main.php?checkbfast=24
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: What?
+You acquire an item: Trivial Avocations Card: Where?
+
+main.php?checkbfast=9
+
+use 1 Oscus's neverending soda
+You gain 265 Mana Points
+
+main.php?checkbfast=26
+
+use 1 creepy voodoo doll
+
+main.php?checkbfast=34
+
+use 1 heart of dark chocolate
+You gain 42 hit points
+
+main.php?checkbfast=30
+
+Harvesting your garden
+You acquire peppermint sprout (12)
+
+Combine 1 brainy skull + 1 maiden wig
+You acquire an item: maid head
+Crafting used 1 each of brainy skull and maiden wig
+
+Combine 1 frilly skirt + 1 meat engine
+You acquire an item: Meat maid body
+Crafting used 1 each of meat engine and frilly skirt
+
+Combine 1 maid head + 1 Meat maid body
+You acquire an item: Meat maid
+Crafting used 1 each of Meat maid body and maid head
+
+use 1 Meat maid
+
+[2319] The Hole in the Sky
+Encounter: One-Eyed Willie wearing a plague doctor mask
+Round 0: boolicious wins initiative!
+You acquire an effect: A Little Bit Poisoned (10)
+Round 1: boolicious attacks!
+Round 2: One-Eyed Willie takes 7 damage.
+Round 2: One-Eyed Willie takes 14 damage.
+Round 2: You lose 11 hit points
+Round 2: boolicious 
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: One-Eyed Willie takes 110 damage.
+Round 3: One-Eyed Willie drops 9 defense.
+Round 3: One-Eyed Willie takes 8 damage.
+Round 3: You lose 27 hit points
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: One-Eyed Willie takes 110 damage.
+Round 4: One-Eyed Willie drops 8 defense.
+Round 4: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 20 hit points
+After Battle: You gain 23 Mana Points
+You acquire an item: line
+After Battle: You gain 18 Strengthliness
+After Battle: You gain 21 Mysteriousness
+After Battle: You gain 7 Chutzpah
+You gain 7 Soulsauce
+
+use 1 anti-anti-antidote
+
+upeffect.php?efid=53&qty=1&pwd&ajax=1&_=1547007700762
+
+cast 1 Elemental Saucesphere
+You acquire an effect: Elemental Saucesphere (15)
+
+upeffect.php?efid=53&qty=1&pwd&ajax=1&_=1547007703734
+
+cast 1 Elemental Saucesphere
+You acquire an effect: Elemental Saucesphere (15)
+
+upeffect.php?efid=1454&qty=1&pwd&ajax=1&_=1547007706268
+
+cast 1 Antibiotic Saucesphere
+You acquire an effect: Antibiotic Saucesphere (15)
+
+upeffect.php?efid=53&qty=1&pwd&ajax=1&_=1547007709045
+
+cast 1 Elemental Saucesphere
+You acquire an effect: Elemental Saucesphere (15)
+
+upeffect.php?efid=1454&qty=1&pwd&ajax=1&_=1547007711062
+
+cast 1 Antibiotic Saucesphere
+You acquire an effect: Antibiotic Saucesphere (15)
+
+upeffect.php?efid=53&qty=1&pwd&ajax=1&_=1547007713301
+
+cast 1 Elemental Saucesphere
+You acquire an effect: Elemental Saucesphere (15)
+
+upeffect.php?efid=53&qty=1&pwd&ajax=1&_=1547007715619
+
+cast 1 Elemental Saucesphere
+You acquire an effect: Elemental Saucesphere (15)
+
+Visiting Edam, the Sauceror
+
+Visiting Brie, the Trainer
+
+[2320] The Haunted Laboratory
+Encounter: the gunk wearing a pumpkin mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: the gunk takes 110 damage.
+Round 2: the gunk takes 55 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 20 hit points
+After Battle: You gain 23 Mana Points
+You gain 71 Meat
+After Battle: You gain 8 Muscleboundness
+After Battle: You gain 14 Magicalness
+After Battle: You gain 6 Roguishness
+You gain 3 Soulsauce
+
+[2321] The Haunted Laboratory
+Encounter: Chasin' Babies
+choice 884/1: Try the poppet
+choice 884/2: Try the rocking horse
+choice 884/3: Try the jack-in-the-box
+choice 884/6: Do nothin'
+Took choice 884/3: unknown
+choice.php?pwd&whichchoice=884&option=3
+
+[2322] The Haunted Laboratory
+Encounter: Jacob's adder wearing a snowman mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: Jacob's adder takes 103 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 17 hit points
+After Battle: You gain 15 Mana Points
+After Battle: You gain 12 Beefiness
+After Battle: You gain 13 Enchantedness
+After Battle: You gain 4 Cheek
+You gain 3 Soulsauce
+
+[2323] The Haunted Laboratory
+Encounter: model skeleton wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: model skeleton takes 93 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 19 hit points
+After Battle: You gain 26 Mana Points
+After Battle: You gain 12 Muscleboundness
+After Battle: You gain 8 Wizardliness
+After Battle: You gain 5 Cheek
+You gain 1 Soulsauce
+
+[2324] The Haunted Laboratory
+Encounter: model skeleton wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: model skeleton takes 101 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 28 hit points
+After Battle: You gain 27 Mana Points
+After Battle: You gain 12 Fortitude
+After Battle: You gain 10 Magicalness
+After Battle: You gain 4 Roguishness
+
+[2325] The Haunted Laboratory
+Encounter: model skeleton wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: model skeleton takes 91 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 25 hit points
+After Battle: You gain 26 Mana Points
+You acquire an item: synthetic marrow
+After Battle: You gain 10 Strongness
+After Battle: You gain 10 Wizardliness
+After Battle: You gain 6 Smarm
+
+[2326] The Haunted Laboratory
+Encounter: Chasin' Babies
+choice 884/1: Try the poppet
+choice 884/2: Try the rocking horse
+choice 884/3: Try the jack-in-the-box
+choice 884/6: Do nothin'
+
+cast 1 Soul Funk
+Took choice 884/3: unknown
+choice.php?pwd&whichchoice=884&option=3
+
+[2327] The Haunted Laboratory
+Encounter: Lights Out in the Laboratory
+Took choice 903/1: Search for a light
+choice.php?pwd&whichchoice=903&option=1
+Encounter: Lights Out in the Laboratory
+Took choice 903/1: Check it out
+choice.php?pwd&whichchoice=903&option=1
+Encounter: Lights Out in the Laboratory
+Took choice 903/3: Examine the weird machines
+choice.php?pwd&whichchoice=903&option=3
+
+[2327] The Haunted Laboratory
+Encounter: model skeleton wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: model skeleton takes 55 damage.
+Round 2: model skeleton takes 110 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 26 hit points
+After Battle: You gain 17 Mana Points
+You acquire an item: funny bone
+After Battle: You gain 8 Strongness
+After Battle: You gain 13 Enchantedness
+After Battle: You gain 7 Sarcasm
+
+[2328] The Haunted Laboratory
+Encounter: the gunk wearing a pumpkin mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: the gunk takes 55 damage.
+Round 2: the gunk takes 55 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 17 hit points
+After Battle: You gain 21 Mana Points
+You gain 76 Meat
+You acquire an item: the funk
+After Battle: You gain 11 Fortitude
+After Battle: You gain 15 Wizardliness
+After Battle: You gain 3 Cheek
+
+chew 1 the funk
+You gain 37 Smarm
+
+[2329] The Haunted Laboratory
+Encounter: Jacob's adder wearing a snowman mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: Jacob's adder takes 55 damage.
+Round 2: Jacob's adder takes 55 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 24 hit points
+After Battle: You gain 29 Mana Points
+You acquire an item: electric snakebite
+After Battle: You gain 7 Beefiness
+After Battle: You gain 16 Mysteriousness
+After Battle: You gain 6 Roguishness
+
+[2330] The Haunted Nursery
+Encounter: possessed toy chest wearing an opera mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: possessed toy chest takes 55 damage.
+Round 2: possessed toy chest takes 55 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 20 hit points
+After Battle: You gain 28 Mana Points
+You acquire an item: spooky sound effects record
+After Battle: You gain 17 Beefiness
+After Battle: You gain 17 Wizardliness
+After Battle: You gain 11 Roguishness
+
+[2331] The Haunted Nursery
+Encounter: creepy doll wearing a batmask
+Round 0: boolicious wins initiative!
+You acquire an effect: Bat-Intimidated (1)
+Round 1: boolicious casts SAUCESTORM!
+Round 2: creepy doll takes 55 damage.
+Round 2: creepy doll takes 220 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 24 hit points
+After Battle: You gain 22 Mana Points
+After Battle: You gain 11 Muscleboundness
+After Battle: You gain 13 Mysteriousness
+After Battle: You gain 5 Roguishness
+
+Talking to Lady Spookyraven
+
+[2332] The Haunted Storage Room
+Encounter: sheet ghost wearing a scary mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: sheet ghost takes 96 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 16 hit points
+After Battle: You gain 16 Mana Points
+After Battle: You gain 11 Strongness
+You gain a Muscle point!
+After Battle: You gain 11 Enchantedness
+After Battle: You gain 4 Chutzpah
+
+[2333] The Haunted Storage Room
+Encounter: portrait of Great Uncle Y. Q. Spookyraven
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: ancestral Spookyraven portrait takes 112 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 24 hit points
+After Battle: You gain 21 Mana Points
+You acquire an item: painting of a glass of wine
+After Battle: You gain 12 Strongness
+After Battle: You gain 13 Mysteriousness
+After Battle: You gain 3 Chutzpah
+
+[2334] The Haunted Storage Room
+Encounter: stuffed moose head wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: stuffed moose head takes 99 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 16 hit points
+After Battle: You gain 24 Mana Points
+You gain 166 Meat
+You acquire an item: moose chocolate
+After Battle: You gain 12 Beefiness
+After Battle: You gain 15 Enchantedness
+After Battle: You gain 2 Sarcasm
+
+[2335] The Haunted Storage Room
+Encounter: portrait of Great Uncle O. Harrison Spookyraven
+Round 0: boolicious wins initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: ancestral Spookyraven portrait takes 106 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 25 hit points
+After Battle: You gain 21 Mana Points
+After Battle: You gain 9 Fortitude
+After Battle: You gain 17 Mysteriousness
+After Battle: You gain 2 Sarcasm
+
+[2336] The Haunted Storage Room
+Encounter: Chasin' Babies
+choice 886/1: Try the poppet
+choice 886/2: Try the rocking horse
+choice 886/3: Try the jack-in-the-box
+choice 886/6: Do nothing
+Took choice 886/1: unknown
+choice.php?pwd&whichchoice=886&option=1
+
+[2337] The Haunted Laboratory
+Encounter: model skeleton wearing a monkey mask
+Round 0: boolicious wins initiative!
+
+[2337] The Haunted Nursery
+Round 1: boolicious attacks!
+Round 2: model skeleton takes 102 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 28 hit points
+After Battle: You gain 25 Mana Points
+After Battle: You gain 9 Beefiness
+After Battle: You gain 10 Mysteriousness
+After Battle: You gain 6 Cheek
+
+[2338] The Haunted Laboratory
+Encounter: Chasin' Babies
+Took choice 884/2: Try the rocking horse
+choice.php?pwd&whichchoice=884&option=2
+
+[2339] The Haunted Nursery
+Encounter: Chasin' Babies
+Took choice 885/3: Try the jack-in-the-box
+choice.php?pwd&whichchoice=885&option=3
+
+[2340] The Haunted Nursery
+Encounter: spooky music box wearing a scary mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: spooky music box takes 106 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 22 hit points
+After Battle: You gain 27 Mana Points
+After Battle: You gain 8 Beefiness
+After Battle: You gain 15 Mysteriousness
+After Battle: You gain 5 Chutzpah
+
+[2341] The Haunted Nursery
+Encounter: creepy doll wearing a batmask
+Round 0: boolicious wins initiative!
+You acquire an effect: Bat-Intimidated (1)
+Round 1: boolicious attacks!
+Round 2: creepy doll takes 99 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 22 hit points
+After Battle: You gain 18 Mana Points
+After Battle: You gain 12 Fortitude
+After Battle: You gain 10 Mysteriousness
+After Battle: You gain 7 Roguishness
+
+[2342] The Haunted Nursery
+Encounter: possessed toy chest wearing an opera mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: possessed toy chest takes 93 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 19 hit points
+After Battle: You gain 20 Mana Points
+You acquire an item: spooky sound effects record
+You acquire an item: spooky alphabet block
+After Battle: You gain 11 Fortitude
+After Battle: You gain 27 Mysteriousness
+After Battle: You gain 8 Roguishness
+
+[2343] The Haunted Nursery
+Encounter: possessed toy chest wearing an opera mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: possessed toy chest takes 92 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 18 hit points
+After Battle: You gain 27 Mana Points
+After Battle: You gain 14 Beefiness
+After Battle: You gain 25 Enchantedness
+After Battle: You gain 7 Smarm
+
+[2344] The Haunted Nursery
+Encounter: Chasin' Babies
+Took choice 885/1: Try the poppet
+choice.php?pwd&whichchoice=885&option=1
+
+[2345] The Haunted Nursery
+Encounter: possessed toy chest wearing an opera mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: possessed toy chest takes 97 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 26 hit points
+After Battle: You gain 17 Mana Points
+After Battle: You gain 16 Muscleboundness
+After Battle: You gain 19 Enchantedness
+You gain a Mysticality point!
+After Battle: You gain 10 Chutzpah
+
+[2346] The Haunted Storage Room
+Encounter: sheet ghost wearing a scary mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sheet ghost takes 96 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 21 hit points
+After Battle: You gain 26 Mana Points
+After Battle: You gain 7 Fortitude
+After Battle: You gain 16 Magicalness
+After Battle: You gain 4 Sarcasm
+
+[2347] The Haunted Storage Room
+Encounter: portrait of Uncle Harrison Goldthwait Spookyraven
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: ancestral Spookyraven portrait takes 99 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 27 hit points
+After Battle: You gain 27 Mana Points
+After Battle: You gain 11 Strongness
+After Battle: You gain 13 Magicalness
+After Battle: You gain 4 Cheek
+
+[2348] The Haunted Storage Room
+Encounter: portrait of Duchess Millicent Spookyraven
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: ancestral Spookyraven portrait takes 98 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 16 hit points
+After Battle: You gain 30 Mana Points
+You acquire an item: ornate picture frame
+After Battle: You gain 8 Strongness
+After Battle: You gain 11 Magicalness
+After Battle: You gain 8 Sarcasm
+
+[2349] The Haunted Storage Room
+Encounter: sheet ghost wearing a scary mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sheet ghost takes 98 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 18 hit points
+After Battle: You gain 17 Mana Points
+You acquire an item: sheet cake
+After Battle: You gain 10 Strengthliness
+After Battle: You gain 14 Mysteriousness
+After Battle: You gain 4 Roguishness
+
+[2350] The Haunted Storage Room
+Encounter: Chasin' Babies
+Took choice 886/2: Try the rocking horse
+choice.php?pwd&whichchoice=886&option=2
+
+[2351] The Haunted Laboratory
+Encounter: model skeleton wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: model skeleton takes 97 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 22 hit points
+After Battle: You gain 26 Mana Points
+After Battle: You gain 8 Strongness
+After Battle: You gain 10 Enchantedness
+After Battle: You gain 8 Smarm
+
+[2352] The Haunted Laboratory
+Encounter: the gunk wearing a pumpkin mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: the gunk takes 106 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 28 hit points
+After Battle: You gain 30 Mana Points
+You gain 60 Meat
+You acquire an item: gunky chicken
+After Battle: You gain 10 Muscleboundness
+After Battle: You gain 15 Wizardliness
+After Battle: You gain 3 Chutzpah
+
+[2353] The Haunted Laboratory
+Encounter: the gunk wearing a pumpkin mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: the gunk takes 102 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 29 hit points
+After Battle: You gain 24 Mana Points
+You gain 69 Meat
+You acquire an item: the funk
+You acquire an item: gunky chicken
+After Battle: You gain 10 Muscleboundness
+After Battle: You gain 14 Mysteriousness
+After Battle: You gain 4 Sarcasm
+
+chew 1 the funk
+You gain 37 Smarm
+You gain a Moxie point!
+
+[2354] The Haunted Laboratory
+Encounter: the gunk wearing a pumpkin mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: the gunk takes 108 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 18 hit points
+After Battle: You gain 26 Mana Points
+You gain 63 Meat
+After Battle: You gain 9 Strengthliness
+After Battle: You gain 14 Enchantedness
+After Battle: You gain 5 Cheek
+
+[2355] The Haunted Laboratory
+Encounter: Chasin' Babies
+Took choice 884/6: Do nothin'
+choice.php?pwd&whichchoice=884&option=6
+
+[2355] The Haunted Laboratory
+Encounter: Jacob's adder wearing a snowman mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: Jacob's adder takes 103 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 29 hit points
+After Battle: You gain 19 Mana Points
+After Battle: You gain 12 Strongness
+After Battle: You gain 11 Magicalness
+After Battle: You gain 5 Cheek
+
+[2356] The Haunted Laboratory
+Encounter: model skeleton wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: model skeleton takes 95 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 19 hit points
+After Battle: You gain 24 Mana Points
+After Battle: You gain 6 Strongness
+After Battle: You gain 16 Wizardliness
+After Battle: You gain 5 Roguishness
+
+[2357] Oil Peak
+Encounter: oil slick wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 145 hit points
+Round 1: boolicious attacks!
+Round 2: oil slick takes 106 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 24 hit points
+After Battle: You gain 19 Mana Points
+You acquire an item: bubblin' crude
+After Battle: You gain 6 Muscleboundness
+After Battle: You gain 17 Magicalness
+After Battle: You gain 6 Sarcasm
+
+[2358] Oil Peak
+Encounter: oil slick wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 145 hit points
+
+cast 1 Tongue of the Walrus
+You gain 32 hit points
+You lose an effect: Beaten Up (0)
+
+cast 2 Tongue of the Walrus
+You gain 72 hit points
+
+cast 1 Tongue of the Walrus
+You gain 40 hit points
+
+[2359] Oil Peak
+Encounter: oil slick wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 145 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: oil slick takes 110 damage.
+Round 2: oil slick takes 55 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 28 hit points
+After Battle: You gain 16 Mana Points
+You acquire an item: bubblin' crude
+After Battle: You gain 11 Strongness
+After Battle: You gain 8 Enchantedness
+After Battle: You gain 9 Sarcasm
+
+[2360] Oil Peak
+Encounter: oil slick wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 145 hit points
+
+cast 1 Tongue of the Walrus
+You gain 30 hit points
+You lose an effect: Beaten Up (0)
+
+[2361] Oil Peak
+Encounter: oil slick wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 145 hit points
+
+cast 1 Tongue of the Walrus
+You gain 39 hit points
+You lose an effect: Beaten Up (0)
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (1)
+Trivia card #194/1200:
+Question: What did Alistair Garfunkel's niece find in the pickle jar on Bor tenth, 1921?
+Answer: A turnip and veal sandwich.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (1)
+Trivia card #399/1200:
+Question: When did the Farnsworthington Drunken Indigenous Natives win the national bobsledding championship?
+Answer: A little after seven o'clock.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (1)
+Trivia card #616/1200:
+Question: Who wrote the extremely disturbing mystery novel <u>Owls of the Paladin's Duo</u>?
+Answer: A bricklayer named Peter Williams.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up (-1)
+You lose an effect: You Know When to Walk Away (-1)
+You lose an effect: You Know Who to Call (-1)
+You acquire an effect: Trivia Master (30)
+Trivia card #986/1200:
+Question: Where was the Viceroy of Hambonia hassled for the crime of littering?
+Answer: In the village of Cowpat.
+
+use 1 Taco Dan's Taco Stand Chillacious Churro
+You acquire an effect: Churro Chiaroscuro (5)
+
+use 1 jaba&ntilde;ero-flavored chewing gum
+You acquire an effect: Spicy Mouth (5)
+
+cast 1 Sauce Contemplation
+You acquire an effect: Saucemastery (5)
+
+cast 100 Sauce Contemplation
+You acquire an effect: Saucemastery (500)
+
+cast 10 Antibiotic Saucesphere
+You acquire an effect: Antibiotic Saucesphere (150)
+
+cast 8 Elemental Saucesphere
+You acquire an effect: Elemental Saucesphere (120)
+
+use 4 Mountain Stream soda
+You gain 143 Mana Points
+
+cast 2 Elemental Saucesphere
+You acquire an effect: Elemental Saucesphere (30)
+
+cast 10 Jalapeño Saucesphere
+You acquire an effect: Jalape&ntilde;o Saucesphere (150)
+
+[2362] Oil Peak
+Encounter: oil slick wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 246 hit points
+
+cast 1 Tongue of the Walrus
+You gain 31 hit points
+You lose an effect: Beaten Up (0)
+
+[2363] Oil Peak
+Encounter: oil slick wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 246 hit points
+
+cast 1 Tongue of the Walrus
+You gain 32 hit points
+You lose an effect: Beaten Up (0)
+
+[2364] Oil Peak
+Encounter: oil slick wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 246 hit points
+
+cast 1 Tongue of the Walrus
+You gain 31 hit points
+You lose an effect: Beaten Up (0)
+
+[2365] Oil Peak
+Encounter: oil slick wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 246 hit points
+
+cast 1 Tongue of the Walrus
+You gain 35 hit points
+You lose an effect: Beaten Up (0)
+
+[2366] Oil Peak
+Encounter: oil slick wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 246 hit points
+
+cast 1 Tongue of the Walrus
+You gain 38 hit points
+You lose an effect: Beaten Up (0)
+
+[2367] Oil Peak
+Encounter: oil slick wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 246 hit points
+
+cast 1 Tongue of the Walrus
+You gain 32 hit points
+You lose an effect: Beaten Up (0)
+
+[2368] Oil Peak
+Encounter: oil slick wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 246 hit points
+
+cast 1 Tongue of the Walrus
+You gain 40 hit points
+You lose an effect: Beaten Up (0)
+
+use 1 cheap toaster
+You acquire toast (3)
+
+main.php?checkbfast=23
+
+use 1 Jackass Plumber home game
+You acquire an effect: Gamer Rage (10)
+
+main.php?checkbfast=10
+
+use 1 festive warbear bank
+You lose 25 Meat
+You gain 35 Meat
+
+main.php?checkbfast=32
+
+cast 0 Advanced Saucecrafting
+You acquire scrumptious reagent (6)
+
+main.php?checkbfast=2
+
+[2369] Oil Peak
+Encounter: oil slick wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 246 hit points
+
+cast 1 Tongue of the Walrus
+You gain 40 hit points
+You lose an effect: Beaten Up (0)
+
+[2370] Oil Peak
+Encounter: oil slick wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 246 hit points
+
+cast 1 Tongue of the Walrus
+You gain 39 hit points
+You lose an effect: Beaten Up (0)
+
+cast 5 Tongue of the Walrus
+You gain 172 hit points
+
+use 3 magical mystery juice
+You gain 79 Mana Points
+
+cast 1 Tongue of the Walrus
+You gain 39 hit points
+
+cast 1 Tongue of the Walrus
+You gain 32 hit points
+
+[2371] Twin Peak
+Encounter: bearpig topiary animal wearing a robot mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: bearpig topiary animal takes 333 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 27 hit points
+After Battle: You gain 20 Mana Points
+You acquire an item: rusty hedge trimmers
+After Battle: You gain 7 Fortitude
+After Battle: You gain 14 Magicalness
+After Battle: You gain 8 Cheek
+
+[2372] Twin Peak
+Encounter: Lost in the Great Overlook Lodge
+Took choice 606/6: flee
+choice.php?pwd&whichchoice=606&option=6
+
+Use 1 peppermint sprout
+You acquire an item: peppermint twist
+
+use 1 peppermint twist
+You acquire an effect: Peppermint Twisted (10)
+
+use 1 resolution: be luckier
+You acquire an effect: Fortunate Resolve (20)
+
+[2372] Twin Peak
+Encounter: Mismatched Twins wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: Mismatched Twins takes 291 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 27 hit points
+After Battle: You gain 17 Mana Points
+You gain 100 Meat
+You acquire an item: artisanal limoncello
+After Battle: You gain 8 Beefiness
+After Battle: You gain 20 Enchantedness
+After Battle: You gain 7 Sarcasm
+
+[2373] Twin Peak
+Encounter: Lost in the Great Overlook Lodge
+Took choice 606/4: need +40% init, have 50.0%
+choice.php?pwd&whichchoice=606&option=4
+Encounter: To Catch a Killer
+Took choice 610/1: Pursue your double
+choice.php?pwd&whichchoice=610&option=1
+Encounter: Now It's Dark
+Took choice 1056/1: And then...
+choice.php?pwd&whichchoice=1056&option=1
+You acquire an item: gold wedding ring
+
+[2373] Oil Peak
+Encounter: oil slick wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 246 hit points
+Round 1: boolicious casts SAUCECICLE!
+Round 2: oil slick takes 462 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 22 hit points
+After Battle: You gain 26 Mana Points
+You acquire an item: bubblin' crude
+After Battle: You gain 13 Fortitude
+After Battle: You gain 11 Mysteriousness
+After Battle: You gain 7 Smarm
+
+[2374] Oil Peak
+Encounter: oil slick wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 246 hit points
+
+cast 1 Tongue of the Walrus
+You gain 32 hit points
+You lose an effect: Beaten Up (0)
+
+cast 6 Tongue of the Walrus
+You gain 219 hit points
+
+cast 1 Tongue of the Walrus
+You gain 33 hit points
+
+[2375] The Obligatory Pirate's Cove
+Encounter: smarmy pirate wearing a welding mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: smarmy pirate takes 335 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 30 hit points
+After Battle: You gain 22 Mana Points
+You gain 43 Meat
+You acquire an item: eyepatch
+You acquire an item: bottle of rum
+You acquire an item: flaregun
+After Battle: You gain 9 Muscleboundness
+You gain a Muscle point!
+After Battle: You gain 15 Magicalness
+After Battle: You gain 3 Chutzpah
+
+[2376] Wartime Frat House
+Encounter: V is for Victory
+You gain 70 Fortitude
+
+[2377] Wartime Frat House
+Encounter: V is for Victory
+You gain 70 Strongness
+
+[2378] Wartime Frat House
+Encounter: Johnny Got His Paddle
+You gain 88 Mysteriousness
+outfit Hot and Cold Running Ninja Suit
+outfit Frat Boy Ensemble
+
+[2379] Wartime Frat House
+Encounter: Dry Another Day
+You gain 100 Smarm
+
+[2380] Hippy Camp
+Encounter: War Hippy drill sergeant wearing a scary mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: War Hippy drill sergeant takes 139 damage.
+Round 2: You lose 49 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: War Hippy drill sergeant takes 106 damage.
+Round 3: War Hippy drill sergeant takes 53 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 18 hit points
+After Battle: You gain 26 Mana Points
+You acquire an item: round purple sunglasses
+After Battle: You gain 18 Beefiness
+After Battle: You gain 19 Enchantedness
+After Battle: You gain 18 Sarcasm
+
+[2381] Wartime Hippy Camp (Frat Disguise)
+Encounter: War Hippy (space) cadet wearing a plague doctor mask
+Round 0: boolicious wins initiative!
+You acquire an effect: A Little Bit Poisoned (10)
+Round 1: boolicious casts SAUCESTORM!
+Round 2: War Hippy (space) cadet takes 106 damage.
+Round 2: War Hippy (space) cadet takes 53 damage.
+Round 2: boolicious casts SAUCESTORM!
+Round 3: War Hippy (space) cadet takes 106 damage.
+Round 3: War Hippy (space) cadet takes 53 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 17 hit points
+After Battle: You gain 24 Mana Points
+After Battle: You gain 17 Strongness
+After Battle: You gain 24 Magicalness
+After Battle: You gain 12 Sarcasm
+
+use 1 anti-anti-antidote
+
+[2382] Wartime Hippy Camp (Frat Disguise)
+Encounter: War Hippy (space) cadet wearing a plague doctor mask
+Round 0: boolicious wins initiative!
+You acquire an effect: A Little Bit Poisoned (10)
+Round 1: boolicious casts SAUCESTORM!
+Round 2: War Hippy (space) cadet takes 110 damage.
+Round 2: War Hippy (space) cadet takes 55 damage.
+Round 2: boolicious casts SAUCESTORM!
+Round 3: War Hippy (space) cadet takes 110 damage.
+Round 3: War Hippy (space) cadet takes 55 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 23 hit points
+After Battle: You gain 24 Mana Points
+After Battle: You gain 10 Muscleboundness
+After Battle: You gain 27 Magicalness
+You gain a Mysticality point!
+After Battle: You gain 14 Sarcasm
+
+use 1 anti-anti-antidote
+
+[2383] Wartime Hippy Camp (Frat Disguise)
+Encounter: Bait and Switch
+Took choice 139/1: muscle substats
+choice.php?pwd&whichchoice=139&option=1
+You gain 50 Muscleboundness
+
+[2384] Wartime Hippy Camp (Frat Disguise)
+Encounter: Blockin' Out the Scenery
+Took choice 141/1: mysticality substats
+choice.php?pwd&whichchoice=141&option=1
+You gain 56 Magicalness
+
+[2385] Wartime Hippy Camp (Frat Disguise)
+Encounter: War Hippy (space) cadet wearing a plague doctor mask
+Round 0: boolicious wins initiative!
+You acquire an effect: A Little Bit Poisoned (10)
+Round 1: boolicious attacks!
+Round 2: War Hippy (space) cadet takes 114 damage.
+Round 2: boolicious casts SAUCESTORM!
+Round 3: War Hippy (space) cadet takes 110 damage.
+Round 3: War Hippy (space) cadet takes 55 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 20 hit points
+After Battle: You gain 24 Mana Points
+After Battle: You gain 11 Muscleboundness
+After Battle: You gain 17 Mysteriousness
+After Battle: You gain 21 Cheek
+You gain a Moxie point!
+
+use 1 anti-anti-antidote
+
+[2386] Wartime Hippy Camp (Frat Disguise)
+Encounter: War Hippy drill sergeant wearing a scary mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: War Hippy drill sergeant takes 110 damage.
+Round 2: War Hippy drill sergeant takes 55 damage.
+Round 2: You lose 49 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: War Hippy drill sergeant takes 110 damage.
+Round 3: War Hippy drill sergeant takes 110 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 27 hit points
+After Battle: You gain 15 Mana Points
+After Battle: You gain 12 Muscleboundness
+You gain a Muscle point!
+After Battle: You gain 28 Mysteriousness
+After Battle: You gain 13 Smarm
+
+[2387] Wartime Hippy Camp (Frat Disguise)
+Encounter: War Hippy (space) cadet wearing a plague doctor mask
+Round 0: boolicious wins initiative!
+You acquire an effect: A Little Bit Poisoned (10)
+Round 1: boolicious casts SAUCESTORM!
+Round 2: War Hippy (space) cadet takes 110 damage.
+Round 2: War Hippy (space) cadet takes 55 damage.
+Round 2: boolicious casts SAUCESTORM!
+Round 3: War Hippy (space) cadet takes 110 damage.
+Round 3: War Hippy (space) cadet takes 55 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 19 hit points
+After Battle: You gain 19 Mana Points
+You acquire an item: round purple sunglasses
+After Battle: You gain 12 Strengthliness
+After Battle: You gain 29 Mysteriousness
+After Battle: You gain 11 Smarm
+
+use 1 anti-anti-antidote
+
+[2388] Wartime Hippy Camp (Frat Disguise)
+Encounter: War Hippy (space) cadet wearing a plague doctor mask
+Round 0: boolicious wins initiative!
+You acquire an effect: A Little Bit Poisoned (10)
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: War Hippy (space) cadet takes 110 damage.
+Round 2: War Hippy (space) cadet drops 8 defense.
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: War Hippy (space) cadet takes 220 damage.
+Round 3: War Hippy (space) cadet drops 8 defense.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 20 hit points
+After Battle: You gain 27 Mana Points
+After Battle: You gain 20 Strongness
+After Battle: You gain 22 Enchantedness
+After Battle: You gain 8 Smarm
+
+use 1 anti-anti-antidote
+
+[2389] Wartime Hippy Camp (Frat Disguise)
+Encounter: The Thin Tie-Dyed Line
+Took choice 140/3: enter combat
+choice.php?pwd&whichchoice=140&option=3
+Encounter: War Hippy drill sergeant wearing a scary mask
+Round 0: boolicious loses initiative!
+Round 1: You lose 46 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: War Hippy drill sergeant takes 220 damage.
+Round 2: War Hippy drill sergeant takes 55 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 18 hit points
+After Battle: You gain 23 Mana Points
+After Battle: You gain 19 Beefiness
+After Battle: You gain 24 Wizardliness
+After Battle: You gain 11 Cheek
+
+[2390] Wartime Hippy Camp (Frat Disguise)
+Encounter: The Thin Tie-Dyed Line
+Took choice 140/2: moxie substats
+choice.php?pwd&whichchoice=140&option=2
+You gain 50 Cheek
+
+[2391] Wartime Hippy Camp (Frat Disguise)
+Encounter: War Hippy (space) cadet wearing a plague doctor mask
+Round 0: boolicious wins initiative!
+You acquire an effect: A Little Bit Poisoned (10)
+Round 1: boolicious casts SAUCESTORM!
+Round 2: War Hippy (space) cadet takes 110 damage.
+Round 2: War Hippy (space) cadet takes 55 damage.
+Round 2: boolicious casts SAUCESTORM!
+Round 3: War Hippy (space) cadet takes 220 damage.
+Round 3: War Hippy (space) cadet takes 55 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 24 hit points
+After Battle: You gain 27 Mana Points
+After Battle: You gain 15 Fortitude
+After Battle: You gain 21 Magicalness
+After Battle: You gain 12 Sarcasm
+
+use 1 anti-anti-antidote
+
+[2392] Wartime Hippy Camp (Frat Disguise)
+Encounter: War Hippy (space) cadet wearing a plague doctor mask
+Round 0: boolicious loses initiative!
+You acquire an effect: A Little Bit Poisoned (10)
+Round 1: War Hippy (space) cadet takes 1 damage.
+Round 1: War Hippy (space) cadet takes 2 damage.
+Round 1: You lose 25 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: War Hippy (space) cadet takes 110 damage.
+Round 2: War Hippy (space) cadet takes 55 damage.
+Round 2: War Hippy (space) cadet takes 1 damage.
+Round 2: War Hippy (space) cadet takes 4 damage.
+Round 2: You lose 18 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: War Hippy (space) cadet takes 110 damage.
+Round 3: War Hippy (space) cadet takes 55 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 15 hit points
+After Battle: You gain 22 Mana Points
+After Battle: You gain 18 Fortitude
+After Battle: You gain 24 Wizardliness
+After Battle: You gain 8 Chutzpah
+
+use 1 anti-anti-antidote
+
+[2393] Wartime Hippy Camp (Frat Disguise)
+Encounter: Bait and Switch
+Took choice 139/1: muscle substats
+choice.php?pwd&whichchoice=139&option=1
+You gain 50 Strongness
+
+[2394] Wartime Hippy Camp (Frat Disguise)
+Encounter: War Hippy (space) cadet wearing a plague doctor mask
+Round 0: boolicious wins initiative!
+You acquire an effect: A Little Bit Poisoned (10)
+Round 1: boolicious casts SAUCESTORM!
+Round 2: War Hippy (space) cadet takes 110 damage.
+Round 2: War Hippy (space) cadet takes 55 damage.
+Round 2: War Hippy (space) cadet takes 3 damage.
+Round 2: War Hippy (space) cadet takes 6 damage.
+Round 2: You lose 44 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: War Hippy (space) cadet takes 110 damage.
+Round 3: War Hippy (space) cadet takes 55 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 23 hit points
+After Battle: You gain 27 Mana Points
+After Battle: You gain 18 Muscleboundness
+After Battle: You gain 20 Enchantedness
+After Battle: You gain 11 Roguishness
+
+use 1 anti-anti-antidote
+
+[2395] Wartime Hippy Camp (Frat Disguise)
+Encounter: The Thin Tie-Dyed Line
+Took choice 140/2: moxie substats
+choice.php?pwd&whichchoice=140&option=2
+You gain 50 Chutzpah
+
+[2396] Wartime Hippy Camp (Frat Disguise)
+Encounter: War Hippy drill sergeant wearing a scary mask
+Round 0: boolicious loses initiative!
+Round 1: You lose 47 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: War Hippy drill sergeant takes 110 damage.
+Round 2: War Hippy drill sergeant takes 55 damage.
+Round 2: You lose 46 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: War Hippy drill sergeant takes 110 damage.
+Round 3: War Hippy drill sergeant takes 55 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 22 hit points
+After Battle: You gain 27 Mana Points
+After Battle: You gain 14 Fortitude
+After Battle: You gain 22 Mysteriousness
+After Battle: You gain 15 Chutzpah
+
+[2397] Wartime Hippy Camp (Frat Disguise)
+Encounter: War Hippy drill sergeant wearing a scary mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: War Hippy drill sergeant takes 220 damage.
+Round 2: War Hippy drill sergeant takes 55 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 25 hit points
+After Battle: You gain 24 Mana Points
+You acquire an item: round purple sunglasses
+After Battle: You gain 14 Muscleboundness
+After Battle: You gain 22 Mysteriousness
+After Battle: You gain 16 Chutzpah
+
+[2398] Wartime Hippy Camp (Frat Disguise)
+Encounter: War Hippy (space) cadet wearing a plague doctor mask
+Round 0: boolicious wins initiative!
+You acquire an effect: A Little Bit Poisoned (10)
+Round 1: boolicious casts SAUCESTORM!
+Round 2: War Hippy (space) cadet takes 220 damage.
+Round 2: War Hippy (space) cadet takes 55 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 19 hit points
+After Battle: You gain 26 Mana Points
+After Battle: You gain 17 Fortitude
+After Battle: You gain 19 Magicalness
+After Battle: You gain 13 Smarm
+
+use 1 anti-anti-antidote
+
+[2399] Wartime Hippy Camp (Frat Disguise)
+Encounter: War Hippy drill sergeant wearing a scary mask
+Round 0: boolicious loses initiative!
+Round 1: You lose 44 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: War Hippy drill sergeant takes 110 damage.
+Round 2: War Hippy drill sergeant takes 55 damage.
+Round 2: You lose 47 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: War Hippy drill sergeant takes 110 damage.
+Round 3: War Hippy drill sergeant takes 55 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 18 hit points
+After Battle: You gain 16 Mana Points
+After Battle: You gain 18 Fortitude
+After Battle: You gain 22 Enchantedness
+After Battle: You gain 12 Roguishness
+You gain a Moxie point!
+
+[2400] Wartime Hippy Camp (Frat Disguise)
+Encounter: War Hippy drill sergeant wearing a scary mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: War Hippy drill sergeant takes 110 damage.
+Round 2: War Hippy drill sergeant takes 55 damage.
+Round 2: You lose 47 hit points
+
+cast 1 Tongue of the Walrus
+You gain 32 hit points
+You lose an effect: Beaten Up (0)
+
+cast 2 Tongue of the Walrus
+You gain 66 hit points
+
+cast 1 Tongue of the Walrus
+You gain 37 hit points
+
+[2401] Wartime Hippy Camp (Frat Disguise)
+Encounter: War Hippy (space) cadet wearing a plague doctor mask
+Round 0: boolicious loses initiative!
+You acquire an effect: A Little Bit Poisoned (10)
+Round 1: War Hippy (space) cadet takes 1 damage.
+Round 1: War Hippy (space) cadet takes 10 damage.
+Round 1: You lose 10 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: War Hippy (space) cadet takes 110 damage.
+Round 2: War Hippy (space) cadet takes 55 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 27 hit points
+After Battle: You gain 25 Mana Points
+After Battle: You gain 19 Fortitude
+After Battle: You gain 17 Magicalness
+You gain a Mysticality point!
+After Battle: You gain 14 Smarm
+
+use 1 anti-anti-antidote
+
+[2402] Wartime Hippy Camp (Frat Disguise)
+Encounter: War Hippy drill sergeant wearing a scary mask
+Round 0: boolicious loses initiative!
+Round 1: You lose 50 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: War Hippy drill sergeant takes 220 damage.
+Round 2: War Hippy drill sergeant takes 55 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 16 hit points
+After Battle: You gain 30 Mana Points
+You acquire an item: round purple sunglasses
+After Battle: You gain 15 Beefiness
+You gain a Muscle point!
+After Battle: You gain 24 Wizardliness
+After Battle: You gain 13 Chutzpah
+
+take from closet: 1 filthy corduroys
+You acquire an item: filthy corduroys
+outfit Filthy Hippy Disguise
+custom outfit Backup
+
+[2403] Hippy Camp
+Encounter: War Hippy drill sergeant wearing a scary mask
+Round 0: boolicious loses initiative!
+Round 1: You lose 49 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: War Hippy drill sergeant takes 110 damage.
+Round 2: War Hippy drill sergeant takes 55 damage.
+Round 2: You lose 47 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: War Hippy drill sergeant takes 110 damage.
+Round 3: War Hippy drill sergeant takes 55 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 27 hit points
+After Battle: You gain 27 Mana Points
+You acquire an item: reinforced beaded headband
+After Battle: You gain 12 Beefiness
+After Battle: You gain 33 Wizardliness
+After Battle: You gain 8 Cheek
+
+[2404] Wartime Frat House
+Encounter: All Alone in My White Boy Pain
+You gain 100 Strongness
+
+[2405] Wartime Frat House
+Encounter: Dreadlocks and Beer Bongs
+You gain 111 Magicalness
+
+[2406] Wartime Frat House
+Encounter: Dreadlocks and Beer Bongs
+You gain 110 Mysteriousness
+
+[2407] Wartime Frat House
+Encounter: Dry Another Day
+You gain 100 Roguishness
+
+[2408] Wartime Frat House
+Encounter: Dry Another Day
+You gain 100 Smarm
+You gain a Moxie point!
+
+[2409] Wartime Frat House
+Encounter: Dreadlocks and Beer Bongs
+You gain 110 Magicalness
+You gain a Mysticality point!
+
+[2410] Wartime Frat House
+Encounter: All Alone in My White Boy Pain
+You gain 100 Strengthliness
+
+[2411] Wartime Frat House
+Encounter: War Hippy Spy wearing a fencing mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: War Hippy Spy takes 12 damage.
+Round 2: War Hippy Spy takes 6 damage.
+Round 2: War Hippy Spy takes 1 damage.
+Round 2: War Hippy Spy takes 1 damage.
+Round 2: You lose 9 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: War Hippy Spy takes 12 damage.
+Round 3: War Hippy Spy takes 11 damage.
+Round 3: War Hippy Spy takes 1 damage.
+Round 3: War Hippy Spy takes 1 damage.
+Round 3: You lose 24 hit points
+Round 3: boolicious attacks!
+Round 4: War Hippy Spy takes 1 damage.
+Round 4: boolicious uses the paint bomb!
+Round 5: War Hippy Spy takes 7 damage.
+Round 5: War Hippy Spy takes 7 damage.
+Round 5: War Hippy Spy takes 1 damage.
+Round 5: War Hippy Spy takes 1 damage.
+Round 5: You lose 25 hit points
+Round 5: boolicious casts SAUCESTORM!
+Round 6: War Hippy Spy takes 12 damage.
+Round 6: War Hippy Spy takes 6 damage.
+Round 6: War Hippy Spy takes 7 damage.
+Round 6: War Hippy Spy takes 1 damage.
+Round 6: War Hippy Spy takes 1 damage.
+Round 6: You lose 23 hit points
+Round 6: boolicious casts SAUCESTORM!
+Round 7: War Hippy Spy takes 12 damage.
+Round 7: War Hippy Spy takes 6 damage.
+Round 7: War Hippy Spy takes 7 damage.
+Round 7: War Hippy Spy takes 1 damage.
+Round 7: War Hippy Spy takes 1 damage.
+Round 7: You lose 25 hit points
+
+cast 1 Tongue of the Walrus
+You gain 35 hit points
+You lose an effect: Beaten Up (0)
+
+cast 2 Tongue of the Walrus
+You gain 69 hit points
+
+cast 1 Tongue of the Walrus
+You gain 30 hit points
+
+[2412] Wartime Frat House
+Encounter: Dreadlocks and Beer Bongs
+You gain 111 Wizardliness
+
+[2413] Wartime Frat House
+Encounter: Dry Another Day
+You gain 100 Sarcasm
+
+[2414] Wartime Frat House
+Encounter: Dry Another Day
+You gain 100 Roguishness
+
+[2415] Wartime Frat House
+Encounter: All Alone in My White Boy Pain
+You gain 100 Muscleboundness
+You gain a Muscle point!
+
+[2416] Wartime Frat House
+Encounter: Dry Another Day
+You gain 100 Smarm
+You gain a Moxie point!
+
+[2417] Wartime Frat House
+Encounter: Dry Another Day
+You gain 100 Roguishness
+
+[2418] Wartime Frat House
+Encounter: Dreadlocks and Beer Bongs
+You gain 110 Mysteriousness
+
+[2419] Wartime Frat House
+Encounter: All Alone in My White Boy Pain
+You gain 100 Fortitude
+
+[2420] Wartime Frat House
+Encounter: Dreadlocks and Beer Bongs
+You gain 111 Mysteriousness
+
+[2421] Wartime Frat House
+Encounter: All Alone in My White Boy Pain
+You gain 100 Beefiness
+You gain a Muscle point!
+
+[2422] Wartime Frat House
+Encounter: War Hippy Spy wearing a fencing mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SWAP MASK!
+Round 2: War Hippy Spy takes 1 damage.
+Round 2: War Hippy Spy takes 1 damage.
+Round 2: You lose 10 hit points
+You swap your welding mask for the monster's fencing mask
+Round 2: boolicious uses the paint bomb!
+Round 3: War Hippy Spy takes 7 damage.
+Round 3: War Hippy Spy takes 7 damage.
+Round 3: boolicious attacks!
+Round 4: War Hippy Spy takes 1 damage.
+Round 4: War Hippy Spy takes 7 damage.
+Round 4: War Hippy Spy takes 1 damage.
+Round 4: War Hippy Spy takes 1 damage.
+Round 4: You lose 1 hit point
+Round 4: boolicious casts SOUL BLAZE!
+Round 5: War Hippy Spy takes 65 damage.
+Round 5: War Hippy Spy takes 7 damage.
+Round 5: War Hippy Spy takes 1 damage.
+Round 5: War Hippy Spy takes 1 damage.
+Round 5: You lose 1 hit point
+Round 5: boolicious 
+Round 5: boolicious casts SAUCECICLE!
+Round 6: War Hippy Spy takes 28 damage.
+Round 6: War Hippy Spy takes 7 damage.
+Round 6: War Hippy Spy takes 1 damage.
+Round 6: War Hippy Spy takes 1 damage.
+Round 6: You lose 1 hit point
+Round 6: boolicious casts SAUCECICLE!
+Round 7: War Hippy Spy takes 26 damage.
+Round 7: War Hippy Spy takes 7 damage.
+Round 7: War Hippy Spy takes 1 damage.
+Round 7: War Hippy Spy takes 1 damage.
+Round 7: You lose 1 hit point
+Round 7: boolicious casts SAUCECICLE!
+Round 8: War Hippy Spy takes 28 damage.
+Round 8: War Hippy Spy takes 7 damage.
+Round 8: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 19 hit points
+After Battle: You gain 18 Mana Points
+You acquire an item: bullet-proof corduroys
+You acquire an item: round purple sunglasses
+After Battle: You gain 6 Strengthliness
+After Battle: You gain 26 Magicalness
+You gain a Mysticality point!
+After Battle: You gain 14 Roguishness
+You gain 5 Soulsauce
+
+[2423] Wartime Frat House
+Encounter: War Hippy Spy wearing a fencing mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the paint bomb!
+Round 2: War Hippy Spy takes 7 damage.
+Round 2: War Hippy Spy takes 7 damage.
+Round 2: War Hippy Spy takes 1 damage.
+Round 2: War Hippy Spy takes 1 damage.
+Round 2: You lose 2 hit points
+Round 2: boolicious casts CURSE OF WEAKSAUCE!
+Round 3: War Hippy Spy drops 6 attack power.
+Round 3: War Hippy Spy drops 6 defense.
+Round 3: War Hippy Spy takes 7 damage.
+Round 3: boolicious casts SOUL BUBBLE!
+Round 4: War Hippy Spy drops 5 attack power.
+Round 4: War Hippy Spy drops 7 defense.
+Round 4: War Hippy Spy takes 7 damage.
+Round 4: boolicious casts WAVE OF SAUCE!
+Round 5: War Hippy Spy takes 11 damage.
+Round 5: War Hippy Spy drops 10 defense.
+Round 5: War Hippy Spy drops 5 attack power.
+Round 5: War Hippy Spy drops 7 defense.
+Round 5: War Hippy Spy takes 7 damage.
+Round 5: boolicious casts WAVE OF SAUCE!
+Round 6: War Hippy Spy takes 11 damage.
+Round 6: War Hippy Spy drops 9 defense.
+Round 6: War Hippy Spy drops 8 attack power.
+Round 6: War Hippy Spy drops 8 defense.
+Round 6: War Hippy Spy takes 7 damage.
+Round 6: boolicious casts WAVE OF SAUCE!
+Round 7: War Hippy Spy takes 11 damage.
+Round 7: War Hippy Spy drops 9 defense.
+Round 7: War Hippy Spy drops 7 attack power.
+Round 7: War Hippy Spy drops 7 defense.
+Round 7: War Hippy Spy takes 7 damage.
+Round 7: boolicious casts WAVE OF SAUCE!
+Round 8: War Hippy Spy takes 22 damage.
+Round 8: War Hippy Spy drops 9 defense.
+Round 8: War Hippy Spy drops 7 attack power.
+Round 8: War Hippy Spy drops 8 defense.
+Round 8: War Hippy Spy takes 7 damage.
+Round 8: boolicious casts WAVE OF SAUCE!
+Round 9: War Hippy Spy takes 22 damage.
+Round 9: War Hippy Spy drops 9 defense.
+Round 9: War Hippy Spy drops 8 attack power.
+Round 9: War Hippy Spy drops 7 defense.
+Round 9: War Hippy Spy takes 7 damage.
+Round 9: boolicious uses the paint bomb!
+Round 10: War Hippy Spy takes 7 damage.
+Round 10: War Hippy Spy drops 8 attack power.
+Round 10: War Hippy Spy drops 7 defense.
+Round 10: War Hippy Spy takes 13 damage.
+Round 10: boolicious casts WAVE OF SAUCE!
+Round 11: War Hippy Spy takes 11 damage.
+Round 11: War Hippy Spy drops 8 defense.
+Round 11: War Hippy Spy drops 7 attack power.
+Round 11: War Hippy Spy drops 5 defense.
+Round 11: War Hippy Spy takes 13 damage.
+Round 11: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 16 hit points
+After Battle: You gain 16 Mana Points
+You acquire an item: round purple sunglasses
+After Battle: You gain 6 Strengthliness
+After Battle: You gain 24 Wizardliness
+After Battle: You gain 15 Roguishness
+You gain 5 Soulsauce
+
+[2424] Wartime Frat House
+Encounter: All Alone in My White Boy Pain
+You gain 100 Strongness
+
+[2425] Wartime Frat House
+Encounter: Dry Another Day
+You gain 100 Sarcasm
+You gain a Moxie point!
+
+[2426] Wartime Frat House
+Encounter: Dry Another Day
+You gain 100 Chutzpah
+
+[2427] Wartime Frat House
+Encounter: Dreadlocks and Beer Bongs
+You gain 111 Enchantedness
+
+[2428] Wartime Frat House
+Encounter: Dry Another Day
+You gain 100 Chutzpah
+
+[2429] Wartime Frat House
+Encounter: All Alone in My White Boy Pain
+You gain 100 Strengthliness
+
+[2430] Wartime Frat House
+Encounter: War Hippy Spy wearing a fencing mask
+Round 0: boolicious loses initiative!
+Round 1: War Hippy Spy takes 1 damage.
+Round 1: War Hippy Spy takes 1 damage.
+Round 1: You lose 3 hit points
+Round 1: boolicious attacks!
+Round 2: War Hippy Spy takes 5 damage.
+Round 2: War Hippy Spy takes 1 damage.
+Round 2: War Hippy Spy takes 1 damage.
+Round 2: You lose 4 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: War Hippy Spy takes 11 damage.
+Round 3: War Hippy Spy drops 10 defense.
+Round 3: War Hippy Spy takes 1 damage.
+Round 3: War Hippy Spy takes 1 damage.
+Round 3: You lose 1 hit point
+Round 3: boolicious uses the paint bomb!
+Round 4: War Hippy Spy takes 7 damage.
+Round 4: War Hippy Spy takes 7 damage.
+Round 4: War Hippy Spy takes 1 damage.
+Round 4: War Hippy Spy takes 1 damage.
+Round 4: You lose 3 hit points
+Round 4: boolicious uses the grape troll doll!
+Round 5: War Hippy Spy takes 2 damage.
+Round 5: War Hippy Spy takes 2 damage.
+Round 5: War Hippy Spy takes 7 damage.
+Round 5: War Hippy Spy takes 1 damage.
+Round 5: War Hippy Spy takes 1 damage.
+Round 5: You lose 1 hit point
+Round 5: boolicious attacks!
+Round 6: War Hippy Spy takes 6 damage.
+Round 6: War Hippy Spy takes 2 damage.
+Round 6: War Hippy Spy takes 7 damage.
+Round 6: War Hippy Spy takes 1 damage.
+Round 6: War Hippy Spy takes 1 damage.
+Round 6: You lose 4 hit points
+Round 6: boolicious casts WAVE OF SAUCE!
+Round 7: War Hippy Spy takes 22 damage.
+Round 7: War Hippy Spy drops 9 defense.
+Round 7: War Hippy Spy takes 2 damage.
+Round 7: War Hippy Spy takes 7 damage.
+Round 7: War Hippy Spy takes 1 damage.
+Round 7: War Hippy Spy takes 1 damage.
+Round 7: You lose 3 hit points
+Round 7: boolicious casts WAVE OF SAUCE!
+Round 8: War Hippy Spy takes 11 damage.
+Round 8: War Hippy Spy drops 9 defense.
+Round 8: War Hippy Spy takes 2 damage.
+Round 8: War Hippy Spy takes 7 damage.
+Round 8: War Hippy Spy takes 1 damage.
+Round 8: War Hippy Spy takes 1 damage.
+Round 8: You lose 1 hit point
+Round 8: boolicious casts WAVE OF SAUCE!
+Round 9: War Hippy Spy takes 11 damage.
+Round 9: War Hippy Spy drops 8 defense.
+Round 9: War Hippy Spy takes 2 damage.
+Round 9: War Hippy Spy takes 7 damage.
+Round 9: War Hippy Spy takes 1 damage.
+Round 9: War Hippy Spy takes 1 damage.
+Round 9: You lose 1 hit point
+Round 9: boolicious casts WAVE OF SAUCE!
+Round 10: War Hippy Spy takes 11 damage.
+Round 10: War Hippy Spy drops 8 defense.
+Round 10: War Hippy Spy takes 2 damage.
+Round 10: War Hippy Spy takes 7 damage.
+Round 10: War Hippy Spy takes 1 damage.
+Round 10: War Hippy Spy takes 1 damage.
+Round 10: You lose 1 hit point
+Round 10: boolicious casts WAVE OF SAUCE!
+Round 11: War Hippy Spy takes 11 damage.
+Round 11: War Hippy Spy drops 8 defense.
+Round 11: War Hippy Spy takes 2 damage.
+Round 11: War Hippy Spy takes 7 damage.
+Round 11: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 18 hit points
+After Battle: You gain 25 Mana Points
+You acquire an item: round purple sunglasses
+After Battle: You gain 14 Fortitude
+After Battle: You gain 22 Magicalness
+After Battle: You gain 9 Chutzpah
+You gain a Moxie point!
+You gain 7 Soulsauce
+outfit War Hippy Fatigues
+
+[2431] Hippy Camp
+Encounter: Orcish Frat Boy Spy wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: Orcish Frat Boy Spy takes 3 damage.
+Round 1: Orcish Frat Boy Spy takes 4 damage.
+Round 1: You lose 2 hit points
+Round 1: boolicious attacks!
+Round 2: Orcish Frat Boy Spy takes 6 damage.
+Round 2: Orcish Frat Boy Spy takes 2 damage.
+Round 2: Orcish Frat Boy Spy takes 18 damage.
+Round 2: You lose 3 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: Orcish Frat Boy Spy takes 110 damage.
+Round 3: Orcish Frat Boy Spy drops 8 defense.
+Round 3: Orcish Frat Boy Spy takes 3 damage.
+Round 3: Orcish Frat Boy Spy takes 20 damage.
+Round 3: You lose 3 hit points
+Round 3: boolicious uses the gob of wet hair!
+Round 4: Orcish Frat Boy Spy drops 2 attack power.
+Round 4: Orcish Frat Boy Spy drops 2 defense.
+Round 4: boolicious casts WAVE OF SAUCE!
+Round 5: Orcish Frat Boy Spy takes 110 damage.
+Round 5: Orcish Frat Boy Spy drops 9 defense.
+Round 5: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 16 hit points
+After Battle: You gain 22 Mana Points
+You acquire an item: bejeweled pledge pin
+After Battle: You gain 10 Beefiness
+After Battle: You gain 26 Mysteriousness
+After Battle: You gain 9 Sarcasm
+You gain 5 Soulsauce
+
+[2432] Wartime Hippy Camp
+Encounter: Let's Get Physical
+You gain 100 Beefiness
+You gain a Muscle point!
+
+[2433] Wartime Hippy Camp
+Encounter: Screwing for Celibacy
+You gain 110 Mysteriousness
+
+[2434] Wartime Hippy Camp
+Encounter: A Passion for Fashion
+You gain 100 Cheek
+
+[2435] Wartime Hippy Camp
+Encounter: Let's Get Physical
+You gain 100 Fortitude
+
+[2436] Wartime Hippy Camp
+Encounter: A Passion for Fashion
+You gain 100 Roguishness
+
+[2437] Wartime Hippy Camp
+Encounter: Let's Get Physical
+You gain 100 Muscleboundness
+You gain a Muscle point!
+
+[2438] Wartime Hippy Camp
+Encounter: Screwing for Celibacy
+You gain 111 Enchantedness
+You gain a Mysticality point!
+
+[2439] Wartime Hippy Camp
+Encounter: Orcish Frat Boy Spy wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: Orcish Frat Boy Spy takes 3 damage.
+Round 1: Orcish Frat Boy Spy takes 10 damage.
+Round 1: You lose 2 hit points
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: Orcish Frat Boy Spy takes 110 damage.
+Round 2: Orcish Frat Boy Spy drops 10 defense.
+Round 2: Orcish Frat Boy Spy takes 3 damage.
+Round 2: Orcish Frat Boy Spy takes 10 damage.
+Round 2: You lose 2 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: Orcish Frat Boy Spy takes 110 damage.
+Round 3: Orcish Frat Boy Spy drops 8 defense.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 28 hit points
+After Battle: You gain 25 Mana Points
+You acquire an item: beer helmet
+After Battle: You gain 12 Beefiness
+After Battle: You gain 24 Wizardliness
+After Battle: You gain 11 Roguishness
+You gain 7 Soulsauce
+
+[2440] Wartime Hippy Camp
+Encounter: A Passion for Fashion
+You gain 100 Sarcasm
+You gain a Moxie point!
+
+[2441] Wartime Hippy Camp
+Encounter: Let's Get Physical
+You gain 100 Strengthliness
+
+[2442] Wartime Hippy Camp
+Encounter: Orcish Frat Boy Spy wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: Orcish Frat Boy Spy takes 3 damage.
+Round 1: Orcish Frat Boy Spy takes 8 damage.
+Round 1: You lose 2 hit points
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: Orcish Frat Boy Spy takes 110 damage.
+Round 2: Orcish Frat Boy Spy drops 8 defense.
+Round 2: Orcish Frat Boy Spy takes 1 damage.
+Round 2: Orcish Frat Boy Spy takes 20 damage.
+Round 2: You lose 1 hit point
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: Orcish Frat Boy Spy takes 110 damage.
+Round 3: Orcish Frat Boy Spy drops 8 defense.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 20 hit points
+After Battle: You gain 19 Mana Points
+You acquire an item: bejeweled pledge pin
+After Battle: You gain 6 Beefiness
+After Battle: You gain 28 Mysteriousness
+After Battle: You gain 11 Sarcasm
+You gain 7 Soulsauce
+
+[2443] Wartime Hippy Camp
+Encounter: A Passion for Fashion
+You gain 100 Roguishness
+
+[2444] Wartime Hippy Camp
+Encounter: A Passion for Fashion
+You gain 100 Cheek
+You gain a Moxie point!
+
+[2445] Wartime Hippy Camp
+Encounter: Screwing for Celibacy
+You gain 111 Wizardliness
+
+[2446] Wartime Hippy Camp
+Encounter: Screwing for Celibacy
+You gain 110 Enchantedness
+
+[2447] Wartime Hippy Camp
+Encounter: Screwing for Celibacy
+You gain 110 Enchantedness
+You gain a Mysticality point!
+
+[2448] Wartime Hippy Camp
+Encounter: Let's Get Physical
+You gain 100 Strengthliness
+
+[2449] Wartime Hippy Camp
+Encounter: A Passion for Fashion
+You gain 100 Chutzpah
+
+[2450] Wartime Hippy Camp
+Encounter: Orcish Frat Boy Spy wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: Orcish Frat Boy Spy takes 1 damage.
+Round 1: Orcish Frat Boy Spy takes 10 damage.
+Round 1: You lose 1 hit point
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: Orcish Frat Boy Spy takes 110 damage.
+Round 2: Orcish Frat Boy Spy drops 8 defense.
+Round 2: Orcish Frat Boy Spy takes 3 damage.
+Round 2: Orcish Frat Boy Spy takes 10 damage.
+Round 2: You lose 1 hit point
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: Orcish Frat Boy Spy takes 110 damage.
+Round 3: Orcish Frat Boy Spy drops 10 defense.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 24 hit points
+After Battle: You gain 21 Mana Points
+You acquire an item: distressed denim pants
+After Battle: You gain 10 Beefiness
+After Battle: You gain 21 Mysteriousness
+After Battle: You gain 13 Roguishness
+You gain 5 Soulsauce
+outfit Frat Warrior Fatigues
+
+[2451] Hippy Camp
+Encounter: War Hippy (space) cadet wearing a plague doctor mask
+Round 0: boolicious wins initiative!
+You acquire an effect: A Little Bit Poisoned (10)
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: War Hippy (space) cadet takes 110 damage.
+Round 2: War Hippy (space) cadet drops 9 defense.
+Round 2: War Hippy (space) cadet takes 3 damage.
+Round 2: War Hippy (space) cadet takes 4 damage.
+Round 2: You lose 8 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: War Hippy (space) cadet takes 110 damage.
+Round 3: War Hippy (space) cadet drops 10 defense.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 24 hit points
+After Battle: You gain 17 Mana Points
+After Battle: You gain 13 Muscleboundness
+After Battle: You gain 16 Wizardliness
+After Battle: You gain 15 Roguishness
+You gain 7 Soulsauce
+outfit War Hippy Fatigues
+
+use 1 anti-anti-antidote
+
+[2452] Frat House
+Encounter: War Pledge wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: War Pledge takes 110 damage.
+Round 2: War Pledge drops 8 defense.
+Round 2: You lose 34 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: War Pledge takes 110 damage.
+Round 3: War Pledge drops 9 defense.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 16 hit points
+After Battle: You gain 26 Mana Points
+You acquire an item: bejeweled pledge pin
+After Battle: You gain 11 Fortitude
+You gain a Muscle point!
+After Battle: You gain 31 Mysteriousness
+After Battle: You gain 4 Roguishness
+You gain 7 Soulsauce
+
+[2453] Wartime Frat House (Hippy Disguise)
+Encounter: War Pledge wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: War Pledge takes 110 damage.
+Round 2: War Pledge drops 8 defense.
+Round 2: You lose 33 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: War Pledge takes 110 damage.
+Round 3: War Pledge drops 9 defense.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 28 hit points
+After Battle: You gain 26 Mana Points
+After Battle: You gain 15 Strengthliness
+After Battle: You gain 24 Mysteriousness
+After Battle: You gain 7 Chutzpah
+You gain 6 Soulsauce
+
+[2454] Wartime Frat House (Hippy Disguise)
+Encounter: One Less Room Than In That Movie
+Took choice 144/1: moxie substats
+choice.php?pwd&whichchoice=144&option=1
+You gain 50 Sarcasm
+
+[2455] Wartime Frat House (Hippy Disguise)
+Encounter: War Pledge wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: War Pledge takes 110 damage.
+Round 2: War Pledge drops 9 defense.
+Round 2: You lose 30 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: War Pledge takes 110 damage.
+Round 3: War Pledge drops 10 defense.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 19 hit points
+After Battle: You gain 26 Mana Points
+After Battle: You gain 11 Strengthliness
+After Battle: You gain 21 Wizardliness
+After Battle: You gain 12 Chutzpah
+You gain 6 Soulsauce
+
+equip weapon miniature deck cannon
+
+[2456] Wartime Frat House (Hippy Disguise)
+Encounter: Catching Some Zetas
+Took choice 143/1: muscle substats
+choice.php?pwd&whichchoice=143&option=1
+You gain 50 Muscleboundness
+
+[2457] Wartime Frat House (Hippy Disguise)
+Encounter: Frat Warrior drill sergeant wearing a devil mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: Frat Warrior drill sergeant takes 19 damage.
+Round 2: You lose 26 hit points
+Round 2: Frat Warrior drill sergeant takes 2 damage.
+Round 2: Frat Warrior drill sergeant takes 12 damage.
+Round 2: You lose 1 hit point
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: Frat Warrior drill sergeant takes 110 damage.
+Round 3: Frat Warrior drill sergeant drops 8 defense.
+Round 3: You lose 26 hit points
+Round 3: Frat Warrior drill sergeant takes 2 damage.
+Round 3: Frat Warrior drill sergeant takes 18 damage.
+Round 3: You lose 3 hit points
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: Frat Warrior drill sergeant takes 110 damage.
+Round 4: Frat Warrior drill sergeant drops 8 defense.
+Round 4: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 26 hit points
+After Battle: You gain 23 Mana Points
+After Battle: You gain 6 Fortitude
+After Battle: You gain 31 Wizardliness
+After Battle: You gain 10 Chutzpah
+You gain 5 Soulsauce
+
+equip weapon octopus's spade
+
+[2458] Wartime Frat House (Hippy Disguise)
+Encounter: War Pledge wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: War Pledge takes 69 damage.
+Round 2: You lose 32 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: War Pledge takes 110 damage.
+Round 3: War Pledge drops 10 defense.
+Round 3: You lose 30 hit points
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: War Pledge takes 110 damage.
+Round 4: War Pledge drops 8 defense.
+Round 4: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 21 hit points
+After Battle: You gain 20 Mana Points
+After Battle: You gain 10 Beefiness
+After Battle: You gain 21 Mysteriousness
+After Battle: You gain 13 Chutzpah
+You gain a Moxie point!
+You gain 6 Soulsauce
+
+[2459] Wartime Frat House (Hippy Disguise)
+Encounter: Fratacombs
+Took choice 146/3: start the war
+choice.php?pwd&whichchoice=146&option=3
+
+Visiting Our Lady of Perpetual Indecision 
+
+Visiting Farmer McMillicancuddy
+
+[2460] McMillicancuddy's Barn
+Encounter: generic duck wearing a welding mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: generic duck takes 15 damage.
+Round 2: generic duck takes 1 damage.
+Round 2: generic duck takes 4 damage.
+Round 2: You lose 2 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: You lose 61 hit points
+Round 3: generic duck takes 2 damage.
+Round 3: generic duck takes 10 damage.
+Round 3: You lose 2 hit points
+Round 3: boolicious attacks!
+Round 4: generic duck takes 67 damage.
+Round 4: generic duck takes 2 damage.
+Round 4: generic duck takes 4 damage.
+Round 4: You lose 1 hit point
+Round 4: boolicious uses the gob of wet hair!
+Round 5: generic duck drops 2 attack power.
+Round 5: generic duck drops 3 defense.
+Round 5: boolicious casts CLEESH!
+Round 6: your opponent becomes a salamander!
+Round 6: boolicious attacks!
+Round 7: salamander takes 206 damage.
+Round 7: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 18 hit points
+After Battle: You gain 27 Mana Points
+You gain 12 Meat
+You acquire an item: salamander spleen
+After Battle: You gain 3 Wizardliness
+You gain 3 Soulsauce
+
+[2461] McMillicancuddy's Barn
+Encounter: generic duck wearing a welding mask
+Round 0: boolicious loses initiative!
+Round 1: generic duck takes 1 damage.
+Round 1: generic duck takes 6 damage.
+Round 1: You lose 1 hit point
+Round 1: boolicious casts CLEESH!
+Round 2: your opponent becomes a newt!
+Round 2: boolicious attacks!
+Round 3: newt takes 221 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 23 hit points
+After Battle: You gain 18 Mana Points
+You gain 10 Meat
+You acquire an item: eye of newt
+After Battle: You gain 3 Wizardliness
+You gain 2 Soulsauce
+
+[2462] McMillicancuddy's Barn
+Encounter: generic duck wearing a welding mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SWAP MASK!
+You swap your fencing mask for the monster's welding mask
+Round 2: boolicious attacks!
+Round 3: generic duck takes 15 damage.
+Round 3: generic duck takes 1 damage.
+Round 3: generic duck takes 4 damage.
+Round 3: You lose 16 hit points
+Round 3: boolicious casts SWAP MASK!
+Round 4: generic duck takes 2 damage.
+Round 4: generic duck takes 7 damage.
+Round 4: You lose 18 hit points
+You swap your welding mask for the monster's fencing mask
+Round 4: boolicious casts SWAP MASK!
+Round 5: generic duck takes 1 damage.
+Round 5: generic duck takes 7 damage.
+Round 5: You lose 2 hit points
+You swap your fencing mask for the monster's welding mask
+Round 5: boolicious casts SOUL FINGER!
+Round 6: generic duck drops 51 attack power.
+Round 6: generic duck drops 48 defense.
+Round 6: boolicious casts SAUCECICLE!
+Round 7: You lose 50 hit points
+Round 7: boolicious attacks!
+Round 8: generic duck takes 96 damage.
+Round 8: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 22 hit points
+After Battle: You gain 30 Mana Points
+You gain 100 Meat
+After Battle: You gain 19 Muscleboundness
+After Battle: You gain 24 Mysteriousness
+After Battle: You gain 9 Cheek
+You gain 5 Soulsauce
+
+[2463] McMillicancuddy's Barn
+Encounter: Cornered!
+Took choice 147/3: Open The Pond (cold)
+choice.php?pwd&whichchoice=147&option=3
+
+[2464] McMillicancuddy's Barn
+Encounter: generic duck wearing a welding mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCECICLE!
+Round 2: You lose 51 hit points
+Round 2: generic duck takes 1 damage.
+Round 2: generic duck takes 4 damage.
+Round 2: You lose 15 hit points
+Round 2: boolicious attacks!
+Round 3: generic duck takes 13 damage.
+Round 3: generic duck takes 1 damage.
+Round 3: generic duck takes 2 damage.
+Round 3: You lose 16 hit points
+
+cast 1 Tongue of the Walrus
+You gain 35 hit points
+You lose an effect: Beaten Up (0)
+
+cast 3 Tongue of the Walrus
+You gain 114 hit points
+
+cast 1 Tongue of the Walrus
+You gain 34 hit points
+
+Visiting Our Lady of Perpetual Indecision 
+
+[2465] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 2 damage.
+Round 1: dirty thieving brigand takes 5 damage.
+Round 1: You lose 18 hit points
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 15 damage.
+Round 2: dirty thieving brigand takes 3 damage.
+Round 2: dirty thieving brigand takes 3 damage.
+Round 2: You lose 18 hit points
+Round 2: boolicious casts SAUCECICLE!
+Round 3: dirty thieving brigand takes 132 damage.
+Round 3: dirty thieving brigand takes 2 damage.
+Round 3: dirty thieving brigand takes 9 damage.
+Round 3: You lose 18 hit points
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: dirty thieving brigand takes 110 damage.
+Round 4: dirty thieving brigand drops 10 defense.
+Round 4: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 16 hit points
+After Battle: You gain 23 Mana Points
+The nuns take 1,087 Meat; 1,087 recovered, 98,913 left to recover.
+After Battle: You gain 17 Fortitude
+After Battle: You gain 24 Mysteriousness
+After Battle: You gain 10 Cheek
+You gain 6 Soulsauce
+
+equip weapon ram-battering staff
+
+[2466] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 1 damage.
+Round 1: dirty thieving brigand takes 5 damage.
+Round 1: You lose 17 hit points
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: dirty thieving brigand takes 110 damage.
+Round 2: dirty thieving brigand drops 10 defense.
+Round 2: dirty thieving brigand takes 1 damage.
+Round 2: dirty thieving brigand takes 4 damage.
+Round 2: You lose 18 hit points
+Round 2: boolicious attacks!
+Round 3: dirty thieving brigand takes 63 damage.
+Round 3: dirty thieving brigand takes 2 damage.
+Round 3: dirty thieving brigand takes 7 damage.
+Round 3: You lose 16 hit points
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 23 hit points
+After Battle: You gain 23 Mana Points
+The nuns take 1,106 Meat; 2,193 recovered, 97,807 left to recover.
+After Battle: You gain 21 Strengthliness
+After Battle: You gain 19 Magicalness
+After Battle: You gain 11 Roguishness
+You gain 6 Soulsauce
+
+[2467] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 1 damage.
+Round 1: dirty thieving brigand takes 4 damage.
+Round 1: You lose 16 hit points
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 13 damage.
+Round 2: dirty thieving brigand takes 3 damage.
+Round 2: dirty thieving brigand takes 4 damage.
+Round 2: You lose 16 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: dirty thieving brigand takes 110 damage.
+Round 3: dirty thieving brigand drops 10 defense.
+Round 3: dirty thieving brigand takes 2 damage.
+Round 3: dirty thieving brigand takes 4 damage.
+Round 3: You lose 16 hit points
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: dirty thieving brigand takes 110 damage.
+Round 4: dirty thieving brigand drops 8 defense.
+Round 4: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 29 hit points
+After Battle: You gain 25 Mana Points
+The nuns take 1,048 Meat; 3,241 recovered, 96,759 left to recover.
+After Battle: You gain 20 Muscleboundness
+After Battle: You gain 21 Wizardliness
+After Battle: You gain 8 Smarm
+You gain 5 Soulsauce
+
+[2468] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 1 damage.
+Round 1: dirty thieving brigand takes 9 damage.
+Round 1: You lose 16 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 8 damage.
+Round 2: dirty thieving brigand takes 3 damage.
+Round 2: dirty thieving brigand takes 10 damage.
+Round 2: You lose 15 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 110 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 18 hit points
+After Battle: You gain 27 Mana Points
+The nuns take 1,304 Meat; 4,545 recovered, 95,455 left to recover.
+You acquire an item: brigand brittle
+After Battle: You gain 13 Muscleboundness
+After Battle: You gain 29 Wizardliness
+After Battle: You gain 9 Smarm
+You gain 5 Soulsauce
+
+[2469] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 3 damage.
+Round 1: dirty thieving brigand takes 5 damage.
+Round 1: You lose 15 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 9 damage.
+Round 2: dirty thieving brigand takes 3 damage.
+Round 2: dirty thieving brigand takes 7 damage.
+Round 2: You lose 17 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 110 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 27 hit points
+After Battle: You gain 20 Mana Points
+The nuns take 1,143 Meat; 5,688 recovered, 94,312 left to recover.
+After Battle: You gain 20 Strengthliness
+After Battle: You gain 21 Enchantedness
+After Battle: You gain 10 Smarm
+You gain 7 Soulsauce
+
+[2470] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 3 damage.
+Round 1: dirty thieving brigand takes 2 damage.
+Round 1: You lose 16 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 12 damage.
+Round 2: dirty thieving brigand takes 2 damage.
+Round 2: dirty thieving brigand takes 7 damage.
+Round 2: You lose 17 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: dirty thieving brigand takes 110 damage.
+Round 4: dirty thieving brigand drops 8 defense.
+Round 4: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 17 hit points
+After Battle: You gain 16 Mana Points
+The nuns take 1,058 Meat; 6,746 recovered, 93,254 left to recover.
+You acquire an item: brigand brittle
+After Battle: You gain 19 Beefiness
+After Battle: You gain 24 Enchantedness
+You gain a Mysticality point!
+After Battle: You gain 8 Cheek
+You gain 5 Soulsauce
+
+[2471] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 3 damage.
+Round 1: dirty thieving brigand takes 6 damage.
+Round 1: You lose 16 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 12 damage.
+Round 2: dirty thieving brigand takes 2 damage.
+Round 2: dirty thieving brigand takes 8 damage.
+Round 2: You lose 15 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 3 damage.
+Round 3: dirty thieving brigand takes 10 damage.
+Round 3: You lose 16 hit points
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: dirty thieving brigand takes 110 damage.
+Round 4: dirty thieving brigand drops 9 defense.
+Round 4: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 17 hit points
+After Battle: You gain 22 Mana Points
+The nuns take 1,252 Meat; 7,998 recovered, 92,002 left to recover.
+You acquire an item: brigand brittle
+After Battle: You gain 19 Beefiness
+After Battle: You gain 20 Mysteriousness
+After Battle: You gain 11 Cheek
+You gain 7 Soulsauce
+
+[2472] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 3 damage.
+Round 1: dirty thieving brigand takes 6 damage.
+Round 1: You lose 15 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 11 damage.
+Round 2: dirty thieving brigand takes 2 damage.
+Round 2: dirty thieving brigand takes 4 damage.
+Round 2: You lose 15 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 3 damage.
+Round 3: dirty thieving brigand takes 2 damage.
+Round 3: You lose 16 hit points
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: dirty thieving brigand takes 110 damage.
+Round 4: dirty thieving brigand drops 10 defense.
+Round 4: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 25 hit points
+After Battle: You gain 19 Mana Points
+The nuns take 1,086 Meat; 9,084 recovered, 90,916 left to recover.
+After Battle: You gain 15 Strongness
+After Battle: You gain 29 Magicalness
+After Battle: You gain 7 Sarcasm
+You gain 5 Soulsauce
+
+[2473] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 3 damage.
+Round 1: dirty thieving brigand takes 7 damage.
+Round 1: You lose 14 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 8 damage.
+Round 2: dirty thieving brigand takes 1 damage.
+Round 2: dirty thieving brigand takes 6 damage.
+Round 2: You lose 15 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 1 damage.
+Round 3: dirty thieving brigand takes 10 damage.
+Round 3: You lose 14 hit points
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: dirty thieving brigand takes 110 damage.
+Round 4: dirty thieving brigand drops 10 defense.
+Round 4: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 25 hit points
+After Battle: You gain 29 Mana Points
+The nuns take 1,086 Meat; 10,170 recovered, 89,830 left to recover.
+After Battle: You gain 16 Beefiness
+You gain a Muscle point!
+After Battle: You gain 22 Mysteriousness
+After Battle: You gain 11 Chutzpah
+You gain 6 Soulsauce
+
+[2474] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 2 damage.
+Round 1: dirty thieving brigand takes 5 damage.
+Round 1: You lose 16 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 13 damage.
+Round 2: dirty thieving brigand takes 2 damage.
+Round 2: dirty thieving brigand takes 8 damage.
+Round 2: You lose 16 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 110 damage.
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 30 hit points
+After Battle: You gain 27 Mana Points
+The nuns take 1,230 Meat; 11,400 recovered, 88,600 left to recover.
+After Battle: You gain 15 Beefiness
+After Battle: You gain 29 Mysteriousness
+After Battle: You gain 8 Sarcasm
+You gain 5 Soulsauce
+
+[2475] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 1 damage.
+Round 1: dirty thieving brigand takes 9 damage.
+Round 1: You lose 16 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 13 damage.
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 3 damage.
+Round 3: dirty thieving brigand takes 6 damage.
+Round 3: You lose 16 hit points
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: dirty thieving brigand takes 110 damage.
+Round 4: dirty thieving brigand drops 10 defense.
+Round 4: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 22 hit points
+After Battle: You gain 29 Mana Points
+The nuns take 1,143 Meat; 12,543 recovered, 87,457 left to recover.
+After Battle: You gain 13 Muscleboundness
+After Battle: You gain 29 Magicalness
+After Battle: You gain 10 Cheek
+
+[2476] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 3 damage.
+Round 1: dirty thieving brigand takes 4 damage.
+Round 1: You lose 14 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 13 damage.
+Round 2: dirty thieving brigand takes 3 damage.
+Round 2: dirty thieving brigand takes 4 damage.
+Round 2: You lose 13 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 2 damage.
+Round 3: dirty thieving brigand takes 9 damage.
+Round 3: You lose 13 hit points
+
+cast 1 Tongue of the Walrus
+You gain 32 hit points
+You lose an effect: Beaten Up (0)
+
+[2477] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 3 damage.
+Round 1: dirty thieving brigand takes 10 damage.
+Round 1: You lose 16 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 13 damage.
+Round 2: dirty thieving brigand takes 2 damage.
+Round 2: dirty thieving brigand takes 9 damage.
+Round 2: You lose 16 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 2 damage.
+Round 3: dirty thieving brigand takes 7 damage.
+Round 3: You lose 15 hit points
+
+cast 1 Tongue of the Walrus
+You gain 35 hit points
+You lose an effect: Beaten Up (0)
+
+[2478] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 2 damage.
+Round 1: dirty thieving brigand takes 4 damage.
+Round 1: You lose 17 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 11 damage.
+Round 2: dirty thieving brigand takes 2 damage.
+Round 2: dirty thieving brigand takes 9 damage.
+Round 2: You lose 17 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 110 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 22 hit points
+After Battle: You gain 21 Mana Points
+The nuns take 1,159 Meat; 13,702 recovered, 86,298 left to recover.
+You acquire an item: brigand brittle
+After Battle: You gain 17 Fortitude
+After Battle: You gain 28 Magicalness
+After Battle: You gain 7 Cheek
+
+[2479] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 2 damage.
+Round 1: dirty thieving brigand takes 10 damage.
+Round 1: You lose 15 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 9 damage.
+Round 2: dirty thieving brigand takes 2 damage.
+Round 2: dirty thieving brigand takes 3 damage.
+Round 2: You lose 15 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 2 damage.
+Round 3: dirty thieving brigand takes 2 damage.
+Round 3: You lose 15 hit points
+
+cast 1 Tongue of the Walrus
+You gain 39 hit points
+You lose an effect: Beaten Up (0)
+
+[2480] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 3 damage.
+Round 1: dirty thieving brigand takes 3 damage.
+Round 1: You lose 14 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 11 damage.
+Round 2: dirty thieving brigand takes 1 damage.
+Round 2: dirty thieving brigand takes 4 damage.
+Round 2: You lose 15 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 2 damage.
+Round 3: dirty thieving brigand takes 6 damage.
+Round 3: You lose 16 hit points
+
+cast 1 Tongue of the Walrus
+You gain 38 hit points
+You lose an effect: Beaten Up (0)
+
+[2481] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 1 damage.
+Round 1: dirty thieving brigand takes 8 damage.
+Round 1: You lose 16 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 8 damage.
+Round 2: dirty thieving brigand takes 3 damage.
+Round 2: dirty thieving brigand takes 4 damage.
+Round 2: You lose 15 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 1 damage.
+Round 3: dirty thieving brigand takes 8 damage.
+Round 3: You lose 16 hit points
+
+cast 1 Tongue of the Walrus
+You gain 35 hit points
+You lose an effect: Beaten Up (0)
+
+[2482] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 1 damage.
+Round 1: dirty thieving brigand takes 10 damage.
+Round 1: You lose 16 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 13 damage.
+Round 2: dirty thieving brigand takes 1 damage.
+Round 2: dirty thieving brigand takes 10 damage.
+Round 2: You lose 17 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 2 damage.
+Round 3: dirty thieving brigand takes 3 damage.
+Round 3: You lose 15 hit points
+
+cast 1 Tongue of the Walrus
+You gain 31 hit points
+You lose an effect: Beaten Up (0)
+
+[2483] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 1 damage.
+Round 1: dirty thieving brigand takes 7 damage.
+Round 1: You lose 14 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 42 damage.
+Round 2: dirty thieving brigand takes 3 damage.
+Round 2: dirty thieving brigand takes 10 damage.
+Round 2: You lose 16 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 3 damage.
+Round 3: dirty thieving brigand takes 5 damage.
+Round 3: You lose 15 hit points
+
+cast 1 Tongue of the Walrus
+You gain 37 hit points
+You lose an effect: Beaten Up (0)
+
+[2484] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 2 damage.
+Round 1: dirty thieving brigand takes 3 damage.
+Round 1: You lose 15 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 13 damage.
+Round 2: dirty thieving brigand takes 3 damage.
+Round 2: dirty thieving brigand takes 4 damage.
+Round 2: You lose 14 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 3 damage.
+Round 3: dirty thieving brigand takes 4 damage.
+Round 3: You lose 14 hit points
+
+cast 1 Tongue of the Walrus
+You gain 35 hit points
+You lose an effect: Beaten Up (0)
+
+[2485] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 9 damage.
+Round 2: dirty thieving brigand takes 3 damage.
+Round 2: dirty thieving brigand takes 7 damage.
+Round 2: You lose 16 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 3 damage.
+Round 3: dirty thieving brigand takes 7 damage.
+Round 3: You lose 14 hit points
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: dirty thieving brigand takes 110 damage.
+Round 4: dirty thieving brigand drops 10 defense.
+Round 4: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 20 hit points
+After Battle: You gain 22 Mana Points
+The nuns take 1,068 Meat; 14,770 recovered, 85,230 left to recover.
+After Battle: You gain 13 Fortitude
+After Battle: You gain 29 Mysteriousness
+After Battle: You gain 9 Sarcasm
+
+[2486] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 2 damage.
+Round 1: dirty thieving brigand takes 10 damage.
+Round 1: You lose 15 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 8 damage.
+Round 2: dirty thieving brigand takes 1 damage.
+Round 2: dirty thieving brigand takes 6 damage.
+Round 2: You lose 15 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 1 damage.
+Round 3: dirty thieving brigand takes 6 damage.
+Round 3: You lose 14 hit points
+
+cast 1 Tongue of the Walrus
+You gain 40 hit points
+You lose an effect: Beaten Up (0)
+
+[2487] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 3 damage.
+Round 1: dirty thieving brigand takes 10 damage.
+Round 1: You lose 14 hit points
+Round 1: boolicious executes a macro!
+Round 1: boolicious attacks!
+Round 2: dirty thieving brigand takes 13 damage.
+Round 2: dirty thieving brigand takes 3 damage.
+Round 2: dirty thieving brigand takes 8 damage.
+Round 2: You lose 15 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 55 damage.
+Round 3: dirty thieving brigand takes 2 damage.
+Round 3: dirty thieving brigand takes 10 damage.
+Round 3: You lose 13 hit points
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: dirty thieving brigand takes 110 damage.
+Round 4: dirty thieving brigand drops 10 defense.
+Round 4: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 30 hit points
+After Battle: You gain 30 Mana Points
+The nuns take 1,185 Meat; 15,955 recovered, 84,045 left to recover.
+After Battle: You gain 17 Strengthliness
+After Battle: You gain 20 Magicalness
+After Battle: You gain 12 Cheek
+
+Visiting Crimbo Tree in clan VIP lounge
+
+Visiting Hot Dog Stand in clan VIP lounge
+
+Visiting Speakeasy in clan VIP lounge
+
+Visiting Floundry in clan VIP lounge
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 9, 2019 - Petember 6
+
+Ronald: waning gibbous
+Grimace: third quarter
+Mini-moon: front center
+
+Lab&oacute;r Day: 8 days
+Halloween: 18 days
+Feast of Boris: 25 days
+Yuletide: 30 days
+Festival of Jarlsberg: 35 days
+Valentine's Day: 36 days
+St. Sneaky Pete's Day: 53 days
+Oyster Egg Day: 60 days
+El Dia De Los Muertos Borrachos: 68 days
+Generic Summer Holiday: 77 days
+Dependence Day: 86 days
+Arrrbor Day: 94 days
+
+
+2 days until Moxie.
+
+
+ > status
+
+Name: boolicious
+Class: Sauceror
+
+Lv: 14
+HP: 37 / 233
+MP: 228 / 411
+
+Mus: 149 (134), tnp = 190
+Mys: 239 (189), tnp = 170
+Mox: 147 (127), tnp = 107
+
+Advs: 31
+Meat: 583,038
+
+Full: 0 / 15
+Drunk: 0 / 19
+Spleen: 2 / 15
+
+
+ > equipment
+
+Hat: reinforced beaded headband
+Weapon: ram-battering staff
+Off-hand: (none)
+Shirt: bat-ass leather jacket
+Pants: bullet-proof corduroys
+Back: Misty Robe
+
+Acc. 1: Pok&euml;mann figurine: Shoggoth
+Acc. 2: Mr. Accessory
+Acc. 3: round purple sunglasses
+
+Pet: Yule Hound (25 lbs)
+Item: Li'l Businessman Kit
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Dog Tired
+ - Liver of Steel
+ - Really Expensive Jewelrycrafting
+ - Transcendent Olfaction
+
+Seal Clubber
+ - Rage of the Reindeer
+ - Tongue of the Walrus
+
+Sauceror
+ - Advanced Saucecrafting
+ - Antibiotic Saucesphere
+ - Curse of Marinara
+ - Curse of Vichyssoise
+ - Curse of Weaksauce
+ - Curse of the Thousand Islands
+ - Diminished Gag Reflex
+ - Elemental Saucesphere
+ - Expert Panhandling
+ - Icy Glare
+ - Impetuous Sauciness
+ - Inner Sauce
+ - Intrinsic Spiciness
+ - Irrepressible Spunk
+ - Itchy Curse Finger
+ - Jalapeño Saucesphere
+ - Master Saucier
+ - Salsaball
+ - Sauce Contemplation
+ - Sauce Monocle
+ - Saucecicle
+ - Saucegeyser
+ - Saucemaven
+ - Saucestorm
+ - Saucy Salve
+ - Simmer
+ - Soul Saucery
+ - Stream of Sauce
+ - Wave of Sauce
+ - Wry Smile
+
+Accordion Thief
+ - Brawnee's Anthem of Absorption
+ - Cone of Zydeco
+ - Mariachi Memory
+ - The Magical Mojomuscular Melody
+
+Conditional
+ - Soul Blaze
+ - Soul Bubble
+ - Soul Finger
+ - Soul Food
+ - Soul Funk
+ - Soul Rotation
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Geeky Gifts
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 4 AT buffs active.
+Jalape&ntilde;o Saucesphere (24)
+Antibiotic Saucesphere (79)
+Elemental Saucesphere (108)
+Saucemastery (379)
+Empathy (808)
+Tenacity of the Snapper (808)
+Jingle Jangle Jingle (809)
+Astral Shell (3,206)
+Ghostly Shell (3,206)
+Reptilian Fortitude (3,206)
+Scarysauce (5,532)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +15.00%
+Item: +5.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Soda Machine in clan rumpus room
+You acquire an item: Marquis de Poivre soda
+Visiting Potted Meat Tree in clan rumpus room
+You gain 1,047 Meat
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+You acquire an item: stuffed treasure chest
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+You acquire an item: garish pinky ring
+
+Visiting Looking Glass in clan VIP lounge
+You acquire an item: &quot;DRINK ME&quot; potion
+
+swimming pool screwaround
+
+Doing handstand in clan VIP swimming pool
+
+Diving for treasure in clan VIP swimming pool
+
+Getting out of clan VIP swimming pool
+
+add to closet: 1 worthless gewgaw
+
+add to closet: 1 worthless knick-knack
+
+Use 2 chewing gums on strings to retrieve items from the sewer.
+You acquire an item: worthless gewgaw
+You acquire an item: worthless trinket
+
+take from closet: 1 worthless gewgaw
+You acquire an item: worthless gewgaw
+
+take from closet: 1 worthless knick-knack
+You acquire an item: worthless knick-knack
+
+trading 4 worthless items for 4 ten-leaf clovers
+You acquire ten-leaf clover (4)
+
+Use 4 ten-leaf clover
+You acquire disassembled clover (4)
+
+use 1 Chester's bag of candy
+
+use 1 Trivial Avocations board game
+
+use 1 creepy voodoo doll
+
+use 1 Taco Dan's Taco Stand Flier
+
+use 1 festive warbear bank
+
+use 1 cheap toaster
+
+cast 1 Advanced Saucecrafting
+
+mallsell: 22 watered-down Red Minotaur
+
+backoffice.php?which=3
+backoffice.php?action=updateinv&ajax=1&price[5675]=100
+
+mallsell: 900 toast
+
+mallsell: 200 Tasty Fun Good rice candy, 200 Yummy Tummy bean, 200 Angry Farmer candy, 150 resolution: be stronger, 100 Pok&euml;mann band-aid, 100 resolution: be happier, 100 good brain, 100 marzipan skull, 100 dark potion of teleportitis, 100 Crimbo fudge, 100 Uncle Greenspan's Bathroom Finance Guide
+
+mallsell: 100 peppermint sprout
+
+backoffice.php?action=updateinv&ajax=1&price[5395]=2200&limit[5395]=5&price[4394]=751&price[617]=275&price[5078]=204&price[826]=120&price[1163]=100
+backoffice.php?action=updateinv&ajax=1&price[5508]=20000&limit[5508]=2&price[905]=100
+backoffice.php?action=updateinv&ajax=1&price[540]=108&price[5465]=101&price[5466]=101&price[641]=100
+backoffice.php?action=updateinv&ajax=1
+backoffice.php?which=3
+
+[2488] The Themthar Hills
+Encounter: dirty thieving brigand wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: dirty thieving brigand takes 1 damage.
+Round 1: dirty thieving brigand takes 7 damage.
+Round 1: You lose 15 hit points
+Round 1: boolicious casts SAUCECICLE!
+Round 2: dirty thieving brigand takes 128 damage.
+Round 2: dirty thieving brigand takes 1 damage.
+Round 2: dirty thieving brigand takes 5 damage.
+Round 2: You lose 15 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: dirty thieving brigand takes 110 damage.
+Round 3: dirty thieving brigand drops 8 defense.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 22 hit points
+After Battle: You gain 26 Mana Points
+The nuns take 1,270 Meat; 17,225 recovered, 82,775 left to recover.
+You acquire an item: brigand brittle
+After Battle: You gain 18 Strongness
+After Battle: You gain 21 Magicalness
+After Battle: You gain 11 Cheek
+
+[2489] The Battlefield (Hippy Uniform)
+Encounter: War, Man.  Like, Wow.
+You acquire an item: oversized pipe
+You acquire water pipe bomb (3)
+You acquire an item: communications windchimes
+
+[2490] The Battlefield (Hippy Uniform)
+Encounter: War Frat 110th Infantryman wearing a skull mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: War Frat 110th Infantryman takes 9 damage.
+Round 2: You lose 25 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: War Frat 110th Infantryman takes 110 damage.
+Round 3: War Frat 110th Infantryman drops 10 defense.
+Round 3: You lose 25 hit points
+
+cast 1 Tongue of the Walrus
+You gain 39 hit points
+You lose an effect: Beaten Up (0)
+
+cast 3 Tongue of the Walrus
+You gain 105 hit points
+
+cast 1 Tongue of the Walrus
+You gain 33 hit points
+
+[2491] The Battlefield (Hippy Uniform)
+Encounter: Sorority Operator wearing a bandit mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: Sorority Operator takes 110 damage.
+Round 2: Sorority Operator drops 9 defense.
+Round 2: Sorority Operator takes 1 damage.
+Round 2: Sorority Operator takes 10 damage.
+Round 2: You lose 8 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: Sorority Operator takes 110 damage.
+Round 3: Sorority Operator drops 8 defense.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 30 hit points
+After Battle: You gain 17 Mana Points
+After Battle: You gain 19 Strongness
+After Battle: You gain 27 Wizardliness
+After Battle: You gain 9 Chutzpah
+1 frat boy defeated; 1 down, 999 left.
+
+[2492] The Battlefield (Hippy Uniform)
+Encounter: War Frat 500th Infantrygentleman wearing a rabbit mask
+Round 0: boolicious loses initiative!
+Round 1: War Frat 500th Infantrygentleman takes 3 damage.
+Round 1: War Frat 500th Infantrygentleman takes 20 damage.
+Round 1: You lose 17 hit points
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: War Frat 500th Infantrygentleman takes 110 damage.
+Round 2: War Frat 500th Infantrygentleman drops 8 defense.
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: War Frat 500th Infantrygentleman takes 110 damage.
+Round 3: War Frat 500th Infantrygentleman drops 10 defense.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 21 hit points
+After Battle: You gain 30 Mana Points
+You gain 113 Meat
+You acquire an item: beer helmet
+You acquire an item: bejeweled pledge pin
+After Battle: You gain 21 Fortitude
+After Battle: You gain 24 Wizardliness
+After Battle: You gain 7 Chutzpah
+1 frat boy defeated; 2 down, 998 left.
+
+Visiting The Organic Produce Stand
+
+[2493] The Hatching Chamber
+Encounter: larval filthworm wearing a welding mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: larval filthworm takes 37 damage.
+Round 2: larval filthworm takes 1 damage.
+Round 2: larval filthworm takes 4 damage.
+Round 2: You lose 6 hit points
+Round 2: boolicious attacks!
+Round 3: larval filthworm takes 34 damage.
+Round 3: larval filthworm takes 1 damage.
+Round 3: larval filthworm takes 8 damage.
+Round 3: You lose 5 hit points
+Round 3: boolicious casts SOUL FINGER!
+Round 4: larval filthworm drops 49 attack power.
+Round 4: larval filthworm drops 45 defense.
+Round 4: boolicious attacks!
+Round 5: larval filthworm takes 70 damage.
+Round 5: boolicious attacks!
+Round 6: larval filthworm takes 76 damage.
+Round 6: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 18 hit points
+After Battle: You gain 23 Mana Points
+You gain 54 Meat
+You acquire an item: filthworm hatchling scent gland
+After Battle: You gain 12 Strengthliness
+After Battle: You gain 26 Wizardliness
+After Battle: You gain 12 Cheek
+You gain 6 Soulsauce
+
+use 1 filthworm hatchling scent gland
+You acquire an effect: Filthworm Larva Stench (10)
+
+[2494] The Feeding Chamber
+Encounter: filthworm drone wearing a skull mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: filthworm drone takes 36 damage.
+Round 2: You lose 26 hit points
+Round 2: boolicious casts SOUL FINGER!
+Round 3: filthworm drone drops 49 attack power.
+Round 3: filthworm drone drops 45 defense.
+Round 3: You lose 25 hit points
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: filthworm drone takes 110 damage.
+Round 4: filthworm drone drops 10 defense.
+Round 4: You lose 25 hit points
+Round 4: boolicious casts WAVE OF SAUCE!
+Round 5: filthworm drone takes 110 damage.
+Round 5: filthworm drone drops 8 defense.
+Round 5: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 16 hit points
+After Battle: You gain 20 Mana Points
+You gain 74 Meat
+You acquire an item: filthworm drone scent gland
+After Battle: You gain 18 Strengthliness
+After Battle: You gain 29 Enchantedness
+After Battle: You gain 3 Cheek
+You gain 7 Soulsauce
+
+use 1 filthworm drone scent gland
+You acquire an effect: Filthworm Drone Stench (10)
+
+[2495] The Royal Guard Chamber
+Encounter: filthworm royal guard wearing a protest mask
+Round 0: boolicious loses initiative!
+Round 1: filthworm royal guard takes 3 damage.
+Round 1: filthworm royal guard takes 6 damage.
+Round 1: You lose 6 hit points
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: filthworm royal guard takes 3 damage.
+Round 2: filthworm royal guard takes 2 damage.
+Round 2: You lose 16 hit points
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: filthworm royal guard takes 1 damage.
+Round 3: filthworm royal guard takes 5 damage.
+Round 3: You lose 14 hit points
+Round 3: boolicious attacks!
+Round 4: filthworm royal guard takes 11 damage.
+Round 4: filthworm royal guard takes 3 damage.
+Round 4: filthworm royal guard takes 10 damage.
+Round 4: You lose 15 hit points
+Round 4: boolicious attacks!
+Round 5: filthworm royal guard takes 34 damage.
+Round 5: filthworm royal guard takes 2 damage.
+Round 5: filthworm royal guard takes 8 damage.
+Round 5: You lose 14 hit points
+Round 5: boolicious casts CLEESH!
+Round 6: filthworm royal guard takes 2 damage.
+Round 6: filthworm royal guard takes 3 damage.
+Round 6: You lose 16 hit points
+Round 6: boolicious uses the 8-ball!
+Round 7: filthworm royal guard takes 3 damage.
+Round 7: filthworm royal guard takes 6 damage.
+Round 7: You lose 6 hit points
+Adjusted combat item count: 8-ball
+Round 7: boolicious uses the bobcat grenade!
+Round 8: filthworm royal guard takes 1 damage.
+Round 8: filthworm royal guard takes 7 damage.
+Round 8: You lose 7 hit points
+Adjusted combat item count: bobcat grenade
+Round 8: boolicious attacks!
+Round 9: filthworm royal guard takes 7 damage.
+Round 9: boolicious casts RETURN!
+Round 10: filthworm royal guard takes 3 damage.
+Round 10: filthworm royal guard takes 2 damage.
+Round 10: You lose 7 hit points
+Round 10: boolicious attacks!
+Round 11: filthworm royal guard takes 9 damage.
+Round 11: filthworm royal guard takes 1 damage.
+Round 11: filthworm royal guard takes 2 damage.
+Round 11: You lose 14 hit points
+Round 11: boolicious attacks!
+Round 12: You lose 12 hit points
+Round 12: filthworm royal guard takes 2 damage.
+Round 12: filthworm royal guard takes 9 damage.
+Round 12: You lose 6 hit points
+Round 12: boolicious attacks!
+Round 13: filthworm royal guard takes 10 damage.
+Round 13: filthworm royal guard takes 3 damage.
+Round 13: filthworm royal guard takes 9 damage.
+Round 13: You lose 16 hit points
+Round 13: boolicious attacks!
+Round 14: filthworm royal guard takes 11 damage.
+Round 14: filthworm royal guard takes 3 damage.
+Round 14: filthworm royal guard takes 4 damage.
+Round 14: You lose 15 hit points
+Round 14: boolicious attacks!
+Round 15: filthworm royal guard takes 10 damage.
+Round 15: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 30 hit points
+After Battle: You gain 30 Mana Points
+You gain 120 Meat
+After Battle: You gain 13 Strengthliness
+After Battle: You gain 24 Wizardliness
+After Battle: You gain 14 Cheek
+You gain 6 Soulsauce
+
+cast 5 Tongue of the Walrus
+You gain 175 hit points
+
+cast 1 Tongue of the Walrus
+You gain 33 hit points
+
+[2496] The Royal Guard Chamber
+Encounter: filthworm royal guard wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: filthworm royal guard takes 9 damage.
+Round 2: filthworm royal guard takes 2 damage.
+Round 2: filthworm royal guard takes 10 damage.
+Round 2: You lose 6 hit points
+Round 2: boolicious attacks!
+Round 3: filthworm royal guard takes 9 damage.
+Round 3: filthworm royal guard takes 3 damage.
+Round 3: filthworm royal guard takes 4 damage.
+Round 3: You lose 6 hit points
+Round 3: boolicious attacks!
+Round 4: filthworm royal guard takes 7 damage.
+Round 4: boolicious casts SOUL BUBBLE!
+Round 5: filthworm royal guard takes 1 damage.
+Round 5: filthworm royal guard takes 9 damage.
+Round 5: You lose 6 hit points
+Round 5: boolicious attacks!
+Round 6: filthworm royal guard takes 10 damage.
+Round 6: filthworm royal guard takes 3 damage.
+Round 6: filthworm royal guard takes 10 damage.
+Round 6: You lose 15 hit points
+Round 6: boolicious attacks!
+Round 7: filthworm royal guard takes 9 damage.
+Round 7: filthworm royal guard takes 1 damage.
+Round 7: filthworm royal guard takes 7 damage.
+Round 7: You lose 7 hit points
+Round 7: boolicious attacks!
+Round 8: filthworm royal guard takes 8 damage.
+Round 8: filthworm royal guard takes 2 damage.
+Round 8: filthworm royal guard takes 6 damage.
+Round 8: You lose 6 hit points
+Round 8: boolicious attacks!
+Round 9: filthworm royal guard takes 12 damage.
+Round 9: filthworm royal guard takes 2 damage.
+Round 9: filthworm royal guard takes 5 damage.
+Round 9: You lose 6 hit points
+Round 9: boolicious attacks!
+Round 10: filthworm royal guard takes 7 damage.
+Round 10: filthworm royal guard takes 1 damage.
+Round 10: filthworm royal guard takes 3 damage.
+Round 10: You lose 6 hit points
+Round 10: boolicious attacks!
+Round 11: filthworm royal guard takes 8 damage.
+Round 11: filthworm royal guard takes 3 damage.
+Round 11: filthworm royal guard takes 10 damage.
+Round 11: You lose 6 hit points
+Round 11: boolicious attacks!
+Round 12: filthworm royal guard takes 11 damage.
+Round 12: boolicious attacks!
+Round 13: filthworm royal guard takes 8 damage.
+Round 13: filthworm royal guard takes 1 damage.
+Round 13: filthworm royal guard takes 7 damage.
+Round 13: You lose 7 hit points
+Round 13: boolicious attacks!
+Round 14: filthworm royal guard takes 8 damage.
+Round 14: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 19 hit points
+After Battle: You gain 21 Mana Points
+You gain 112 Meat
+After Battle: You gain 15 Beefiness
+After Battle: You gain 25 Magicalness
+You gain a Mysticality point!
+After Battle: You gain 11 Cheek
+You gain 6 Soulsauce
+
+upeffect.php?efid=54&qty=1&pwd&ajax=1&_=1547075595217
+
+cast 1 Jalapeño Saucesphere
+You acquire an effect: Jalape&ntilde;o Saucesphere (15)
+
+upeffect.php?efid=1454&qty=1&pwd&ajax=1&_=1547075598194
+
+cast 1 Antibiotic Saucesphere
+You acquire an effect: Antibiotic Saucesphere (15)
+
+upeffect.php?efid=54&qty=1&pwd&ajax=1&_=1547075599922
+
+cast 1 Jalapeño Saucesphere
+You acquire an effect: Jalape&ntilde;o Saucesphere (15)
+
+upeffect.php?efid=54&qty=1&pwd&ajax=1&_=1547075603482
+
+cast 1 Jalapeño Saucesphere
+You acquire an effect: Jalape&ntilde;o Saucesphere (15)
+
+upeffect.php?efid=54&qty=1&pwd&ajax=1&_=1547075606680
+
+cast 1 Jalapeño Saucesphere
+You acquire an effect: Jalape&ntilde;o Saucesphere (15)
+
+upeffect.php?efid=54&qty=1&pwd&ajax=1&_=1547075610639
+
+cast 1 Jalapeño Saucesphere
+You acquire an effect: Jalape&ntilde;o Saucesphere (15)
+
+[2497] The Royal Guard Chamber
+Encounter: filthworm royal guard wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: filthworm royal guard takes 12 damage.
+Round 2: filthworm royal guard takes 3 damage.
+Round 2: filthworm royal guard takes 4 damage.
+Round 2: You lose 14 hit points
+Round 2: boolicious attacks!
+Round 3: filthworm royal guard takes 12 damage.
+Round 3: filthworm royal guard takes 2 damage.
+Round 3: filthworm royal guard takes 5 damage.
+Round 3: You lose 6 hit points
+Round 3: boolicious attacks!
+Round 4: filthworm royal guard takes 13 damage.
+Round 4: filthworm royal guard takes 2 damage.
+Round 4: filthworm royal guard takes 9 damage.
+Round 4: You lose 14 hit points
+Round 4: boolicious attacks!
+Round 5: filthworm royal guard takes 10 damage.
+Round 5: filthworm royal guard takes 2 damage.
+Round 5: filthworm royal guard takes 2 damage.
+Round 5: You lose 6 hit points
+Round 5: boolicious attacks!
+Round 6: filthworm royal guard takes 9 damage.
+Round 6: filthworm royal guard takes 3 damage.
+Round 6: filthworm royal guard takes 10 damage.
+Round 6: You lose 7 hit points
+Round 6: boolicious attacks!
+Round 7: filthworm royal guard takes 9 damage.
+Round 7: filthworm royal guard takes 1 damage.
+Round 7: filthworm royal guard takes 9 damage.
+Round 7: You lose 16 hit points
+Round 7: boolicious attacks!
+Round 8: filthworm royal guard takes 23 damage.
+Round 8: boolicious attacks!
+Round 9: filthworm royal guard takes 10 damage.
+Round 9: filthworm royal guard takes 3 damage.
+Round 9: filthworm royal guard takes 10 damage.
+Round 9: You lose 6 hit points
+Round 9: boolicious attacks!
+Round 10: filthworm royal guard takes 32 damage.
+Round 10: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 18 hit points
+After Battle: You gain 28 Mana Points
+You gain 103 Meat
+You acquire an item: filthworm royal guard scent gland
+After Battle: You gain 13 Muscleboundness
+After Battle: You gain 28 Wizardliness
+After Battle: You gain 9 Smarm
+You gain 7 Soulsauce
+
+use 1 filthworm royal guard scent gland
+You acquire an effect: Filthworm Guard Stench (10)
+
+backoffice.php?which=3
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (1)
+Trivia card #298/1200:
+Question: What was needed to defeat The Demon Barbarian Hasslehoff in level 7, "Freezebadlands", in the popular video game "Splatter Road XVIII"?
+Answer: A squishy football.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (1)
+Trivia card #515/1200:
+Question: When did Señor Curly Hathaway win the Nobel Prize for Things That Seemed Like a Great Idea at the Time?
+Answer: 1432.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (1)
+Trivia card #867/1200:
+Question: What player for the Zevroozlchester Fightin' Lasers was inducted into the Hall of Fame for his or her last-second touchdown in the 1986 knitting championship?
+Answer: Nobody.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up (-1)
+You lose an effect: You Know When to Walk Away (-1)
+You lose an effect: You Know Who to Call (-1)
+You acquire an effect: Trivia Master (30)
+Trivia card #991/1200:
+Question: Where was Clyde VII, Prince of Tangerinebury Grove, born?
+Answer: On the last train to Eggshire.
+
+use 1 cold-filtered water
+You acquire an effect: Purity of Spirit (10)
+
+eat 1 one with everything
+You gain 11 Adventures
+You gain 16 Mysteriousness
+You acquire an effect: Inner Dog (50)
+You gain 2 Fullness
+
+use 1 Taco Dan's Taco Stand Chillacious Churro
+You acquire an effect: Churro Chiaroscuro (5)
+
+use 1 giant giant moth dust
+You acquire an effect: Slightly Larger Than Usual (50)
+Jumping into the Awesome Ball Pit in the clan rumpus room
+You acquire an effect: Having a Ball! (20)
+
+use 1 Oscus's neverending soda
+
+cast 15 Tongue of the Walrus
+You gain 535 hit points
+
+[2498] The Filthworm Queen's Chamber
+Encounter: the queen filthworm wearing a plague doctor mask
+Round 0: boolicious wins initiative!
+You acquire an effect: A Little Bit Poisoned (10)
+Round 1: boolicious casts SOUL BUBBLE!
+Round 2: boolicious attacks!
+Round 3: queen filthworm takes 394 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 23 hit points
+After Battle: You gain 23 Mana Points
+You gain 1133 Meat
+You acquire an item: heart of the filthworm queen
+After Battle: You gain 13 Strengthliness
+After Battle: You gain 31 Wizardliness
+After Battle: You gain 8 Chutzpah
+You gain 6 Soulsauce
+
+Visiting The Organic Produce Stand
+
+Visiting The Organic Produce Stand
+You gain 4,260 Meat
+
+uneffect A Little Bit Poisoned
+
+[2499] The Battlefield (Hippy Uniform)
+Encounter: War Frat 151st Infantryman wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: War Frat 151st Infantryman takes 447 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 17 hit points
+After Battle: You gain 21 Mana Points
+You acquire an item: perforated battle paddle
+After Battle: You gain 16 Muscleboundness
+After Battle: You gain 22 Wizardliness
+After Battle: You gain 13 Smarm
+You gain 5 Soulsauce
+2 frat boys defeated; 4 down, 996 left.
+
+[2500] The Battlefield (Hippy Uniform)
+Encounter: Sorority Nurse wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: Sorority Nurse takes 442 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 24 hit points
+After Battle: You gain 25 Mana Points
+You acquire an item: energy drink IV
+After Battle: You gain 16 Fortitude
+After Battle: You gain 28 Mysteriousness
+After Battle: You gain 8 Smarm
+You gain 5 Soulsauce
+2 frat boys defeated; 6 down, 994 left.
+
+[2501] The Battlefield (Hippy Uniform)
+Encounter: War Frat 110th Infantryman wearing a skull mask
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: War Frat 110th Infantryman takes 444 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 20 hit points
+After Battle: You gain 20 Mana Points
+You acquire an item: distressed denim pants
+You acquire an item: giant foam finger
+After Battle: You gain 16 Beefiness
+You gain a Muscle point!
+After Battle: You gain 27 Magicalness
+After Battle: You gain 9 Smarm
+You gain a Moxie point!
+You gain 5 Soulsauce
+2 frat boys defeated; 8 down, 992 left.
+
+[2502] The Battlefield (Hippy Uniform)
+Encounter: War Frat 151st Infantryman wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: War Frat 151st Infantryman takes 450 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 27 hit points
+After Battle: You gain 17 Mana Points
+You acquire an item: distressed denim pants
+You acquire an item: perforated battle paddle
+After Battle: You gain 13 Fortitude
+After Battle: You gain 27 Mysteriousness
+After Battle: You gain 11 Cheek
+You gain 5 Soulsauce
+2 frat boys defeated; 10 down, 990 left.
+
+[2503] The Battlefield (Hippy Uniform)
+Encounter: Sorority Nurse wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: Sorority Nurse takes 448 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 26 hit points
+After Battle: You gain 21 Mana Points
+You acquire an item: energy drink IV
+After Battle: You gain 16 Beefiness
+After Battle: You gain 27 Wizardliness
+After Battle: You gain 9 Roguishness
+You gain 5 Soulsauce
+2 frat boys defeated; 12 down, 988 left.
+
+[2504] McMillicancuddy's Pond
+Encounter: figure-skating duck wearing a ski mask
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: figure-skating duck takes 485 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 23 hit points
+After Battle: You gain 26 Mana Points
+You gain 189 Meat
+After Battle: You gain 14 Fortitude
+After Battle: You gain 29 Enchantedness
+After Battle: You gain 10 Roguishness
+You gain 6 Soulsauce
+
+[2505] McMillicancuddy's Pond
+Encounter: figure-skating duck wearing a ski mask
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: figure-skating duck takes 448 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 25 hit points
+After Battle: You gain 27 Mana Points
+You gain 167 Meat
+After Battle: You gain 18 Muscleboundness
+After Battle: You gain 28 Mysteriousness
+After Battle: You gain 8 Roguishness
+You gain 6 Soulsauce
+
+[2506] McMillicancuddy's Pond
+Encounter: frozen duck wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: frozen duck takes 455 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 16 hit points
+After Battle: You gain 27 Mana Points
+You gain 182 Meat
+After Battle: You gain 12 Muscleboundness
+After Battle: You gain 27 Mysteriousness
+After Battle: You gain 13 Sarcasm
+You gain 7 Soulsauce
+
+[2507] McMillicancuddy's Pond
+Encounter: frozen duck wearing a monkey mask
+Round 0: boolicious loses initiative!
+Round 1: You lose 32 hit points
+Round 1: boolicious attacks!
+Round 2: frozen duck takes 454 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 17 hit points
+After Battle: You gain 15 Mana Points
+You gain 174 Meat
+After Battle: You gain 15 Strengthliness
+After Battle: You gain 31 Mysteriousness
+After Battle: You gain 5 Smarm
+You gain 3 Soulsauce
+
+[2508] McMillicancuddy's Pond
+Encounter: frozen duck wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: frozen duck takes 311 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 18 hit points
+After Battle: You gain 17 Mana Points
+You gain 169 Meat
+After Battle: You gain 16 Strongness
+After Battle: You gain 27 Enchantedness
+After Battle: You gain 9 Smarm
+
+[2509] McMillicancuddy's Pond
+Encounter: frozen duck wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: frozen duck takes 329 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 30 hit points
+After Battle: You gain 27 Mana Points
+You gain 178 Meat
+After Battle: You gain 14 Muscleboundness
+After Battle: You gain 22 Wizardliness
+After Battle: You gain 14 Chutzpah
+
+cast 10 Antibiotic Saucesphere
+You acquire an effect: Antibiotic Saucesphere (150)
+
+cast 10 Jalapeño Saucesphere
+You acquire an effect: Jalape&ntilde;o Saucesphere (150)
+
+cast 10 Elemental Saucesphere
+You acquire an effect: Elemental Saucesphere (150)

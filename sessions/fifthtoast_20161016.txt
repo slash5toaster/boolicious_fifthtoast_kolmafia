@@ -1,0 +1,2842 @@
+
+showplayer.php?who=2303242
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+October 16, 2016 - Frankruary 7
+
+Ronald: third quarter
+Grimace: waning crescent
+Mini-moon: in front of Ronald, L side
+
+St. Sneaky Pete's Day: 4 days
+Oyster Egg Day: 11 days
+Halloween: 15 days
+El Dia De Los Muertos Borrachos: 19 days
+Generic Summer Holiday: 28 days
+Dependence Day: 37 days
+Feast of Boris: 39 days
+Arrrbor Day: 45 days
+Lab&oacute;r Day: 55 days
+Yuletide: 77 days
+Festival of Jarlsberg: 78 days
+Valentine's Day: 93 days
+
+
+Moxie bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Pastamancer
+
+Lv: 13
+HP: 199 / 199
+MP: 455 / 455
+
+Mus: 111, tnp = 161
+Mys: 270 (154), tnp = 45
+Mox: 117, tnp = 125
+
+Advs: 200
+Meat: 39,913
+
+Full: 0 / 15
+Drunk: 0 / 19
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Colander of Em-er'il
+Weapon: Wrath of the Capsaician Pastalords
+Off-hand: Glass Balls of the Goblin King
+Shirt: ASCII shirt
+Pants: Angelhair Culottes
+Container: Misty Robe
+
+Acc. 1: continuum transfunctioner
+Acc. 2: astral ring
+Acc. 3: solid baconstone ring
+
+Pet: MiniMechaElf (23 lbs)
+Item: lead necklace
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+
+Seal Clubber
+ - Tongue of the Walrus
+
+Pastamancer
+ - Arched Eyebrow of the Archmage
+ - Bind Angel Hair Wisp
+ - Bind Lasagmbie
+ - Bind Penne Dreadful
+ - Bind Spaghetti Elemental
+ - Bind Undead Elbow Macaroni
+ - Bind Vampieroghi
+ - Bind Vermincelli
+ - Bringing Up the Rear
+ - Cannelloni Cannon
+ - Cannelloni Cocoon
+ - Canticle of Carboloading
+ - Entangling Noodles
+ - Lasagna Bandages
+ - Leash of Linguini
+ - Manicotti Meditation
+ - Pastamastery
+ - Ravioli Shurikens
+ - Shield of the Pastalord
+ - Spaghetti Spear
+ - Spirit of Ravioli
+ - Spirit of Rigatoni
+ - Springy Fusilli
+ - Stuffed Mortar Shell
+ - Subtle and Quick to Anger
+ - Thrall Unit Tactics
+ - Tolerance of the Kitchen
+ - Transcendent Al Dente
+ - Utensil Twist
+ - Weapon of the Pastalord
+
+Sauceror
+ - Saucy Salve
+
+Disco Bandit
+ - Ambidextrous Funkslinging
+
+Conditional
+ - Dismiss Pasta Thrall
+ - Noodles of Fire
+
+The Source
+ - Big Guns
+ - Bullet Time
+ - Code Block
+ - Data Siphon
+ - Disarmament
+ - Humiliating Hack
+ - Overclocked
+ - Reboot
+ - Restore
+ - Source Kick
+ - Source Punch
+ - True Disbeliever
+
+Gnome Trainer
+ - Gnomish Hardigness
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+☺ Arched Eyebrow of the Archmage (2)
+Pasta Oneness (2)
+Springy Fusilli (2)
+Shield of the Pastalord (12)
+Astral Shell (95)
+Ghostly Shell (95)
+Reptilian Fortitude (95)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +100.00%
+
+Exp: +0.42
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 Taco Dan's Taco Stand Flier
+You acquire an item: Taco Dan's Taco Stand Chillacious Churro
+
+main.php?checkbfast=24
+main.php?action=noresetnotification
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: When?
+
+main.php?checkbfast=9
+
+cast 0 Pastamastery
+You acquire dry noodles (3)
+
+main.php?checkbfast=3
+
+use 1 creepy voodoo doll
+
+main.php?checkbfast=34
+
+use 1 festive warbear bank
+You lose 25 Meat
+You gain 46 Meat
+
+main.php?checkbfast=32
+
+equip acc1 World's Best Adventurer sash
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (1)
+Trivia card #266/1200:
+Question: What was needed to defeat The Fire Witchlord Evilthing in level 2, "Grind Tundra", in the popular video game "Splatter Duty VIII"?
+Answer: An indigo tiger.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (1)
+Trivia card #399/1200:
+Question: When did the Farnsworthington Drunken Indigenous Natives win the national bobsledding championship?
+Answer: A little after seven o'clock.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (1)
+Trivia card #645/1200:
+Question: Who won the mercury medal for fencing in the 1997 Olympics?
+Answer: Duchess Morris XIII, ruler of Brazzleton and the Delightful Caves.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up (-1)
+You lose an effect: You Know When to Walk Away (-1)
+You lose an effect: You Know Who to Call (-1)
+You acquire an effect: Trivia Master (30)
+Trivia card #949/1200:
+Question: Where did Dr. Holden Khan, inventor of the electronic telegraph, get arrested for littering?
+Answer: Quirm, Glameroth.
+
+use 1 &quot;DRINK ME&quot; potion
+You acquire an effect: Down the Rabbit Hole (20)
+
+[2854] The Red Queen's Garden
+Encounter: Tiger-lily
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent seems to want to attack you, but isn't willing to get any closer to SshoSobogopodopotototototo than it has to.
+Round 1: fifthtoast attacks!
+Round 2: Tiger-lily takes 58 damage.
+Round 2: Nickle Plated Gumball throws a Dragon Taco knee on it for 10 damage with his gibbon knee.
+Round 2: Tiger-lily takes 10 damage.
+Round 2: fifthtoast casts CANNELLONI CANNON!
+Round 3: Tiger-lily takes 110 damage.
+Round 3: Nickle Plated Gumball opens his mouth and fires a pinstriped laser at it for 12 damage.
+Round 3: Tiger-lily takes 12 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: Tiger-lily's milk
+After Battle: You gain 8 Beefiness
+After Battle: You gain 7 Wizardliness
+After Battle: You gain 6 Cheek
+
+cast 1 Arched Eyebrow of the Archmage
+You acquire an effect: Arched Eyebrow of the Archmage (10)
+
+cast 5 Manicotti Meditation
+You acquire an effect: Pasta Oneness (25)
+
+cast 1 Springy Fusilli
+You acquire an effect: Springy Fusilli (10)
+
+[2855] The Red Queen's Garden
+Encounter: beelephant
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent starts to attack you, but SshoSobogopodopotototototo howls at it and blocks the attack. I'm not sure how to describe the howl; it kind of sounds like "&#37;&amp;&#37;!"
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: beelephant takes 110 damage.
+Round 2: Nickle Plated Gumball throws a Devilish Indigo punch with his wombat arm, doing 8 damage.
+Round 2: beelephant takes 8 damage.
+Round 2: fifthtoast casts STUFFED MORTAR SHELL!
+Round 3: Nickle Plated Gumball launches his Vision of the Heart missile for 21 damage.
+Round 3: beelephant takes 21 damage.
+Round 3: fifthtoast casts UTENSIL TWIST!
+Round 4: beelephant takes 70 damage.
+Round 4: Nickle Plated Gumball throws a Devilish Indigo punch with his wombat arm, doing 17 damage.
+Round 4: beelephant takes 17 damage.
+Round 4: beelephant takes 627 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: reflection of a map
+After Battle: You gain 5 Muscleboundness
+After Battle: You gain 12 Enchantedness
+After Battle: You gain 4 Chutzpah
+
+[2856] The Red Queen's Garden
+Encounter: wasp in a wig
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo slaps your opponent repeatedly in the face with noodly tentacles, preventing his attack. "Agh, cut that out!" he yells, annoyed.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: wasp in a wig takes 110 damage.
+Round 2: Nickle Plated Gumball opens his mouth and fires a paisley laser at him for 15 damage.
+Round 2: wasp in a wig takes 15 damage.
+Round 2: You lose 12 hit points
+Round 2: fifthtoast casts STUFFED MORTAR SHELL!
+Round 3: Nickle Plated Gumball does a Spinning Salad attack on him with his capybara knee, doing 7 damage.
+Round 3: wasp in a wig takes 7 damage.
+Round 3: fifthtoast casts UTENSIL TWIST!
+Round 4: wasp in a wig takes 72 damage.
+Round 4: Nickle Plated Gumball does a Perpetuating Avocado kick on him for 11 damage with his pangolin foot.
+Round 4: wasp in a wig takes 11 damage.
+Round 4: wasp in a wig takes 352 damage.
+Round 4: fifthtoast wins the fight!
+After Battle: You gain 4 Strengthliness
+After Battle: You gain 12 Enchantedness
+After Battle: You gain 5 Roguishness
+
+[2857] The Red Queen's Garden
+Encounter: wasp in a wig
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo entangles himself in your opponent's legs, which results in him windmilling his arms comically and then falling on his face.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: wasp in a wig takes 110 damage.
+Round 2: Nickle Plated Gumball throws a Dragon Taco knee on him for 9 damage with his gibbon knee.
+Round 2: wasp in a wig takes 9 damage.
+Round 2: fifthtoast casts STUFFED MORTAR SHELL!
+Round 3: Nickle Plated Gumball does a Spinning Salad attack on him with his capybara knee, doing 6 damage.
+Round 3: wasp in a wig takes 6 damage.
+Round 3: fifthtoast casts UTENSIL TWIST!
+Round 4: wasp in a wig takes 76 damage.
+Round 4: Nickle Plated Gumball throws a Dragon Taco knee on him for 6 damage with his gibbon knee.
+Round 4: wasp in a wig takes 6 damage.
+Round 4: wasp in a wig takes 333 damage.
+Round 4: fifthtoast wins the fight!
+You acquire an item: powdered donut
+You acquire an item: powdered wig
+After Battle: You gain 8 Fortitude
+After Battle: You gain 7 Enchantedness
+After Battle: You gain 6 Smarm
+
+showplayer.php?who=2303242
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+October 16, 2016 - Frankruary 7
+
+Ronald: third quarter
+Grimace: waning crescent
+Mini-moon: in front of Ronald, L side
+
+St. Sneaky Pete's Day: 4 days
+Oyster Egg Day: 11 days
+Halloween: 15 days
+El Dia De Los Muertos Borrachos: 19 days
+Generic Summer Holiday: 28 days
+Dependence Day: 37 days
+Feast of Boris: 39 days
+Arrrbor Day: 45 days
+Lab&oacute;r Day: 55 days
+Yuletide: 77 days
+Festival of Jarlsberg: 78 days
+Valentine's Day: 93 days
+
+
+Moxie bonus tomorrow (not today).
+
+
+ > status
+
+Name: fifthtoast
+Class: Pastamancer
+
+Lv: 13
+HP: 187 / 360
+MP: 461 / 706
+
+Mus: 235 (111), tnp = 136
+Mys: 437 (154), tnp = 7
+Mox: 247 (117), tnp = 104
+
+Advs: 196
+Meat: 39,934
+
+Full: 0 / 15
+Drunk: 0 / 19
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Colander of Em-er'il
+Weapon: Wrath of the Capsaician Pastalords
+Off-hand: Glass Balls of the Goblin King
+Shirt: ASCII shirt
+Pants: Angelhair Culottes
+Container: Misty Robe
+
+Acc. 1: World's Best Adventurer sash
+Acc. 2: astral ring
+Acc. 3: solid baconstone ring
+
+Pet: MiniMechaElf (23 lbs)
+Item: lead necklace
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+
+Seal Clubber
+ - Tongue of the Walrus
+
+Pastamancer
+ - Arched Eyebrow of the Archmage
+ - Bind Angel Hair Wisp
+ - Bind Lasagmbie
+ - Bind Penne Dreadful
+ - Bind Spaghetti Elemental
+ - Bind Undead Elbow Macaroni
+ - Bind Vampieroghi
+ - Bind Vermincelli
+ - Bringing Up the Rear
+ - Cannelloni Cannon
+ - Cannelloni Cocoon
+ - Canticle of Carboloading
+ - Entangling Noodles
+ - Lasagna Bandages
+ - Leash of Linguini
+ - Manicotti Meditation
+ - Pastamastery
+ - Ravioli Shurikens
+ - Shield of the Pastalord
+ - Spaghetti Spear
+ - Spirit of Ravioli
+ - Spirit of Rigatoni
+ - Springy Fusilli
+ - Stuffed Mortar Shell
+ - Subtle and Quick to Anger
+ - Thrall Unit Tactics
+ - Tolerance of the Kitchen
+ - Transcendent Al Dente
+ - Utensil Twist
+ - Weapon of the Pastalord
+
+Sauceror
+ - Saucy Salve
+
+Disco Bandit
+ - Ambidextrous Funkslinging
+
+Conditional
+ - Dismiss Pasta Thrall
+ - Noodles of Fire
+
+The Source
+ - Big Guns
+ - Bullet Time
+ - Code Block
+ - Data Siphon
+ - Disarmament
+ - Humiliating Hack
+ - Overclocked
+ - Reboot
+ - Restore
+ - Source Kick
+ - Source Punch
+ - True Disbeliever
+
+Gnome Trainer
+ - Gnomish Hardigness
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+☺ Arched Eyebrow of the Archmage (8)
+Shield of the Pastalord (8)
+Springy Fusilli (8)
+Down the Rabbit Hole (16)
+Pasta Oneness (23)
+Trivia Master (26)
+Astral Shell (91)
+Ghostly Shell (91)
+Reptilian Fortitude (91)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +100.00%
+
+Exp: +0.42
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[2858] The Red Queen's Garden
+Encounter: beelephant
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo screeches a string of random punctuation at your opponent, who stops and covers its ears in pain.
+Round 1: fifthtoast attacks!
+Round 2: beelephant takes 74 damage.
+Round 2: Nickle Plated Gumball launches his Vision of the Valley of the Wind missile for 24 damage.
+Round 2: beelephant takes 24 damage.
+Round 2: fifthtoast casts CANNELLONI CANNON!
+Round 3: beelephant takes 110 damage.
+Round 3: Nickle Plated Gumball throws a Dragon Taco knee on it for 12 damage with his gibbon knee.
+Round 3: beelephant takes 12 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: bucket of honey
+You acquire an item: elephant stinger
+After Battle: You gain 5 Strengthliness
+After Battle: You gain 11 Enchantedness
+You gain a Mysticality point!
+After Battle: You gain 6 Roguishness
+
+[2859] Rest in your dwelling
+You gain 29 hit points
+You gain 30 Mana Points
+
+use 1 phonics down
+You acquire an effect: Tingly Wrists (4)
+You gain 50 hit points
+You gain 49 Mana Points
+
+use 3 carbonated soy milk
+You gain 213 Mana Points
+
+use 1 scroll of drastic healing
+
+[2860] The Red Queen's Garden
+Encounter: snapdragon
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent's wrist with its noodly appendages, preventing his attack.
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: snapdragon takes 110 damage.
+Round 2: Nickle Plated Gumball throws an Intimate Fashion attack with his armadillo shin, for 7 damage.
+Round 2: snapdragon takes 7 damage.
+Round 2: fifthtoast casts CANNELLONI CANNON!
+Round 3: snapdragon takes 110 damage.
+Round 3: Nickle Plated Gumball throws an Intimate Fashion attack with his armadillo shin, for 10 damage.
+Round 3: snapdragon takes 10 damage.
+Round 3: fifthtoast wins the fight!
+You acquire an item: dragon snaps
+After Battle: You gain 5 Muscleboundness
+After Battle: You gain 10 Mysteriousness
+After Battle: You gain 6 Smarm
+
+[2861] The Red Queen's Garden
+Encounter: wasp in a wig
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo slaps your opponent repeatedly in the face with noodly tentacles, preventing his attack. "Agh, cut that out!" he yells, annoyed.
+Round 1: fifthtoast casts STUFFED MORTAR SHELL!
+Round 2: Nickle Plated Gumball does a Perpetuating Avocado kick on him for 8 damage with his pangolin foot.
+Round 2: wasp in a wig takes 8 damage.
+Round 2: fifthtoast attacks!
+Round 3: wasp in a wig takes 64 damage.
+Round 3: Nickle Plated Gumball opens a port on his codpiece and releases a ray of burritos for 18 damage.
+Round 3: wasp in a wig takes 18 damage.
+Round 3: wasp in a wig takes 338 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: You gain 6 Fortitude
+After Battle: You gain 10 Enchantedness
+After Battle: You gain 6 Sarcasm
+
+[2862] The Red Queen's Garden
+Encounter: Tiger-lily
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo slaps your opponent repeatedly in the face with noodly tentacles, preventing its attack. "Agh, cut that out!" it yells, annoyed.
+Round 1: fifthtoast casts STUFFED MORTAR SHELL!
+Round 2: Nickle Plated Gumball opens his visor and fires a Cyan laser beam at it for 11 damage.
+Round 2: Tiger-lily takes 11 damage.
+Round 2: fifthtoast attacks!
+Round 3: Tiger-lily takes 71 damage.
+Round 3: Nickle Plated Gumball does a Soul Tornado kick on it for 6 damage with his lemur foot.
+Round 3: Tiger-lily takes 6 damage.
+Round 3: Tiger-lily takes 358 damage.
+Round 3: fifthtoast wins the fight!
+After Battle: You gain 2 Muscleboundness
+After Battle: You gain 12 Enchantedness
+After Battle: You gain 7 Smarm
+
+place.php?whichplace=town_right&action=townright_gourd_quiet
+
+Visiting Gorgonzola, the Chief Chef
+
+Visiting Blaine
+
+Visiting Brie, the Trainer
+
+Chefstaff 1 giant cheesestick, 3 sleazy hi mein, 1 flat mushroom wine, 10 sleaze wad, 1 flirtatious feather
+
+Visiting Asiago, the Pastamancer
+You gain 6,000 Meat
+
+[2863] The Black Forest
+Encounter: black adder
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo slaps your opponent repeatedly in the face with noodly tentacles, preventing its attack. "Agh, cut that out!" it yells, annoyed.
+Round 1: fifthtoast attacks!
+Round 2: black adder takes 151 damage.
+Round 2: Nickle Plated Gumball throws an Intimate Fashion attack with his armadillo shin, for 11 damage.
+Round 2: black adder takes 11 damage.
+Round 2: fifthtoast wins the fight!
+You gain 99 Meat
+You acquire an item: adder bladder
+You acquire an item: black snake skin
+After Battle: You gain 4 Strongness
+After Battle: You gain 6 Enchantedness
+After Battle: You gain 4 Sarcasm
+
+use 2 adder bladder
+You acquire an effect: Deadly Flashing Blade (20)
+
+[2864] The Black Forest
+Encounter: black adder
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo screeches a string of random punctuation at your opponent, who stops and covers its ears in pain.
+Round 1: fifthtoast attacks!
+Round 2: black adder takes 155 damage.
+Round 2: Nickle Plated Gumball throws an Intimate Fashion attack with his armadillo shin, for 17 damage.
+Round 2: black adder takes 17 damage.
+Round 2: fifthtoast wins the fight!
+You gain 100 Meat
+You acquire an item: black snake skin
+After Battle: You gain 3 Strengthliness
+After Battle: You gain 5 Mysteriousness
+After Battle: You gain 6 Sarcasm
+
+[2865] The Black Forest
+Encounter: All Over the Map
+Took choice 923/3: visit black gold mine
+choice.php?pwd&whichchoice=923&option=3
+Encounter: Be Mine
+Took choice 926/6: return to main choice
+choice.php?pwd&whichchoice=926&option=6
+Encounter: All Over the Map
+Took choice 923/4: visit black church
+choice.php?pwd&whichchoice=923&option=4
+Encounter: Sunday Black Sunday
+Took choice 927/1: get 13 turns of Salsa Satanica or beaten up
+choice.php?pwd&whichchoice=927&option=1
+You lose 538 hit points
+
+[2866] Rest in your dwelling
+You lose an effect: Beaten Up (0)
+You gain 30 hit points
+You gain 30 Mana Points
+
+cast 1 Cannelloni Cocoon
+You gain 330 hit points
+
+[2867] The Black Forest
+Encounter: black widow
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent starts to attack you, but SshoSobogopodopotototototo howls at her and blocks the attack. I'm not sure how to describe the howl; it kind of sounds like "&#37;&amp;&#37;!"
+Round 1: fifthtoast casts STUFFED MORTAR SHELL!
+Round 2: Nickle Plated Gumball throws a Dragon Taco knee on her for 12 damage with his gibbon knee.
+Round 2: black widow takes 12 damage.
+Round 2: fifthtoast attacks!
+Round 3: black widow takes 175 damage.
+Round 3: Nickle Plated Gumball does a Thousand Tiny Cranes attack with his opossum shin, for 6 damage.
+Round 3: black widow takes 6 damage.
+Round 3: black widow takes 662 damage.
+Round 3: fifthtoast wins the fight!
+You gain 60 Meat
+You acquire an item: black pension check
+You acquire an item: black picnic basket
+After Battle: You gain 3 Strengthliness
+After Battle: You gain 6 Wizardliness
+After Battle: You gain 5 Sarcasm
+
+use 2 black pension check
+You gain 874 Meat
+
+use 2 black picnic basket
+You acquire black & tan (2)
+You acquire an item: black pepper
+You acquire an item: black forest cake
+You acquire an item: black forest ham
+
+[2868] The Black Forest
+Encounter: black magic woman
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent's wrist with its noodly appendages, preventing her attack.
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: black magic woman takes 110 damage.
+Round 2: Nickle Plated Gumball does a Soul Tornado kick on her for 18 damage with his lemur foot.
+Round 2: black magic woman takes 18 damage.
+Round 2: fifthtoast wins the fight!
+You gain 87 Meat
+After Battle: You gain 2 Strengthliness
+After Battle: You gain 10 Enchantedness
+After Battle: You gain 3 Cheek
+
+[2869] The Black Forest
+Encounter: black magic woman
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent by the face, but doesn't seem sure what to do with her after that. Your opponent, for her part, has decided to stand very still.
+Round 1: fifthtoast wins the fight!
+You gain 99 Meat
+After Battle: You gain 3 Beefiness
+After Battle: You gain 6 Magicalness
+After Battle: You gain 5 Smarm
+
+[2869] The Black Forest
+Encounter: Agent Johnson
+Round 0: fifthtoast wins initiative!
+You acquire an effect: Latency (1)
+Round 1: Your opponent seems to want to attack you, but isn't willing to get any closer to SshoSobogopodopotototototo than he has to.
+Round 1: fifthtoast casts HUMILIATING HACK!
+Round 2: Source Agent drops 166 attack power.
+Round 2: Source Agent drops 166 defense.
+Round 2: Nickle Plated Gumball cowers, terrified.
+Round 2: fifthtoast casts BIG GUNS!
+Round 3: Source Agent takes 300 damage.
+Round 3: Nickle Plated Gumball cowers, terrified.
+Round 3: fifthtoast casts DISARMAMENT!
+Round 4: Nickle Plated Gumball cowers, terrified.
+Round 4: fifthtoast casts SOURCE KICK!
+Round 5: Source Agent takes 143 damage.
+Round 5: You gain 143 Mana Points
+Round 5: Nickle Plated Gumball cowers, terrified.
+Round 5: fifthtoast wins the fight!
+After Battle: You gain 93 Beefiness
+After Battle: You gain 206 Magicalness
+After Battle: You gain 135 Sarcasm
+You gain a Moxie point!
+
+[2870] The Black Forest
+Encounter: All Over the Map
+Took choice 923/1: fight blackberry bush, visit cobbler, or raid beehive
+choice.php?pwd&whichchoice=923&option=1
+Encounter: You Found Your Thrill
+Took choice 924/3: head towards beehive (1)
+choice.php?pwd&whichchoice=924&option=3
+
+[2871] The Black Forest
+Encounter: Bee Persistent
+You lose 4 hit points
+You lose 4 hit points
+You lose 3 hit points
+Took choice 1018/1: head towards beehive (1)
+choice.php?pwd&whichchoice=1018&option=1
+
+[2872] The Black Forest
+Encounter: Bee Rewarded
+You lose 3 hit points
+You lose 4 hit points
+You lose 5 hit points
+Took choice 1019/1: beehive (1)
+choice.php?pwd&whichchoice=1019&option=1
+
+[2872] The Black Forest
+You lose 5 hit points
+You lose 4 hit points
+You lose 3 hit points
+You acquire an item: beehive
+
+[2873] Tower Level 1
+Encounter: wall of skin
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent's wrist with its noodly appendages, preventing its attack.
+Round 1: fifthtoast uses the beehive!
+Round 2: Nickle Plated Gumball does a Thousand Tiny Cranes attack with his opossum shin, for 1 damage.
+Round 2: wall of skin takes 1 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 4 Strongness
+After Battle: You gain 13 Enchantedness
+After Battle: You gain 3 Smarm
+
+[2874] Tower Level 2
+Encounter: wall of meat
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo slaps your opponent repeatedly in the face with noodly tentacles, preventing its attack. "Agh, cut that out!" it yells, annoyed.
+Round 1: fifthtoast uses the cocktail napkin and uses the murky potion!
+Round 2: wall of meat takes 34 damage.
+Round 2: Nickle Plated Gumball does a Spinning Salad attack on it with his capybara knee, doing 12 damage.
+Round 2: wall of meat takes 12 damage.
+Round 2: You lose 62 hit points
+Round 2: fifthtoast uses the spectre scepter and uses the red button!
+Round 3: wall of meat drops 2 attack power.
+Round 3: wall of meat drops 3 defense.
+Round 3: wall of meat takes 103 damage.
+Round 3: Nickle Plated Gumball opens his visor and fires a Brown laser beam at it for 19 damage.
+Round 3: wall of meat takes 19 damage.
+Round 3: You lose 51 hit points
+Adjusted combat item count: red button
+Round 3: fifthtoast uses the spectre scepter and uses the black pepper!
+Round 4: You gain 4 hit points
+Round 4: wall of meat drops 8 attack power.
+Round 4: wall of meat drops 10 defense.
+Round 4: Nickle Plated Gumball does a Spinning Salad attack on it with his capybara knee, doing 6 damage.
+Round 4: wall of meat takes 6 damage.
+Round 4: You lose 47 hit points
+Round 4: fifthtoast attacks!
+Round 5: wall of meat takes 97 damage.
+Round 5: Nickle Plated Gumball does a Thousand Tiny Cranes attack with his opossum shin, for 9 damage.
+Round 5: wall of meat takes 9 damage.
+Round 5: You lose 47 hit points
+Round 5: fifthtoast casts CANNELLONI CANNON!
+Round 6: wall of meat takes 110 damage.
+Round 6: Nickle Plated Gumball opens a port on his codpiece and releases a ray of salads for 14 damage.
+Round 6: wall of meat takes 14 damage.
+Round 6: You lose 58 hit points
+Round 6: fifthtoast casts STUFFED MORTAR SHELL!
+Round 7: Nickle Plated Gumball launches his Cerulean Table Swimming X missile for 23 damage.
+Round 7: wall of meat takes 23 damage.
+Round 7: You lose 62 hit points
+
+[2875] Rest in your dwelling
+You lose an effect: Beaten Up (0)
+You gain 29 hit points
+You gain 30 Mana Points
+
+cast 1 Cannelloni Cocoon
+You gain 331 hit points
+
+[2876] Tower Level 2
+Encounter: wall of meat
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo entangles himself in your opponent's legs, which results in it windmilling its arms comically and then falling on its face.
+Round 1: fifthtoast attacks!
+Round 2: wall of meat takes 73 damage.
+Round 2: Nickle Plated Gumball launches his Witch Witch Alchemist missile for 23 damage.
+Round 2: wall of meat takes 23 damage.
+Round 2: You lose 54 hit points
+Round 2: fifthtoast casts STUFFED MORTAR SHELL!
+Round 3: Nickle Plated Gumball does a Spinning Salad attack on it with his capybara knee, doing 7 damage.
+Round 3: wall of meat takes 7 damage.
+Round 3: You lose 51 hit points
+Round 3: fifthtoast casts CANNELLONI CANNON!
+Round 4: wall of meat takes 110 damage.
+Round 4: Nickle Plated Gumball launches his Sleeping Plumber missile, hitting it for 29 damage.
+Round 4: wall of meat takes 29 damage.
+Round 4: wall of meat takes 189 damage.
+Round 4: You lose 58 hit points
+Round 4: fifthtoast casts CANNELLONI CANNON!
+Round 5: wall of meat takes 110 damage.
+Round 5: Nickle Plated Gumball launches his Mauve Motorcycle Dancing XIX missile for 29 damage.
+Round 5: wall of meat takes 29 damage.
+Round 5: You lose 62 hit points
+Round 5: fifthtoast casts NOODLES OF FIRE!
+Round 6: Nickle Plated Gumball throws an Ultimate Javelin punch with his ocelot arm, doing 9 damage.
+Round 6: wall of meat takes 9 damage.
+Round 6: wall of meat takes 49 damage.
+Round 6: fifthtoast casts ENTANGLING NOODLES!
+Round 7: Nickle Plated Gumball does a Thousand Tiny Cranes attack with his opossum shin, for 10 damage.
+Round 7: wall of meat takes 10 damage.
+Round 7: wall of meat takes 49 damage.
+Round 7: fifthtoast casts WEAPON OF THE PASTALORD!
+Round 8: wall of meat takes 306 damage.
+Round 8: Nickle Plated Gumball opens his visor and fires a White laser beam at it for 20 damage.
+Round 8: wall of meat takes 20 damage.
+Round 8: wall of meat takes 32 damage.
+Round 8: fifthtoast wins the fight!
+You gain 194 Meat
+After Battle: You gain 1 Strongness
+After Battle: You gain 12 Mysteriousness
+After Battle: You gain 6 Chutzpah
+
+equip hat Mark V Steam-Hat
+
+equip weapon world's smallest violin
+
+equip off-hand loadstone
+
+equip shirt Ye Olde Navy Fleece
+
+equip acc1 Baron von Ratsworth's money clip
+
+equip acc2 booty chest charrrm bracelet
+
+equip acc3 lucky rabbit's foot
+
+use 1 Mick's IcyVapoHotness Inhaler
+You acquire an effect: Sinuses For Miles (10)
+
+use 1 patent avarice tonic
+You acquire an effect: Patent Avarice (30)
+
+take from closet: 1 black striped oyster egg
+You acquire an item: black striped oyster egg
+
+chew 1 black striped oyster egg
+You acquire an effect: Egg-stortionary Tactics (20)
+
+use 1 perl necklace
+You acquire an effect: PERL of Great Price (20)
+
+take from closet: 1 black striped oyster egg
+You acquire an item: black striped oyster egg
+
+chew 1 black striped oyster egg
+You acquire an effect: Egg-stortionary Tactics (20)
+
+use 1 perl necklace
+You acquire an effect: PERL of Great Price (20)
+
+[2877] Tower Level 2
+Encounter: wall of meat
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent seems to want to attack you, but isn't willing to get any closer to SshoSobogopodopotototototo than it has to.
+Adjusted combat item count: red button (-5)
+Round 1: fifthtoast casts STUFFED MORTAR SHELL!
+Round 2: Nickle Plated Gumball does a Perpetuating Avocado kick on it for 16 damage with his pangolin foot.
+Round 2: wall of meat takes 16 damage.
+Round 2: You lose 51 hit points
+Round 2: fifthtoast casts CANNELLONI CANNON!
+Round 3: wall of meat takes 108 damage.
+Round 3: Nickle Plated Gumball does a Perpetuating Avocado kick on it for 14 damage with his pangolin foot.
+Round 3: wall of meat takes 14 damage.
+Round 3: wall of meat takes 171 damage.
+Round 3: You lose 48 hit points
+Round 3: fifthtoast uses the gauze garter and uses the New Age healing crystal!
+Round 4: You gain 106 hit points
+You acquire an item: New Age hurting crystal
+Round 4: You gain 500 hit points
+Round 4: Nickle Plated Gumball does a Soul Tornado kick on it for 11 damage with his lemur foot.
+Round 4: wall of meat takes 11 damage.
+Round 4: fifthtoast casts CANNELLONI CANNON!
+Round 5: wall of meat takes 108 damage.
+Round 5: Nickle Plated Gumball does a Spinning Salad attack on it with his capybara knee, doing 6 damage.
+Round 5: wall of meat takes 6 damage.
+Round 5: You lose 51 hit points
+Round 5: fifthtoast casts CANNELLONI CANNON!
+Round 6: wall of meat takes 108 damage.
+Round 6: Nickle Plated Gumball opens his mouth and fires a checked laser at it for 20 damage.
+Round 6: wall of meat takes 20 damage.
+Round 6: You lose 48 hit points
+Round 6: fifthtoast casts FIRE DEATH RAY!
+Round 7: wall of meat takes 25 damage.
+Round 7: Nickle Plated Gumball does a Spinning Salad attack on it with his capybara knee, doing 7 damage.
+Round 7: wall of meat takes 7 damage.
+Round 7: fifthtoast casts WEAPON OF THE PASTALORD!
+Round 8: wall of meat takes 244 damage.
+Round 8: Nickle Plated Gumball does a Soul Tornado kick on it for 9 damage with his lemur foot.
+Round 8: wall of meat takes 9 damage.
+Round 8: fifthtoast wins the fight!
+You gain 891 Meat
+After Battle: You gain 4 Strengthliness
+After Battle: You gain 14 Wizardliness
+You gain a Mysticality point!
+After Battle: You gain 3 Smarm
+
+[2878] Tower Level 3
+Encounter: wall of bones
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo slaps your opponent repeatedly in the face with noodly tentacles, preventing its attack. "Agh, cut that out!" it yells, annoyed.
+Round 1: fifthtoast uses the rusty bonesaw and uses the sausage bomb!
+Round 2: wall of bones takes 97 damage.
+Round 2: wall of bones drops 16 attack power.
+Round 2: wall of bones drops 20 defense.
+Round 2: wall of bones heals 97 hit points.
+Round 2: Nickle Plated Gumball does a Spinning Salad attack on it with his capybara knee, doing 14 damage.
+Round 2: wall of bones takes 14 damage.
+Round 2: wall of bones heals 14 hit points.
+Round 2: You lose 37 hit points
+Round 2: fifthtoast attacks!
+Round 3: wall of bones takes 7 damage.
+Round 3: wall of bones heals 7 hit points.
+Round 3: Nickle Plated Gumball opens a port on his breastplate and fires a ray of bologna for 19 damage.
+Round 3: wall of bones takes 19 damage.
+Round 3: wall of bones heals 19 hit points.
+Round 3: You lose 109 hit points
+Round 3: fifthtoast uses the ferret bait and uses the swirly potion!
+Round 4: wall of bones takes 54 damage.
+Round 4: wall of bones drops 5 attack power.
+Round 4: wall of bones drops 5 defense.
+Round 4: wall of bones heals 54 hit points.
+Round 4: Nickle Plated Gumball launches his Amber Caribou missile, exploding it for 22 damage.
+Round 4: wall of bones takes 22 damage.
+Round 4: wall of bones heals 22 hit points.
+Round 4: You lose 182 hit points
+
+[2879] Rest in your dwelling
+You lose an effect: Beaten Up (0)
+You gain 29 hit points
+You gain 30 Mana Points
+
+cast 1 Cannelloni Cocoon
+You gain 334 hit points
+
+[2880] The Castle in the Clouds in the Sky (Ground Floor)
+Encounter: Home on the Free Range
+Took choice 1026/2: electric boning knife, then skip adventure
+choice.php?pwd&whichchoice=1026&option=2
+You acquire an item: electric boning knife
+
+[2881] Tower Level 3
+Encounter: wall of bones
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo jumps in front of your opponent, preventing it from attacking you. "!!!", he shouts.
+Round 1: fifthtoast uses the electric boning knife and uses the swirly potion!
+Round 2: Nickle Plated Gumball throws a Dragon Taco knee on it for 14 damage with his gibbon knee.
+Round 2: wall of bones takes 14 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 22 Strongness
+You gain a Muscle point!
+After Battle: You gain 43 Magicalness
+After Battle: You gain 24 Sarcasm
+
+[2882] Tower Level 4
+Encounter: The Mirror in the Tower has the View that is True
+You acquire an intrinsic: Confidence!
+
+[2883] Tower Level 5
+Encounter: Shadow Cannelloni Conjurer
+Round 0: fifthtoast loses initiative!
+Round 1: Your opponent seems to want to attack you, but isn't willing to get any closer to SshoSobogopodopotototototo than it has to.
+Adjusted combat item count: swirly potion of teleportitis
+Round 1: fifthtoast uses the New Age healing crystal and uses the gauze garter!
+Round 2: You gain 83 hit points
+Round 2: You lose 159 hit points
+Adjusted combat item count: New Age healing crystal
+Round 2: fifthtoast uses the dark potion and uses the gauze garter!
+Round 3: You gain 82 hit points
+Round 3: You lose 164 hit points
+Adjusted combat item count: dark potion
+Round 3: fifthtoast uses the dark potion and uses the cloudy potion!
+Round 4: You lose 163 hit points
+
+cast 1 Tongue of the Walrus
+You gain 39 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Cannelloni Cocoon
+You gain 211 hit points
+
+use 1 phonics down
+You acquire an effect: Tingly Wrists (4)
+You gain 49 hit points
+You gain 48 Mana Points
+
+cast 1 Arched Eyebrow of the Archmage
+You acquire an effect: Arched Eyebrow of the Archmage (10)
+
+cast 5 Manicotti Meditation
+You acquire an effect: Pasta Oneness (25)
+
+cast 2 Shield of the Pastalord
+You acquire an effect: Shield of the Pastalord (20)
+
+cast 1 Springy Fusilli
+You acquire an effect: Springy Fusilli (10)
+
+[2884] Tower Level 5
+Encounter: Shadow Cannelloni Conjurer
+Round 0: fifthtoast wins initiative!
+Adjusted combat item count: cloudy potion
+Adjusted combat item count: dark potion
+Round 1: fifthtoast uses the red pixel potion and uses the gauze garter!
+Round 2: You gain 115 hit points
+Round 2: You gain 107 hit points
+Round 2: Your opponent starts to attack you, but SshoSobogopodopotototototo howls at it and blocks the attack. I'm not sure how to describe the howl; it kind of sounds like "&#37;&amp;&#37;!"
+Round 2: fifthtoast uses the red pixel potion and uses the gauze garter!
+Round 3: You gain 109 hit points
+Round 3: You gain 90 hit points
+Round 3: fifthtoast wins the fight!
+After Battle: You gain 21 Fortitude
+After Battle: You gain 34 Mysteriousness
+After Battle: You gain 17 Sarcasm
+
+[2885] The Naughty Sorceress' Chamber
+Encounter: A Thousand Copies of Agent Johnson
+Round 0: fifthtoast loses initiative!
+You lose an effect: Arched Eyebrow of the Archmage (1)
+You lose an effect: Ghostly Shell (1)
+You lose an effect: Shield of the Pastalord (1)
+You lose an effect: Astral Shell (1)
+You lose an effect: Springy Fusilli (1)
+You lose an effect: Egg-stortionary Tactics (1)
+You lose an effect: Sinuses For Miles (1)
+You lose an effect: Reptilian Fortitude (1)
+You lose an effect: PERL of Great Price (1)
+You lose an effect: Tingly Wrists (1)
+You lose an effect: Patent Avarice (1)
+You lose an effect: Pasta Oneness (1)
+Round 1: SshoSobogopodopotototototo jumps in front of your opponents, preventing them from attacking you. "!!!", he shouts.
+Round 1: fifthtoast attacks!
+Round 2: Nickle Plated Gumball cowers, terrified.
+Round 2: You lose 181 hit points
+Round 2: You lose 281 hit points
+
+cast 1 Tongue of the Walrus
+You gain 37 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Cannelloni Cocoon
+You gain 183 hit points
+
+equip hat Colander of Em-er'il
+
+equip weapon Wrath of the Capsaician Pastalords
+
+equip off-hand Glass Balls of the Goblin King
+
+equip shirt ASCII shirt
+
+equip acc1 astral ring
+
+equip acc2 World's Best Adventurer sash
+
+equip acc3 solid baconstone ring
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (1)
+Trivia card #110/1200:
+Question: What did Sir T. J. Cartwright, mayor of Routh, find when he opened the time capsule that had been buried under the Duke on Febtober 1st, 1643?
+Answer: The rubber steam-powered typewriter.
+
+use 1 Trivial Avocations Card: When?
+You acquire an effect: You Know When to Walk Away (1)
+Trivia card #337/1200:
+Question: According to <u>Hawks of the Ancient Swarm</u>, the book of prophecies revered by worshipers of The Skull Lord Diabolico, when was Diabolico, Lady of Glow Hollow, supposed to have enslaved us all?
+Answer: According to the old calendar, the twenty-seventh day of the Month of the Pelican in the Year of the Liverwurst.
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (1)
+Trivia card #617/1200:
+Question: Who wrote the critically-acclaimed graphic novel <u>Asteroid of the Super Lions</u>?
+Answer: Nobody.
+
+use 1 Trivial Avocations Card: Where?
+You lose an effect: You Know What's Up (-1)
+You lose an effect: You Know When to Walk Away (-1)
+You lose an effect: You Know Who to Call (-1)
+You acquire an effect: Trivia Master (30)
+Trivia card #1159/1200:
+Question: Where was Aldous XVII, King of Routh, executed?
+Answer: The Nameless Woods of Bafflesbury.
+
+use 1 handful of Laughing Willow bark
+You acquire an effect: Barking Mad (100)
+
+Visiting Our Lady of Perpetual Indecision 
+You gain 162 hit points
+
+[2886] The Naughty Sorceress' Chamber
+Encounter: A Thousand Copies of Agent Johnson
+Round 0: fifthtoast wins initiative!
+You lose an effect: Barking Mad (1)
+You lose an effect: Trivia Master (1)
+Round 1: SshoSobogopodopotototototo grabs your opponent by the face, but doesn't seem sure what to do with them after that. Your opponents, for their part, have decided to stand very still.
+Round 1: fifthtoast casts HUMILIATING HACK!
+Round 2: One Thousand Source Agents drops 250 attack power.
+Round 2: One Thousand Source Agents drops 250 defense.
+Round 2: Nickle Plated Gumball cowers, terrified.
+Round 2: fifthtoast casts DISARMAMENT!
+Round 3: Nickle Plated Gumball cowers, terrified.
+Round 3: fifthtoast casts SOURCE PUNCH!
+Round 4: One Thousand Source Agents takes 20 damage.
+Round 4: You gain 20 Mana Points
+Round 4: Nickle Plated Gumball cowers, terrified.
+Round 4: You lose 52 hit points
+Round 4: You lose 52 hit points
+Round 4: fifthtoast casts SOURCE PUNCH!
+Round 5: One Thousand Source Agents takes 20 damage.
+Round 5: You gain 20 Mana Points
+Round 5: Nickle Plated Gumball cowers, terrified.
+Round 5: fifthtoast casts SOURCE PUNCH!
+Round 6: One Thousand Source Agents takes 20 damage.
+Round 6: You gain 20 Mana Points
+Round 6: Nickle Plated Gumball cowers, terrified.
+Round 6: fifthtoast casts SOURCE PUNCH!
+Round 7: One Thousand Source Agents takes 20 damage.
+Round 7: You gain 20 Mana Points
+Round 7: Nickle Plated Gumball cowers, terrified.
+Round 7: fifthtoast casts SOURCE PUNCH!
+Round 8: One Thousand Source Agents takes 20 damage.
+Round 8: You gain 20 Mana Points
+Round 8: Nickle Plated Gumball cowers, terrified.
+Round 8: You lose 52 hit points
+Round 8: fifthtoast uses the red pixel potion and uses the gauze garter!
+Adjusted combat item count: gauze garter
+Adjusted combat item count: red pixel potion
+Round 9: fifthtoast attacks!
+Round 10: Nickle Plated Gumball cowers, terrified.
+Round 10: fifthtoast uses the Mountain Stream soda and uses the Mountain Stream soda!
+Round 11: You lose 5 hit points
+Adjusted combat item count: Mountain Stream soda (2)
+Round 11: fifthtoast attacks!
+Round 12: Nickle Plated Gumball cowers, terrified.
+Round 12: You lose 55 hit points
+Round 12: fifthtoast casts RETURN!
+
+cast 1 Cannelloni Cocoon
+You gain 216 hit points
+
+use 2 phonics down
+You acquire an effect: Tingly Biceps (3)
+You acquire an effect: Tingly Elbows (3)
+You gain 94 hit points
+You gain 95 Mana Points
+
+use 1 phonics down
+You acquire an effect: Tingly Elbows (3)
+You gain 48 hit points
+You gain 50 Mana Points
+
+use 1 phonics down
+You acquire an effect: Tingly Biceps (3)
+You gain 46 hit points
+You gain 50 Mana Points
+
+use 1 phonics down
+You acquire an effect: Tingly Elbows (5)
+You gain 47 hit points
+You gain 49 Mana Points
+
+use 4 carbonated soy milk
+You gain 292 Mana Points
+
+[2887] The Naughty Sorceress' Chamber
+Encounter: A Thousand Copies of Agent Johnson
+Round 0: fifthtoast wins initiative!
+You lose an effect: Tingly Elbows (1)
+You lose an effect: Tingly Biceps (1)
+Round 1: Your opponent seems to want to attack you, but isn't willing to get any closer to SshoSobogopodopotototototo than they have to.
+Round 1: fifthtoast casts HUMILIATING HACK!
+Round 2: One Thousand Source Agents drops 250 attack power.
+Round 2: One Thousand Source Agents drops 250 defense.
+Round 2: Nickle Plated Gumball cowers, terrified.
+Round 2: fifthtoast casts DISARMAMENT!
+Round 3: Nickle Plated Gumball cowers, terrified.
+Round 3: fifthtoast casts BIG GUNS!
+Round 4: One Thousand Source Agents takes 300 damage.
+Round 4: Nickle Plated Gumball cowers, terrified.
+Round 4: fifthtoast casts SOURCE KICK!
+Round 5: One Thousand Source Agents takes 50 damage.
+Round 5: You gain 50 Mana Points
+Round 5: Nickle Plated Gumball cowers, terrified.
+Round 5: fifthtoast casts SOURCE KICK!
+Round 6: You gain 50 Mana Points
+Round 6: Nickle Plated Gumball cowers, terrified.
+Round 6: fifthtoast casts SOURCE KICK!
+Round 7: One Thousand Source Agents takes 50 damage.
+Round 7: You gain 50 Mana Points
+Round 7: Nickle Plated Gumball cowers, terrified.
+Round 7: fifthtoast casts SOURCE KICK!
+Round 8: One Thousand Source Agents takes 50 damage.
+Round 8: You gain 50 Mana Points
+Round 8: Nickle Plated Gumball cowers, terrified.
+Round 8: fifthtoast casts SOURCE KICK!
+Round 9: One Thousand Source Agents takes 50 damage.
+Round 9: You gain 50 Mana Points
+Round 9: Nickle Plated Gumball cowers, terrified.
+Round 9: fifthtoast casts SOURCE KICK!
+Round 10: You gain 50 Mana Points
+Round 10: Nickle Plated Gumball cowers, terrified.
+Round 10: fifthtoast casts SOURCE KICK!
+Round 11: One Thousand Source Agents takes 50 damage.
+Round 11: You gain 50 Mana Points
+Round 11: Nickle Plated Gumball cowers, terrified.
+Round 11: fifthtoast casts SOURCE KICK!
+Round 12: One Thousand Source Agents takes 50 damage.
+Round 12: You gain 50 Mana Points
+Round 12: Nickle Plated Gumball cowers, terrified.
+Round 12: fifthtoast wins the fight!
+You acquire an item: Instant Karma
+You acquire an item: Thwaitgold moth statuette
+After Battle: You gain 1 Mysteriousness
+After Battle: You gain 2 Cheek
+
+[2888] Freeing King Ralph
+Buying trophy #11 at the Trophy Hut
+You spent 10,000 Meat
+
+museum.php?action=icehouse
+
+Cook 1 Sneaky Pete's key + 1 lime
+You acquire an item: Sneaky Pete's key lime
+Crafting used 1 each of Sneaky Pete's key and lime
+
+Cook 1 Jarlsberg's key + 1 lime
+You acquire an item: Jarlsberg's key lime
+Crafting used 1 each of Jarlsberg's key and lime
+
+Cook 2 Boris's key + 2 lime
+You acquire Boris's key lime (2)
+Crafting used 2 each of Boris's key and lime
+
+[2888] The Fungal Nethers
+Encounter: freaked-out mushroom guy
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent by the face, but doesn't seem sure what to do with it after that. Your opponent, for its part, has decided to stand very still.
+Round 1: fifthtoast attacks!
+Round 2: freaked-out mushroom guy takes 137 damage.
+Round 2: Nickle Plated Gumball does a Thousand Tiny Cranes attack with his opossum shin, for 7 damage.
+Round 2: freaked-out mushroom guy takes 7 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: paisley spore pod
+You acquire an item: Knoll mushroom
+After Battle: You gain 5 Strongness
+After Battle: You gain 6 Mysteriousness
+
+[2889] The Fungal Nethers
+Encounter: freaked-out mushroom guy
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo entangles himself in your opponent's legs, which results in it windmilling its arms comically and then falling on its face.
+Round 1: fifthtoast attacks!
+Round 2: freaked-out mushroom guy takes 140 damage.
+Round 2: Nickle Plated Gumball throws an Intimate Fashion attack with his armadillo shin, for 13 damage.
+Round 2: freaked-out mushroom guy takes 13 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: paisley spore pod
+After Battle: You gain 2 Strongness
+After Battle: You gain 5 Magicalness
+After Battle: You gain 2 Chutzpah
+
+[2890] The Fungal Nethers
+Encounter: wizardly mushroom guy
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo screeches a string of random punctuation at your opponent, who stops and covers its ears in pain.
+Round 1: fifthtoast attacks!
+Round 2: wizardly mushroom guy takes 131 damage.
+Round 2: Nickle Plated Gumball throws a Dragon Taco knee on it for 12 damage with his gibbon knee.
+Round 2: wizardly mushroom guy takes 12 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 3 Fortitude
+After Battle: You gain 6 Enchantedness
+After Battle: You gain 5 Smarm
+
+[2891] Itznotyerzitz Mine
+Encounter: dopey 7-Foot Dwarf
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo slaps your opponent repeatedly in the face with noodly tentacles, preventing his attack. "Agh, cut that out!" he yells, annoyed.
+Round 1: fifthtoast attacks!
+Round 2: dopey 7-Foot Dwarf takes 113 damage.
+Round 2: Nickle Plated Gumball does a Perpetuating Avocado kick on him for 7 damage with his pangolin foot.
+Round 2: dopey 7-Foot Dwarf takes 7 damage.
+Round 2: fifthtoast wins the fight!
+You gain 42 Meat
+After Battle: You gain 4 Strongness
+After Battle: You gain 7 Wizardliness
+After Battle: You gain 7 Chutzpah
+outfit Mining Gear
+
+[2892] Itznotyerzitz Mine (in Disguise)
+You acquire an item: loadstone
+
+[2893] Itznotyerzitz Mine (in Disguise)
+You acquire an item: asbestos ore
+
+[2894] Itznotyerzitz Mine (in Disguise)
+You acquire an item: asbestos ore
+
+[2895] Itznotyerzitz Mine (in Disguise)
+You acquire an item: linoleum ore
+
+[2896] Itznotyerzitz Mine (in Disguise)
+You acquire an item: lump of diamond
+
+[2897] Itznotyerzitz Mine (in Disguise)
+You acquire an item: lump of diamond
+
+[2898] Itznotyerzitz Mine (in Disguise)
+You acquire an item: lump of diamond
+
+[2899] Itznotyerzitz Mine (in Disguise)
+You lose 174 hit points
+
+[2900] Itznotyerzitz Mine (in Disguise)
+You acquire an item: lump of diamond
+
+[2901] Itznotyerzitz Mine (in Disguise)
+You acquire an item: chrome ore
+
+[2902] Itznotyerzitz Mine (in Disguise)
+You acquire an item: chrome ore
+
+[2903] Itznotyerzitz Mine (in Disguise)
+You lose 153 hit points
+
+[2904] Itznotyerzitz Mine (in Disguise)
+
+cast 1 Tongue of the Walrus
+You gain 40 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Cannelloni Cocoon
+You gain 147 hit points
+
+[2904] Itznotyerzitz Mine (in Disguise)
+You acquire an item: chrome ore
+
+[2905] Itznotyerzitz Mine (in Disguise)
+You acquire an item: chrome ore
+
+[2906] Itznotyerzitz Mine (in Disguise)
+You lose 121 hit points
+
+Visiting the Dwarven Factory Dormitory
+You lose 175 Meat
+BI-EJ=34
+You gain 147 Meat
+DG-AG=30
+
+[2907] The Mine Foremens' Office
+Encounter: Well, That Was Easy
+You acquire an item: thick padded envelope
+
+Visiting Blaine
+You gain 1,000 Meat
+
+[2908] Dwarven Factory Warehouse
+You acquire an item: linoleum ore
+
+[2909] Dwarven Factory Warehouse
+You acquire an item: lump of coal
+
+[2910] Dwarven Factory Warehouse
+You acquire an item: miner's helmet
+
+[2911] Dwarven Factory Warehouse
+You acquire an item: cog
+
+[2912] Dwarven Factory Warehouse
+You acquire an item: chrome ore
+
+[2913] Dwarven Factory Warehouse
+You acquire an item: linoleum ore
+
+Visiting the Bounty Hunter Hunter
+
+accept easy bounty assignment to collect 11 bundles of receipts
+
+equip hat Colander of Em-er'il
+
+equip weapon oil pan
+
+equip off-hand Glass Balls of the Goblin King
+
+equip pants Angelhair Culottes
+
+cast 1 Arched Eyebrow of the Archmage
+You acquire an effect: Arched Eyebrow of the Archmage (10)
+
+cast 5 Manicotti Meditation
+You acquire an effect: Pasta Oneness (25)
+
+cast 2 Shield of the Pastalord
+You acquire an effect: Shield of the Pastalord (20)
+
+cast 1 Springy Fusilli
+You acquire an effect: Springy Fusilli (10)
+
+[2914] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo slaps your opponent repeatedly in the face with noodly tentacles, preventing his attack. "Agh, cut that out!" he yells, annoyed.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin MBA takes 110 damage.
+Round 2: Nickle Plated Gumball opens his mouth and fires a ray of ketchup at him for 21 damage.
+Round 2: Knob Goblin MBA takes 21 damage.
+Round 2: fifthtoast wins the fight!
+You gain 69 Meat
+After Battle: You gain 2 Muscleboundness
+After Battle: You gain 5 Mysteriousness
+After Battle: You gain 5 Sarcasm
+
+[2915] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo screeches a string of random punctuation at your opponent, who stops and covers his ears in pain.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Bean Counter takes 110 damage.
+Round 2: Nickle Plated Gumball launches his Chartreuse Car Key Mating XIV missile for 33 damage.
+Round 2: Knob Goblin Bean Counter takes 33 damage.
+Round 2: fifthtoast wins the fight!
+You gain 53 Meat
+After Battle: You gain 4 Beefiness
+After Battle: You gain 5 Mysteriousness
+After Battle: You gain 4 Chutzpah
+You acquire a bounty item: bundle of receipts
+
+[2916] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo screeches a string of random punctuation at your opponent, who stops and covers his ears in pain.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Accountant takes 110 damage.
+Round 2: Nickle Plated Gumball does a Thousand Tiny Cranes attack with his opossum shin, for 18 damage.
+Round 2: Knob Goblin Accountant takes 18 damage.
+Round 2: fifthtoast wins the fight!
+You gain 54 Meat
+After Battle: You gain 3 Muscleboundness
+After Battle: You gain 6 Wizardliness
+After Battle: You gain 3 Smarm
+
+[2917] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo screeches a string of random punctuation at your opponent, who stops and covers his ears in pain.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Bean Counter takes 110 damage.
+Round 2: Nickle Plated Gumball throws an Ultimate Javelin punch with his ocelot arm, doing 18 damage.
+Round 2: Knob Goblin Bean Counter takes 18 damage.
+Round 2: fifthtoast wins the fight!
+You gain 62 Meat
+You acquire an item: hill of beans
+You acquire an item: Knob Goblin visor
+After Battle: You gain 3 Strengthliness
+After Battle: You gain 4 Magicalness
+After Battle: You gain 4 Roguishness
+You acquire a bounty item: bundle of receipts
+
+[2918] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo entangles himself in your opponent's legs, which results in him windmilling his arms comically and then falling on his face.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Bean Counter takes 110 damage.
+Round 2: Nickle Plated Gumball opens his mouth and fires a ray of malt vinegar at him for 22 damage.
+Round 2: Knob Goblin Bean Counter takes 22 damage.
+Round 2: fifthtoast wins the fight!
+You gain 68 Meat
+After Battle: You gain 2 Fortitude
+After Battle: You gain 2 Mysteriousness
+After Battle: You gain 5 Smarm
+You acquire a bounty item: bundle of receipts
+
+[2919] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent starts to attack you, but SshoSobogopodopotototototo howls at him and blocks the attack. I'm not sure how to describe the howl; it kind of sounds like "&#37;&amp;&#37;!"
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Accountant takes 220 damage.
+Round 2: Nickle Plated Gumball launches his Skiing Butler missile, hitting him for 33 damage.
+Round 2: Knob Goblin Accountant takes 33 damage.
+Round 2: fifthtoast wins the fight!
+You gain 49 Meat
+You acquire an item: flimsy clipboard
+After Battle: You gain 2 Strengthliness
+After Battle: You gain 5 Magicalness
+After Battle: You gain 2 Roguishness
+
+[2920] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo screeches a string of random punctuation at your opponent, who stops and covers his ears in pain.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin MBA takes 110 damage.
+Round 2: Nickle Plated Gumball does a Perpetuating Avocado kick on him for 8 damage with his pangolin foot.
+Round 2: Knob Goblin MBA takes 8 damage.
+Round 2: fifthtoast wins the fight!
+You gain 75 Meat
+You acquire an item: meat stack
+After Battle: You gain 1 Strongness
+After Battle: You gain 6 Mysteriousness
+After Battle: You gain 3 Cheek
+
+[2921] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo jumps in front of your opponent, preventing him from attacking you. "!!!", he shouts.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Accountant takes 110 damage.
+Round 2: Nickle Plated Gumball launches his My Hunter Sakura missile for 29 damage.
+Round 2: Knob Goblin Accountant takes 29 damage.
+Round 2: fifthtoast wins the fight!
+You gain 53 Meat
+You acquire an item: flimsy clipboard
+After Battle: You gain 4 Muscleboundness
+After Battle: You gain 4 Mysteriousness
+After Battle: You gain 4 Cheek
+
+[2922] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent seems to want to attack you, but isn't willing to get any closer to SshoSobogopodopotototototo than he has to.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin MBA takes 110 damage.
+Round 2: Nickle Plated Gumball throws an Intimate Fashion attack with his armadillo shin, for 13 damage.
+Round 2: Knob Goblin MBA takes 13 damage.
+Round 2: fifthtoast wins the fight!
+You gain 77 Meat
+After Battle: You gain 1 Strongness
+After Battle: You gain 5 Wizardliness
+After Battle: You gain 3 Smarm
+
+cast 1 Arched Eyebrow of the Archmage
+You acquire an effect: Arched Eyebrow of the Archmage (10)
+
+cast 1 Springy Fusilli
+You acquire an effect: Springy Fusilli (10)
+
+[2923] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo slaps your opponent repeatedly in the face with noodly tentacles, preventing his attack. "Agh, cut that out!" he yells, annoyed.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Accountant takes 220 damage.
+Round 2: Nickle Plated Gumball throws an Ultimate Javelin punch with his ocelot arm, doing 14 damage.
+Round 2: Knob Goblin Accountant takes 14 damage.
+Round 2: fifthtoast wins the fight!
+You gain 41 Meat
+You acquire an item: meat stack
+After Battle: You gain 1 Beefiness
+After Battle: You gain 6 Magicalness
+After Battle: You gain 4 Chutzpah
+
+[2924] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo jumps in front of your opponent, preventing him from attacking you. "!!!", he shouts.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Bean Counter takes 110 damage.
+Round 2: Nickle Plated Gumball throws an Ultimate Javelin punch with his ocelot arm, doing 18 damage.
+Round 2: Knob Goblin Bean Counter takes 18 damage.
+Round 2: fifthtoast wins the fight!
+You gain 53 Meat
+You acquire an item: Knob Goblin visor
+After Battle: You gain 1 Fortitude
+After Battle: You gain 8 Magicalness
+After Battle: You gain 4 Smarm
+You acquire a bounty item: bundle of receipts
+
+[2925] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent's wrist with its noodly appendages, preventing his attack.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Bean Counter takes 110 damage.
+Round 2: Nickle Plated Gumball does a Spinning Salad attack on him with his capybara knee, doing 13 damage.
+Round 2: Knob Goblin Bean Counter takes 13 damage.
+Round 2: fifthtoast wins the fight!
+You gain 68 Meat
+You acquire an item: hill of beans
+After Battle: You gain 3 Fortitude
+After Battle: You gain 8 Magicalness
+After Battle: You gain 2 Smarm
+You acquire a bounty item: bundle of receipts
+
+[2926] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent seems to want to attack you, but isn't willing to get any closer to SshoSobogopodopotototototo than he has to.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Accountant takes 110 damage.
+Round 2: Nickle Plated Gumball throws an Intimate Fashion attack with his armadillo shin, for 8 damage.
+Round 2: Knob Goblin Accountant takes 8 damage.
+Round 2: fifthtoast wins the fight!
+You gain 50 Meat
+After Battle: You gain 6 Strongness
+After Battle: You gain 1 Magicalness
+After Battle: You gain 4 Roguishness
+
+[2927] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent starts to attack you, but SshoSobogopodopotototototo howls at him and blocks the attack. I'm not sure how to describe the howl; it kind of sounds like "&#37;&amp;&#37;!"
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Bean Counter takes 220 damage.
+Round 2: Nickle Plated Gumball throws a Dragon Taco knee on him for 17 damage with his gibbon knee.
+Round 2: Knob Goblin Bean Counter takes 17 damage.
+Round 2: fifthtoast wins the fight!
+You gain 57 Meat
+You acquire an item: hill of beans
+You acquire an item: Knob Goblin visor
+After Battle: You gain 3 Strengthliness
+After Battle: You gain 3 Enchantedness
+After Battle: You gain 3 Cheek
+You acquire a bounty item: bundle of receipts
+
+[2928] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent by the face, but doesn't seem sure what to do with him after that. Your opponent, for his part, has decided to stand very still.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin MBA takes 110 damage.
+Round 2: Nickle Plated Gumball opens a port on his breastplate and fires a ray of salami for 19 damage.
+Round 2: Knob Goblin MBA takes 19 damage.
+Round 2: fifthtoast wins the fight!
+You gain 61 Meat
+After Battle: You gain 4 Strengthliness
+After Battle: You gain 4 Wizardliness
+After Battle: You gain 3 Cheek
+
+[2929] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent starts to attack you, but SshoSobogopodopotototototo howls at him and blocks the attack. I'm not sure how to describe the howl; it kind of sounds like "&#37;&amp;&#37;!"
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin MBA takes 110 damage.
+Round 2: Nickle Plated Gumball does a Spinning Salad attack on him with his capybara knee, doing 18 damage.
+Round 2: Knob Goblin MBA takes 18 damage.
+Round 2: fifthtoast wins the fight!
+You gain 82 Meat
+After Battle: You gain 2 Strongness
+After Battle: You gain 7 Enchantedness
+After Battle: You gain 2 Chutzpah
+
+[2930] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent starts to attack you, but SshoSobogopodopotototototo howls at him and blocks the attack. I'm not sure how to describe the howl; it kind of sounds like "&#37;&amp;&#37;!"
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Accountant takes 110 damage.
+Round 2: Nickle Plated Gumball launches his Chartreuse Pelican missile, exploding him for 21 damage.
+Round 2: Knob Goblin Accountant takes 21 damage.
+Round 2: fifthtoast wins the fight!
+You gain 43 Meat
+You acquire an item: meat stack
+After Battle: You gain 5 Fortitude
+After Battle: You gain 7 Mysteriousness
+
+[2931] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo entangles himself in your opponent's legs, which results in him windmilling his arms comically and then falling on his face.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin MBA takes 110 damage.
+Round 2: Nickle Plated Gumball does a Soul Tornado kick on him for 18 damage with his lemur foot.
+Round 2: Knob Goblin MBA takes 18 damage.
+Round 2: fifthtoast wins the fight!
+You gain 70 Meat
+After Battle: You gain 1 Strengthliness
+After Battle: You gain 5 Wizardliness
+After Battle: You gain 3 Smarm
+
+[2932] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo entangles himself in your opponent's legs, which results in him windmilling his arms comically and then falling on his face.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Accountant takes 110 damage.
+Round 2: Nickle Plated Gumball does a Perpetuating Avocado kick on him for 8 damage with his pangolin foot.
+Round 2: Knob Goblin Accountant takes 8 damage.
+Round 2: fifthtoast wins the fight!
+You gain 47 Meat
+After Battle: You gain 3 Beefiness
+After Battle: You gain 5 Mysteriousness
+
+cast 1 Arched Eyebrow of the Archmage
+You acquire an effect: Arched Eyebrow of the Archmage (10)
+
+cast 2 Shield of the Pastalord
+You acquire an effect: Shield of the Pastalord (20)
+
+cast 1 Springy Fusilli
+You acquire an effect: Springy Fusilli (10)
+
+[2933] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo slaps your opponent repeatedly in the face with noodly tentacles, preventing his attack. "Agh, cut that out!" he yells, annoyed.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Accountant takes 110 damage.
+Round 2: Nickle Plated Gumball throws a Dragon Taco knee on him for 12 damage with his gibbon knee.
+Round 2: Knob Goblin Accountant takes 12 damage.
+Round 2: fifthtoast wins the fight!
+You gain 46 Meat
+After Battle: You gain 6 Enchantedness
+After Battle: You gain 2 Sarcasm
+
+[2934] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo entangles himself in your opponent's legs, which results in him windmilling his arms comically and then falling on his face.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Bean Counter takes 110 damage.
+Round 2: Nickle Plated Gumball opens a port on his codpiece and releases a ray of chocolate chip cookies for 13 damage.
+Round 2: Knob Goblin Bean Counter takes 13 damage.
+Round 2: fifthtoast wins the fight!
+You gain 58 Meat
+After Battle: You gain 4 Strengthliness
+After Battle: You gain 6 Magicalness
+You acquire a bounty item: bundle of receipts
+
+[2935] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent seems to want to attack you, but isn't willing to get any closer to SshoSobogopodopotototototo than he has to.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin MBA takes 110 damage.
+Round 2: Nickle Plated Gumball throws an Intimate Fashion attack with his armadillo shin, for 18 damage.
+Round 2: Knob Goblin MBA takes 18 damage.
+Round 2: fifthtoast wins the fight!
+You gain 67 Meat
+You acquire an item: meat stack
+After Battle: You gain 6 Wizardliness
+After Battle: You gain 4 Roguishness
+
+[2936] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent by the face, but doesn't seem sure what to do with him after that. Your opponent, for his part, has decided to stand very still.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Bean Counter takes 110 damage.
+Round 2: Nickle Plated Gumball throws an Ultimate Javelin punch with his ocelot arm, doing 10 damage.
+Round 2: Knob Goblin Bean Counter takes 10 damage.
+Round 2: fifthtoast wins the fight!
+You gain 72 Meat
+You acquire an item: hill of beans
+After Battle: You gain 2 Strengthliness
+After Battle: You gain 8 Wizardliness
+After Battle: You gain 3 Roguishness
+You acquire a bounty item: bundle of receipts
+
+[2937] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo slaps your opponent repeatedly in the face with noodly tentacles, preventing his attack. "Agh, cut that out!" he yells, annoyed.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Bean Counter takes 110 damage.
+Round 2: Nickle Plated Gumball throws a Devilish Indigo punch with his wombat arm, doing 7 damage.
+Round 2: Knob Goblin Bean Counter takes 7 damage.
+Round 2: fifthtoast wins the fight!
+You gain 55 Meat
+You acquire an item: hill of beans
+After Battle: You gain 4 Muscleboundness
+After Battle: You gain 5 Magicalness
+After Battle: You gain 4 Cheek
+You acquire a bounty item: bundle of receipts
+
+cast 5 Manicotti Meditation
+You acquire an effect: Pasta Oneness (25)
+
+[2938] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo screeches a string of random punctuation at your opponent, who stops and covers his ears in pain.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin MBA takes 110 damage.
+Round 2: Nickle Plated Gumball does a Spinning Salad attack on him with his capybara knee, doing 12 damage.
+Round 2: Knob Goblin MBA takes 12 damage.
+Round 2: fifthtoast wins the fight!
+You gain 75 Meat
+You acquire an item: meat stack
+After Battle: You gain 5 Fortitude
+After Battle: You gain 4 Magicalness
+After Battle: You gain 4 Smarm
+
+[2939] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo entangles himself in your opponent's legs, which results in him windmilling his arms comically and then falling on his face.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Bean Counter takes 110 damage.
+Round 2: Nickle Plated Gumball throws an Ultimate Javelin punch with his ocelot arm, doing 11 damage.
+Round 2: Knob Goblin Bean Counter takes 11 damage.
+Round 2: fifthtoast wins the fight!
+You gain 56 Meat
+After Battle: You gain 5 Muscleboundness
+After Battle: You gain 3 Magicalness
+After Battle: You gain 5 Sarcasm
+You acquire a bounty item: bundle of receipts
+
+[2940] Cobb's Knob Treasury
+Encounter: Meat Score!
+You gain 500 Meat
+
+[2941] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent starts to attack you, but SshoSobogopodopotototototo howls at him and blocks the attack. I'm not sure how to describe the howl; it kind of sounds like "&#37;&amp;&#37;!"
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Accountant takes 110 damage.
+Round 2: Nickle Plated Gumball throws an Intimate Fashion attack with his armadillo shin, for 14 damage.
+Round 2: Knob Goblin Accountant takes 14 damage.
+Round 2: fifthtoast wins the fight!
+You gain 50 Meat
+You acquire an item: flimsy clipboard
+After Battle: You gain 2 Fortitude
+After Battle: You gain 5 Magicalness
+After Battle: You gain 2 Roguishness
+
+[2942] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo jumps in front of your opponent, preventing him from attacking you. "!!!", he shouts.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin MBA takes 110 damage.
+Round 2: Nickle Plated Gumball does a Perpetuating Avocado kick on him for 11 damage with his pangolin foot.
+Round 2: Knob Goblin MBA takes 11 damage.
+Round 2: fifthtoast wins the fight!
+You gain 64 Meat
+After Battle: You gain 2 Strengthliness
+After Battle: You gain 3 Mysteriousness
+After Battle: You gain 6 Roguishness
+
+cast 1 Arched Eyebrow of the Archmage
+You acquire an effect: Arched Eyebrow of the Archmage (10)
+
+cast 1 Springy Fusilli
+You acquire an effect: Springy Fusilli (10)
+
+[2943] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent starts to attack you, but SshoSobogopodopotototototo howls at him and blocks the attack. I'm not sure how to describe the howl; it kind of sounds like "&#37;&amp;&#37;!"
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Accountant takes 110 damage.
+Round 2: Nickle Plated Gumball throws an Ultimate Javelin punch with his ocelot arm, doing 13 damage.
+Round 2: Knob Goblin Accountant takes 13 damage.
+Round 2: fifthtoast wins the fight!
+You gain 52 Meat
+After Battle: You gain 4 Fortitude
+After Battle: You gain 4 Mysteriousness
+After Battle: You gain 2 Cheek
+You gain a Moxie point!
+
+[2944] Cobb's Knob Treasury
+Encounter: Meat Score!
+You gain 500 Meat
+
+[2945] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo slaps your opponent repeatedly in the face with noodly tentacles, preventing his attack. "Agh, cut that out!" he yells, annoyed.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin MBA takes 110 damage.
+Round 2: Nickle Plated Gumball does a Spinning Salad attack on him with his capybara knee, doing 14 damage.
+Round 2: Knob Goblin MBA takes 14 damage.
+Round 2: fifthtoast wins the fight!
+You gain 62 Meat
+You acquire an item: meat stack
+After Battle: You gain 3 Fortitude
+After Battle: You gain 4 Enchantedness
+After Battle: You gain 6 Sarcasm
+
+[2946] Cobb's Knob Treasury
+Encounter: Meat Score!
+You gain 500 Meat
+
+[2947] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent seems to want to attack you, but isn't willing to get any closer to SshoSobogopodopotototototo than he has to.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Bean Counter takes 110 damage.
+Round 2: Nickle Plated Gumball opens his mouth and fires a plaid laser at him for 12 damage.
+Round 2: Knob Goblin Bean Counter takes 12 damage.
+Round 2: fifthtoast wins the fight!
+You gain 58 Meat
+You acquire an item: hill of beans
+After Battle: You gain 2 Strongness
+After Battle: You gain 6 Mysteriousness
+You acquire a bounty item: bundle of receipts
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+[2948] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo jumps in front of your opponent, preventing him from attacking you. "!!!", he shouts.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Accountant takes 110 damage.
+Round 2: Nickle Plated Gumball opens a port on his codpiece and releases a ray of soup for 19 damage.
+Round 2: Knob Goblin Accountant takes 19 damage.
+Round 2: fifthtoast wins the fight!
+You gain 43 Meat
+You acquire an item: meat stack
+After Battle: You gain 4 Strengthliness
+After Battle: You gain 6 Wizardliness
+
+[2949] Cobb's Knob Treasury
+Encounter: Knob Goblin Accountant
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent seems to want to attack you, but isn't willing to get any closer to SshoSobogopodopotototototo than he has to.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Accountant takes 110 damage.
+Round 2: Nickle Plated Gumball opens a port on his breastplate and fires a ray of corned beef for 17 damage.
+Round 2: Knob Goblin Accountant takes 17 damage.
+Round 2: fifthtoast wins the fight!
+You gain 49 Meat
+After Battle: You gain 6 Enchantedness
+After Battle: You gain 5 Smarm
+
+[2950] Cobb's Knob Treasury
+Encounter: Meat Score!
+You gain 500 Meat
+
+[2951] Cobb's Knob Treasury
+Encounter: Knob Goblin MBA
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent's wrist with its noodly appendages, preventing his attack.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin MBA takes 110 damage.
+Round 2: Nickle Plated Gumball launches his Onegai 1/2 missile for 28 damage.
+Round 2: Knob Goblin MBA takes 2 damage.
+Round 2: fifthtoast wins the fight!
+You gain 77 Meat
+You acquire an item: baggie of powdered sugar
+After Battle: You gain 5 Muscleboundness
+After Battle: You gain 2 Wizardliness
+After Battle: You gain 6 Smarm
+
+[2952] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent's wrist with its noodly appendages, preventing his attack.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Bean Counter takes 110 damage.
+Round 2: Nickle Plated Gumball does a Perpetuating Avocado kick on him for 12 damage with his pangolin foot.
+Round 2: Knob Goblin Bean Counter takes 12 damage.
+Round 2: fifthtoast wins the fight!
+You gain 58 Meat
+You acquire an item: Knob Goblin visor
+After Battle: You gain 1 Beefiness
+After Battle: You gain 5 Wizardliness
+After Battle: You gain 4 Chutzpah
+
+cast 1 Arched Eyebrow of the Archmage
+You acquire an effect: Arched Eyebrow of the Archmage (10)
+
+cast 2 Shield of the Pastalord
+You acquire an effect: Shield of the Pastalord (20)
+
+cast 1 Springy Fusilli
+You acquire an effect: Springy Fusilli (10)
+
+[2953] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo entangles himself in your opponent's legs, which results in him windmilling his arms comically and then falling on his face.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Bean Counter takes 110 damage.
+Round 2: Nickle Plated Gumball does a Perpetuating Avocado kick on him for 14 damage with his pangolin foot.
+Round 2: Knob Goblin Bean Counter takes 14 damage.
+Round 2: fifthtoast wins the fight!
+You gain 57 Meat
+After Battle: You gain 1 Muscleboundness
+After Battle: You gain 8 Magicalness
+After Battle: You gain 4 Chutzpah
+
+[2954] Cobb's Knob Treasury
+Encounter: Knob Goblin Bean Counter
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo jumps in front of your opponent, preventing him from attacking you. "!!!", he shouts.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: Knob Goblin Bean Counter takes 110 damage.
+Round 2: Nickle Plated Gumball throws an Intimate Fashion attack with his armadillo shin, for 18 damage.
+Round 2: Knob Goblin Bean Counter takes 18 damage.
+Round 2: fifthtoast wins the fight!
+You gain 61 Meat
+You acquire an item: hill of beans
+After Battle: You gain 4 Strongness
+After Battle: You gain 5 Mysteriousness
+After Battle: You gain 3 Smarm
+
+[2955] Cobb's Knob Treasury
+Encounter: Treasury Chest
+You gain 300 Meat
+
+Visiting the Bounty Hunter Hunter
+
+accept hard bounty assignment to collect 13 haunted pullstrings
+
+[2956] The Haunted Nursery
+Encounter: spooky music box
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo screeches a string of random punctuation at your opponent, who stops and covers its ears in pain.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: spooky music box takes 110 damage.
+Round 2: Nickle Plated Gumball throws a Dragon Taco knee on it for 7 damage with his gibbon knee.
+Round 2: spooky music box takes 7 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: tiny dancer
+After Battle: You gain 5 Fortitude
+After Battle: You gain 10 Magicalness
+After Battle: You gain 8 Chutzpah
+
+[2957] The Haunted Nursery
+Encounter: possessed toy chest
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent starts to attack you, but SshoSobogopodopotototototo howls at it and blocks the attack. I'm not sure how to describe the howl; it kind of sounds like "&#37;&amp;&#37;!"
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: possessed toy chest takes 220 damage.
+Round 2: Nickle Plated Gumball throws a Devilish Indigo punch with his wombat arm, doing 10 damage.
+Round 2: possessed toy chest takes 10 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 6 Strongness
+After Battle: You gain 13 Enchantedness
+You gain a Mysticality point!
+After Battle: You gain 6 Roguishness
+
+[2958] The Haunted Nursery
+Encounter: possessed toy chest
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo slaps your opponent repeatedly in the face with noodly tentacles, preventing its attack. "Agh, cut that out!" it yells, annoyed.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: possessed toy chest takes 110 damage.
+Round 2: Nickle Plated Gumball throws a Dragon Taco knee on it for 11 damage with his gibbon knee.
+Round 2: possessed toy chest takes 11 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 8 Strongness
+After Battle: You gain 7 Wizardliness
+After Battle: You gain 11 Sarcasm
+
+[2959] The Haunted Nursery
+Encounter: possessed toy chest
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo jumps in front of your opponent, preventing it from attacking you. "!!!", he shouts.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: possessed toy chest takes 110 damage.
+Round 2: Nickle Plated Gumball does a Soul Tornado kick on it for 16 damage with his lemur foot.
+Round 2: possessed toy chest takes 16 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 4 Beefiness
+After Battle: You gain 12 Wizardliness
+After Battle: You gain 10 Smarm
+
+[2960] The Haunted Nursery
+Encounter: possessed toy chest
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent by the face, but doesn't seem sure what to do with it after that. Your opponent, for its part, has decided to stand very still.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: possessed toy chest takes 110 damage.
+Round 2: Nickle Plated Gumball throws a Dragon Taco knee on it for 6 damage with his gibbon knee.
+Round 2: possessed toy chest takes 6 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 3 Beefiness
+After Battle: You gain 14 Enchantedness
+After Battle: You gain 5 Roguishness
+
+[2961] The Haunted Nursery
+Encounter: creepy doll
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent's wrist with its noodly appendages, preventing its attack.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: creepy doll takes 110 damage.
+Round 2: Nickle Plated Gumball throws an Intimate Fashion attack with his armadillo shin, for 14 damage.
+Round 2: creepy doll takes 14 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 7 Fortitude
+After Battle: You gain 14 Wizardliness
+After Battle: You gain 6 Cheek
+You acquire a bounty item: haunted pullstring
+
+[2962] The Haunted Nursery
+Encounter: spooky music box
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent starts to attack you, but SshoSobogopodopotototototo howls at it and blocks the attack. I'm not sure how to describe the howl; it kind of sounds like "&#37;&amp;&#37;!"
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: spooky music box takes 110 damage.
+Round 2: Nickle Plated Gumball launches his Smoking Doctor missile, hitting it for 23 damage.
+Round 2: spooky music box takes 23 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: tiny dancer
+After Battle: You gain 6 Strongness
+After Battle: You gain 14 Enchantedness
+After Battle: You gain 5 Sarcasm
+
+cast 1 Arched Eyebrow of the Archmage
+You acquire an effect: Arched Eyebrow of the Archmage (10)
+
+cast 5 Manicotti Meditation
+You acquire an effect: Pasta Oneness (25)
+
+cast 1 Springy Fusilli
+You acquire an effect: Springy Fusilli (10)
+
+[2963] The Haunted Nursery
+Encounter: spooky music box
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent starts to attack you, but SshoSobogopodopotototototo howls at it and blocks the attack. I'm not sure how to describe the howl; it kind of sounds like "&#37;&amp;&#37;!"
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: spooky music box takes 440 damage.
+Round 2: Nickle Plated Gumball launches his Furi 1/2 missile for 27 damage.
+Round 2: spooky music box takes 2 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 8 Strengthliness
+After Battle: You gain 11 Enchantedness
+After Battle: You gain 7 Cheek
+
+[2964] The Haunted Nursery
+Encounter: spooky music box
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo slaps your opponent repeatedly in the face with noodly tentacles, preventing its attack. "Agh, cut that out!" it yells, annoyed.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: spooky music box takes 220 damage.
+Round 2: Nickle Plated Gumball does a Spinning Salad attack on it with his capybara knee, doing 17 damage.
+Round 2: spooky music box takes 17 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 5 Strengthliness
+After Battle: You gain 11 Magicalness
+After Battle: You gain 8 Chutzpah
+
+[2965] The Haunted Nursery
+Encounter: spooky music box
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent starts to attack you, but SshoSobogopodopotototototo howls at it and blocks the attack. I'm not sure how to describe the howl; it kind of sounds like "&#37;&amp;&#37;!"
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: spooky music box takes 110 damage.
+Round 2: Nickle Plated Gumball throws a Dragon Taco knee on it for 17 damage with his gibbon knee.
+Round 2: spooky music box takes 17 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 2 Muscleboundness
+After Battle: You gain 16 Mysteriousness
+After Battle: You gain 6 Chutzpah
+
+[2966] The Haunted Nursery
+Encounter: creepy doll
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent starts to attack you, but SshoSobogopodopotototototo howls at it and blocks the attack. I'm not sure how to describe the howl; it kind of sounds like "&#37;&amp;&#37;!"
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: creepy doll takes 220 damage.
+Round 2: Nickle Plated Gumball does a Spinning Salad attack on it with his capybara knee, doing 11 damage.
+Round 2: creepy doll takes 11 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 6 Muscleboundness
+After Battle: You gain 16 Enchantedness
+After Battle: You gain 5 Smarm
+You acquire a bounty item: haunted pullstring
+
+[2967] The Haunted Nursery
+Encounter: creepy doll
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent's wrist with its noodly appendages, preventing its attack.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: creepy doll takes 220 damage.
+Round 2: Nickle Plated Gumball does a Spinning Salad attack on it with his capybara knee, doing 11 damage.
+Round 2: creepy doll takes 11 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 6 Beefiness
+After Battle: You gain 13 Enchantedness
+After Battle: You gain 6 Roguishness
+You acquire a bounty item: haunted pullstring
+
+[2968] The Haunted Nursery
+Encounter: possessed toy chest
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo screeches a string of random punctuation at your opponent, who stops and covers its ears in pain.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: possessed toy chest takes 220 damage.
+Round 2: Nickle Plated Gumball throws an Intimate Fashion attack with his armadillo shin, for 17 damage.
+Round 2: possessed toy chest takes 17 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 4 Beefiness
+You gain a Muscle point!
+After Battle: You gain 14 Enchantedness
+After Battle: You gain 7 Roguishness
+
+[2969] The Haunted Nursery
+Encounter: spooky music box
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo jumps in front of your opponent, preventing it from attacking you. "!!!", he shouts.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: spooky music box takes 110 damage.
+Round 2: Nickle Plated Gumball throws a Dragon Taco knee on it for 15 damage with his gibbon knee.
+Round 2: spooky music box takes 15 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 7 Beefiness
+After Battle: You gain 9 Magicalness
+After Battle: You gain 9 Roguishness
+
+[2970] The Haunted Nursery
+Encounter: possessed toy chest
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo slaps your opponent repeatedly in the face with noodly tentacles, preventing its attack. "Agh, cut that out!" it yells, annoyed.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: possessed toy chest takes 220 damage.
+Round 2: Nickle Plated Gumball does a Spinning Salad attack on it with his capybara knee, doing 9 damage.
+Round 2: possessed toy chest takes 9 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 4 Beefiness
+After Battle: You gain 14 Mysteriousness
+After Battle: You gain 6 Cheek
+
+[2971] The Haunted Nursery
+Encounter: creepy doll
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent by the face, but doesn't seem sure what to do with it after that. Your opponent, for its part, has decided to stand very still.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: creepy doll takes 440 damage.
+Round 2: Nickle Plated Gumball throws a Devilish Indigo punch with his wombat arm, doing 18 damage.
+Round 2: creepy doll takes 18 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 9 Strongness
+After Battle: You gain 13 Enchantedness
+After Battle: You gain 4 Chutzpah
+You acquire a bounty item: haunted pullstring
+
+[2972] The Haunted Nursery
+Encounter: spooky music box
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent by the face, but doesn't seem sure what to do with it after that. Your opponent, for its part, has decided to stand very still.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: spooky music box takes 220 damage.
+Round 2: Nickle Plated Gumball does a Perpetuating Avocado kick on it for 6 damage with his pangolin foot.
+Round 2: spooky music box takes 6 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 5 Fortitude
+After Battle: You gain 14 Wizardliness
+After Battle: You gain 4 Roguishness
+
+cast 1 Arched Eyebrow of the Archmage
+You acquire an effect: Arched Eyebrow of the Archmage (10)
+
+cast 2 Shield of the Pastalord
+You acquire an effect: Shield of the Pastalord (20)
+
+cast 1 Springy Fusilli
+You acquire an effect: Springy Fusilli (10)
+
+[2973] The Haunted Nursery
+Encounter: creepy doll
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent by the face, but doesn't seem sure what to do with it after that. Your opponent, for its part, has decided to stand very still.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: creepy doll takes 220 damage.
+Round 2: Nickle Plated Gumball throws a Devilish Indigo punch with his wombat arm, doing 13 damage.
+Round 2: creepy doll takes 13 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 3 Strengthliness
+After Battle: You gain 16 Enchantedness
+After Battle: You gain 8 Roguishness
+You acquire a bounty item: haunted pullstring
+
+[2974] The Haunted Nursery
+Encounter: possessed toy chest
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo entangles himself in your opponent's legs, which results in it windmilling its arms comically and then falling on its face.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: possessed toy chest takes 110 damage.
+Round 2: Nickle Plated Gumball opens his visor and fires a Indigo laser beam at it for 13 damage.
+Round 2: possessed toy chest takes 13 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: spooky sound effects record
+After Battle: You gain 6 Strongness
+After Battle: You gain 14 Mysteriousness
+After Battle: You gain 6 Smarm
+
+[2975] The Haunted Nursery
+Encounter: creepy doll
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo jumps in front of your opponent, preventing it from attacking you. "!!!", he shouts.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: creepy doll takes 220 damage.
+Round 2: Nickle Plated Gumball does a Perpetuating Avocado kick on it for 9 damage with his pangolin foot.
+Round 2: creepy doll takes 9 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 7 Strongness
+After Battle: You gain 13 Wizardliness
+After Battle: You gain 7 Roguishness
+You acquire a bounty item: haunted pullstring
+
+[2976] The Haunted Nursery
+Encounter: possessed toy chest
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent seems to want to attack you, but isn't willing to get any closer to SshoSobogopodopotototototo than it has to.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: possessed toy chest takes 110 damage.
+Round 2: Nickle Plated Gumball launches his Spirited Away missile for 32 damage.
+Round 2: possessed toy chest takes 32 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 5 Muscleboundness
+After Battle: You gain 13 Magicalness
+After Battle: You gain 6 Sarcasm
+
+[2977] The Haunted Nursery
+Encounter: creepy doll
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent by the face, but doesn't seem sure what to do with it after that. Your opponent, for its part, has decided to stand very still.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: creepy doll takes 220 damage.
+Round 2: Nickle Plated Gumball throws an Ultimate Javelin punch with his ocelot arm, doing 13 damage.
+Round 2: creepy doll takes 13 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: creepy doll head
+You acquire an item: droopy doll eye
+After Battle: You gain 9 Fortitude
+After Battle: You gain 15 Wizardliness
+After Battle: You gain 4 Chutzpah
+You acquire a bounty item: haunted pullstring
+
+[2978] The Haunted Nursery
+Encounter: spooky music box
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent's wrist with its noodly appendages, preventing its attack.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: spooky music box takes 110 damage.
+Round 2: Nickle Plated Gumball does a Perpetuating Avocado kick on it for 13 damage with his pangolin foot.
+Round 2: spooky music box takes 13 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 5 Fortitude
+After Battle: You gain 10 Magicalness
+After Battle: You gain 8 Cheek
+
+[2979] The Haunted Nursery
+Encounter: creepy doll
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent starts to attack you, but SshoSobogopodopotototototo howls at it and blocks the attack. I'm not sure how to describe the howl; it kind of sounds like "&#37;&amp;&#37;!"
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: creepy doll takes 220 damage.
+Round 2: Nickle Plated Gumball opens a port on his breastplate and fires a ray of bologna for 17 damage.
+Round 2: creepy doll takes 17 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 5 Fortitude
+After Battle: You gain 13 Wizardliness
+After Battle: You gain 6 Cheek
+You acquire a bounty item: haunted pullstring
+
+[2980] The Haunted Nursery
+Encounter: spooky music box
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent by the face, but doesn't seem sure what to do with it after that. Your opponent, for its part, has decided to stand very still.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: spooky music box takes 440 damage.
+Round 2: Nickle Plated Gumball launches his My Pizza Escalayer missile for 33 damage.
+Round 2: spooky music box takes 33 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 8 Strongness
+After Battle: You gain 8 Magicalness
+After Battle: You gain 9 Smarm
+
+[2981] The Haunted Nursery
+Encounter: possessed toy chest
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent's wrist with its noodly appendages, preventing its attack.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: possessed toy chest takes 110 damage.
+Round 2: Nickle Plated Gumball throws an Intimate Fashion attack with his armadillo shin, for 16 damage.
+Round 2: possessed toy chest takes 16 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: spooky alphabet block
+After Battle: You gain 6 Strongness
+After Battle: You gain 11 Mysteriousness
+After Battle: You gain 6 Smarm
+
+[2982] The Haunted Nursery
+Encounter: creepy doll
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent's wrist with its noodly appendages, preventing its attack.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: creepy doll takes 110 damage.
+Round 2: Nickle Plated Gumball opens his mouth and fires a plaid laser at it for 14 damage.
+Round 2: creepy doll takes 14 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 5 Strengthliness
+After Battle: You gain 12 Enchantedness
+You gain a Mysticality point!
+After Battle: You gain 10 Cheek
+You acquire a bounty item: haunted pullstring
+
+cast 1 Arched Eyebrow of the Archmage
+You acquire an effect: Arched Eyebrow of the Archmage (10)
+
+cast 1 Springy Fusilli
+You acquire an effect: Springy Fusilli (10)
+
+[2983] The Haunted Nursery
+Encounter: creepy doll
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent's wrist with its noodly appendages, preventing its attack.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: creepy doll takes 110 damage.
+Round 2: Nickle Plated Gumball opens a port on his breastplate and fires a ray of landsharks for 13 damage.
+Round 2: creepy doll takes 13 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 3 Strongness
+After Battle: You gain 17 Wizardliness
+After Battle: You gain 8 Sarcasm
+You acquire a bounty item: haunted pullstring
+
+[2984] The Haunted Nursery
+Encounter: creepy doll
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo jumps in front of your opponent, preventing it from attacking you. "!!!", he shouts.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: creepy doll takes 220 damage.
+Round 2: Nickle Plated Gumball throws a Dragon Taco knee on it for 9 damage with his gibbon knee.
+Round 2: creepy doll takes 9 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 10 Beefiness
+After Battle: You gain 13 Magicalness
+After Battle: You gain 4 Chutzpah
+You acquire a bounty item: haunted pullstring
+
+[2985] The Haunted Nursery
+Encounter: creepy doll
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent starts to attack you, but SshoSobogopodopotototototo howls at it and blocks the attack. I'm not sure how to describe the howl; it kind of sounds like "&#37;&amp;&#37;!"
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: creepy doll takes 110 damage.
+Round 2: Nickle Plated Gumball opens his visor and fires a Cream laser beam at it for 23 damage.
+Round 2: creepy doll takes 23 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 5 Strongness
+After Battle: You gain 13 Wizardliness
+After Battle: You gain 9 Sarcasm
+You acquire a bounty item: haunted pullstring
+
+[2986] The Haunted Nursery
+Encounter: spooky music box
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent by the face, but doesn't seem sure what to do with it after that. Your opponent, for its part, has decided to stand very still.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: spooky music box takes 110 damage.
+Round 2: Nickle Plated Gumball throws an Intimate Fashion attack with his armadillo shin, for 13 damage.
+Round 2: spooky music box takes 13 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 4 Fortitude
+After Battle: You gain 12 Mysteriousness
+After Battle: You gain 8 Sarcasm
+You gain a Moxie point!
+
+[2987] The Haunted Nursery
+Encounter: Lights Out in the Nursery
+Took choice 898/1: Search for a lamp
+choice.php?whichchoice=898&option=1&pwd
+Encounter: Lights Out in the Nursery
+Took choice 898/2: Search over by the (gaaah) stuffed animals
+choice.php?whichchoice=898&option=2&pwd
+Encounter: Lights Out in the Nursery
+Took choice 898/2: Examine the dresser
+choice.php?whichchoice=898&option=2&pwd
+
+[2987] The Haunted Nursery
+Encounter: spooky music box
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent starts to attack you, but SshoSobogopodopotototototo howls at it and blocks the attack. I'm not sure how to describe the howl; it kind of sounds like "&#37;&amp;&#37;!"
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: spooky music box takes 110 damage.
+Round 2: Nickle Plated Gumball does a Soul Tornado kick on it for 17 damage with his lemur foot.
+Round 2: spooky music box takes 17 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: spooky music box mechanism
+After Battle: You gain 5 Fortitude
+After Battle: You gain 11 Mysteriousness
+After Battle: You gain 7 Chutzpah
+
+cast 5 Manicotti Meditation
+You acquire an effect: Pasta Oneness (25)
+
+[2988] The Haunted Nursery
+Encounter: possessed toy chest
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent seems to want to attack you, but isn't willing to get any closer to SshoSobogopodopotototototo than it has to.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: possessed toy chest takes 110 damage.
+Round 2: Nickle Plated Gumball launches his Sword of Tennis missile for 23 damage.
+Round 2: possessed toy chest takes 23 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: haunted paddle-ball
+You acquire an item: spooky alphabet block
+After Battle: You gain 1 Beefiness
+After Battle: You gain 16 Enchantedness
+After Battle: You gain 7 Sarcasm
+
+[2989] The Haunted Nursery
+Encounter: spooky music box
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent starts to attack you, but SshoSobogopodopotototototo howls at it and blocks the attack. I'm not sure how to describe the howl; it kind of sounds like "&#37;&amp;&#37;!"
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: spooky music box takes 220 damage.
+Round 2: Nickle Plated Gumball throws a Devilish Indigo punch with his wombat arm, doing 9 damage.
+Round 2: spooky music box takes 9 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: spooky music box mechanism
+After Battle: You gain 4 Beefiness
+After Battle: You gain 13 Mysteriousness
+After Battle: You gain 8 Cheek
+
+[2990] The Haunted Nursery
+Encounter: spooky music box
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent seems to want to attack you, but isn't willing to get any closer to SshoSobogopodopotototototo than it has to.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: spooky music box takes 110 damage.
+Round 2: Nickle Plated Gumball launches his Fuchsia Lizard missile, exploding it for 32 damage.
+Round 2: spooky music box takes 32 damage.
+Round 2: fifthtoast wins the fight!
+You acquire an item: tiny dancer
+After Battle: You gain 2 Strengthliness
+After Battle: You gain 13 Mysteriousness
+After Battle: You gain 7 Sarcasm
+
+[2991] The Haunted Nursery
+Encounter: possessed toy chest
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo grabs your opponent by the face, but doesn't seem sure what to do with it after that. Your opponent, for its part, has decided to stand very still.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: possessed toy chest takes 110 damage.
+Round 2: Nickle Plated Gumball does a Spinning Salad attack on it with his capybara knee, doing 11 damage.
+Round 2: possessed toy chest takes 11 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 5 Muscleboundness
+After Battle: You gain 8 Magicalness
+After Battle: You gain 9 Smarm
+
+[2992] The Haunted Nursery
+Encounter: creepy doll
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent seems to want to attack you, but isn't willing to get any closer to SshoSobogopodopotototototo than it has to.
+Round 1: fifthtoast executes a macro!
+Round 1: fifthtoast casts CANNELLONI CANNON!
+Round 2: creepy doll takes 220 damage.
+Round 2: Nickle Plated Gumball launches his Mobile Teacher Sakura missile for 29 damage.
+Round 2: creepy doll takes 29 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 8 Muscleboundness
+After Battle: You gain 13 Enchantedness
+After Battle: You gain 9 Sarcasm
+You acquire a bounty item: haunted pullstring
+
+Visiting the Bounty Hunter Hunter
+You acquire an item: filthy lucre
+
+Visiting the Bounty Hunter Hunter
+
+mall.php?pudnuggler=transporter+transponder
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22ancient+medicinal+herbs%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22oil+of+expertise%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22disco+horoscope+%28Gemini%29%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22rack+of+dinosaur+ribs%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22pixel+star%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22limp+broccoli%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22hamlet+sandwich%22
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22R%26uuml%3Bmpelstiltz%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22pressurized+potion+of+puissance%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22rocky+road+ice+cream%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Ferrigno%27s+Elixir+of+Power%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22The+Author%27s+ink%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Mer-kin+strongjuice%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22warbear+rejuvenation+potion%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22shady+shades%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22red+foxglove%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22They+liver%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22iceberg+lettuce%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Lobos+Mints%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22abstraction%3A+action%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Ultrasoldier+Serum%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22broberry+brogurt%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22handful+of+Crotchety+Pine+needles%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22fitness+wristband%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22potion+of+temporary+gr8tness%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Bee%27s+Knees%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22petit+4.1%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Power-Guy+2000+holo-record%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22cold-filtered+water%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Bruno%27s+blessing+of+Mars%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22bottle+of+rhinoceros+hormones%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22gummi+salamander%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22vintage+smart+drink%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22unidentifiable+dried+fruit%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Helvella+Haemophilia+mushroom%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Mansquito+Serum%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22warm+war+shawarma%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22future+drug%3A+Muscularactum%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22blob-shaped+Crimbo+cookie%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22bread+line%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22chicle+de+salchicha%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22canteen+of+wine%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22protein+paste%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22extra-potent+gremlin+mutagen%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22disco+horoscope+%28Taurus%29%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22blood+of+the+Wereseal%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22elven+%3Ci%3Elimbos%3C%2Fi%3E+gingerbread%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22cuppa+Feroci+tea%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22bottle+of+Old+Pugilist%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22banana+smoothie%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Boletus+Broletus+mushroom%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22bottle+of+Amontillado%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22jug+of+%26quot%3Bwine%26quot%3B%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22gunky+chicken%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Crimbo+salad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22white+blood+cells%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22cuppa+Twen+tea%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22cold+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22hot+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22prismatic+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Climate+Colada%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Gene+Tonic%3A+Orc%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22New+Zealand+iced+tea%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22BOOterfinger%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Mer-kin+saltmint%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22CSA+bravery+badge%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22gremlin+mutagen%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22seal-brain+elixir%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Frogade%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Spechunky+bar%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Boosty+Juice%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22cuppa+Vitali+tea%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22shot+of+flower+schnapps%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22lime+supersucker%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22bellhop+bell%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22stench+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22bottle+of+fire%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22can+of+V-11%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22industrial+strength+starch%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22jar+of+%26quot%3BCreole+Lady%26quot%3B+marrrmalade%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22finger+exerciser%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22hot+mint+schnocolate%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Hersey%26trade%3B+SMOOCH%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22salt+wages%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22sleaze+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22dollop+of+barbecue+sauce%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22ice+harvest%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22bowl+of+marinade%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Milk+Studs%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22oily+paste%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22scroll+of+Puddingskin%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22defective+Game+Grid+token%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22arse-a%27fire+elixir%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22twinkly+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22skull-shaped+Crimboween+cookie%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22yellow+striped+oyster+egg%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22black+facepaint%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22bell-shaped+Crimbo+cookie%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Gene+Tonic%3A+Humanoid%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22mini-martini%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22pirate+brochure%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22spooky+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Take+Eleven+Bar%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22triangular+CRIMBCOOKIE%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22bottle+of+ultravitamins%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22unstable+DNA%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22McLeod%27s+Hard+Haggis-Ade%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Gene+Tonic%3A+Dude%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22giant+giant+moth+dust%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22confiscated+comic+book%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22weremoose+spit%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22hair+of+the+fish%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22sugar-coated+pine+cone%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22alphabet+gum%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22dwarf+bread%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Crimbo+peppermint+bark%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Doc+Galaktik%27s+Vitality+Serum%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22green+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22lavender+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22orange+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22pink+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22yellow+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22love+song+of+vague+ambiguity%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22pulled+orange+taffy%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22pawn+cookie%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22love+song+of+sugary+cuteness%22
+
+[2993] Fernswarthy's Basement (Level 8)
+Encounter: The Beast with 38 Eyes
+Round 0: fifthtoast loses initiative!
+Round 1: SshoSobogopodopotototototo jumps in front of your opponent, preventing it from attacking you. "!!!", he shouts.
+Round 1: fifthtoast attacks!
+Round 2: Beast with X Eyes takes 138 damage.
+Round 2: Nickle Plated Gumball does a Thousand Tiny Cranes attack with his opossum shin, for 8 damage.
+Round 2: Beast with X Eyes takes 8 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 1 Beefiness
+After Battle: You gain 6 Wizardliness
+After Battle: You gain 6 Chutzpah
+
+[2994] Fernswarthy's Basement (Level 9)
+Encounter: The Beast with 44 Ears
+Round 0: fifthtoast wins initiative!
+Round 1: Your opponent seems to want to attack you, but isn't willing to get any closer to SshoSobogopodopotototototo than it has to.
+Round 1: fifthtoast attacks!
+Round 2: Beast with X Ears takes 95 damage.
+Round 2: Nickle Plated Gumball throws an Intimate Fashion attack with his armadillo shin, for 7 damage.
+Round 2: Beast with X Ears takes 7 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 6 Muscleboundness
+After Battle: You gain 10 Wizardliness
+
+[2995] Fernswarthy's Basement (Level 10)
+Encounter: Save the Dolls/Save the Cardboard
+You gain 180 Roguishness
+
+[2996] Fernswarthy's Basement (Level 11)
+Encounter: 98 Bottles of Beer on a Golem
+Round 0: fifthtoast wins initiative!
+Round 1: SshoSobogopodopotototototo slaps your opponent repeatedly in the face with noodly tentacles, preventing its attack. "Agh, cut that out!" it yells, annoyed.
+Round 1: fifthtoast attacks!
+Round 2: X Bottles of Beer on a Golem takes 84 damage.
+Round 2: Nickle Plated Gumball launches his Honey of the Planets missile for 32 damage.
+Round 2: X Bottles of Beer on a Golem takes 32 damage.
+Round 2: fifthtoast wins the fight!
+After Battle: You gain 8 Strongness
+After Battle: You gain 6 Mysteriousness
+After Battle: You gain 4 Cheek

@@ -1,0 +1,3875 @@
+--------------------
+10031	Braindeer	287519906	braindeer.gif	none, combat	q	0
+# Item Braindeer
+--------------------
+--------------------
+10038	mooseflank	903542956	jarl_steak.gif	none	t,d	30
+# Item mooseflank
+--------------------
+--------------------
+10043	beavermouth	120789894	wine2.gif	drink	t,d	30
+beavermouth	3	1	crappy	0	0	0	0	Unspaded
+# Item beavermouth
+--------------------
+--------------------
+10024	traditional Crimbo cookie	750639857	c18cracker.gif	food	t	0
+traditional Crimbo cookie	2	1	awesome	0	0	0	0	Unspaded
+Item	traditional Crimbo cookie	Effect: "Yeast-Hungry", Effect Duration: 75
+--------------------
+--------------------
+2426	Yeast-Hungry	c18cracker.gif	5f13f6deef105b64ef50c877a4391f24	eat 1 traditional Crimbo cookie
+Effect	Yeast-Hungry	Food Drop: +50
+--------------------
+
+Visiting Crimbo Tree in clan VIP lounge
+
+Visiting Hot Dog Stand in clan VIP lounge
+
+Visiting Speakeasy in clan VIP lounge
+
+Visiting Floundry in clan VIP lounge
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+December 16, 2018 - Martinus 6
+
+Ronald: waning gibbous
+Grimace: first quarter
+Mini-moon: behind Ronald
+
+Generic Summer Holiday: 5 days
+Dependence Day: 14 days
+Festival of Jarlsberg: 17 days
+Arrrbor Day: 22 days
+Lab&oacute;r Day: 32 days
+Halloween: 42 days
+Feast of Boris: 49 days
+Yuletide: 54 days
+Valentine's Day: 60 days
+St. Sneaky Pete's Day: 77 days
+Oyster Egg Day: 84 days
+El Dia De Los Muertos Borrachos: 92 days
+
+
+3 days until Muscle.
+
+
+ > status
+
+Name: boolicious
+Class: Sauceror
+
+Lv: 8
+HP: 34 / 59
+MP: 209 / 209
+
+Mus: 53 (34), tnp = 10
+Mys: 139 (61), tnp = 17
+Mox: 54 (35), tnp = 35
+
+Advs: 54
+Meat: 3,248
+
+Full: 0 / 15
+Drunk: 0 / 14
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Ancient Saucehelm
+Weapon: 5-Alarm Saucepan
+Off-hand: Glass Balls of the Goblin King
+Shirt: junk-mail shirt
+Pants: Newman's Own Trousers
+
+Acc. 1: Mr. Accessory
+Acc. 2: tiny plastic the Free Man
+Acc. 3: Jarlsberg's earring
+
+Pet: Yule Hound (12 lbs)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - Transcendent Olfaction
+
+Seal Clubber
+ - Rage of the Reindeer
+ - Tongue of the Walrus
+
+Sauceror
+ - Advanced Saucecrafting
+ - Curse of Marinara
+ - Curse of Vichyssoise
+ - Elemental Saucesphere
+ - Expert Panhandling
+ - Icy Glare
+ - Inner Sauce
+ - Jalapeño Saucesphere
+ - Salsaball
+ - Sauce Contemplation
+ - Saucestorm
+ - Saucy Salve
+ - Simmer
+ - Soul Saucery
+ - Stream of Sauce
+ - Wave of Sauce
+
+Accordion Thief
+ - Brawnee's Anthem of Absorption
+ - Cone of Zydeco
+ - Mariachi Memory
+ - The Magical Mojomuscular Melody
+
+Conditional
+ - Soul Blaze
+ - Soul Bubble
+ - Soul Finger
+ - Soul Food
+ - Soul Funk
+ - Soul Rotation
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Geeky Gifts
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 4 AT buffs active.
+Elemental Saucesphere (5)
+Jalape&ntilde;o Saucesphere (5)
+Feeling No Pain (25)
+Thaumodynamic (36)
+Saucemastery (252)
+
+
+ > modifiers
+
+ML: +30
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +23.95
+Meat: +15.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+You acquire an item: stuffed Meat
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+You acquire an item: stuffed Baron von Ratsworth
+
+Visiting Deluxe Mr. Klaw "Skill" Crane Game in clan VIP lounge
+You acquire an item: stuffed monocle
+
+Visiting Looking Glass in clan VIP lounge
+You acquire an item: &quot;DRINK ME&quot; potion
+
+swimming pool screwaround
+
+Doing handstand in clan VIP swimming pool
+
+Diving for treasure in clan VIP swimming pool
+
+Getting out of clan VIP swimming pool
+
+cast 1 Advanced Saucecrafting
+You acquire scrumptious reagent (3)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+December 16, 2018 - Martinus 6
+
+Ronald: waning gibbous
+Grimace: first quarter
+Mini-moon: behind Ronald
+
+Generic Summer Holiday: 5 days
+Dependence Day: 14 days
+Festival of Jarlsberg: 17 days
+Arrrbor Day: 22 days
+Lab&oacute;r Day: 32 days
+Halloween: 42 days
+Feast of Boris: 49 days
+Yuletide: 54 days
+Valentine's Day: 60 days
+St. Sneaky Pete's Day: 77 days
+Oyster Egg Day: 84 days
+El Dia De Los Muertos Borrachos: 92 days
+
+
+3 days until Muscle.
+
+
+ > status
+
+Name: boolicious
+Class: Astral Spirit
+
+Lv: 1
+HP: 0 / 0
+MP: 0 / 0
+
+Mus: 0, tnp = 1
+Mys: 0, tnp = 1
+Mox: 0, tnp = 1
+
+Advs: 0
+Meat: 0
+
+Full: 0 / 15
+Drunk: 0 / 14
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: (none)
+Weapon: (none)
+Off-hand: (none)
+Shirt: (none)
+Pants: (none)
+
+Acc. 1: (none)
+Acc. 2: (none)
+Acc. 3: (none)
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+
+
+ > effects
+
+0 of 3 AT buffs active.
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+December 16, 2018 - Martinus 6
+
+Ronald: waning gibbous
+Grimace: first quarter
+Mini-moon: behind Ronald
+
+Generic Summer Holiday: 5 days
+Dependence Day: 14 days
+Festival of Jarlsberg: 17 days
+Arrrbor Day: 22 days
+Lab&oacute;r Day: 32 days
+Halloween: 42 days
+Feast of Boris: 49 days
+Yuletide: 54 days
+Valentine's Day: 60 days
+St. Sneaky Pete's Day: 77 days
+Oyster Egg Day: 84 days
+El Dia De Los Muertos Borrachos: 92 days
+
+
+3 days until Muscle.
+
+
+ > status
+
+Name: boolicious
+Class: Astral Spirit
+
+Lv: 1
+HP: 0 / 0
+MP: 0 / 0
+
+Mus: 0, tnp = 1
+Mys: 0, tnp = 1
+Mox: 0, tnp = 1
+
+Advs: 0
+Meat: 0
+
+Full: 0 / 15
+Drunk: 0 / 14
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: (none)
+Weapon: (none)
+Off-hand: (none)
+Shirt: (none)
+Pants: (none)
+
+Acc. 1: (none)
+Acc. 2: (none)
+Acc. 3: (none)
+
+Pet: (none)
+Item: (none)
+
+ > skills
+
+
+
+ > effects
+
+0 of 3 AT buffs active.
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+Visiting Hot Dog Stand in clan VIP lounge
+
+Visiting Speakeasy in clan VIP lounge
+
+Visiting Floundry in clan VIP lounge
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+December 16, 2018 - Martinus 6
+
+Ronald: waning gibbous
+Grimace: first quarter
+Mini-moon: behind Ronald
+
+Generic Summer Holiday: 5 days
+Dependence Day: 14 days
+Festival of Jarlsberg: 17 days
+Arrrbor Day: 22 days
+Lab&oacute;r Day: 32 days
+Halloween: 42 days
+Feast of Boris: 49 days
+Yuletide: 54 days
+Valentine's Day: 60 days
+St. Sneaky Pete's Day: 77 days
+Oyster Egg Day: 84 days
+El Dia De Los Muertos Borrachos: 92 days
+
+
+3 days until Muscle.
+
+
+ > status
+
+Name: boolicious
+Class: Sauceror
+
+Lv: 8
+HP: 34 / 59
+MP: 199 / 209
+
+Mus: 53 (34), tnp = 10
+Mys: 139 (61), tnp = 17
+Mox: 54 (35), tnp = 35
+
+Advs: 54
+Meat: 3,248
+
+Full: 0 / 15
+Drunk: 0 / 14
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Ancient Saucehelm
+Weapon: 5-Alarm Saucepan
+Off-hand: Glass Balls of the Goblin King
+Shirt: junk-mail shirt
+Pants: Newman's Own Trousers
+
+Acc. 1: Mr. Accessory
+Acc. 2: tiny plastic the Free Man
+Acc. 3: Jarlsberg's earring
+
+Pet: Yule Hound (12 lbs)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - Transcendent Olfaction
+
+Seal Clubber
+ - Rage of the Reindeer
+ - Tongue of the Walrus
+
+Sauceror
+ - Advanced Saucecrafting
+ - Curse of Marinara
+ - Curse of Vichyssoise
+ - Elemental Saucesphere
+ - Expert Panhandling
+ - Icy Glare
+ - Inner Sauce
+ - Jalapeño Saucesphere
+ - Salsaball
+ - Sauce Contemplation
+ - Saucestorm
+ - Saucy Salve
+ - Simmer
+ - Soul Saucery
+ - Stream of Sauce
+ - Wave of Sauce
+
+Accordion Thief
+ - Brawnee's Anthem of Absorption
+ - Cone of Zydeco
+ - Mariachi Memory
+ - The Magical Mojomuscular Melody
+
+Conditional
+ - Soul Blaze
+ - Soul Bubble
+ - Soul Finger
+ - Soul Food
+ - Soul Funk
+ - Soul Rotation
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Geeky Gifts
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 4 AT buffs active.
+Elemental Saucesphere (5)
+Jalape&ntilde;o Saucesphere (5)
+Feeling No Pain (25)
+Thaumodynamic (36)
+Saucemastery (252)
+
+
+ > modifiers
+
+ML: +30
+Enc: +0.00%
+Init: +0.00%
+
+Exp: +23.95
+Meat: +15.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+[442] The Laugh Floor
+Encounter: BL Imp wearing a ski mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 1 hit point
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: BL Imp takes 1 damage.
+Round 2: BL Imp drops 10 defense.
+Round 2: You lose 1 hit point
+Round 2: BL Imp takes 3 damage.
+Round 2: You lose 9 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: BL Imp takes 44 damage.
+Round 3: BL Imp takes 1 damage.
+Round 3: You lose 1 hit point
+Round 3: BL Imp takes 2 damage.
+Round 3: You lose 21 hit points
+Round 3: boolicious casts SAUCESTORM!
+Round 4: BL Imp takes 88 damage.
+Round 4: BL Imp takes 1 damage.
+Round 4: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 13 hit points
+After Battle: You gain 11 Mana Points
+You gain 49 Meat
+After Battle: You gain 11 Muscleboundness
+You gain a Muscle point!
+After Battle: You gain 15 Enchantedness
+After Battle: You gain 4 Sarcasm
+
+cast 1 Tongue of the Walrus
+You gain 37 hit points
+
+cast 1 Tongue of the Walrus
+You gain 32 hit points
+
+upeffect.php?efid=53&qty=1&pwd&ajax=1&_=1545004823160
+
+cast 1 Elemental Saucesphere
+You acquire an effect: Elemental Saucesphere (10)
+
+upeffect.php?efid=54&qty=1&pwd&ajax=1&_=1545004829030
+
+cast 1 Jalapeño Saucesphere
+You acquire an effect: Jalape&ntilde;o Saucesphere (10)
+
+upeffect.php?efid=54&qty=1&pwd&ajax=1&_=1545004836301
+
+cast 1 Jalapeño Saucesphere
+You acquire an effect: Jalape&ntilde;o Saucesphere (10)
+
+upeffect.php?efid=53&qty=1&pwd&ajax=1&_=1545004841688
+
+cast 1 Elemental Saucesphere
+You acquire an effect: Elemental Saucesphere (10)
+
+Talking to Sven Golly at the Hey Deze Arena
+
+Talking to Sven Golly at the Hey Deze Arena
+
+Talking to Mourn at Belilafs Comedy Club
+Trying some observational humor on Mourn
+
+[443] The Laugh Floor
+Encounter: CH Imp wearing a monkey mask
+Round 0: boolicious loses initiative!
+Round 1: You lose 1 hit point
+Round 1: You lose 20 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: CH Imp takes 44 damage.
+Round 2: CH Imp takes 1 damage.
+Round 2: You lose 22 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: CH Imp takes 44 damage.
+Round 3: CH Imp takes 1 damage.
+Round 3: You lose 22 hit points
+
+cast 1 Tongue of the Walrus
+You gain 34 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Tongue of the Walrus
+You gain 37 hit points
+
+[444] The Laugh Floor
+Encounter: BL Imp wearing a ski mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 1 hit point
+Round 1: boolicious casts SAUCESTORM!
+Round 2: BL Imp takes 44 damage.
+Round 2: BL Imp takes 1 damage.
+Round 2: You lose 1 hit point
+Round 2: BL Imp takes 1 damage.
+Round 2: You lose 21 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: BL Imp takes 44 damage.
+Round 3: BL Imp takes 1 damage.
+Round 3: You lose 1 hit point
+Round 3: BL Imp takes 2 damage.
+Round 3: You lose 21 hit points
+Round 3: boolicious casts SAUCESTORM!
+Round 4: BL Imp takes 44 damage.
+Round 4: BL Imp takes 1 damage.
+Round 4: boolicious wins the fight!
+Your familiar gains a pound: Sleighbells Sam, the 13 lb. Yule Hound
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 10 hit points
+After Battle: You gain 16 Mana Points
+You gain 46 Meat
+After Battle: You gain 10 Muscleboundness
+After Battle: You gain 14 Wizardliness
+You gain a Mysticality point!
+After Battle: You gain 6 Roguishness
+
+pull: 3 goat cheese
+
+Visiting the Trapper
+
+Visiting the Trapper
+
+[445] The Goatlet
+Encounter: dairy goat wearing a robot mask
+Round 0: boolicious loses initiative!
+Round 1: You lose 53 Mana Points
+Round 1: dairy goat takes 3 damage.
+Round 1: You lose 22 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: dairy goat takes 44 damage.
+Round 2: dairy goat takes 44 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 10 hit points
+After Battle: You gain 14 Mana Points
+You gain 56 Meat
+You acquire an item: glass of goat's milk
+After Battle: You gain 5 Strengthliness
+After Battle: You gain 15 Wizardliness
+After Battle: You gain 10 Roguishness
+
+[446] The Goatlet
+Encounter: sabre-toothed goat wearing a hockey mask
+Round 0: boolicious loses initiative!
+Round 1: You lose 45 hit points
+
+cast 1 Tongue of the Walrus
+You gain 33 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Tongue of the Walrus
+You gain 30 hit points
+
+pull: 1 miner's helmet, 1 miner's pants
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You spent 50 Meat
+You acquire an item: chewing gum on a string
+
+Use 1 chewing gum on a string to retrieve items from the sewer.
+You acquire an item: seal-clubbing club
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You spent 50 Meat
+You acquire an item: chewing gum on a string
+
+Use 1 chewing gum on a string to retrieve items from the sewer.
+
+Use 1 chewing gum on a string to retrieve items from the sewer.
+You acquire an item: worthless knick-knack
+
+Visiting Hermit
+
+Visiting Hermit
+
+trading 1 worthless item for 1 ten-leaf clover
+You acquire an item: ten-leaf clover
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+buy 1 chewing gum on a string for 50 each from The General Store
+You spent 50 Meat
+You acquire an item: chewing gum on a string
+
+Use 1 chewing gum on a string to retrieve items from the sewer.
+You acquire an item: worthless knick-knack
+
+Visiting Hermit
+
+trading 1 worthless item for 1 ten-leaf clover
+You acquire an item: ten-leaf clover
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+[447] The Daily Dungeon (Room 1)
+Encounter: It's Almost Certainly a Trap
+Took choice 693/1: Suffer elemental damage, get stats
+choice.php?pwd&whichchoice=693&option=1
+You lose 30 hit points
+You gain 18 Strengthliness
+You gain 28 Mysteriousness
+You gain 22 Cheek
+You gain a Moxie point!
+
+[448] The Daily Dungeon (Room 2)
+Encounter: I Wanna Be a Door
+Took choice 692/5: bypass trap with mysticality
+choice.php?pwd&whichchoice=692&option=5
+
+[449] The Daily Dungeon (Room 3)
+Encounter: dodecapede wearing an alien mask
+Round 0: boolicious loses initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: dodecapede takes 44 damage.
+Round 2: dodecapede takes 88 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 17 hit points
+After Battle: You gain 9 Mana Points
+You gain 13 Meat
+You acquire an item: clutch of dodecapede eggs
+After Battle: You gain 3 Fortitude
+After Battle: You gain 9 Enchantedness
+After Battle: You gain 5 Roguishness
+
+[450] The Daily Dungeon (Room 4)
+Encounter: I Wanna Be a Door
+Took choice 692/5: bypass trap with mysticality
+choice.php?pwd&whichchoice=692&option=5
+
+[451] The Daily Dungeon (Room 5)
+Encounter: The First Chest Isn't the Deepest.
+Took choice 690/1: Get item
+choice.php?pwd&whichchoice=690&option=1
+You acquire an item: extra-strength strongness elixir
+
+chew 1 extra-strength strongness elixir
+You gain 8 Muscleboundness
+
+[452] The Daily Dungeon (Room 6)
+Encounter: It's Almost Certainly a Trap
+Took choice 693/1: Suffer elemental damage, get stats
+choice.php?pwd&whichchoice=693&option=1
+You lose 30 hit points
+You gain 22 Strengthliness
+You gain 21 Magicalness
+You gain 21 Roguishness
+
+cast 1 Tongue of the Walrus
+You gain 40 hit points
+
+cast 1 Tongue of the Walrus
+You gain 32 hit points
+
+[454] The Daily Dungeon (Room 7)
+Encounter: giant giant moth wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 45 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: giant giant moth takes 44 damage.
+Round 2: giant giant moth takes 44 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 9 hit points
+After Battle: You gain 18 Mana Points
+You gain 19 Meat
+You acquire an item: giant giant moth dust
+After Battle: You gain 14 Wizardliness
+After Battle: You gain 3 Cheek
+
+[454] The Daily Dungeon (Room 8)
+Encounter: dairy ooze wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: boolicious attacks!
+Round 3: dairy ooze takes 10 damage.
+Round 3: boolicious casts SALSABALL!
+Round 4: boolicious attacks!
+Round 5: dairy ooze takes 10 damage.
+Round 5: boolicious attacks!
+Round 6: dairy ooze takes 12 damage.
+Round 6: boolicious attacks!
+Round 7: dairy ooze takes 16 damage.
+Round 7: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 12 hit points
+After Battle: You gain 12 Mana Points
+You gain 14 Meat
+You acquire an item: mana curds
+After Battle: You gain 6 Strongness
+You gain a Muscle point!
+After Battle: You gain 7 Magicalness
+After Battle: You gain 3 Sarcasm
+
+[455] The Daily Dungeon (Room 9)
+Encounter: I Wanna Be a Door
+Took choice 692/5: bypass trap with mysticality
+choice.php?pwd&whichchoice=692&option=5
+
+[456] The Daily Dungeon (Room 10)
+Encounter: Second Chest
+Took choice 691/1: Get item
+choice.php?pwd&whichchoice=691&option=1
+You acquire an item: skeleton key ring
+
+[457] The Daily Dungeon (Room 11)
+Encounter: It's Almost Certainly a Trap
+Took choice 693/1: Suffer elemental damage, get stats
+choice.php?pwd&whichchoice=693&option=1
+You lose 30 hit points
+You gain 21 Fortitude
+You gain 27 Mysteriousness
+You gain a Mysticality point!
+You gain 18 Roguishness
+
+[458] The Daily Dungeon (Room 12)
+Encounter: It's Almost Certainly a Trap
+Took choice 693/1: Suffer elemental damage, get stats
+choice.php?pwd&whichchoice=693&option=1
+You lose 30 hit points
+You gain 22 Beefiness
+You gain 25 Wizardliness
+You gain 18 Sarcasm
+You gain a Moxie point!
+
+cast 1 Tongue of the Walrus
+You gain 31 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Tongue of the Walrus
+You gain 36 hit points
+
+[459] The Daily Dungeon (Room 13)
+Encounter: I Wanna Be a Door
+Took choice 692/5: bypass trap with mysticality
+choice.php?pwd&whichchoice=692&option=5
+
+[460] The Daily Dungeon (Room 14)
+Encounter: mayonnaise wasp wearing a scary mask
+Round 0: boolicious loses initiative!
+Round 1: You lose 8 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: mayonnaise wasp takes 44 damage.
+Round 2: mayonnaise wasp takes 44 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 11 hit points
+After Battle: You gain 11 Mana Points
+You acquire an item: glob of spoiled mayo
+After Battle: You gain 12 Wizardliness
+After Battle: You gain 5 Sarcasm
+
+[461] The Daily Dungeon (Room 15)
+Encounter: The Final Reward
+Took choice 689/1: Get fat loot token
+choice.php?pwd&whichchoice=689&option=1
+You acquire an item: fat loot token
+
+[462] The Enormous Greater-Than Sign
+Encounter: uppercase Q wearing an alien mask
+Round 0: boolicious loses initiative!
+Round 1: uppercase Q takes 2 damage.
+Round 1: You lose 17 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: uppercase Q takes 44 damage.
+Round 2: uppercase Q takes 44 damage.
+Round 2: uppercase Q heals 55 hit points.
+Round 2: uppercase Q takes 2 damage.
+Round 2: You lose 17 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: uppercase Q takes 44 damage.
+Round 3: uppercase Q takes 88 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 16 hit points
+After Battle: You gain 13 Mana Points
+You acquire an item: left parenthesis
+After Battle: You gain 7 Strengthliness
+After Battle: You gain 18 Mysteriousness
+After Battle: You gain 5 Smarm
+
+[463] The Enormous Greater-Than Sign
+Encounter: lowercase B wearing a welding mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: You lose 21 hit points
+Round 2: You lose 21 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: You lose 20 hit points
+Round 3: You lose 21 hit points
+Round 3: lowercase B takes 2 damage.
+Round 3: You lose 14 hit points
+
+cast 1 Tongue of the Walrus
+You gain 34 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Tongue of the Walrus
+You gain 34 hit points
+
+[464] The Defiled Niche
+Encounter: senile lihc wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 1 hit point
+Round 1: boolicious casts SAUCESTORM!
+Round 2: senile lihc takes 2 damage.
+Round 2: You lose 5 hit points
+Round 2: boolicious attacks!
+Round 3: senile lihc takes 4 damage.
+Round 3: boolicious attacks!
+Round 4: senile lihc takes 5 damage.
+Round 4: senile lihc takes 1 damage.
+Round 4: You lose 6 hit points
+Round 4: boolicious attacks!
+Round 5: senile lihc takes 3 damage.
+Round 5: senile lihc takes 1 damage.
+Round 5: You lose 5 hit points
+Round 5: boolicious attacks!
+Round 6: senile lihc takes 5 damage.
+Round 6: senile lihc takes 3 damage.
+Round 6: You lose 6 hit points
+Round 6: boolicious attacks!
+Round 7: senile lihc takes 4 damage.
+Round 7: senile lihc takes 3 damage.
+Round 7: You lose 6 hit points
+Round 7: boolicious attacks!
+Round 8: senile lihc takes 5 damage.
+Round 8: senile lihc takes 1 damage.
+Round 8: You lose 5 hit points
+Round 8: boolicious casts SAUCESTORM!
+Round 9: senile lihc takes 2 damage.
+Round 9: You lose 6 hit points
+Round 9: boolicious attacks!
+Round 10: senile lihc takes 3 damage.
+Round 10: senile lihc takes 2 damage.
+Round 10: You lose 6 hit points
+Round 10: boolicious attacks!
+Round 11: senile lihc takes 2 damage.
+Round 11: senile lihc takes 3 damage.
+Round 11: You lose 6 hit points
+Round 11: boolicious attacks!
+Round 12: senile lihc takes 4 damage.
+Round 12: senile lihc takes 3 damage.
+Round 12: You lose 6 hit points
+Round 12: boolicious attacks!
+Round 13: senile lihc takes 4 damage.
+Round 13: senile lihc takes 2 damage.
+Round 13: You lose 6 hit points
+
+cast 1 Tongue of the Walrus
+You gain 33 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Tongue of the Walrus
+You gain 32 hit points
+
+Visiting the Untinker
+
+[465] The Degrassi Knoll Garage
+Encounter: Guard Bugbear wearing an alien mask
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: Guard Bugbear takes 22 damage.
+Round 2: Guard Bugbear heals 18 hit points.
+Round 2: boolicious casts SAUCESTORM!
+Round 3: Guard Bugbear takes 44 damage.
+Round 3: Guard Bugbear takes 44 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 15 hit points
+After Battle: You gain 10 Mana Points
+You gain 29 Meat
+You acquire an item: bugbear beanie
+After Battle: You gain 1 Beefiness
+After Battle: You gain 12 Mysteriousness
+After Battle: You gain 2 Smarm
+
+[466] The Degrassi Knoll Garage
+Encounter: Screwdriver, wider than a mile.
+You acquire an item: rusty screwdriver
+
+Visiting the Untinker
+
+Talking to the Crackpot Mystic
+Took choice 664/1: Sure, old man.  Tell me all about it.
+choice.php?pwd&whichchoice=664&option=1
+Took choice 664/1: Against my better judgment, yes.
+choice.php?pwd&whichchoice=664&option=1
+Took choice 664/1: Er, sure, I guess so...
+choice.php?pwd&whichchoice=664&option=1
+You acquire an item: continuum transfunctioner
+
+aagame.php?pwd&action=joinrobo&robostrength=1
+
+[467] The Old Landfill
+Encounter: junksprite paperclip bender
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: You lose 42 hit points
+Round 2: You lose 42 hit points
+Round 2: You lose 11 hit points
+
+cast 1 Tongue of the Walrus
+You gain 31 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Tongue of the Walrus
+You gain 31 hit points
+
+[468] The Old Landfill
+Encounter: junksprite faucet melter
+Round 0: boolicious wins initiative!
+You acquire an effect: Chokeheld (1)
+Round 1: boolicious casts SAUCESTORM!
+Round 2: junksprite melter takes 43 damage.
+Round 2: junksprite melter takes 43 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 16 hit points
+After Battle: You gain 15 Mana Points
+You acquire an item: funky junk key
+After Battle: You gain 3 Muscleboundness
+After Battle: You gain 13 Wizardliness
+After Battle: You gain 6 Sarcasm
+
+[469] The Old Landfill
+Encounter: Once More Unto the Junk
+Took choice 794/1: The Bathroom of Ten Men
+choice.php?pwd&whichchoice=794&option=1
+Encounter: The Bathroom of Ten Men
+Took choice 795/1: old claw-foot bathtub
+choice.php?pwd&whichchoice=795&option=1
+You acquire an item: old claw-foot bathtub
+
+[470] The Old Landfill
+Encounter: junksprite nail bender
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SWAP MASK!
+Round 2: You lose 11 hit points
+You swap your protest mask for the monster's welding mask
+Round 2: boolicious attacks!
+Round 3: junksprite bender takes 3 damage.
+Round 3: You lose 11 hit points
+Round 3: boolicious casts SAUCESTORM!
+Round 4: You lose 42 hit points
+Round 4: You lose 41 hit points
+Round 4: You lose 11 hit points
+
+cast 1 Tongue of the Walrus
+You gain 31 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Tongue of the Walrus
+You gain 31 hit points
+
+[471] The Old Landfill
+Encounter: junksprite spoon sharpener
+Round 0: boolicious wins initiative!
+You acquire an effect: Chokeheld (1)
+Round 1: boolicious casts SAUCESTORM!
+Round 2: junksprite sharpener takes 50 damage.
+Round 2: junksprite sharpener takes 50 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 10 hit points
+After Battle: You gain 14 Mana Points
+After Battle: You gain 7 Beefiness
+After Battle: You gain 7 Enchantedness
+After Battle: You gain 2 Cheek
+
+[472] The Old Landfill
+Encounter: junksprite screwdriver melter
+Round 0: boolicious wins initiative!
+You acquire an effect: Chokeheld (1)
+Round 1: boolicious casts SAUCESTORM!
+Round 2: junksprite melter takes 50 damage.
+Round 2: junksprite melter takes 50 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 17 hit points
+After Battle: You gain 14 Mana Points
+After Battle: You gain 6 Beefiness
+After Battle: You gain 11 Mysteriousness
+After Battle: You gain 1 Chutzpah
+
+[473] The Old Landfill
+Encounter: junksprite nail sharpener
+Round 0: boolicious wins initiative!
+You acquire an effect: Chokeheld (1)
+Round 1: boolicious casts SAUCESTORM!
+Round 2: junksprite sharpener takes 50 damage.
+Round 2: junksprite sharpener takes 48 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 17 hit points
+After Battle: You gain 17 Mana Points
+After Battle: You gain 7 Fortitude
+You gain a Muscle point!
+After Battle: You gain 7 Magicalness
+After Battle: You gain 2 Smarm
+
+[474] The Old Landfill
+Encounter: junksprite spatula sharpener
+Round 0: boolicious wins initiative!
+You acquire an effect: Chokeheld (1)
+Round 1: boolicious casts STREAM OF SAUCE!
+Round 2: junksprite sharpener takes 24 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 14 hit points
+After Battle: You gain 13 Mana Points
+You acquire an item: funky junk key
+After Battle: You gain 7 Beefiness
+After Battle: You gain 9 Enchantedness
+After Battle: You gain 2 Sarcasm
+
+[475] The Old Landfill
+Encounter: Once More Unto the Junk
+Took choice 794/2: The Den of Iquity
+choice.php?pwd&whichchoice=794&option=2
+Encounter: The Den of Iquity
+Took choice 796/2: old clothesline pole
+choice.php?pwd&whichchoice=796&option=2
+You acquire an item: old clothesline pole
+
+[476] The Old Landfill
+Encounter: junksprite scissors sharpener
+Round 0: boolicious wins initiative!
+You acquire an effect: Chokeheld (1)
+Round 1: boolicious casts STREAM OF SAUCE!
+Round 2: junksprite sharpener takes 24 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 15 hit points
+After Battle: You gain 9 Mana Points
+You acquire an item: jagged scrap metal
+After Battle: You gain 8 Strongness
+After Battle: You gain 7 Mysteriousness
+You gain a Mysticality point!
+After Battle: You gain 1 Smarm
+
+cast 1 Soul Food
+You gain 15 Mana Points
+
+cast 1 Soul Funk
+You acquire an effect: Soul Funk (10)
+
+cast 1 Jalapeño Saucesphere
+You acquire an effect: Jalape&ntilde;o Saucesphere (10)
+
+cast 1 Elemental Saucesphere
+You acquire an effect: Elemental Saucesphere (10)
+
+cast 3 Elemental Saucesphere
+You acquire an effect: Elemental Saucesphere (30)
+
+cast 3 Jalapeño Saucesphere
+You acquire an effect: Jalape&ntilde;o Saucesphere (30)
+
+[477] The Old Landfill
+Encounter: junksprite coat hanger bender
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts STREAM OF SAUCE!
+Round 2: You lose 17 hit points
+Round 2: junksprite bender takes 9 damage.
+Round 2: boolicious attacks!
+Round 3: junksprite bender takes 29 damage.
+Round 3: junksprite bender takes 8 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 14 hit points
+After Battle: You gain 17 Mana Points
+After Battle: You gain 7 Fortitude
+After Battle: You gain 5 Wizardliness
+After Battle: You gain 3 Chutzpah
+You gain 2 Soulsauce
+
+[478] The Old Landfill
+Encounter: junksprite silverware melter
+Round 0: boolicious wins initiative!
+You acquire an effect: Chokeheld (1)
+Round 1: boolicious attacks!
+Round 2: junksprite melter takes 31 damage.
+Round 2: junksprite melter takes 9 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 9 hit points
+After Battle: You gain 10 Mana Points
+After Battle: You gain 7 Strengthliness
+After Battle: You gain 7 Magicalness
+After Battle: You gain 2 Cheek
+You gain 3 Soulsauce
+
+[479] The Old Landfill
+Encounter: junksprite railroad spike bender
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: junksprite bender takes 30 damage.
+Round 2: junksprite bender takes 8 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 18 hit points
+After Battle: You gain 9 Mana Points
+You acquire an item: Worse Homes and Gardens
+After Battle: You gain 8 Muscleboundness
+After Battle: You gain 5 Mysteriousness
+After Battle: You gain 2 Smarm
+You gain 3 Soulsauce
+
+cast 1 Summon Clip Art
+You acquire an item: 4:20 bomb
+
+cast 1 Summon Clip Art
+You acquire an item: Beignet Milgranet
+
+cast 1 Summon Clip Art
+You acquire an item: Bordeaux Marteaux
+
+Create 2 meat paste
+You acquire meat paste (2)
+You lose 20 Meat
+
+Combine 1 full meat tank + 1 cog and sprocket assembly
+You acquire an item: meat engine
+Crafting used 1 each of cog and sprocket assembly and full meat tank
+
+Combine 1 frilly skirt + 1 meat engine
+You acquire an item: Meat maid body
+Crafting used 1 each of meat engine and frilly skirt
+
+[480] Cook 1 scrumptious reagent + 1 hot wing
+You acquire an item: Devil's Elbow Hot Sauce
+Crafting used 1 each of scrumptious reagent and hot wing
+
+use 1 37x37x37 puzzle cube
+You acquire an effect: Puzzle Fury (10)
+
+use 1 37x37x37 puzzle cube
+You acquire an effect: Puzzle Fury (10)
+
+[481] Itznotyerzitz Mine
+Encounter: grumpy 7-Foot Dwarf wearing a snowman mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts STREAM OF SAUCE!
+Round 2: grumpy 7-Foot Dwarf takes 30 damage.
+Round 2: grumpy 7-Foot Dwarf takes 10 damage.
+Round 2: You lose 23 hit points
+Round 2: boolicious attacks!
+Round 3: grumpy 7-Foot Dwarf takes 10 damage.
+Round 3: grumpy 7-Foot Dwarf takes 8 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 17 hit points
+After Battle: You gain 18 Mana Points
+You gain 51 Meat
+You acquire an item: 7-Foot Dwarven mattock
+After Battle: You gain 7 Fortitude
+After Battle: You gain 11 Mysteriousness
+After Battle: You gain 3 Sarcasm
+You gain 4 Soulsauce
+outfit Mining Gear
+
+[482] Itznotyerzitz Mine (in Disguise)
+You acquire an item: stone of eXtreme power
+
+[483] Itznotyerzitz Mine (in Disguise)
+You lose 42 hit points
+
+[484] Itznotyerzitz Mine (in Disguise)
+You acquire an item: stone of eXtreme power
+
+[485] Itznotyerzitz Mine (in Disguise)
+You acquire an item: loadstone
+
+[486] Itznotyerzitz Mine (in Disguise)
+You lose 48 hit points
+
+cast 1 Tongue of the Walrus
+You gain 35 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Tongue of the Walrus
+You gain 37 hit points
+
+[487] Itznotyerzitz Mine (in Disguise)
+You acquire an item: lump of diamond
+
+[488] Itznotyerzitz Mine (in Disguise)
+You acquire an item: lump of diamond
+
+[489] Itznotyerzitz Mine (in Disguise)
+You acquire an item: asbestos ore
+
+[490] Itznotyerzitz Mine (in Disguise)
+You acquire an item: chrome ore
+
+[491] Itznotyerzitz Mine (in Disguise)
+You acquire an item: asbestos ore
+
+[492] Itznotyerzitz Mine (in Disguise)
+You acquire an item: asbestos ore
+
+[493] Itznotyerzitz Mine (in Disguise)
+You acquire an item: lump of diamond
+
+[494] Itznotyerzitz Mine (in Disguise)
+You acquire an item: asbestos ore
+
+[495] Itznotyerzitz Mine (in Disguise)
+You lose 62 hit points
+
+cast 1 Tongue of the Walrus
+You gain 38 hit points
+
+cast 1 Tongue of the Walrus
+You gain 30 hit points
+
+eat 1 peppermint patty
+You gain 14 Adventures
+You gain 19 Strengthliness
+You gain 15 Mysteriousness
+You gain 20 Cheek
+You gain 2 Fullness
+
+Use 2 peppermint sprout
+You acquire an item: peppermint patty
+
+eat 1 peppermint patty
+You gain 10 Adventures
+You gain 19 Beefiness
+You gain a Muscle point!
+You gain 18 Magicalness
+You gain 18 Roguishness
+You gain a Moxie point!
+You gain 2 Fullness
+
+eat 1 sleeping dog
+You gain 10 Adventures
+You gain 2 Fullness
+You learned a new skill: Dog Tired
+
+eat 2 traditional Crimbo cookie
+You gain 8 Adventures
+You acquire an effect: Yeast-Hungry (75)
+You gain 2 Fullness
+You gain 10 Adventures
+You acquire an effect: Yeast-Hungry (75)
+You gain 2 Fullness
+
+drink 1 Beignet Milgranet
+You gain 4 Adventures
+You gain 17 Strongness
+You gain 13 Wizardliness
+You gain 38 Sarcasm
+You acquire an effect: Sugar Rush (100)
+You gain 1 Drunkenness
+
+drink 1 Sockdollager
+You gain 8 Adventures
+You acquire an effect: In a Lather (25)
+You gain 2 Drunkenness
+You lose 500 Meat
+
+drink 1 Sockdollager
+You gain 6 Adventures
+You acquire an effect: In a Lather (25)
+You gain 2 Drunkenness
+You lose 500 Meat
+
+drink 1 Sockdollager
+You gain 8 Adventures
+You acquire an effect: In a Lather (25)
+You gain 2 Drunkenness
+You lose 500 Meat
+
+drink 1 Bordeaux Marteaux
+You gain 3 Adventures
+You gain 70 Beefiness
+You gain a Muscle point!
+You acquire an effect: Hammered (20)
+You gain 1 Drunkenness
+
+[496] Itznotyerzitz Mine (in Disguise)
+You acquire an item: chrome ore
+
+[497] Itznotyerzitz Mine (in Disguise)
+You acquire an item: chrome ore
+
+[498] Itznotyerzitz Mine (in Disguise)
+You acquire an item: linoleum ore
+
+[499] Itznotyerzitz Mine (in Disguise)
+You acquire an item: linoleum ore
+
+[500] Itznotyerzitz Mine (in Disguise)
+You acquire an item: linoleum ore
+
+Visiting the Trapper
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22pec+oil%22
+
+pull: 1 helm of the white knight
+
+equip hat helm of the white knight
+
+pull: 1 double-barreled sling
+
+equip weapon double-barreled sling
+
+pull: 1 eXtreme Bi-Polar Fleece Vest
+
+equip shirt eXtreme Bi-Polar Fleece Vest
+
+clan_viplounge.php?preaction=buyfloundryitem&whichitem=9003
+You acquire an item: troutsers
+
+equip pants troutsers
+
+pull: 1 enchanted handwarmer
+
+equip acc1 enchanted handwarmer
+
+pull: 1 sock garters
+
+equip acc3 sock garters
+
+pull: 1 Pok&euml;mann figurine: Duck
+
+equip acc2 Pokëmann figurine: Duck
+
+[501] The eXtreme Slope
+Encounter: 70 Mysticality
+
+Ascending the Mist-Shrouded Peak
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22roasted+marshmallow%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Crimbo+candied+pecan%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22patchouli+incense+stick%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22ginger+snaps%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22hot+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Trivial+Avocations+Card%3A+Who%3F%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Trivial+Avocations+Card%3A+Where%3F%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Trivial+Avocations+Card%3A+What%3F%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Trivial+Avocations+Card%3A+When%3F%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22old+rosewater+cream%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22moose+thought%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22gummi+snake%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22spooky+eyeliner%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22spooky+lipstick%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22shot+of+flower+schnapps%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Taco+Dan%27s+Taco+Stand+Chillacious+Churro%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22funky+dried+mushroom%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22maple+syrup%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22yellow+candy+heart%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22jaba%26ntilde%3Bero-flavored+chewing+gum%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22pickle-flavored+chewing+gum%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22twinkly+wad%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22java+cookie%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22cold-filtered+water%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22flask+of+baconstone+juice%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22glittery+mascara%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22giant+giant+moth+dust%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22gingerbread+robot%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22thin+black+candle%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22ointment+of+the+occult%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22nut-shaped+Crimbo+cookie%22
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22petit+4.1%22
+
+pull: 1 Trivial Avocations Card: Who?
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (1)
+Trivia card #811/1200:
+Question: Who won the copper medal for murderball in the 1979 Olympics?
+Answer: A robber named Ike Stemple.
+
+pull: 1 Trivial Avocations Card: Where?
+
+use 1 Trivial Avocations Card: Where?
+You acquire an effect: You Know Where to Go (1)
+Trivia card #1012/1200:
+Question: Where did Sir Mitch Draper, inventor of the pedal-powered telephone pole, annoy the Empress of Claremont?
+
+pull: 1 Trivial Avocations Card: What?
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (1)
+Trivia card #225/1200:
+Question: What did Diego Smith's uncle find in the freezer on Petember first, 1927?
+Answer: A pickle that looked just like the Tsar of Thulianhawk.
+
+pull: 1 Trivial Avocations Card: When?
+
+use 1 Trivial Avocations Card: When?
+You lose an effect: You Know What's Up (-1)
+You lose an effect: You Know Who to Call (-1)
+You lose an effect: You Know Where to Go (-1)
+You acquire an effect: Trivia Master (30)
+Trivia card #494/1200:
+Question: When did the Bloody Battle of The Ninja Woods begin?
+Answer: According to the old calendar, the seventh day of the Month of the Lizard in the Year of the Monocle.
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=0&pudnuggler=%22Okee-Dokee+soda%22
+
+[501] The eXtreme Slope
+Encounter: eXtreme Orcish snowboarder wearing a ski mask
+Round 0: boolicious loses initiative!
+Round 1: boolicious casts STREAM OF SAUCE!
+Round 2: eXtreme Orcish snowboarder takes 36 damage.
+Round 2: You lose 1 hit point
+Round 2: boolicious casts SALSABALL!
+Round 3: eXtreme Orcish snowboarder takes 12 damage.
+Round 3: You lose 1 hit point
+Round 3: boolicious casts STREAM OF SAUCE!
+Round 4: eXtreme Orcish snowboarder takes 36 damage.
+Round 4: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 13 hit points
+After Battle: You gain 12 Mana Points
+You gain 44 Meat
+After Battle: You gain 8 Beefiness
+After Battle: You gain 15 Wizardliness
+After Battle: You gain 4 Chutzpah
+You gain 3 Soulsauce
+
+[502] The eXtreme Slope
+Encounter: sk8 gnome wearing a welding mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts CURSE OF MARINARA!
+Round 2: sk8 gnome takes 3 damage.
+Round 2: You gain 3 hit points
+Round 2: sk8 gnome takes 2 damage.
+Round 2: You lose 7 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: You lose 7 hit points
+Round 3: You lose 22 hit points
+Round 3: sk8 gnome takes 3 damage.
+Round 3: You gain 3 hit points
+Round 3: boolicious wins the fight!
+After Battle: You gain 22 hit points
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 14 hit points
+After Battle: You gain 18 Mana Points
+You gain 73 Meat
+After Battle: You gain 10 Beefiness
+After Battle: You gain 14 Magicalness
+After Battle: You gain 3 Cheek
+You gain 4 Soulsauce
+
+[503] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: boolicious attacks!
+Round 3: eXtreme cross-country hippy takes 355 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 13 hit points
+After Battle: You gain 14 Mana Points
+You acquire an item: Mountain Stream soda
+After Battle: You gain 8 Muscleboundness
+After Battle: You gain 13 Mysteriousness
+After Battle: You gain 5 Cheek
+You gain 4 Soulsauce
+
+[504] The eXtreme Slope
+Encounter: sk8 gnome wearing a welding mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sk8 gnome takes 308 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 16 hit points
+After Battle: You gain 16 Mana Points
+You gain 74 Meat
+You acquire an item: gr8ps
+You acquire an item: t8r tots
+After Battle: You gain 14 Fortitude
+After Battle: You gain 11 Mysteriousness
+You gain a Mysticality point!
+After Battle: You gain 1 Roguishness
+You gain 2 Soulsauce
+
+[505] The eXtreme Slope
+Encounter: eXtreme Orcish snowboarder wearing a ski mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: eXtreme Orcish snowboarder takes 333 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 18 hit points
+After Battle: You gain 12 Mana Points
+You gain 47 Meat
+After Battle: You gain 7 Strongness
+After Battle: You gain 17 Wizardliness
+After Battle: You gain 4 Cheek
+You gain 5 Soulsauce
+
+[506] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: eXtreme cross-country hippy takes 379 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 15 hit points
+After Battle: You gain 12 Mana Points
+After Battle: You gain 12 Beefiness
+You gain a Muscle point!
+After Battle: You gain 6 Wizardliness
+After Battle: You gain 7 Roguishness
+You gain 4 Soulsauce
+
+[507] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: eXtreme cross-country hippy takes 351 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 11 hit points
+After Battle: You gain 13 Mana Points
+You acquire an item: Mountain Stream soda
+After Battle: You gain 11 Strongness
+After Battle: You gain 9 Wizardliness
+After Battle: You gain 5 Cheek
+You gain 4 Soulsauce
+
+[508] The eXtreme Slope
+Encounter: sk8 gnome wearing a welding mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sk8 gnome takes 344 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 12 hit points
+After Battle: You gain 11 Mana Points
+You gain 82 Meat
+You acquire an item: eXtreme mittens
+You acquire an item: sk8board
+You acquire an item: Mountain Stream soda
+After Battle: You gain 12 Beefiness
+After Battle: You gain 8 Wizardliness
+After Battle: You gain 5 Sarcasm
+You gain 3 Soulsauce
+
+equip acc1 eXtreme mittens
+
+equip acc2 sk8board
+
+[509] The eXtreme Slope
+Encounter: Generic Teen Comedy Snowboarding Adventure
+Took choice 17/2: snowboarder pants
+choice.php?pwd&whichchoice=17&option=2
+You acquire an item: snowboarder pants
+
+equip pants snowboarder pants
+
+[510] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: eXtreme cross-country hippy takes 269 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 16 hit points
+After Battle: You gain 10 Mana Points
+After Battle: You gain 7 Beefiness
+After Battle: You gain 13 Wizardliness
+After Battle: You gain 6 Chutzpah
+You gain a Moxie point!
+You gain 3 Soulsauce
+
+[511] The eXtreme Slope
+Encounter: eXtreme Orcish snowboarder wearing a ski mask
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: eXtreme Orcish snowboarder takes 255 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Sleighbells Sam, the 14 lb. Yule Hound
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 14 hit points
+After Battle: You gain 14 Mana Points
+You gain 49 Meat
+After Battle: You gain 8 Strongness
+After Battle: You gain 14 Enchantedness
+After Battle: You gain 5 Cheek
+You gain 3 Soulsauce
+
+[512] The eXtreme Slope
+Encounter: eXtreme Orcish snowboarder wearing a ski mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: eXtreme Orcish snowboarder takes 259 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 18 hit points
+After Battle: You gain 15 Mana Points
+You gain 42 Meat
+You acquire an item: snowboarder pants
+You acquire an item: Mountain Stream soda
+After Battle: You gain 11 Muscleboundness
+After Battle: You gain 10 Magicalness
+After Battle: You gain 4 Chutzpah
+You gain 5 Soulsauce
+
+upeffect.php?efid=53&qty=1&pwd&ajax=1&_=1545006961358
+
+cast 1 Elemental Saucesphere
+You acquire an effect: Elemental Saucesphere (10)
+
+upeffect.php?efid=54&qty=1&pwd&ajax=1&_=1545006966386
+
+cast 1 Jalapeño Saucesphere
+You acquire an effect: Jalape&ntilde;o Saucesphere (10)
+
+[513] The eXtreme Slope
+Encounter: eXtreme Orcish snowboarder wearing a ski mask
+Round 0: boolicious loses initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: eXtreme Orcish snowboarder takes 150 damage.
+Round 2: eXtreme Orcish snowboarder takes 75 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 18 hit points
+After Battle: You gain 13 Mana Points
+You gain 40 Meat
+After Battle: You gain 11 Strengthliness
+After Battle: You gain 8 Magicalness
+After Battle: You gain 7 Cheek
+You gain 3 Soulsauce
+
+[514] The eXtreme Slope
+Encounter: sk8 gnome wearing a welding mask
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: sk8 gnome takes 233 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 17 hit points
+After Battle: You gain 13 Mana Points
+You gain 84 Meat
+You acquire an item: eXtreme mittens
+You acquire an item: gr8ps
+You acquire an item: Mountain Stream soda
+You acquire an item: t8r tots
+After Battle: You gain 12 Muscleboundness
+After Battle: You gain 10 Enchantedness
+After Battle: You gain 3 Smarm
+
+[515] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: eXtreme cross-country hippy takes 1 damage.
+Round 2: You lose 2 hit points
+Round 2: boolicious attacks!
+Round 3: eXtreme cross-country hippy takes 261 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 16 hit points
+After Battle: You gain 18 Mana Points
+After Battle: You gain 9 Beefiness
+You gain a Muscle point!
+After Battle: You gain 9 Enchantedness
+After Battle: You gain 7 Cheek
+
+[516] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: eXtreme cross-country hippy takes 228 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 17 hit points
+After Battle: You gain 12 Mana Points
+After Battle: You gain 10 Fortitude
+After Battle: You gain 14 Wizardliness
+After Battle: You gain 3 Roguishness
+
+[517] The eXtreme Slope
+Encounter: Yeti Nother Hippy
+Took choice 15/2: eXtreme scarf
+choice.php?pwd&whichchoice=15&option=2
+You acquire an item: eXtreme scarf
+outfit eXtreme Cold-Weather Gear
+
+[518] The eXtreme Slope
+Encounter: Discovering Your Extremity
+
+[519] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: eXtreme cross-country hippy takes 239 damage.
+Round 2: boolicious wins the fight!
+After Battle: You quickly do a Backside-Grind Cannonball Fresh off of a nearby rock. You're getting better at this!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 11 hit points
+After Battle: You gain 15 Mana Points
+After Battle: You gain 10 Beefiness
+After Battle: You gain 10 Wizardliness
+After Battle: You gain 5 Cheek
+
+[520] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: eXtreme cross-country hippy takes 228 damage.
+Round 2: boolicious wins the fight!
+After Battle: You quickly do a Three-Handed Squirrel off of a nearby rock. You're getting better at this!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 14 hit points
+After Battle: You gain 18 Mana Points
+You acquire an item: Mountain Stream soda
+You acquire an item: enchanted muesli
+After Battle: You gain 12 Muscleboundness
+After Battle: You gain 10 Magicalness
+You gain a Mysticality point!
+After Battle: You gain 4 Cheek
+
+[521] The eXtreme Slope
+Encounter: sk8 gnome wearing a welding mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sk8 gnome takes 204 damage.
+Round 2: boolicious wins the fight!
+After Battle: You quickly do a Rhythm Method Salad-style Snickers off of a nearby rock. You're getting better at this!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 13 hit points
+After Battle: You gain 18 Mana Points
+You gain 83 Meat
+After Battle: You gain 10 Strengthliness
+After Battle: You gain 11 Enchantedness
+After Battle: You gain 5 Smarm
+
+upeffect.php?efid=54&qty=1&pwd&ajax=1&_=1545007102866
+
+cast 1 Jalapeño Saucesphere
+You acquire an effect: Jalape&ntilde;o Saucesphere (10)
+
+upeffect.php?efid=53&qty=1&pwd&ajax=1&_=1545007107944
+
+cast 1 Elemental Saucesphere
+You acquire an effect: Elemental Saucesphere (10)
+
+[522] The eXtreme Slope
+Encounter: sk8 gnome wearing a welding mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sk8 gnome takes 208 damage.
+Round 2: boolicious wins the fight!
+After Battle: You quickly do an Euthanasia-style A B C D E off of a nearby rock. You're getting better at this!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 14 hit points
+After Battle: You gain 17 Mana Points
+You gain 79 Meat
+You acquire an item: gr8ps
+You acquire an item: t8r tots
+After Battle: You gain 11 Strongness
+After Battle: You gain 9 Magicalness
+After Battle: You gain 6 Cheek
+
+[523] The eXtreme Slope
+Encounter: sk8 gnome wearing a welding mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sk8 gnome takes 199 damage.
+Round 2: boolicious wins the fight!
+After Battle: You quickly do a Nose-Block Hispaniola off of a nearby rock. You're getting better at this!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 11 hit points
+After Battle: You gain 12 Mana Points
+You gain 79 Meat
+You acquire an item: gr8ps
+You acquire an item: Mountain Stream soda
+You acquire an item: t8r tots
+After Battle: You gain 12 Strongness
+After Battle: You gain 11 Wizardliness
+After Battle: You gain 3 Sarcasm
+
+[524] The eXtreme Slope
+Encounter: eXtreme Orcish snowboarder wearing a ski mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: eXtreme Orcish snowboarder takes 229 damage.
+Round 2: boolicious wins the fight!
+After Battle: You quickly do a Bali Mandy off of a nearby rock. You're getting better at this!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 15 hit points
+After Battle: You gain 11 Mana Points
+You gain 45 Meat
+After Battle: You gain 9 Strengthliness
+After Battle: You gain 9 Mysteriousness
+After Battle: You gain 8 Sarcasm
+
+[525] The eXtreme Slope
+Encounter: 2 eXXtreme 4 U
+
+[526] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: eXtreme cross-country hippy takes 233 damage.
+Round 2: boolicious wins the fight!
+After Battle: You do a Buttgrab-style Cross-Nose-Block off of a nearby log. Sick! Keep it up!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 12 hit points
+After Battle: You gain 16 Mana Points
+After Battle: You gain 11 Fortitude
+You gain a Muscle point!
+After Battle: You gain 10 Enchantedness
+After Battle: You gain 4 Smarm
+
+[527] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: eXtreme cross-country hippy takes 231 damage.
+Round 2: boolicious wins the fight!
+After Battle: You do a Happy Ho-Pancake Flip Mule Kick off of a nearby log. Sick! Keep it up!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 13 hit points
+After Battle: You gain 14 Mana Points
+You acquire an item: Mountain Stream soda
+After Battle: You gain 9 Muscleboundness
+After Battle: You gain 9 Mysteriousness
+After Battle: You gain 8 Cheek
+
+[528] The eXtreme Slope
+Encounter: sk8 gnome wearing a welding mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sk8 gnome takes 204 damage.
+Round 2: boolicious wins the fight!
+After Battle: You do a Reverse Ollie off of a nearby log. Sick! Keep it up!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 18 hit points
+After Battle: You gain 13 Mana Points
+You gain 79 Meat
+You acquire an item: gr8ps
+You acquire an item: sk8board
+You acquire an item: Mountain Stream soda
+You acquire an item: t8r tots
+After Battle: You gain 11 Muscleboundness
+After Battle: You gain 11 Magicalness
+After Battle: You gain 4 Smarm
+
+[529] The eXtreme Slope
+Encounter: sk8 gnome wearing a welding mask
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: sk8 gnome takes 208 damage.
+Round 2: boolicious wins the fight!
+After Battle: You do a 11° Sadness off of a nearby log. Sick! Keep it up!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 11 hit points
+After Battle: You gain 16 Mana Points
+You gain 67 Meat
+You acquire an item: t8r tots
+After Battle: You gain 8 Muscleboundness
+After Battle: You gain 13 Wizardliness
+After Battle: You gain 6 Cheek
+You gain a Moxie point!
+
+[530] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: eXtreme cross-country hippy takes 236 damage.
+Round 2: boolicious wins the fight!
+After Battle: You do a Segway Charlie Killer Instinct off of a nearby log. Sick! Keep it up!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 19 hit points
+After Battle: You gain 19 Mana Points
+After Battle: You gain 13 Fortitude
+After Battle: You gain 8 Wizardliness
+After Battle: You gain 5 Sarcasm
+
+[531] The eXtreme Slope
+Encounter: eXtreme Orcish snowboarder wearing a ski mask
+Round 0: boolicious loses initiative!
+Round 1: eXtreme Orcish snowboarder takes 3 damage.
+Round 1: You lose 19 hit points
+Round 1: boolicious attacks!
+Round 2: eXtreme Orcish snowboarder takes 7 damage.
+Round 2: You lose 1 hit point
+Round 2: eXtreme Orcish snowboarder takes 3 damage.
+Round 2: You lose 18 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: eXtreme Orcish snowboarder takes 150 damage.
+Round 3: eXtreme Orcish snowboarder takes 75 damage.
+Round 3: boolicious wins the fight!
+After Battle: You do an A B-style Chicken off of a nearby log. Sick! Keep it up!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 16 hit points
+After Battle: You gain 19 Mana Points
+You gain 44 Meat
+After Battle: You gain 9 Muscleboundness
+After Battle: You gain 15 Magicalness
+After Battle: You gain 2 Chutzpah
+
+[532] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: eXtreme cross-country hippy takes 3 damage.
+Round 2: You lose 19 hit points
+Round 2: boolicious attacks!
+Round 3: eXtreme cross-country hippy takes 4 damage.
+Round 3: eXtreme cross-country hippy takes 3 damage.
+Round 3: You lose 18 hit points
+
+cast 1 Tongue of the Walrus
+You gain 31 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Tongue of the Walrus
+You gain 32 hit points
+
+[533] The eXtreme Slope
+Encounter: 3 eXXXtreme 4ever 6pack
+
+[534] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts WAVE OF SAUCE!
+Round 2: eXtreme cross-country hippy takes 1 damage.
+Round 2: You lose 17 hit points
+Round 2: boolicious attacks!
+Round 3: eXtreme cross-country hippy takes 6 damage.
+Round 3: eXtreme cross-country hippy takes 2 damage.
+Round 3: You lose 18 hit points
+Round 3: boolicious attacks!
+Round 4: eXtreme cross-country hippy takes 5 damage.
+Round 4: eXtreme cross-country hippy takes 3 damage.
+Round 4: You lose 19 hit points
+
+cast 1 Tongue of the Walrus
+You gain 30 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Tongue of the Walrus
+You gain 34 hit points
+
+[535] The eXtreme Slope
+Encounter: eXtreme Orcish snowboarder wearing a ski mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: eXtreme Orcish snowboarder takes 150 damage.
+Round 2: eXtreme Orcish snowboarder takes 75 damage.
+Round 2: boolicious wins the fight!
+After Battle: You do a Grabgrab-style Clamato with A B C D E Mandy off of another snowboarder! You have reached maximum eXtremity!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 12 hit points
+After Battle: You gain 16 Mana Points
+You gain 41 Meat
+You acquire an item: Mountain Stream soda
+After Battle: You gain 8 Fortitude
+After Battle: You gain 15 Mysteriousness
+After Battle: You gain 4 Cheek
+
+[536] The eXtreme Slope
+Encounter: eXtreme Orcish snowboarder wearing a ski mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: eXtreme Orcish snowboarder takes 150 damage.
+Round 2: eXtreme Orcish snowboarder takes 75 damage.
+Round 2: boolicious wins the fight!
+After Battle: You do a Double Penguin-Grind-Grind J-Tear Japan to Tweak Nail off of another snowboarder! You have reached maximum eXtremity!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 19 hit points
+After Battle: You gain 16 Mana Points
+You gain 44 Meat
+After Battle: You gain 8 Strongness
+After Battle: You gain 8 Enchantedness
+You gain a Mysticality point!
+After Battle: You gain 9 Roguishness
+
+[537] The eXtreme Slope
+Encounter: sk8 gnome wearing a welding mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: You lose 16 hit points
+Round 2: You lose 72 hit points
+Round 2: boolicious wins the fight!
+After Battle: You do a Chuckie Dracula Goomba Chrysler off of another snowboarder! You have reached maximum eXtremity!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 17 hit points
+After Battle: You gain 12 Mana Points
+You gain 73 Meat
+You acquire an item: gr8ps
+You acquire an item: t8r tots
+After Battle: You gain 11 Beefiness
+After Battle: You gain 11 Mysteriousness
+After Battle: You gain 3 Chutzpah
+
+cast 1 Tongue of the Walrus
+You gain 37 hit points
+You lose an effect: Beaten Up (0)
+
+[538] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: You lose 24 hit points
+Round 2: boolicious uses the leftovers of indeterminate origin!
+Round 3: You lose 24 hit points
+Adjusted combat item count: leftovers of indeterminate origin
+Round 3: boolicious attacks!
+Round 4: eXtreme cross-country hippy takes 6 damage.
+Round 4: You lose 25 hit points
+
+cast 1 Tongue of the Walrus
+You gain 40 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Tongue of the Walrus
+You gain 34 hit points
+
+[539] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious loses initiative!
+Round 1: You lose 24 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: You lose 25 hit points
+Round 2: boolicious casts SOUL BUBBLE!
+Round 3: You lose 26 hit points
+
+cast 1 Tongue of the Walrus
+You gain 34 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Tongue of the Walrus
+You gain 37 hit points
+
+[540] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the clutch of dodecapede eggs!
+Round 2: You lose 25 hit points
+Adjusted combat item count: clutch of dodecapede eggs
+Round 2: boolicious attacks!
+Round 3: eXtreme cross-country hippy takes 5 damage.
+Round 3: You lose 24 hit points
+Round 3: boolicious attacks!
+Round 4: eXtreme cross-country hippy takes 5 damage.
+Round 4: You lose 24 hit points
+
+cast 1 Tongue of the Walrus
+You gain 40 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Tongue of the Walrus
+You gain 37 hit points
+
+[541] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious loses initiative!
+Round 1: You lose 26 hit points
+Round 1: boolicious casts RETURN!
+
+pull: 1 Trivial Avocations Card: Who?
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (1)
+Trivia card #823/1200:
+Question: Who won the tin medal for figure-skating in the 1926 Olympics?
+Answer: Davey Thomas, a toddler in the town of Dropseat.
+
+pull: 1 Trivial Avocations Card: Where?
+
+use 1 Trivial Avocations Card: Where?
+You acquire an effect: You Know Where to Go (1)
+Trivia card #966/1200:
+Question: Where was Moe IV, Empress of Delawhat, liquified?
+Answer: In Professor Billy Bob Huxtable's son's pig stable.
+
+pull: 1 Trivial Avocations Card: What?
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (1)
+Trivia card #225/1200:
+Question: What did Diego Smith's uncle find in the freezer on Petember first, 1927?
+Answer: A pickle that looked just like the Tsar of Thulianhawk.
+
+pull: 1 Trivial Avocations Card: When?
+
+use 1 Trivial Avocations Card: When?
+You lose an effect: You Know What's Up (-1)
+You lose an effect: You Know Who to Call (-1)
+You lose an effect: You Know Where to Go (-1)
+You acquire an effect: Trivia Master (30)
+Trivia card #505/1200:
+Question: When did Señor Wilbur Westinghouse win the Nobel Prize for Hypocrisy?
+Answer: 1517.
+
+pull: 1 Trivial Avocations board game
+
+[542] The eXtreme Slope
+Encounter: sk8 gnome wearing a welding mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sk8 gnome takes 207 damage.
+Round 2: boolicious wins the fight!
+After Battle: You do a Sadness Truck Driver with China-style Instinct off of another snowboarder! You have reached maximum eXtremity!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 10 hit points
+After Battle: You gain 10 Mana Points
+You gain 73 Meat
+You acquire an item: Mountain Stream soda
+After Battle: You gain 9 Muscleboundness
+You gain a Muscle point!
+After Battle: You gain 17 Wizardliness
+After Battle: You gain 1 Cheek
+
+[543] The eXtreme Slope
+Encounter: eXtreme Orcish snowboarder wearing a ski mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: eXtreme Orcish snowboarder takes 230 damage.
+Round 2: boolicious wins the fight!
+After Battle: You do a 69° Inverted Sadness Roast Nail-Method off of another snowboarder! You have reached maximum eXtremity!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 16 hit points
+After Battle: You gain 9 Mana Points
+You gain 40 Meat
+After Battle: You gain 10 Strengthliness
+After Battle: You gain 11 Enchantedness
+After Battle: You gain 4 Sarcasm
+
+[544] The eXtreme Slope
+Encounter: eXtreme Orcish snowboarder wearing a ski mask
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: You lose 3 hit points
+Round 2: You lose 1 hit point
+Round 2: boolicious attacks!
+Round 3: eXtreme Orcish snowboarder takes 227 damage.
+Round 3: boolicious wins the fight!
+After Battle: You do a Poke Bloody to Frontside Seatbelt off of another snowboarder! You have reached maximum eXtremity!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 15 hit points
+After Battle: You gain 10 Mana Points
+You gain 42 Meat
+After Battle: You gain 7 Fortitude
+After Battle: You gain 15 Mysteriousness
+After Battle: You gain 4 Chutzpah
+
+[545] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: eXtreme cross-country hippy takes 242 damage.
+Round 2: boolicious wins the fight!
+After Battle: You do a Rhythm Method-style Stroganoff to One-Footed Tailfish Lando off of another snowboarder! You have reached maximum eXtremity!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 9 hit points
+After Battle: You gain 9 Mana Points
+You acquire an item: eXtreme scarf
+After Battle: You gain 8 Strongness
+After Battle: You gain 13 Magicalness
+After Battle: You gain 5 Chutzpah
+
+[546] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: You lose 5 hit points
+Round 2: boolicious attacks!
+Round 3: eXtreme cross-country hippy takes 239 damage.
+Round 3: boolicious wins the fight!
+After Battle: You do a Pickle Hispaniola plus Inverted Pancake Flip Bali off of another snowboarder! You have reached maximum eXtremity!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 11 hit points
+After Battle: You gain 19 Mana Points
+You acquire an item: Mountain Stream soda
+After Battle: You gain 8 Strongness
+After Battle: You gain 14 Wizardliness
+After Battle: You gain 4 Cheek
+
+[547] The eXtreme Slope
+Encounter: eXtreme Orcish snowboarder wearing a ski mask
+Round 0: boolicious loses initiative!
+Round 1: boolicious attacks!
+Round 2: eXtreme Orcish snowboarder takes 218 damage.
+Round 2: boolicious wins the fight!
+After Battle: You do a Quadruple Double 270° Triple Triple Triple Darkside Tindy-Grab Lobot off of another snowboarder! You have reached maximum eXtremity!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 16 hit points
+After Battle: You gain 16 Mana Points
+You gain 46 Meat
+After Battle: You gain 11 Muscleboundness
+After Battle: You gain 13 Magicalness
+After Battle: You gain 3 Cheek
+
+[548] The eXtreme Slope
+Encounter: sk8 gnome wearing a welding mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: sk8 gnome takes 208 damage.
+Round 2: boolicious wins the fight!
+After Battle: You do a Shifty Wallaby Cross-Snickers Salad Duck Wrestle off of another snowboarder! You have reached maximum eXtremity!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 12 hit points
+After Battle: You gain 14 Mana Points
+You gain 74 Meat
+You acquire an item: sk8board
+You acquire an item: Mountain Stream soda
+You acquire an item: t8r tots
+After Battle: You gain 10 Strengthliness
+After Battle: You gain 14 Magicalness
+After Battle: You gain 3 Roguishness
+
+[549] The eXtreme Slope
+Encounter: eXtreme cross-country hippy wearing a protest mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: eXtreme cross-country hippy takes 228 damage.
+Round 2: boolicious wins the fight!
+After Battle: You do a Sideflip-style Mule Kick plus Triple 360° Pancake Flip off of another snowboarder! You have reached maximum eXtremity!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 14 hit points
+After Battle: You gain 9 Mana Points
+You acquire an item: Mountain Stream soda
+After Battle: You gain 12 Beefiness
+After Battle: You gain 8 Wizardliness
+After Battle: You gain 5 Chutzpah
+
+Ascending the Mist-Shrouded Peak
+
+[550] Mist-Shrouded Peak
+Encounter: panicking Knott Yeti wearing an opera mask
+Round 0: boolicious loses initiative!
+Round 1: You lose 18 hit points
+Round 1: boolicious attacks!
+Round 2: panicking Knott Yeti takes 210 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Sleighbells Sam, the 15 lb. Yule Hound
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 13 hit points
+After Battle: You gain 16 Mana Points
+You gain 256 Meat
+After Battle: You gain 21 Muscleboundness
+You gain a Muscle point!
+After Battle: You gain 27 Mysteriousness
+You gain a Mysticality point!
+You gain a Level!
+After Battle: You gain 14 Roguishness
+
+[551] Mist-Shrouded Peak
+Encounter: panicking Knott Yeti wearing an opera mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: panicking Knott Yeti takes 5 damage.
+Round 2: You lose 18 hit points
+Round 2: boolicious attacks!
+Round 3: panicking Knott Yeti takes 4 damage.
+Round 3: You lose 18 hit points
+Round 3: boolicious casts SAUCESTORM!
+Round 4: panicking Knott Yeti takes 1 damage.
+Round 4: panicking Knott Yeti takes 300 damage.
+Round 4: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 18 hit points
+After Battle: You gain 18 Mana Points
+You gain 238 Meat
+After Battle: You gain 24 Muscleboundness
+After Battle: You gain 25 Wizardliness
+After Battle: You gain 12 Cheek
+You gain a Moxie point!
+
+[552] Mist-Shrouded Peak
+Encounter: panicking Knott Yeti wearing an opera mask
+Round 0: boolicious loses initiative!
+Round 1: You lose 75 hit points
+
+cast 1 Tongue of the Walrus
+You gain 31 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Tongue of the Walrus
+You gain 40 hit points
+
+cast 1 Tongue of the Walrus
+You gain 36 hit points
+
+[553] Mist-Shrouded Peak
+Encounter: panicking Knott Yeti wearing an opera mask
+Round 0: boolicious loses initiative!
+Round 1: You lose 18 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: panicking Knott Yeti takes 1 damage.
+Round 2: panicking Knott Yeti takes 150 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 10 hit points
+After Battle: You gain 18 Mana Points
+You gain 198 Meat
+After Battle: You gain 16 Muscleboundness
+After Battle: You gain 30 Enchantedness
+After Battle: You gain 16 Chutzpah
+
+[554] Mist-Shrouded Peak
+Encounter: Groar wearing an Ed the Undying mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SOUL BUBBLE!
+Round 2: boolicious casts WAVE OF SAUCE!
+Round 3: Groar takes 97 damage.
+Round 3: Groar drops 10 defense.
+Round 3: boolicious casts WAVE OF SAUCE!
+Round 4: Groar takes 132 damage.
+Round 4: Groar drops 9 defense.
+Round 4: boolicious casts WAVE OF SAUCE!
+Round 5: Groar takes 97 damage.
+Round 5: Groar drops 9 defense.
+Round 5: boolicious casts WAVE OF SAUCE!
+Round 6: Groar takes 97 damage.
+Round 6: Groar drops 9 defense.
+Round 6: You lose 34 hit points
+Round 6: boolicious casts WAVE OF SAUCE!
+Round 7: Groar takes 97 damage.
+Round 7: Groar drops 8 defense.
+Round 7: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 20 hit points
+After Battle: You gain 14 Mana Points
+You acquire an item: Groar's fur
+You acquire an item: dense meat stack (5)
+After Battle: You gain 20 Fortitude
+After Battle: You gain 41 Enchantedness
+After Battle: You gain 19 Roguishness
+You gain 4 Soulsauce
+You acquire an item: strange leaflet
+
+Leaflet east
+
+Leaflet open door
+
+Leaflet east
+
+Leaflet take sword
+
+Leaflet inv
+
+Leaflet west
+
+Leaflet open mailbox
+
+Leaflet take leaflet
+
+Leaflet north
+
+Leaflet cut hedge
+
+Leaflet take stick
+
+Leaflet west
+
+Leaflet light stick
+
+Leaflet east
+
+Leaflet north
+
+Leaflet kill serpent
+
+Leaflet open chest
+You acquire an item: Frobozz Real-Estate Company Instant House (TM)
+
+Leaflet look behind chest
+
+Leaflet look in hole
+You acquire an item: grue egg
+
+Leaflet south
+
+Leaflet south
+
+Leaflet east
+
+Leaflet examine fireplace
+(You see a ceramic model of a small brick building)
+
+Leaflet plugh
+You gain 200 Strengthliness
+You gain some Muscle points!
+You gain 221 Enchantedness
+You gain some Mysticality points!
+You gain 200 Cheek
+You gain some Moxie points!
+
+Leaflet examine fireplace
+(You see a ceramic model of a small brick building)
+
+Leaflet examine tinder
+
+Leaflet light fireplace
+
+Leaflet take boots
+
+Leaflet wear boots
+
+Leaflet west
+
+Leaflet south
+
+Leaflet south
+
+Leaflet south
+
+Leaflet north
+
+Leaflet south
+
+Leaflet north
+
+Leaflet south
+
+Leaflet north
+
+Leaflet north
+
+Leaflet up
+
+Leaflet take egg
+
+Leaflet throw egg at roadrunner
+
+Leaflet down
+
+Leaflet move leaves
+
+Leaflet up
+
+Leaflet throw ruby at petunias
+
+Leaflet read scroll
+
+Leaflet GNUSTO CLEESH
+You learned a new skill: CLEESH
+
+Leaflet up
+
+Leaflet CLEESH giant
+
+Leaflet take ring
+You acquire an item: giant pinky ring
+
+use 1 Trivial Avocations board game
+You acquire an item: Trivial Avocations Card: Where?
+You acquire an item: Trivial Avocations Card: When?
+You acquire an item: Trivial Avocations Card: Who?
+
+main.php?checkbfast=9
+
+cast 10 Jalapeño Saucesphere
+You acquire an effect: Jalape&ntilde;o Saucesphere (100)
+
+cast 5 Elemental Saucesphere
+You acquire an effect: Elemental Saucesphere (50)
+
+use 1 Mountain Stream soda
+You gain 40 Mana Points
+
+use 1 Mountain Stream soda
+You gain 40 Mana Points
+
+cast 5 Elemental Saucesphere
+You acquire an effect: Elemental Saucesphere (50)
+
+use 2 Okee-Dokee soda
+You gain 52 Mana Points
+You acquire an effect: Okee-Dokee Go! (27)
+You acquire an effect: Okee-Dokee Computer (22)
+You acquire an effect: Okee-Dokee, Smokee (24)
+You acquire an effect: Sugar Rush (40)
+
+[555] Pandamonium Slums
+Encounter: Hellion wearing a murderer mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: Hellion takes 85 damage.
+Round 2: Hellion takes 1 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 15 hit points
+After Battle: You gain 18 Mana Points
+You acquire an item: hellion cube
+After Battle: You gain 8 Muscleboundness
+After Battle: You gain 8 Enchantedness
+After Battle: You gain 4 Chutzpah
+You gain 1 Soulsauce
+
+[556] Pandamonium Slums
+Encounter: G imp wearing a ski mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: G imp takes 85 damage.
+Round 2: G imp takes 1 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 18 hit points
+After Battle: You gain 12 Mana Points
+You gain 30 Meat
+You acquire an item: hot wing
+After Battle: You gain 8 Fortitude
+You gain a Muscle point!
+After Battle: You gain 8 Mysteriousness
+After Battle: You gain 2 Chutzpah
+
+[557] The Laugh Floor
+Encounter: Victor the Insult Comic Hellhound wearing a snowman mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: Victor the Insult Comic Hellhound takes 85 damage.
+Round 2: Victor the Insult Comic Hellhound takes 85 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 13 hit points
+After Battle: You gain 19 Mana Points
+You acquire an item: Victor, the Insult Comic Hellhound Puppet
+After Battle: You gain 8 Strongness
+After Battle: You gain 10 Enchantedness
+After Battle: You gain 6 Smarm
+
+equip off-hand Victor, the Insult Comic Hellhound Puppet
+Trying to insult Mourn
+You acquire meat stack (3)
+
+[558] The Laugh Floor
+Encounter: BL Imp wearing a ski mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: BL Imp takes 167 damage.
+Round 2: BL Imp takes 1 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 12 hit points
+After Battle: You gain 12 Mana Points
+You gain 45 Meat
+After Battle: You gain 7 Strongness
+After Battle: You gain 18 Magicalness
+After Battle: You gain 1 Roguishness
+
+[559] The Laugh Floor
+Encounter: BL Imp wearing a ski mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: BL Imp takes 84 damage.
+Round 2: BL Imp takes 1 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 10 hit points
+After Battle: You gain 17 Mana Points
+You gain 42 Meat
+After Battle: You gain 11 Strongness
+After Battle: You gain 9 Wizardliness
+After Battle: You gain 5 Sarcasm
+You gain a Moxie point!
+
+[560] The Laugh Floor
+Encounter: BL Imp wearing a ski mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: BL Imp takes 84 damage.
+Round 2: BL Imp takes 1 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 19 hit points
+After Battle: You gain 13 Mana Points
+You gain 47 Meat
+After Battle: You gain 7 Fortitude
+After Battle: You gain 13 Magicalness
+After Battle: You gain 5 Chutzpah
+
+[561] The Laugh Floor
+Encounter: Pr Imp wearing a murderer mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: Pr Imp takes 84 damage.
+Round 2: Pr Imp takes 1 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 11 hit points
+After Battle: You gain 10 Mana Points
+You gain 49 Meat
+After Battle: You gain 6 Beefiness
+After Battle: You gain 13 Enchantedness
+After Battle: You gain 5 Chutzpah
+
+[563] Infernal Rackets Backstage
+Encounter: Entour Rage
+You acquire an item: booze-soaked cherry
+
+[563] Infernal Rackets Backstage
+Encounter: inkubus wearing a snowman mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: inkubus takes 84 damage.
+Round 2: inkubus takes 1 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 16 hit points
+After Battle: You gain 13 Mana Points
+You gain 53 Meat
+After Battle: You gain 8 Strongness
+After Battle: You gain 10 Magicalness
+You gain a Mysticality point!
+After Battle: You gain 5 Sarcasm
+
+[564] Infernal Rackets Backstage
+Encounter: suckubus wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 77 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: suckubus takes 84 damage.
+Round 2: suckubus takes 1 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 17 hit points
+After Battle: You gain 12 Mana Points
+You gain 41 Meat
+You acquire an item: bus pass
+After Battle: You gain 8 Fortitude
+After Battle: You gain 9 Wizardliness
+After Battle: You gain 5 Roguishness
+
+cast 10 Sauce Contemplation
+You acquire an effect: Saucemastery (50)
+
+cast 4 Soul Rotation
+
+cast 1 Soul Rotation
+You acquire an effect: Soulerskates (10)
+
+upeffect.php?efid=1465&qty=1&pwd&ajax=1&_=1545008022634
+
+cast 1 Soul Rotation
+You acquire an effect: Soulerskates (10)
+
+[565] Infernal Rackets Backstage
+Encounter: suckubus wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 77 hit points
+
+cast 1 Tongue of the Walrus
+You gain 39 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Tongue of the Walrus
+You gain 30 hit points
+
+cast 1 Tongue of the Walrus
+You gain 33 hit points
+
+[566] Infernal Rackets Backstage
+Encounter: Suckubus? You Hardly Know Us!
+You acquire an item: beer-scented teddy bear
+
+[567] Infernal Rackets Backstage
+Encounter: Your Bassist Impulses
+You acquire an item: sponge cake
+
+[568] Infernal Rackets Backstage
+Encounter: serialbus wearing a gasmask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: serialbus takes 84 damage.
+Round 2: serialbus takes 1 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 20 hit points
+After Battle: You gain 15 Mana Points
+You gain 29 Meat
+You acquire an item: bus pass
+After Battle: You gain 9 Strengthliness
+After Battle: You gain 13 Wizardliness
+After Battle: You gain 3 Roguishness
+You gain 2 Soulsauce
+
+[569] Infernal Rackets Backstage
+Encounter: Primo Donno
+You acquire an item: giant marshmallow
+
+[570] Infernal Rackets Backstage
+Encounter: serialbus wearing a gasmask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: serialbus takes 84 damage.
+Round 2: serialbus takes 1 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 12 hit points
+After Battle: You gain 18 Mana Points
+You gain 33 Meat
+You acquire an item: bus pass
+After Battle: You gain 10 Beefiness
+After Battle: You gain 9 Enchantedness
+After Battle: You gain 5 Chutzpah
+You gain 3 Soulsauce
+
+[571] Infernal Rackets Backstage
+Encounter: A Pertinent Imp
+You acquire an item: comfy pillow
+
+[572] Infernal Rackets Backstage
+Encounter: inkubus wearing a snowman mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: inkubus takes 49 damage.
+Round 2: inkubus takes 1 damage.
+Round 2: You lose 5 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: inkubus takes 51 damage.
+Round 3: inkubus takes 1 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 17 hit points
+After Battle: You gain 19 Mana Points
+You gain 64 Meat
+After Battle: You gain 12 Strengthliness
+After Battle: You gain 6 Wizardliness
+After Battle: You gain 4 Sarcasm
+You gain 2 Soulsauce
+
+[573] Infernal Rackets Backstage
+Encounter: inkubus wearing a snowman mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: inkubus takes 48 damage.
+Round 2: inkubus takes 1 damage.
+Round 2: You lose 5 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: inkubus takes 50 damage.
+Round 3: inkubus takes 1 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 18 hit points
+After Battle: You gain 10 Mana Points
+You gain 48 Meat
+After Battle: You gain 10 Beefiness
+You gain a Muscle point!
+After Battle: You gain 9 Mysteriousness
+After Battle: You gain 4 Roguishness
+You gain 4 Soulsauce
+
+[574] Infernal Rackets Backstage
+Encounter: A Dicey Situation
+You acquire an item: gin-soaked blotter paper
+
+equip hat Ancient Saucehelm
+
+equip weapon 5-Alarm Saucepan
+
+equip off-hand Glass Balls of the Goblin King
+
+equip shirt junk-mail shirt
+
+equip pants Newman's Own Trousers
+
+equip acc1 Mr. Accessory
+
+equip acc2 Jarlsberg's earring
+
+equip acc3 tiny plastic the Free Man
+
+Visiting Fortune Teller in clan VIP lounge
+Took choice 1278/1: Consult with Zatara
+choice.php?whichchoice=1278&option=1&which=-5&q1=pizza&q2=batman&q3=thick
+You acquire an effect: Everybody Calls Him Gorgon (100)
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (1)
+Trivia card #640/1200:
+Question: Who ignored the analog internal combustion automobile?
+Answer: Glenn, the last Earl of Kilmer.
+
+use 1 Trivial Avocations Card: Where?
+Encounter: serialbus wearing a gasmask
+Round 0: boolicious wins initiative!
+
+[575] Infernal Rackets Backstage
+Round 1: boolicious casts SAUCESTORM!
+Round 2: serialbus takes 120 damage.
+Round 2: serialbus takes 1 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 19 hit points
+After Battle: You gain 10 Mana Points
+You gain 41 Meat
+After Battle: You gain 10 Strongness
+After Battle: You gain 15 Mysteriousness
+After Battle: You gain 3 Roguishness
+You gain 3 Soulsauce
+
+[576] Infernal Rackets Backstage
+Encounter: inkubus wearing a snowman mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: inkubus takes 60 damage.
+Round 2: inkubus takes 1 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 12 hit points
+After Battle: You gain 17 Mana Points
+You gain 65 Meat
+After Battle: You gain 10 Beefiness
+After Battle: You gain 13 Wizardliness
+After Battle: You gain 4 Sarcasm
+You gain 4 Soulsauce
+
+eat 2 traditional Crimbo cookie
+You gain 9 Adventures
+You acquire an effect: Yeast-Hungry (75)
+You gain 2 Fullness
+You gain 9 Adventures
+You acquire an effect: Yeast-Hungry (75)
+You gain 2 Fullness
+
+Buy and eat 1 peach for 450 Meat
+You gain 3 Adventures
+You gain 20 Smarm
+You gain 1 Fullness
+You spent 450 Meat
+
+drink 2 runny fermented egg
+You gain 4 Adventures
+You gain 1 Drunkenness
+You gain 4 Adventures
+You gain 1 Drunkenness
+
+drink 1 two meat muck
+You gain 9 Adventures
+You gain 44 Muscleboundness
+You gain 48 Mysteriousness
+You gain 46 Chutzpah
+You gain a Moxie point!
+You gain 3 Drunkenness
+
+Talking to Sven Golly at the Hey Deze Arena
+Giving giant marshmallow to Bognort
+Giving beer-scented teddy bear to Stinkface
+Giving booze-soaked cherry to Flargwurm
+Giving comfy pillow to Jim
+You acquire an item: Azazel's unicorn
+
+Talking to Mourn at Belilafs Comedy Club
+
+[577] The Laugh Floor
+Encounter: Larry of the Field of Signs wearing a tiki mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: Larry of the Field of Signs takes 10 damage.
+Round 2: Larry of the Field of Signs takes 10 damage.
+Round 2: boolicious attacks!
+Round 3: Larry of the Field of Signs takes 10 damage.
+Round 3: Larry of the Field of Signs takes 2 damage.
+Round 3: You lose 10 hit points
+Round 3: boolicious casts SAUCESTORM!
+Round 4: Larry of the Field of Signs takes 10 damage.
+Round 4: Larry of the Field of Signs takes 10 damage.
+Round 4: boolicious casts WAVE OF SAUCE!
+Round 5: Larry of the Field of Signs takes 10 damage.
+Round 5: Larry of the Field of Signs drops 9 defense.
+Round 5: boolicious casts SOUL BUBBLE!
+Round 6: boolicious casts CURSE OF VICHYSSOISE!
+Round 7: Larry of the Field of Signs takes 7 damage.
+Round 7: boolicious attacks!
+Round 8: Larry of the Field of Signs takes 10 damage.
+Round 8: Larry of the Field of Signs takes 7 damage.
+Round 8: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 15 hit points
+After Battle: You gain 13 Mana Points
+You acquire an item: observational glasses
+After Battle: You gain 7 Beefiness
+After Battle: You gain 20 Mysteriousness
+After Battle: You gain 4 Smarm
+You gain 3 Soulsauce
+
+equip acc1 observational glasses
+Trying some observational humor on Mourn
+You acquire an item: Azazel's lollipop
+
+Visiting Azazel's Temple in Pandamonium
+
+Visiting Moaning Panda Square in Pandamonium
+
+[578] The Laugh Floor
+Encounter: CH Imp wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: CH Imp takes 60 damage.
+Round 2: CH Imp takes 1 damage.
+Round 2: You lose 23 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: CH Imp takes 60 damage.
+Round 3: CH Imp takes 1 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 12 hit points
+After Battle: You gain 14 Mana Points
+You gain 33 Meat
+After Battle: You gain 8 Fortitude
+After Battle: You gain 14 Magicalness
+You gain a Mysticality point!
+After Battle: You gain 7 Chutzpah
+You gain 4 Soulsauce
+
+Use 1 disassembled clover
+You acquire an item: ten-leaf clover
+
+[579] The Laugh Floor
+Encounter: Pr Imp wearing a murderer mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: Pr Imp takes 50 damage.
+Round 2: Pr Imp takes 1 damage.
+Round 2: Pr Imp takes 3 damage.
+Round 2: You lose 25 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: Pr Imp takes 50 damage.
+Round 3: Pr Imp takes 1 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 16 hit points
+After Battle: You gain 19 Mana Points
+You gain 56 Meat
+After Battle: You gain 11 Strongness
+You gain a Muscle point!
+After Battle: You gain 13 Enchantedness
+After Battle: You gain 5 Chutzpah
+You gain 3 Soulsauce
+
+Use 1 ten-leaf clover
+You acquire an item: disassembled clover
+
+[580] Pandamonium Slums
+Encounter: Fallen Archfiend wearing a snowman mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: Fallen Archfiend takes 50 damage.
+Round 2: Fallen Archfiend takes 1 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 13 hit points
+After Battle: You gain 10 Mana Points
+You gain 49 Meat
+After Battle: You gain 7 Fortitude
+After Battle: You gain 14 Magicalness
+After Battle: You gain 4 Cheek
+You gain 1 Soulsauce
+
+[581] Pandamonium Slums
+Encounter: L imp wearing a punk mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: L imp takes 50 damage.
+Round 2: L imp takes 1 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 17 hit points
+After Battle: You gain 11 Mana Points
+You gain 35 Meat
+You acquire an item: Imp Ale
+After Battle: You gain 7 Beefiness
+After Battle: You gain 14 Enchantedness
+After Battle: You gain 3 Chutzpah
+You gain 2 Soulsauce
+
+[582] Pandamonium Slums
+Encounter: Demoninja wearing a snowman mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: Demoninja takes 50 damage.
+Round 2: Demoninja takes 1 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 20 hit points
+After Battle: You gain 19 Mana Points
+You gain 57 Meat
+After Battle: You gain 7 Beefiness
+After Battle: You gain 15 Magicalness
+After Battle: You gain 4 Smarm
+You gain 4 Soulsauce
+
+Visiting Hot Dog Stand in clan VIP lounge
+
+Visiting Speakeasy in clan VIP lounge
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+December 16, 2018 - Martinus 6
+
+Ronald: waning gibbous
+Grimace: first quarter
+Mini-moon: behind Ronald
+
+Generic Summer Holiday: 5 days
+Dependence Day: 14 days
+Festival of Jarlsberg: 17 days
+Arrrbor Day: 22 days
+Lab&oacute;r Day: 32 days
+Halloween: 42 days
+Feast of Boris: 49 days
+Yuletide: 54 days
+Valentine's Day: 60 days
+St. Sneaky Pete's Day: 77 days
+Oyster Egg Day: 84 days
+El Dia De Los Muertos Borrachos: 92 days
+
+
+3 days until Muscle.
+
+
+ > status
+
+Name: boolicious
+Class: Sauceror
+
+Lv: 9
+HP: 62 / 62
+MP: 253 / 400
+
+Mus: 56 (49), tnp = 78
+Mys: 200 (72), tnp = 76
+Mox: 52 (45), tnp = 44
+
+Advs: 32
+Meat: 4,358
+
+Full: 15 / 15
+Drunk: 13 / 14
+Spleen: 1 / 15
+
+
+ > equipment
+
+Hat: Ancient Saucehelm
+Weapon: 5-Alarm Saucepan
+Off-hand: Glass Balls of the Goblin King
+Shirt: junk-mail shirt
+Pants: Newman's Own Trousers
+
+Acc. 1: observational glasses
+Acc. 2: Jarlsberg's earring
+Acc. 3: tiny plastic the Free Man
+
+Pet: Yule Hound (15 lbs)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Dog Tired
+ - Transcendent Olfaction
+
+Seal Clubber
+ - Rage of the Reindeer
+ - Tongue of the Walrus
+
+Sauceror
+ - Advanced Saucecrafting
+ - Curse of Marinara
+ - Curse of Vichyssoise
+ - Elemental Saucesphere
+ - Expert Panhandling
+ - Icy Glare
+ - Inner Sauce
+ - Jalapeño Saucesphere
+ - Salsaball
+ - Sauce Contemplation
+ - Saucestorm
+ - Saucy Salve
+ - Simmer
+ - Soul Saucery
+ - Stream of Sauce
+ - Wave of Sauce
+
+Accordion Thief
+ - Brawnee's Anthem of Absorption
+ - Cone of Zydeco
+ - Mariachi Memory
+ - The Magical Mojomuscular Melody
+
+Conditional
+ - Soul Blaze
+ - Soul Bubble
+ - Soul Finger
+ - Soul Food
+ - Soul Funk
+ - Soul Rotation
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Geeky Gifts
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 4 AT buffs active.
+Soulerskates (2)
+Sugar Rush (53)
+Elemental Saucesphere (72)
+Jalape&ntilde;o Saucesphere (72)
+Everybody Calls Him Gorgon (92)
+Saucemastery (161)
+Yeast-Hungry (213)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +50.00%
+
+Exp: +5.00
+Meat: +15.00%
+Item: +5.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+Visiting Floundry in clan VIP lounge
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+December 16, 2018 - Martinus 6
+
+Ronald: waning gibbous
+Grimace: first quarter
+Mini-moon: behind Ronald
+
+Generic Summer Holiday: 5 days
+Dependence Day: 14 days
+Festival of Jarlsberg: 17 days
+Arrrbor Day: 22 days
+Lab&oacute;r Day: 32 days
+Halloween: 42 days
+Feast of Boris: 49 days
+Yuletide: 54 days
+Valentine's Day: 60 days
+St. Sneaky Pete's Day: 77 days
+Oyster Egg Day: 84 days
+El Dia De Los Muertos Borrachos: 92 days
+
+
+3 days until Muscle.
+
+
+ > status
+
+Name: boolicious
+Class: Sauceror
+
+Lv: 9
+HP: 62 / 62
+MP: 253 / 400
+
+Mus: 56 (49), tnp = 78
+Mys: 200 (72), tnp = 76
+Mox: 52 (45), tnp = 44
+
+Advs: 32
+Meat: 4,358
+
+Full: 15 / 15
+Drunk: 13 / 14
+Spleen: 1 / 15
+
+
+ > equipment
+
+Hat: Ancient Saucehelm
+Weapon: 5-Alarm Saucepan
+Off-hand: Glass Balls of the Goblin King
+Shirt: junk-mail shirt
+Pants: Newman's Own Trousers
+
+Acc. 1: observational glasses
+Acc. 2: Jarlsberg's earring
+Acc. 3: tiny plastic the Free Man
+
+Pet: Yule Hound (15 lbs)
+Item: (none)
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Dog Tired
+ - Transcendent Olfaction
+
+Seal Clubber
+ - Rage of the Reindeer
+ - Tongue of the Walrus
+
+Sauceror
+ - Advanced Saucecrafting
+ - Curse of Marinara
+ - Curse of Vichyssoise
+ - Elemental Saucesphere
+ - Expert Panhandling
+ - Icy Glare
+ - Inner Sauce
+ - Jalapeño Saucesphere
+ - Salsaball
+ - Sauce Contemplation
+ - Saucestorm
+ - Saucy Salve
+ - Simmer
+ - Soul Saucery
+ - Stream of Sauce
+ - Wave of Sauce
+
+Accordion Thief
+ - Brawnee's Anthem of Absorption
+ - Cone of Zydeco
+ - Mariachi Memory
+ - The Magical Mojomuscular Melody
+
+Conditional
+ - Soul Blaze
+ - Soul Bubble
+ - Soul Finger
+ - Soul Food
+ - Soul Funk
+ - Soul Rotation
+
+Mr. Skills
+ - Summon Clip Art
+ - Summon Geeky Gifts
+ - Summon Resolutions
+
+Gnome Trainer
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 4 AT buffs active.
+Soulerskates (2)
+Sugar Rush (53)
+Elemental Saucesphere (72)
+Jalape&ntilde;o Saucesphere (72)
+Everybody Calls Him Gorgon (92)
+Saucemastery (161)
+Yeast-Hungry (213)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +50.00%
+
+Exp: +5.00
+Meat: +15.00%
+Item: +5.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+cobbsknob.php?action=tolabs
+cobbsknob.php?action=tomenagerie
+
+[583] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 46 hit points
+Round 1: boolicious 
+Round 1: boolicious 
+Round 1: boolicious casts SAUCESTORM!
+Round 2: Knob Goblin Alchemist takes 50 damage.
+Round 2: Knob Goblin Alchemist takes 50 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 20 hit points
+After Battle: You gain 13 Mana Points
+After Battle: You gain 6 Strengthliness
+After Battle: You gain 15 Enchantedness
+After Battle: You gain 2 Roguishness
+You gain 4 Soulsauce
+
+[584] Cobb's Knob Laboratory
+Encounter: Knob Goblin Mad Scientist wearing a robot mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: Knob Goblin Mad Scientist takes 50 damage.
+Round 2: Knob Goblin Mad Scientist takes 50 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 10 hit points
+After Battle: You gain 19 Mana Points
+You gain 48 Meat
+After Battle: You gain 6 Strengthliness
+After Battle: You gain 13 Magicalness
+After Battle: You gain 5 Smarm
+You gain 2 Soulsauce
+
+[586] Cobb's Knob Laboratory
+Encounter: Knob Goblin Alchemist wearing a hockey mask
+Round 0: boolicious wins initiative!
+Round 1: You lose 46 hit points
+
+cast 1 Tongue of the Walrus
+You gain 30 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Tongue of the Walrus
+You gain 33 hit points
+
+Harvesting your garden
+You acquire peppermint sprout (3)
+You acquire an item: traditional Crimbo cookie
+
+[586] The Canadian Wildlife Preserve
+Encounter: wild beaver wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: wild beaver takes 1 damage.
+Round 2: wild beaver takes 100 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 10 hit points
+After Battle: You gain 16 Mana Points
+You gain 182 Meat
+After Battle: You gain 13 Strengthliness
+After Battle: You gain 37 Enchantedness
+After Battle: You gain 15 Smarm
+You gain 3 Soulsauce
+
+[587] The Canadian Wildlife Preserve
+Encounter: wild reindeer wearing a murderer mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the Braindeer!
+
+[588] The Canadian Wildlife Preserve
+Encounter: wild walrus wearing a gasmask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: wild walrus takes 1 damage.
+Round 2: wild walrus takes 100 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 13 hit points
+After Battle: You gain 12 Mana Points
+You gain 201 Meat
+After Battle: You gain 13 Strengthliness
+After Battle: You gain 36 Wizardliness
+You gain a Mysticality point!
+After Battle: You gain 16 Roguishness
+You gain 4 Soulsauce
+
+[589] The Canadian Wildlife Preserve
+Encounter: wild reindeer wearing a murderer mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the Braindeer!
+
+[590] The Canadian Wildlife Preserve
+Encounter: wild beaver wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: wild beaver takes 1 damage.
+Round 2: wild beaver takes 100 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 16 hit points
+After Battle: You gain 15 Mana Points
+You gain 189 Meat
+After Battle: You gain 15 Muscleboundness
+After Battle: You gain 37 Magicalness
+After Battle: You gain 13 Cheek
+You gain a Moxie point!
+You gain 4 Soulsauce
+
+[591] The Canadian Wildlife Preserve
+Encounter: wild walrus wearing a gasmask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: wild walrus takes 1 damage.
+Round 2: wild walrus takes 100 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 14 hit points
+After Battle: You gain 19 Mana Points
+You gain 201 Meat
+After Battle: You gain 10 Beefiness
+After Battle: You gain 40 Enchantedness
+After Battle: You gain 16 Chutzpah
+You gain 1 Soulsauce
+
+[592] The Canadian Wildlife Preserve
+Encounter: herd of wild lemmings wearing a snowman mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: herd of wild lemmings takes 1 damage.
+Round 2: herd of wild lemmings takes 200 damage.
+Round 2: boolicious wins the fight!
+Your familiar gains a pound: Sleighbells Sam, the 16 lb. Yule Hound
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 15 hit points
+After Battle: You gain 15 Mana Points
+You gain 166 Meat
+After Battle: You gain 14 Muscleboundness
+After Battle: You gain 38 Enchantedness
+After Battle: You gain 13 Chutzpah
+You gain 2 Soulsauce
+
+[594] The Canadian Wildlife Preserve
+Encounter: wild reindeer wearing a murderer mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the Braindeer!
+
+[594] The Canadian Wildlife Preserve
+Encounter: wild walrus wearing a gasmask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: wild walrus takes 1 damage.
+Round 2: wild walrus takes 100 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 10 hit points
+After Battle: You gain 12 Mana Points
+You gain 177 Meat
+After Battle: You gain 17 Beefiness
+You gain a Muscle point!
+After Battle: You gain 35 Enchantedness
+You gain a Mysticality point!
+After Battle: You gain 14 Cheek
+
+[595] The Canadian Wildlife Preserve
+Encounter: wild moose wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: wild moose takes 3 damage.
+Round 1: You lose 2 hit points
+Round 1: boolicious uses the Braindeer!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: wild moose takes 1 damage.
+Round 2: wild moose takes 100 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 20 hit points
+After Battle: You gain 10 Mana Points
+You gain 162 Meat
+After Battle: You gain 16 Strengthliness
+After Battle: You gain 35 Enchantedness
+After Battle: You gain 15 Roguishness
+
+[596] The Canadian Wildlife Preserve
+Encounter: herd of wild lemmings wearing a snowman mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: herd of wild lemmings takes 1 damage.
+Round 2: herd of wild lemmings takes 200 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 14 hit points
+After Battle: You gain 20 Mana Points
+You gain 149 Meat
+After Battle: You gain 16 Fortitude
+After Battle: You gain 35 Enchantedness
+After Battle: You gain 15 Smarm
+
+[597] The Canadian Wildlife Preserve
+Encounter: wild beaver wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: wild beaver takes 1 damage.
+Round 2: wild beaver takes 100 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 11 hit points
+After Battle: You gain 17 Mana Points
+You gain 179 Meat
+After Battle: You gain 17 Strengthliness
+After Battle: You gain 43 Enchantedness
+After Battle: You gain 7 Chutzpah
+
+cast 1 Jalapeño Saucesphere
+You acquire an effect: Jalape&ntilde;o Saucesphere (10)
+
+cast 1 Jalapeño Saucesphere
+You acquire an effect: Jalape&ntilde;o Saucesphere (10)
+
+cast 1 Rage of the Reindeer
+You acquire an effect: Rage of the Reindeer (10)
+
+cast 1 Soul Food
+You gain 15 Mana Points
+
+cast 1 Elemental Saucesphere
+You acquire an effect: Elemental Saucesphere (10)
+
+cast 1 Elemental Saucesphere
+You acquire an effect: Elemental Saucesphere (10)
+
+cast 1 Icy Glare
+You acquire an effect: Icy Glare (10)
+
+cast 1 Simmer
+You lose 1 Adventure
+You acquire an effect: Simmering (10)
+
+Visiting Brie, the Trainer
+
+guild.php?action=buyskill&skillid=30
+You learned a new skill: Itchy Curse Finger
+guild.php?action=buyskill&skillid=31
+
+Visiting Blaine
+
+Visiting Gorgonzola, the Chief Chef
+
+Visiting the Trapper
+You acquire an item: fuzzy earmuffs
+
+[599] The Canadian Wildlife Preserve
+Encounter: wild reindeer wearing a murderer mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the Braindeer!
+
+[600] The Canadian Wildlife Preserve
+Encounter: herd of wild lemmings wearing a snowman mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious attacks!
+Round 2: herd of wild lemmings takes 18 damage.
+Round 2: You lose 20 hit points
+Round 2: boolicious casts SAUCESTORM!
+Round 3: herd of wild lemmings takes 1 damage.
+Round 3: herd of wild lemmings takes 800 damage.
+Round 3: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 10 hit points
+After Battle: You gain 12 Mana Points
+You gain 161 Meat
+After Battle: You gain 15 Muscleboundness
+After Battle: You gain 33 Mysteriousness
+You gain a Mysticality point!
+After Battle: You gain 17 Roguishness
+You gain a Moxie point!
+You gain 2 Soulsauce
+
+place.php?whichplace=crimbo18&action=c18_tammy
+
+[601] The Canadian Wildlife Preserve
+Encounter: wild walrus wearing a gasmask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: wild walrus takes 1 damage.
+Round 2: wild walrus takes 200 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam barks a few bars of "Jingle Bells." Adorable!
+After Battle: You gain 19 hit points
+After Battle: You gain 15 Mana Points
+You gain 180 Meat
+After Battle: You gain 17 Muscleboundness
+After Battle: You gain 35 Magicalness
+After Battle: You gain 14 Smarm
+You gain 3 Soulsauce
+
+[602] The Canadian Wildlife Preserve
+Encounter: wild reindeer wearing a murderer mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the Braindeer!
+
+[603] The Canadian Wildlife Preserve
+Encounter: herd of wild lemmings wearing a snowman mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: herd of wild lemmings takes 1 damage.
+Round 2: herd of wild lemmings takes 400 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam decks the halls with boughs of holly.
+After Battle: You gain 11 hit points
+After Battle: You gain 11 Mana Points
+You gain 152 Meat
+After Battle: You gain 17 Muscleboundness
+You gain a Muscle point!
+After Battle: You gain 41 Enchantedness
+After Battle: You gain 9 Smarm
+
+[604] The Canadian Wildlife Preserve
+Encounter: wild moose wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: boolicious uses the Braindeer!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: wild moose takes 1 damage.
+Round 2: wild moose takes 200 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 11 hit points
+After Battle: You gain 13 Mana Points
+You gain 157 Meat
+After Battle: You gain 24 Beefiness
+After Battle: You gain 31 Enchantedness
+After Battle: You gain 11 Sarcasm
+
+[605] The Canadian Wildlife Preserve
+Encounter: wild reindeer wearing a murderer mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the Braindeer!
+
+[606] The Canadian Wildlife Preserve
+Encounter: wild walrus wearing a gasmask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: wild walrus takes 1 damage.
+Round 2: wild walrus takes 200 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam jumps up and licks your face. His breath smells like peppermint!
+After Battle: You gain 20 hit points
+After Battle: You gain 14 Mana Points
+You gain 171 Meat
+After Battle: You gain 15 Fortitude
+After Battle: You gain 41 Magicalness
+You gain a Mysticality point!
+After Battle: You gain 11 Chutzpah
+
+[607] The Canadian Wildlife Preserve
+Encounter: wild beaver wearing a monkey mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: wild beaver takes 1 damage.
+Round 2: wild beaver takes 200 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 18 hit points
+After Battle: You gain 20 Mana Points
+You gain 165 Meat
+After Battle: You gain 18 Strongness
+After Battle: You gain 35 Wizardliness
+After Battle: You gain 14 Roguishness
+
+[608] The Canadian Wildlife Preserve
+Encounter: wild moose wearing a ninja mask
+Round 0: boolicious loses initiative!
+Round 1: wild moose takes 2 damage.
+Round 1: You lose 7 hit points
+Round 1: boolicious casts SAUCESTORM!
+Round 2: wild moose takes 1 damage.
+Round 2: wild moose takes 200 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 10 hit points
+After Battle: You gain 10 Mana Points
+You gain 195 Meat
+After Battle: You gain 13 Muscleboundness
+After Battle: You gain 42 Mysteriousness
+After Battle: You gain 12 Cheek
+
+[609] The Canadian Wildlife Preserve
+Encounter: herd of wild lemmings wearing a snowman mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: herd of wild lemmings takes 1 damage.
+Round 2: herd of wild lemmings takes 200 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam frolics in the snow; watching cute animals frolic in the snow is the real true meaning of Crimbo.
+After Battle: You gain 16 hit points
+After Battle: You gain 18 Mana Points
+You gain 167 Meat
+After Battle: You gain 23 Strengthliness
+You gain a Muscle point!
+After Battle: You gain 31 Mysteriousness
+After Battle: You gain 12 Chutzpah
+
+[610] The Canadian Wildlife Preserve
+Encounter: wild reindeer wearing a murderer mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious uses the Braindeer!
+
+[611] The Canadian Wildlife Preserve
+Encounter: Canadian Cabin
+Took choice 1333/2: acquire grilled mooseflank (with mooseflank)
+choice.php?pwd&whichchoice=1333&option=2
+You acquire an item: grilled mooseflank
+
+[612] The Canadian Wildlife Preserve
+Encounter: wild walrus wearing a gasmask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: wild walrus takes 1 damage.
+Round 2: wild walrus takes 100 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 21 hit points
+After Battle: You gain 18 Mana Points
+You gain 159 Meat
+After Battle: You gain 16 Strengthliness
+After Battle: You gain 35 Wizardliness
+You gain a Mysticality point!
+After Battle: You gain 16 Smarm
+You gain a Moxie point!
+
+[613] The Canadian Wildlife Preserve
+Encounter: herd of wild lemmings wearing a snowman mask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: herd of wild lemmings takes 1 damage.
+Round 2: herd of wild lemmings takes 200 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam licks your nose under the mistletoe. D'awww.
+After Battle: You gain 14 hit points
+After Battle: You gain 13 Mana Points
+You gain 177 Meat
+After Battle: You gain 21 Fortitude
+After Battle: You gain 32 Enchantedness
+After Battle: You gain 14 Smarm
+
+[614] The Canadian Wildlife Preserve
+Encounter: wild walrus wearing a gasmask
+Round 0: boolicious wins initiative!
+Round 1: boolicious casts SAUCESTORM!
+Round 2: wild walrus takes 1 damage.
+Round 2: wild walrus takes 100 damage.
+Round 2: boolicious wins the fight!
+After Battle: Sleighbells Sam rolls around and makes a puppy-shaped snow angel. How cute!
+After Battle: You gain 16 hit points
+After Battle: You gain 18 Mana Points
+You gain 166 Meat
+After Battle: You gain 19 Strongness
+After Battle: You gain 36 Wizardliness
+After Battle: You gain 13 Chutzpah
+Visiting Soda Machine in clan rumpus room
+Jumping into the Awesome Ball Pit in the clan rumpus room
+Visiting Potted Meat Tree in clan rumpus room
+
+Visiting Floundry in clan VIP lounge
+
+Visiting Swimming Pool in clan VIP lounge
+
+swimming pool submarine
+You acquire an effect: Silent Running (50)
+
+Visiting Hot Dog Stand in clan VIP lounge
+
+stock Hot Dog Stand with 5 skeleton bones
+
+stock Hot Dog Stand with 3 handfuls of cranberries
