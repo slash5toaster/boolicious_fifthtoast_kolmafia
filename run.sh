@@ -2,7 +2,7 @@
 set -x
 
 #variables
-KM_ROOT=/Users/jonesc47/Library/Application\ Support/KoLmafia
+KM_ROOT="/Users/jonesc47/Library/Application Support/KoLmafia"
 
 HOST=$(hostname | cut -d'.' -f1 | tr '[:upper:]' '[:lower:]')
 GITREMOTE=github
