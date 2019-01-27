@@ -1,25 +1,9 @@
 [ apathetic ]
 
-[ bangpotions ]
-lose_effect izchak's blessing => use 1 potion of blessing
-lose_effect song of accompaniment => cast 1 song of accompaniment
-lose_effect strange mental acuity => use 1 potion of teleportitis
-lose_effect strength of ten ettins => use 1 potion of detection
-
-[ dec13 ]
-lose_effect al dente inferno => cast 2 transcendent al dente
-lose_effect pasta oneness => cast 2 manicotti meditation
-
 [ default ]
-lose_effect belch the rainbow&trade; => use 2 piddles
-lose_effect destructive resolve => use 2 resolution: be feistier
-lose_effect standard issue bravery => use 2 csa bravery badge
-
-[ power ]
-lose_effect aspect of the twinklefairy => chew 1 twinkly wad
-lose_effect belch the rainbow&trade; => use 2 piddles
-lose_effect destructive resolve => use 2 resolution: be feistier
-lose_effect standard issue bravery => use 2 csa bravery badge
-lose_effect strange mental acuity => use 1 potion of mental acuity
-lose_effect trivia master => use 1 Trivial Avocations Card: What?, 1 Trivial Avocations Card: When?, 1 Trivial Avocations Card: Who?, 1 Trivial Avocations Card: Where?
+gain_effect beaten up => uneffect Beaten Up
+lose_effect arched eyebrow of the archmage => cast 1 arched eyebrow of the archmage
+lose_effect pasta oneness => cast 5 manicotti meditation
+lose_effect shield of the pastalord => cast 2 shield of the pastalord
+lose_effect springy fusilli => cast 1 springy fusilli
 
