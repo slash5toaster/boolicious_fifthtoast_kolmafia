@@ -2,7 +2,7 @@
 set -x
 
 #variables
-KM_ROOT=~/.kolmafia
+KM_ROOT=/Users/jonesc47/Library/Application\ Support/KoLmafia
 KM_BUILD_URL=https://ci.kolmafia.us/job/Kolmafia/lastSuccessfulBuild/artifact/dist/
 
 export KM_VERSION=$(svn log -r HEAD -l 1 \

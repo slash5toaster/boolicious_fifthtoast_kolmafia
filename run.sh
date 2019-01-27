@@ -1,6 +1,8 @@
 #!/bin/bash
+set -x
 
-#added comment for testing
+#variables
+KM_ROOT=/Users/jonesc47/Library/Application\ Support/KoLmafia
 
 HOST=$(hostname | cut -d'.' -f1 | tr '[:upper:]' '[:lower:]')
 GITREMOTE=github
@@ -18,7 +20,7 @@ case $HOST in
        ;;
 esac
 
-pushd ~/.kolmafia/
+cd $KM_ROOT/
 git fetch --all -p
 git commit -a -m  $(date +%F-%H%M)
 $JAVABIN -jar ~/.kolmafia/KoLmafia-latest.jar
@@ -37,3 +39,6 @@ popd
 
 git commit -a -m  $(date +%F-%H%M)
 popd
+
+# End of file, if this is missing the file is truncated
+###################################################################################################
