@@ -603,3 +603,298 @@ After Battle: You gain 27 Magicalness
 You gain a Mysticality point!
 After Battle: You gain 18 Roguishness
 This combat did not cost a turn
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               Player Snapshot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ > moon
+
+January 27, 2019 - Porktober 8
+
+Ronald: waning crescent
+Grimace: waning crescent
+Mini-moon: far right
+
+Halloween: today
+Feast of Boris: 7 days
+Yuletide: 12 days
+Festival of Jarlsberg: 17 days
+Valentine's Day: 18 days
+St. Sneaky Pete's Day: 35 days
+Oyster Egg Day: 42 days
+El Dia De Los Muertos Borrachos: 50 days
+Generic Summer Holiday: 59 days
+Dependence Day: 68 days
+Arrrbor Day: 76 days
+Lab&oacute;r Day: 86 days
+
+Halloween
+Moxie bonus today and tomorrow.
+
+
+ > status
+
+Name: fifthtoast
+Class: Pastamancer
+
+Lv: 13
+HP: 382 / 402
+MP: 631 / 686
+
+Mus: 252 (117), tnp = 96
+Mys: 444 (164), tnp = 313
+Mox: 261 (124), tnp = 77
+
+Advs: 190
+Meat: 72,287
+
+Full: 0 / 15
+Drunk: 0 / 19
+Spleen: 0 / 15
+
+
+ > equipment
+
+Hat: Colander of Em-er'il
+Weapon: Wrath of the Capsaician Pastalords
+Off-hand: black shield
+Shirt: ASCII shirt
+Pants: Angelhair Culottes
+Back: Misty Robe
+
+Acc. 1: astral ring
+Acc. 2: World's Best Adventurer sash
+Acc. 3: Bandolier of the Spaghetti Elemental
+
+Pet: MiniMechaElf (1 lbs)
+Item: little bitty bathysphere
+
+ > skills
+
+Uncategorized
+ - CLEESH
+ - Liver of Steel
+
+Seal Clubber
+ - Tongue of the Walrus
+
+Pastamancer
+ - Arched Eyebrow of the Archmage
+ - Bind Angel Hair Wisp
+ - Bind Lasagmbie
+ - Bind Penne Dreadful
+ - Bind Spaghetti Elemental
+ - Bind Undead Elbow Macaroni
+ - Bind Vampieroghi
+ - Bind Vermincelli
+ - Bringing Up the Rear
+ - Cannelloni Cannon
+ - Cannelloni Cocoon
+ - Canticle of Carboloading
+ - Entangling Noodles
+ - Lasagna Bandages
+ - Leash of Linguini
+ - Manicotti Meditation
+ - Pastamastery
+ - Ravioli Shurikens
+ - Shield of the Pastalord
+ - Spaghetti Spear
+ - Spirit of Ravioli
+ - Spirit of Rigatoni
+ - Springy Fusilli
+ - Stuffed Mortar Shell
+ - Subtle and Quick to Anger
+ - Thrall Unit Tactics
+ - Tolerance of the Kitchen
+ - Transcendent Al Dente
+ - Utensil Twist
+ - Weapon of the Pastalord
+
+Sauceror
+ - Saucy Salve
+
+Disco Bandit
+ - Ambidextrous Funkslinging
+
+Conditional
+ - Dismiss Pasta Thrall
+ - Noodles of Fire
+
+The Source
+ - Big Guns
+ - Bullet Time
+ - Code Block
+ - Data Siphon
+ - Disarmament
+ - Humiliating Hack
+ - Overclocked
+ - Reboot
+ - Restore
+ - Source Kick
+ - Source Punch
+ - True Disbeliever
+
+Gnome Trainer
+ - Gnomish Hardigness
+ - Torso Awaregness
+
+
+ > effects
+
+0 of 3 AT buffs active.
+Shield of the Pastalord (10)
+Pasta Oneness (16)
+Trivia Master (20)
+On Pins and Needles (390)
+Astral Shell (11,899)
+Ghostly Shell (11,899)
+Reptilian Fortitude (11,899)
+
+
+ > modifiers
+
+ML: +0
+Enc: +0.00%
+Init: +118.00%
+
+Exp: +0.00
+Meat: +0.00%
+Item: +0.00%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+use 1 willyweed
+You acquire an effect: Wet Willied (30)
+
+use 1 Mortimer's nostrum
+You acquire an effect: Limber as Mortimer (10)
+
+use 1 Trivial Avocations Card: Who?
+You acquire an effect: You Know Who to Call (1)
+Trivia card #837/1200:
+Question: What player for the Waxton Pretty Investment Bankers was inducted into the Hall of Fame for his or her last-second tackle in the 1997 thunderball championship?
+Answer: Vice-Viceroy Max II's dog.
+
+use 1 Trivial Avocations Card: Where?
+You acquire an effect: You Know Where to Go (1)
+Trivia card #982/1200:
+Question: Where did Li'l Leo Nite, inventor of the positronic cousin, get caught frakking a daggit?
+Answer: The Anger Coulee.
+
+use 1 Trivial Avocations Card: What?
+You acquire an effect: You Know What's Up (1)
+Trivia card #227/1200:
+Question: What was needed to defeat The Dragon Warlock Grimtooth in level 4, "Dripflat", in the popular video game "Dragon Snake VII"?
+Answer: A red raven.
+
+use 1 Trivial Avocations Card: When?
+You lose an effect: You Know What's Up (-1)
+You lose an effect: You Know Who to Call (-1)
+You lose an effect: You Know Where to Go (-1)
+You acquire an effect: Trivia Master (30)
+Trivia card #433/1200:
+Question: When did Mr. Clayton O'Reilly win the Nobel Prize for Chaos Theory?
+Answer: According to the old calendar, the sixth day of the Month of the Chicken in the Year of the Xylophone.
+
+chew 1 giant moxie weed
+You gain 6 Chutzpah
+
+mall.php?category=allitems&consumable_byme=0&weaponattribute=3&wearable_byme=0&nolimits=0&max_price=0&sortresultsby=price&justitems=0&x_cheapest=5&pudnuggler=%22willyweed%22
+
+buy 3 willyweed for 3800 each from shop #121043 on 20190127
+
+use 1 willyweed
+You acquire an effect: Wet Willied (30)
+
+equip back old SCUBA tank
+
+equip shirt Ultracolor™ shirt
+
+[3098] An Octopus's Garden
+Encounter: sponge
+Round 0: fifthtoast loses initiative!
+Round 1: You lose 79 hit points
+Round 1: fifthtoast attacks!
+Round 2: sponge takes 13 damage.
+Round 2: Nickle Plated Gumball launches his Sienna Chair Collecting II missile for 11 damage.
+Round 2: sponge takes 11 damage.
+Round 2: You lose 65 hit points
+Round 2: fifthtoast casts NOODLES OF FIRE!
+Round 3: Nickle Plated Gumball throws an Ultimate Javelin punch with his ocelot arm, doing 1 damage.
+Round 3: sponge takes 1 damage.
+Round 3: sponge takes 47 damage.
+Round 3: fifthtoast casts STUFFED MORTAR SHELL!
+Round 4: Nickle Plated Gumball throws a Devilish Indigo punch with his wombat arm, doing 1 damage.
+Round 4: sponge takes 1 damage.
+Round 4: sponge takes 49 damage.
+Round 4: fifthtoast casts SPAGHETTI SPEAR!
+Round 5: sponge takes 8 damage.
+Round 5: Nickle Plated Gumball launches his Nausicaa of the Moon missile for 10 damage.
+Round 5: sponge takes 10 damage.
+Round 5: sponge takes 326 damage.
+Round 5: sponge takes 41 damage.
+Round 5: fifthtoast casts SPAGHETTI SPEAR!
+Round 6: sponge takes 8 damage.
+Round 6: Nickle Plated Gumball throws a Devilish Indigo punch with his wombat arm, doing 1 damage.
+Round 6: sponge takes 1 damage.
+Round 6: You lose 64 hit points
+Round 6: fifthtoast casts CANNELLONI CANNON!
+Round 7: sponge takes 110 damage.
+Round 7: Nickle Plated Gumball does a Thousand Tiny Cranes attack with his opossum shin, for 1 damage.
+Round 7: sponge takes 1 damage.
+Round 7: You lose 72 hit points
+Round 7: fifthtoast casts CANNELLONI CANNON!
+Round 8: sponge takes 110 damage.
+Round 8: Nickle Plated Gumball launches his Witch Deeper Regios missile for 10 damage.
+Round 8: sponge takes 10 damage.
+Round 8: You lose 63 hit points
+Round 8: fifthtoast casts CANNELLONI CANNON!
+Round 9: sponge takes 220 damage.
+Round 9: Nickle Plated Gumball throws a Dragon Taco knee on it for 1 damage with his gibbon knee.
+Round 9: sponge takes 1 damage.
+Round 9: You lose 68 hit points
+
+cast 1 Tongue of the Walrus
+You gain 40 hit points
+You lose an effect: Beaten Up (0)
+
+cast 1 Cannelloni Cocoon
+You gain 362 hit points
+
+[3100] The Briny Deeps
+Encounter: school of wizardfish
+Round 0: fifthtoast loses initiative!
+Round 1: fifthtoast attacks!
+Round 2: school of wizardfish takes 11 damage.
+Round 2: Nickle Plated Gumball does a Soul Tornado kick on them for 1 damage with his lemur foot.
+Round 2: school of wizardfish takes 1 damage.
+Round 2: You lose 32 hit points
+Round 2: fifthtoast casts CANNELLONI CANNON!
+Round 3: school of wizardfish takes 220 damage.
+Round 3: Nickle Plated Gumball throws a Dragon Taco knee on them for 1 damage with his gibbon knee.
+Round 3: school of wizardfish takes 1 damage.
+Round 3: You lose 27 hit points
+Round 3: fifthtoast casts NOODLES OF FIRE!
+Round 4: Nickle Plated Gumball throws a Devilish Indigo punch with his wombat arm, doing 1 damage.
+Round 4: school of wizardfish takes 1 damage.
+Round 4: school of wizardfish takes 46 damage.
+Round 4: fifthtoast casts STUFFED MORTAR SHELL!
+Round 5: Nickle Plated Gumball throws an Intimate Fashion attack with his armadillo shin, for 1 damage.
+Round 5: school of wizardfish takes 1 damage.
+Round 5: school of wizardfish takes 32 damage.
+Round 5: fifthtoast attacks!
+Round 6: school of wizardfish takes 11 damage.
+Round 6: Nickle Plated Gumball throws an Ultimate Javelin punch with his ocelot arm, doing 1 damage.
+Round 6: school of wizardfish takes 1 damage.
+Round 6: school of wizardfish takes 948 damage.
+Round 6: school of wizardfish takes 43 damage.
+Round 6: fifthtoast wins the fight!
+After Battle: Shoooooshooooo looks more powerful...
+You gain 208 Meat
+After Battle: You gain 16 Muscleboundness
+After Battle: You gain 40 Wizardliness
+After Battle: You gain 27 Smarm
