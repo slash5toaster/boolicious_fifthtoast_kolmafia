@@ -20,10 +20,10 @@ case $HOST in
        ;;
 esac
 
-cd $KM_ROOT/
+cd "$KM_ROOT/"
 git fetch --all -p
 git commit -a -m  $(date +%F-%H%M)
-$JAVABIN -jar ~/.kolmafia/KoLmafia-latest.jar
+$JAVABIN -jar "$KM_ROOT/KoLmafia-latest.jar"
 git push
 
 pushd sessions
