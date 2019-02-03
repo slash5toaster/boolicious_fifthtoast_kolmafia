@@ -22,9 +22,8 @@ esac
 
 cd "$KM_ROOT/"
 git fetch --all -p
-git commit -a -m  $(date +%F-%H%M)
+# git commit -a -m  $(date +%F-%H%M)
 $JAVABIN -jar "$KM_ROOT/KoLmafia-latest.jar"
-git push
 
 pushd "$KM_ROOT/sessions"
 git add *$(date -u +%Y%m%d)*
@@ -38,7 +37,7 @@ git add *$(date +%Y%m%d)*
 popd
 
 git commit -a -m  $(date +%F-%H%M)
-popd
+git push
 
 # End of file, if this is missing the file is truncated
 ###################################################################################################
