@@ -26,13 +26,13 @@ git commit -a -m  $(date +%F-%H%M)
 $JAVABIN -jar "$KM_ROOT/KoLmafia-latest.jar"
 git push
 
-pushd sessions
+pushd "$KM_ROOT/sessions"
 git add *$(date -u +%Y%m%d)*
 git add *$(date +%Y%m%d)*
 popd
 
 # add sessions
-pushd chats
+pushd "$KM_ROOT/chats"
 git add *$(date -u +%Y%m%d)*
 git add *$(date +%Y%m%d)*
 popd
