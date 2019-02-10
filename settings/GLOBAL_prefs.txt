@@ -21,7 +21,7 @@ chatFontSize=medium
 chatLinksUseRelay=false
 chatStyle=0
 cloverProtectActive=true
-coinMasterIndex=9
+coinMasterIndex=13
 combatHotkey0
 combatHotkey1
 combatHotkey2
@@ -77,7 +77,7 @@ innerChatColor=\#ffa98c
 innerTabColor=\#8ca9ff
 itemManagerIndex=14
 lastBuffRequestType=1
-lastGlobalCounterDay=1549769400
+lastGlobalCounterDay=1549855799
 lastImageCacheClear=1419839731534
 lastRelayUpdate=KoLmafia v18.11 r19094
 lastRssUpdate=1549741012085
