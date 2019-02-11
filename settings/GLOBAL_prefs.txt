@@ -75,12 +75,12 @@ initialDesktop=CommandDisplayFrame,AdventureFrame,ItemManageFrame,MallSearchFram
 initialFrames
 innerChatColor=\#ffa98c
 innerTabColor=\#8ca9ff
-itemManagerIndex=14
+itemManagerIndex=4
 lastBuffRequestType=1
 lastGlobalCounterDay=1549855799
 lastImageCacheClear=1419839731534
 lastRelayUpdate=KoLmafia v18.11 r19094
-lastRssUpdate=1549741012085
+lastRssUpdate=1549849113733
 lastRssVersion=KoLmafia v18.11
 lastUserAgent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
 lastUsername=boolicious
