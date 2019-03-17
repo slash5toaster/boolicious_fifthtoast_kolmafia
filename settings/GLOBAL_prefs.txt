@@ -46,7 +46,7 @@ debugFoxtrotRemoval=false
 debugPathnames=true
 defaultBorderColor=blue
 defaultDropdown1=0
-defaultDropdown2=0
+defaultDropdown2=7
 defaultDropdownSplit=-1
 defaultLimit=5
 displayName
@@ -77,7 +77,7 @@ innerChatColor=\#ffa98c
 innerTabColor=\#8ca9ff
 itemManagerIndex=6
 lastBuffRequestType=1
-lastGlobalCounterDay=1552188601
+lastGlobalCounterDay=1552879798
 lastImageCacheClear=1419839731534
 lastRelayUpdate=KoLmafia v18.11 r19136
 lastRssUpdate=1552718416841
