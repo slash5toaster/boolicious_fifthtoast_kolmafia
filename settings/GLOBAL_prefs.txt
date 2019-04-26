@@ -75,12 +75,12 @@ initialDesktop=CommandDisplayFrame,AdventureFrame,ItemManageFrame,MallSearchFram
 initialFrames
 innerChatColor=\#ffa98c
 innerTabColor=\#8ca9ff
-itemManagerIndex=6
+itemManagerIndex=4
 lastBuffRequestType=1
-lastGlobalCounterDay=1555385399
+lastGlobalCounterDay=1556335799
 lastImageCacheClear=1419839731534
-lastRelayUpdate=KoLmafia v18.11 r19176
-lastRssUpdate=1555301741780
+lastRelayUpdate=KoLmafia v18.11 r19193
+lastRssUpdate=1556279667516
 lastRssVersion=KoLmafia v18.11
 lastUserAgent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
 lastUsername=boolicious
@@ -112,7 +112,7 @@ outerChatColor=\#b4460f
 outerTabColor=\#0f46b4
 preferredWebBrowser
 previousNotifyList=<>
-previousUpdateRevision=19176
+previousUpdateRevision=19193
 previousUpdateVersion=KoLmafia v18.11
 printStackOnAbort=false
 protectAgainstOverdrink=true
