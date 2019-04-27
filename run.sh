@@ -20,18 +20,20 @@ case $HOST in
        ;;
 esac
 
-cd "$KM_ROOT/"
+${KM_ROOT}/update.sh 
+
+cd "${KM_ROOT}/"
 git fetch --all -p
 # git commit -a -m  $(date +%F-%H%M)
-$JAVABIN -jar "$KM_ROOT/KoLmafia-latest.jar"
+$JAVABIN -jar "${KM_ROOT}/KoLmafia-latest.jar"
 
-pushd "$KM_ROOT/sessions"
+pushd "${KM_ROOT}/sessions"
 git add *$(date -u +%Y%m%d)*
 git add *$(date +%Y%m%d)*
 popd
 
 # add sessions
-pushd "$KM_ROOT/chats"
+pushd "${KM_ROOT}/chats"
 git add *$(date -u +%Y%m%d)*
 git add *$(date +%Y%m%d)*
 popd
